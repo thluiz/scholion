@@ -1,0 +1,27 @@
+theme = "blowfish"
+baseURL = "https://scholion.thluiz.com/"
+defaultContentLanguage = "pt-br"
+languageCode = "pt-BR"
+title = "Scholion"
+
+enableRobotsTXT = true
+enableEmoji = true
+summaryLength = 30
+
+buildDrafts = false
+buildFuture = false
+
+[pagination]
+  pagerSize = 60
+
+[taxonomies]
+  tag = "tags"
+  source = "sources"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

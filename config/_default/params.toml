@@ -1,0 +1,39 @@
+colorScheme = "scholion"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = false
+
+mainSections = ["notes"]
+
+[header]
+  layout = "basic"
+
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = false
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "custom"
+  showRecent = false
+
+[article]
+  showDate = true
+  showDateOnlyInArticle = false
+  showAuthor = false
+  showBreadcrumbs = false
+  showReadingTime = false
+  showWordCount = false
+  showPagination = false
+  showTaxonomies = true
+  showHeadingAnchors = true
+
+[list]
+  showBreadcrumbs = false
+  showSummary = true
+  groupByYear = false
+  cardView = false   # nosso override de layout cuida do mosaico

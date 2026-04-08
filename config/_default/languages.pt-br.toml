@@ -1,0 +1,20 @@
+languageCode = "pt-BR"
+languageName = "Português"
+weight = 1
+title = "Scholion"
+
+[params]
+  displayName = "PT"
+  isoCode = "pt-br"
+  rtl = false
+  dateFormat = "2 Jan 2006"
+  description = "Marginalia, glosas e anotações de leituras"
+
+[author]
+  name = "Thiago Silva"
+  # image = ""
+  headline = "Marginalia"
+  bio = "Notas, glosas e fragmentos do que leio, escuto e assisto."
+  links = [
+    { github = "https://github.com/thluiz" },
+  ]
