@@ -1,0 +1,55 @@
+{{ define "main" }}
+  {{ $notes := where site.RegularPages "Section" "notes" }}
+  <section class="scholion-list">
+    <header class="scholion-list-header">
+      <h1>Scholion</h1>
+      <p class="scholion-desc">Marginalia, glosas e fragmentos do que leio, escuto e assisto.</p>
+      <p class="scholion-count">{{ len $notes }} notas</p>
+
+      <nav class="scholion-filters" aria-label="Filtros">
+        <button data-filter="all" class="scholion-chip active">Todas</button>
+        <button data-filter="commentary" class="scholion-chip">Com comentário</button>
+        <button data-filter="gloss" class="scholion-chip">Glosas</button>
+      </nav>
+    </header>
+
+    <ul class="scholion-grid">
+      {{ range $notes.ByDate.Reverse }}
+        {{ $kind := cond (.Params.has_commentary | default false) "commentary" "gloss" }}
+        <li class="scholion-card scholion-card--{{ $kind }}" data-kind="{{ $kind }}">
+          <a href="{{ .RelPermalink }}">
+            <div class="scholion-card-body">
+              <h2 class="scholion-card-title">{{ .Title }}</h2>
+              {{ with .Params.summary }}
+                <p class="scholion-card-summary">{{ . }}</p>
+              {{ end }}
+            </div>
+            <div class="scholion-card-meta">
+              {{ with .Params.tags }}
+                <ul class="scholion-card-tags">
+                  {{ range first 3 . }}<li>#{{ . }}</li>{{ end }}
+                </ul>
+              {{ end }}
+              <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+            </div>
+            {{ if .Params.has_commentary }}
+              <span class="scholion-card-mark" title="com comentário">●</span>
+            {{ end }}
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+  </section>
+
+  <script>
+    document.querySelectorAll('.scholion-filters button').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const f = btn.dataset.filter;
+        document.querySelectorAll('.scholion-filters button').forEach(b => b.classList.toggle('active', b === btn));
+        document.querySelectorAll('.scholion-card').forEach(c => {
+          c.style.display = (f === 'all' || c.dataset.kind === f) ? '' : 'none';
+        });
+      });
+    });
+  </script>
+{{ end }}

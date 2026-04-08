@@ -1,0 +1,40 @@
+{{ define "main" }}
+  <article class="scholion-note">
+    <header class="scholion-note-header">
+      <p class="scholion-back"><a href="{{ "/notes/" | relURL }}">← todas as notas</a></p>
+      <h1>{{ .Title }}</h1>
+      <div class="scholion-note-meta">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+        {{ if .Params.has_commentary }}<span class="scholion-badge">com comentário</span>{{ else }}<span class="scholion-badge scholion-badge--gloss">glosa</span>{{ end }}
+      </div>
+      {{ with .Params.tags }}
+        <ul class="scholion-note-tags">
+          {{ range . }}<li>#{{ . }}</li>{{ end }}
+        </ul>
+      {{ end }}
+    </header>
+
+    <div class="scholion-note-body">
+      {{ .Content }}
+    </div>
+
+    {{ with .Params.sources }}
+      <aside class="scholion-sources">
+        <h2>Fontes</h2>
+        <ol>
+          {{ range . }}
+            <li class="scholion-source scholion-source--{{ .kind | default "other" }}">
+              {{ if .url }}<a href="{{ .url }}" rel="noopener" target="_blank">{{ end }}
+              <span class="scholion-source-title">{{ .title }}</span>
+              {{ if .url }}</a>{{ end }}
+              {{ with .author }}<span class="scholion-source-author"> — {{ . }}</span>{{ end }}
+              {{ with .year }}<span class="scholion-source-year"> ({{ . }})</span>{{ end }}
+              {{ with .publisher }}<span class="scholion-source-publisher">, {{ . }}</span>{{ end }}
+              {{ with .kind }}<span class="scholion-source-kind">[{{ . }}]</span>{{ end }}
+            </li>
+          {{ end }}
+        </ol>
+      </aside>
+    {{ end }}
+  </article>
+{{ end }}

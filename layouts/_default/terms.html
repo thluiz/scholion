@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <header class="scholion-list-header">
+    <h1>{{ .Title }}</h1>
+    <p class="scholion-count">{{ len .Data.Terms }} tags</p>
+  </header>
+
+  <ul class="scholion-tag-cloud">
+    {{ range .Data.Terms.ByCount }}
+      <li>
+        <a href="{{ .Page.RelPermalink }}">
+          <span class="scholion-tag-name">#{{ .Page.Title }}</span>
+          <span class="scholion-tag-count">{{ .Count }}</span>
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}
