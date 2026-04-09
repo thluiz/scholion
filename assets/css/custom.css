@@ -208,15 +208,9 @@
   margin: 0;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1024px) {
   .scholion-grid {
     grid-template-columns: repeat(4, 1fr);
-  }
-}
-
-@media (min-width: 1800px) {
-  .scholion-grid {
-    grid-template-columns: repeat(5, 1fr);
   }
 }
 
