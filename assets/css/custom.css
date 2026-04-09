@@ -57,6 +57,37 @@
   }
 }
 
+/* === Accessibility — focus rings + reduced motion === */
+:focus-visible {
+  outline: 2px solid rgb(var(--color-primary-500));
+  outline-offset: 2px;
+  border-radius: 0.25rem;
+}
+
+.scholion-card a:focus-visible {
+  outline-offset: -2px;
+  border-radius: 0.5rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+  }
+  .scholion-card:hover,
+  .scholion-tag-cloud a:hover,
+  .scholion-home-tags a:hover,
+  .scholion-related li a:hover,
+  .scholion-note-nav-prev:hover,
+  .scholion-note-nav-next:hover {
+    transform: none !important;
+  }
+}
+
 /* === Scholion custom layout === */
 
 .scholion-list {
@@ -207,8 +238,8 @@
 
 .scholion-card-summary {
   font-size: 0.78rem;
-  line-height: 1.45;
-  color: rgb(var(--color-neutral-600));
+  line-height: 1.5;
+  color: rgb(var(--color-neutral-700));
   margin: 0;
   display: -webkit-box;
   -webkit-line-clamp: 4;
@@ -217,7 +248,7 @@
 }
 
 .dark .scholion-card-summary {
-  color: rgb(var(--color-neutral-400));
+  color: rgb(var(--color-neutral-300));
 }
 
 .scholion-card-meta {
