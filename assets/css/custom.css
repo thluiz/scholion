@@ -54,6 +54,16 @@
   margin-bottom: 1rem;
 }
 
+.scholion-count time {
+  color: rgb(var(--color-neutral-600));
+  font-variant-numeric: tabular-nums;
+}
+
+.scholion-count-sep {
+  margin: 0 0.4rem;
+  opacity: 0.6;
+}
+
 /* Filtros */
 .scholion-filters {
   display: flex;
