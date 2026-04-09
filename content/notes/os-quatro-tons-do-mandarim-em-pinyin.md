@@ -9,7 +9,19 @@ tags:
 - tons
 - chines-instrumental
 has_commentary: true
-sources: []
+sources:
+- title: Standard Chinese phonology — Wikipedia
+  url: https://en.wikipedia.org/wiki/Standard_Chinese_phonology
+  kind: wiki
+- title: Tone sandhi — Wikipedia
+  url: https://en.wikipedia.org/wiki/Tone_sandhi
+  kind: wiki
+- title: 'Yip, Po-Ching & Rimmington, Don. *Chinese: A Comprehensive Grammar* (2nd ed., Routledge)'
+  url: https://www.routledge.com/Chinese-A-Comprehensive-Grammar/Yip-Rimmington/p/book/9781138840164
+  kind: book
+- title: I Encontro de Chinês Instrumental
+  url: ./i-encontro-chines-instrumental.md
+  kind: note
 ---
 
 O Mandarim tem quatro tons marcados no Pinyin por um diacrítico sobre a vogal, mais um quinto tom neutro sem marca. O exemplo clássico é a sílaba *ma*, que muda de significado conforme o tom: *mā* (媽, mãe), *má* (麻, cânhamo), *mǎ* (馬, cavalo), *mà* (罵, xingar), *ma* (嗎, partícula interrogativa). Há [áudio dos quatro tons na Wikimedia](https://upload.wikimedia.org/wikipedia/commons/6/64/Zh-pinyin_tones_with_ma.ogg) usando exatamente essa sílaba, e ouvir uma vez ajuda mais do que qualquer descrição escrita.
@@ -30,9 +42,3 @@ A marca tonal sempre cai sobre a vogal principal da sílaba, e a ordem de priori
 - **Sandhi do *bù*** (不, não). A negação *bù* tem tom 4 por padrão, mas vira tom 2 antes de outra sílaba em tom 4. *Bú shì* (不是, não é) é o exemplo canônico. Antes de tons 1, 2 ou 3, *bù* mantém o tom 4.
 
 Sandhi é o lugar onde o Pinyin escrito mente um pouco para preservar a etimologia. A escrita guarda o tom original, a fala obedece ao contexto, e o leitor treinado aprende a ler o que está escrito enquanto pronuncia o que sai de fato.
-
-Fontes:
-- [Standard Chinese phonology — Wikipedia](https://en.wikipedia.org/wiki/Standard_Chinese_phonology)
-- [Tone sandhi — Wikipedia](https://en.wikipedia.org/wiki/Tone_sandhi)
-- [Yip, Po-Ching & Rimmington, Don. *Chinese: A Comprehensive Grammar* (2nd ed., Routledge)](https://www.routledge.com/Chinese-A-Comprehensive-Grammar/Yip-Rimmington/p/book/9781138840164)
-- [I Encontro de Chinês Instrumental](./i-encontro-chines-instrumental.md)

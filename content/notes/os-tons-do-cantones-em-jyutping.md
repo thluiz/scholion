@@ -10,7 +10,19 @@ tags:
 - tons
 - chines-instrumental
 has_commentary: true
-sources: []
+sources:
+- title: Cantonese phonology — Wikipedia
+  url: https://en.wikipedia.org/wiki/Cantonese_phonology
+  kind: wiki
+- title: Jyutping — Wikipedia
+  url: https://en.wikipedia.org/wiki/Jyutping
+  kind: wiki
+- title: MDBG English to Chinese dictionary
+  url: https://www.mdbg.net/chinese/dictionary
+  kind: article
+- title: I Encontro de Chinês Instrumental
+  url: ./i-encontro-chines-instrumental.md
+  kind: note
 ---
 
 A contagem de tons do Cantonês depende de quem está contando. A análise moderna padrão, usada pelo Jyutping (a romanização oficial do Cantonês de Hong Kong) e por dicionários como o MDBG, fala em **seis tons**. A contagem tradicional fala em **nove**, somando três *entering tones* que são versões curtas dos tons 1, 3 e 6 em sílabas terminadas em -p, -t, -k. Em Guangzhou ainda se conta um sétimo, uma distinção entre alto plano e alto descendente que Hong Kong fundiu no século passado. Tudo isso fala da mesma língua, só com convenções de corte diferentes.
@@ -33,9 +45,3 @@ Os três tons restantes da contagem tradicional, chamados *entering tones* (入�
 Foi por preservar essa distinção *yin / yang* (阴/阳, alta/baixa) em todas as séries tonais que o Cantonês acabou com mais tons que o Mandarim. Os quatro tons do Chinês Médio se desdobraram em pares de altura conforme o vozeamento da consoante inicial original, e o Cantonês reteve a divisão. O Mandarim, que perdeu a oposição de vozeamento, colapsou várias dessas distinções e ficou com quatro. É por isso que poesia clássica Tang soa mais próxima do original em Cantonês: a métrica tonal das rimas antigas ainda funciona.
 
 Mais tons significa mais densidade semântica por sílaba, e também mais espaço para erro de quem está aprendendo, como já registrei em [Cantonês exige ouvido mais treinado](./cantones-exige-ouvido-mais-treinado.md). Os tons 3 e 6 (médio plano e baixo plano) são especialmente difíceis de distinguir para um ouvido brasileiro porque o português não tem nada parecido com tom de altura fixa.
-
-Fontes:
-- [Cantonese phonology — Wikipedia](https://en.wikipedia.org/wiki/Cantonese_phonology)
-- [Jyutping — Wikipedia](https://en.wikipedia.org/wiki/Jyutping)
-- [MDBG English to Chinese dictionary](https://www.mdbg.net/chinese/dictionary)
-- [I Encontro de Chinês Instrumental](./i-encontro-chines-instrumental.md)
