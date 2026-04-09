@@ -1,51 +1,109 @@
 {{ define "main" }}
   {{ $allNotes := where site.RegularPages "Section" "notes" }}
+  {{ $sorted := $allNotes.ByDate.Reverse }}
   {{ $pinned := (where $allNotes "Params.pinned" true).ByDate.Reverse }}
-  {{ $unpinned := (where $allNotes "Params.pinned" "!=" true).ByDate.Reverse }}
-  {{ $combined := slice }}
-  {{ range $pinned }}{{ $combined = $combined | append . }}{{ end }}
-  {{ range $unpinned }}{{ $combined = $combined | append . }}{{ end }}
-  {{ $paginator := .Paginate $combined 40 }}
+  {{ $recent := first 12 $sorted }}
+  {{ $latest := index $sorted 0 }}
 
-  <section class="scholion-list">
+  {{/* Top tags by count */}}
+  {{ $tagsList := slice }}
+  {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+    {{ $tagsList = $tagsList | append (dict "name" $name "count" (len $taxonomy.Pages)) }}
+  {{ end }}
+  {{ $topTags := first 12 (sort $tagsList "count" "desc") }}
+
+  <section class="scholion-home">
     <header class="scholion-list-header">
       <h1>Scholion</h1>
       <p class="scholion-desc">Marginalia, glosas e fragmentos do que leio, escuto e assisto.</p>
-      {{ $latest := index ($allNotes.ByDate.Reverse) 0 }}
       <p class="scholion-count">{{ len $allNotes }} notas <span class="scholion-count-sep">·</span> última: <time datetime="{{ $latest.Date.Format "2006-01-02" }}">{{ $latest.Date.Format "2 Jan 2006" }}</time></p>
     </header>
 
-    <ul class="scholion-grid">
-      {{ range $paginator.Pages }}
-        {{ $kind := cond (.Params.has_commentary | default false) "commentary" "gloss" }}
-        {{ $isPinned := .Params.pinned | default false }}
-        <li class="scholion-card scholion-card--{{ $kind }}{{ if $isPinned }} scholion-card--pinned{{ end }}" data-kind="{{ $kind }}">
-          <a href="{{ .RelPermalink }}">
-            <div class="scholion-card-body">
-              <h2 class="scholion-card-title">{{ .Title }}</h2>
-              {{ with .Params.summary }}
-                <p class="scholion-card-summary">{{ . }}</p>
-              {{ end }}
-            </div>
-            <div class="scholion-card-meta">
-              {{ with .Params.tags }}
-                <ul class="scholion-card-tags">
-                  {{ range first 3 . }}<li>#{{ . }}</li>{{ end }}
-                </ul>
-              {{ end }}
-              <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
-            </div>
-            {{ if $isPinned }}
-              <span class="scholion-card-pin" title="fixada">★</span>
-            {{ end }}
-            {{ if .Params.has_commentary }}
-              <span class="scholion-card-mark" title="com comentário">●</span>
-            {{ end }}
-          </a>
-        </li>
-      {{ end }}
-    </ul>
+    {{ if $pinned }}
+      <section class="scholion-home-section">
+        <h2 class="scholion-home-section-title">Em destaque</h2>
+        <ul class="scholion-grid">
+          {{ range $pinned }}
+            {{ $kind := cond (.Params.has_commentary | default false) "commentary" "gloss" }}
+            <li class="scholion-card scholion-card--{{ $kind }} scholion-card--pinned" data-kind="{{ $kind }}">
+              <a href="{{ .RelPermalink }}">
+                <div class="scholion-card-body">
+                  <h3 class="scholion-card-title">{{ .Title }}</h3>
+                  {{ with .Params.summary }}
+                    <p class="scholion-card-summary">{{ . }}</p>
+                  {{ end }}
+                </div>
+                <div class="scholion-card-meta">
+                  {{ with .Params.tags }}
+                    <ul class="scholion-card-tags">
+                      {{ range first 3 . }}<li>#{{ . }}</li>{{ end }}
+                    </ul>
+                  {{ end }}
+                  <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+                </div>
+                <span class="scholion-card-pin" title="fixada">★</span>
+                {{ if .Params.has_commentary }}
+                  <span class="scholion-card-mark" title="com comentário">●</span>
+                {{ end }}
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      </section>
+    {{ end }}
 
-    {{ partial "scholion-pagination.html" $paginator }}
+    <section class="scholion-home-section">
+      <div class="scholion-home-section-head">
+        <h2 class="scholion-home-section-title">Recentes</h2>
+        <a class="scholion-home-section-link" href="{{ "/notes/" | relURL }}">ver todas →</a>
+      </div>
+      <ul class="scholion-grid">
+        {{ range $recent }}
+          {{ $kind := cond (.Params.has_commentary | default false) "commentary" "gloss" }}
+          {{ $isPinned := .Params.pinned | default false }}
+          <li class="scholion-card scholion-card--{{ $kind }}{{ if $isPinned }} scholion-card--pinned{{ end }}" data-kind="{{ $kind }}">
+            <a href="{{ .RelPermalink }}">
+              <div class="scholion-card-body">
+                <h3 class="scholion-card-title">{{ .Title }}</h3>
+                {{ with .Params.summary }}
+                  <p class="scholion-card-summary">{{ . }}</p>
+                {{ end }}
+              </div>
+              <div class="scholion-card-meta">
+                {{ with .Params.tags }}
+                  <ul class="scholion-card-tags">
+                    {{ range first 3 . }}<li>#{{ . }}</li>{{ end }}
+                  </ul>
+                {{ end }}
+                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+              </div>
+              {{ if $isPinned }}
+                <span class="scholion-card-pin" title="fixada">★</span>
+              {{ end }}
+              {{ if .Params.has_commentary }}
+                <span class="scholion-card-mark" title="com comentário">●</span>
+              {{ end }}
+            </a>
+          </li>
+        {{ end }}
+      </ul>
+    </section>
+
+    <section class="scholion-home-section">
+      <div class="scholion-home-section-head">
+        <h2 class="scholion-home-section-title">Explorar por tag</h2>
+        <a class="scholion-home-section-link" href="{{ "/tags/" | relURL }}">todas as tags →</a>
+      </div>
+      <ul class="scholion-home-tags">
+        {{ range $topTags }}
+          <li>
+            <a href="{{ printf "/tags/%s/" (urlize .name) | relURL }}">
+              <span class="scholion-home-tag-name">#{{ .name }}</span>
+              <span class="scholion-home-tag-count">{{ .count }}</span>
+            </a>
+          </li>
+        {{ end }}
+      </ul>
+    </section>
   </section>
 {{ end }}

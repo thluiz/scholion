@@ -706,6 +706,115 @@
   margin-left: 0.35rem;
 }
 
+/* === Home sections === */
+.scholion-home {
+  margin: 2rem 0 4rem;
+}
+
+.scholion-home-section {
+  margin-top: 3rem;
+}
+
+.scholion-home-section:first-of-type {
+  margin-top: 2rem;
+}
+
+.scholion-home-section-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.scholion-home-section-title {
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: rgb(var(--color-neutral-600));
+  margin: 0 0 1rem 0;
+}
+
+.scholion-home-section-head .scholion-home-section-title {
+  margin-bottom: 0;
+}
+
+.dark .scholion-home-section-title {
+  color: rgb(var(--color-neutral-400));
+}
+
+.scholion-home-section-link {
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: rgb(var(--color-neutral-500));
+  text-decoration: none;
+}
+
+.scholion-home-section-link:hover {
+  color: rgb(var(--color-primary-700));
+}
+
+.dark .scholion-home-section-link:hover {
+  color: rgb(var(--color-primary-300));
+}
+
+/* Tag explorer grid on home */
+.scholion-home-tags {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 0.6rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.scholion-home-tags a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.4rem;
+  padding: 0.55rem 0.85rem;
+  border: 1px solid rgb(var(--color-neutral-200));
+  border-radius: 0.5rem;
+  background: rgb(var(--color-neutral-50));
+  color: rgb(var(--color-neutral-700));
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 600;
+  transition: all 0.15s ease;
+}
+
+.scholion-home-tags a:hover {
+  border-color: rgb(var(--color-primary-500));
+  color: rgb(var(--color-primary-700));
+  transform: translateY(-1px);
+}
+
+.scholion-home-tag-count {
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: rgb(var(--color-primary-700));
+  background: rgb(var(--color-primary-50));
+  padding: 0.1rem 0.4rem;
+  border-radius: 0.25rem;
+}
+
+.dark .scholion-home-tags a {
+  background: rgb(56, 51, 49);
+  border-color: rgb(78, 71, 67);
+  color: rgb(var(--color-neutral-200));
+}
+
+.dark .scholion-home-tags a:hover {
+  border-color: rgb(var(--color-primary-400));
+  color: rgb(var(--color-primary-300));
+}
+
+.dark .scholion-home-tag-count {
+  background: rgba(var(--color-primary-900), 0.5);
+  color: rgb(var(--color-primary-200));
+}
+
 /* === Pagination === */
 .scholion-pagination {
   display: flex;
