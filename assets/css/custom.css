@@ -225,6 +225,35 @@
   border-left: 3px solid rgb(var(--color-primary-500));
 }
 
+/* Indicador "fixada" */
+.scholion-card-pin {
+  position: absolute;
+  top: 0.4rem;
+  left: 0.55rem;
+  font-size: 0.85rem;
+  color: rgb(var(--color-primary-600));
+  line-height: 1;
+}
+
+.scholion-card--pinned {
+  box-shadow: 0 0 0 1px rgb(var(--color-primary-300)),
+              0 4px 14px -6px rgba(217, 119, 6, 0.18);
+}
+
+.scholion-card--pinned:hover {
+  box-shadow: 0 0 0 1px rgb(var(--color-primary-500)),
+              0 8px 20px -8px rgba(217, 119, 6, 0.3);
+}
+
+.dark .scholion-card--pinned {
+  box-shadow: 0 0 0 1px rgba(var(--color-primary-500), 0.7),
+              0 4px 14px -6px rgba(0, 0, 0, 0.4);
+}
+
+.dark .scholion-card-pin {
+  color: rgb(var(--color-primary-400));
+}
+
 /* === Single note === */
 .scholion-note {
   max-width: 44rem;
@@ -316,10 +345,10 @@
   display: inline-block;
   font-size: 0.65rem;
   font-weight: 600;
-  color: rgb(var(--color-neutral-600));
-  background: transparent;
-  border: 1px solid rgb(var(--color-neutral-300));
-  padding: 0.1rem 0.45rem;
+  color: rgb(var(--color-neutral-700));
+  background: rgb(var(--color-neutral));
+  border: 1px solid rgb(var(--color-neutral-200));
+  padding: 0.15rem 0.5rem;
   border-radius: 0.3rem;
   text-decoration: none;
   transition: all 0.15s ease;
@@ -328,16 +357,19 @@
 .scholion-note-tags li a:hover {
   border-color: rgb(var(--color-primary-500));
   color: rgb(var(--color-primary-700));
+  background: rgb(var(--color-primary-50));
 }
 
 .dark .scholion-note-tags li a {
-  color: rgb(var(--color-neutral-300));
-  border-color: rgb(var(--color-neutral-600));
+  color: rgb(var(--color-neutral-200));
+  background: rgb(72, 66, 62);
+  border-color: rgb(94, 87, 82);
 }
 
 .dark .scholion-note-tags li a:hover {
   border-color: rgb(var(--color-primary-400));
   color: rgb(var(--color-primary-300));
+  background: rgba(var(--color-primary-900), 0.4);
 }
 
 .scholion-note-body {

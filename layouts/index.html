@@ -1,19 +1,24 @@
 {{ define "main" }}
-  {{ $notes := where site.RegularPages "Section" "notes" }}
-  {{ $sorted := $notes.ByDate.Reverse }}
-  {{ $paginator := .Paginate $sorted 40 }}
+  {{ $allNotes := where site.RegularPages "Section" "notes" }}
+  {{ $pinned := (where $allNotes "Params.pinned" true).ByDate.Reverse }}
+  {{ $unpinned := (where $allNotes "Params.pinned" "!=" true).ByDate.Reverse }}
+  {{ $combined := slice }}
+  {{ range $pinned }}{{ $combined = $combined | append . }}{{ end }}
+  {{ range $unpinned }}{{ $combined = $combined | append . }}{{ end }}
+  {{ $paginator := .Paginate $combined 40 }}
 
   <section class="scholion-list">
     <header class="scholion-list-header">
       <h1>Scholion</h1>
       <p class="scholion-desc">Marginalia, glosas e fragmentos do que leio, escuto e assisto.</p>
-      <p class="scholion-count">{{ len $notes }} notas</p>
+      <p class="scholion-count">{{ len $allNotes }} notas</p>
     </header>
 
     <ul class="scholion-grid">
       {{ range $paginator.Pages }}
         {{ $kind := cond (.Params.has_commentary | default false) "commentary" "gloss" }}
-        <li class="scholion-card scholion-card--{{ $kind }}" data-kind="{{ $kind }}">
+        {{ $isPinned := .Params.pinned | default false }}
+        <li class="scholion-card scholion-card--{{ $kind }}{{ if $isPinned }} scholion-card--pinned{{ end }}" data-kind="{{ $kind }}">
           <a href="{{ .RelPermalink }}">
             <div class="scholion-card-body">
               <h2 class="scholion-card-title">{{ .Title }}</h2>
@@ -29,6 +34,9 @@
               {{ end }}
               <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
             </div>
+            {{ if $isPinned }}
+              <span class="scholion-card-pin" title="fixada">★</span>
+            {{ end }}
             {{ if .Params.has_commentary }}
               <span class="scholion-card-mark" title="com comentário">●</span>
             {{ end }}
