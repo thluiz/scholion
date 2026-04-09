@@ -5,7 +5,56 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
-## [Não publicado]
+## [0.2.0] — 2026-04-09
+
+### Adicionado
+
+- **Deploy CI**: workflow Azure Static Web Apps + pre-build com `peaceiris/actions-hugo`
+  para contornar incompatibilidade glibc do Oryx.
+- **OG images por nota** geradas em build time; usa Noto Sans SC para renderizar glifos CJK.
+- **Home como vitrine curada**: home exibe notas fixadas (`pinned`), `/notes/` continua
+  como índice completo. Cards fixados com colapso "ver mais" (mostra 3, esconde o resto)
+  e ordenação por `pin_weight`.
+- **Paginação** na home e em `/notes/`, com fundo mais suave.
+- **Navegação prev/next** no rodapé da nota single, com link "voltar".
+- **Busca via `Ctrl+K`** (além de `/`), com hint visual no teclado.
+- **Página `/fontes/`**: índice de todas as fontes referenciadas, com dedup por URL
+  sem fragmento.
+- **Co-tags nas páginas de tag**: mostra tags relacionadas em cada `/tags/<slug>/`.
+- **Nota single em card** estilo papel, com tipografia respirada.
+- **Tag cloud e tag pages** com o mesmo mosaico da home e `/notes/`.
+- **Links inline** diferenciados dentro do corpo da nota.
+- **Tag chips dentro dos cards** de nota na listagem.
+- **Cards em dark theme** com superfície mais clara para separação.
+- **Subtítulo de cross-reference** com o silvae na home.
+- **Data de última atualização** ao lado da contagem de notas.
+- **Nota "O que é um Scholion (e o que é Marginalia)"** explicando o projeto.
+
+### Melhorado
+
+- **Grid responsivo**: `ResizeObserver` substitui media queries para detectar colunas
+  reais; 4 colunas a partir de 1024px, 5 a partir de 1800px.
+- **Cards sem aspect-ratio fixo**: altura responsiva ao conteúdo.
+- **Visibilidade inteligente dos pinned cards**: esconde cards que não cabem no grid.
+- **Limiar de notas relacionadas** elevado para que sobreposição de tags importe.
+- **Indicador de nota fixada**: experimentou chip "fixada", reverteu para glifo ★ limpo.
+
+### Acessibilidade
+
+- Focus rings, `prefers-reduced-motion`, contraste em summaries, título em `/notes/`.
+
+### Corrigido
+
+- Header seal ficava vermelho no hover apenas sobre o ícone — agora em todo o menu.
+- URLs relativas `.md` em sources agora reescritas para rotas do scholion.
+- Parágrafos e listas dentro do corpo da nota tinham espaçamento insuficiente.
+- Aspas no título da nota sobre Elena Verna.
+- Citação duplicada na nota Elena Verna; intro movida para primeiro lugar.
+
+### Removido
+
+- Filtros (chips "Todas / Com comentário / Glosas") removidos da listagem `/notes/`.
+- Nota "Confessions of a Millennial in Tech" de Elena Verna movida para o silvae.
 
 ## [0.1.0] — 2026-04-09
 
