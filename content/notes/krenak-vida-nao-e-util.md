@@ -7,7 +7,7 @@ tags:
 - política
 - brasil
 pinned: true
-pin_weight: 70
+pin_weight: 85
 has_commentary: true
 sources:
 - title: Entrevista Ailton Krenak — Estado de Minas, jan. 2021

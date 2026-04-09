@@ -7,7 +7,7 @@ tags:
 - pensamento-sistemico
 - ving-tsun
 pinned: true
-pin_weight: 75
+pin_weight: 60
 has_commentary: true
 sources:
 - title: Rascunho para livro sobre pensamento sistêmico e Ving Tsun
