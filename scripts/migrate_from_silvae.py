@@ -28,8 +28,20 @@ import yaml
 SILVA_NOTES = Path("E:/silva/src/content/note")
 SCHOLION_NOTES = Path("E:/scholion/content/notes")
 
+# Notes manually curated in scholion — never overwrite these.
+MANUAL_NOTES = {
+    "atravessar-o-pantano",
+    "parkinsons-law",
+    "invictus-henley",
+    "autopoiese-maturana-varela-e-kung-fu",
+    "solid-principles",
+}
+
 FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n(.*)$", re.DOTALL)
 LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
+# A line that is *just* a markdown link (whole-line source mention).
+STANDALONE_LINK_RE = re.compile(r"^\s*\[([^\]]+)\]\(([^)]+)\)\s*$")
+SOURCE_PREFIX_RE = re.compile(r"^(Fontes?|Sources?):\s*", re.IGNORECASE)
 
 
 def detect_kind(url: str) -> str:
@@ -49,36 +61,48 @@ def detect_kind(url: str) -> str:
     return "article"
 
 
-def parse_sources(line: str) -> list[dict]:
-    """Parse a 'Fonte:' or 'Fontes:' line into structured sources."""
-    # strip the leading "Fonte:"/"Fontes:" and trailing whitespace
-    body = re.sub(r"^Fontes?:\s*", "", line.strip(), flags=re.IGNORECASE)
-    # split multiple sources by " · " (middle dot, the silvae convention)
+def parse_source_line(line: str) -> list[dict]:
+    """Parse a 'Fonte(s):'/'Source(s):' line, possibly with multiple sources."""
+    body = SOURCE_PREFIX_RE.sub("", line.strip())
     parts = [p.strip() for p in body.split(" · ") if p.strip()]
     sources = []
     for part in parts:
         m = LINK_RE.search(part)
         if m:
             title, url = m.group(1), m.group(2)
-            src = {"title": title.strip(), "url": url.strip(), "kind": detect_kind(url)}
+            sources.append({"title": title.strip(), "url": url.strip(), "kind": detect_kind(url)})
         else:
-            # plain-text source: keep as title only
-            src = {"title": part, "kind": "other"}
-        sources.append(src)
+            sources.append({"title": part, "kind": "other"})
     return sources
 
 
+def line_is_source(line: str) -> bool:
+    """Tail-line heuristic: prefixed Fonte/Source line, or a standalone markdown link."""
+    s = line.strip()
+    if not s:
+        return False
+    if SOURCE_PREFIX_RE.match(s):
+        return True
+    if STANDALONE_LINK_RE.match(s):
+        return True
+    return False
+
+
 def extract_sources_and_strip(body: str) -> tuple[list[dict], str]:
-    """Find Fonte(s) lines at the end of body, return (sources, body_without_them)."""
+    """Strip trailing source lines (Fonte:/Source:/standalone link) and return them parsed."""
     lines = body.rstrip().split("\n")
     sources = []
-    while lines and (
-        lines[-1].strip().lower().startswith("fonte:")
-        or lines[-1].strip().lower().startswith("fontes:")
-    ):
-        sources = parse_sources(lines[-1]) + sources
-        lines.pop()
-        # also pop any blank line immediately above
+    while lines and line_is_source(lines[-1]):
+        last = lines.pop()
+        s = last.strip()
+        if SOURCE_PREFIX_RE.match(s):
+            sources = parse_source_line(s) + sources
+        else:
+            # standalone link
+            m = STANDALONE_LINK_RE.match(s)
+            if m:
+                title, url = m.group(1), m.group(2)
+                sources = [{"title": title.strip(), "url": url.strip(), "kind": detect_kind(url)}] + sources
         while lines and not lines[-1].strip():
             lines.pop()
     return sources, "\n".join(lines).rstrip() + "\n"
@@ -199,6 +223,11 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--write", action="store_true", help="actually write files")
     ap.add_argument("--force", action="store_true", help="overwrite existing files")
+    ap.add_argument(
+        "--refresh-empty-sources",
+        action="store_true",
+        help="re-write only existing notes whose current sources list is empty",
+    )
     args = ap.parse_args()
 
     md_files = sorted(SILVA_NOTES.rglob("*.md"))
@@ -241,9 +270,22 @@ def main():
         else:
             out_path = SCHOLION_NOTES / f"{slug}.md"
 
-        if out_path.exists() and not args.force:
+        if slug in MANUAL_NOTES:
             stats["skipped_existing"] += 1
             continue
+
+        if out_path.exists():
+            if args.refresh_empty_sources:
+                existing = out_path.read_text(encoding="utf-8")
+                m_fm = FRONTMATTER_RE.match(existing)
+                if m_fm:
+                    fm_existing = yaml.safe_load(m_fm.group(1)) or {}
+                    if fm_existing.get("sources"):
+                        stats["skipped_existing"] += 1
+                        continue
+            elif not args.force:
+                stats["skipped_existing"] += 1
+                continue
 
         if args.write:
             if is_bundle:

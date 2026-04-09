@@ -7,7 +7,10 @@ tags:
 - attention
 - distraction
 has_commentary: false
-sources: []
+sources:
+- title: The Power of Attention in a World of Distraction — Vox
+  url: https://vox.thluiz.com/2022/12/W49/the-power-of-attention-in-a-world-of-distraction
+  kind: podcast
 ---
 
 **00:06:14** — Historical Roots from Pascal to William James
@@ -17,5 +20,3 @@ Sakasas traces the problem of attention back centuries, highlighting Blaise Pasc
 > "All of our problems stem from not being able to sit silently in a room." — Blaise Pascal
 
 > Late 19th-century thinkers in William James's circle were already measuring and quantifying attention for advertising.
-
-Source: [The Power of Attention in a World of Distraction — Vox](https://vox.thluiz.com/2022/12/W49/the-power-of-attention-in-a-world-of-distraction)

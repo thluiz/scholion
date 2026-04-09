@@ -8,7 +8,10 @@ tags:
 - simone-weil
 - ethics
 has_commentary: true
-sources: []
+sources:
+- title: The Power of Attention in a World of Distraction — Vox
+  url: https://vox.thluiz.com/2022/12/W49/the-power-of-attention-in-a-world-of-distraction
+  kind: podcast
 ---
 
 **00:22:14** — Attention as the Purest Form of Generosity
@@ -20,5 +23,3 @@ Simone Weil's famous formulation — "Attention is the rarest and purest form of
 > "To pay attention to someone in suffering — she says it's almost like a miracle."
 
 > It requires "getting out of the way of ourselves so that we're able to see people for who they are."
-
-Source: [The Power of Attention in a World of Distraction — Vox](https://vox.thluiz.com/2022/12/W49/the-power-of-attention-in-a-world-of-distraction)

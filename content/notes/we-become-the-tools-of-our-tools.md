@@ -7,7 +7,10 @@ tags:
 - attention
 - philosophy
 has_commentary: false
-sources: []
+sources:
+- title: The Power of Attention in a World of Distraction — Vox
+  url: https://vox.thluiz.com/2022/12/W49/the-power-of-attention-in-a-world-of-distraction
+  kind: podcast
 ---
 
 **00:28:38** — We Become the Tools of Our Tools
@@ -19,5 +22,3 @@ The host articulates a Thoreauvian insight: we become in a strange way what we p
 > "We start to reflect the rhythms and the biases of those technologies — we become the tools of those tools."
 
 > "That is the beginning of the erosion of our agency."
-
-Source: [The Power of Attention in a World of Distraction — Vox](https://vox.thluiz.com/2022/12/W49/the-power-of-attention-in-a-world-of-distraction)

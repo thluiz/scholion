@@ -7,7 +7,10 @@ tags:
 - attention
 - ethics
 has_commentary: false
-sources: []
+sources:
+- title: The Power of Attention in a World of Distraction — Vox
+  url: https://vox.thluiz.com/2022/12/W49/the-power-of-attention-in-a-world-of-distraction
+  kind: podcast
 ---
 
 **00:30:03** — Murdoch: At the Moment of Decision, Most Action Has Already Happened
@@ -19,5 +22,3 @@ Iris Murdoch's insight reframes moral action: what matters is not the dramatic m
 > "It's in how we have trained our attention all of our lives up to that moment of decision that matters."
 
 > Technologies "ingrain habits in us" that shape action before we reach the decision point.
-
-Source: [The Power of Attention in a World of Distraction — Vox](https://vox.thluiz.com/2022/12/W49/the-power-of-attention-in-a-world-of-distraction)
