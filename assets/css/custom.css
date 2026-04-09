@@ -1,3 +1,38 @@
+/* === Search keybind hint === */
+#search-button {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+#search-button::after {
+  content: "/";
+  display: inline-block;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: 0.65rem;
+  font-weight: 600;
+  line-height: 1;
+  padding: 0.18rem 0.4rem;
+  border: 1px solid rgb(var(--color-neutral-300));
+  border-bottom-width: 2px;
+  border-radius: 0.25rem;
+  color: rgb(var(--color-neutral-500));
+  background: rgb(var(--color-neutral-50));
+}
+
+.dark #search-button::after {
+  border-color: rgb(78, 71, 67);
+  background: rgb(56, 51, 49);
+  color: rgb(var(--color-neutral-400));
+}
+
+@media (max-width: 768px) {
+  #search-button::after {
+    display: none;
+  }
+}
+
 /* === Header / logo === */
 .main-menu .logo,
 .main-menu img.logo {
