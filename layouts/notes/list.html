@@ -11,12 +11,6 @@
       <h1>{{ .Title }}</h1>
       {{ with .Description }}<p class="scholion-desc">{{ . }}</p>{{ end }}
       <p class="scholion-count">{{ len .Pages }} notas</p>
-
-      <nav class="scholion-filters" aria-label="Filtros">
-        <button data-filter="all" class="scholion-chip active">Todas</button>
-        <button data-filter="commentary" class="scholion-chip">Com comentário</button>
-        <button data-filter="gloss" class="scholion-chip">Glosas</button>
-      </nav>
     </header>
 
     <ul class="scholion-grid">
@@ -52,16 +46,4 @@
 
     {{ partial "scholion-pagination.html" $paginator }}
   </section>
-
-  <script>
-    document.querySelectorAll('.scholion-filters button').forEach(btn => {
-      btn.addEventListener('click', () => {
-        const f = btn.dataset.filter;
-        document.querySelectorAll('.scholion-filters button').forEach(b => b.classList.toggle('active', b === btn));
-        document.querySelectorAll('.scholion-card').forEach(c => {
-          c.style.display = (f === 'all' || c.dataset.kind === f) ? '' : 'none';
-        });
-      });
-    });
-  </script>
 {{ end }}
