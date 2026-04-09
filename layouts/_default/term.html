@@ -1,11 +1,44 @@
 {{ define "main" }}
   {{ $paginator := .Paginate .Pages.ByDate.Reverse 40 }}
 
+  {{/* Co-tags: tags that frequently appear together with the current term */}}
+  {{ $currentTag := .Title | lower }}
+  {{ $coTagCounts := dict }}
+  {{ range .Pages }}
+    {{ range .Params.tags }}
+      {{ $t := . | lower }}
+      {{ if ne $t $currentTag }}
+        {{ $current := index $coTagCounts $t | default 0 }}
+        {{ $coTagCounts = merge $coTagCounts (dict $t (add $current 1)) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ $coTagsList := slice }}
+  {{ range $name, $count := $coTagCounts }}
+    {{ $coTagsList = $coTagsList | append (dict "name" $name "count" $count) }}
+  {{ end }}
+  {{ $topCoTags := first 8 (sort $coTagsList "count" "desc") }}
+
   <section class="scholion-list">
     <header class="scholion-list-header">
       <h1>#{{ .Title }}</h1>
       {{ $latest := index (.Pages.ByDate.Reverse) 0 }}
       <p class="scholion-count">{{ len .Pages }} notas <span class="scholion-count-sep">·</span> última: <time datetime="{{ $latest.Date.Format "2006-01-02" }}">{{ $latest.Date.Format "2 Jan 2006" }}</time></p>
+
+      {{ if $topCoTags }}
+        <div class="scholion-cotags">
+          <span class="scholion-cotags-label">também aparecem com #{{ .Title | lower }}:</span>
+          <ul class="scholion-cotags-list">
+            {{ range $topCoTags }}
+              <li>
+                <a href="{{ printf "/tags/%s/" (urlize .name) | relURL }}">
+                  #{{ .name }}<span class="scholion-cotags-count">{{ .count }}</span>
+                </a>
+              </li>
+            {{ end }}
+          </ul>
+        </div>
+      {{ end }}
     </header>
 
     <ul class="scholion-grid">

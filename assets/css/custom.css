@@ -884,6 +884,87 @@
   border-color: rgb(var(--color-neutral-800));
 }
 
+/* === Co-tags on tag detail page === */
+.scholion-cotags {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.75rem;
+  margin: 1rem 0 1.5rem 0;
+  padding: 0.85rem 1rem;
+  background: rgb(var(--color-neutral-50));
+  border: 1px solid rgb(var(--color-neutral-200));
+  border-radius: 0.5rem;
+}
+
+.dark .scholion-cotags {
+  background: rgb(56, 51, 49);
+  border-color: rgb(78, 71, 67);
+}
+
+.scholion-cotags-label {
+  font-size: 0.75rem;
+  color: rgb(var(--color-neutral-600));
+  font-style: italic;
+}
+
+.dark .scholion-cotags-label {
+  color: rgb(var(--color-neutral-400));
+}
+
+.scholion-cotags-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.scholion-cotags-list a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 0.15rem 0.5rem;
+  border-radius: 0.3rem;
+  background: rgb(var(--color-neutral));
+  border: 1px solid rgb(var(--color-neutral-300));
+  color: rgb(var(--color-neutral-700));
+  text-decoration: none;
+  transition: all 0.15s ease;
+}
+
+.scholion-cotags-list a:hover {
+  border-color: rgb(var(--color-primary-500));
+  color: rgb(var(--color-primary-700));
+}
+
+.scholion-cotags-count {
+  font-size: 0.6rem;
+  color: rgb(var(--color-primary-700));
+  background: rgb(var(--color-primary-50));
+  padding: 0.05rem 0.3rem;
+  border-radius: 0.2rem;
+}
+
+.dark .scholion-cotags-list a {
+  background: rgb(72, 66, 62);
+  border-color: rgb(94, 87, 82);
+  color: rgb(var(--color-neutral-200));
+}
+
+.dark .scholion-cotags-list a:hover {
+  border-color: rgb(var(--color-primary-400));
+  color: rgb(var(--color-primary-300));
+}
+
+.dark .scholion-cotags-count {
+  background: rgba(var(--color-primary-900), 0.5);
+  color: rgb(var(--color-primary-200));
+}
+
 /* === Tag cloud (página /tags/) === */
 .scholion-tag-cloud {
   display: flex;
