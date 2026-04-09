@@ -1,5 +1,5 @@
 ---
-title: 'Termos para o V Encontro: 標指'
+title: 'Termos V Encontro: 標指'
 date: '2026-04-08T23:20:59+01:00'
 summary: 'Caracteres do nome da terceira sequência do Ving Tsun, 標指 (Biu Ji):'
 tags:
