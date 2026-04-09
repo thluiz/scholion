@@ -21,6 +21,19 @@ buildFuture = false
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = true
+
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+
+  [[related.indices]]
+    name = "date"
+    weight = 5
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
