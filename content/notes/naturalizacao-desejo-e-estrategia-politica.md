@@ -7,6 +7,7 @@ tags:
 - mark-fischer
 - desejo
 - esquerda
+pinned: true
 has_commentary: true
 sources:
 - title: 'Fisher e os Fisherianos #12 – Felipe Abal'

@@ -3,6 +3,7 @@ title: "Autopoiese, Maturana/Varela e Kung Fu"
 date: 2026-04-01T13:15:00+01:00
 summary: "Kung Fu não pode ser ensinado, mas pode ser aprendido. Ensinar pressupõe transferência (alopoiese). Aprender é autoprodução (autopoiese)."
 tags: ["pensamento-sistemico", "kung-fu", "citacoes"]
+pinned: true
 has_commentary: true
 sources:
   - title: "De Máquinas y Seres Vivos"

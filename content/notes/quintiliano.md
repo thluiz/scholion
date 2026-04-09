@@ -6,6 +6,7 @@ tags:
 - filosofia
 - história
 - retórica
+pinned: true
 has_commentary: true
 sources:
 - title: Perseus/Tufts — Quint. 10.3.17
