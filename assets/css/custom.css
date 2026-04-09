@@ -557,39 +557,45 @@
   font-size: 0.75rem;
   font-weight: 600;
   color: rgb(var(--color-neutral-700));
-  background: transparent;
-  border: 1px solid rgb(var(--color-neutral-300));
-  padding: 0.25rem 0.6rem;
+  background: rgb(var(--color-neutral-50));
+  border: 1px solid rgb(var(--color-neutral-200));
+  padding: 0.3rem 0.65rem;
   border-radius: 0.4rem;
   text-decoration: none;
   transition: all 0.15s ease;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.03);
 }
 
 .scholion-tag-cloud a:hover {
   border-color: rgb(var(--color-primary-500));
   color: rgb(var(--color-primary-700));
+  transform: translateY(-1px);
+  box-shadow: 0 3px 8px -2px rgba(0, 0, 0, 0.08);
 }
 
 .scholion-tag-count {
   font-size: 0.65rem;
-  font-weight: 500;
-  color: rgb(var(--color-neutral-500));
-  background: rgb(var(--color-neutral-100));
-  padding: 0.05rem 0.35rem;
+  font-weight: 600;
+  color: rgb(var(--color-primary-700));
+  background: rgb(var(--color-primary-50));
+  padding: 0.1rem 0.4rem;
   border-radius: 0.25rem;
 }
 
 .dark .scholion-tag-cloud a {
-  color: rgb(var(--color-neutral-300));
-  border-color: rgb(var(--color-neutral-600));
+  color: rgb(var(--color-neutral-200));
+  background: rgb(56, 51, 49);
+  border-color: rgb(78, 71, 67);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
 }
 
 .dark .scholion-tag-cloud a:hover {
   border-color: rgb(var(--color-primary-400));
   color: rgb(var(--color-primary-300));
+  box-shadow: 0 3px 8px -2px rgba(0, 0, 0, 0.4);
 }
 
 .dark .scholion-tag-count {
-  background: rgb(var(--color-neutral-800));
-  color: rgb(var(--color-neutral-400));
+  background: rgba(var(--color-primary-900), 0.5);
+  color: rgb(var(--color-primary-200));
 }
