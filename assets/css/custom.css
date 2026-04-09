@@ -114,6 +114,35 @@
   margin-bottom: 0.25rem;
 }
 
+.scholion-subdesc {
+  font-size: 0.8rem;
+  color: rgb(var(--color-neutral-500));
+  margin-bottom: 0.25rem;
+}
+
+.scholion-subdesc a {
+  color: rgb(var(--color-primary-700));
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+  text-decoration-color: rgb(var(--color-primary-300));
+}
+
+.scholion-subdesc a:hover {
+  color: rgb(var(--color-primary-800));
+  text-decoration-color: rgb(var(--color-primary-600));
+}
+
+.dark .scholion-subdesc a {
+  color: rgb(var(--color-primary-300));
+  text-decoration-color: rgba(var(--color-primary-400), 0.5);
+}
+
+.dark .scholion-subdesc a:hover {
+  color: rgb(var(--color-primary-200));
+  text-decoration-color: rgb(var(--color-primary-300));
+}
+
 .scholion-count {
   font-size: 0.85rem;
   color: rgb(var(--color-neutral-500));
