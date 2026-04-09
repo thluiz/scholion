@@ -382,6 +382,31 @@
   color: rgb(var(--color-neutral-200));
 }
 
+.scholion-note-body a {
+  color: rgb(var(--color-primary-700));
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-decoration-color: rgb(var(--color-primary-300));
+  text-underline-offset: 0.2em;
+  transition: all 0.15s ease;
+}
+
+.scholion-note-body a:hover {
+  color: rgb(var(--color-primary-800));
+  text-decoration-color: rgb(var(--color-primary-600));
+  text-decoration-thickness: 2px;
+}
+
+.dark .scholion-note-body a {
+  color: rgb(var(--color-primary-300));
+  text-decoration-color: rgba(var(--color-primary-400), 0.5);
+}
+
+.dark .scholion-note-body a:hover {
+  color: rgb(var(--color-primary-200));
+  text-decoration-color: rgb(var(--color-primary-300));
+}
+
 .scholion-note-body blockquote {
   border-left: 3px solid rgb(var(--color-primary-400));
   padding-left: 1rem;
