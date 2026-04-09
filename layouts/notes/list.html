@@ -35,7 +35,7 @@
               <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
             </div>
             {{ if $isPinned }}
-              <span class="scholion-card-pin" title="fixada">★</span>
+              <span class="scholion-card-pin" title="fixada"><span class="scholion-card-pin-text">fixada</span></span>
             {{ end }}
             {{ if .Params.has_commentary }}
               <span class="scholion-card-mark" title="com comentário">●</span>
