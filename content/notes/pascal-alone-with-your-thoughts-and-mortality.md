@@ -8,7 +8,10 @@ tags:
 - distraction
 - pascal
 has_commentary: false
-sources: []
+sources:
+- title: The Power of Attention in a World of Distraction — Vox
+  url: https://vox.thluiz.com/2022/12/W49/the-power-of-attention-in-a-world-of-distraction
+  kind: podcast
 ---
 
 **00:13:50** — Distraction as Flight from Loneliness
@@ -18,5 +21,3 @@ The conversation probes the demand side of distraction: the question is not only
 > "If you're alone with your thoughts, you eventually start thinking about your mortality and other unpleasant things... so you look for diversions." — Pascal's point as paraphrased by Sakasas
 
 > "What is it that we want to be distracted or diverted from? Is it loneliness?"
-
-Source: [The Power of Attention in a World of Distraction — Vox](https://vox.thluiz.com/2022/12/W49/the-power-of-attention-in-a-world-of-distraction)
