@@ -22,48 +22,46 @@ sources:
     kind: book
 ---
 
-Já perdi a conta de quantos projetos vi com pasta `Domain/` cheia de classes anêmicas e a equipe jurando que "usa DDD". Isso é organização de diretório, não DDD.
+Pasta `Domain/` cheia de classes anêmicas e a equipe jurando que "usa DDD". Isso é organização de diretório, não DDD.
 
 ## As 400 páginas que ninguém leu
 
-O livro do Eric Evans (2003) tem quase 600 páginas. Todo mundo conhece as primeiras 200: Entity, Value Object, Aggregate, Repository, Service — os building blocks táticos. As outras 400 tratam de **design estratégico**: Bounded Contexts, Context Maps, relações entre times. Evans considera essa a parte que importa.
+O livro do Eric Evans (2003) tem quase 600 páginas. Todo mundo leu as primeiras 200: Entity, Value Object, Aggregate, Repository, Service. As outras 400 tratam do que Evans considera o que importa de verdade: **design estratégico**. Bounded Contexts, Context Maps, como times se relacionam através de modelos. Quase ninguém chega lá.
 
-Aí você olha os projetos e encontra `ValueObject<T>` genérico por todo lado. Nenhuma conversa sobre onde um contexto termina e outro começa.
+`ValueObject<T>` genérico espalhado pelo projeto e zero conversa sobre onde um contexto termina e outro começa.
 
-Outro clássico: pasta `Repository/` com um repositório por tabela e a equipe convencida de que isso é DDD. Repository no Evans é uma abstração de coleção sobre Aggregates — não um wrapper de `DbContext` que repete a interface do ORM com nomes diferentes. Se o repositório só tem `GetById`, `Save` e `Delete`, ele não está encapsulando nada que o ORM já não faça.
+Tem a variação com `Repository/`. Um repositório por tabela, `GetById`, `Save`, `Delete`. Wrapper do ORM que não encapsula nada que o ORM já não faça. Repository no Evans é abstração de coleção sobre Aggregates, não espelho de `DbContext` com nomes bonitos.
 
-O mesmo vale para Services. Evans distingue três tipos (Domain Service, Application Service, Infrastructure Service), cada um com papel claro. O que se vê na prática: uma classe `PedidoService` que recebe `PedidoRepository` no construtor e repassa cada chamada. `service.Save(pedido)` chama `repository.Save(pedido)` — uma camada inteira de indireção que não toma nenhuma decisão. Se o Service não contém lógica de domínio nem orquestra um workflow, ele não deveria existir.
+E tem o `PedidoService` que recebe `PedidoRepository` e repassa tudo. `service.Save(pedido)` chama `repository.Save(pedido)`. Uma camada inteira que não toma nenhuma decisão. Evans distingue três tipos de Service (Domain, Application, Infrastructure), cada um com papel próprio. Se o seu não contém lógica de domínio nem orquestra workflow, é cerimônia.
 
 ## Aggregates
 
-Um Aggregate não é um objeto grande que contém outros. É uma **fronteira de consistência transacional**: o que precisa ser consistente junto vive dentro; o que pode ser eventualmente consistente vive fora.
+Aggregate é **fronteira de consistência transacional**. O que precisa ser consistente junto vive dentro. O que pode ser eventualmente consistente, fora. `Pedido` com seus `ItensDoPedido`, junto, porque não faz sentido salvar um sem o outro. `Cliente`, fora, referenciado por ID. Se o ORM carrega `Pedido → Cliente → Endereços → Preferências` num grafo só, não tem fronteira nenhuma. É um banco relacional disfarçado de objetos.
 
-`Pedido` com seus `ItensDoPedido` — Aggregate, porque não faz sentido salvar um sem o outro. `Cliente` que fez o pedido — outro Aggregate, referenciado por ID. Se seu ORM carrega `Pedido → Cliente → Endereços → Preferências` num grafo só, você não tem Aggregates. Tem um banco relacional disfarçado de objetos.
+Vaughn Vernon bate nessa tecla: Aggregates pequenos. Entity raiz, mínimo de estado, referências externas só por identidade. Quando o Aggregate cresce, geralmente a fronteira está errada.
 
-A regra do Vaughn Vernon: Aggregates pequenos. Entity raiz, mínimo de estado interno, referências externas por identidade.
+## Bounded Context
 
-## Bounded Context não é microsserviço
+"Conta" no módulo de abertura: nome, CPF, documentos. "Conta" no módulo de transações: saldo, extrato, limite. Mesma palavra, dois modelos. Bounded Context é esse perímetro semântico. A fronteira é de linguagem, não de deploy.
 
-Bounded Context é perímetro semântico. Dentro dele, "Conta" significa uma coisa. No contexto vizinho, outra. A fronteira é de linguagem, não de deploy.
-
-Dois Bounded Contexts podem viver no mesmo monólito, em módulos separados. Um microsserviço pode violar fronteiras de contexto por todo lado. Confundir um com o outro é das confusões mais caras que já vi em projeto.
+Dois Bounded Contexts podem viver no mesmo monólito, em módulos separados. Um microsserviço pode violar fronteiras de contexto por todo lado. Ter 12 serviços não significa ter DDD. Pode significar 12 pedaços de domínio incoerente.
 
 ## Domain Events
 
-Um Domain Event registra fato consumado: `PedidoConfirmado`, `PagamentoRecusado`, `EstoqueReservado`. Tempo passado. Não tem como desfazer — só reagir.
+`PedidoConfirmado`, `PagamentoRecusado`, `EstoqueReservado`. Tempo passado, fato consumado. O que os outros contextos fazem é reagir ao fato.
 
-Muda o desenho da comunicação entre contextos. Em vez de um orquestrador que chama dez serviços na sequência certa, cada contexto publica o que aconteceu e quem se interessa reage. Acoplamento cai. O custo: consistência eventual, eventos fora de ordem, duplicatas.
+Em vez de um orquestrador que chama dez serviços na ordem certa (e quebra quando o sexto falha), cada contexto publica o que aconteceu. Quem se interessa, escuta. Acoplamento cai. O custo é consistência eventual, eventos fora de ordem, duplicatas.
 
-## Wlaschin e os tipos algébricos
+## Wlaschin e os tipos
 
-Scott Wlaschin argumenta em *Domain Modeling Made Functional* que tipos algébricos fazem mais pelo DDD do que qualquer framework OO.
+Tipos algébricos fazem mais pelo modelo de domínio do que qualquer framework OO. `EmailVerificado` e `EmailNaoVerificado` não são o mesmo tipo com flag booleana. São **tipos distintos**. A função que dispara newsletter aceita `EmailVerificado`. Ponto. Não é validação em runtime. É o compilador dizendo "isso aqui não passa".
 
-`EmailVerificado` e `EmailNaoVerificado` são **tipos distintos** — não um `Email` com flag booleana. A função que dispara newsletter aceita `EmailVerificado` e ponto. Não é validação em runtime; é o compilador recusando o código errado antes de rodar.
+Workflow vira pipeline tipado: `PedidoNaoValidado → Result<PedidoValidado, ErroDeValidacao>`. Quem lê a definição de tipos lê o domínio. O diagrama UML que ninguém atualiza depois do segundo sprint vira desnecessário.
 
-Um workflow do domínio vira `PedidoNaoValidado → Result<PedidoValidado, ErroDeValidacao>`. Lê-se como pipeline. Quem lê a definição de tipos lê o domínio — sem diagrama UML, sem documentação paralela que envelhece no primeiro sprint.
+Scott Wlaschin desenvolve isso em *Domain Modeling Made Functional*.
 
 ## Quando não usar
 
-DDD exige conversa com especialistas, modelagem iterativa, refatoração constante do modelo. Se o domínio é CRUD com regras triviais — cadastro de produto com nome, preço, estoque — a cerimônia não se paga. Evans é direto: DDD serve para domínios onde a lógica de negócio é o problema, não a infraestrutura.
+DDD tem custo. Conversa com especialistas, modelagem iterativa, refatoração constante. Num CRUD de cadastro de produto a cerimônia não se paga.
 
-O erro comum é o oposto: aplicar DDD em tudo e reclamar que "é burocrático".
+O erro mais comum é o oposto: aplicar DDD em tudo e depois reclamar que "é burocrático". É burocrático mesmo, quando não precisa estar lá.
