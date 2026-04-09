@@ -22,44 +22,44 @@ sources:
     kind: book
 ---
 
-A maioria dos projetos que diz usar DDD usa pasta chamada `Domain/` com classes anêmicas dentro. Isso não é DDD — é organização de diretório.
+A maioria dos projetos que diz usar DDD tem uma pasta chamada `Domain/` com classes anêmicas dentro. Isso é organização de diretório, não DDD.
 
-## O livro que pouca gente leu
+## As 400 páginas que ninguém leu
 
-O livro do Eric Evans (2003) tem quase 600 páginas. As primeiras 200 tratam dos building blocks táticos: Entity, Value Object, Aggregate, Repository, Service. É a parte que todo mundo conhece. As outras 400 — a parte que Evans considera mais relevante — tratam de **design estratégico**: Bounded Contexts, Context Maps, relações entre times. Quase ninguém chega lá.
+O livro do Eric Evans (2003) tem quase 600 páginas. Todo mundo conhece as primeiras 200: Entity, Value Object, Aggregate, Repository, Service — os building blocks táticos. As outras 400 tratam de **design estratégico**: Bounded Contexts, Context Maps, relações entre times. Evans considera essa a parte que importa.
 
-O resultado é previsível: projetos cheios de `ValueObject<T>` genéricos e nenhuma conversa sobre onde um contexto termina e outro começa.
+Aí você olha os projetos e encontra `ValueObject<T>` genérico por todo lado. Nenhuma conversa sobre onde um contexto termina e outro começa.
 
-## Aggregate: a fronteira que ninguém respeita
+## Aggregates
 
-Um Aggregate não é um objeto grande que contém outros objetos. É uma **fronteira de consistência transacional**. Tudo que precisa ser consistente junto vive dentro do mesmo Aggregate. Tudo que pode ser eventualmente consistente vive fora.
+Um Aggregate não é um objeto grande que contém outros. É uma **fronteira de consistência transacional**: o que precisa ser consistente junto vive dentro; o que pode ser eventualmente consistente vive fora.
 
-Na prática: um `Pedido` com seus `ItensDoPedido` forma um Aggregate porque não faz sentido salvar o pedido sem os itens. O `Cliente` que fez o pedido é outro Aggregate — referenciado por ID, não por navegação de objeto. Se seu ORM carrega o grafo inteiro de `Pedido → Cliente → Endereços → Preferências`, você não tem Aggregates. Tem um grafo de objetos com características de banco relacional.
+`Pedido` com seus `ItensDoPedido` — Aggregate, porque não faz sentido salvar um sem o outro. `Cliente` que fez o pedido — outro Aggregate, referenciado por ID. Se seu ORM carrega `Pedido → Cliente → Endereços → Preferências` num grafo só, você não tem Aggregates. Tem um banco relacional disfarçado de objetos.
 
-Vaughn Vernon destila isso numa regra: Aggregates pequenos. Uma Entity raiz, o mínimo de estado interno, referências externas só por identidade.
+A regra do Vaughn Vernon: Aggregates pequenos. Entity raiz, mínimo de estado interno, referências externas por identidade.
 
-## Bounded Context ≠ microsserviço
+## Bounded Context não é microsserviço
 
-Um Bounded Context é um perímetro linguístico e de modelo. Dentro dele, "Conta" significa uma coisa. No contexto ao lado, "Conta" significa outra. A fronteira é semântica, não técnica.
+Bounded Context é perímetro semântico. Dentro dele, "Conta" significa uma coisa. No contexto vizinho, outra. A fronteira é de linguagem, não de deploy.
 
-Microsserviço é uma decisão de deploy. Você pode ter dois Bounded Contexts no mesmo monólito (módulos separados, modelos distintos) e pode ter um microsserviço que viola fronteiras de contexto por todo lado. Confundir os dois é o erro mais caro que eu vejo em projetos que "adotam DDD".
+Dois Bounded Contexts podem viver no mesmo monólito, em módulos separados. Um microsserviço pode violar fronteiras de contexto por todo lado. Confundir um com o outro sai caro.
 
-## Domain Events: o que aconteceu, não o que você quer que aconteça
+## Domain Events
 
-Um Domain Event registra um fato consumado: `PedidoConfirmado`, `PagamentoRecusado`, `EstoqueReservado`. Tempo passado. Aconteceu, não tem como desfazer o fato — só reagir a ele.
+Um Domain Event registra fato consumado: `PedidoConfirmado`, `PagamentoRecusado`, `EstoqueReservado`. Tempo passado. Não tem como desfazer — só reagir.
 
-Isso muda a arquitetura. Em vez de um serviço orquestrador que chama dez outros na sequência certa, cada contexto publica o que aconteceu e os interessados reagem. O acoplamento cai. O preço é aceitar consistência eventual e lidar com a complexidade de eventos fora de ordem, duplicados ou perdidos.
+Muda o desenho da comunicação entre contextos. Em vez de um orquestrador que chama dez serviços na sequência certa, cada contexto publica o que aconteceu e quem se interessa reage. Acoplamento cai. O custo: consistência eventual, eventos fora de ordem, duplicatas.
 
-## O que Wlaschin muda na conversa
+## Wlaschin e os tipos algébricos
 
-Scott Wlaschin, em *Domain Modeling Made Functional*, argumenta que tipos algébricos fazem mais pelo DDD do que qualquer framework OO. O ponto dele:
+Scott Wlaschin argumenta em *Domain Modeling Made Functional* que tipos algébricos fazem mais pelo DDD do que qualquer framework OO.
 
-- Um `EmailVerificado` e um `EmailNaoVerificado` são **tipos distintos**, não um `Email` com flag booleana. O compilador impede que você mande newsletter para email não verificado — não por validação em runtime, mas porque a assinatura da função não aceita o tipo errado.
-- Um workflow é uma função: `PedidoNaoValidado → Result<PedidoValidado, ErroDeValidacao>`. O pipeline inteiro do domínio se lê como uma sequência de transformações tipadas. Sem surpresas, sem exceções voando.
-- O modelo vira documentação. Quem lê a definição de tipos entende o domínio sem precisar de diagrama UML.
+`EmailVerificado` e `EmailNaoVerificado` são **tipos distintos** — não um `Email` com flag booleana. A função que dispara newsletter aceita `EmailVerificado` e ponto. Não é validação em runtime; é o compilador recusando o código errado antes de rodar.
 
-## Onde DDD não cabe
+Um workflow do domínio vira `PedidoNaoValidado → Result<PedidoValidado, ErroDeValidacao>`. Lê-se como pipeline. Quem lê a definição de tipos lê o domínio — sem diagrama UML, sem documentação paralela que envelhece no primeiro sprint.
 
-DDD tem custo. Exige investimento em conversa com especialistas, modelagem iterativa e refatoração constante do modelo. Se o domínio é um CRUD com regras triviais — cadastro de produto com nome, preço e estoque — DDD adiciona cerimônia sem retorno. Evans é explícito sobre isso: DDD é para **domínios complexos** onde a lógica de negócio é o problema, não a infraestrutura.
+## Quando não usar
 
-A pergunta antes de adotar não é "como implemento DDD?" — é "meu domínio justifica esse investimento?"
+DDD exige conversa com especialistas, modelagem iterativa, refatoração constante do modelo. Se o domínio é CRUD com regras triviais — cadastro de produto com nome, preço, estoque — a cerimônia não se paga. Evans é direto: DDD serve para domínios onde a lógica de negócio é o problema, não a infraestrutura.
+
+Antes de adotar: meu domínio justifica esse investimento?
