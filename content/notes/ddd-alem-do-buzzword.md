@@ -62,6 +62,6 @@ Scott Wlaschin desenvolve isso em *Domain Modeling Made Functional*.
 
 ## Quando não usar
 
-DDD tem custo. Conversa com especialistas, modelagem iterativa, refatoração constante. Num CRUD de cadastro de produto a cerimônia não se paga.
+DDD tem custo. Conversa com especialistas, modelagem iterativa, refatoração constante. Num CRUD de cadastro de produto o investimento não volta.
 
 O erro mais comum é o oposto: aplicar DDD em tudo e depois reclamar que "é burocrático". É burocrático mesmo, quando não precisa estar lá.
