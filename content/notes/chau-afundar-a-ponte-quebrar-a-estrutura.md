@@ -14,7 +14,7 @@ tags:
 has_commentary: false
 sources:
 - title: IV Encontro de Chinês Instrumental
-  url: ./iv-encontro-chines-instrumental.md
+  url: /notes/iv-encontro-chines-instrumental/
   kind: article
 ---
 

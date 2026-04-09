@@ -12,7 +12,7 @@ tags:
 has_commentary: true
 sources:
 - title: III Encontro de Chinês Instrumental
-  url: ./iii-encontro-chines-instrumental.md
+  url: /notes/iii-encontro-chines-instrumental/
   kind: article
 ---
 
