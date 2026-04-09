@@ -59,3 +59,8 @@ E como o Cantonês não tem um sistema oficial de transliteração equivalente a
 ### Tons
 
 Outro ponto que não tem equivalente em português: o tom muda o significado da palavra. Não é sotaque nem ênfase, é parte da identidade lexical do termo. Mandarim tem cinco tons, contando o tom neutro. Cantonês tem nove, embora as contagens variem entre seis e oito conforme a corrente de pesquisa. Mais tons significa mais discriminação semântica por sílaba, e também mais espaço para erro quando se está aprendendo.
+
+### Ver também
+
+- [Os quatro tons do Mandarim em Pinyin](/notes/os-quatro-tons-do-mandarim-em-pinyin/) — diacríticos, contornos e regras de sandhi.
+- [Os tons do Cantonês em Jyutping](/notes/os-tons-do-cantones-em-jyutping/) — os seis (ou nove) tons do Cantonês e o sistema de transliteração.
