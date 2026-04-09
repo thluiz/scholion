@@ -20,7 +20,7 @@ sources:
   kind: other
 ---
 
-[Post interessante](https://www.linkedin.com/posts/elenaverna_ai-activity-7447004362733826048-eAR1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAQ4F4cBAaOZwwnEmZExG7hhk_I_oinkXPM) no LinkeDisney, compartilhado pela [Stella lindona](https://www.linkedin.com/in/stellavaz/).
+[Post interessante](https://www.linkedin.com/posts/elenaverna_ai-activity-7447004362733826048-eAR1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAQ4F4cBAaOZwwnEmZExG7hhk_I_oinkXPM) no LinkeDisney, compartilhado pela [Stella lindona](https://www.linkedin.com/in/stellavaz/):
 
 *This week I wrote something more personal than usual. Not the wins. Not the frameworks. Just what it actually feels like to be in tech right now.*
 
