@@ -451,6 +451,75 @@
   margin-left: 0.35rem;
 }
 
+/* === Pagination === */
+.scholion-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  margin: 2.5rem 0 1rem;
+  flex-wrap: wrap;
+}
+
+.scholion-page-numbers {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  gap: 0.25rem;
+}
+
+.scholion-page {
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: 500;
+  padding: 0.35rem 0.7rem;
+  border-radius: 0.4rem;
+  border: 1px solid rgb(var(--color-neutral-300));
+  background: transparent;
+  color: rgb(var(--color-neutral-700));
+  text-decoration: none;
+  transition: all 0.15s ease;
+}
+
+.scholion-page:hover {
+  border-color: rgb(var(--color-primary-500));
+  color: rgb(var(--color-primary-700));
+}
+
+.scholion-page--current {
+  background: rgb(var(--color-primary-600));
+  color: white;
+  border-color: rgb(var(--color-primary-700));
+}
+
+.scholion-page--disabled {
+  color: rgb(var(--color-neutral-400));
+  border-color: rgb(var(--color-neutral-200));
+  cursor: not-allowed;
+}
+
+.scholion-page-ellipsis {
+  display: inline-block;
+  padding: 0.35rem 0.4rem;
+  color: rgb(var(--color-neutral-500));
+}
+
+.dark .scholion-page {
+  color: rgb(var(--color-neutral-300));
+  border-color: rgb(var(--color-neutral-700));
+}
+
+.dark .scholion-page:hover {
+  border-color: rgb(var(--color-primary-400));
+  color: rgb(var(--color-primary-300));
+}
+
+.dark .scholion-page--disabled {
+  color: rgb(var(--color-neutral-600));
+  border-color: rgb(var(--color-neutral-800));
+}
+
 /* === Tag cloud (página /tags/) === */
 .scholion-tag-cloud {
   display: flex;

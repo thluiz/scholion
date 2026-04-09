@@ -12,8 +12,9 @@
       </nav>
     </header>
 
+    {{ $paginator := .Paginate .Pages.ByDate.Reverse 40 }}
     <ul class="scholion-grid">
-      {{ range .Pages.ByDate.Reverse }}
+      {{ range $paginator.Pages }}
         {{ $kind := cond (.Params.has_commentary | default false) "commentary" "gloss" }}
         <li class="scholion-card scholion-card--{{ $kind }}" data-kind="{{ $kind }}">
           <a href="{{ .RelPermalink }}">
@@ -38,6 +39,8 @@
         </li>
       {{ end }}
     </ul>
+
+    {{ partial "scholion-pagination.html" $paginator }}
   </section>
 
   <script>
