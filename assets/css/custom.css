@@ -301,38 +301,18 @@
   border-left: 3px solid rgb(var(--color-primary-500));
 }
 
-/* Indicador "fixada" — chip explícito no top-left, sem ambiguidade */
+/* Indicador "fixada" — apenas a estrela */
 .scholion-card-pin {
   position: absolute;
-  top: 0.55rem;
-  left: 0.55rem;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.25rem;
-  font-size: 0.6rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  color: rgb(var(--color-primary-800));
-  background: rgb(var(--color-primary-100));
-  padding: 0.15rem 0.45rem 0.15rem 0.4rem;
-  border-radius: 0.25rem;
-  border: 1px solid rgb(var(--color-primary-300));
+  top: 0.5rem;
+  left: 0.6rem;
+  font-size: 0.95rem;
+  color: rgb(var(--color-primary-600));
   line-height: 1;
 }
 
-.scholion-card-pin::before {
-  content: "★";
-  font-size: 0.7rem;
-}
-
-.scholion-card-pin-text {
-  font-size: 0.55rem;
-}
-
-/* Pinned cards shift the title down slightly so the badge doesn't overlap */
-.scholion-card--pinned .scholion-card-body {
-  padding-top: 1.1rem;
+.dark .scholion-card-pin {
+  color: rgb(var(--color-primary-400));
 }
 
 .scholion-card--pinned {
