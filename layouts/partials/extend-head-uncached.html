@@ -2,17 +2,16 @@
 
 {{- if .IsPage -}}
   {{- $base := resources.Get "images/og-base.png" -}}
-  {{- $titleFont := resources.Get "fonts/SchibstedGrotesk-Bold.ttf" -}}
-  {{- $bodyFont := resources.Get "fonts/SourceSansPro-Regular.ttf" -}}
+  {{- $cjkFont := resources.Get "fonts/NotoSansSC-VF.ttf" -}}
 
-  {{- if and $base $titleFont $bodyFont -}}
+  {{- if and $base $cjkFont -}}
     {{/* Site name (top, subdued amber) */}}
     {{- $img := $base.Filter (images.Text "scholion.thluiz.com" (dict
       "color" "#fbbf24"
       "size" 24
       "x" 60
       "y" 40
-      "font" $bodyFont
+      "font" $cjkFont
     )) -}}
 
     {{/* Title (big, near-white) */}}
@@ -24,7 +23,7 @@
       "x" 60
       "y" 95
       "linespacing" 14
-      "font" $titleFont
+      "font" $cjkFont
     )) -}}
 
     {{/* Summary / description (mid, light gray) */}}
@@ -37,7 +36,7 @@
         "x" 60
         "y" 290
         "linespacing" 12
-        "font" $bodyFont
+        "font" $cjkFont
       )) -}}
     {{- end -}}
 
@@ -48,7 +47,7 @@
         "size" 26
         "x" 60
         "y" 555
-        "font" $bodyFont
+        "font" $cjkFont
       )) -}}
     {{- end -}}
 
@@ -63,7 +62,7 @@
         "size" 26
         "x" 580
         "y" 555
-        "font" $bodyFont
+        "font" $cjkFont
       )) -}}
     {{- end -}}
 
