@@ -1,0 +1,105 @@
+{{ define "main" }}
+  {{/* Build a dict of unique sources keyed by lower(title|url), grouped by kind */}}
+  {{ $allNotes := where site.RegularPages "Section" "notes" }}
+
+  {{/* sourcesByKind: dict[kind] -> dict[key] -> {title, author, year, publisher, url, kind, notes[]} */}}
+  {{ $sourcesByKind := dict }}
+  {{ $kindOrder := slice "book" "paper" "article" "wiki" "podcast" "video" "poem" "film" "repo" "note" "other" }}
+
+  {{ range $allNotes }}
+    {{ $note := . }}
+    {{ range .Params.sources }}
+      {{ $title := .title | default "" }}
+      {{ if $title }}
+        {{ $kind := .kind | default "other" | lower }}
+        {{ $key := lower $title }}
+        {{ if .url }}{{ $key = printf "%s|%s" $key .url }}{{ end }}
+
+        {{ $kindBucket := index $sourcesByKind $kind | default dict }}
+        {{ $existing := index $kindBucket $key }}
+        {{ if $existing }}
+          {{ $notes := index $existing "notes" }}
+          {{ $notes = $notes | append $note }}
+          {{ $existing = merge $existing (dict "notes" $notes) }}
+          {{ $kindBucket = merge $kindBucket (dict $key $existing) }}
+        {{ else }}
+          {{ $entry := dict
+            "title" $title
+            "author" (.author | default "")
+            "year" (.year | default "")
+            "publisher" (.publisher | default "")
+            "url" (.url | default "")
+            "kind" $kind
+            "notes" (slice $note)
+          }}
+          {{ $kindBucket = merge $kindBucket (dict $key $entry) }}
+        {{ end }}
+        {{ $sourcesByKind = merge $sourcesByKind (dict $kind $kindBucket) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{/* Count totals for header */}}
+  {{ $totalSources := 0 }}
+  {{ range $sourcesByKind }}
+    {{ $totalSources = add $totalSources (len .) }}
+  {{ end }}
+
+  {{ $kindLabels := dict
+    "book" "Livros"
+    "article" "Artigos"
+    "wiki" "Wikipedia"
+    "podcast" "Podcasts"
+    "video" "Vídeos"
+    "paper" "Papers"
+    "poem" "Poemas"
+    "film" "Filmes"
+    "repo" "Repositórios"
+    "note" "Outras notas"
+    "other" "Outras"
+  }}
+
+  <section class="scholion-sources-index">
+    <header class="scholion-list-header">
+      <h1>Fontes</h1>
+      <p class="scholion-desc">Tudo que foi citado nas notas, agrupado por tipo.</p>
+      <p class="scholion-count">{{ $totalSources }} fontes únicas em {{ len $allNotes }} notas</p>
+    </header>
+
+    {{ range $kind := $kindOrder }}
+      {{ $bucket := index $sourcesByKind $kind }}
+      {{ if $bucket }}
+        {{ $items := slice }}
+        {{ range $bucket }}{{ $items = $items | append . }}{{ end }}
+        {{ $sortedItems := sort $items "title" "asc" }}
+        <section class="scholion-sources-section" id="{{ $kind }}">
+          <h2 class="scholion-sources-kind">
+            {{ index $kindLabels $kind | default $kind }}
+            <span class="scholion-sources-kind-count">{{ len $items }}</span>
+          </h2>
+          <ul class="scholion-sources-items">
+            {{ range $sortedItems }}
+              <li class="scholion-sources-item">
+                <details>
+                  <summary>
+                    <span class="scholion-sources-item-title">
+                      {{ if .url }}<a href="{{ .url }}" rel="noopener" target="_blank">{{ .title }}</a>{{ else }}{{ .title }}{{ end }}
+                    </span>
+                    {{ with .author }}<span class="scholion-sources-item-author">{{ . }}</span>{{ end }}
+                    {{ with .year }}<span class="scholion-sources-item-year">({{ . }})</span>{{ end }}
+                    <span class="scholion-sources-item-count">{{ len .notes }} {{ if eq (len .notes) 1 }}nota{{ else }}notas{{ end }}</span>
+                  </summary>
+                  <ul class="scholion-sources-item-notes">
+                    {{ range .notes }}
+                      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <time>{{ .Date.Format "2 Jan 2006" }}</time></li>
+                    {{ end }}
+                  </ul>
+                </details>
+              </li>
+            {{ end }}
+          </ul>
+        </section>
+      {{ end }}
+    {{ end }}
+  </section>
+{{ end }}
