@@ -208,6 +208,18 @@
   margin: 0;
 }
 
+@media (min-width: 1200px) {
+  .scholion-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (min-width: 1800px) {
+  .scholion-grid {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+
 .scholion-card {
   position: relative;
   min-height: 10rem;
