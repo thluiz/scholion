@@ -8,7 +8,7 @@ tags:
 - esquerda
 - pratica-do-comum
 pinned: true
-pin_weight: 90
+pin_weight: 97
 has_commentary: true
 sources:
 - title: 'Viracasacas #478 — Viramaxxing com Letícia Cesarino @ 01:07:34'
