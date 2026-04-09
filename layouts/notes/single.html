@@ -17,6 +17,24 @@
       {{ .Content }}
     </div>
 
+    <nav class="scholion-note-nav" aria-label="Navegação entre notas">
+      <a class="scholion-note-nav-back" href="{{ "/notes/" | relURL }}">← todas as notas</a>
+      <div class="scholion-note-nav-siblings">
+        {{ with .PrevInSection }}
+          <a class="scholion-note-nav-prev" href="{{ .RelPermalink }}" rel="prev">
+            <span class="scholion-note-nav-arrow">←</span>
+            <span class="scholion-note-nav-label">{{ .Title }}</span>
+          </a>
+        {{ end }}
+        {{ with .NextInSection }}
+          <a class="scholion-note-nav-next" href="{{ .RelPermalink }}" rel="next">
+            <span class="scholion-note-nav-label">{{ .Title }}</span>
+            <span class="scholion-note-nav-arrow">→</span>
+          </a>
+        {{ end }}
+      </div>
+    </nav>
+
     {{ with .Params.sources }}
       <aside class="scholion-sources">
         <h2>Fontes</h2>
