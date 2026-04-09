@@ -1,0 +1,79 @@
+{{/* Scholion OG image generation — adapted from Vox-Hugo */}}
+
+{{- if .IsPage -}}
+  {{- $base := resources.Get "images/og-base.png" -}}
+  {{- $titleFont := resources.Get "fonts/SchibstedGrotesk-Bold.ttf" -}}
+  {{- $bodyFont := resources.Get "fonts/SourceSansPro-Regular.ttf" -}}
+
+  {{- if and $base $titleFont $bodyFont -}}
+    {{/* Site name (top, subdued amber) */}}
+    {{- $img := $base.Filter (images.Text "scholion.thluiz.com" (dict
+      "color" "#fbbf24"
+      "size" 24
+      "x" 60
+      "y" 40
+      "font" $bodyFont
+    )) -}}
+
+    {{/* Title (big, near-white) */}}
+    {{- $title := .Title | string -}}
+    {{- if gt (len $title) 120 -}}{{- $title = printf "%s…" (substr $title 0 117) -}}{{- end -}}
+    {{- $img = $img.Filter (images.Text $title (dict
+      "color" "#ebebec"
+      "size" 50
+      "x" 60
+      "y" 95
+      "linespacing" 14
+      "font" $titleFont
+    )) -}}
+
+    {{/* Summary / description (mid, light gray) */}}
+    {{- $rawDesc := .Params.summary | default (.Plain | truncate 350) -}}
+    {{- $desc := substr (string $rawDesc) 0 320 -}}
+    {{- if $desc -}}
+      {{- $img = $img.Filter (images.Text $desc (dict
+        "color" "#b8b8b8"
+        "size" 32
+        "x" 60
+        "y" 290
+        "linespacing" 12
+        "font" $bodyFont
+      )) -}}
+    {{- end -}}
+
+    {{/* Date (bottom-left, gray) */}}
+    {{- with .Date -}}
+      {{- $img = $img.Filter (images.Text (.Format "02 Jan 2006") (dict
+        "color" "#9ca3af"
+        "size" 26
+        "x" 60
+        "y" 555
+        "font" $bodyFont
+      )) -}}
+    {{- end -}}
+
+    {{/* Tags (bottom-right, amber) — first 3 */}}
+    {{- with .Params.tags -}}
+      {{- $tagStr := "" -}}
+      {{- range first 3 . -}}
+        {{- $tagStr = printf "%s  #%s" $tagStr . -}}
+      {{- end -}}
+      {{- $img = $img.Filter (images.Text (strings.TrimLeft " " $tagStr) (dict
+        "color" "#fbbf24"
+        "size" 26
+        "x" 580
+        "y" 555
+        "font" $bodyFont
+      )) -}}
+    {{- end -}}
+
+    {{- $img = $img.Filter (images.Process "webp") -}}
+    {{- $img = resources.Copy (printf "%sog.webp" .RelPermalink) $img -}}
+    <meta property="og:image" content="{{ $img.Permalink }}">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:type" content="image/webp">
+    <meta name="twitter:image" content="{{ $img.Permalink }}">
+    <meta name="twitter:card" content="summary_large_image">
+  {{- end -}}
+{{- end -}}
