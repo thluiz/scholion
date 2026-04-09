@@ -8,7 +8,9 @@
 }
 
 .main-menu a:hover .logo,
-.main-menu a:hover img.logo {
+.main-menu a:hover img.logo,
+.main-menu:has(a:hover) .logo,
+.main-menu:has(a:hover) img.logo {
   filter: grayscale(0%);
 }
 
