@@ -20,7 +20,7 @@ sources:
   url: https://www.routledge.com/Chinese-A-Comprehensive-Grammar/Yip-Rimmington/p/book/9781138840164
   kind: book
 - title: I Encontro de Chinês Instrumental
-  url: ./i-encontro-chines-instrumental.md
+  url: /notes/i-encontro-chines-instrumental/
   kind: note
 ---
 

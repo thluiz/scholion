@@ -10,7 +10,7 @@ tags:
 has_commentary: false
 sources:
 - title: I Encontro de Chinês Instrumental
-  url: ./i-encontro-chines-instrumental.md
+  url: /notes/i-encontro-chines-instrumental/
   kind: article
 ---
 

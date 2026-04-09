@@ -11,7 +11,7 @@ tags:
 has_commentary: false
 sources:
 - title: II Encontro de Chinês Instrumental
-  url: ./ii-encontro-chines-instrumental.md
+  url: /notes/ii-encontro-chines-instrumental/
   kind: article
 ---
 

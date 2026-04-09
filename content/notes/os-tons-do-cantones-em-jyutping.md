@@ -21,7 +21,7 @@ sources:
   url: https://www.mdbg.net/chinese/dictionary
   kind: article
 - title: I Encontro de Chinês Instrumental
-  url: ./i-encontro-chines-instrumental.md
+  url: /notes/i-encontro-chines-instrumental/
   kind: note
 ---
 
