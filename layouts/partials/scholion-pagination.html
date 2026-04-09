@@ -1,0 +1,39 @@
+{{ $p := . }}
+{{ if gt $p.TotalPages 1 }}
+  <nav class="scholion-pagination" aria-label="Paginação">
+    {{ if $p.HasPrev }}
+      <a class="scholion-page" href="{{ $p.Prev.URL }}" rel="prev">← anterior</a>
+    {{ else }}
+      <span class="scholion-page scholion-page--disabled">← anterior</span>
+    {{ end }}
+
+    <ol class="scholion-page-numbers">
+      {{ $current := $p.PageNumber }}
+      {{ $total := $p.TotalPages }}
+      {{ $window := 2 }}
+      {{ range $i := seq 1 $total }}
+        {{ $show := or (le $i (add $window 1)) (ge $i (sub $total $window)) }}
+        {{ if not $show }}
+          {{ $show = and (ge $i (sub $current $window)) (le $i (add $current $window)) }}
+        {{ end }}
+        {{ if $show }}
+          <li>
+            {{ if eq $i $current }}
+              <span class="scholion-page scholion-page--current">{{ $i }}</span>
+            {{ else }}
+              <a class="scholion-page" href="{{ (index $p.Pagers (sub $i 1)).URL }}">{{ $i }}</a>
+            {{ end }}
+          </li>
+        {{ else if or (eq $i (add $window 2)) (eq $i (sub $total (add $window 1))) }}
+          <li><span class="scholion-page-ellipsis">…</span></li>
+        {{ end }}
+      {{ end }}
+    </ol>
+
+    {{ if $p.HasNext }}
+      <a class="scholion-page" href="{{ $p.Next.URL }}" rel="next">próxima →</a>
+    {{ else }}
+      <span class="scholion-page scholion-page--disabled">próxima →</span>
+    {{ end }}
+  </nav>
+{{ end }}
