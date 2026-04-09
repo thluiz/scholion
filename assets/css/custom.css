@@ -210,7 +210,7 @@
 
 .scholion-card {
   position: relative;
-  aspect-ratio: 1 / 1;
+  min-height: 10rem;
   border-radius: 0.5rem;
   overflow: hidden;
   background: rgb(var(--color-neutral-50));
