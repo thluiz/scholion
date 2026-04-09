@@ -76,3 +76,14 @@
     <meta name="twitter:card" content="summary_large_image">
   {{- end -}}
 {{- end -}}
+
+{{/* Cmd/Ctrl+K opens search (Blowfish already binds '/') */}}
+<script>
+document.addEventListener('keydown', function(e) {
+  if ((e.ctrlKey || e.metaKey) && (e.key === 'k' || e.key === 'K')) {
+    e.preventDefault();
+    var btn = document.getElementById('search-button') || document.getElementById('search-button-mobile');
+    if (btn) btn.click();
+  }
+});
+</script>
