@@ -35,6 +35,23 @@
       </div>
     </nav>
 
+    {{ $related := first 4 (.Site.RegularPages.Related .) }}
+    {{ if $related }}
+      <aside class="scholion-related">
+        <h2>Notas relacionadas</h2>
+        <ul>
+          {{ range $related }}
+            <li>
+              <a href="{{ .RelPermalink }}">
+                <span class="scholion-related-title">{{ .Title }}</span>
+                {{ with .Params.summary }}<span class="scholion-related-summary">{{ . }}</span>{{ end }}
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      </aside>
+    {{ end }}
+
     {{ with .Params.sources }}
       <aside class="scholion-sources">
         <h2>Fontes</h2>

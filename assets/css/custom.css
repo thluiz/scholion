@@ -647,6 +647,94 @@
   }
 }
 
+/* === Related notes === */
+.scholion-related {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgb(var(--color-neutral-200));
+}
+
+.dark .scholion-related {
+  border-top-color: rgb(78, 71, 67);
+}
+
+.scholion-related h2 {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: rgb(var(--color-neutral-500));
+  margin: 0 0 0.85rem 0;
+  font-weight: 600;
+}
+
+.scholion-related ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.6rem;
+}
+
+@media (max-width: 640px) {
+  .scholion-related ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+.scholion-related li a {
+  display: block;
+  padding: 0.75rem 0.9rem;
+  border: 1px solid rgb(var(--color-neutral-200));
+  border-radius: 0.5rem;
+  background: rgb(var(--color-neutral));
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.15s ease;
+  height: 100%;
+}
+
+.scholion-related li a:hover {
+  border-color: rgb(var(--color-primary-500));
+  transform: translateY(-1px);
+}
+
+.dark .scholion-related li a {
+  background: rgb(72, 66, 62);
+  border-color: rgb(94, 87, 82);
+}
+
+.dark .scholion-related li a:hover {
+  border-color: rgb(var(--color-primary-400));
+}
+
+.scholion-related-title {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: rgb(var(--color-neutral-800));
+  margin-bottom: 0.25rem;
+  line-height: 1.3;
+}
+
+.scholion-related-summary {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  font-size: 0.75rem;
+  color: rgb(var(--color-neutral-600));
+  line-height: 1.4;
+}
+
+.dark .scholion-related-title {
+  color: rgb(var(--color-neutral-100));
+}
+
+.dark .scholion-related-summary {
+  color: rgb(var(--color-neutral-400));
+}
+
 /* === Sources === */
 .scholion-sources {
   margin-top: 2.5rem;

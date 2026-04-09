@@ -12,8 +12,18 @@
       {{ $title := .title | default "" }}
       {{ if $title }}
         {{ $kind := .kind | default "other" | lower }}
-        {{ $key := lower $title }}
-        {{ if .url }}{{ $key = printf "%s|%s" $key .url }}{{ end }}
+        {{/* Normalize URL by stripping fragment + query, then use as dedup key.
+             Falls back to a normalized title (lowercase, whitespace-collapsed,
+             dash-folded) when there is no URL. */}}
+        {{ $cleanUrl := "" }}
+        {{ with .url }}
+          {{ $cleanUrl = replaceRE "[#?].*$" "" . }}
+        {{ end }}
+        {{ $normTitle := $title | lower }}
+        {{ $normTitle = replaceRE "[\\s]+" " " $normTitle }}
+        {{ $normTitle = replaceRE "[—–-]+" "-" $normTitle }}
+        {{ $normTitle = trim $normTitle " " }}
+        {{ $key := cond (ne $cleanUrl "") $cleanUrl $normTitle }}
 
         {{ $kindBucket := index $sourcesByKind $kind | default dict }}
         {{ $existing := index $kindBucket $key }}
@@ -28,7 +38,7 @@
             "author" (.author | default "")
             "year" (.year | default "")
             "publisher" (.publisher | default "")
-            "url" (.url | default "")
+            "url" $cleanUrl
             "kind" $kind
             "notes" (slice $note)
           }}
