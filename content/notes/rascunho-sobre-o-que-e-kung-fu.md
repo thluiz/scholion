@@ -6,6 +6,8 @@ tags:
 - kung-fu
 - pensamento-sistemico
 - ving-tsun
+pinned: true
+pin_weight: 75
 has_commentary: true
 sources:
 - title: Rascunho para livro sobre pensamento sistêmico e Ving Tsun
