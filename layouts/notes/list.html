@@ -10,7 +10,8 @@
     <header class="scholion-list-header">
       <h1>{{ .Title }}</h1>
       {{ with .Description }}<p class="scholion-desc">{{ . }}</p>{{ end }}
-      <p class="scholion-count">{{ len .Pages }} notas</p>
+      {{ $latest := index (.Pages.ByDate.Reverse) 0 }}
+      <p class="scholion-count">{{ len .Pages }} notas <span class="scholion-count-sep">·</span> última: <time datetime="{{ $latest.Date.Format "2006-01-02" }}">{{ $latest.Date.Format "2 Jan 2006" }}</time></p>
     </header>
 
     <ul class="scholion-grid">
