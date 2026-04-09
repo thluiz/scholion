@@ -1,3 +1,25 @@
+/* === Header / logo === */
+.main-menu .logo,
+.main-menu img.logo {
+  height: 2.5rem;
+  width: 2.5rem;
+  filter: grayscale(100%);
+  transition: filter 0.2s ease;
+}
+
+.main-menu a:hover .logo,
+.main-menu a:hover img.logo {
+  filter: grayscale(0%);
+}
+
+@media (min-width: 640px) {
+  .main-menu .logo,
+  .main-menu img.logo {
+    height: 3rem;
+    width: 3rem;
+  }
+}
+
 /* === Scholion custom layout === */
 
 .scholion-list {
@@ -268,7 +290,8 @@
   margin: 0 0 1.5rem 0;
 }
 
-.scholion-note-tags li {
+.scholion-note-tags li a {
+  display: inline-block;
   font-size: 0.65rem;
   font-weight: 600;
   color: rgb(var(--color-neutral-600));
@@ -276,11 +299,23 @@
   border: 1px solid rgb(var(--color-neutral-300));
   padding: 0.1rem 0.45rem;
   border-radius: 0.3rem;
+  text-decoration: none;
+  transition: all 0.15s ease;
 }
 
-.dark .scholion-note-tags li {
+.scholion-note-tags li a:hover {
+  border-color: rgb(var(--color-primary-500));
+  color: rgb(var(--color-primary-700));
+}
+
+.dark .scholion-note-tags li a {
   color: rgb(var(--color-neutral-300));
   border-color: rgb(var(--color-neutral-600));
+}
+
+.dark .scholion-note-tags li a:hover {
+  border-color: rgb(var(--color-primary-400));
+  color: rgb(var(--color-primary-300));
 }
 
 .scholion-note-body {
@@ -305,10 +340,54 @@
   color: rgb(var(--color-neutral-300));
 }
 
+.scholion-note-body h1,
 .scholion-note-body h2,
+.scholion-note-body h3,
+.scholion-note-body h4 {
+  font-weight: 700;
+  line-height: 1.25;
+  color: rgb(var(--color-neutral-900));
+  letter-spacing: -0.01em;
+}
+
+.dark .scholion-note-body h1,
+.dark .scholion-note-body h2,
+.dark .scholion-note-body h3,
+.dark .scholion-note-body h4 {
+  color: rgb(var(--color-neutral-100));
+}
+
+.scholion-note-body h2 {
+  font-size: 1.5rem;
+  margin: 2.25rem 0 0.75rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid rgb(var(--color-neutral-200));
+}
+
+.dark .scholion-note-body h2 {
+  border-bottom-color: rgb(var(--color-neutral-700));
+}
+
 .scholion-note-body h3 {
-  margin-top: 1.75rem;
-  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+  margin: 1.75rem 0 0.5rem;
+  color: rgb(var(--color-primary-800));
+}
+
+.dark .scholion-note-body h3 {
+  color: rgb(var(--color-primary-300));
+}
+
+.scholion-note-body h4 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: rgb(var(--color-neutral-600));
+  margin: 1.5rem 0 0.4rem;
+}
+
+.dark .scholion-note-body h4 {
+  color: rgb(var(--color-neutral-400));
 }
 
 /* === Sources === */

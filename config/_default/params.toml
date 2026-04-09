@@ -2,6 +2,9 @@ colorScheme = "scholion"
 defaultAppearance = "light"
 autoSwitchAppearance = true
 
+logo = "img/seal.png"
+disableTextInHeader = false
+
 enableSearch = true
 enableCodeCopy = false
 

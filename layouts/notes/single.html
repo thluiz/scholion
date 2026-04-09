@@ -5,11 +5,10 @@
       <h1>{{ .Title }}</h1>
       <div class="scholion-note-meta">
         <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
-        {{ if .Params.has_commentary }}<span class="scholion-badge">com comentário</span>{{ else }}<span class="scholion-badge scholion-badge--gloss">glosa</span>{{ end }}
       </div>
       {{ with .Params.tags }}
         <ul class="scholion-note-tags">
-          {{ range . }}<li>#{{ . }}</li>{{ end }}
+          {{ range . }}<li><a href="{{ "/tags/" | relURL }}{{ . | urlize }}/">#{{ . }}</a></li>{{ end }}
         </ul>
       {{ end }}
     </header>
