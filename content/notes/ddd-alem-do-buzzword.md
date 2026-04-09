@@ -22,7 +22,7 @@ sources:
     kind: book
 ---
 
-A maioria dos projetos que diz usar DDD tem uma pasta chamada `Domain/` com classes anêmicas dentro. Isso é organização de diretório, não DDD.
+Já perdi a conta de quantos projetos vi com pasta `Domain/` cheia de classes anêmicas e a equipe jurando que "usa DDD". Isso é organização de diretório, não DDD.
 
 ## As 400 páginas que ninguém leu
 
@@ -42,7 +42,7 @@ A regra do Vaughn Vernon: Aggregates pequenos. Entity raiz, mínimo de estado in
 
 Bounded Context é perímetro semântico. Dentro dele, "Conta" significa uma coisa. No contexto vizinho, outra. A fronteira é de linguagem, não de deploy.
 
-Dois Bounded Contexts podem viver no mesmo monólito, em módulos separados. Um microsserviço pode violar fronteiras de contexto por todo lado. Confundir um com o outro sai caro.
+Dois Bounded Contexts podem viver no mesmo monólito, em módulos separados. Um microsserviço pode violar fronteiras de contexto por todo lado. Confundir um com o outro é das confusões mais caras que já vi em projeto.
 
 ## Domain Events
 
@@ -62,4 +62,4 @@ Um workflow do domínio vira `PedidoNaoValidado → Result<PedidoValidado, ErroD
 
 DDD exige conversa com especialistas, modelagem iterativa, refatoração constante do modelo. Se o domínio é CRUD com regras triviais — cadastro de produto com nome, preço, estoque — a cerimônia não se paga. Evans é direto: DDD serve para domínios onde a lógica de negócio é o problema, não a infraestrutura.
 
-Antes de adotar: meu domínio justifica esse investimento?
+O erro comum é o oposto: aplicar DDD em tudo e reclamar que "é burocrático".
