@@ -1,7 +1,8 @@
 {{ define "main" }}
   {{ $allNotes := where site.RegularPages "Section" "notes" }}
   {{ $sorted := $allNotes.ByDate.Reverse }}
-  {{ $pinned := (where $allNotes "Params.pinned" true).ByDate.Reverse }}
+  {{ $pinnedRaw := where $allNotes "Params.pinned" true }}
+  {{ $pinned := sort $pinnedRaw "Params.pin_weight" "desc" }}
   {{ $recent := first 12 $sorted }}
   {{ $latest := index $sorted 0 }}
 
@@ -11,6 +12,8 @@
     {{ $tagsList = $tagsList | append (dict "name" $name "count" (len $taxonomy.Pages)) }}
   {{ end }}
   {{ $topTags := first 12 (sort $tagsList "count" "desc") }}
+
+  {{ $pinnedVisible := 3 }}
 
   <section class="scholion-home">
     <header class="scholion-list-header">
@@ -22,33 +25,38 @@
     {{ if $pinned }}
       <section class="scholion-home-section">
         <h2 class="scholion-home-section-title">Em destaque</h2>
-        <ul class="scholion-grid">
-          {{ range $pinned }}
-            {{ $kind := cond (.Params.has_commentary | default false) "commentary" "gloss" }}
-            <li class="scholion-card scholion-card--{{ $kind }} scholion-card--pinned" data-kind="{{ $kind }}">
-              <a href="{{ .RelPermalink }}">
+        <ul class="scholion-grid" id="pinned-grid">
+          {{ range $i, $p := $pinned }}
+            {{ $kind := cond ($p.Params.has_commentary | default false) "commentary" "gloss" }}
+            <li class="scholion-card scholion-card--{{ $kind }} scholion-card--pinned{{ if ge $i $pinnedVisible }} scholion-card--collapsed{{ end }}" data-kind="{{ $kind }}">
+              <a href="{{ $p.RelPermalink }}">
                 <div class="scholion-card-body">
-                  <h3 class="scholion-card-title">{{ .Title }}</h3>
-                  {{ with .Params.summary }}
+                  <h3 class="scholion-card-title">{{ $p.Title }}</h3>
+                  {{ with $p.Params.summary }}
                     <p class="scholion-card-summary">{{ . }}</p>
                   {{ end }}
                 </div>
                 <div class="scholion-card-meta">
-                  {{ with .Params.tags }}
+                  {{ with $p.Params.tags }}
                     <ul class="scholion-card-tags">
                       {{ range first 3 . }}<li>#{{ . }}</li>{{ end }}
                     </ul>
                   {{ end }}
-                  <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+                  <time datetime="{{ $p.Date.Format "2006-01-02" }}">{{ $p.Date.Format "2 Jan 2006" }}</time>
                 </div>
                 <span class="scholion-card-pin" title="fixada">★</span>
-                {{ if .Params.has_commentary }}
+                {{ if $p.Params.has_commentary }}
                   <span class="scholion-card-mark" title="com comentário">●</span>
                 {{ end }}
               </a>
             </li>
           {{ end }}
         </ul>
+        {{ if gt (len $pinned) $pinnedVisible }}
+          <button class="scholion-show-more" id="toggle-pinned" aria-expanded="false">
+            ver mais <span class="scholion-show-more-count">(+{{ sub (len $pinned) $pinnedVisible }})</span>
+          </button>
+        {{ end }}
       </section>
     {{ end }}
 
@@ -106,4 +114,23 @@
       </ul>
     </section>
   </section>
+
+  <script>
+    (function() {
+      var btn = document.getElementById('toggle-pinned');
+      if (!btn) return;
+      var grid = document.getElementById('pinned-grid');
+      btn.addEventListener('click', function() {
+        var expanded = btn.getAttribute('aria-expanded') === 'true';
+        grid.querySelectorAll('.scholion-card--collapsed').forEach(function(c) {
+          c.style.display = expanded ? 'none' : '';
+          c.classList.toggle('scholion-card--revealed', !expanded);
+        });
+        btn.setAttribute('aria-expanded', String(!expanded));
+        btn.innerHTML = expanded
+          ? 'ver mais <span class="scholion-show-more-count">(+' + grid.querySelectorAll('.scholion-card--collapsed').length + ')</span>'
+          : 'ver menos';
+      });
+    })();
+  </script>
 {{ end }}
