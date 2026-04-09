@@ -20,25 +20,6 @@ sources:
   kind: other
 ---
 
-*This week I wrote something more personal than usual. Not the wins. Not the frameworks. Just what it actually feels like to be in tech right now.*
-
-*1. Feeling behind*
-*The speed of AI is hard to process. Some days it feels like a full-time job just to keep up, and even then I'm not sure I am.*
-
-*2. Living through AI confidence theater*
-*Everyone has a system, a stack, a workflow that supposedly changed their life, cured burnout, and maybe whitened their teeth. It creates the illusion that everyone else has it figured out. So you hesitate to ask basic questions, because it feels like you're the only one who doesn't get it.*
-
-*3. Mourning my skillset*
-*I spent a decade getting good at things that are rapidly losing leverage. It's a strange experience to become excellent at something only to watch a 22-year-old produce a suspiciously solid version of it in 14 minutes. Not the best version. But enough to make you go — wow, okay.*
-
-*4. The reward for efficiency is… more work*
-*If AI makes you 10x faster, nobody says "great, enjoy your afternoon." They ask why you're not doing 10x more. Productivity gains get absorbed immediately. Very on-brand for tech.*
-
-*5. The part we don't want to talk about: economics*
-*If output goes up while the cost of producing that output goes down, what happens to compensation?*
-
-*And lastly, the question I keep coming back to: Are we the last generation that built careers around software? We leaned all the way in. Learned the tools, the systems, the playbooks. Rode cloud. Drove digital transformation. Built careers on knowing how to operate software better than others. We're also the sandwich generation that still explains software to our parents and now has to explain AI to our kids... while sprinting to automate/eliminate our own jobs.*
-
 [Post interessante](https://www.linkedin.com/posts/elenaverna_ai-activity-7447004362733826048-eAR1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAQ4F4cBAaOZwwnEmZExG7hhk_I_oinkXPM) no LinkeDisney, compartilhado pela [Stella lindona](https://www.linkedin.com/in/stellavaz/).
 
 *This week I wrote something more personal than usual. Not the wins. Not the frameworks. Just what it actually feels like to be in tech right now.*
