@@ -378,6 +378,28 @@
   color: rgb(var(--color-neutral-800));
 }
 
+.scholion-note-body p {
+  margin: 0 0 1.25rem 0;
+}
+
+.scholion-note-body p:last-child {
+  margin-bottom: 0;
+}
+
+.scholion-note-body ul,
+.scholion-note-body ol {
+  margin: 0 0 1.25rem 0;
+  padding-left: 1.5rem;
+}
+
+.scholion-note-body li {
+  margin-bottom: 0.5rem;
+}
+
+.scholion-note-body li:last-child {
+  margin-bottom: 0;
+}
+
 .dark .scholion-note-body {
   color: rgb(var(--color-neutral-200));
 }
