@@ -7,7 +7,16 @@ tags:
 - chinese-philosophy
 - holism
 has_commentary: true
-sources: []
+sources:
+- title: 'Systems Thinking: A Comparison between Chinese and Western Approaches — ScienceDirect'
+  url: https://www.sciencedirect.com/science/article/pii/S1877050913001099
+  kind: article
+- title: Yinyang Wuxing — Encyclopedia.com
+  url: https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/yinyang-wuxing
+  kind: article
+- title: Cantonese Dictionary — 系統
+  url: https://www.cantonese.sheik.co.uk/dictionary/words/3130/
+  kind: article
 ---
 
 Holism over Reductionism: Classical Chinese thought rejects isolating parts; everything interconnects via qi, yin-yang, and wuxing (Five Phases: Wood, Fire, Earth, Metal, Water), mirroring systems theory's emphasis on wholes. "Tong" embodies "sameness in difference" (he hui 合會), where diverse elements unify dynamically.
@@ -19,8 +28,3 @@ Chinese systems thinking roots in holistic, interconnected views from classical 
 cantonese:
 系  hai6  -  system; department
 統  tung2  -  unite; administer; interrelated system; all
-
-Fontes:
-- [Systems Thinking: A Comparison between Chinese and Western Approaches — ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1877050913001099)
-- [Yinyang Wuxing — Encyclopedia.com](https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/yinyang-wuxing)
-- [Cantonese Dictionary — 系統](https://www.cantonese.sheik.co.uk/dictionary/words/3130/)
