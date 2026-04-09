@@ -6,6 +6,7 @@ tags:
 - organizações
 - burocracia
 - gestão
+pinned: true
 has_commentary: true
 sources:
 - title: 'RT Comentado 56 – Como sabotar seu chefe: o manual secreto da OSS'

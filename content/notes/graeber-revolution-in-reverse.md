@@ -7,6 +7,7 @@ tags:
 - soberania-digital
 - esquerda
 - pratica-do-comum
+pinned: true
 has_commentary: true
 sources:
 - title: 'Viracasacas #478 — Viramaxxing com Letícia Cesarino @ 01:07:34'
