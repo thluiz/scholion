@@ -13,8 +13,6 @@
   {{ end }}
   {{ $topTags := first 12 (sort $tagsList "count" "desc") }}
 
-  {{ $pinnedVisible := 3 }}
-
   <section class="scholion-home">
     <header class="scholion-list-header">
       <h1>Scholion</h1>
@@ -27,35 +25,35 @@
       <section class="scholion-home-section">
         <h2 class="scholion-home-section-title">Em destaque</h2>
         <ul class="scholion-grid" id="pinned-grid">
-          {{ range $i, $p := $pinned }}
-            {{ $kind := cond ($p.Params.has_commentary | default false) "commentary" "gloss" }}
-            <li class="scholion-card scholion-card--{{ $kind }} scholion-card--pinned{{ if ge $i $pinnedVisible }} scholion-card--collapsed{{ end }}" data-kind="{{ $kind }}">
-              <a href="{{ $p.RelPermalink }}">
+          {{ range $pinned }}
+            {{ $kind := cond (.Params.has_commentary | default false) "commentary" "gloss" }}
+            <li class="scholion-card scholion-card--{{ $kind }} scholion-card--pinned scholion-pinned-card" data-kind="{{ $kind }}">
+              <a href="{{ .RelPermalink }}">
                 <div class="scholion-card-body">
-                  <h3 class="scholion-card-title">{{ $p.Title }}</h3>
-                  {{ with $p.Params.summary }}
+                  <h3 class="scholion-card-title">{{ .Title }}</h3>
+                  {{ with .Params.summary }}
                     <p class="scholion-card-summary">{{ . }}</p>
                   {{ end }}
                 </div>
                 <div class="scholion-card-meta">
-                  {{ with $p.Params.tags }}
+                  {{ with .Params.tags }}
                     <ul class="scholion-card-tags">
                       {{ range first 3 . }}<li>#{{ . }}</li>{{ end }}
                     </ul>
                   {{ end }}
-                  <time datetime="{{ $p.Date.Format "2006-01-02" }}">{{ $p.Date.Format "2 Jan 2006" }}</time>
+                  <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
                 </div>
                 <span class="scholion-card-pin" title="fixada">★</span>
-                {{ if $p.Params.has_commentary }}
+                {{ if .Params.has_commentary }}
                   <span class="scholion-card-mark" title="com comentário">●</span>
                 {{ end }}
               </a>
             </li>
           {{ end }}
         </ul>
-        {{ if gt (len $pinned) $pinnedVisible }}
+        {{ if gt (len $pinned) 1 }}
           <button class="scholion-show-more" id="toggle-pinned" aria-expanded="false">
-            ver mais <span class="scholion-show-more-count">(+{{ sub (len $pinned) $pinnedVisible }})</span>
+            ver mais
           </button>
         {{ end }}
       </section>
@@ -116,24 +114,61 @@
     </section>
   </section>
 
-  {{ partial "scholion-grid-columns.html" . }}
-
   <script>
-    (function() {
-      var btn = document.getElementById('toggle-pinned');
-      if (!btn) return;
-      var grid = document.getElementById('pinned-grid');
-      btn.addEventListener('click', function() {
-        var expanded = btn.getAttribute('aria-expanded') === 'true';
-        grid.querySelectorAll('.scholion-card--collapsed').forEach(function(c) {
-          c.style.display = expanded ? 'none' : '';
-          c.classList.toggle('scholion-card--revealed', !expanded);
-        });
-        btn.setAttribute('aria-expanded', String(!expanded));
-        btn.innerHTML = expanded
-          ? 'ver mais <span class="scholion-show-more-count">(+' + grid.querySelectorAll('.scholion-card--collapsed').length + ')</span>'
-          : 'ver menos';
+  (function() {
+    var grid = document.getElementById('pinned-grid');
+    var btn = document.getElementById('toggle-pinned');
+    if (!grid || !btn) return;
+
+    var cards = Array.prototype.slice.call(grid.querySelectorAll('.scholion-pinned-card'));
+    var total = cards.length;
+    var expanded = false;
+    var MIN_COL = 220;
+    var GAP = 16;
+
+    function getColCount() {
+      var w = grid.clientWidth;
+      return Math.max(1, Math.floor((w + GAP) / (MIN_COL + GAP)));
+    }
+
+    function update() {
+      var cols = getColCount();
+      // 1 column: show 3 cards. Otherwise: show exactly 1 full row (= cols).
+      var visible = cols === 1 ? Math.min(3, total) : Math.min(cols, total);
+
+      if (expanded) {
+        cards.forEach(function(c) { c.style.display = ''; });
+        btn.innerHTML = 'ver menos';
+        btn.style.display = total > visible ? '' : 'none';
+        return;
+      }
+
+      cards.forEach(function(c, i) {
+        c.style.display = i < visible ? '' : 'none';
       });
-    })();
+
+      var hidden = total - visible;
+      if (hidden > 0) {
+        btn.innerHTML = 'ver mais <span class="scholion-show-more-count">(+' + hidden + ')</span>';
+        btn.style.display = '';
+      } else {
+        btn.style.display = 'none';
+      }
+    }
+
+    btn.addEventListener('click', function() {
+      expanded = !expanded;
+      btn.setAttribute('aria-expanded', String(expanded));
+      update();
+    });
+
+    if (window.ResizeObserver) {
+      new ResizeObserver(update).observe(grid);
+    } else {
+      window.addEventListener('resize', update);
+    }
+
+    update();
+  })();
   </script>
 {{ end }}

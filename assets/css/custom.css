@@ -873,15 +873,6 @@
   margin-top: 2rem;
 }
 
-/* Collapse pinned cards beyond visible limit */
-.scholion-card--collapsed {
-  display: none;
-}
-
-.scholion-card--collapsed.scholion-card--revealed {
-  display: block;
-}
-
 /* "Ver mais" button */
 .scholion-show-more {
   display: inline-flex;
