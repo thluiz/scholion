@@ -120,12 +120,13 @@
 }
 
 .dark .scholion-card {
-  background: rgb(var(--color-neutral-800));
-  border-color: rgb(var(--color-neutral-700));
+  background: rgb(56, 51, 49);
+  border-color: rgb(78, 71, 67);
 }
 
 .dark .scholion-card:hover {
   box-shadow: 0 6px 18px -8px rgba(0, 0, 0, 0.5);
+  border-color: rgb(var(--color-primary-500));
 }
 
 .scholion-card a {
@@ -236,8 +237,8 @@
 }
 
 .dark .scholion-note {
-  background: rgb(var(--color-neutral-800));
-  border-color: rgb(var(--color-neutral-700));
+  background: rgb(56, 51, 49);
+  border-color: rgb(78, 71, 67);
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2), 0 8px 24px -12px rgba(0, 0, 0, 0.4);
 }
 
