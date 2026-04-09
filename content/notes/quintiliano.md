@@ -7,6 +7,7 @@ tags:
 - história
 - retórica
 pinned: true
+pin_weight: 90
 has_commentary: true
 sources:
 - title: Perseus/Tufts — Quint. 10.3.17

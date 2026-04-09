@@ -844,6 +844,53 @@
   margin-top: 2rem;
 }
 
+/* Collapse pinned cards beyond visible limit */
+.scholion-card--collapsed {
+  display: none;
+}
+
+.scholion-card--collapsed.scholion-card--revealed {
+  display: block;
+}
+
+/* "Ver mais" button */
+.scholion-show-more {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 0.85rem;
+  padding: 0.4rem 0.85rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: rgb(var(--color-neutral-600));
+  background: rgb(var(--color-neutral-50));
+  border: 1px solid rgb(var(--color-neutral-300));
+  border-radius: 0.4rem;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.scholion-show-more:hover {
+  border-color: rgb(var(--color-primary-500));
+  color: rgb(var(--color-primary-700));
+}
+
+.scholion-show-more-count {
+  font-weight: 500;
+  color: rgb(var(--color-neutral-500));
+}
+
+.dark .scholion-show-more {
+  background: rgb(56, 51, 49);
+  border-color: rgb(78, 71, 67);
+  color: rgb(var(--color-neutral-300));
+}
+
+.dark .scholion-show-more:hover {
+  border-color: rgb(var(--color-primary-400));
+  color: rgb(var(--color-primary-300));
+}
+
 .scholion-home-section-head {
   display: flex;
   align-items: baseline;

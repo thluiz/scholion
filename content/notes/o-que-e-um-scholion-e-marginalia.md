@@ -4,6 +4,7 @@ date: 2026-04-09T01:35:37+01:00
 summary: "Scholion é a glosa erudita na margem do manuscrito antigo; marginalia é qualquer marca na margem — desde a glosa filológica até o cavaleiro lutando contra o caracol."
 tags: ["filologia", "manuscritos", "escrita", "etimologia", "linguagem"]
 pinned: true
+pin_weight: 100
 has_commentary: true
 sources:
   - title: "Scholia"
