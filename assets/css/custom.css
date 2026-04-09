@@ -226,8 +226,27 @@
 
 /* === Single note === */
 .scholion-note {
-  max-width: 42rem;
+  max-width: 44rem;
   margin: 2rem auto 4rem;
+  background: rgb(var(--color-neutral-50));
+  border: 1px solid rgb(var(--color-neutral-200));
+  border-radius: 0.75rem;
+  padding: 2.5rem 2.75rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04), 0 8px 24px -12px rgba(0, 0, 0, 0.08);
+}
+
+.dark .scholion-note {
+  background: rgb(var(--color-neutral-800));
+  border-color: rgb(var(--color-neutral-700));
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2), 0 8px 24px -12px rgba(0, 0, 0, 0.4);
+}
+
+@media (max-width: 640px) {
+  .scholion-note {
+    padding: 1.5rem 1.25rem;
+    margin: 1rem auto 2rem;
+    border-radius: 0.5rem;
+  }
 }
 
 .scholion-back {
