@@ -884,6 +884,189 @@
   border-color: rgb(var(--color-neutral-800));
 }
 
+/* === Sources index (/fontes/) === */
+.scholion-sources-index {
+  margin: 2rem 0 4rem;
+}
+
+.scholion-sources-section {
+  margin-top: 2.5rem;
+}
+
+.scholion-sources-kind {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: rgb(var(--color-neutral-900));
+  margin: 0 0 1rem 0;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid rgb(var(--color-neutral-200));
+}
+
+.dark .scholion-sources-kind {
+  color: rgb(var(--color-neutral-100));
+  border-bottom-color: rgb(78, 71, 67);
+}
+
+.scholion-sources-kind-count {
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 0.1rem 0.45rem;
+  border-radius: 0.25rem;
+  background: rgb(var(--color-primary-50));
+  color: rgb(var(--color-primary-700));
+}
+
+.dark .scholion-sources-kind-count {
+  background: rgba(var(--color-primary-900), 0.5);
+  color: rgb(var(--color-primary-200));
+}
+
+.scholion-sources-items {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.scholion-sources-item {
+  background: rgb(var(--color-neutral-50));
+  border: 1px solid rgb(var(--color-neutral-200));
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.dark .scholion-sources-item {
+  background: rgb(56, 51, 49);
+  border-color: rgb(78, 71, 67);
+}
+
+.scholion-sources-item summary {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.75rem;
+  padding: 0.75rem 1rem;
+  cursor: pointer;
+  list-style: none;
+  font-size: 0.9rem;
+}
+
+.scholion-sources-item summary::-webkit-details-marker {
+  display: none;
+}
+
+.scholion-sources-item summary::before {
+  content: "▸";
+  display: inline-block;
+  color: rgb(var(--color-neutral-400));
+  font-size: 0.7rem;
+  transition: transform 0.15s ease;
+}
+
+.scholion-sources-item details[open] summary::before {
+  transform: rotate(90deg);
+}
+
+.scholion-sources-item-title {
+  font-weight: 600;
+  color: rgb(var(--color-neutral-900));
+}
+
+.scholion-sources-item-title a {
+  color: rgb(var(--color-primary-700));
+  text-decoration: none;
+}
+
+.scholion-sources-item-title a:hover {
+  text-decoration: underline;
+}
+
+.dark .scholion-sources-item-title {
+  color: rgb(var(--color-neutral-100));
+}
+
+.dark .scholion-sources-item-title a {
+  color: rgb(var(--color-primary-300));
+}
+
+.scholion-sources-item-author {
+  font-size: 0.8rem;
+  color: rgb(var(--color-neutral-600));
+}
+
+.scholion-sources-item-year {
+  font-size: 0.75rem;
+  color: rgb(var(--color-neutral-500));
+  font-variant-numeric: tabular-nums;
+}
+
+.scholion-sources-item-count {
+  margin-left: auto;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: rgb(var(--color-primary-700));
+  background: rgb(var(--color-primary-50));
+  padding: 0.1rem 0.45rem;
+  border-radius: 0.25rem;
+}
+
+.dark .scholion-sources-item-count {
+  background: rgba(var(--color-primary-900), 0.5);
+  color: rgb(var(--color-primary-200));
+}
+
+.scholion-sources-item-notes {
+  list-style: none;
+  padding: 0 1rem 0.85rem 2.25rem;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  border-top: 1px solid rgb(var(--color-neutral-200));
+  padding-top: 0.75rem;
+}
+
+.dark .scholion-sources-item-notes {
+  border-top-color: rgb(78, 71, 67);
+}
+
+.scholion-sources-item-notes li {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.75rem;
+  font-size: 0.85rem;
+}
+
+.scholion-sources-item-notes a {
+  color: rgb(var(--color-neutral-700));
+  text-decoration: none;
+}
+
+.scholion-sources-item-notes a:hover {
+  color: rgb(var(--color-primary-700));
+}
+
+.dark .scholion-sources-item-notes a {
+  color: rgb(var(--color-neutral-300));
+}
+
+.dark .scholion-sources-item-notes a:hover {
+  color: rgb(var(--color-primary-300));
+}
+
+.scholion-sources-item-notes time {
+  font-size: 0.7rem;
+  color: rgb(var(--color-neutral-500));
+  flex-shrink: 0;
+  font-variant-numeric: tabular-nums;
+}
+
 /* === Co-tags on tag detail page === */
 .scholion-cotags {
   display: flex;
