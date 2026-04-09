@@ -30,6 +30,10 @@ O livro do Eric Evans (2003) tem quase 600 páginas. Todo mundo conhece as prime
 
 Aí você olha os projetos e encontra `ValueObject<T>` genérico por todo lado. Nenhuma conversa sobre onde um contexto termina e outro começa.
 
+Outro clássico: pasta `Repository/` com um repositório por tabela e a equipe convencida de que isso é DDD. Repository no Evans é uma abstração de coleção sobre Aggregates — não um wrapper de `DbContext` que repete a interface do ORM com nomes diferentes. Se o repositório só tem `GetById`, `Save` e `Delete`, ele não está encapsulando nada que o ORM já não faça.
+
+O mesmo vale para Services. Evans distingue três tipos (Domain Service, Application Service, Infrastructure Service), cada um com papel claro. O que se vê na prática: uma classe `PedidoService` que recebe `PedidoRepository` no construtor e repassa cada chamada. `service.Save(pedido)` chama `repository.Save(pedido)` — uma camada inteira de indireção que não toma nenhuma decisão. Se o Service não contém lógica de domínio nem orquestra um workflow, ele não deveria existir.
+
 ## Aggregates
 
 Um Aggregate não é um objeto grande que contém outros. É uma **fronteira de consistência transacional**: o que precisa ser consistente junto vive dentro; o que pode ser eventualmente consistente vive fora.
