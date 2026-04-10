@@ -11,6 +11,10 @@ sources:
   - title: "Priberam Dicionário"
     url: "https://dicionario.priberam.org"
     kind: wiki
+  - title: "Chinese Etymology (hanziyuan.net)"
+    author: "Richard Sears"
+    url: "https://hanziyuan.net"
+    kind: wiki
 ---
 
 **梅護禮**
@@ -39,6 +43,10 @@ O radical é 言, fala. O Shuowen Jiezi define 護 como 救視也, "vigiar e soc
 豊 se decompõe em 曲 (qū / kuk1, curvado, composição) + 豆 (dòu / dau6, vaso cerimonial com pedestal). O Shuowen Jiezi define 禮 como 履也, "trilhar um caminho" e "aquilo pelo qual se serve aos espíritos e se atrai bênçãos". A imagem é a de oferendas num vaso ritual diante do altar.
 
 Esse Lai (禮) é o mesmo de Kuen Mo Lai Yeung (拳無禮讓). O punho não faz cerimônia, mas o nome do Vladimir carrega a cerimônia dentro. E o Wu (護) de proteger equilibra: ele está sempre aberto a ajudar os irmãos.
+
+### Divergências entre fontes
+
+O hanziyuan.net (Richard Sears) classifica 蒦 em 護 como "capture-bird" (capturar pássaro), enquanto o MDBG traz "obter, medir". A função fonética é consenso. Para 豊 em 禮, o hanziyuan.net descreve como "drum" (tambor) e nota que 乚 é possivelmente sangue. Outras fontes traduzem 豊 como vaso ritual. O Shuowen concorda em ambos os casos com a estrutura 言+蒦 e 示+豊, mas as interpretações semânticas dos componentes variam.
 
 ## Extrapolando na etimologia traduzida
 

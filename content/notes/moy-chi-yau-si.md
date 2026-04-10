@@ -11,6 +11,10 @@ sources:
   - title: "Priberam Dicionário"
     url: "https://dicionario.priberam.org"
     kind: wiki
+  - title: "Chinese Etymology (hanziyuan.net)"
+    author: "Richard Sears"
+    url: "https://hanziyuan.net"
+    kind: wiki
 ---
 
 **梅知友士**
@@ -43,7 +47,11 @@ Duas mãos direitas que se encontram. No bronze antigo, às vezes aparece 口 em
 十 (shí / sap6) – dez
 一 (yī / jat1) – um
 
-O Shuowen Jiezi interpreta como quem domina de um a dez. A forma original era um machado de guerra fincado no chão. Guerreiro primeiro, letrado depois.
+O Shuowen Jiezi interpreta como quem domina de um a dez. Confúcio: 推十合一為士, "quem reduz dez a um é um shi". A forma original era um machado de guerra fincado no chão. Guerreiro primeiro, letrado depois.
+
+### Divergências entre fontes
+
+As fontes não concordam em tudo. O MDBG e o Shuowen tratam 矢 em 知 como componente fonético. A leitura de "acertar com a palavra" (flecha + boca = saber) é interpretação semântica tradicional, não consenso. Para 友, o hanziyuan.net (Richard Sears) decompõe como 𠂇 (mão esquerda) + 又 (mão direita), duas mãos diferentes que se cruzam, enquanto outras fontes simplificam como duas 又. Para 士, o hanziyuan.net não confirma a decomposição 十+一 nem o machado de guerra. Classifica como pictograma independente, "provavelmente modificação de 大 (dà, grande)". O Shuowen insiste na leitura numérica de um a dez.
 
 ## Extrapolando na etimologia traduzida
 
