@@ -42,6 +42,10 @@ Autoridade. O Shuowen Jiezi define 威 como 姑也從女從戌, associando à fi
 
 Mulher sob o teto. O Shuowen Jiezi define 安 como 靜也, "quietude". A imagem é doméstica: onde a mulher está abrigada, há tranquilidade.
 
+### Divergências entre fontes
+
+Para 威, o Shuowen decompõe como 女 + 戌 e associa à sogra (姑也), a mulher que exerce autoridade. O hanziyuan.net (Richard Sears) mostra formas em bronze com uma alabarda sobre uma pessoa (não necessariamente mulher), sugerindo que o sentido original é "intimidar com arma", não "autoridade da sogra". A presença de 女 pode ser adição posterior ou reinterpretação. Para 安, as fontes concordam: 宀 + 女, mulher sob o teto. O hanziyuan.net confirma essa estrutura nos ossos oraculares. Caractere estável entre as fontes.
+
 ## Extrapolando na etimologia traduzida
 
 **Poder** – do Lat. *potere* (variante vulg. de *posse*, ser capaz): ter autoridade; força, vigor; domínio.

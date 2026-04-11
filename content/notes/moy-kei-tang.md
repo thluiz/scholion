@@ -39,6 +39,10 @@ Montanha estranha, terreno acidentado. O radical 山 situa o sentido na paisagem
 
 Pictograma de uma arma de caça com duas pontas. Nas inscrições em osso oracular, o caractere mostra uma forquilha com pedras amarradas nas extremidades, usada para caçar. O sentido evoluiu de "instrumento isolado" para "simples, único, sozinho".
 
+### Divergências entre fontes
+
+Para 崎, as fontes concordam na decomposição 山 (montanha) + 奇 (fonético/semântico). Não há divergência relevante. Para 單, o Shuowen Jiezi define como 大也, "grande", e dá uma decomposição em 吅 (duas bocas) + 甲 (escudo) + 丁 (prego), leitura que a maioria dos etimologistas modernos considera etimologia popular. O hanziyuan.net (Richard Sears) classifica 單 como pictograma de uma arma de caça bifurcada, baseado nas formas em osso oracular, sem decompor em subcaracteres. O MDBG lista apenas os sentidos modernos (simples, único, lista, folha avulsa). A divergência é fundamental: o Shuowen tenta uma decomposição semântica em partes conhecidas, enquanto Sears trata o caractere como unidade pictográfica indivisível.
+
 ## Extrapolando na etimologia traduzida
 
 **Terreno** – do Lat. *terrenum* (de terra): extensão de terra; solo; campo.

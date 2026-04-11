@@ -42,6 +42,10 @@ O Shuowen Jiezi define 利 como 銛也从刀从和, "afiado". Uma faca que corta
 
 Mão que desloca algo de um lugar para outro. O radical 扌indica ação manual; 那 fornece o som. Mover, transferir, reposicionar. Ação manual.
 
+### Divergências entre fontes
+
+Para 利, as três fontes concordam na decomposição 禾+刂 e no sentido de "afiado". O hanziyuan.net (Richard Sears) mostra formas arcaicas onde a faca aparece junto a cereais ou espigas, confirmando a leitura do Shuowen. Não há divergência relevante. Para 挪, o MDBG decompõe em 扌+ 那 (mão + fonético). O hanziyuan.net tem registos escassos para este caractere, que não aparece em inscrições oraculares nem em bronze. O Shuowen não inclui 挪, o que sugere formação tardia. A decomposição 扌+ 那 é aceite pelas fontes disponíveis sem contestação.
+
 ## Extrapolando na etimologia traduzida
 
 **Benefício** – do Lat. *beneficium*: bem que se faz; vantagem, proveito.

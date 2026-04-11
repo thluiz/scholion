@@ -39,6 +39,10 @@ Quem mudou com o tempo. O venerável. O componente superior 耂 é uma forma abr
 
 Pictograma de balança equilibrada. O Shuowen define 平 como 語平舒也, "fala serena e desimpedida". O traço horizontal superior representa o fiel da balança; os traços abaixo, os pratos em equilíbrio. Daí os sentidos de plano, justo, pacífico.
 
+### Divergências entre fontes
+
+Para 老, o MDBG e o Shuowen concordam na decomposição 耂+匕. O hanziyuan.net (Richard Sears) classifica 老 como pictograma de um velho com cabelo longo e bengala, sem isolar 匕 como componente separado. A leitura "mudança/transformação" de 匕 dentro de 老 é interpretação do Shuowen, não consenso entre as fontes. Para 平, o hanziyuan.net trata como pictograma (balança nivelada), sem decompor em subcomponentes. O MDBG lista a composição como indefinida. O Shuowen concorda com o sentido de equilíbrio mas acrescenta a leitura fonética 語平舒也, que se refere à fala serena.
+
 ## Extrapolando na etimologia traduzida
 
 **Venerável** – do Lat. *venerabilis* (digno de veneração): que merece respeito; augusto; respeitável.

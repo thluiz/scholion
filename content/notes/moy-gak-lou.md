@@ -43,6 +43,10 @@ Cada árvore tem sua forma. Daí, padrão. O radical 木 situa o significado no 
 
 Esforço sob fogo. A parte superior combina elementos de fogo com uma cobertura; a base é 力, força. A imagem é de trabalho árduo, feito sob pressão e calor. O Shuowen define 勞 como 劇也, "intenso, extenuante".
 
+### Divergências entre fontes
+
+Para 格, as fontes concordam na decomposição 木+各. O hanziyuan.net (Richard Sears) classifica 各 como fonético puro, enquanto a nota acima trata 各 como simultaneamente fonético e semântico ("cada um" com sua forma). O Shuowen define 格 como 木長貌, "aspeto de madeira longa/galhos", focando na árvore e não no sentido abstrato de padrão. Para 勞, o hanziyuan.net decompõe a parte superior como 熒 sem cobertura (duas instâncias de 火) + 冖, concordando em linhas gerais com a análise acima. O MDBG regista a forma simplificada 劳, que elimina os componentes de fogo e retém apenas 力 sob uma forma abreviada.
+
 ## Extrapolando na etimologia traduzida
 
 **Padrão** – do Lat. *patronus* (protetor, modelo): norma; modelo; referência; configuração típica.

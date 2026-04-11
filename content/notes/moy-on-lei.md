@@ -42,6 +42,10 @@ Mulher sob o teto. O sentido original é segurança doméstica: onde há abrigo 
 
 Faca que colhe o grão. O sentido original é cortar a colheita, daí "afiado" e, por extensão, "vantajoso, benéfico". O que corta bem, rende bem.
 
+### Divergências entre fontes
+
+Para 安, as fontes concordam na decomposição 宀 (teto) + 女 (mulher). O Shuowen Jiezi define como 靜也, "quietude". Não há divergência estrutural. Para 利, o Shuowen define como 銛也, "afiado", e decompõe em 刀 (faca) + 禾 (grão). O hanziyuan.net (Richard Sears) concorda com a estrutura mas trata as formas oraculares como mais pictográficas do que composicionais: uma faca ao lado de espigas, sem separação nítida entre componente fonético e semântico. O MDBG lista sentidos modernos sem comentar a composição. A diferença é de classificação tipológica: o Shuowen trata 利 como ideograma composto (會意), enquanto Sears aproxima as formas antigas de uma representação pictográfica direta.
+
 ## Extrapolando na etimologia traduzida
 
 **Paz** – do Lat. *pax, pacis*: estado de tranquilidade; ausência de conflito; sossego.

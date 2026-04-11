@@ -42,6 +42,10 @@ O cavalo notável. O radical 馬 indica a categoria; 奇 funciona como component
 
 A chave de metal. O radical 金 indica o material; 龠 representa um instrumento tubular com orifícios, a flauta de sopro. A chave herda a forma: objeto de metal com recortes que abre passagens.
 
+### Divergências entre fontes
+
+Para 騎, as fontes concordam na estrutura 馬 + 奇. O papel de 奇 é fonético; a leitura semântica ("cavalo notável") não tem suporte nas fontes clássicas. O Shuowen define 騎 simplesmente como "montar a cavalo" (跨馬也), sem atribuir sentido semântico a 奇. Para 鑰, a estrutura 金 + 龠 é pacífica. O hanziyuan.net (Richard Sears) classifica 龠 como pictograma de uma flauta com orifícios. O Shuowen define 龠 como instrumento musical de três orifícios. A conexão entre flauta e chave é morfológica (objeto tubular com aberturas), não semântica.
+
 ## Extrapolando na etimologia traduzida
 
 **Cavalgar** – do Lat. *caballicare* (de *caballus*, cavalo): montar a cavalo; andar montado.

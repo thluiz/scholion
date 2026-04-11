@@ -42,6 +42,10 @@ A palavra do erudito: o que é dito com propriedade traz bom augúrio. O Shuowen
 
 O Shuowen Jiezi define 明 como 照也, "iluminar". Sol e lua juntos: a claridade total, sem sombra. Nas formas em ossos oraculares, o caractere mostrava uma janela com a lua, a luz que entra. A versão moderna substituiu a janela pelo sol, e o sentido se ampliou: brilho, compreensão, transparência.
 
+### Divergências entre fontes
+
+Para 吉, o Shuowen decompõe em 士+口 e define como 善也 ("bom"). O hanziyuan.net (Richard Sears) não confirma a decomposição 士+口. Nas formas em ossos oraculares, o caractere mostra um machado sobre um suporte, interpretado como arma colocada em posição de repouso, daí "auspicioso" (ausência de conflito). O MDBG limita-se à decomposição gráfica moderna 士+口, sem tomar posição sobre a origem. Para 明, as fontes concordam nos componentes (日+月 na forma moderna), mas divergem sobre a forma arcaica. O hanziyuan.net mostra 囧 (janela) + 月 nos ossos oraculares, sem 日. O Shuowen já regista a forma com 日+月. O MDBG usa a decomposição moderna.
+
 ## Extrapolando na etimologia traduzida
 
 **Auspício** – do Lat. *auspicium* (avis + specere, observar as aves): presságio favorável; proteção.

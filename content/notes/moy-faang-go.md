@@ -39,6 +39,10 @@ O radical 艹 situa o caractere no domínio vegetal; 氾 funciona como component
 
 Pictograma de uma torre ou pavilhão elevado. A forma antiga mostra uma estrutura com base, corpo e telhado. O Shuowen define 高 como 崇也, "elevado". Altura física e altura moral no mesmo traço.
 
+### Divergências entre fontes
+
+Para 范, o MDBG decompõe em 艹 + 氾 e trata como forma simplificada de 範 (que carrega 車, carro, e 竹, bambu). O hanziyuan.net (Richard Sears) não tem entrada separada para 范, remetendo a 範 como forma completa. O Shuowen regista apenas 範 (com 車), definindo como 範軷也, "molde de fundição". O uso de 范 como equivalente de 範 é moderno. Para 高, as três fontes concordam que é um pictograma de construção elevada. O Shuowen define como 崇也 ("elevado"). O hanziyuan.net mostra formas em bronze de um pavilhão com base, andares e telhado, confirmando a leitura pictográfica sem decomposição semântica.
+
 ## Extrapolando na etimologia traduzida
 
 **Modelo** – do It. *modello*, do Lat. *modulus* (medida pequena): padrão a imitar; exemplo; molde.

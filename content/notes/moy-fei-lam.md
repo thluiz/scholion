@@ -42,6 +42,10 @@ O radical 艹 situa o caractere no reino vegetal. 非 contribui o som. O resulta
 
 Duas árvores lado a lado: floresta. O Shuowen define 林 como 平土有叢木曰林, "terreno plano com árvores agrupadas chama-se lin". De uma árvore, madeira; de duas, bosque. A repetição gera abundância.
 
+### Divergências entre fontes
+
+Para 菲, as fontes concordam na decomposição 艹 + 非 e no papel fonético de 非. O Shuowen define 菲 como 芴也, uma planta específica (tipo de nabo silvestre), sem menção a fragrância. O MDBG e o hanziyuan.net (Richard Sears) registam o sentido de fragrante/luxuriante como significado corrente, mas esse valor é uma extensão posterior, não o sentido original do Shuowen. Para 林, as três fontes concordam: duas vezes 木, pictograma duplicado, floresta. O Shuowen, o MDBG e o hanziyuan.net não divergem na decomposição nem no significado.
+
 ## Extrapolando na etimologia traduzida
 
 **Fragrância** – do Lat. *fragrantia* (de *fragrare*, cheirar bem): aroma agradável; perfume; odor suave.

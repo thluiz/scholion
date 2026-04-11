@@ -42,6 +42,10 @@ Colher o grão com a faca. O Shuowen Jiezi define 利 como 銛也, "afiado". A l
 
 Água que transborda. O radical 氵indica o domínio líquido; 益 serve como fonético e semântico, o que aumenta além do limite. O Shuowen Jiezi define 溢 como 器滿也, "recipiente cheio".
 
+### Divergências entre fontes
+
+Para 利, as fontes concordam: 禾 + 刀, sem divergência relevante. Para 溢, a estrutura 氵+ 益 é aceite pelas três fontes. O hanziyuan.net (Richard Sears) trata 益 como componente fonético. O Shuowen trata 益 como tendo valor semântico (aumento, excesso), o que reforça a ideia de "água que excede o recipiente". A diferença é menor: fonético puro vs. fonético-semântico.
+
 ## Extrapolando na etimologia traduzida
 
 **Benefício** – do Lat. *beneficium*: bem que se faz; vantagem, proveito.

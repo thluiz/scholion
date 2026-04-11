@@ -39,6 +39,10 @@ Colher o grão com a faca. O Shuowen Jiezi define 利 como 銛也, "afiado", com
 
 Pictograma. Três traços horizontais representam céu, humanidade e terra; o traço vertical que os une é o soberano — aquele que liga os três planos. O Shuowen Jiezi define: 天下所歸往也, "aquele a quem tudo-sob-o-céu se dirige". Dong Zhongshu acrescenta: 三畫而連其中謂之王, "três traços ligados pelo meio — isso é rei."
 
+### Divergências entre fontes
+
+Para 利, as três fontes concordam na decomposição 禾 + 刀 e no sentido de "afiado". O hanziyuan.net (Richard Sears) confirma a estrutura nos ossos oraculares. Para 王, o Shuowen lê os três traços como céu, humanidade e terra, e a interpretação de Dong Zhongshu reforça essa leitura cosmológica. O hanziyuan.net classifica 王 como pictograma de um machado de guerra, não de três planos ligados. A leitura cosmológica é provavelmente uma racionalização posterior, não a origem gráfica.
+
 ## Extrapolando na etimologia traduzida
 
 **Benefício** – do Lat. *beneficium* (bene + facere, fazer bem): bem que se faz; vantagem, proveito; favor concedido.

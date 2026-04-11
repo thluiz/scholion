@@ -42,6 +42,10 @@ Pessoa que se apoia. O radical 亻indica o humano; 衣 serve como componente fon
 
 Grão na boca. Quando há alimento, há paz. O Shuowen Jiezi define 和 como 相應也, "correspondência mútua". O sentido se estende de saciedade a concórdia.
 
+### Divergências entre fontes
+
+Para 依, o Shuowen Jiezi define como 倚也, "apoiar-se, encostar", e decompõe em 人 (pessoa) + 衣 (roupa), com 衣 como elemento fonético. O hanziyuan.net (Richard Sears) confirma a decomposição mas classifica 衣 como simultaneamente fonético e semântico, apontando que a roupa que cobre o corpo reforça o sentido de amparo. O MDBG registra apenas "de acordo com, depender de", sem entrar na etimologia. Para 和, o Shuowen define como 相應也, "correspondência mútua", e decompõe em 口 (boca) + 禾 (fonético). O hanziyuan.net inverte a leitura: trata 禾 como semântico (grão, alimento) e 口 como semântico (boca), fazendo de 和 um ideograma composto, não um caractere fono-semântico. A diferença é estrutural: para o Shuowen, 禾 fornece som; para Sears, fornece sentido.
+
 ## Extrapolando na etimologia traduzida
 
 **Apoiar** – de *a-* + *poio* (banco, assento): servir de sustentação; dar suporte; amparar; auxiliar.

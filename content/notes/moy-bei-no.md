@@ -42,6 +42,10 @@ Ornamento. O componente superior 卉 representa a vegetação; o inferior 貝, a
 
 Mover com as mãos. O radical 扌 indica ação manual; 那 funciona como componente fonético. O sentido é deslocar, transferir, mudar de posição.
 
+### Divergências entre fontes
+
+Para 賁, o MDBG decompõe em 卉+貝. O hanziyuan.net (Richard Sears) trata a parte superior não como 卉 (vegetação) mas como uma forma de 奔 (correr), ligando o caractere ao sentido de ímpeto antes do de ornamento. O Shuowen regista duas leituras distintas: bì (ornamento, hexagrama do Yijing) e bēn (correr com energia), confirmando a dualidade. A associação com vegetação e adorno depende da fonte consultada. Para 挪, as fontes concordam na decomposição 扌+那 e no sentido de mover/deslocar.
+
 ## Extrapolando na etimologia traduzida
 
 **Ornamento** – do Lat. *ornamentum* (de *ornare*, equipar): adorno; enfeite; aquilo que embeleza.

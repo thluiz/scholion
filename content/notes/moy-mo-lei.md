@@ -42,6 +42,10 @@ Pedra que pule. O radical 石 ancora o sentido no domínio mineral; 麻 fornece 
 
 Chuva sobre o campo. O caractere empilha o radical de chuva sobre 田, que aqui representa o som reverberando sobre a terra.
 
+### Divergências entre fontes
+
+Para 磨, as fontes concordam na estrutura 麻 (fonético) + 石 (semântico). O Shuowen Jiezi não inclui 磨 diretamente, pois o caractere é formação tardia; a entrada relevante é 靡 (mí, desgastar), com decomposição diferente. O MDBG lista o sentido moderno sem etimologia. Para 雷, o Shuowen define como 陰陽薄動雷雨生物者也, "quando yin e yang se chocam, trovão e chuva geram os seres", e decompõe em 雨 (chuva) + 畾 (três campos empilhados, representando o som reverberante). O hanziyuan.net (Richard Sears) simplifica a parte inferior para 田 (campo) e trata o caractere como fono-semântico. A divergência está no componente inferior: o Shuowen usa 畾 (triplicação de 田), enquanto a forma moderna e o hanziyuan reconhecem apenas um 田.
+
 ## Extrapolando na etimologia traduzida
 
 **Polir** – do Lat. *polire* (alisar, aperfeiçoar): tornar liso e brilhante; aperfeiçoar; dar acabamento.

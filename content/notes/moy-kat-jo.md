@@ -42,6 +42,10 @@ Palavra do sábio, bom augúrio. O Shuowen Jiezi define 吉 como 善也, "bom". 
 
 O altar dos ancestrais. O Shuowen Jiezi define 祖 como 始廟也, "o templo da origem". O radical 礻indica o domínio ritual; 且 representa a mesa ou altar sobre o qual se depositam oferendas. O ancestral é aquele a quem se oferta, o ponto de origem da linhagem.
 
+### Divergências entre fontes
+
+Para 吉, a decomposição 士 + 口 é aceite pelas três fontes, mas a interpretação diverge. O Shuowen lê como "palavra do sábio" (boca + erudito). O hanziyuan.net (Richard Sears) mostra que as formas em ossos oraculares representam um machado ou arma sobre um recipiente, sem relação com boca ou erudito. A leitura 士 + 口 é provavelmente reinterpretação do caractere já estabilizado. Para 祖, as fontes concordam: 礻+ 且, altar ritual. O Shuowen e o hanziyuan.net coincidem em que 且 representa o altar de oferendas.
+
 ## Extrapolando na etimologia traduzida
 
 **Auspício** – do Lat. *auspicium* (avis + specere, observar as aves): presságio favorável; proteção, patrocínio.

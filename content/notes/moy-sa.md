@@ -33,6 +33,10 @@ Nome kung fu de Fábio Gomes de Sá.
 
 Seda fina, delicada. O radical 糹indica o domínio têxtil; 少 funciona como fonético e semântico, pouca fibra, tecido ralo. A gaze é a seda reduzida ao mínimo: transparente, leve, quase nada.
 
+### Divergências entre fontes
+
+Para 紗, as fontes concordam na estrutura 糹+ 少. Caractere simples, sem divergência relevante. O papel de 少 é primariamente fonético; a leitura semântica ("pouca fibra, tecido ralo") é plausível mas não confirmada pelo Shuowen, que define 紗 apenas como tipo de seda (絲也) sem comentar o papel de 少.
+
 ## Extrapolando na etimologia traduzida
 
 **Gaze** – do Fr. *gaze*, possivelmente de Gaza (cidade): tecido muito fino e transparente; pano leve de trama aberta.

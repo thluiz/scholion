@@ -43,6 +43,10 @@ Profundidade interior. O componente superior 宀 indica espaço coberto, interio
 
 Faca que corta o grão. Colheita proveitosa. O Shuowen define 利 como 銛也, "afiado". O que corta bem traz benefício.
 
+### Divergências entre fontes
+
+Para 奧, o MDBG decompõe em 宀+釆+大. O hanziyuan.net (Richard Sears) analisa a forma antiga como 宀 sobre 廾 (duas mãos) segurando 釆, com sentido de "recolher algo precioso para dentro da casa". A presença de 大 como componente separado não é confirmada pelo hanziyuan. O Shuowen define 奧 como 宛也 ("recanto interior"), concordando com o sentido espacial mas sem detalhar a decomposição nos mesmos termos. Para 利, as três fontes concordam na decomposição 禾+刂 e no sentido de "afiado/benefício". Não há divergência neste caractere.
+
 ## Extrapolando na etimologia traduzida
 
 **Profundidade** – do Lat. *profunditas, -atis*: qualidade do que é profundo; complexidade; intensidade.

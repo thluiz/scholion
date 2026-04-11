@@ -42,6 +42,10 @@ Nome kung fu de Marcelo Pereira Firmino.
 
 Sol e lua juntos: claridade. O Shuowen define 明 como 照也, "iluminar". Sol e lua num só caractere. Daí brilhante, claro, e por extensão compreender, tornar evidente.
 
+### Divergências entre fontes
+
+Para 奜, o MDBG regista a decomposição 大 + 非 com o sentido de grandioso. O hanziyuan.net (Richard Sears) não tem entrada para 奜, o que é comum em caracteres raros fora do uso corrente. O Shuowen também não regista 奜 como entrada independente. A informação disponível vem essencialmente do MDBG e de dicionários modernos. Para 明, as três fontes concordam na decomposição 日 + 月 e no sentido de iluminar/brilhante. O hanziyuan.net nota que as formas mais antigas em osso de oráculo mostram 囧 (janela) no lugar de 日, sugerindo que a origem é "luar entrando pela janela", não "sol e lua juntos". O Shuowen regista a forma 朙 (com 囧) como variante antiga.
+
 ## Extrapolando na etimologia traduzida
 
 **Grandeza** – de *grande*, do Lat. *grandis*: qualidade do que é grande; magnificência; importância.

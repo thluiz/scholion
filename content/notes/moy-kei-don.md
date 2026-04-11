@@ -42,6 +42,10 @@ Montanha irregular. Terreno acidentado. O radical 山 situa o significado na pai
 
 Palavra franca. O radical 言 indica o domínio da linguagem; 黨 funciona como componente fonético. O sentido é de fala direta, honesta, sem rodeio. A palavra que se diz em público, abertamente, perante o grupo.
 
+### Divergências entre fontes
+
+Para 崎, as fontes concordam na decomposição 山+奇 e no sentido de terreno acidentado. O hanziyuan.net (Richard Sears) tem poucas atestações antigas para 崎, sugerindo formação tardia. O Shuowen não inclui entrada própria para 崎, tratando-o implicitamente como extensão de 奇 com radical de montanha. Para 讜, o MDBG decompõe em 言+黨. O hanziyuan.net não tem entrada para 讜, dado que o caractere é raro e tardio. O Shuowen define 讜 como 直言也 ("fala direta"), confirmando o sentido de franqueza. A decomposição 言+黨 é consensual onde as fontes registam o caractere, mas a escassez de atestações antigas limita a análise etimológica.
+
 ## Extrapolando na etimologia traduzida
 
 **Terreno** – do Lat. *terrenum*: extensão de terra; solo; campo.
