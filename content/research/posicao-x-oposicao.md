@@ -31,7 +31,7 @@ Força bruta, que apenas adia a própria derrota (link para o kuen kuit), també
 
 Pode se fazer uma guerra psicológica: cortando linhas de suprimento, usar espiões, propaganda para que a população local esmoreça, ardis para penetrá-la (Tróia). Um último recurso é simplesmente sentar e esperar (guerra de cerco).
 
-A história é cheia de exemplos do quanto faz pouco sentido investir em posicionamentos muito elaborados porém estáticos, entretanto posicionamento é fundamental: Termópilas de Leônidas, Aljubarrota em Portugal, Austerlitz de Napoleão, Tuiuti Brasileiro, o famoso General Inverno Russo (é menosprezar a tenacidade do povo, mas foi determinante em duas guerras importantes), as montanhas do Afeganistão (o lugar onde os impérios vão para acabar), Vietnam para os Estados Unidos.
+A história é cheia de exemplos do quanto faz pouco sentido investir em posicionamentos muito elaborados porém estáticos, entretanto posicionamento é fundamental: Termópilas de Leônidas, Aljubarrota em Portugal, Austerlitz de Napoleão, Tuiuti Brasileiro, o famoso General Inverno Russo (é menosprezar a tenacidade do povo, mas foi determinante em duas guerras importantes), as montanhas do Afeganistão (o lugar onde os impérios vão para acabar), Vietnam para os Estados Unidos, agora (2026) para o Irã. Em qualquer grande vitória (ou derrota) o posicionamento é fundamental, não importando a diferença de poder entre os adversários.
 
 (aqui começo a fazer a passagem para sair do marcial e tá sofrido...)
 
