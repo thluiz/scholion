@@ -41,3 +41,9 @@ Pedra que pule. O radical 石 ancora o sentido no domínio mineral; 麻 fornece 
 田 (tián) – campo
 
 Chuva sobre o campo — trovão. O caractere empilha o radical de chuva sobre 田, que aqui representa o som reverberando sobre a terra. Força natural que anuncia a tempestade.
+
+## Extrapolando na etimologia traduzida
+
+**Polir** – do Lat. *polire* (alisar, aperfeiçoar): tornar liso e brilhante; aperfeiçoar; dar acabamento.
+
+**Trovão** – do Lat. vulg. *turbo, -onis* (turbilhão): estrondo produzido pela descarga elétrica atmosférica; ruído forte.

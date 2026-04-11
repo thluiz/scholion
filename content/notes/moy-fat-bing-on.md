@@ -50,3 +50,13 @@ Mãos empunhando arma. O sentido original é a arma em si; por extensão, quem a
 女 (nǚ) – mulher
 
 Mulher sob o teto — paz. Segurança doméstica como origem da tranquilidade.
+
+## Extrapolando na etimologia traduzida
+
+**Lei** – do Lat. *lex, legis*: regra obrigatória; preceito.
+
+**Método** – do Lat. *methodus*, do Gr. *méthodos*: processo racional; ordem, sistema.
+
+**Soldado** – do Lat. *solidatus* (aquele que recebe soldo): militar; combatente.
+
+**Paz** – do Lat. *pax, pacis*: tranquilidade; ausência de conflito.

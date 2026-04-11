@@ -41,3 +41,9 @@ Grande além da medida. 大 fornece o sentido de grandeza; 非 nega o limite —
 月 (yuè) – lua
 
 Sol e lua juntos — claridade. O Shuowen define 明 como 照也, "iluminar". As duas fontes de luz do mundo reunidas num só caractere. Daí brilhante, claro, e por extensão compreender, tornar evidente.
+
+## Extrapolando na etimologia traduzida
+
+**Grandeza** – de *grande*, do Lat. *grandis*: qualidade do que é grande; magnificência; importância.
+
+**Claridade** – do Lat. *claritas, -atis* (brilho): qualidade do que é claro; luminosidade; transparência; lucidez.

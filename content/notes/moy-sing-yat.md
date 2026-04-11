@@ -38,3 +38,9 @@ Força que supera. O componente 朕, antes de se tornar pronome exclusivo do imp
 ### 一
 
 Traço único. O mais elementar dos caracteres: um traço horizontal representando a unidade. O Shuowen define: 惟初太始道立於一造分天地化成萬物, "no princípio absoluto, o Dao estabeleceu-se no Um, que dividiu céu e terra e gerou as dez mil coisas."
+
+## Extrapolando na etimologia traduzida
+
+**Vitória** – do Lat. *victoria, -ae* (de *vincere*, vencer): ato de vencer; triunfo; sucesso em competição ou luta.
+
+**Unidade** – do Lat. *unitas, -atis*: qualidade do que é uno; o primeiro número inteiro.

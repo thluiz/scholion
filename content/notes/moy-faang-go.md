@@ -38,3 +38,9 @@ O radical 艹 situa o caractere no domínio vegetal; 氾 funciona como component
 ### 高
 
 Pictograma de uma torre ou pavilhão elevado. A forma antiga mostra uma estrutura com base, corpo e telhado — arquitetura que sobe. O Shuowen define 高 como 崇也, "elevado". Altura física e altura moral no mesmo traço.
+
+## Extrapolando na etimologia traduzida
+
+**Modelo** – do It. *modello*, do Lat. *modulus* (medida pequena): padrão a imitar; exemplo; molde.
+
+**Altura** – do Lat. *altitudo, -inis* (de *altus*, alto): dimensão vertical; elevação; grandeza.

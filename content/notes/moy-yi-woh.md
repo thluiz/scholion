@@ -41,3 +41,9 @@ Pessoa que se apoia. O radical 亻indica o humano; 衣 serve como componente fon
 口 (kǒu) – boca
 
 Grão na boca — harmonia. Quando há alimento, há paz. O Shuowen Jiezi define 和 como 相應也, "correspondência mútua". O sentido se estende de saciedade a concórdia.
+
+## Extrapolando na etimologia traduzida
+
+**Apoiar** – de *a-* + *poio* (banco, assento): servir de sustentação; dar suporte; amparar; auxiliar.
+
+**Harmonia** – do Lat. *harmonia*, do Gr. *harmonía* (ajuste, acordo): concordância entre as partes; equilíbrio; consonância.

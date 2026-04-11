@@ -38,3 +38,9 @@ Quem mudou com o tempo — o venerável. O componente superior 耂 é uma forma 
 ### 平
 
 Pictograma de balança equilibrada. O Shuowen define 平 como 語平舒也, "fala serena e desimpedida". O traço horizontal superior representa o fiel da balança; os traços abaixo, os pratos em equilíbrio. Daí os sentidos de plano, justo, pacífico.
+
+## Extrapolando na etimologia traduzida
+
+**Venerável** – do Lat. *venerabilis* (digno de veneração): que merece respeito; augusto; respeitável.
+
+**Equilíbrio** – do Lat. *aequilibrium*: estabilidade; igualdade de forças; ponderação.

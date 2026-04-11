@@ -41,3 +41,9 @@ O som do coração — intenção. O componente superior 音 é som, palavra; o 
 鳥 (niǎo) – ave
 
 Ave da união. O componente esquerdo 合 funciona como fonético e semântico: a pomba é a ave que se junta em bando, que volta ao pombal. O radical 鳥 classifica o caractere no domínio das aves.
+
+## Extrapolando na etimologia traduzida
+
+**Intenção** – do Lat. *intentio, -onis* (de *intendere*, dirigir para): propósito; desígnio; vontade dirigida a um fim.
+
+**Pomba** – do Lat. *palumba* (pomba torcaz): ave columbiforme; símbolo de paz e pureza.

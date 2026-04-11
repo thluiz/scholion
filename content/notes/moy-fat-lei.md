@@ -41,3 +41,11 @@ A água que segue seu curso — o método natural. O Shuowen Jiezi define 法 co
 刂 (dāo / dou1) – faca
 
 Colher o grão com a faca — o benefício. O Shuowen Jiezi define 利 como 銛也, "afiado". A lâmina que ceifa a colheita é o gesto do proveito: o que é afiado é útil, o que é útil é proveitoso.
+
+## Extrapolando na etimologia traduzida
+
+**Lei** – do Lat. *lex, legis* (o que se lê, norma): regra obrigatória; preceito emanado de autoridade competente.
+
+**Método** – do Lat. *methodus*, do Gr. *méthodos* (meta + hodós, caminho para): processo racional para chegar a um fim; ordem, sistema.
+
+**Benefício** – do Lat. *beneficium*: bem que se faz; vantagem, proveito.

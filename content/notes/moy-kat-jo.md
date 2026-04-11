@@ -41,3 +41,9 @@ Palavra do sábio — bom augúrio. O Shuowen Jiezi define 吉 como 善也, "bom
 且 (qiě / ce2) – altar de oferendas
 
 O altar dos ancestrais. O Shuowen Jiezi define 祖 como 始廟也, "o templo da origem". O radical 礻indica o domínio ritual; 且 representa a mesa ou altar sobre o qual se depositam oferendas. O ancestral é aquele a quem se oferta — o ponto de origem da linhagem.
+
+## Extrapolando na etimologia traduzida
+
+**Auspício** – do Lat. *auspicium* (avis + specere, observar as aves): presságio favorável; proteção, patrocínio.
+
+**Ancestral** – do Lat. *antecessor, -oris* (aquele que precede): ascendente, antepassado; que pertence aos avós ou gerações anteriores.

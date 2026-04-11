@@ -41,3 +41,9 @@ A palavra do erudito: o que é dito com propriedade traz bom augúrio. O Shuowen
 月 (yuè) – lua
 
 O Shuowen Jiezi define 明 como 照也, "iluminar". Sol e lua juntos: a claridade total, sem sombra. Nas formas em ossos oraculares, o caractere mostrava uma janela com a lua — a luz que entra. A versão moderna substituiu a janela pelo sol, e o sentido se ampliou: brilho, compreensão, transparência.
+
+## Extrapolando na etimologia traduzida
+
+**Auspício** – do Lat. *auspicium* (avis + specere, observar as aves): presságio favorável; proteção.
+
+**Claridade** – do Lat. *claritas, -atis*: qualidade do que é claro; luminosidade; lucidez.

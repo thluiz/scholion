@@ -42,3 +42,9 @@ Esforço sob fogo — trabalho. O Shuowen Jiezi define 勞 como 劇也, "intenso
 奇 (qí / kei4) – estranho, irregular
 
 Montanha irregular. O radical 山 indica a categoria geográfica; 奇 funciona como fonético e semântico — o terreno que não é plano, que surpreende. Caminho escarpado, terreno que exige atenção a cada passo.
+
+## Extrapolando na etimologia traduzida
+
+**Trabalho** – do Lat. vulg. *tripaliare* (torturar com o *tripalium*): exercício de atividade para produção de algo; esforço, labuta.
+
+**Mérito** – do Lat. *meritum* (o que se merece): qualidade do que é digno de louvor; merecimento por serviço prestado.

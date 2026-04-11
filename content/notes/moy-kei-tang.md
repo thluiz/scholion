@@ -38,3 +38,9 @@ Montanha estranha — terreno acidentado. O radical 山 situa o sentido na paisa
 ### 單
 
 Pictograma de uma arma de caça com duas pontas. Nas inscrições em osso oracular, o caractere mostra uma forquilha com pedras amarradas nas extremidades, usada para caçar. O sentido evoluiu de "instrumento isolado" para "simples, único, sozinho".
+
+## Extrapolando na etimologia traduzida
+
+**Terreno** – do Lat. *terrenum* (de terra): extensão de terra; solo; campo.
+
+**Simples** – do Lat. *simplex, -icis* (sem dobra): que não é composto; fácil; despretensioso; puro.

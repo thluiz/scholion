@@ -41,3 +41,9 @@ Ornamento. O componente superior 卉 representa a vegetação; o inferior 貝, a
 那 (nà) – aquele, aquilo
 
 Mover com as mãos. O radical 扌 indica ação manual; 那 funciona como componente fonético. O sentido é deslocar, transferir, mudar de posição — mover algo daqui para ali.
+
+## Extrapolando na etimologia traduzida
+
+**Ornamento** – do Lat. *ornamentum* (de *ornare*, equipar): adorno; enfeite; aquilo que embeleza.
+
+**Mover** – do Lat. *movere* (pôr em movimento): deslocar; mudar de posição; agitar; impulsionar.

@@ -41,3 +41,9 @@ O cavalo notável — cavalgar. O radical 馬 indica a categoria; 奇 funciona c
 龠 (yuè / joek6) – flauta, tubo
 
 A chave de metal. O radical 金 indica o material; 龠 representa um instrumento tubular com orifícios — a flauta de sopro. A chave herda a forma: um objeto de metal com recortes que abre passagens. O que a flauta faz com o som, a chave faz com a porta.
+
+## Extrapolando na etimologia traduzida
+
+**Cavalgar** – do Lat. *caballicare* (de *caballus*, cavalo): montar a cavalo; andar montado.
+
+**Chave** – do Lat. *clavis* (o que fecha): instrumento para abrir ou fechar fechaduras; o que dá acesso; solução de um problema.

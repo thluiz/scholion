@@ -38,3 +38,11 @@ Pictograma de um instrumento musical de madeira com cordas. A forma antiga mostr
 可 (kě) – poder, ser capaz
 
 O que surpreende. 大 e 可 juntos: aquilo que é grande o bastante para impressionar. O Shuowen define 奇 como 異也, "diferente". O sentido oscila entre estranho e admirável — o que foge ao comum pode causar espanto ou fascínio.
+
+## Extrapolando na etimologia traduzida
+
+**Alegria** – do Lat. *alacer, alacris* (vivo, animado): sentimento de grande contentamento; júbilo; satisfação.
+
+**Música** – do Lat. *musica*, do Gr. *mousikḗ* (arte das Musas): arte de combinar sons; melodia; harmonia.
+
+**Maravilha** – do Lat. *mirabilia* (coisas admiráveis): coisa que causa admiração; prodígio; o que surpreende.

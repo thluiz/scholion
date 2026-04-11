@@ -38,3 +38,9 @@ Pictograma de uma serpente. A forma antiga mostra o corpo sinuoso e a boca abert
 見 (jiàn) – ver
 
 Encontro direto, face a face. 見 (ver) fornece o sentido; 賣 contribui o som. Não é olhar de longe — é ver de perto, estar diante. Caractere raro, de registro clássico, que designa o encontro sem intermediário.
+
+## Extrapolando na etimologia traduzida
+
+**Esperança** – do Lat. *sperantia* (de *sperare*, esperar): sentimento de quem vê como possível a realização do que deseja; confiança.
+
+**Encontro** – de *encontrar*, do Lat. vulg. *incontrare* (ir ao encontro): ato de encontrar-se; reunião face a face; confronto direto.

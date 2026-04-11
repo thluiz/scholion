@@ -44,3 +44,11 @@ Pictograma de uma balança equilibrada. O traço horizontal superior representa 
 ### 一
 
 Traço único — a unidade. O mais simples dos caracteres chineses. O Shuowen define 一 como 惟初太始道立於一造分天地化成萬物, "no grande início o Tao se funda no um, que divide céu e terra e transforma todas as coisas". Um traço, tudo começa.
+
+## Extrapolando na etimologia traduzida
+
+**Vermelho** – do Lat. *vermiculus* (vermezinho, cochonilha): cor encarnada; rubro.
+
+**Equilíbrio** – do Lat. *aequilibrium* (aequus + libra, peso igual): estabilidade; igualdade de forças; ponderação.
+
+**Unidade** – do Lat. *unitas, -atis* (de *unus*, um): qualidade do que é uno; o primeiro número inteiro; coesão.

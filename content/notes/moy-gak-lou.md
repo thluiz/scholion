@@ -42,3 +42,9 @@ Cada árvore tem sua forma — padrão. O radical 木 situa o significado no dom
 火 (huǒ) – fogo (dois componentes)
 
 Esforço sob fogo. A parte superior combina elementos de fogo com uma cobertura; a base é 力, força. A imagem é de trabalho árduo, feito sob pressão e calor. O Shuowen define 勞 como 劇也, "intenso, extenuante".
+
+## Extrapolando na etimologia traduzida
+
+**Padrão** – do Lat. *patronus* (protetor, modelo): norma; modelo; referência; configuração típica.
+
+**Trabalho** – do Lat. vulg. *tripaliare*: exercício de atividade; esforço; labuta.

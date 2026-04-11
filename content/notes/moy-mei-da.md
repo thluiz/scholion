@@ -42,3 +42,9 @@ O grande carneiro — o belo. O Shuowen Jiezi define 美 como 甘也從羊從大
 土 (tǔ / tou2) – terra
 
 Caminhar e alcançar. O Shuowen Jiezi define 達 como 行不相遇也, "caminhar sem obstáculo". O radical de movimento 辶 indica deslocamento; os componentes internos sugerem percorrer a grande terra. Chegar ao destino, atravessar sem impedimento.
+
+## Extrapolando na etimologia traduzida
+
+**Beleza** – de *belo*, do Lat. *bellus* (bonito, gracioso): qualidade do que é belo; harmonia de formas; perfeição estética.
+
+**Alcançar** – do Lat. vulg. *incalciare* (perseguir com os calcanhares): chegar a; atingir; conseguir; obter.

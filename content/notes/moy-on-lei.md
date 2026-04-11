@@ -41,3 +41,9 @@ Mulher sob o teto — paz. O sentido original é segurança doméstica: onde há
 刂 (dāo) – faca
 
 Faca que colhe o grão. O sentido original é cortar a colheita — daí "afiado" e, por extensão, "vantajoso, benéfico". O que corta bem, rende bem.
+
+## Extrapolando na etimologia traduzida
+
+**Paz** – do Lat. *pax, pacis*: estado de tranquilidade; ausência de conflito; sossego.
+
+**Benefício** – do Lat. *beneficium*: bem que se faz; vantagem, proveito.

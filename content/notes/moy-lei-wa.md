@@ -38,3 +38,9 @@ Faca que corta o grão — colheita proveitosa. O lado esquerdo é a planta de c
 ### 華
 
 O caractere tradicional mostra uma planta em plena floração. A parte superior representa flores abundantes; a base é 十 ou uma forma de tronco. O Shuowen define 華 como 榮也, "florescimento, glória". Do esplendor das flores ao esplendor de uma civilização — 華 é também o nome que a China dá a si mesma (中華).
+
+## Extrapolando na etimologia traduzida
+
+**Benefício** – do Lat. *beneficium*: bem que se faz; vantagem, proveito.
+
+**Esplendor** – do Lat. *splendor, -oris*: magnificência; grandeza; fulgor.

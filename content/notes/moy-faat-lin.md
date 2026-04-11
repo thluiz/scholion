@@ -41,3 +41,11 @@ A água que segue seu curso — o método natural. O Shuowen Jiezi define 法 co
 連 (lián / lin4) – conectar, ligar
 
 A flor que conecta lama e céu. O radical vegetal 艹 indica a categoria botânica; 連 serve como componente fonético e semântico — a lótus é a planta que liga o fundo lamacento à superfície limpa. No budismo, a flor de lótus é símbolo de pureza que emerge da impureza.
+
+## Extrapolando na etimologia traduzida
+
+**Lei** – do Lat. *lex, legis*: regra obrigatória; preceito.
+
+**Método** – do Lat. *methodus*, do Gr. *méthodos*: processo racional; ordem, sistema.
+
+**Lótus** – do Lat. *lotus*, do Gr. *lotós*: planta aquática de flores grandes; símbolo de pureza na tradição oriental.

@@ -41,3 +41,9 @@ Reconhecer pela palavra. O radical 言 situa o caractere no campo da linguagem; 
 口 (kǒu) – boca
 
 Boca à porta — perguntar. O Shuowen Jiezi define 問 como 訊也, "inquirir". A imagem é direta: alguém chega ao portão e fala. Quem pergunta se coloca na entrada, ainda do lado de fora do que não sabe.
+
+## Extrapolando na etimologia traduzida
+
+**Conhecimento** – de *conhecer*, do Lat. *cognoscere* (cum + gnoscere, aprender com): ato de saber; instrução; informação; discernimento.
+
+**Perguntar** – do Lat. *percontare* (sondar, inquirir): dirigir pergunta a; interrogar; indagar; questionar.

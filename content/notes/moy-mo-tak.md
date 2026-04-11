@@ -42,3 +42,9 @@ Pés que se movem — dança. O componente 舛 mostra dois pés em direções op
 心 (xīn) – coração
 
 Coração reto no caminho. O radical 彳indica movimento; 直 + 心 compõem o núcleo: agir com retidão interior. Virtude como conduta alinhada ao que é justo.
+
+## Extrapolando na etimologia traduzida
+
+**Dança** – do Fr. ant. *dancier*, do Frâncico *dansjan* (mover-se para lá e para cá): arte de mover o corpo ritmicamente; expressão corporal.
+
+**Virtude** – do Lat. *virtus, -utis*: qualidade moral; mérito; disposição para praticar o bem.

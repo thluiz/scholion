@@ -47,3 +47,11 @@ O Shuowen Jiezi define 利 como 銛也从刀从和, "afiado". Uma faca que corta
 ### 一
 
 Traço único horizontal. O Shuowen Jiezi define: 惟初太始道立於一造分天地化成萬物, "no princípio o Dao se estabeleceu no um, e dele se dividiram céu e terra e se formaram as dez mil coisas." O caractere mais simples do chinês — e o mais fundamental.
+
+## Extrapolando na etimologia traduzida
+
+**Elegância** – do Lat. *elegantia* (de *eligere*, escolher): qualidade do que é elegante; bom gosto; distinção; apuro.
+
+**Benefício** – do Lat. *beneficium*: bem que se faz; vantagem, proveito.
+
+**Unidade** – do Lat. *unitas, -atis*: qualidade do que é uno; o primeiro número inteiro.

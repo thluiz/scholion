@@ -41,3 +41,11 @@ Autoridade. O Shuowen Jiezi define 威 como 姑也從女從戌, associando à fi
 女 (nǚ / neoi5) – mulher
 
 Mulher sob o teto — paz. O Shuowen Jiezi define 安 como 靜也, "quietude". A imagem é doméstica e direta: onde a mulher está abrigada, há tranquilidade. O teto protege, a presença acalma. Paz como condição de abrigo.
+
+## Extrapolando na etimologia traduzida
+
+**Poder** – do Lat. *potere* (variante vulg. de *posse*, ser capaz): ter autoridade; força, vigor; domínio.
+
+**Prestígio** – do Lat. *praestigium* (ilusão, fascínio): influência exercida por mérito; ascendência moral; reputação.
+
+**Paz** – do Lat. *pax, pacis*: estado de tranquilidade; ausência de conflito; sossego, harmonia.
