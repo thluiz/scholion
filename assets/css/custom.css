@@ -330,6 +330,30 @@
   border-left: 3px solid rgb(var(--color-primary-500));
 }
 
+/* Pesquisa viva */
+.scholion-card--research {
+  border-left: 3px solid #6366f1;
+}
+
+.scholion-card-mark--research {
+  color: #6366f1;
+}
+
+/* Pesquisa viva — single page */
+.scholion-note--research {
+  border-color: #6366f1;
+  border-left: 4px solid #6366f1;
+}
+
+.scholion-research-badge {
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #6366f1;
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.02em;
+}
+
 /* Indicador "fixada" — apenas a estrela */
 .scholion-card-pin {
   position: absolute;
@@ -1398,4 +1422,76 @@
 .dark .scholion-tag-count {
   background: rgba(var(--color-primary-900), 0.5);
   color: rgb(var(--color-primary-200));
+}
+
+/* === Note history === */
+.scholion-history {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgb(var(--color-neutral-200));
+}
+
+.dark .scholion-history {
+  border-top-color: rgb(var(--color-neutral-700));
+}
+
+.scholion-history h2 {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: rgb(var(--color-neutral-500));
+  margin: 0 0 0.75rem 0;
+}
+
+.scholion-history-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 0.75rem 0;
+}
+
+.scholion-history-list li {
+  display: flex;
+  gap: 0.75rem;
+  font-size: 0.85rem;
+  color: rgb(var(--color-neutral-700));
+  margin-bottom: 0.35rem;
+}
+
+.dark .scholion-history-list li {
+  color: rgb(var(--color-neutral-300));
+}
+
+.scholion-history-list time {
+  flex-shrink: 0;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: 0.8rem;
+  color: rgb(var(--color-neutral-500));
+}
+
+.scholion-history-unavailable {
+  font-size: 0.8rem;
+  color: rgb(var(--color-neutral-400));
+  margin: 0 0 0.75rem 0;
+}
+
+.scholion-history-unavailable a {
+  color: rgb(var(--color-primary-600));
+}
+
+.dark .scholion-history-unavailable a {
+  color: rgb(var(--color-primary-300));
+}
+
+.scholion-history-gh {
+  font-size: 0.8rem;
+  color: rgb(var(--color-primary-700));
+  text-decoration: none;
+}
+
+.scholion-history-gh:hover {
+  text-decoration: underline;
+}
+
+.dark .scholion-history-gh {
+  color: rgb(var(--color-primary-300));
 }

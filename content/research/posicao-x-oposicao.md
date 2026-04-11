@@ -6,8 +6,6 @@ tags: ["pesquisa-viva", "filosofia", "dialética"]
 status: "em andamento"
 ---
 
-Toda posição gera oposição? A ideia aparece em pelo menos seis tradições filosóficas diferentes. Nenhuma delas diz exatamente a mesma coisa.
-
 ## Fontes verificadas (2026-04-11)
 
 Todas verificadas contra fontes primárias. Nenhuma inventada.
@@ -78,7 +76,58 @@ Nenhuma ainda.
 
 ## Perguntas em aberto
 
-- Spinoza disse algo modesto. Hegel universalizou. A ideia é de quem?
-- Heráclito fala de opostos como estrutura da realidade. Lao Tzu fala de opostos que se definem mutuamente. Jung fala de compensação psíquica. São a mesma ideia ou três ideias diferentes com aparência similar?
-- Nagarjuna está nesta conversa ou é outra coisa? Ele não diz que posição gera oposição. Diz que posição é ilusão.
-- Existe conexão entre a negação determinada de Hegel e o svabhava de Nagarjuna? Ambos dizem que nada se sustenta por si.
+(nenhuma ainda)
+
+## Texto em andamento
+
+### Posição x Oposição
+
+Meu mestre já comentou algumas vezes essa frase no contexto marcial. Estava conversando com a Bruna sobre vestimenta e o quanto era interessante a sua roupa te posicionar de forma mais favorável, pois toda posição gera uma oposição. Ela me pediu para desenvolver mais a ideia que eu seguia repetindo sem aprofundar muito.
+
+Eu tentei escrever rapidamente, era tarde da noite e não consegui chegar no cerne da questão.
+
+No quesito marcial é muito claro que buscar a posição de melhor alavancagem (lato sensu) é sempre interessante, mas o mais importante é a busca. A posição é sempre efêmera. Como isso se conecta com a questão da vestuário?
+
+Pelo lado marcial, toda vez que se posiciona algo de forma fixo é fácil de superá-lo.
+
+Digamos uma muralha: Se for muito extensa, e pode ser o tamanho que for, pode-se contorná-la (Grande Muralha da China x Mongóis) ou se pode encontrar algum ponto fraco (Linha Maginot Francesa).
+
+Se conseguir cercar o território inteiro, um castelo: Pode se usar escadas, flechas, fogo para simplesmente ignorá-la, tal qual a muralha, contornando-a.
+
+Força bruta, que apenas adia a própria derrota (link para o kuen kuit), também pode funcionar. Carlos Antunes, o Pai, em uma visita que fiz a Guarda Municipal me passou a manobra de Martelo e Bigorna: Se a sua força é muito superior a um inimigo encastelado, pode-se simplesmente martelar até amassar totalmente o adversário.
+
+Pode se fazer uma guerra psicológica: cortando linhas de suprimento, usar espiões, propaganda para que a população local esmoreça, ardis para penetrá-la (Tróia). Um último recurso é simplesmente sentar e esperar (guerra de cerco).
+
+A história é cheia de exemplos do quanto faz pouco sentido investir em posicionamentos muito elaborados porém estáticos, entretanto posicionamento é fundamental: Termópilas de Leônidas, Aljubarrota em Portugal, Austerlitz de Napoleão, Tuiuti Brasileiro, o famoso General Inverno Russo (é menosprezar a tenacidade do povo, mas foi determinante em duas guerras importantes), as montanhas do Afeganistão (o lugar onde os impérios vão para acabar), Vietnam para os Estados Unidos.
+
+(aqui começo a fazer a passagem para sair do marcial e tá sofrido...)
+
+## Fontes e referências
+
+### Spinoza
+- [Carta 50 a Jarig Jelles (latim, Hyper-Spinoza)](https://hyperspinoza.caute.lautre.net/Lettre-50-Spinoza-a-Jarig-Jelles-2-juin-1674)
+- [Melamed, "Omnis determinatio est negatio" (PhilArchive)](https://philarchive.org/rec/MELODE)
+- [Cambridge UP — capítulo sobre Spinoza e o idealismo alemão](https://www.cambridge.org/core/books/abs/spinoza-and-german-idealism/omnis-determinatio-est-negatio/BB684B4AA1F4EF5F764A0BB043C68227)
+
+### Heráclito
+- [Fragmentos DK — Wikisource (grego)](https://el.wikisource.org/wiki/%CE%97%CF%81%CE%AC%CE%BA%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%82_(%CE%B1%CF%80%CE%BF%CF%83%CF%80%CE%AC%CF%83%CE%BC%CE%B1%CF%84%CE%B1))
+- [Stanford Encyclopedia of Philosophy — Heraclitus](https://plato.stanford.edu/entries/heraclitus/)
+
+### Lao Tzu
+- [Tao Te Ching cap. 2 — múltiplas traduções (Green Way Research)](https://www.egreenway.com/taoism/ttclz2.htm)
+- [Tao Te Ching cap. 40 — múltiplas traduções (Green Way Research)](https://www.egreenway.com/taoism/ttclz40.htm)
+- [Wing-tsit Chan tradução completa (Terebess)](https://terebess.hu/english/tao/chan.html)
+- [Stephen Mitchell tradução completa (Terebess)](https://terebess.hu/english/tao/mitchell.html)
+
+### Fichte / Chalybäus / Hegel
+- [Mueller, "The Hegel Legend of 'Thesis-Antithesis-Synthesis'" (JSTOR, 1958)](https://www.jstor.org/stable/2708045)
+- [Stanford Encyclopedia of Philosophy — Hegel's Dialectics](https://plato.stanford.edu/entries/hegel-dialectics/)
+
+### Carl Jung
+- [Jung Lexicon — Enantiodromia (JungPage)](https://jungpage.org/learn/jung-lexicon)
+- [Jungian Center — Enantiodromia Part 1](https://jungiancenter.org/jung-on-the-enantiodromia-part-1-definitions-and-examples/)
+- [Wikipedia — Enantiodromia](https://en.wikipedia.org/wiki/Enantiodromia)
+
+### Nagarjuna
+- [Stanford Encyclopedia of Philosophy — Nagarjuna](https://plato.stanford.edu/entries/nagarjuna/)
+- [Mulamadhyamakakarika — tradução Jay Garfield (info)](https://global.oup.com/academic/product/the-fundamental-wisdom-of-the-middle-way-9780195093360)
