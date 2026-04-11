@@ -83,12 +83,14 @@ scholion/
 │   └── img/seal.png
 ├── config/_default/     # hugo.toml, params.toml, languages, menus
 ├── content/notes/       # 165+ notas em markdown
+├── data/git_history/    # JSONs com histórico por nota (gerados)
 ├── layouts/             # templates próprios (override do Blowfish)
 │   ├── _default/terms.html
 │   ├── index.html
 │   ├── notes/list.html
 │   ├── notes/single.html
 │   └── partials/favicons.html
+├── scripts/             # gen_git_history.py, pre-commit hook
 ├── static/              # favicon.png
 └── themes/blowfish/     # submodule, fixado em v2.101.0
 ```
@@ -119,6 +121,28 @@ git add content/notes/<slug>.md
 git commit -m "feat: <título>"
 git push
 ```
+
+## Histórico de alterações nas notas
+
+Cada nota exibe as 3 últimas alterações (data + mensagem de commit) e um link para o histórico completo no GitHub.
+
+Os dados vêm de arquivos JSON em `data/git_history/`, gerados por `scripts/gen_git_history.py`.
+
+### Bootstrap (primeira vez)
+
+```bash
+python scripts/gen_git_history.py --all
+```
+
+### Atualização automática via hook
+
+Copie o hook pre-commit para que os JSONs sejam atualizados a cada commit:
+
+```bash
+cp scripts/pre-commit .git/hooks/pre-commit
+```
+
+O hook detecta notas staged, atualiza só os JSONs correspondentes e faz `git add` deles automaticamente.
 
 ## Deploy
 
