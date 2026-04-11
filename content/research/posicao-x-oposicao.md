@@ -45,7 +45,7 @@ Nenhuma ainda.
 
 Todas verificadas contra fontes primárias. Nenhuma inventada.
 
-### Spinoza — "determinatio negatio est" ✓
+#### Spinoza — "determinatio negatio est" ✓
 
 Carta 50 (numeração Gebhardt) a Jarig Jelles, 2 de junho de 1674. Spinoza escreveu **"determinatio negatio est"** (determinação é negação) dentro de um argumento sobre figuras geométricas. Não era axioma filosófico, era observação pontual.
 
@@ -53,7 +53,7 @@ A versão famosa **"omnis determinatio est negatio"** (toda determinação é ne
 
 Links: [Carta 50 (latim, Hyper-Spinoza)](https://hyperspinoza.caute.lautre.net/Lettre-50-Spinoza-a-Jarig-Jelles-2-juin-1674) · [Melamed, "Omnis determinatio est negatio" (PhilArchive)](https://philarchive.org/rec/MELODE) · [Cambridge UP — Spinoza e o idealismo alemão](https://www.cambridge.org/core/books/abs/spinoza-and-german-idealism/omnis-determinatio-est-negatio/BB684B4AA1F4EF5F764A0BB043C68227)
 
-### Heráclito — unidade dos opostos (~500 a.C.) ✓
+#### Heráclito — unidade dos opostos (~500 a.C.) ✓
 
 Fragmentos verificados pela numeração Diels-Kranz (DK):
 
@@ -66,7 +66,7 @@ O termo **enantiodromia** é atribuído a Heráclito mas não aparece nos fragme
 
 Links: [Fragmentos DK — Wikisource (grego)](https://el.wikisource.org/wiki/%CE%97%CF%81%CE%AC%CE%BA%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%82_(%CE%B1%CF%80%CE%BF%CF%83%CF%80%CE%AC%CF%83%CE%BC%CE%B1%CF%84%CE%B1)) · [SEP — Heraclitus](https://plato.stanford.edu/entries/heraclitus/)
 
-### Lao Tzu — Tao Te Ching (~séc. IV a.C.) ✓
+#### Lao Tzu — Tao Te Ching (~séc. IV a.C.) ✓
 
 **Capítulo 2**: "Quando todos reconhecem o belo como belo, surge o feio. Quando todos reconhecem o bem como bem, surge o mal." Quase verbatim da tradução Wing-tsit Chan (1963).
 
@@ -76,7 +76,7 @@ Traduções de referência: Wing-tsit Chan (1963), D.C. Lau (1963), Stephen Mitc
 
 Links: [Cap. 2 — múltiplas traduções (Green Way Research)](https://www.egreenway.com/taoism/ttclz2.htm) · [Cap. 40 (Green Way Research)](https://www.egreenway.com/taoism/ttclz40.htm) · [Wing-tsit Chan completa (Terebess)](https://terebess.hu/english/tao/chan.html) · [Stephen Mitchell completa (Terebess)](https://terebess.hu/english/tao/mitchell.html)
 
-### Fichte / Chalybäus — tese-antítese-síntese ✓
+#### Fichte / Chalybäus — tese-antítese-síntese ✓
 
 A tríade tese-antítese-síntese é comumente atribuída a Hegel mas não é dele. Fichte usou estrutura triádica no Wissenschaftslehre (1794/95), mas o esquema como fórmula verbal é simplificação pedagógica. Chalybäus popularizou em Historische Entwicklung der speculativen Philosophie von Kant bis Hegel (1837).
 
@@ -86,7 +86,7 @@ Referências: Gustav E. Mueller, "The Hegel Legend of 'Thesis-Antithesis-Synthes
 
 Links: [Mueller no JSTOR (1958)](https://www.jstor.org/stable/2708045) · [SEP — Hegel's Dialectics](https://plato.stanford.edu/entries/hegel-dialectics/)
 
-### Carl Jung — enantiodromia ✓
+#### Carl Jung — enantiodromia ✓
 
 **CW 6, par. 709** (Psychological Types, 1921, seção Definitions): "I use the term enantiodromia for the emergence of the unconscious opposite in the course of time. This characteristic phenomenon practically always occurs when an extreme, one-sided tendency dominates conscious life; in time an equally powerful counterposition is built up, which first inhibits the conscious performance and subsequently breaks through the conscious control."
 
@@ -96,7 +96,7 @@ Enantiodromia não é o mesmo que sombra. A sombra é conteúdo reprimido pessoa
 
 Links: [Jung Lexicon — Enantiodromia (JungPage)](https://jungpage.org/learn/jung-lexicon) · [Jungian Center — Enantiodromia Part 1](https://jungiancenter.org/jung-on-the-enantiodromia-part-1-definitions-and-examples/) · [Wikipedia — Enantiodromia](https://en.wikipedia.org/wiki/Enantiodromia)
 
-### Nagarjuna — Mulamadhyamakakarika (~150-250 d.C.) ✓
+#### Nagarjuna — Mulamadhyamakakarika (~150-250 d.C.) ✓
 
 Versos Fundamentais do Caminho do Meio. 27 capítulos em verso. Texto fundador da escola Madhyamaka (budismo Mahayana). Argumento central: nenhum fenômeno tem existência inerente (svabhava). Todos são vazios (sunyata).
 
