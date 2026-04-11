@@ -5,6 +5,17 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
+## [0.3.0] — 2026-04-11
+
+### Adicionado
+
+- **Pesquisa Viva**: novo tipo de conteúdo em `content/research/` para pesquisas
+  de longa duração com fontes verificadas, texto em andamento e notas extraídas.
+- **Layout single para pesquisas** (`layouts/research/single.html`): caixa estilo
+  nota com borda azul, badge "🔍 Pesquisa Viva" e status.
+- **Cards de pesquisa no grid**: pesquisas aparecem junto com notas na home e em
+  `/notes/`, com borda azul e ícone de lupa para diferenciação.
+
 ## [0.2.0] — 2026-04-09
 
 ### Adicionado
