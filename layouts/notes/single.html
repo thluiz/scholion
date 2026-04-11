@@ -1,98 +1,128 @@
 {{ define "main" }}
-  <article class="scholion-note">
-    <header class="scholion-note-header">
-      <p class="scholion-back"><a href="{{ "/notes/" | relURL }}">← todas as notas</a></p>
-      <h1>{{ .Title }}</h1>
-      <div class="scholion-note-meta">
-        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
-      </div>
-      {{ with .Params.tags }}
-        <ul class="scholion-note-tags">
-          {{ range . }}<li><a href="{{ "/tags/" | relURL }}{{ . | urlize }}/">#{{ . }}</a></li>{{ end }}
-        </ul>
-      {{ end }}
-    </header>
-
-    <div class="scholion-note-body">
-      {{ .Content }}
-    </div>
-
-    <nav class="scholion-note-nav" aria-label="Navegação entre notas">
-      <a class="scholion-note-nav-back" href="{{ "/notes/" | relURL }}">← todas as notas</a>
-      <div class="scholion-note-nav-siblings">
-        {{ with .PrevInSection }}
-          <a class="scholion-note-nav-prev" href="{{ .RelPermalink }}" rel="prev">
-            <span class="scholion-note-nav-arrow">←</span>
-            <span class="scholion-note-nav-label">{{ .Title }}</span>
-          </a>
+  <div class="scholion-layout{{ if .Params.toc }} scholion-layout--toc{{ end }}">
+    <article class="scholion-note">
+      <header class="scholion-note-header">
+        <p class="scholion-back"><a href="{{ "/notes/" | relURL }}">← todas as notas</a></p>
+        <h1>{{ .Title }}</h1>
+        <div class="scholion-note-meta">
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+        </div>
+        {{ with .Params.tags }}
+          <ul class="scholion-note-tags">
+            {{ range . }}<li><a href="{{ "/tags/" | relURL }}{{ . | urlize }}/">#{{ . }}</a></li>{{ end }}
+          </ul>
         {{ end }}
-        {{ with .NextInSection }}
-          <a class="scholion-note-nav-next" href="{{ .RelPermalink }}" rel="next">
-            <span class="scholion-note-nav-label">{{ .Title }}</span>
-            <span class="scholion-note-nav-arrow">→</span>
-          </a>
-        {{ end }}
+      </header>
+
+      <div class="scholion-note-body">
+        {{ .Content }}
       </div>
-    </nav>
 
-    {{/* Backlinks: notas que linkam para esta */}}
-    {{ $backlinks := slice }}
-    {{ $currentPath := .RelPermalink }}
-    {{ range where .Site.RegularPages "RelPermalink" "ne" $currentPath }}
-      {{ if findRE $currentPath .RawContent }}
-        {{ $backlinks = $backlinks | append . }}
+      <nav class="scholion-note-nav" aria-label="Navegação entre notas">
+        <a class="scholion-note-nav-back" href="{{ "/notes/" | relURL }}">← todas as notas</a>
+        <div class="scholion-note-nav-siblings">
+          {{ with .PrevInSection }}
+            <a class="scholion-note-nav-prev" href="{{ .RelPermalink }}" rel="prev">
+              <span class="scholion-note-nav-arrow">←</span>
+              <span class="scholion-note-nav-label">{{ .Title }}</span>
+            </a>
+          {{ end }}
+          {{ with .NextInSection }}
+            <a class="scholion-note-nav-next" href="{{ .RelPermalink }}" rel="next">
+              <span class="scholion-note-nav-label">{{ .Title }}</span>
+              <span class="scholion-note-nav-arrow">→</span>
+            </a>
+          {{ end }}
+        </div>
+      </nav>
+
+      {{/* Backlinks: notas que linkam para esta */}}
+      {{ $backlinks := slice }}
+      {{ $currentPath := .RelPermalink }}
+      {{ range where .Site.RegularPages "RelPermalink" "ne" $currentPath }}
+        {{ if findRE $currentPath .RawContent }}
+          {{ $backlinks = $backlinks | append . }}
+        {{ end }}
       {{ end }}
-    {{ end }}
-    {{ if $backlinks }}
-      <aside class="scholion-related scholion-backlinks">
-        <h2>Citada por</h2>
-        <ul>
-          {{ range $backlinks }}
-            <li>
-              <a href="{{ .RelPermalink }}">
-                <span class="scholion-related-title">{{ .Title }}</span>
-                {{ with .Params.summary }}<span class="scholion-related-summary">{{ . }}</span>{{ end }}
-              </a>
-            </li>
-          {{ end }}
-        </ul>
-      </aside>
-    {{ end }}
+      {{ if $backlinks }}
+        <aside class="scholion-related scholion-backlinks">
+          <h2>Citada por</h2>
+          <ul>
+            {{ range $backlinks }}
+              <li>
+                <a href="{{ .RelPermalink }}">
+                  <span class="scholion-related-title">{{ .Title }}</span>
+                  {{ with .Params.summary }}<span class="scholion-related-summary">{{ . }}</span>{{ end }}
+                </a>
+              </li>
+            {{ end }}
+          </ul>
+        </aside>
+      {{ end }}
 
-    {{ $related := first 4 (.Site.RegularPages.Related .) }}
-    {{ if $related }}
-      <aside class="scholion-related">
-        <h2>Notas relacionadas</h2>
-        <ul>
-          {{ range $related }}
-            <li>
-              <a href="{{ .RelPermalink }}">
-                <span class="scholion-related-title">{{ .Title }}</span>
-                {{ with .Params.summary }}<span class="scholion-related-summary">{{ . }}</span>{{ end }}
-              </a>
-            </li>
-          {{ end }}
-        </ul>
-      </aside>
-    {{ end }}
+      {{ $related := first 4 (.Site.RegularPages.Related .) }}
+      {{ if $related }}
+        <aside class="scholion-related">
+          <h2>Notas relacionadas</h2>
+          <ul>
+            {{ range $related }}
+              <li>
+                <a href="{{ .RelPermalink }}">
+                  <span class="scholion-related-title">{{ .Title }}</span>
+                  {{ with .Params.summary }}<span class="scholion-related-summary">{{ . }}</span>{{ end }}
+                </a>
+              </li>
+            {{ end }}
+          </ul>
+        </aside>
+      {{ end }}
 
-    {{ with .Params.sources }}
-      <aside class="scholion-sources">
-        <h2>Fontes</h2>
-        <ol>
-          {{ range . }}
-            <li class="scholion-source scholion-source--{{ .kind | default "other" }}">
-              {{ if .url }}<a href="{{ .url }}" rel="noopener" target="_blank">{{ end }}
-              <span class="scholion-source-title">{{ .title }}</span>
-              {{ if .url }}</a>{{ end }}
-              {{ with .author }}<span class="scholion-source-author"> — {{ . }}</span>{{ end }}
-              {{ with .year }}<span class="scholion-source-year"> ({{ . }})</span>{{ end }}
-              {{ with .publisher }}<span class="scholion-source-publisher">, {{ . }}</span>{{ end }}
-              {{ with .kind }}<span class="scholion-source-kind">[{{ . }}]</span>{{ end }}
-            </li>
-          {{ end }}
-        </ol>
+      {{ with .Params.sources }}
+        <aside class="scholion-sources">
+          <h2>Fontes</h2>
+          <ol>
+            {{ range . }}
+              <li class="scholion-source scholion-source--{{ .kind | default "other" }}">
+                {{ if .url }}<a href="{{ .url }}" rel="noopener" target="_blank">{{ end }}
+                <span class="scholion-source-title">{{ .title }}</span>
+                {{ if .url }}</a>{{ end }}
+                {{ with .author }}<span class="scholion-source-author"> — {{ . }}</span>{{ end }}
+                {{ with .year }}<span class="scholion-source-year"> ({{ . }})</span>{{ end }}
+                {{ with .publisher }}<span class="scholion-source-publisher">, {{ . }}</span>{{ end }}
+                {{ with .kind }}<span class="scholion-source-kind">[{{ . }}]</span>{{ end }}
+              </li>
+            {{ end }}
+          </ol>
+        </aside>
+      {{ end }}
+
+      {{/* Histórico de alterações */}}
+      {{ $slug := replace .File.ContentBaseName "-" "_" }}
+      {{ $ghURL := printf "https://github.com/thluiz/scholion/commits/main/content/notes/%s" .File.LogicalName }}
+      <aside class="scholion-history">
+        <h2>Histórico</h2>
+        {{ with index site.Data.git_history $slug }}
+          <ul class="scholion-history-list">
+            {{ range . }}
+              <li>
+                <time>{{ .date }}</time>
+                <span>{{ .subject }}</span>
+              </li>
+            {{ end }}
+          </ul>
+        {{ else }}
+          <p class="scholion-history-unavailable">Histórico indisponível — <a href="https://github.com/thluiz/scholion#hist%C3%B3rico-de-altera%C3%A7%C3%B5es-nas-notas">como configurar</a></p>
+        {{ end }}
+        <a class="scholion-history-gh" href="{{ $ghURL }}" rel="noopener" target="_blank">Ver no GitHub ↗</a>
+      </aside>
+    </article>
+
+    {{ if .Params.toc }}
+      <aside class="scholion-toc">
+        <nav id="TableOfContents">
+          {{ .TableOfContents }}
+        </nav>
       </aside>
     {{ end }}
-  </article>
+  </div>
 {{ end }}
