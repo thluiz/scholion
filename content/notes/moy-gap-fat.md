@@ -42,6 +42,10 @@ O pássaro que se reúne. A pomba é ave de bando. O radical 鳥 classifica o ca
 
 O Shuowen Jiezi define 法 como 刑也平之如水从水, "punição; nivelar como a água". A forma antiga incluía 廌 (zhì), um animal mítico capaz de distinguir o culpado do inocente. A água que nivela tudo deu origem ao sentido de lei, aquilo que é igual para todos. Daí se estende a método, modo, regra.
 
+### Divergências entre fontes
+
+Para 鴿, o MDBG e o Shuowen concordam na decomposição 合+鳥 (fonético + semântico). O hanziyuan.net (Richard Sears) confirma os componentes mas tem registos limitados de formas arcaicas, dado que o caractere não aparece em inscrições oraculares nem em bronze. Para 法, o Shuowen Jiezi descreve a forma antiga com 廌 (animal mítico que distingue culpado de inocente) + 水, enquanto a forma moderna retém apenas 氵+ 去. O hanziyuan.net confirma a presença de 廌 nas formas em bronze e o seu desaparecimento posterior. O MDBG regista apenas a decomposição moderna 氵+ 去, sem referência ao componente arcaico.
+
 ## Extrapolando na etimologia traduzida
 
 **Pomba** – do Lat. *palumba*: ave columbiforme; símbolo de paz e pureza.

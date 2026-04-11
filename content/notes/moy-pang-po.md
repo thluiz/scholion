@@ -42,6 +42,10 @@ Som do tambor ressoando. O componente esquerdo 壴 representa um tambor montado;
 
 Sol para todos. Universal. O componente superior 並 indica união, simultaneidade; o inferior 日 é o sol. A imagem é de luz solar que alcança todos por igual. O Shuowen define 普 como 日無色也, registrando o sentido de amplitude e generalidade.
 
+### Divergências entre fontes
+
+Para 彭, o MDBG e o Shuowen concordam na decomposição 壴+彡 e na definição "som de tambor". O hanziyuan.net (Richard Sears) concorda com a estrutura mas classifica 彡 como indicativo genérico de padrão/textura, sem especificar "ondas sonoras". A leitura de reverberação é inferência, não dado explícito das fontes. Para 普, o hanziyuan.net decompõe em 並+日, concordando com o MDBG. O Shuowen define 普 como 日無色也 ("sol sem cor particular"), uma glosa que aponta para amplitude e não para "universalidade" no sentido moderno. O sentido de "universal" é extensão posterior, não o significado original segundo o Shuowen.
+
 ## Extrapolando na etimologia traduzida
 
 **Tambor** – do Ar. *tanbur* (instrumento de cordas, depois percussão): instrumento de percussão; membrana tensionada sobre aro.

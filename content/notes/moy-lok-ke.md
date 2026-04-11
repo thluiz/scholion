@@ -39,6 +39,10 @@ Pictograma de um instrumento musical de madeira com cordas. A forma antiga mostr
 
 O que surpreende. 大 e 可 juntos: aquilo que é grande o bastante para impressionar. O Shuowen define 奇 como 異也, "diferente". O sentido oscila entre estranho e admirável. O que foge ao comum pode causar espanto ou admiração.
 
+### Divergências entre fontes
+
+Para 樂, o MDBG decompõe em 白 + 幺幺 + 木. O hanziyuan.net (Richard Sears) classifica como pictograma de um instrumento de cordas sobre madeira, sem segmentar em 白 e 幺幺 como componentes independentes. O Shuowen define como 五聲八音總名 ("nome geral dos cinco tons e oito timbres") e analisa como composto de 木 com 㓁 (seda/cordas), concordando com a leitura de instrumento musical mas usando uma segmentação diferente da do MDBG. Para 奇, o MDBG decompõe em 大 + 可. O hanziyuan.net confirma a decomposição mas nota que 可 funciona como fonético, não como semântico. O Shuowen define como 異也 ("diferente") e decompõe em 大 + 可, tratando 可 como parte da estrutura sem especificar o seu papel fonético ou semântico.
+
 ## Extrapolando na etimologia traduzida
 
 **Alegria** – do Lat. *alacer, alacris* (vivo, animado): sentimento de grande contentamento; júbilo; satisfação.

@@ -42,6 +42,10 @@ Reconhecer pela palavra. O radical 言 situa o caractere no campo da linguagem; 
 
 Boca à porta. Perguntar. O Shuowen Jiezi define 問 como 訊也, "inquirir". A imagem é direta: alguém chega ao portão e fala. Quem pergunta se coloca na entrada, ainda do lado de fora do que não sabe.
 
+### Divergências entre fontes
+
+Para 識, as fontes concordam na decomposição 言+戠 (semântico + fonético) e no sentido de "conhecer, reconhecer". O hanziyuan.net (Richard Sears) classifica 戠 como fonético puro. O Shuowen define 識 como 知也 sem analisar 戠 em detalhe. Não há divergência substancial. Para 問, o Shuowen decompõe em 門+口 e define como 訊也 ("inquirir"). O hanziyuan.net confirma os mesmos componentes nas formas arcaicas. O MDBG regista a decomposição moderna idêntica. As três fontes concordam tanto na estrutura como no significado.
+
 ## Extrapolando na etimologia traduzida
 
 **Conhecimento** – de *conhecer*, do Lat. *cognoscere* (cum + gnoscere, aprender com): ato de saber; instrução; informação; discernimento.

@@ -48,6 +48,10 @@ Cereal cortado com faca: a colheita. O Shuowen define 利 como 銛也, "afiado".
 
 Forma de radical Kangxi (⼠) em vez do caractere padrão 士. Pictograma de um machado fincado no chão, símbolo de quem planta posição e defende. O Shuowen define 士 como 事也, "aquele que serve". Homem de saber e de armas.
 
+### Divergências entre fontes
+
+Para 華, o MDBG decompõe em 艹 (planta) + componente inferior ligado a 花. O hanziyuan.net (Richard Sears) classifica 華 como pictograma de uma flor, sem decomposição em componentes separados, e registra formas em osso de oráculo que mostram uma planta florida inteira. O Shuowen concorda com o sentido de florescência (榮也) mas não explicita decomposição. Para 利, as três fontes concordam na decomposição 禾 + 刂 e no sentido de afiado/benefício. Para ⼠, o MDBG e o Shuowen tratam 士 como composto de 十 + 一. O hanziyuan.net classifica como pictograma independente, sem confirmar a decomposição numérica nem a leitura do machado de guerra.
+
 ## Extrapolando na etimologia traduzida
 
 **Esplendor** – do Lat. *splendor, -oris*: magnificência; grandeza; fulgor.

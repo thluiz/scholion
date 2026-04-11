@@ -42,6 +42,10 @@ A água que segue seu curso. O Shuowen Jiezi define 法 como 刑也, "norma, pen
 
 Colher o grão com a faca. O Shuowen Jiezi define 利 como 銛也, "afiado". A lâmina que ceifa a colheita é o gesto do proveito: o que é afiado é útil, o que é útil é proveitoso.
 
+### Divergências entre fontes
+
+Para 法, a decomposição moderna 氵+ 去 é pacífica entre as fontes. O Shuowen Jiezi, porém, registra a forma antiga 灋 com o componente 廌 (zhì), um animal mítico que separava o justo do injusto. O hanziyuan.net (Richard Sears) confirma a presença de 廌 nas formas de bronze, o que indica que a decomposição corrente (água + ir) é simplificação tardia, não a estrutura original. Para 利, as fontes concordam: 禾 + 刀, sem divergência relevante.
+
 ## Extrapolando na etimologia traduzida
 
 **Lei** – do Lat. *lex, legis* (o que se lê, norma): regra obrigatória; preceito emanado de autoridade competente.

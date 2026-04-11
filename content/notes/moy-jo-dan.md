@@ -39,6 +39,10 @@ O altar dos ancestrais. O radical 礻liga o caractere ao domínio do sagrado; �
 
 Pictograma de um poço de cinábrio. O ponto central representa o mineral dentro da cavidade. Cinábrio é o minério de mercúrio, vermelho vivo, usado na alquimia taoísta para preparar o elixir da imortalidade. Por extensão: vermelho, essencial, alquímico.
 
+### Divergências entre fontes
+
+Para 祖, as fontes concordam na decomposição 礻+ 且. O Shuowen Jiezi define 祖 como 始廟也, "templo dos primórdios", enfatizando o aspecto ritual. O hanziyuan.net (Richard Sears) confirma a estrutura mas classifica 且 como pictograma independente (mesa de oferendas ou bloco de pedra), sem atribuir-lhe valor fonético. O MDBG lista apenas o sentido moderno de "ancestral, avô, fundador", sem entrar na composição. Para 丹, o Shuowen descreve o caractere como 巴越之赤石也, "pedra vermelha de Ba e Yue", e dá uma decomposição em 一 (um) dentro de 冂 (cavidade). O hanziyuan.net trata 丹 como pictograma puro de um poço de minério com ponto central, sem decompor em partes.
+
 ## Extrapolando na etimologia traduzida
 
 **Ancestral** – do Lat. *antecessor, -oris*: ascendente, antepassado; que pertence a gerações anteriores.

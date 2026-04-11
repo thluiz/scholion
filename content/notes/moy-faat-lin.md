@@ -42,6 +42,10 @@ A água que segue seu curso. O Shuowen Jiezi define 法 como 刑也, "norma, pen
 
 A flor que conecta lama e céu. O radical vegetal 艹 indica a categoria botânica; 連 serve como componente fonético e semântico. A lótus é a planta que liga o fundo lamacento à superfície limpa. No budismo, a flor de lótus é símbolo de pureza que emerge da impureza.
 
+### Divergências entre fontes
+
+Para 法, a mesma questão de outros nomes: a decomposição moderna 氵+ 去 não reflete a forma antiga 灋, que incluía 廌 (animal mítico). O hanziyuan.net (Richard Sears) confirma o componente 廌 nas formas de bronze. Para 蓮, as fontes concordam na estrutura 艹 + 連. O papel de 連 é primariamente fonético; a leitura semântica (a flor que conecta) é interpretação posterior, não etimologia no sentido estrito.
+
 ## Extrapolando na etimologia traduzida
 
 **Lei** – do Lat. *lex, legis*: regra obrigatória; preceito.

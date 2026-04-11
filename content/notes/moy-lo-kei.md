@@ -43,6 +43,10 @@ Esforço sob fogo. O Shuowen Jiezi define 勞 como 劇也, "intenso, penoso". Na
 
 Montanha irregular. O radical 山 indica a categoria geográfica; 奇 funciona como fonético e semântico, o terreno que não é plano, que surpreende.
 
+### Divergências entre fontes
+
+Para 勞, o hanziyuan.net (Richard Sears) decompõe a parte superior como dois 火 (fogo) sob 冖 (cobertura), concordando com a nota. O Shuowen define 勞 como 劇也 ("intenso") mas na forma antiga usa 熒 (brilho de fogo) + 力, não dois fogos separados sob cobertura. A estrutura gráfica é a mesma, a segmentação dos componentes muda conforme a fonte. Para 崎, as fontes concordam: 山 + 奇, sem divergência. O papel de 奇 é fonético.
+
 ## Extrapolando na etimologia traduzida
 
 **Trabalho** – do Lat. vulg. *tripaliare* (torturar com o *tripalium*): exercício de atividade para produção de algo; esforço, labuta.

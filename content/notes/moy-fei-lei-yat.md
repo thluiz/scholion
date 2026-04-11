@@ -48,6 +48,10 @@ O Shuowen Jiezi define 利 como 銛也从刀从和, "afiado". Uma faca que corta
 
 Traço único horizontal. O Shuowen Jiezi define: 惟初太始道立於一造分天地化成萬物, "no princípio o Dao se estabeleceu no um, e dele se dividiram céu e terra e se formaram as dez mil coisas." O caractere mais simples do chinês e o mais elementar.
 
+### Divergências entre fontes
+
+Para 斐, o MDBG e o Shuowen concordam na decomposição 非+文 e no sentido de padrão literário distinto. O hanziyuan.net (Richard Sears) confirma os componentes mas classifica 非 como fonético puro, sem a leitura semântica de "não/diferença" que o Shuowen sugere em 分別文也. Para 利, as três fontes concordam na decomposição 禾+刂 e no sentido de "afiado", embora o hanziyuan.net identifique a forma arcaica como uma faca junto a cereais sem passar pela glosa intermediária 銛 do Shuowen. Para 一, não há divergência: todas as fontes registam um traço horizontal, sem decomposição.
+
 ## Extrapolando na etimologia traduzida
 
 **Elegância** – do Lat. *elegantia* (de *eligere*, escolher): qualidade do que é elegante; bom gosto; distinção; apuro.

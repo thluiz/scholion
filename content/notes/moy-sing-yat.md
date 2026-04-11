@@ -39,6 +39,10 @@ Força que supera. O componente 朕, antes de se tornar pronome exclusivo do imp
 
 Traço único. O mais elementar dos caracteres: um traço horizontal representando a unidade. O Shuowen define: 惟初太始道立於一造分天地化成萬物, "no princípio absoluto, o Dao estabeleceu-se no Um, que dividiu céu e terra e gerou as dez mil coisas."
 
+### Divergências entre fontes
+
+Para 勝, o MDBG decompõe em 朕+力. O hanziyuan.net (Richard Sears) concorda com a presença de 力 mas analisa a parte superior como 舟 (barco) + 灷 (componente fonético), sem tratar 朕 como unidade. O Shuowen define 勝 como 任也 ("suportar, ser capaz"), um sentido distante de "vitória" que o MDBG e o uso moderno priorizam. Para 一, as três fontes concordam: traço único, sem decomposição. A definição cosmológica do Shuowen (o Dao que divide céu e terra) é filosófica, não partilhada pelo MDBG nem pelo hanziyuan.
+
 ## Extrapolando na etimologia traduzida
 
 **Vitória** – do Lat. *victoria, -ae* (de *vincere*, vencer): ato de vencer; triunfo; sucesso em competição ou luta.

@@ -42,6 +42,10 @@ O som do coração. Intenção. O componente superior 音 é som, palavra; o inf
 
 Ave da união. O componente esquerdo 合 funciona como fonético e semântico: a pomba é a ave que se junta em bando, que volta ao pombal. O radical 鳥 classifica o caractere no domínio das aves.
 
+### Divergências entre fontes
+
+Para 意, as três fontes concordam na decomposição 音+心. O Shuowen define como 志也 ("propósito"), o MDBG como "significado, intenção", e o hanziyuan.net (Richard Sears) confirma a estrutura. Não há divergência relevante neste caractere. Para 鴿, o MDBG decompõe em 合+鳥. O hanziyuan.net concorda com a estrutura mas tem poucas atestações antigas, dado que 鴿 não aparece nos corpora de ossos oraculares nem de bronze. O Shuowen não inclui entrada para 鴿, o que sugere que o caractere é formação tardia. A leitura semântica de 合 como "ave que se junta em bando" é interpretação posterior, não etimologia atestada.
+
 ## Extrapolando na etimologia traduzida
 
 **Intenção** – do Lat. *intentio, -onis* (de *intendere*, dirigir para): propósito; desígnio; vontade dirigida a um fim.

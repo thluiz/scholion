@@ -40,6 +40,10 @@ Pessoa junto a uma boca: quem dirige. A forma antiga mostra uma figura humana vo
 
 Profundidade interior, o que está guardado no fundo da casa. O radical 宀 indica espaço coberto; 釆 e 大 compõem o interior reservado, onde se guarda o que é valioso. O Shuowen define 奧 como 宛也, "recôndito".
 
+### Divergências entre fontes
+
+Para 司, o MDBG não segmenta o caractere em componentes nomeados, tratando-o como bloco. O hanziyuan.net (Richard Sears) classifica 司 como uma inversão de 后 (soberano), mostrando formas em bronze onde uma pessoa está voltada para uma boca (口), com o sentido de comandar. O Shuowen define como 臣司事於外者 ("funcionário que administra no exterior") e analisa como composto de 口 com um componente de pessoa, sem nomear esse componente como radical independente. As fontes concordam no sentido de administrar, mas divergem sobre se 司 é inversão de 后 ou composição de 口 + pessoa. Para 奧, o MDBG decompõe em 宀 + 釆 + 大. O hanziyuan.net mostra formas antigas com 宀 + 廾 (duas mãos) + 釆, sem o componente 大. O Shuowen define como 宛也 ("recôndito") e analisa como composto de 宀 + 㝝.
+
 ## Extrapolando na etimologia traduzida
 
 **Dirigir** – do Lat. *dirigere* (dis + regere, conduzir em linha reta): administrar; governar; orientar; comandar.

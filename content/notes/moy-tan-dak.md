@@ -40,6 +40,10 @@ Pictograma de poço de cinábrio. O caractere representa um poço mineral (o pon
 
 Coração reto no caminho. O radical 彳 indica caminho, deslocamento; 直 é retidão; 心 é coração. A virtude é andar com o coração reto. O Shuowen define 德 como 升也, "elevar-se". A conduta que eleva.
 
+### Divergências entre fontes
+
+Para 丹, as fontes concordam: pictograma de poço de cinábrio, sem decomposição em subcomponentes. O Shuowen localiza geograficamente ("pedra vermelha de Ba e Yue"), enquanto o MDBG e o hanziyuan.net (Richard Sears) omitem a referência geográfica. Para 德, o MDBG decompõe em 彳+直+心. O hanziyuan.net analisa a forma antiga de modo diferente: nas inscrições em bronze, o componente central não é 直 (reto) mas 省 (examinar) ou uma forma de olho sobre caminho, indicando "ver com clareza ao caminhar". O Shuowen define 德 como 升也 ("elevar-se"), sentido que nem o MDBG nem o hanziyuan confirmam como primário. A decomposição moderna 彳+直+心 é uma leitura da forma regularizada, não da forma arcaica.
+
 ## Extrapolando na etimologia traduzida
 
 **Cinábrio** – do Lat. *cinnabaris*, do Gr. *kinnabari*: sulfureto vermelho de mercúrio; pigmento vermelho.

@@ -52,6 +52,10 @@ Coração reto no caminho. O radical 彳indica movimento; 直 + 心 compõem o n
 
 Flor em abertura. O sentido original é "florescência", a planta em flor. Por extensão: esplêndido, magnífico, e o nome clássico da China (中華).
 
+### Divergências entre fontes
+
+Para 安, as fontes concordam na decomposição 宀 (teto) + 女 (mulher) e no sentido de segurança. O Shuowen Jiezi define como 靜也, "quietude", sem divergência estrutural. Para 德, o Shuowen decompõe em 彳 + 直 + 心, com 直 indicando retidão. O hanziyuan.net (Richard Sears) aponta que a forma oracular de 德 não contém 心; o coração foi acrescentado em estágios posteriores (bronze tardio). A forma mais antiga mostra apenas 彳 + 直, significando "caminhar reto", sem conotação moral explícita. A adição de 心 deslocou o sentido de conduta exterior para disposição interior. Para 華, o Shuowen define como 榮也, "florescência", e descreve o caractere como pictograma de flor. O hanziyuan.net concorda, mas nota que a parte inferior da forma antiga é mais complexa do que o 化 que aparece na escrita moderna, sugerindo simplificação gráfica ao longo dos séculos.
+
 ## Extrapolando na etimologia traduzida
 
 **Paz** – do Lat. *pax, pacis*: estado de tranquilidade; ausência de conflito; sossego.

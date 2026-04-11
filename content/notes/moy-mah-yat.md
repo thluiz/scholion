@@ -39,6 +39,10 @@ Pictograma. O Shuowen Jiezi define: 怒也武也象馬頭髦尾四足之形, "f�
 
 Pessoa que se perde, ou que escapa ao comum. O caractere carrega dois sentidos paralelos: o que se perdeu (textos 佚, obras desaparecidas) e o que ultrapassa a norma (佚才, talento extraordinário). O que está além do ordinário é o que não se encontra entre os demais.
 
+### Divergências entre fontes
+
+Para 馬, as fontes concordam: pictograma puro, sem decomposição semântica. O Shuowen acrescenta 怒也武也 ("fúria e marcialidade"), que é leitura simbólica, não etimológica. O hanziyuan.net (Richard Sears) confirma as dezenas de variantes em ossos oraculares sem subscrever a conotação marcial. Para 佚, o MDBG decompõe em 亻+ 失 (pessoa + perder). O hanziyuan.net confirma os mesmos componentes e o duplo sentido de "perdido" e "extraordinário". O Shuowen Jiezi define 佚 como 佚民也, com ênfase no sentido de "pessoa reclusa, que se retira". A leitura de "extraordinário" ou "talento que excede o comum" aparece no MDBG e no uso corrente mas não no Shuowen.
+
 ## Extrapolando na etimologia traduzida
 
 **Cavalo** – do Lat. *caballus, -i* (cavalo de trabalho): animal quadrúpede equino; força em movimento.

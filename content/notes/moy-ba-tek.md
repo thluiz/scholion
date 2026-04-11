@@ -39,6 +39,10 @@ Pictograma de uma serpente. A forma antiga mostra o corpo sinuoso e a boca abert
 
 Encontro direto, face a face. 見 (ver) fornece o sentido; 賣 contribui o som. Ver de perto, estar diante. Caractere raro, de registro clássico, que designa o encontro sem intermediário.
 
+### Divergências entre fontes
+
+Para 巴, o MDBG trata como caractere não decomposto. O Shuowen define como 蟲也, "criatura rasteira", e associa ao mito da serpente gigante que engolia elefantes. O hanziyuan.net (Richard Sears) classifica como pictograma de uma serpente, confirmando o Shuowen, mas nota que o sentido de "apegar-se, esperar" é extensão fonética tardia, sem relação com a serpente original. Para 覿, o MDBG decompõe em 賣 (fonético) + 見 (ver). O hanziyuan.net não tem entrada para 覿, dado o seu estatuto de caractere raro/arcaico. O Shuowen define 覿 como 見也 ("ver") e decompõe em 賣 + 見, concordando com o MDBG. A leitura específica de "encontro face a face" aparece no uso clássico mas não na definição do Shuowen, que regista apenas "ver".
+
 ## Extrapolando na etimologia traduzida
 
 **Esperança** – do Lat. *sperantia* (de *sperare*, esperar): sentimento de quem vê como possível a realização do que deseja; confiança.

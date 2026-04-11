@@ -42,6 +42,10 @@ A palavra do erudito: o que é dito com propriedade traz bom augúrio. O Shuowen
 
 O Shuowen Jiezi define 老 como 考也七十曰老, "aos setenta se é velho". A forma antiga mostrava uma pessoa de cabelos longos apoiada num bastão. O radical 耂 é a parte superior, o cabelo transformado. 匕 na parte inferior sugere a mudança, a transformação do corpo pelo tempo. Velhice como acúmulo, não como perda.
 
+### Divergências entre fontes
+
+Para 吉, o Shuowen decompõe em 士+口 e define como 善也. O hanziyuan.net (Richard Sears) rejeita esta decomposição: nas formas oraculares, o caractere mostra um machado sobre um suporte, não uma boca sob um erudito. A leitura de "auspicioso" derivaria da arma em repouso, não da fala correta. O MDBG regista a decomposição gráfica moderna sem se pronunciar sobre a origem. Para 老, o Shuowen decompõe em 耂+匕 e o hanziyuan.net confirma a forma arcaica de pessoa com cabelos longos e bastão. As fontes concordam na estrutura e no sentido. A diferença é menor: o hanziyuan.net classifica como pictograma transformado, o Shuowen como ideograma composto.
+
 ## Extrapolando na etimologia traduzida
 
 **Auspício** – do Lat. *auspicium*: presságio favorável; proteção.

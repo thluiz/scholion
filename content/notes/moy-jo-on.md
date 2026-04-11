@@ -42,6 +42,10 @@ O radical 礻(forma reduzida de 示, altar) liga o caractere ao domínio ritual.
 
 Mulher sob um teto: a imagem de repouso e segurança. O Shuowen define 安 como 靜也, "quietude". Paz não como ausência de conflito, mas como presença de abrigo.
 
+### Divergências entre fontes
+
+Para 祖, as fontes concordam na decomposição 礻+ 且 e no sentido de ancestral/templo de origem. O MDBG regista 且 como fonético, enquanto o Shuowen atribui a 且 o valor de tableta ancestral, dando-lhe papel semântico além do fonético. O hanziyuan.net (Richard Sears) confirma a decomposição mas classifica 且 como pictograma de um altar de pedra, não de uma tableta. Para 安, MDBG, Shuowen e hanziyuan.net concordam na decomposição 宀 + 女 e no sentido de paz/quietude. A única diferença é que o hanziyuan.net identifica formas em bronze onde 女 aparece em posição ajoelhada, sugerindo que a imagem original era de uma mulher sentada dentro de casa, não simplesmente sob um teto.
+
 ## Extrapolando na etimologia traduzida
 
 **Ancestral** – do Lat. *antecessor, -oris*: ascendente, antepassado.
