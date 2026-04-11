@@ -106,7 +106,7 @@ Nagarjuna não diz "posição gera oposição". Diz que toda posição fixa é i
 
 Links: [SEP — Nagarjuna](https://plato.stanford.edu/entries/nagarjuna/) · [Tradução Jay Garfield (OUP)](https://global.oup.com/academic/product/the-fundamental-wisdom-of-the-middle-way-9780195093360)
 
-### Posicionamento marcial/histórico ?
+### História ?
 
 #### Termópilas (480 a.C.) ?
 
