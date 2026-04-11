@@ -35,6 +35,30 @@
       </div>
     </nav>
 
+    {{/* Backlinks: notas que linkam para esta */}}
+    {{ $backlinks := slice }}
+    {{ $currentPath := .RelPermalink }}
+    {{ range where .Site.RegularPages "RelPermalink" "ne" $currentPath }}
+      {{ if findRE $currentPath .RawContent }}
+        {{ $backlinks = $backlinks | append . }}
+      {{ end }}
+    {{ end }}
+    {{ if $backlinks }}
+      <aside class="scholion-related scholion-backlinks">
+        <h2>Citada por</h2>
+        <ul>
+          {{ range $backlinks }}
+            <li>
+              <a href="{{ .RelPermalink }}">
+                <span class="scholion-related-title">{{ .Title }}</span>
+                {{ with .Params.summary }}<span class="scholion-related-summary">{{ . }}</span>{{ end }}
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      </aside>
+    {{ end }}
+
     {{ $related := first 4 (.Site.RegularPages.Related .) }}
     {{ if $related }}
       <aside class="scholion-related">
