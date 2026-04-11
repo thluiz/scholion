@@ -1,5 +1,7 @@
 {{ define "main" }}
-  {{ $allNotes := where site.RegularPages "Section" "notes" }}
+  {{ $notes := where site.RegularPages "Section" "notes" }}
+  {{ $research := where site.RegularPages "Section" "research" }}
+  {{ $allNotes := union $notes $research }}
   {{ $sorted := $allNotes.ByDate.Reverse }}
   {{ $pinnedRaw := where $allNotes "Params.pinned" true }}
   {{ $pinned := sort $pinnedRaw "Params.pin_weight" "desc" }}
@@ -68,7 +70,8 @@
         {{ range $recent }}
           {{ $kind := cond (.Params.has_commentary | default false) "commentary" "gloss" }}
           {{ $isPinned := .Params.pinned | default false }}
-          <li class="scholion-card scholion-card--{{ $kind }}{{ if $isPinned }} scholion-card--pinned{{ end }}" data-kind="{{ $kind }}">
+          {{ $isResearch := eq .Section "research" }}
+          <li class="scholion-card scholion-card--{{ $kind }}{{ if $isPinned }} scholion-card--pinned{{ end }}{{ if $isResearch }} scholion-card--research{{ end }}" data-kind="{{ $kind }}">
             <a href="{{ .RelPermalink }}">
               <div class="scholion-card-body">
                 <h3 class="scholion-card-title">{{ .Title }}</h3>
@@ -87,7 +90,9 @@
               {{ if $isPinned }}
                 <span class="scholion-card-pin" title="fixada">★</span>
               {{ end }}
-              {{ if .Params.has_commentary }}
+              {{ if $isResearch }}
+                <span class="scholion-card-mark scholion-card-mark--research" title="pesquisa viva">🔍</span>
+              {{ else if .Params.has_commentary }}
                 <span class="scholion-card-mark" title="com comentário">●</span>
               {{ end }}
             </a>

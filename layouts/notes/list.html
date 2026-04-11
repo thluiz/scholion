@@ -1,6 +1,8 @@
 {{ define "main" }}
-  {{ $pinned := (where .Pages "Params.pinned" true).ByDate.Reverse }}
-  {{ $unpinned := (where .Pages "Params.pinned" "!=" true).ByDate.Reverse }}
+  {{ $research := where site.RegularPages "Section" "research" }}
+  {{ $allPages := union .Pages $research }}
+  {{ $pinned := (where $allPages "Params.pinned" true).ByDate.Reverse }}
+  {{ $unpinned := (where $allPages "Params.pinned" "!=" true).ByDate.Reverse }}
   {{ $combined := slice }}
   {{ range $pinned }}{{ $combined = $combined | append . }}{{ end }}
   {{ range $unpinned }}{{ $combined = $combined | append . }}{{ end }}
@@ -18,7 +20,8 @@
       {{ range $paginator.Pages }}
         {{ $kind := cond (.Params.has_commentary | default false) "commentary" "gloss" }}
         {{ $isPinned := .Params.pinned | default false }}
-        <li class="scholion-card scholion-card--{{ $kind }}{{ if $isPinned }} scholion-card--pinned{{ end }}" data-kind="{{ $kind }}">
+        {{ $isResearch := eq .Section "research" }}
+        <li class="scholion-card scholion-card--{{ $kind }}{{ if $isPinned }} scholion-card--pinned{{ end }}{{ if $isResearch }} scholion-card--research{{ end }}" data-kind="{{ $kind }}">
           <a href="{{ .RelPermalink }}">
             <div class="scholion-card-body">
               <h2 class="scholion-card-title">{{ .Title }}</h2>
@@ -37,7 +40,9 @@
             {{ if $isPinned }}
               <span class="scholion-card-pin" title="fixada">★</span>
             {{ end }}
-            {{ if .Params.has_commentary }}
+            {{ if $isResearch }}
+              <span class="scholion-card-mark scholion-card-mark--research" title="pesquisa viva">🔍</span>
+            {{ else if .Params.has_commentary }}
               <span class="scholion-card-mark" title="com comentário">●</span>
             {{ end }}
           </a>
