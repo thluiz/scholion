@@ -1,6 +1,6 @@
 ---
 title: "Decorator Pattern"
-date: 2026-04-11T12:02:00+01:00
+date: 2026-04-11T01:18:24+01:00
 draft: false
 summary: "Attach additional responsibilities to an object dynamically, as an alternative to subclassing."
 tags:
