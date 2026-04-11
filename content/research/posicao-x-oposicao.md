@@ -39,7 +39,7 @@ A história é cheia de exemplos do quanto faz pouco sentido investir em posicio
 
 Nenhuma ainda.
 
-## Fontes verificadas (2026-04-11)
+## Fontes verificadas — filosofia (2026-04-11)
 
 Todas verificadas contra fontes primárias. Nenhuma inventada.
 
@@ -103,6 +103,8 @@ Chamar o método de "prasanga" (reductio ad absurdum) reflete a leitura Prasangi
 Nagarjuna não diz "posição gera oposição". Diz que toda posição fixa é insustentável. A ausência de posição fixa é o ponto.
 
 Links: [SEP — Nagarjuna](https://plato.stanford.edu/entries/nagarjuna/) · [Tradução Jay Garfield (OUP)](https://global.oup.com/academic/product/the-fundamental-wisdom-of-the-middle-way-9780195093360)
+
+## Fontes pendentes — posicionamento marcial/histórico
 
 ### Termópilas (480 a.C.) ?
 
