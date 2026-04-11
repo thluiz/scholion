@@ -14,4 +14,6 @@ Todo o conteúdo deste site é licenciado sob **Creative Commons Attribution-Sha
 
 Pode copiar, redistribuir, adaptar e usar comercialmente. Duas condições: dar crédito e manter a mesma licença em trabalhos derivados.
 
+Citações de terceiros permanecem sob os direitos dos respectivos autores. As fontes são atribuídas no frontmatter de cada nota.
+
 O texto legal completo está em [creativecommons.org/licenses/by-sa/4.0](https://creativecommons.org/licenses/by-sa/4.0/).
