@@ -33,14 +33,14 @@ Nome kung fu de Pedro Irlandini Endres de Oliveira.
 宀 (mián) – teto, abrigo
 女 (nǚ) – mulher
 
-Mulher sob o teto — paz. O sentido original é segurança doméstica: onde há abrigo e presença, há tranquilidade.
+Mulher sob o teto. O sentido original é segurança doméstica: onde há abrigo e presença, há tranquilidade.
 
 ### 利
 
 禾 (hé) – grão, cereal
 刂 (dāo) – faca
 
-Faca que colhe o grão. O sentido original é cortar a colheita — daí "afiado" e, por extensão, "vantajoso, benéfico". O que corta bem, rende bem.
+Faca que colhe o grão. O sentido original é cortar a colheita, daí "afiado" e, por extensão, "vantajoso, benéfico". O que corta bem, rende bem.
 
 ## Extrapolando na etimologia traduzida
 

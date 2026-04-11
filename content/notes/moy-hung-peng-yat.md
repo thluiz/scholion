@@ -35,7 +35,7 @@ Nome kung fu de Rubia de Souza Barbosa.
 糹(sī) – seda
 工 (gōng) – trabalho
 
-Seda tingida — o vermelho. O radical 糹liga o caractere ao universo têxtil. 工 funciona como componente fonético. O resultado é a cor que a seda assume quando passa pelo banho de tinta: vermelho vivo.
+Seda tingida: o vermelho. O radical 糹liga o caractere ao universo têxtil. 工 funciona como componente fonético. O resultado é a cor que a seda assume quando passa pelo banho de tinta: vermelho vivo.
 
 ### 平
 
@@ -43,7 +43,7 @@ Pictograma de uma balança equilibrada. O traço horizontal superior representa 
 
 ### 一
 
-Traço único — a unidade. O mais simples dos caracteres chineses. O Shuowen define 一 como 惟初太始道立於一造分天地化成萬物, "no grande início o Tao se funda no um, que divide céu e terra e transforma todas as coisas". Um traço, tudo começa.
+Traço único. A unidade. O mais simples dos caracteres chineses. O Shuowen define 一 como 惟初太始道立於一造分天地化成萬物, "no grande início o Tao se funda no um, que divide céu e terra e transforma todas as coisas". Um traço, tudo começa.
 
 ## Extrapolando na etimologia traduzida
 

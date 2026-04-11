@@ -34,14 +34,14 @@ Nome kung fu de Luciano Freitas.
 冖 (mì / mik6) – cobertura
 火 (huǒ / fo2) – fogo (duas ocorrências)
 
-Esforço sob fogo — trabalho. O Shuowen Jiezi define 勞 como 劇也, "intenso, penoso". Na parte superior, dois fogos sob uma cobertura; na base, 力 (força). A imagem é de quem trabalha ao calor das chamas. O mérito nasce do esforço sustentado.
+Esforço sob fogo. O Shuowen Jiezi define 勞 como 劇也, "intenso, penoso". Na parte superior, dois fogos sob uma cobertura; na base, 力 (força). A imagem é de quem trabalha ao calor das chamas.
 
 ### 崎
 
 山 (shān / saan1) – montanha
 奇 (qí / kei4) – estranho, irregular
 
-Montanha irregular. O radical 山 indica a categoria geográfica; 奇 funciona como fonético e semântico — o terreno que não é plano, que surpreende. Caminho escarpado, terreno que exige atenção a cada passo.
+Montanha irregular. O radical 山 indica a categoria geográfica; 奇 funciona como fonético e semântico, o terreno que não é plano, que surpreende.
 
 ## Extrapolando na etimologia traduzida
 

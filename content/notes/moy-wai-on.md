@@ -33,14 +33,14 @@ Nome kung fu de Roberto Santos Viana.
 戌 (xū / seot1) – arma, alabarda
 女 (nǚ / neoi5) – mulher
 
-Autoridade. O Shuowen Jiezi define 威 como 姑也從女從戌, associando à figura da sogra — a mulher que detém a arma, a mulher com autoridade. O poder não é só força bruta; é a presença que impõe respeito.
+Autoridade. O Shuowen Jiezi define 威 como 姑也從女從戌, associando à figura da sogra, a mulher que detém a arma.
 
 ### 安
 
 宀 (mián / min4) – teto, telhado
 女 (nǚ / neoi5) – mulher
 
-Mulher sob o teto — paz. O Shuowen Jiezi define 安 como 靜也, "quietude". A imagem é doméstica e direta: onde a mulher está abrigada, há tranquilidade. O teto protege, a presença acalma. Paz como condição de abrigo.
+Mulher sob o teto. O Shuowen Jiezi define 安 como 靜也, "quietude". A imagem é doméstica: onde a mulher está abrigada, há tranquilidade.
 
 ## Extrapolando na etimologia traduzida
 

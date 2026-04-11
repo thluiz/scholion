@@ -33,7 +33,7 @@ Nome kung fu de Glauco Gavioli.
 木 (mù) – árvore, madeira
 各 (gè) – cada
 
-Cada árvore tem sua forma — padrão. O radical 木 situa o significado no domínio vegetal: originalmente, os galhos cruzados de uma árvore. 各 funciona como componente fonético e semântico: "cada um" com sua conformação própria. Daí os sentidos de padrão, norma, formato.
+Cada árvore tem sua forma. Daí, padrão. O radical 木 situa o significado no domínio vegetal: originalmente, os galhos cruzados de uma árvore. 各 funciona como componente fonético e semântico: "cada um" com sua conformação própria. Daí os sentidos de padrão, norma, formato.
 
 ### 勞
 

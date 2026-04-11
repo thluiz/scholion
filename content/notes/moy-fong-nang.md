@@ -33,7 +33,7 @@ Nome kung fu de Fernando Marques Pinheiro.
 几 (jǐ) – mesa pequena; aqui, componente estrutural
 虫 (chóng) – inseto
 
-A forma moderna engana. Nas inscrições em ossos oraculares, 風 mostrava um pássaro mítico — o fèng (鳳), fénix — que trazia o vento com suas asas. Os dois caracteres, 風 (vento) e 鳳 (fénix), partilham a mesma origem. O Shuowen Jiezi define: 八風也, "os oito ventos". A presença de 虫 na forma moderna reflete a crença antiga de que insetos nasciam do vento.
+A forma moderna engana. Nas inscrições em ossos oraculares, 風 mostrava um pássaro mítico, o fèng (鳳, fénix), que trazia o vento com suas asas. Os dois caracteres, 風 (vento) e 鳳 (fénix), partilham a mesma origem. O Shuowen Jiezi define: 八風也, "os oito ventos". A presença de 虫 na forma moderna reflete a crença antiga de que insetos nasciam do vento.
 
 ### 能
 
@@ -41,7 +41,7 @@ A forma moderna engana. Nas inscrições em ossos oraculares, 風 mostrava um p�
 月 (ròu) – carne (radical 肉 na forma cursiva)
 匕 (bǐ) – duas ocorrências; componentes estruturais
 
-Pictograma antigo de um urso. O Shuowen Jiezi define 能 como 熊屬, "da família do urso". A força bruta do animal passou a significar capacidade em geral — poder fazer, ser capaz. Os componentes modernos já não mostram o urso, mas o sentido conserva a origem: habilidade que vem da força.
+Pictograma antigo de um urso. O Shuowen Jiezi define 能 como 熊屬, "da família do urso". A força bruta do animal passou a significar capacidade em geral. Poder fazer, ser capaz. Os componentes modernos já não mostram o urso, mas o sentido conserva a origem: habilidade que vem da força.
 
 ## Extrapolando na etimologia traduzida
 

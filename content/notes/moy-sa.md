@@ -31,7 +31,7 @@ Nome kung fu de Fábio Gomes de Sá.
 糹(sī / si1) – seda
 少 (shǎo / siu2) – pouco, delicado
 
-Seda fina, delicada. O radical 糹indica o domínio têxtil; 少 funciona como fonético e semântico — pouca fibra, tecido ralo. A gaze é a seda reduzida ao mínimo: transparente, leve, quase nada. A delicadeza como qualidade do que é essencial.
+Seda fina, delicada. O radical 糹indica o domínio têxtil; 少 funciona como fonético e semântico, pouca fibra, tecido ralo. A gaze é a seda reduzida ao mínimo: transparente, leve, quase nada.
 
 ## Extrapolando na etimologia traduzida
 

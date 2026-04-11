@@ -30,14 +30,14 @@ Nome kung fu de Pedro Patrick Avelar Espozel.
 
 ### 巴
 
-Pictograma de uma serpente. A forma antiga mostra o corpo sinuoso e a boca aberta de uma cobra. O Shuowen define 巴 como 蟲也, "inseto/criatura rasteira", associado à grande serpente que engolia elefantes. Daí os sentidos de agarrar-se, apegar-se, esperar com ansiedade — quem se agarra não larga.
+Pictograma de uma serpente. A forma antiga mostra o corpo sinuoso e a boca aberta de uma cobra. O Shuowen define 巴 como 蟲也, "inseto/criatura rasteira", associado à grande serpente que engolia elefantes. Daí os sentidos de agarrar-se, apegar-se, esperar com ansiedade. Agarrar-se, não largar.
 
 ### 覿
 
 賣 (mài) – vender (componente fonético)
 見 (jiàn) – ver
 
-Encontro direto, face a face. 見 (ver) fornece o sentido; 賣 contribui o som. Não é olhar de longe — é ver de perto, estar diante. Caractere raro, de registro clássico, que designa o encontro sem intermediário.
+Encontro direto, face a face. 見 (ver) fornece o sentido; 賣 contribui o som. Ver de perto, estar diante. Caractere raro, de registro clássico, que designa o encontro sem intermediário.
 
 ## Extrapolando na etimologia traduzida
 

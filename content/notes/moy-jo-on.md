@@ -33,7 +33,7 @@ Nome kung fu de João Pedro Santos.
 礻(shì) – altar, indicar espírito
 且 (qiě) – bloco, tableta ancestral
 
-O radical 礻(forma reduzida de 示, altar) liga o caractere ao domínio ritual. 且 é a tableta memorial dos antepassados. O Shuowen define 祖 como 始廟也, "templo da origem" — o lugar onde se honra quem veio antes.
+O radical 礻(forma reduzida de 示, altar) liga o caractere ao domínio ritual. 且 é a tableta memorial dos antepassados. O Shuowen define 祖 como 始廟也, "templo da origem", o lugar onde se honra quem veio antes.
 
 ### 安
 

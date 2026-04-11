@@ -35,7 +35,7 @@ Nome kung fu de Eduardo Fauzi Richard Cerquise.
 宀 (mián) – teto, abrigo
 女 (nǚ) – mulher
 
-Mulher sob o teto — paz. O sentido original é segurança doméstica: onde há abrigo e presença, há tranquilidade.
+Mulher sob o teto. O sentido original é segurança doméstica: onde há abrigo e presença, há tranquilidade.
 
 ### 德
 
@@ -43,14 +43,14 @@ Mulher sob o teto — paz. O sentido original é segurança doméstica: onde há
 直 (zhí) – reto, direito
 心 (xīn) – coração
 
-Coração reto no caminho. O radical 彳indica movimento; 直 + 心 compõem o núcleo: agir com retidão interior. Virtude como conduta alinhada ao que é justo.
+Coração reto no caminho. O radical 彳indica movimento; 直 + 心 compõem o núcleo: agir com retidão interior.
 
 ### 華
 
 艹 (cǎo) – planta, vegetação
 華 — a parte inferior representa a flor
 
-Flor em plena abertura. O sentido original é "florescência" — a planta no auge. Por extensão: esplêndido, magnífico, e o nome clássico da China (中華).
+Flor em abertura. O sentido original é "florescência", a planta em flor. Por extensão: esplêndido, magnífico, e o nome clássico da China (中華).
 
 ## Extrapolando na etimologia traduzida
 

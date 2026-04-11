@@ -33,14 +33,14 @@ Nome kung fu de Fernando Almeida Xavier.
 艹 (cǎo) – erva, planta
 非 (fēi) – não, errado (componente fonético)
 
-O radical 艹 situa o caractere no reino vegetal. 非 contribui o som. O resultado é uma planta aromática, de vegetação densa e perfumada. Exuberância que se sente pelo cheiro.
+O radical 艹 situa o caractere no reino vegetal. 非 contribui o som. O resultado é uma planta aromática, de vegetação densa e perfumada.
 
 ### 林
 
 木 (mù) – árvore
 木 (mù) – árvore
 
-Duas árvores lado a lado — floresta. O Shuowen define 林 como 平土有叢木曰林, "terreno plano com árvores agrupadas chama-se lin". De uma árvore, madeira; de duas, bosque. A repetição gera abundância.
+Duas árvores lado a lado: floresta. O Shuowen define 林 como 平土有叢木曰林, "terreno plano com árvores agrupadas chama-se lin". De uma árvore, madeira; de duas, bosque. A repetição gera abundância.
 
 ## Extrapolando na etimologia traduzida
 

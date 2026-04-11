@@ -33,7 +33,7 @@ Nome kung fu de Marcelo Lopes Acris.
 耂 (lǎo) – velho
 匕 (bǐ) – mudança, transformação
 
-Quem mudou com o tempo — o venerável. O componente superior 耂 é uma forma abreviada de cabelos longos, sinal de idade. O componente inferior 匕 indica transformação. O Shuowen define 老 como 考也, "envelhecer": o corpo que se transforma pelo tempo.
+Quem mudou com o tempo. O venerável. O componente superior 耂 é uma forma abreviada de cabelos longos, sinal de idade. O componente inferior 匕 indica transformação. O Shuowen define 老 como 考也, "envelhecer": o corpo que se transforma pelo tempo.
 
 ### 平
 
