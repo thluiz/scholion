@@ -389,6 +389,98 @@
   border-color: rgba(var(--color-primary-700), 0.6);
 }
 
+/* === Layout wrapper (with optional TOC) === */
+.scholion-layout {
+  max-width: 44rem;
+  margin: 0 auto;
+}
+
+.scholion-layout--toc {
+  max-width: 68rem;
+  display: grid;
+  grid-template-columns: 1fr 220px;
+  gap: 2rem;
+  align-items: start;
+}
+
+.scholion-layout--toc .scholion-note {
+  max-width: none;
+  margin: 2rem 0 4rem;
+}
+
+.scholion-toc {
+  position: sticky;
+  top: 5rem;
+  max-height: calc(100vh - 6rem);
+  overflow-y: auto;
+  margin-top: 2rem;
+  padding: 1rem 1.25rem;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  background: rgb(var(--color-neutral-50));
+  border: 1px solid rgb(var(--color-neutral-200));
+  border-radius: 0.75rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+.dark .scholion-toc {
+  background: rgb(56, 51, 49);
+  border-color: rgb(78, 71, 67);
+}
+
+.scholion-toc nav ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.scholion-toc nav ul ul {
+  padding-left: 0.75rem;
+}
+
+.scholion-toc nav a {
+  display: block;
+  padding: 0.2rem 0;
+  color: rgb(var(--color-neutral-500));
+  text-decoration: none;
+  border-left: 2px solid transparent;
+  padding-left: 0.5rem;
+}
+
+.scholion-toc nav a:hover {
+  color: rgb(var(--color-neutral-800));
+  border-left-color: rgb(var(--color-primary-500));
+}
+
+.dark .scholion-toc nav a {
+  color: rgb(var(--color-neutral-400));
+}
+
+.dark .scholion-toc nav a:hover {
+  color: rgb(var(--color-neutral-200));
+}
+
+@media (max-width: 1024px) {
+  .scholion-layout--toc {
+    display: block;
+    max-width: 44rem;
+  }
+
+  .scholion-toc {
+    position: static;
+    max-height: none;
+    padding: 1rem 1.25rem;
+    margin: 0 auto 1rem;
+    background: rgb(var(--color-neutral-100));
+    border-radius: 0.5rem;
+    max-width: 44rem;
+  }
+
+  .dark .scholion-toc {
+    background: rgb(56, 51, 49);
+  }
+}
+
 /* === Single note === */
 .scholion-note {
   max-width: 44rem;

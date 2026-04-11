@@ -31,12 +31,11 @@ status: "em andamento"  # em andamento | pausada | concluída
 
 O corpo é markdown livre. Não tem estrutura rígida. O conteúdo evolui conforme a pesquisa avança. Alguns elementos que podem aparecer:
 
-- **Fontes verificadas** — com status: ✓ verificada, ? pendente, ✗ descartada. Incluir citação exata, obra, ano, e o que foi verificado
+- **Texto em andamento** — rascunho do autor. Ele vai compondo o texto conforme a pesquisa avança. A IA salva o material bruto como o autor mandou, sem editar. Pode ter subtítulos internos (###). Trechos marcados com "(em aberto)" indicam passagens que o autor ainda não resolveu. A IA não tenta resolver essas passagens por conta própria
+- **Perguntas em aberto** — só o autor adiciona. Nunca inventar perguntas, direções ou conexões que o autor não pediu
+- **Fontes verificadas** — com status: ✓ verificada, ? pendente, ✗ descartada. Incluir citação exata, obra, ano, e o que foi verificado. **Links de referência ficam inline na própria fonte**, numa linha "Links:" no final de cada bloco. Nunca criar seção separada de links/referências — duplica informação e fica redundante
 - **Não verificados** — fontes mencionadas mas que ainda precisam de confirmação contra primárias
 - **Notas extraídas** — índice de notas do Scholion geradas a partir desta pesquisa, com links
-- **Perguntas em aberto** — só o autor adiciona. Nunca inventar perguntas, direções ou conexões que o autor não pediu
-- **Texto em andamento** — rascunho do autor. Ele vai compondo o texto conforme a pesquisa avança. A IA salva o material bruto como o autor mandou, sem editar. Pode ter subtítulos internos (###). Trechos marcados com "(em aberto)" indicam passagens que o autor ainda não resolveu. A IA não tenta resolver essas passagens por conta própria
-- **Fontes e referências** — seção final com links clicáveis para todas as fontes verificadas, organizadas por pensador/tema. Serve para o autor auditar as fontes e para a IA retomar sem refazer buscas. Cada fonte com URL direta quando disponível
 
 O formato é o que for útil para que o autor leia e entenda, e para que a IA retome sem perder contexto. Não forçar estrutura. Deixar o documento crescer organicamente.
 
