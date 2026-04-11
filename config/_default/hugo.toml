@@ -4,6 +4,7 @@ defaultContentLanguage = "pt-br"
 languageCode = "pt-BR"
 title = "Scholion"
 
+enableGitInfo = true
 enableRobotsTXT = true
 enableEmoji = true
 summaryLength = 30

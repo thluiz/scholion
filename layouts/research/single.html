@@ -61,7 +61,7 @@
 
       {{/* Histórico de alterações */}}
       {{ $slug := replace .File.ContentBaseName "-" "_" }}
-      {{ $ghURL := printf "https://github.com/thluiz/scholion/commits/main/content/%s" .File.Path }}
+      {{ $ghURL := printf "https://github.com/thluiz/scholion/commits/main/content/research/%s" .File.LogicalName }}
       <aside class="scholion-history">
         <h2>Histórico</h2>
         {{ with index site.Data.git_history $slug }}
