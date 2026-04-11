@@ -9,7 +9,7 @@ toc: true
 
 ## Perguntas em aberto
 
-(nenhuma ainda)
+- Como conectar a questão da marcialidade na maneira de se vestir?
 
 ## Texto em andamento
 
@@ -34,6 +34,10 @@ Pode se fazer uma guerra psicológica: cortando linhas de suprimento, usar espi�
 A história é cheia de exemplos do quanto faz pouco sentido investir em posicionamentos muito elaborados porém estáticos, entretanto posicionamento é fundamental: Termópilas de Leônidas, Aljubarrota em Portugal, Austerlitz de Napoleão, Tuiuti Brasileiro, o famoso General Inverno Russo (é menosprezar a tenacidade do povo, mas foi determinante em duas guerras importantes), as montanhas do Afeganistão (o lugar onde os impérios vão para acabar), Vietnam para os Estados Unidos.
 
 (aqui começo a fazer a passagem para sair do marcial e tá sofrido...)
+
+## Notas extraídas
+
+Nenhuma ainda.
 
 ## Fontes verificadas (2026-04-11)
 
@@ -109,7 +113,5 @@ Links: [SEP — Nagarjuna](https://plato.stanford.edu/entries/nagarjuna/) · [Tr
 - **Taijiquan / Wang Zongyue** — princípio tático de ceder/avançar
 - **Sun Tzu** — zheng/qi (normal/extraordinário), Art of War cap. 5
 
-## Notas extraídas
 
-Nenhuma ainda.
 
