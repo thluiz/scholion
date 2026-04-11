@@ -15,6 +15,8 @@ e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
   nota com borda azul, badge "🔍 Pesquisa Viva" e status.
 - **Cards de pesquisa no grid**: pesquisas aparecem junto com notas na home e em
   `/notes/`, com borda azul e ícone de lupa para diferenciação.
+- **TOC sidebar**: notas e pesquisas com `toc: true` no frontmatter ganham
+  índice sticky à direita (h2/h3), colapsado no topo em mobile.
 
 ## [0.2.0] — 2026-04-09
 
