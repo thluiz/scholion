@@ -9,7 +9,7 @@ toc: true
 
 ## Perguntas em aberto
 
-- Como conectar a questão da marcialidade na maneira de se vestir?
+- Como conectar a questão da marcialidade com a maneira de se vestir?
 
 ## Texto em andamento
 
