@@ -1,0 +1,43 @@
+---
+title: "梅彭普 Moy Pang Po"
+date: 2026-04-12T10:03:00+01:00
+summary: "Etimologia do nome kung fu de Claudio Pamplona dos Santos Dias: Pang (彭) som do tambor, Po (普) universal."
+tags: ["ving-tsun", "etimologia", "kung-fu"]
+has_commentary: true
+sources:
+  - title: "MDBG Chinese Dictionary"
+    url: "https://www.mdbg.net/chinese/dictionary"
+    kind: wiki
+  - title: "Priberam Dicionário"
+    url: "https://dicionario.priberam.org"
+    kind: wiki
+  - title: "Chinese Etymology (hanziyuan.net)"
+    author: "Richard Sears"
+    url: "https://hanziyuan.net"
+    kind: wiki
+---
+
+**梅彭普**
+*Moy Pang Po*
+
+Nome kung fu de Claudio Pamplona dos Santos Dias.
+
+**Pang** (彭) – Sobrenome, som de tambor.
+
+**Po** (普) – Universal, geral.
+
+## Etimologia no Chinês
+
+### 彭
+
+壴 (zhù) – tambor sobre suporte
+彡 (shān) – cerdas, linhas decorativas
+
+Som do tambor ressoando. O componente esquerdo 壴 representa um tambor montado; à direita, 彡 sugere reverberação, as ondas sonoras que se propagam. O Shuowen define 彭 como 鼓聲也, "som de tambor". É também um dos sobrenomes mais antigos da China.
+
+### 普
+
+並 (bìng) – juntos, lado a lado
+日 (rì) – sol
+
+Sol para todos — universal. O componente superior 並 indica união, simultaneidade; o inferior 日 é o sol. A imagem é de luz solar que alcança todos por igual. O Shuowen define 普 como 日無色也, registrando o sentido de amplitude e generalidade.
