@@ -33,7 +33,7 @@ Nome kung fu de Leonardo Santos dos Reis.
 禾 (hé / wo4) – grão, cereal
 刂 (dāo / dou1) – faca
 
-Colher o grão com a faca — o benefício. O Shuowen Jiezi define 利 como 銛也, "afiado", com 刀 (faca) e 禾 (grão) como componentes. A lâmina que ceifa a colheita é o gesto do proveito: o que é afiado é útil, o que é útil é proveitoso.
+Colher o grão com a faca. O Shuowen Jiezi define 利 como 銛也, "afiado", com 刀 (faca) e 禾 (grão) como componentes. A lâmina que ceifa a colheita é o gesto do proveito: o que é afiado é útil, o que é útil é proveitoso.
 
 ### 王
 

@@ -33,14 +33,14 @@ Nome kung fu de Carmen Paula Nistico Carvalho.
 士 (shì) – erudito, cavalheiro
 口 (kǒu) – boca
 
-A palavra do erudito: o que é dito com propriedade traz bom augúrio. O Shuowen Jiezi define 吉 como 善也, "bom, virtuoso". A combinação sugere que a fala correta — a palavra justa — é em si mesma auspiciosa.
+A palavra do erudito: o que é dito com propriedade traz bom augúrio. O Shuowen Jiezi define 吉 como 善也, "bom, virtuoso". A combinação sugere que a fala correta é em si mesma auspiciosa.
 
 ### 明
 
 日 (rì) – sol
 月 (yuè) – lua
 
-O Shuowen Jiezi define 明 como 照也, "iluminar". Sol e lua juntos: a claridade total, sem sombra. Nas formas em ossos oraculares, o caractere mostrava uma janela com a lua — a luz que entra. A versão moderna substituiu a janela pelo sol, e o sentido se ampliou: brilho, compreensão, transparência.
+O Shuowen Jiezi define 明 como 照也, "iluminar". Sol e lua juntos: a claridade total, sem sombra. Nas formas em ossos oraculares, o caractere mostrava uma janela com a lua, a luz que entra. A versão moderna substituiu a janela pelo sol, e o sentido se ampliou: brilho, compreensão, transparência.
 
 ## Extrapolando na etimologia traduzida
 

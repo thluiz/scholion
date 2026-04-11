@@ -40,7 +40,7 @@ Pessoa que se apoia. O radical 亻indica o humano; 衣 serve como componente fon
 禾 (hé) – grão, cereal
 口 (kǒu) – boca
 
-Grão na boca — harmonia. Quando há alimento, há paz. O Shuowen Jiezi define 和 como 相應也, "correspondência mútua". O sentido se estende de saciedade a concórdia.
+Grão na boca. Quando há alimento, há paz. O Shuowen Jiezi define 和 como 相應也, "correspondência mútua". O sentido se estende de saciedade a concórdia.
 
 ## Extrapolando na etimologia traduzida
 

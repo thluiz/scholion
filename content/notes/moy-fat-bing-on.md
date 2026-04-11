@@ -35,21 +35,21 @@ Nome kung fu de Fabiano Marques Granado.
 氵(shuǐ) – água
 去 (qù) – ir, remover
 
-O radical de água evoca o nivelamento — a água que encontra o plano. 去 contribui como componente fonético e semântico (afastar o que é torto). Lei como aquilo que nivela e ordena.
+O radical de água evoca o nivelamento, a água que encontra o plano. 去 contribui como componente fonético e semântico (afastar o que é torto).
 
 ### 兵
 
 斤 (jīn) – machado
 廾 (gǒng) – duas mãos
 
-Mãos empunhando arma. O sentido original é a arma em si; por extensão, quem a empunha — o soldado. Nas inscrições em bronze, o caractere mostra duas mãos segurando um machado de combate.
+Mãos empunhando arma. O sentido original é a arma em si; por extensão, quem a empunha, o soldado. Nas inscrições em bronze, o caractere mostra duas mãos segurando um machado de combate.
 
 ### 安
 
 宀 (mián) – teto, abrigo
 女 (nǚ) – mulher
 
-Mulher sob o teto — paz. Segurança doméstica como origem da tranquilidade.
+Mulher sob o teto. O sentido original é segurança doméstica: onde há abrigo, há tranquilidade.
 
 ## Extrapolando na etimologia traduzida
 

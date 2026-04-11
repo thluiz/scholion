@@ -33,14 +33,14 @@ Nome kung fu de Claudio Ricardo Teixeira.
 士 (shì / si6) – erudito, estudioso
 口 (kǒu / hau2) – boca
 
-Palavra do sábio — bom augúrio. O Shuowen Jiezi define 吉 como 善也, "bom". A boca do erudito pronuncia o que é favorável. O caractere aparece extensamente em ossos oraculares em contextos de adivinhação: o veredicto propício.
+Palavra do sábio, bom augúrio. O Shuowen Jiezi define 吉 como 善也, "bom". A boca do erudito pronuncia o que é favorável. O caractere aparece extensamente em ossos oraculares em contextos de adivinhação: o veredicto propício.
 
 ### 祖
 
 礻(shì / si6) – altar, mostrar (radical de ritual)
 且 (qiě / ce2) – altar de oferendas
 
-O altar dos ancestrais. O Shuowen Jiezi define 祖 como 始廟也, "o templo da origem". O radical 礻indica o domínio ritual; 且 representa a mesa ou altar sobre o qual se depositam oferendas. O ancestral é aquele a quem se oferta — o ponto de origem da linhagem.
+O altar dos ancestrais. O Shuowen Jiezi define 祖 como 始廟也, "o templo da origem". O radical 礻indica o domínio ritual; 且 representa a mesa ou altar sobre o qual se depositam oferendas. O ancestral é aquele a quem se oferta, o ponto de origem da linhagem.
 
 ## Extrapolando na etimologia traduzida
 

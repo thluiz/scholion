@@ -33,14 +33,14 @@ Nome kung fu de Guilherme L. S. de Farias.
 氵(shuǐ / seoi2) – água
 去 (qù / heoi3) – ir, partir
 
-A água que segue seu curso — o método natural. O Shuowen Jiezi define 法 como 刑也, "norma, penalidade". A água é o modelo: segue sempre o caminho mais direto, sem desvio.
+A água que segue seu curso. O Shuowen Jiezi define 法 como 刑也, "norma, penalidade". A água é o modelo: segue sempre o caminho mais direto, sem desvio.
 
 ### 蓮
 
 艹 (cǎo / cou2) – erva, planta
 連 (lián / lin4) – conectar, ligar
 
-A flor que conecta lama e céu. O radical vegetal 艹 indica a categoria botânica; 連 serve como componente fonético e semântico — a lótus é a planta que liga o fundo lamacento à superfície limpa. No budismo, a flor de lótus é símbolo de pureza que emerge da impureza.
+A flor que conecta lama e céu. O radical vegetal 艹 indica a categoria botânica; 連 serve como componente fonético e semântico. A lótus é a planta que liga o fundo lamacento à superfície limpa. No budismo, a flor de lótus é símbolo de pureza que emerge da impureza.
 
 ## Extrapolando na etimologia traduzida
 

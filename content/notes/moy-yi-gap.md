@@ -33,7 +33,7 @@ Nome kung fu de Tatiana Candreva Palumbo.
 音 (yīn) – som
 心 (xīn) – coração
 
-O som do coração — intenção. O componente superior 音 é som, palavra; o inferior 心, coração. O que o coração pronuncia sem voz: pensamento, vontade, sentido. O Shuowen define 意 como 志也, "propósito".
+O som do coração. Intenção. O componente superior 音 é som, palavra; o inferior 心, coração. O que o coração pronuncia sem voz: pensamento, vontade, sentido. O Shuowen define 意 como 志也, "propósito".
 
 ### 鴿
 

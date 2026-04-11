@@ -33,7 +33,7 @@ Nome kung fu de Xenia D'Avila Fonseca.
 朕 (zhèn) – eu (imperial); componente fonético
 力 (lì) – força
 
-Força que supera. O componente 朕, antes de se tornar pronome exclusivo do imperador, significava "sinal, presságio". Combinado com 力, forma a ideia de força que prevalece — vitória. O Shuowen define 勝 como 任也, "suportar, ser capaz".
+Força que supera. O componente 朕, antes de se tornar pronome exclusivo do imperador, significava "sinal, presságio". Combinado com 力, forma a ideia de força que prevalece. Vitória. O Shuowen define 勝 como 任也, "suportar, ser capaz".
 
 ### 一
 

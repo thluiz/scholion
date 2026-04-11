@@ -33,14 +33,14 @@ Nome kung fu de Rodrigo Moreira.
 麻 (má) – cânhamo, componente fonético
 石 (shí) – pedra
 
-Pedra que pule. O radical 石 ancora o sentido no domínio mineral; 麻 fornece o som. Moer, afiar, polir — o trabalho lento que transforma a superfície bruta.
+Pedra que pule. O radical 石 ancora o sentido no domínio mineral; 麻 fornece o som. Moer, afiar, polir por fricção com pedra.
 
 ### 雷
 
 雨 (yǔ) – chuva
 田 (tián) – campo
 
-Chuva sobre o campo — trovão. O caractere empilha o radical de chuva sobre 田, que aqui representa o som reverberando sobre a terra. Força natural que anuncia a tempestade.
+Chuva sobre o campo. O caractere empilha o radical de chuva sobre 田, que aqui representa o som reverberando sobre a terra.
 
 ## Extrapolando na etimologia traduzida
 

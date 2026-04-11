@@ -35,7 +35,7 @@ Nome kung fu de José Felipe Dantas Ferreira.
 非 (fēi) – não; componente fonético
 文 (wén) – literatura, padrão, cultura
 
-O Shuowen Jiezi define 斐 como 分別文也, "padrão que se distingue". A combinação de 非 (não, diferença) com 文 (cultura, padrão) sugere uma elegância que se destaca — refinamento que não se confunde com o comum.
+O Shuowen Jiezi define 斐 como 分別文也, "padrão que se distingue". A combinação de 非 (não, diferença) com 文 (cultura, padrão) sugere um padrão que se destaca, que não se confunde com o comum.
 
 ### 利
 
@@ -46,7 +46,7 @@ O Shuowen Jiezi define 利 como 銛也从刀从和, "afiado". Uma faca que corta
 
 ### 一
 
-Traço único horizontal. O Shuowen Jiezi define: 惟初太始道立於一造分天地化成萬物, "no princípio o Dao se estabeleceu no um, e dele se dividiram céu e terra e se formaram as dez mil coisas." O caractere mais simples do chinês — e o mais fundamental.
+Traço único horizontal. O Shuowen Jiezi define: 惟初太始道立於一造分天地化成萬物, "no princípio o Dao se estabeleceu no um, e dele se dividiram céu e terra e se formaram as dez mil coisas." O caractere mais simples do chinês e o mais elementar.
 
 ## Extrapolando na etimologia traduzida
 

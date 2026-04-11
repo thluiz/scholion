@@ -40,7 +40,7 @@ Som do tambor ressoando. O componente esquerdo 壴 representa um tambor montado;
 並 (bìng) – juntos, lado a lado
 日 (rì) – sol
 
-Sol para todos — universal. O componente superior 並 indica união, simultaneidade; o inferior 日 é o sol. A imagem é de luz solar que alcança todos por igual. O Shuowen define 普 como 日無色也, registrando o sentido de amplitude e generalidade.
+Sol para todos. Universal. O componente superior 並 indica união, simultaneidade; o inferior 日 é o sol. A imagem é de luz solar que alcança todos por igual. O Shuowen define 普 como 日無色也, registrando o sentido de amplitude e generalidade.
 
 ## Extrapolando na etimologia traduzida
 

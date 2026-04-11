@@ -40,7 +40,7 @@ O Shuowen Jiezi define 利 como 銛也从刀从和, "afiado". Uma faca que corta
 扌(shǒu) – mão
 那 (nà) – aquele; componente fonético
 
-Mão que desloca algo de um lugar para outro. O radical 扌indica ação manual; 那 fornece o som. Mover, transferir, reposicionar — sempre com as mãos, sempre com intenção.
+Mão que desloca algo de um lugar para outro. O radical 扌indica ação manual; 那 fornece o som. Mover, transferir, reposicionar. Ação manual.
 
 ## Extrapolando na etimologia traduzida
 

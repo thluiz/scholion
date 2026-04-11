@@ -33,14 +33,14 @@ Nome kung fu de Iuri Correa Faria Alvarenga.
 亻(rén) – pessoa
 憂 (yōu) – preocupação, ansiedade
 
-Quem supera a preocupação — excelência. O radical 亻situa o sentido no humano; 憂 serve como componente fonético e semântico. O caractere também significa "ator" — aquele que, diante da inquietação, transforma-a em expressão superior.
+O radical 亻situa o sentido no humano; 憂 serve como componente fonético e semântico. O caractere também significa "ator", aquele que representa.
 
 ### 利
 
 禾 (hé) – grão, cereal
 刂 (dāo) – faca
 
-Faca que colhe o grão. O sentido original é cortar a colheita — daí "afiado" e, por extensão, "vantajoso, benéfico". O que corta bem, rende bem.
+Faca que colhe o grão. O sentido original é cortar a colheita, daí "afiado" e, por extensão, "vantajoso, benéfico". O que corta bem, rende bem.
 
 ## Extrapolando na etimologia traduzida
 

@@ -33,7 +33,7 @@ Nome kung fu de André Vieira Gonçalves de Almeida.
 羊 (yáng / joeng4) – carneiro, ovelha
 大 (dà / daai6) – grande
 
-O grande carneiro — o belo. O Shuowen Jiezi define 美 como 甘也從羊從大, "doce; composto de carneiro e grande". O carneiro gordo e grande era o símbolo do que é bom, agradável, desejável. A beleza nasce da abundância.
+O grande carneiro. O Shuowen Jiezi define 美 como 甘也從羊從大, "doce; composto de carneiro e grande". O carneiro gordo e grande era o símbolo do que é bom, agradável, desejável.
 
 ### 達
 

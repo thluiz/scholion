@@ -33,14 +33,14 @@ Nome kung fu de Simão Coutinho de Albuquerque Neto.
 言 (yán) – palavra, fala; componente semântico
 戠 (zhí) – componente fonético
 
-Reconhecer pela palavra. O radical 言 situa o caractere no campo da linguagem; 戠 fornece o som. O Shuowen Jiezi define 識 como 知也, "saber". Conhecer é, antes de tudo, saber nomear — distinguir uma coisa da outra pela fala.
+Reconhecer pela palavra. O radical 言 situa o caractere no campo da linguagem; 戠 fornece o som. O Shuowen Jiezi define 識 como 知也, "saber". Conhecer é, antes de tudo, saber nomear. Distinguir uma coisa da outra pela fala.
 
 ### 問
 
 門 (mén) – porta, portão
 口 (kǒu) – boca
 
-Boca à porta — perguntar. O Shuowen Jiezi define 問 como 訊也, "inquirir". A imagem é direta: alguém chega ao portão e fala. Quem pergunta se coloca na entrada, ainda do lado de fora do que não sabe.
+Boca à porta. Perguntar. O Shuowen Jiezi define 問 como 訊也, "inquirir". A imagem é direta: alguém chega ao portão e fala. Quem pergunta se coloca na entrada, ainda do lado de fora do que não sabe.
 
 ## Extrapolando na etimologia traduzida
 

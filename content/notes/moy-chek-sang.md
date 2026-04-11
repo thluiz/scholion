@@ -33,11 +33,11 @@ Nome kung fu de Gérson Silva de Aguiar.
 力 (lì) – força
 責 (zé) – responsabilidade, dever
 
-Variante de 績. O Shuowen Jiezi define 績 como 緝也, "fiar, tecer continuamente". A forma original, com 糸 (fio), referia o trabalho contínuo de fiar. Em 勣, o fio dá lugar à força: o mérito não é o que se tece, é o que se conquista pelo esforço. Responsabilidade somada a força — realização.
+Variante de 績. O Shuowen Jiezi define 績 como 緝也, "fiar, tecer continuamente". A forma original, com 糸 (fio), referia o trabalho contínuo de fiar. Em 勣, o fio dá lugar à força: o mérito não é o que se tece, é o que se conquista pelo esforço. Responsabilidade somada a força.
 
 ### 生
 
-Pictograma. O Shuowen Jiezi define 生 como 進也象草木生出土上, "avançar; representa a planta brotando da terra". A forma antiga mostrava um broto emergindo do solo — uma linha vertical saindo de uma base horizontal. Vida como movimento ascendente, crescimento que insiste contra a gravidade.
+Pictograma. O Shuowen Jiezi define 生 como 進也象草木生出土上, "avançar; representa a planta brotando da terra". A forma antiga mostrava um broto emergindo do solo, uma linha vertical saindo de uma base horizontal. Vida como movimento ascendente. A planta brota do solo para cima.
 
 ## Extrapolando na etimologia traduzida
 

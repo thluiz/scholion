@@ -33,14 +33,14 @@ Nome kung fu de Cristiano Chaves da Silva.
 馬 (mǎ / ma5) – cavalo
 奇 (qí / kei4) – estranho, notável
 
-O cavalo notável — cavalgar. O radical 馬 indica a categoria; 奇 funciona como componente fonético e acrescenta a ideia do singular, do extraordinário. Cavalgar é dominar o que é imprevisível.
+O cavalo notável. O radical 馬 indica a categoria; 奇 funciona como componente fonético e semântico, com a ideia do singular, do invulgar.
 
 ### 鑰
 
 金 (jīn / gam1) – metal
 龠 (yuè / joek6) – flauta, tubo
 
-A chave de metal. O radical 金 indica o material; 龠 representa um instrumento tubular com orifícios — a flauta de sopro. A chave herda a forma: um objeto de metal com recortes que abre passagens. O que a flauta faz com o som, a chave faz com a porta.
+A chave de metal. O radical 金 indica o material; 龠 representa um instrumento tubular com orifícios, a flauta de sopro. A chave herda a forma: objeto de metal com recortes que abre passagens.
 
 ## Extrapolando na etimologia traduzida
 

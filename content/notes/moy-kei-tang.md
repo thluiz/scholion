@@ -33,7 +33,7 @@ Nome kung fu de Clayton Meireles Martins da Silva.
 山 (shān) – montanha
 奇 (qí) – estranho, incomum
 
-Montanha estranha — terreno acidentado. O radical 山 situa o sentido na paisagem; 奇 qualifica: irregular, íngreme. Caminho difícil entre rochas.
+Montanha estranha, terreno acidentado. O radical 山 situa o sentido na paisagem; 奇 qualifica: irregular, íngreme.
 
 ### 單
 

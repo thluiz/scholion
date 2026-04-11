@@ -34,14 +34,14 @@ Nome kung fu de Aurea Brandão.
 釆 (biàn) – distinguir, separar
 大 (dà) – grande
 
-Profundidade interior. O componente superior 宀 indica espaço coberto, interior de uma casa. Os componentes internos sugerem algo amplo e recôndito sob o teto. O Shuowen define 奧 como 宛也, "o recanto mais interior de uma sala" — o lugar profundo, onde se guarda o que não é visível.
+Profundidade interior. O componente superior 宀 indica espaço coberto, interior de uma casa. Os componentes internos sugerem algo amplo e recôndito sob o teto. O Shuowen define 奧 como 宛也, "o recanto mais interior de uma sala". O lugar onde se guarda o que não é visível.
 
 ### 利
 
 禾 (hé) – cereal, grão
 刂 (dāo) – faca
 
-Faca que corta o grão — colheita proveitosa. O Shuowen define 利 como 銛也, "afiado". Do gume da faca ao lucro da ceifa: o que corta bem traz benefício.
+Faca que corta o grão. Colheita proveitosa. O Shuowen define 利 como 銛也, "afiado". O que corta bem traz benefício.
 
 ## Extrapolando na etimologia traduzida
 

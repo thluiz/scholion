@@ -33,14 +33,14 @@ Nome kung fu de Bruno Bernardo Machado.
 卉 (huì) – plantas, vegetação
 貝 (bèi) – concha, cáuri
 
-Ornamento. O componente superior 卉 representa a vegetação; o inferior 貝, a concha usada como moeda e adorno. A combinação sugere decoração e adorno — o esplendor das plantas sobre o valor da concha. Com a leitura bēn, o sentido desloca-se para correr com energia, ímpeto.
+Ornamento. O componente superior 卉 representa a vegetação; o inferior 貝, a concha usada como moeda e adorno. A combinação sugere decoração e adorno. Com a leitura bēn, o sentido desloca-se para correr com energia, ímpeto.
 
 ### 挪
 
 扌 (shǒu) – mão
 那 (nà) – aquele, aquilo
 
-Mover com as mãos. O radical 扌 indica ação manual; 那 funciona como componente fonético. O sentido é deslocar, transferir, mudar de posição — mover algo daqui para ali.
+Mover com as mãos. O radical 扌 indica ação manual; 那 funciona como componente fonético. O sentido é deslocar, transferir, mudar de posição.
 
 ## Extrapolando na etimologia traduzida
 

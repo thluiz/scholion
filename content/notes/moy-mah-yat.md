@@ -30,14 +30,14 @@ Nome kung fu de Mayara Galvão Palmeira.
 
 ### 馬
 
-Pictograma. O Shuowen Jiezi define: 怒也武也象馬頭髦尾四足之形, "fúria e marcialidade; representa a forma da cabeça, crina, cauda e quatro patas do cavalo." A forma em ossos oraculares mostrava claramente o animal de perfil — cabeça, crina, corpo e quatro patas. Um dos pictogramas mais antigos e mais documentados, com dezenas de variantes arcaicas.
+Pictograma. O Shuowen Jiezi define: 怒也武也象馬頭髦尾四足之形, "fúria e marcialidade; representa a forma da cabeça, crina, cauda e quatro patas do cavalo." A forma em ossos oraculares mostrava o animal de perfil: cabeça, crina, corpo e quatro patas. Um dos pictogramas mais antigos e mais documentados, com dezenas de variantes arcaicas.
 
 ### 佚
 
 亻(rén) – pessoa
 失 (shī) – perder
 
-Pessoa que se perde — ou que escapa ao comum. O caractere carrega dois sentidos paralelos: o que se perdeu (textos 佚, obras desaparecidas) e o que ultrapassa a norma (佚才, talento extraordinário). A pessoa além do ordinário é, por definição, aquela que não se encontra entre as demais.
+Pessoa que se perde, ou que escapa ao comum. O caractere carrega dois sentidos paralelos: o que se perdeu (textos 佚, obras desaparecidas) e o que ultrapassa a norma (佚才, talento extraordinário). O que está além do ordinário é o que não se encontra entre os demais.
 
 ## Extrapolando na etimologia traduzida
 

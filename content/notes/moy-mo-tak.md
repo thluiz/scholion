@@ -33,7 +33,7 @@ Nome kung fu de Bruno José Mota Brandão.
 舛 (chuǎn) – pés opostos, divergir
 無 (wú) – nada, ausência
 
-Pés que se movem — dança. O componente 舛 mostra dois pés em direções opostas, evocando o movimento alternado. 無 contribui como elemento fonético. O Shuowen Jiezi define 舞 como 樂也, "alegria expressa pelo corpo".
+Pés que se movem. O componente 舛 mostra dois pés em direções opostas, evocando o movimento alternado. 無 contribui como elemento fonético. O Shuowen Jiezi define 舞 como 樂也, "alegria expressa pelo corpo".
 
 ### 德
 
@@ -41,7 +41,7 @@ Pés que se movem — dança. O componente 舛 mostra dois pés em direções op
 直 (zhí) – reto, direito
 心 (xīn) – coração
 
-Coração reto no caminho. O radical 彳indica movimento; 直 + 心 compõem o núcleo: agir com retidão interior. Virtude como conduta alinhada ao que é justo.
+Coração reto no caminho. O radical 彳indica movimento; 直 + 心 compõem o núcleo: agir com retidão interior.
 
 ## Extrapolando na etimologia traduzida
 

@@ -30,14 +30,14 @@ Nome kung fu de Vinícius Roque Moreira.
 
 ### 樂
 
-Pictograma de um instrumento musical de madeira com cordas. A forma antiga mostra cordas tensas sobre uma base de madeira (木). O Shuowen define 樂 como 五聲八音總名, "nome geral para os cinco tons e oito timbres". Lê-se yuè quando significa música, lè quando significa alegria — porque música e alegria nascem do mesmo lugar.
+Pictograma de um instrumento musical de madeira com cordas. A forma antiga mostra cordas tensas sobre uma base de madeira (木). O Shuowen define 樂 como 五聲八音總名, "nome geral para os cinco tons e oito timbres". Lê-se yuè quando significa música, lè quando significa alegria. Música e alegria nascem do mesmo lugar.
 
 ### 奇
 
 大 (dà) – grande
 可 (kě) – poder, ser capaz
 
-O que surpreende. 大 e 可 juntos: aquilo que é grande o bastante para impressionar. O Shuowen define 奇 como 異也, "diferente". O sentido oscila entre estranho e admirável — o que foge ao comum pode causar espanto ou fascínio.
+O que surpreende. 大 e 可 juntos: aquilo que é grande o bastante para impressionar. O Shuowen define 奇 como 異也, "diferente". O sentido oscila entre estranho e admirável. O que foge ao comum pode causar espanto ou admiração.
 
 ## Extrapolando na etimologia traduzida
 
