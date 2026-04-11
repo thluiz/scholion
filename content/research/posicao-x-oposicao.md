@@ -7,6 +7,10 @@ status: "em andamento"
 toc: true
 ---
 
+## Perguntas em aberto
+
+(nenhuma ainda)
+
 ## Texto em andamento
 
 ### Posição x Oposição
@@ -30,10 +34,6 @@ Pode se fazer uma guerra psicológica: cortando linhas de suprimento, usar espi�
 A história é cheia de exemplos do quanto faz pouco sentido investir em posicionamentos muito elaborados porém estáticos, entretanto posicionamento é fundamental: Termópilas de Leônidas, Aljubarrota em Portugal, Austerlitz de Napoleão, Tuiuti Brasileiro, o famoso General Inverno Russo (é menosprezar a tenacidade do povo, mas foi determinante em duas guerras importantes), as montanhas do Afeganistão (o lugar onde os impérios vão para acabar), Vietnam para os Estados Unidos.
 
 (aqui começo a fazer a passagem para sair do marcial e tá sofrido...)
-
-## Perguntas em aberto
-
-(nenhuma ainda)
 
 ## Fontes verificadas (2026-04-11)
 
