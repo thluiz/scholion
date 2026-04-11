@@ -165,5 +165,11 @@ Links: [Foreign Policy — "Iran's Biggest Wartime Advantage Is Geography" (mar/
 - **Taijiquan / Wang Zongyue** — princípio tático de ceder/avançar
 - **Sun Tzu** — zheng/qi (normal/extraordinário), Art of War cap. 5
 
+## Notas de contexto
 
+Pesquisa iniciada em 2026-04-11. O autor ouviu a frase "toda posição gera oposição" do Si Fu no contexto marcial do Ving Tsun e a repete há tempo sem aprofundar. Conversa com a Bruna sobre vestuário foi o gatilho para tentar escrever. O texto travou na passagem do marcial para outros domínios.
+
+Todas as 6 fontes filosóficas foram verificadas contra primárias por subagentes com busca web. As fontes históricas (batalhas) foram pesquisadas mas ainda não verificadas individualmente. Correção mais relevante: "omnis determinatio est negatio" é de Hegel, não de Spinoza. Spinoza escreveu "determinatio negatio est" (sem omnis) numa carta sobre figuras geométricas.
+
+O autor quer estudar cada fonte antes de extrair notas. Não gerar notas por conta própria. A passagem do marcial para vestuário/cotidiano é o nó do texto e está marcada como pergunta em aberto.
 
