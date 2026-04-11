@@ -1,6 +1,6 @@
 ---
 title: "梅鴿法 Moy Gap Fat"
-date: 2026-04-12T10:04:00+01:00
+date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Rafael Ferreira Pombo: Gap (鴿) pomba, Fat (法) lei, método."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
 has_commentary: true

@@ -1,6 +1,6 @@
 ---
 title: "梅勝一 Moy Sing Yat"
-date: 2026-04-12T10:03:00+01:00
+date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Xenia D'Avila Fonseca: Sing (勝) vitória, Yat (一) um."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
 has_commentary: true

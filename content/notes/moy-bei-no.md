@@ -1,6 +1,6 @@
 ---
 title: "梅賁挪 Moy Bei No"
-date: 2026-04-12T10:03:00+01:00
+date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Bruno Bernardo Machado: Bei (賁) ornamento, energia, No (挪) mover."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
 has_commentary: true

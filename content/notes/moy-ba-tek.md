@@ -1,6 +1,6 @@
 ---
 title: "梅巴覿 Moy Ba Tek"
-date: 2026-04-12T10:02:00+01:00
+date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Pedro Patrick Avelar Espozel: Ba (巴) apegar-se, Tek (覿) encontro face a face."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
 has_commentary: true

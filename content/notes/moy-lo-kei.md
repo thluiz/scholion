@@ -1,6 +1,6 @@
 ---
 title: "梅勞崎 Moy Lo Kei"
-date: 2026-04-12T10:00:00+01:00
+date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Luciano Freitas: Lo (勞) trabalho, mérito, Kei (崎) terreno irregular."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
 has_commentary: true

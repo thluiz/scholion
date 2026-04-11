@@ -1,6 +1,6 @@
 ---
 title: "梅安德華 Moy On Dak Wah"
-date: 2026-04-12T10:01:00+01:00
+date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Eduardo Fauzi Richard Cerquise: On (安) paz, Dak (德) virtude, Wah (華) esplêndido."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
 has_commentary: true

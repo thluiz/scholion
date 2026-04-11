@@ -1,6 +1,6 @@
 ---
 title: "梅舞德 Moy Mo Tak"
-date: 2026-04-12T10:01:00+01:00
+date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Bruno José Mota Brandão: Mo (舞) dança, Tak (德) virtude."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
 has_commentary: true

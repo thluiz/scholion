@@ -1,6 +1,6 @@
 ---
 title: "梅崎讜 Moy Kei Don"
-date: 2026-04-12T10:03:00+01:00
+date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Clayton Quintino de Souza: Kei (崎) terreno acidentado, Don (讜) fala franca."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
 has_commentary: true

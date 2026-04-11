@@ -1,6 +1,6 @@
 ---
 title: "梅司奧 Moy Si Ou"
-date: 2026-04-12T10:02:00+01:00
+date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Francisco Marcio Lopes da Silva: Si (司) dirigir, Ou (奧) profundo."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
 has_commentary: true

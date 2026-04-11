@@ -1,6 +1,6 @@
 ---
 title: "梅奧利 Moy Ou Lei"
-date: 2026-04-12T10:03:00+01:00
+date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Aurea Brandão: Ou (奧) profundo, misterioso, Lei (利) benefício, afiado."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
 has_commentary: true

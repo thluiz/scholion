@@ -1,6 +1,6 @@
 ---
 title: "梅吉老 Moy Kat Lo"
-date: 2026-04-12T10:04:00+01:00
+date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Carlos Antônio de Oliveira: Kat (吉) auspicioso, Lo (老) venerável."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
 has_commentary: true
