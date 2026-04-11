@@ -1,0 +1,49 @@
+---
+title: "梅華利⼠ Moy Wa Lei Si"
+date: 2026-04-12T10:02:00+01:00
+summary: "Etimologia do nome kung fu de Maria Alice de Souza Teixeira: Wa (華) esplêndido, Lei (利) benefício, Si (⼠) erudito."
+tags: ["ving-tsun", "etimologia", "kung-fu"]
+has_commentary: true
+sources:
+  - title: "MDBG Chinese Dictionary"
+    url: "https://www.mdbg.net/chinese/dictionary"
+    kind: wiki
+  - title: "Priberam Dicionário"
+    url: "https://dicionario.priberam.org"
+    kind: wiki
+  - title: "Chinese Etymology (hanziyuan.net)"
+    author: "Richard Sears"
+    url: "https://hanziyuan.net"
+    kind: wiki
+---
+
+**梅華利⼠**
+*Moy Wa Lei Si*
+
+Nome kung fu de Maria Alice de Souza Teixeira.
+
+**Wa** (華) – Esplêndido, China.
+
+**Lei** (利) – Benefício, afiado.
+
+**Si** (⼠) – Erudito, guerreiro.
+
+## Etimologia no Chinês
+
+### 華
+
+艹 (cǎo) – erva, planta
+花 componente floral inferior
+
+Forma antiga representa uma flor em plena abertura. O radical 艹 (planta) encima o caractere; a parte inferior é o componente que deu origem a 花 (flor). O Shuowen Jiezi define 華 como 榮也, "florescência" — o momento em que a planta exibe tudo o que tem. Daí os sentidos de esplêndido, magnífico e, por extensão, China (中華).
+
+### 利
+
+禾 (hé) – cereal
+刂 (dāo) – faca
+
+Cereal cortado com faca: a colheita. O Shuowen define 利 como 銛也, "afiado". Faca que corta bem traz benefício — do gume nasce o proveito.
+
+### ⼠
+
+Forma de radical Kangxi (⼠) em vez do caractere padrão 士. Pictograma de um machado fincado no chão — símbolo de quem planta posição e defende. O Shuowen define 士 como 事也, "aquele que serve". Homem de saber e de armas.

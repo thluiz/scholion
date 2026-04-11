@@ -1,0 +1,44 @@
+---
+title: "梅泰利 Moy Tai Lei"
+date: 2026-04-12T10:02:00+01:00
+summary: "Etimologia do nome kung fu de Thales Antônio Cabral de Guimarães: Tai (泰) grande, Lei (利) benefício."
+tags: ["ving-tsun", "etimologia", "kung-fu"]
+has_commentary: true
+sources:
+  - title: "MDBG Chinese Dictionary"
+    url: "https://www.mdbg.net/chinese/dictionary"
+    kind: wiki
+  - title: "Priberam Dicionário"
+    url: "https://dicionario.priberam.org"
+    kind: wiki
+  - title: "Chinese Etymology (hanziyuan.net)"
+    author: "Richard Sears"
+    url: "https://hanziyuan.net"
+    kind: wiki
+---
+
+**梅泰利**
+*Moy Tai Lei*
+
+Nome kung fu de Thales Antônio Cabral de Guimarães.
+
+**Tai** (泰) – Grande, pacífico, grandioso.
+
+**Lei** (利) – Benefício, afiado.
+
+## Etimologia no Chinês
+
+### 泰
+
+水 (shuǐ) – água (na base)
+大 (dà) – grande
+廾 (gǒng) – duas mãos
+
+Água que flui sob grandeza sustentada por duas mãos. A composição sugere abundância contida — grandeza serena. O Shuowen define 泰 como 滑也, "deslizar suavemente". O caractere nomeia o hexagrama 11 do Yijing: céu e terra em comunicação, prosperidade sem esforço.
+
+### 利
+
+禾 (hé) – cereal
+刂 (dāo) – faca
+
+Cereal cortado com faca: a colheita. O Shuowen define 利 como 銛也, "afiado". Faca que corta bem traz benefício — do gume nasce o proveito.
