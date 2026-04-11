@@ -1,6 +1,6 @@
 ---
 title: "梅馬佚 Moy Mah Yat"
-date: 2026-04-12T10:04:00+01:00
+date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Mayara Galvão Palmeira: Mah (馬) cavalo, Yat (佚) extraordinário."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
 has_commentary: true

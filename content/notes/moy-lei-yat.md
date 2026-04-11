@@ -1,6 +1,6 @@
 ---
 title: "梅利溢 Moy Lei Yat"
-date: 2026-04-12T10:00:00+01:00
+date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Pedro Henrique Corrêa: Lei (利) benefício, afiado, Yat (溢) transbordar."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
 has_commentary: true

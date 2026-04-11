@@ -1,6 +1,6 @@
 ---
 title: "梅威安 Moy Wai On"
-date: 2026-04-12T10:00:00+01:00
+date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Roberto Santos Viana: Wai (威) poder, autoridade, On (安) paz, tranquilidade."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
 has_commentary: true

@@ -1,6 +1,6 @@
 ---
 title: "梅樂奇 Moy Lok Ke"
-date: 2026-04-12T10:02:00+01:00
+date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Vinícius Roque Moreira: Lok (樂) alegria, Ke (奇) extraordinário."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
 has_commentary: true

@@ -1,6 +1,6 @@
 ---
 title: "梅識問 Moy Sek Man"
-date: 2026-04-12T10:04:00+01:00
+date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Simão Coutinho de Albuquerque Neto: Sek (識) conhecimento, Man (問) perguntar."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
 has_commentary: true

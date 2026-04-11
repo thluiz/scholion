@@ -1,6 +1,6 @@
 ---
 title: "梅騎鑰 Moy Ke Yeuk"
-date: 2026-04-12T10:00:00+01:00
+date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Cristiano Chaves da Silva: Ke (騎) cavalgar, Yeuk (鑰) chave."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
 has_commentary: true

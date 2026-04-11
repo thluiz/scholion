@@ -1,6 +1,6 @@
 ---
 title: "梅意鴿 Moy Yi Gap"
-date: 2026-04-12T10:03:00+01:00
+date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Tatiana Candreva Palumbo: Yi (意) intenção, Gap (鴿) pomba."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
 has_commentary: true

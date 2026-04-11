@@ -1,6 +1,6 @@
 ---
 title: "梅利華 Moy Lei Wa"
-date: 2026-04-12T10:03:00+01:00
+date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Marcos Leiras de Carvalho: Lei (利) benefício, afiado, Wa (華) esplêndido."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
 has_commentary: true
