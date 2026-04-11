@@ -41,3 +41,11 @@ O pássaro que se reúne — a pomba é ave de bando. O radical 鳥 classifica o
 去 (qù) – ir, partir
 
 O Shuowen Jiezi define 法 como 刑也平之如水从水, "punição; nivelar como a água". A forma antiga incluía 廌 (zhì), um animal mítico capaz de distinguir o culpado do inocente. A água que nivela tudo deu origem ao sentido de lei — aquilo que é igual para todos. Daí se estende a método, modo, regra.
+
+## Extrapolando na etimologia traduzida
+
+**Pomba** – do Lat. *palumba*: ave columbiforme; símbolo de paz e pureza.
+
+**Lei** – do Lat. *lex, legis*: regra obrigatória; preceito.
+
+**Método** – do Lat. *methodus*, do Gr. *méthodos*: processo racional; ordem, sistema.

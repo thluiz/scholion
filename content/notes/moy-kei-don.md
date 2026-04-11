@@ -41,3 +41,9 @@ Montanha irregular — terreno acidentado. O radical 山 situa o significado na 
 黨 (dǎng) – grupo, partido
 
 Palavra franca. O radical 言 indica o domínio da linguagem; 黨 funciona como componente fonético. O sentido é de fala direta, honesta, sem rodeio — a palavra que se diz em público, abertamente, perante o grupo.
+
+## Extrapolando na etimologia traduzida
+
+**Terreno** – do Lat. *terrenum*: extensão de terra; solo; campo.
+
+**Franqueza** – do Germ. *frank* (livre): qualidade de quem fala com sinceridade; candura; abertura.

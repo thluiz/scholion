@@ -42,3 +42,9 @@ A forma moderna engana. Nas inscrições em ossos oraculares, 風 mostrava um p�
 匕 (bǐ) – duas ocorrências; componentes estruturais
 
 Pictograma antigo de um urso. O Shuowen Jiezi define 能 como 熊屬, "da família do urso". A força bruta do animal passou a significar capacidade em geral — poder fazer, ser capaz. Os componentes modernos já não mostram o urso, mas o sentido conserva a origem: habilidade que vem da força.
+
+## Extrapolando na etimologia traduzida
+
+**Vento** – do Lat. *ventus, -i*: deslocação do ar atmosférico; corrente de ar; sopro; tendência.
+
+**Capacidade** – do Lat. *capacitas, -atis* (de *capax*, que contém): aptidão; habilidade; poder de realizar; competência.

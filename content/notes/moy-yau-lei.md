@@ -41,3 +41,9 @@ Quem supera a preocupação — excelência. O radical 亻situa o sentido no hum
 刂 (dāo) – faca
 
 Faca que colhe o grão. O sentido original é cortar a colheita — daí "afiado" e, por extensão, "vantajoso, benéfico". O que corta bem, rende bem.
+
+## Extrapolando na etimologia traduzida
+
+**Excelência** – do Lat. *excellentia*: qualidade superior; distinção; primazia.
+
+**Benefício** – do Lat. *beneficium*: bem que se faz; vantagem, proveito.

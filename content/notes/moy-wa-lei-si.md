@@ -47,3 +47,11 @@ Cereal cortado com faca: a colheita. O Shuowen define 利 como 銛也, "afiado".
 ### ⼠
 
 Forma de radical Kangxi (⼠) em vez do caractere padrão 士. Pictograma de um machado fincado no chão — símbolo de quem planta posição e defende. O Shuowen define 士 como 事也, "aquele que serve". Homem de saber e de armas.
+
+## Extrapolando na etimologia traduzida
+
+**Esplendor** – do Lat. *splendor, -oris*: magnificência; grandeza; fulgor.
+
+**Benefício** – do Lat. *beneficium*: bem que se faz; vantagem, proveito.
+
+**Erudito** – do Lat. *eruditus* (polido, instruído): pessoa de grande instrução; sábio; letrado.

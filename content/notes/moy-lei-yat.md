@@ -41,3 +41,9 @@ Colher o grão com a faca — o benefício. O Shuowen Jiezi define 利 como 銛�
 益 (yì / jik1) – benefício, aumento
 
 Água que transborda. O radical 氵indica o domínio líquido; 益 serve como fonético e semântico — o que aumenta além do limite. O Shuowen Jiezi define 溢 como 器滿也, "recipiente cheio". O transbordar é o excesso que não se contém.
+
+## Extrapolando na etimologia traduzida
+
+**Benefício** – do Lat. *beneficium*: bem que se faz; vantagem, proveito.
+
+**Transbordar** – de *trans-* (além) + *bordo* (borda): exceder a capacidade; derramar por cima das bordas; ir além dos limites.

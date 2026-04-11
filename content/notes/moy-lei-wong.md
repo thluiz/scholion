@@ -38,3 +38,9 @@ Colher o grão com a faca — o benefício. O Shuowen Jiezi define 利 como 銛�
 ### 王
 
 Pictograma. Três traços horizontais representam céu, humanidade e terra; o traço vertical que os une é o soberano — aquele que liga os três planos. O Shuowen Jiezi define: 天下所歸往也, "aquele a quem tudo-sob-o-céu se dirige". Dong Zhongshu acrescenta: 三畫而連其中謂之王, "três traços ligados pelo meio — isso é rei."
+
+## Extrapolando na etimologia traduzida
+
+**Benefício** – do Lat. *beneficium* (bene + facere, fazer bem): bem que se faz; vantagem, proveito; favor concedido.
+
+**Rei** – do Lat. *rex, regis* (aquele que dirige): soberano de um reino; o primeiro, o principal.

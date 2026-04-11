@@ -38,3 +38,11 @@ O altar dos ancestrais. O radical 礻liga o caractere ao domínio do sagrado; �
 ### 丹
 
 Pictograma de um poço de cinábrio. O ponto central representa o mineral dentro da cavidade. Cinábrio é o minério de mercúrio, vermelho vivo, usado na alquimia taoísta para preparar o elixir da imortalidade. Por extensão: vermelho, essencial, alquímico.
+
+## Extrapolando na etimologia traduzida
+
+**Ancestral** – do Lat. *antecessor, -oris*: ascendente, antepassado; que pertence a gerações anteriores.
+
+**Cinábrio** – do Lat. *cinnabaris*, do Gr. *kinnábari*: sulfureto vermelho de mercúrio; pigmento vermelho usado desde a antiguidade.
+
+**Vermelho** – do Lat. *vermiculus* (vermezinho, cochonilha): cor encarnada; rubro; escarlate.

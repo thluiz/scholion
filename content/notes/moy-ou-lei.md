@@ -42,3 +42,9 @@ Profundidade interior. O componente superior 宀 indica espaço coberto, interio
 刂 (dāo) – faca
 
 Faca que corta o grão — colheita proveitosa. O Shuowen define 利 como 銛也, "afiado". Do gume da faca ao lucro da ceifa: o que corta bem traz benefício.
+
+## Extrapolando na etimologia traduzida
+
+**Profundidade** – do Lat. *profunditas, -atis*: qualidade do que é profundo; complexidade; intensidade.
+
+**Benefício** – do Lat. *beneficium*: bem que se faz; vantagem, proveito.

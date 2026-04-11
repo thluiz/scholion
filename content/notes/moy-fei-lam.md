@@ -41,3 +41,9 @@ O radical 艹 situa o caractere no reino vegetal. 非 contribui o som. O resulta
 木 (mù) – árvore
 
 Duas árvores lado a lado — floresta. O Shuowen define 林 como 平土有叢木曰林, "terreno plano com árvores agrupadas chama-se lin". De uma árvore, madeira; de duas, bosque. A repetição gera abundância.
+
+## Extrapolando na etimologia traduzida
+
+**Fragrância** – do Lat. *fragrantia* (de *fragrare*, cheirar bem): aroma agradável; perfume; odor suave.
+
+**Floresta** – do Lat. *forestis* (silva) (mata exterior): grande extensão de terreno coberta de árvores; mata; selva.

@@ -38,3 +38,9 @@ Variante de 績. O Shuowen Jiezi define 績 como 緝也, "fiar, tecer continuame
 ### 生
 
 Pictograma. O Shuowen Jiezi define 生 como 進也象草木生出土上, "avançar; representa a planta brotando da terra". A forma antiga mostrava um broto emergindo do solo — uma linha vertical saindo de uma base horizontal. Vida como movimento ascendente, crescimento que insiste contra a gravidade.
+
+## Extrapolando na etimologia traduzida
+
+**Mérito** – do Lat. *meritum* (o que se merece): qualidade do que é digno de louvor; merecimento por serviço prestado.
+
+**Vida** – do Lat. *vita, -ae*: estado de atividade dos seres organizados; existência; duração da existência; modo de viver.

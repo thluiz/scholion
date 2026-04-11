@@ -42,3 +42,11 @@ Nome kung fu de Thales Antônio Cabral de Guimarães.
 刂 (dāo) – faca
 
 Cereal cortado com faca: a colheita. O Shuowen define 利 como 銛也, "afiado". Faca que corta bem traz benefício — do gume nasce o proveito.
+
+## Extrapolando na etimologia traduzida
+
+**Grandeza** – de *grande*, do Lat. *grandis*: qualidade do que é grande; magnificência; importância.
+
+**Serenidade** – do Lat. *serenitas, -atis* (clareza do céu): estado de calma; tranquilidade de espírito; placidez.
+
+**Benefício** – do Lat. *beneficium*: bem que se faz; vantagem, proveito.

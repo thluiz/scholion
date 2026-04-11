@@ -39,3 +39,9 @@ Pictograma de poço de cinábrio. O caractere representa um poço mineral (o pon
 心 (xīn) – coração
 
 Coração reto no caminho. O radical 彳 indica caminho, deslocamento; 直 é retidão; 心 é coração. A virtude é andar com o coração reto. O Shuowen define 德 como 升也, "elevar-se" — a conduta que eleva.
+
+## Extrapolando na etimologia traduzida
+
+**Cinábrio** – do Lat. *cinnabaris*, do Gr. *kinnabari*: sulfureto vermelho de mercúrio; pigmento vermelho.
+
+**Virtude** – do Lat. *virtus, -utis*: qualidade moral; mérito; disposição para praticar o bem.

@@ -41,3 +41,9 @@ A palavra do erudito: o que é dito com propriedade traz bom augúrio. O Shuowen
 匕 (bǐ) – colher; variação de pessoa
 
 O Shuowen Jiezi define 老 como 考也七十曰老, "aos setenta se é velho". A forma antiga mostrava uma pessoa de cabelos longos apoiada num bastão. O radical 耂 é a parte superior — o cabelo transformado. 匕 na parte inferior sugere a mudança, a transformação do corpo pelo tempo. Velhice como acúmulo, não como perda.
+
+## Extrapolando na etimologia traduzida
+
+**Auspício** – do Lat. *auspicium*: presságio favorável; proteção.
+
+**Venerável** – do Lat. *venerabilis*: que merece respeito; augusto; respeitável.

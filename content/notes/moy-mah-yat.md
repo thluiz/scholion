@@ -38,3 +38,9 @@ Pictograma. O Shuowen Jiezi define: 怒也武也象馬頭髦尾四足之形, "f�
 失 (shī) – perder
 
 Pessoa que se perde — ou que escapa ao comum. O caractere carrega dois sentidos paralelos: o que se perdeu (textos 佚, obras desaparecidas) e o que ultrapassa a norma (佚才, talento extraordinário). A pessoa além do ordinário é, por definição, aquela que não se encontra entre as demais.
+
+## Extrapolando na etimologia traduzida
+
+**Cavalo** – do Lat. *caballus, -i* (cavalo de trabalho): animal quadrúpede equino; força em movimento.
+
+**Distinção** – do Lat. *distinctio, -onis* (de *distinguere*, separar): diferença; qualidade superior; elegância; nobreza.

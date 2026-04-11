@@ -41,3 +41,9 @@ O radical 礻(forma reduzida de 示, altar) liga o caractere ao domínio ritual.
 女 (nǚ) – mulher
 
 Mulher sob um teto: a imagem de repouso e segurança. O Shuowen define 安 como 靜也, "quietude". Paz não como ausência de conflito, mas como presença de abrigo.
+
+## Extrapolando na etimologia traduzida
+
+**Ancestral** – do Lat. *antecessor, -oris*: ascendente, antepassado.
+
+**Paz** – do Lat. *pax, pacis*: tranquilidade; ausência de conflito.

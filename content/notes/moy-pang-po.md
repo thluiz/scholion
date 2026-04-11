@@ -41,3 +41,9 @@ Som do tambor ressoando. O componente esquerdo 壴 representa um tambor montado;
 日 (rì) – sol
 
 Sol para todos — universal. O componente superior 並 indica união, simultaneidade; o inferior 日 é o sol. A imagem é de luz solar que alcança todos por igual. O Shuowen define 普 como 日無色也, registrando o sentido de amplitude e generalidade.
+
+## Extrapolando na etimologia traduzida
+
+**Tambor** – do Ar. *tanbur* (instrumento de cordas, depois percussão): instrumento de percussão; membrana tensionada sobre aro.
+
+**Universal** – do Lat. *universalis* (de *universus*, todo inteiro): que abrange tudo; geral; comum a todos.

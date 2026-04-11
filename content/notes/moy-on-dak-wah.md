@@ -51,3 +51,11 @@ Coração reto no caminho. O radical 彳indica movimento; 直 + 心 compõem o n
 華 — a parte inferior representa a flor
 
 Flor em plena abertura. O sentido original é "florescência" — a planta no auge. Por extensão: esplêndido, magnífico, e o nome clássico da China (中華).
+
+## Extrapolando na etimologia traduzida
+
+**Paz** – do Lat. *pax, pacis*: estado de tranquilidade; ausência de conflito; sossego.
+
+**Virtude** – do Lat. *virtus, -utis* (força, coragem, de *vir*, homem): qualidade moral; mérito; disposição para praticar o bem.
+
+**Esplendor** – do Lat. *splendor, -oris* (brilho): magnificência; grandeza; fulgor.

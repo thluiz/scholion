@@ -39,3 +39,9 @@ Pessoa junto a uma boca — quem dirige. A forma antiga mostra uma figura humana
 大 (dà) – grande
 
 Profundidade interior — o que está guardado no fundo da casa. O radical 宀 indica espaço coberto; 釆 e 大 compõem o interior reservado, onde se guarda o que é valioso. O Shuowen define 奧 como 宛也, "recôndito". O sentido profundo, o que não se vê de fora.
+
+## Extrapolando na etimologia traduzida
+
+**Dirigir** – do Lat. *dirigere* (dis + regere, conduzir em linha reta): administrar; governar; orientar; comandar.
+
+**Profundidade** – do Lat. *profunditas, -atis* (de *profundus*, fundo): qualidade do que é profundo; abismo; complexidade; intensidade.

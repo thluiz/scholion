@@ -41,3 +41,9 @@ Faca que colhe o grão. O sentido original é cortar a colheita — daí "afiado
 加 (jiā) – adicionar
 
 Louvor, excelência. O tambor cerimonial marca a celebração; 加 acrescenta intensidade. O Shuowen Jiezi define 嘉 como 美也, "belo, admirável". Aquilo que merece ser celebrado.
+
+## Extrapolando na etimologia traduzida
+
+**Benefício** – do Lat. *beneficium*: bem que se faz; vantagem, proveito.
+
+**Excelência** – do Lat. *excellentia* (superioridade): qualidade superior; distinção; primazia.
