@@ -1,6 +1,6 @@
 ---
 title: "Adapter Pattern"
-date: 2026-04-11T12:01:00+01:00
+date: 2026-04-11T01:18:24+01:00
 draft: false
 summary: "Convert the interface of a class into another interface clients expect."
 tags:

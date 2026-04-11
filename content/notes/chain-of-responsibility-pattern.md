@@ -1,6 +1,6 @@
 ---
 title: "Chain of Responsibility Pattern"
-date: 2026-04-11T12:05:00+01:00
+date: 2026-04-11T01:18:24+01:00
 draft: false
 summary: "Pass a request along a chain of handlers until one processes it."
 tags:

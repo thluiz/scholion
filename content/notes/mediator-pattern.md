@@ -1,6 +1,6 @@
 ---
 title: "Mediator Pattern"
-date: 2026-04-11T12:08:00+01:00
+date: 2026-04-11T01:18:24+01:00
 draft: false
 summary: "Define an object that encapsulates how a set of objects interact, promoting loose coupling."
 tags:

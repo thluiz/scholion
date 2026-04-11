@@ -1,6 +1,6 @@
 ---
 title: "Visitor Pattern"
-date: 2026-04-11T12:10:00+01:00
+date: 2026-04-11T01:18:24+01:00
 draft: false
 summary: "Represent an operation to be performed on elements of an object structure without changing the classes."
 tags:

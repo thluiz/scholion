@@ -1,6 +1,6 @@
 ---
 title: "Prototype Pattern"
-date: 2026-04-11T12:00:00+01:00
+date: 2026-04-11T01:18:24+01:00
 draft: false
 summary: "Create new objects by cloning an existing instance."
 tags:
