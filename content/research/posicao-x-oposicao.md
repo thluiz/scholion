@@ -39,7 +39,9 @@ A história é cheia de exemplos do quanto faz pouco sentido investir em posicio
 
 Nenhuma ainda.
 
-## Fontes verificadas — filosofia (2026-04-11)
+## Fontes (2026-04-11)
+
+### Filosofia ✓
 
 Todas verificadas contra fontes primárias. Nenhuma inventada.
 
@@ -104,57 +106,57 @@ Nagarjuna não diz "posição gera oposição". Diz que toda posição fixa é i
 
 Links: [SEP — Nagarjuna](https://plato.stanford.edu/entries/nagarjuna/) · [Tradução Jay Garfield (OUP)](https://global.oup.com/academic/product/the-fundamental-wisdom-of-the-middle-way-9780195093360)
 
-## Fontes pendentes — posicionamento marcial/histórico
+### Posicionamento marcial/histórico ?
 
-### Termópilas (480 a.C.) ?
+#### Termópilas (480 a.C.) ?
 
 Passo de 12-20m de largura anulou superioridade numérica persa. Falhou quando o caminho de montanha (Anopaea) permitiu contornar. A posição era perfeita até ser flanqueada.
 
 Links: [Heródoto, Histories VII (Perseus/Tufts)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0126:book%3D7) · Nigel Fields, *Thermopylae 480 BC* (Osprey, 2007)
 
-### Aljubarrota (1385, Portugal) ?
+#### Aljubarrota (1385, Portugal) ?
 
 Nuno Álvares Pereira escolheu pessoalmente o terreno em São Jorge. 6.500 vs 30.000, durou 30 minutos. Trincheiras, arbustos derrubados, riachos nos flancos canalizaram a cavalaria castelhana para uma zona de morte. Adaptação do sistema tático inglês (Crécy/Poitiers) ao terreno português.
 
 Links: [João Gouveia Monteiro, "The Battle of Aljubarrota: A Reassessment" (Journal of Medieval Military History, 2009)](https://www.cambridge.org/core/books/abs/journal-of-medieval-military-history/battle-of-aljubarrota-1385-a-reassessment/DD9D456BF914EDC14AC82D65C658A4D9) · [Britannica](https://www.britannica.com/event/Battle-of-Aljubarrota)
 
-### Austerlitz (1805) ?
+#### Austerlitz (1805) ?
 
 Napoleão abandonou deliberadamente o Pratzen Heights para atrair o inimigo. Fingiu fraqueza, encenou recuo. Quando os Aliados desceram para atacar o flanco sul, Soult tomou as alturas e cortou o exército em dois. A batalha inteira foi uma armadilha de posicionamento.
 
 Links: Robert Goetz, *1805: Austerlitz* (Greenhill, 2005) · David Chandler, *The Campaigns of Napoleon* (Macmillan, 1966)
 
-### Tuiuti (1866, Guerra do Paraguai) ?
+#### Tuiuti (1866, Guerra do Paraguai) ?
 
 Maior batalha da América do Sul. Aliados em terreno elevado com pântanos canalizando o ataque paraguaio. Capitão Mallet cavou vala molhada na frente da artilharia. Infantaria paraguaia presa ao alcance de metralha sem conseguir cruzar.
 
 Links: Thomas Whigham, *The Paraguayan War Vol. 1* (U. Nebraska, 2002) · Francisco Doratioto, *Maldita Guerra* (Cia das Letras, 2002) · [Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/tuyuti-battle)
 
-### General Inverno Russo (1812, 1941) ?
+#### General Inverno Russo (1812, 1941) ?
 
 Profundidade estratégica russa como posicionamento. Napoleão já perdia homens por doença, calor e deserção antes do inverno. Wehrmacht parou na rasputitsa (lama outonal) antes da neve. A geografia força atacantes a posições sobreestendidas longe das bases de suprimento, enquanto defensores trocam espaço por tempo.
 
 Links: Adam Zamoyski, *1812: Napoleon's Fatal March on Moscow* (HarperCollins, 2004) · [David Stahel, *Operation Barbarossa and Germany's Defeat in the East* (Cambridge, 2009)](https://www.cambridge.org/core/books/operation-barbarossa-and-germanys-defeat-in-the-east/4B943B4C1B080B8CEFF886B68B7D1AFC)
 
-### Afeganistão — cemitério de impérios ?
+#### Afeganistão — cemitério de impérios ?
 
 Hindu Kush, passes estreitos, aldeias isoladas. Mesmo padrão em 1842, 1979, 2021. Invasores controlam estradas e cidades, insurgentes controlam montanhas e campo. Pacificação impossível sem ocupação permanente que nenhum império sustenta.
 
 Links: [Seth Jones, *In the Graveyard of Empires* (Norton, 2009)](https://wwnorton.com/books/9780393338515) · [The Diplomat — "Why Is Afghanistan the Graveyard of Empires?"](https://thediplomat.com/2017/06/why-is-afghanistan-the-graveyard-of-empires/)
 
-### Vietnam ?
+#### Vietnam ?
 
 Selva triplo-dossel limitava visibilidade e campos de tiro. Túneis de Cu Chi (320+ km) com hospitais, arsenais, postos de comando. Terreno escolhia quem lutava onde. Superioridade de fogo não se converte em vantagem quando não se consegue aplicá-la.
 
 Links: Tom Mangold & John Penycate, *The Tunnels of Cu Chi* (Random House, 1985) · [PBS — Battlefield Vietnam: Guerrilla Tactics](https://www.pbs.org/battlefieldvietnam/guerrilla/)
 
-### Irã (2026) ?
+#### Irã (2026) ?
 
 Planalto a 900-1500m, Zagros e Alborz como barreiras naturais. Estreito de Hormuz (21 milhas náuticas, ~20% do petróleo mundial) como alavanca assimétrica. Geografia mais difícil que o Iraque para campanha terrestre convencional.
 
 Links: [Foreign Policy — "Iran's Biggest Wartime Advantage Is Geography" (mar/2026)](https://foreignpolicy.com/2026/03/23/iran-war-geography-hormuz-mountains-territory/) · [Asia Times — "Natural Fortress" (mar/2026)](https://asiatimes.com/2026/03/natural-fortress-how-geography-protects-irans-regime/) · [War on the Rocks — "Iran's A2/AD Strategy" (abr/2026)](https://warontherocks.com/2026/04/irans-anti-access-and-area-denial-strategy-is-cruder-than-chinas-but-still-dangerous/)
 
-## Não verificados — filosofia
+### Não verificados
 
 - **Newton** — terceira lei (ação e reação), leitura filosófica
 - **Nietzsche** — Beyond Good and Evil (1886), seção 2
