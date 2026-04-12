@@ -3,6 +3,7 @@ title: "梅知友士 Moy Chi Yau Si"
 date: 2026-04-10T20:06:28+01:00
 summary: "Etimologia do nome kung fu do autor: Chi (知) saber, Yau (友) amigo, Si (士) guerreiro-escolástico."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
+toc: true
 has_commentary: true
 sources:
   - title: "MDBG Chinese Dictionary"
@@ -20,29 +21,29 @@ sources:
 **梅知友士**
 *Moy Chi Yau Si*
 
-**Chi** (知) – Saber, ter consciência, Conhecimento.
+**Chi** (知 zhī) – Saber, ter consciência, Conhecimento.
 
-**Yau** (友) – Amigo, Companheiro.
+**Yau** (友 yǒu) – Amigo, Companheiro.
 
-**Si** (士) – Bacharel, Escolástico, Especialista, Guerreiro, Cavalheiro, Cavaleiro, Teórico.
+**Si** (士 shì) – Bacharel, Escolástico, Especialista, Guerreiro, Cavalheiro, Cavaleiro, Teórico.
 
 ## Etimologia no Chinês
 
-### 知
+### 知 (zhī)
 
 矢 (shǐ / ci2) – flecha, dardo; jurar
 口 (kǒu / hau2) – boca; abertura, entrada
 
 Flecha e boca. Saber é acertar com a palavra.
 
-### 友
+### 友 (yǒu)
 
 又 (yòu / jau6) – mão direita
 又 (yòu / jau6) – mão direita
 
 Duas mãos direitas que se encontram. No bronze antigo, às vezes aparece 口 embaixo, sugerindo o juramento verbal. Amigo é quem estende a mão na mesma direção.
 
-### 士
+### 士 (shì)
 
 十 (shí / sap6) – dez
 一 (yī / jat1) – um
@@ -53,7 +54,7 @@ O Shuowen Jiezi interpreta como quem domina de um a dez. Confúcio: 推十合一
 
 As fontes não concordam em tudo. O MDBG e o Shuowen tratam 矢 em 知 como componente fonético. A leitura de "acertar com a palavra" (flecha + boca = saber) é interpretação semântica tradicional, não consenso. Para 友, o hanziyuan.net (Richard Sears) decompõe como 𠂇 (mão esquerda) + 又 (mão direita), duas mãos diferentes que se cruzam, enquanto outras fontes simplificam como duas 又. Para 士, o hanziyuan.net não confirma a decomposição 十+一 nem o machado de guerra. Classifica como pictograma independente, "provavelmente modificação de 大 (dà, grande)". O Shuowen insiste na leitura numérica de um a dez.
 
-## Extrapolando na etimologia traduzida
+## Etimologia do Português
 
 **Saber** – do Lat. *sapere*: ter conhecimento de; compreender; ter a certeza de; estar exercitado em; ser perito ou prático em certos assuntos; conseguir compreender; poder explicar; ter muitos conhecimentos; ser erudito; entender; estar informado; ter sabor; impressionar o sentido do gosto; erudição; sabedoria; experiência da vida, do mundo; sensatez.
 

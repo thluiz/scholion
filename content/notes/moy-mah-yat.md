@@ -3,6 +3,7 @@ title: "梅馬佚 Moy Mah Yat"
 date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Mayara Galvão Palmeira: Mah (馬) cavalo, Yat (佚) extraordinário."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
+toc: true
 has_commentary: true
 sources:
   - title: "MDBG Chinese Dictionary"
@@ -22,17 +23,17 @@ sources:
 
 Nome kung fu de Mayara Galvão Palmeira.
 
-**Mah** (馬) – Cavalo.
+**Mah** (馬 mǎ) – Cavalo.
 
-**Yat** (佚) – Perdido, extraordinário, além do comum.
+**Yat** (佚 yì) – Perdido, extraordinário, além do comum.
 
 ## Etimologia no Chinês
 
-### 馬
+### 馬 (mǎ)
 
 Pictograma. O Shuowen Jiezi define: 怒也武也象馬頭髦尾四足之形, "fúria e marcialidade; representa a forma da cabeça, crina, cauda e quatro patas do cavalo." A forma em ossos oraculares mostrava o animal de perfil: cabeça, crina, corpo e quatro patas. Um dos pictogramas mais antigos e mais documentados, com dezenas de variantes arcaicas.
 
-### 佚
+### 佚 (yì)
 
 亻(rén) – pessoa
 失 (shī) – perder
@@ -43,7 +44,7 @@ Pessoa que se perde, ou que escapa ao comum. O caractere carrega dois sentidos p
 
 Para 馬, as fontes concordam: pictograma puro, sem decomposição semântica. O Shuowen acrescenta 怒也武也 ("fúria e marcialidade"), que é leitura simbólica, não etimológica. O hanziyuan.net (Richard Sears) confirma as dezenas de variantes em ossos oraculares sem subscrever a conotação marcial. Para 佚, o MDBG decompõe em 亻+ 失 (pessoa + perder). O hanziyuan.net (Richard Sears) confirma os mesmos componentes (亻+ fonético 失) mas define o sentido original como "entregar-se a prazeres; fugir" (indulge in pleasures; flee), sem referir o sentido de "extraordinário". O caractere não possui formas em ossos oraculares nem em bronze. O Shuowen Jiezi define 佚 como 佚民也從人失聲一曰佚忽也, com ênfase no sentido de "pessoa reclusa" e "negligência". A leitura de "extraordinário" ou "talento que excede o comum" aparece no MDBG e no uso corrente mas não no hanziyuan.net nem no Shuowen.
 
-## Extrapolando na etimologia traduzida
+## Etimologia do Português
 
 **Cavalo** – do Lat. *caballus, -i* (cavalo de trabalho): animal quadrúpede equino; força em movimento.
 
