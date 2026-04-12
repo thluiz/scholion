@@ -71,3 +71,45 @@ As fontes não concordam em tudo. O MDBG e o Shuowen tratam 矢 em 知 como comp
 **Guerreiro** – do Frâncico *werra* (luta, discórdia): aquele que guerreia ou tem ânimo belicoso; beligerante; o que exerce a profissão das armas.
 
 **Cavalheiro** – do Lat. tardio *caballarius* (aquele que anda a cavalo), via Esp. *caballero*: homem de sentimentos nobres, distinto e de esmerada educação.
+
+## Fontes Consultadas
+
+### MDBG Chinese Dictionary
+
+**知** (zhī / zi1): (adverb) 1. yes; (noun) 1. knowledge; (verb) 1. to inform; (adjective) close or bosom (friend)
+
+**友** (yǒu / jau5): (noun) 1. someone; 2. friendship
+
+**士** (shì / si6): member of the senior ministerial class (old)/scholar (old)/bachelor/honorific/first class military rank/specialist worker
+
+### Chinese Etymology (hanziyuan.net)
+
+**知**: Original meaning: Meaning to know. Shuowen: 詞也從口從矢. Decomposition: Compound 知 from mouth 口 kǒu and phonetic arrow 矢 shǐ. Oracle (0), Bronze (1), Seal (1).
+
+**友**: Original meaning: Meaning friend. Shuowen: 同志為友從二又相交友也. Decomposition: Compound 友 from right left-hand 𠂇 zuǒ and. Oracle (10), Bronze (41), Seal (1).
+
+**士**: Original meaning: Meaning a man. Shuowen: 事也數始於一終於十從一從十孔子曰推十合一為士凡士之屬皆從士. Decomposition: (- in animal context, from above 上 shàng indicating the male animal, the one that is on top when mating). Oracle (1), Bronze (21), Seal (1).
+
+### CantoDict (cantonese.org)
+
+**知**: zi1
+
+**友**: jau5
+
+**士**: si6
+
+### Priberam Dicionário
+
+**Saber**: Possuir o conhecimento de.; CONHECER; DESCONHECER; Não ignorar.; CONHECER
+
+**Conhecimento**: Acto; Noção.; Notícia, informação.; Experiência.; Ideia
+
+**Companheiro**: Que acompanha ou faz companhia.; Que anda junto.; Que está sempre ligado a outro.; INSEPARÁVEL; Aquele ou aquilo que acompanha ou que faz companhia.
+
+**Escolástico**: Relativo a escolas ou à escolástica.; Modesto; pobre; despretensioso; desalinhado.; Aquele que é versado em escolástica; peripatético.; O que recebe de outrem educação ou instrução.; ALUNO, DISCENTE, DISCÍPULO
+
+**Especialista**: Que ou quem se dedica a uma ciência ou uma arte.; Que ou quem se especializou em determinada área do saber ou sabe muito sobre determinada coisa.; PERITO; Diz-se de ou médico que se consagra ao estudo de uma especialidade médica ou ao tratamento de certa ordem de doenças (ex.: médico especialista; o hospital tem falta de especialistas em medicina interna).; especial + -ista.
+
+**Bacharel**: Aquele que se bacharelou.; Aquele que concluiu formatura numa faculdade ou universidade.; Pessoa que fala muito.; FALADOR, TAGARELA; Pessoa que se considera muito sabedora.
+
+**Cavalheiro**: Homem bem-educado, que mostra bons sentimentos ou nobreza de carácter; Homem que dança com ou acompanha uma dama.; Indivíduo do sexo masculino (ex.: na sala estão duas senhoras e um cavalheiro).; HOMEM; Forma de tratamento, geralmente cerimoniosa, dada a um indivíduo do sexo masculino (ex.: o cavalheiro pode acompanhar-me, por favor?).

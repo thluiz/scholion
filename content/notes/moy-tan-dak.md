@@ -50,3 +50,44 @@ Para 丹, as fontes concordam: pictograma de poço de cinábrio, sem decomposiç
 **Cinábrio** – do Lat. *cinnabaris*, do Gr. *kinnabari*: sulfureto vermelho de mercúrio; pigmento vermelho.
 
 **Virtude** – do Lat. *virtus, -utis*: qualidade moral; mérito; disposição para praticar o bem.
+
+## Fontes Consultadas
+
+### hanziyuan.net
+
+=== 丹 ===
+丹: Found 1 etymologies and 14 characters in 0.008 seconds. E08731 丹4E39 → 丹4E39
+Main pronunciation 主要发音: dān
+Original meaning 本义: Meaning cinnabar, related meaning red.
+English senses 英语理解:
+Shuowen 说文解字: 巴越之赤石也象采丹井一象丹形凡丹之屬皆從丹
+Character decomposition 字形分解 [?]:
+Oracle characters 甲骨文 (3)
+Bronze characters 金文 (1)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (9)
+
+=== 德 ===
+德: Found 2 etymologies and 56 characters in 0.013 seconds. E01127 德5FB7 → 德5FB7 E08738 惪60EA → 德5FB7
+Main pronunciation 主要发音: dé
+Original meaning 本义: Meaning ethics.
+English senses 英语理解:
+Shuowen 说文解字: 升也從彳𢛳聲
+Character decomposition 字形分解 [?]:
+Compound 德
+from road-left 彳 chì and
+related phonetic simple-virtue 惪悳 dé
+Oracle characters 甲骨文 (0)
+Bronze characters 金文 (42)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (12)
+
+### MDBG
+
+丹	daan1	red/pellet/powder/cinnabar
+德	dak1	virtue/goodness/morality/ethics/kindness/favor/character/kind
+
+### Priberam
+
+Cinábrio		Sulfureto de mercúrio nativo.; VERMELHÃO; De cor vermelha.; CINABRINO;
+Virtude		Disposição constante do espírito que nos induz a exercer o bem e evitar o mal.; Conjunto de todas ou qualquer das boas qualidades morais.; Acção; Austeridade no viver.; Castidade, pudicícia.

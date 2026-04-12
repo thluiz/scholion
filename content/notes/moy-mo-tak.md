@@ -53,3 +53,21 @@ Para 舞, o Shuowen Jiezi define como 樂也用足相背從舛無聲, "alegria",
 **Dança** – do Fr. ant. *dancier*, do Frâncico *dansjan* (mover-se para lá e para cá): arte de mover o corpo ritmicamente; expressão corporal.
 
 **Virtude** – do Lat. *virtus, -utis*: qualidade moral; mérito; disposição para praticar o bem.
+
+## Fontes Consultadas
+
+### MDBG Chinese Dictionary
+**舞** (wǔ / mou5): (noun) 1. dance; (verb) play
+**德** (dé / dak1): virtue/goodness/morality/ethics/kindness/favor/character/kind
+
+### Chinese Etymology (hanziyuan.net)
+**舞**: Original meaning: Meaning to dance. (see 无 wú 無). Shuowen: 樂也用足相背從舛無聲. Decomposition: from person-dancing-not 無 wú and. Oracle (1), Bronze (2), Seal (1).
+**德**: Original meaning: Meaning ethics. Shuowen: 升也從彳𢛳聲. Decomposition: Compound 德 from road-left 彳 chì and related phonetic simple-virtue 惪悳 dé. Oracle (0), Bronze (42), Seal (1).
+
+### CantoDict (cantonese.org)
+**舞**: mou5
+**德**: dak1
+
+### Priberam Dicionário
+**Dança**: Arte de dançar.; Passos cadenciados, geralmente ao som e compasso de música.; Baile.; O que se dança.
+**Virtude**: Disposição constante do espírito que nos induz a exercer o bem e evitar o mal.; Conjunto de todas ou qualquer das boas qualidades morais.; Acção; Austeridade no viver.; Castidade, pudicícia.

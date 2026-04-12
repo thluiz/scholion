@@ -53,3 +53,29 @@ Para 美, o Shuowen define como 甘也從羊從大, "doce, de carneiro e grande"
 **Beleza** – de *belo*, do Lat. *bellus* (bonito, gracioso): qualidade do que é belo; harmonia de formas; perfeição estética.
 
 **Alcançar** – do Lat. vulg. *incalciare* (perseguir com os calcanhares): chegar a; atingir; conseguir; obter.
+
+## Fontes Consultadas
+
+### MDBG Chinese Dictionary
+
+**美** (měi / mei5): beautiful/very satisfactory/good/to beautify/to be pleased with oneself
+
+**達** (dá / daat6): (verb) 1. Arrive; 2. Express; (adjective) (of specific knowledge) Knowledgeable
+
+### Chinese Etymology (hanziyuan.net)
+
+**美**: Original meaning: Meaning beautiful. Shuowen: 甘也從羊從大羊在六畜主給膳也美與善同意. Decomposition: Compound 美 from person-big 大 dà and. Sheep is from feather head dress, or possible hair. Oracle (4), Bronze (2), Seal (1).
+
+**達**: Original meaning: Meaning to arrive at. Shuowen: (sem entrada). Decomposition: Compound 達 remnant 达 from road-and-foot 辶辶辵 chuò and phonetic lamb-stew-da 羍𦍒 dá phonetic-phonetic 大羍. Oracle (0), Bronze (4), Seal (0).
+
+### CantoDict (cantonese.org)
+
+**美**: mei5
+
+**達**: daat6
+
+### Priberam Dicionário
+
+**Beleza**: Perfeição agradável à vista e que cativa o espírito; qualidade do que é belo.; Aquilo ou aquele que é belo, formoso.; Expressão que indica satisfação ou concordância (ex.: beleza, vamos lá).; Expressão usada para cumprimentar alguém (ex.: e aí, beleza?).; Causar aborrecimento, enfado (ex.: não me cansem a beleza com essa história).
+
+**Alcançar**: Chegar a ponto de poder tocar em pessoa ou coisa que vai à frente.; Chegar a (à força de muito custo).; Atingir (estendendo o braço, ou pondo-se no bico dos pés).; Vencer (o projéctil; Atingir, compreender, conceber.

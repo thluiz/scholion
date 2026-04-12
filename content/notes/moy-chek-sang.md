@@ -49,3 +49,56 @@ Para 勣, o Shuowen não inclui esta variante diretamente, mas define 績 como �
 **Mérito** – do Lat. *meritum* (o que se merece): qualidade do que é digno de louvor; merecimento por serviço prestado.
 
 **Vida** – do Lat. *vita, -ae*: estado de atividade dos seres organizados; existência; duração da existência; modo de viver.
+
+## Fontes Consultadas
+
+### Chinese Etymology — hanziyuan.net (Richard Sears)
+
+#### 勣
+
+勣: Found 1 etymologies and 0 characters in 0.002 seconds. E02594 勣52E3 → 绩7EE9
+Main pronunciation 主要发音: jì
+Original meaning 本义: Meaning achievements.
+English senses 英语理解:
+Shuowen 说文解字:
+Character decomposition 字形分解 [?]:
+Compound 勣
+from phonetic debt (责)責𧵩 zé and
+Oracle characters 甲骨文 (0)
+Bronze characters 金文 (0)
+Seal characters 说文解字的篆字 (0)
+Liushutong characters 六书通的字 (0)
+
+#### 生
+
+生: Found 1 etymologies and 121 characters in 0.019 seconds. E09260 生751F → 生751F
+Main pronunciation 主要发音: shēng
+Original meaning 本义: Meaning birth .
+English senses 英语理解: life, living, lifetime; birth
+Shuowen 说文解字: 進也象艸木生出土上凡生之屬皆從生
+Character decomposition 字形分解 [?]:
+from single-grass 屮 chè and
+(生 from seal 𤯓 shēng)
+(生 from oracle 㞢 shēng)
+(之 from seal 㞢)
+Oracle characters 甲骨文 (52)
+
+### MDBG Chinese Dictionary
+
+#### 勣
+
+勣	Sem entrada.
+
+#### 生
+
+生	saang1	to be born/to give birth/life/to grow/raw/uncooked/student
+
+### Priberam Dicionário
+
+#### Mérito
+
+Merecimento.; DEMÉRITO; Aptidão.; Superioridade.; Valor moral, intelectual.
+
+#### Vida
+
+O período de tempo que decorre desde o nascimento até à morte dos seres.; EXISTÊNCIA; Determinada fase desse período.; Modo de viver.; Comportamento.

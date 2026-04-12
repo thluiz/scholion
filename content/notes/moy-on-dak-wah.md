@@ -64,3 +64,25 @@ Para 安, as fontes concordam na decomposição 宀 (teto) + 女 (mulher) e no s
 **Virtude** – do Lat. *virtus, -utis* (força, coragem, de *vir*, homem): qualidade moral; mérito; disposição para praticar o bem.
 
 **Esplendor** – do Lat. *splendor, -oris* (brilho): magnificência; grandeza; fulgor.
+
+## Fontes Consultadas
+
+### MDBG Chinese Dictionary
+**安** (ān / on1): content/calm/still/quiet/safe/secure/in good health/to find a place for/to install/to fix/to fit/to bring (a charge against sb)/to pacify/to harbor (good intentions)/security/safety/peace/ampere
+**德** (dé / dak1): virtue/goodness/morality/ethics/kindness/favor/character/kind
+**華** (huá / waa4): flower/blossom/CL:朵[duo3],支[zhi1],束[shu4],把[ba3],盆[pen2],簇[cu4]/fancy pattern/florid/to spend (money, time)
+
+### Chinese Etymology (hanziyuan.net)
+**安**: Original meaning: Meaning peaceful. Shuowen: 靜也從女在宀下. Decomposition: Compound 安 from building 宀 mián and. Oracle (16), Bronze (15), Seal (1).
+**德**: Original meaning: Meaning ethics. Shuowen: 升也從彳𢛳聲. Decomposition: Compound 德 from road-left 彳 chì and related phonetic simple-virtue 惪悳 dé. Oracle (0), Bronze (42), Seal (1).
+**華**: Original meaning: Meaning flower. Shuowen: 榮也從艸從𠌶凡華之屬皆從華. Decomposition: from grass-top 艹艸 cǎo and related phonetic flower-primitive 𠌶 huá, phonetic person-two 化 huà. Oracle (0), Bronze (10), Seal (1).
+
+### CantoDict (cantonese.org)
+**安**: on1
+**德**: dak1
+**華**: waa4
+
+### Priberam Dicionário
+**Paz**: Quietação de ânimo.; Sossego, tranquilidade; Ausência de guerra, de dissensões.; Boa harmonia.; Concórdia, reconciliação.
+**Virtude**: Disposição constante do espírito que nos induz a exercer o bem e evitar o mal.; Conjunto de todas ou qualquer das boas qualidades morais.; Acção; Austeridade no viver.; Castidade, pudicícia.
+**Esplendor**: Brilho ou luminosidade fortes (ex.: esplendor do sol; esplendor luminoso).; FULGOR, RESPLANDECÊNCIA, RESPLENDOR; Ostentação ou exibição de grandeza ou de grande luxo (ex.: o esplendor da corte de Versalhes).; FAUSTO, LUSTRE, MAGNIFICÊNCIA, POMPA, SUMPTUOSIDADE; Aquilo que deslumbra ou encanta pela beleza ou pela grandiosidade (ex.: a paisagem cativa pelo

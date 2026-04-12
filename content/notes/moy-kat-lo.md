@@ -52,3 +52,52 @@ Para 吉, o Shuowen decompõe em 士+口 e define como 善也. O hanziyuan.net (
 **Auspício** – do Lat. *auspicium*: presságio favorável; proteção.
 
 **Venerável** – do Lat. *venerabilis*: que merece respeito; augusto; respeitável.
+
+## Fontes Consultadas
+
+### Chinese Etymology — hanziyuan.net (Richard Sears)
+
+#### 吉
+
+吉: Found 1 etymologies and 175 characters in 0.000 seconds. E02534 吉5409 → 吉5409
+Main pronunciation 主要发音: jí
+Original meaning 本义: Meaning lucky.
+English senses 英语理解: lucky, propitious, good
+Shuowen 说文解字: 善也從士口
+Character decomposition 字形分解 [?]:
+from mouth 口 kǒu and
+Oracle characters 甲骨文 (101)
+
+#### 老
+
+老: Found 1 etymologies and 42 characters in 0.000 seconds. E03493 老8001 → 老8001
+Main pronunciation 主要发音: lǎo
+Original meaning 本义: Meaning old.
+English senses 英语理解: old, aged; experienced
+Shuowen 说文解字: 考也七十曰老從人毛匕言須髮變白也凡老之屬皆從老
+Character decomposition 字形分解 [?]:
+from old-man-remnant 耂 lǎo and
+Oracle characters 甲骨文 (13)
+Bronze characters 金文 (7)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (21)
+
+### MDBG Chinese Dictionary
+
+#### 吉
+
+吉	gat1	surname Ji/abbr. for Jilin Province 吉林省[Ji2 lin2 Sheng3]
+
+#### 老
+
+老	lou5	prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity/old (of people)/venerable (person)/experienced/of long standing/always/all the time/of the past/very/outdated/(of meat etc) tough
+
+### Priberam Dicionário
+
+#### Auspício
+
+Augúrio (tirado do voo; Agouro.; Patrocínio.; Protecção; Sinais (que fazem pressagiar o resultado que uma coisa há-de
+
+#### Venerável
+
+Que é digno de veneração; muito respeitável.; VENERANDO; Que tem santidade e merece culto, mas que ainda não foi canonizado.; Beato, beatificado.; Presidente de loja maçónica

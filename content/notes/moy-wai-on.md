@@ -54,3 +54,22 @@ Para 威, o Shuowen decompõe como 女 + 戌 e associa à sogra (姑也), a mulh
 **Prestígio** – do Lat. *praestigium* (ilusão, fascínio): influência exercida por mérito; ascendência moral; reputação.
 
 **Paz** – do Lat. *pax, pacis*: estado de tranquilidade; ausência de conflito; sossego, harmonia.
+
+## Fontes Consultadas
+
+### MDBG Chinese Dictionary
+**威** (wēi / wai1): power/might/prestige
+**安** (ān / on1): content/calm/still/quiet/safe/secure/in good health/to find a place for/to install/to fix/to fit/to bring (a charge against sb)/to pacify/to harbor (good intentions)/security/safety/peace/ampere
+
+### Chinese Etymology (hanziyuan.net)
+**威**: Original meaning: Meaning to dominate. Shuowen: 姑也從女從戌漢律曰婦告威姑徐锴曰土盛於戌土陰之主也故從戌. Decomposition: Compound 威 from female 女 nǚ and. Oracle (0), Bronze (10), Seal (1).
+**安**: Original meaning: Meaning peaceful. Shuowen: 靜也從女在宀下. Decomposition: Compound 安 from building 宀 mián and. Oracle (16), Bronze (15), Seal (1).
+
+### CantoDict (cantonese.org)
+**威**: wai1
+**安**: on1
+
+### Priberam Dicionário
+**Poder**: Ter a faculdade de (ex.: eu posso fazer o que me apetecer).; Ter ocasião ou possibilidade de (ex.: não pôde falar com ele ontem).; Estar sujeito a (ex.: cuidado que podem cair).; Ter autorização ou permissão para (ex.: os filhos dele ainda não podem sair até tarde).; Estar em condições para (ex.: posso conduzir porque não bebi álcool).
+**Prestígio**: Influência, importância decorrente de algo ou alguém tido como admirável.; DESPRESTÍGIO; Valor associado às qualidades de algo ou alguém.; Ilusão produzida por artes sobrenaturais.; PRESTIDIGITAÇÃO
+**Paz**: Quietação de ânimo.; Sossego, tranquilidade; Ausência de guerra, de dissensões.; Boa harmonia.; Concórdia, reconciliação.

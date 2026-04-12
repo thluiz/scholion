@@ -52,3 +52,58 @@ Para 安, as fontes concordam na decomposição 宀+女 e no significado de quie
 **Paz** – do Lat. *pax, pacis*: quietação de ânimo; sossego, tranquilidade; ausência de guerra; concórdia, reconciliação.
 
 **Comunicar** – do Lat. *communico, -are* (pôr em comum, repartir): estabelecer comunicação; informar; transmitir; propagar.
+
+## Fontes Consultadas
+
+### Chinese Etymology — hanziyuan.net (Richard Sears)
+
+#### 安
+
+安: Found 1 etymologies and 80 characters in 0.011 seconds. E00077 安5B89 → 安5B89
+Main pronunciation 主要发音: ān
+Original meaning 本义: Meaning peaceful.
+English senses 英语理解: peaceful, tranquil, quiet
+Shuowen 说文解字: 靜也從女在宀下
+Character decomposition 字形分解 [?]:
+Compound 安
+from building 宀 mián and
+Oracle characters 甲骨文 (16)
+Bronze characters 金文 (15)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (48)
+
+#### 通
+
+通: Found 1 etymologies and 42 characters in 0.007 seconds. E06156 通901A → 通901A
+Main pronunciation 主要发音: tōng
+Original meaning 本义: Meaning to pass through.
+English senses 英语理解: pass through, common, communicate
+Shuowen 说文解字: 達也從辵甬聲
+Character decomposition 字形分解 [?]:
+Compound 通
+from road-and-foot 辶辶辵 chuò and
+phonetic bucket-path 甬 yǒng.
+Oracle characters 甲骨文 (0)
+Bronze characters 金文 (6)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (35)
+
+### MDBG Chinese Dictionary
+
+#### 安
+
+安	on1	content/calm/still/quiet/safe/secure/in good health/to find a place for/to install/to fix/to fit/to bring (a charge against sb)/to pacify/to harbor (good intentions)/security/safety/peace/ampere
+
+#### 通
+
+通	tung1	to go through/to know well/(suffix) expert/to connect/to communicate/open/to clear/classifier for letters, telegrams, phone calls etc
+
+### Priberam Dicionário
+
+#### Paz
+
+Quietação de ânimo.; Sossego, tranquilidade; Ausência de guerra, de dissensões.; Boa harmonia.; Concórdia, reconciliação.
+
+#### Comunicar
+
+Pôr em comunicação.; Participar, fazer saber.; Pegar, transmitir.; Estar em comunicação.; Corresponder-se.

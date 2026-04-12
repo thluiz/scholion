@@ -54,3 +54,31 @@ Para 法, a mesma questão de outros nomes: a decomposição moderna 氵+ 去 n�
 **Método** – do Lat. *methodus*, do Gr. *méthodos*: processo racional; ordem, sistema.
 
 **Lótus** – do Lat. *lotus*, do Gr. *lotós*: planta aquática de flores grandes; símbolo de pureza na tradição oriental.
+
+## Fontes Consultadas
+
+### MDBG Chinese Dictionary
+
+**法** (fǎ / faat3): (noun) 1. The short form of France; (adjective) legislative
+
+**蓮** (lián / lin4): lotus
+
+### Chinese Etymology (hanziyuan.net)
+
+**法**: Original meaning: Meaning (orig) a river ford 辦法 bànfǎ - method (now) 法魯 fǎ lǔ - law. Shuowen: 今文省. Decomposition: Compound 法 older 㳒 older 灋 from three-dot-water 氵 shuǐ and (- mythical animal that can tell the difference between right and wrong and save you from the water). Oracle (0), Bronze (0), Seal (1).
+
+**蓮**: Original meaning: Meaning lotus. Shuowen: 芙蕖之實也從艸連聲. Decomposition: Compound 蓮 from grass-top 艹艸 cǎo and phonetic continuous-lian 连連 lián. Oracle (0), Bronze (0), Seal (1).
+
+### CantoDict (cantonese.org)
+
+**法**: faat3
+
+**蓮**: lin4
+
+### Priberam Dicionário
+
+**Lei**: Preceito ou regra estabelecida por direito.; Norma, obrigação.; Religião.; Relação constante entre fenómenos; Quantidade de metal precioso que deve entrar em cada quilograma de metal preparado ou cunhado.
+
+**Método**: Ordem pedagógica na educação.; Tratado elementar.; Processo racional para chegar a determinado fim.; Maneira de proceder.; Processo racional para chegar ao conhecimento ou demonstração da verdade.
+
+**Lótus**: Designação comum a várias plantas da família das ninfeáceas, de folhas esféricas, flores vistosas e sementes comestíveis.; LÓDÃO, LODO, LOTO; Flor dessas plantas.; latim lotos ou lotus, -i.; Deve-se escrever O contrato termina automaticamente na data aniversária ou na data aniversário?

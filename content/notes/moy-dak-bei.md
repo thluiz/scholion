@@ -51,3 +51,58 @@ Para 德, o Shuowen define como 升也 ("elevar-se"), leitura que não é óbvia
 **Virtude** – do Lat. *virtus, -utis*: disposição constante do espírito para o bem; qualidade moral; propriedade; vigor.
 
 **Precioso** – do Lat. *pretiosus, -a, -um* (de *pretium*, preço): de grande valor; magnífico; sumptuoso; nobre.
+
+## Fontes Consultadas
+
+### Chinese Etymology — hanziyuan.net (Richard Sears)
+
+#### 德
+
+德: Found 2 etymologies and 56 characters in 0.013 seconds. E01127 德5FB7 → 德5FB7 E08738 惪60EA → 德5FB7
+Main pronunciation 主要发音: dé
+Original meaning 本义: Meaning ethics.
+English senses 英语理解:
+Shuowen 说文解字: 升也從彳𢛳聲
+Character decomposition 字形分解 [?]:
+Compound 德
+from road-left 彳 chì and
+related phonetic simple-virtue 惪悳 dé
+Oracle characters 甲骨文 (0)
+Bronze characters 金文 (42)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (12)
+
+#### 貴
+
+貴: Found 1 etymologies and 21 characters in 0.009 seconds. E08853 貴8CB4 → 贵8D35
+Main pronunciation 主要发音: guì
+Original meaning 本义: Meaning expensive.
+English senses 英语理解: expensive, costly, valuable
+Shuowen 说文解字: 物不賤也從貝臾聲臾古人蕢
+Character decomposition 字形分解 [?]:
+Compound 貴 older 䝿
+from cowry (贝)貝 bèi and
+Oracle characters 甲骨文 (0)
+Bronze characters 金文 (0)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (20)
+
+### MDBG Chinese Dictionary
+
+#### 德
+
+德	dak1	virtue/goodness/morality/ethics/kindness/favor/character/kind
+
+#### 貴
+
+貴	gwai3	(adjective) 1. important; 2. valuable; (formal polite expression) 3. Yours
+
+### Priberam Dicionário
+
+#### Virtude
+
+Disposição constante do espírito que nos induz a exercer o bem e evitar o mal.; Conjunto de todas ou qualquer das boas qualidades morais.; Acção; Austeridade no viver.; Castidade, pudicícia.
+
+#### Precioso
+
+De grande preço ou valor comercial (ex.: gema preciosa).; Magnífico.; Muito rico.; Afectado; Sumptuoso

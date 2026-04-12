@@ -52,3 +52,39 @@ Para 奜, o MDBG regista a decomposição 大 + 非 com o sentido de grandioso. 
 **Grandeza** – de *grande*, do Lat. *grandis*: qualidade do que é grande; magnificência; importância.
 
 **Claridade** – do Lat. *claritas, -atis* (brilho): qualidade do que é claro; luminosidade; transparência; lucidez.
+
+## Fontes Consultadas
+
+### MDBG
+
+奜	NOT_FOUND	NOT_FOUND
+明	ming4	Ming Dynasty (1368-1644)/surname Ming/Ming (c. 2000 BC), fourth of the legendary Flame Emperors, 炎帝[Yan2 di4] descended from Shennong 神農|神农[Shen2 nong2] Farmer God
+
+### Chinese Etymology
+
+=== 奜 ===
+奜: Found 0 etymologies and 0 characters in 0.000 seconds. Unicode standard: U+595C .
+
+=== 明 ===
+明: Found 1 etymologies and 80 characters in 0.027 seconds. E09113 明660E → 明660E
+Main pronunciation 主要发音: míng
+Original meaning 本义: Meaning bright.
+English senses 英语理解: bright, light, brilliant; clear
+Shuowen 说文解字: 古文明從日
+Character decomposition 字形分解 [?]:
+Compound 明 older 朙
+from (rem- 日 rì) from
+Oracle characters 甲骨文 (19)
+Bronze characters 金文 (27)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (33)
+
+### CantoDict
+
+奜	NOT_FOUND	NOT_FOUND
+明	ming4	Ming Dynasty (1368-1644)/surname Ming/Ming (c. 2000 BC), fourth of the legendary Flame Emperors, 炎帝[Yan2 di4] descended from Shennong 神農|神农[Shen2 nong2] Farmer God
+
+### Priberam
+
+Grandeza		Qualidade de grande; tamanho; extensão; altura; comprimento.; Excelência (em coragem, magnanimidade, etc.).; Fausto, pompa, opulência.; Nobreza.; Dignidade, hierarquia.
+Claridade		Efeito da luz, normalmente da luz natural.; LUMINOSIDADE; ESCURIDÃO, OBSCURIDADE; Brilho, esplendor.; Qualidade do que é expresso de uma forma que se percebe facilmente.

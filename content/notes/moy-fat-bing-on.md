@@ -65,3 +65,26 @@ Para 法, o Shuowen Jiezi regista apenas 今文省 para a forma simplificada. O 
 **Soldado** – do Lat. *solidatus* (aquele que recebe soldo): militar; combatente.
 
 **Paz** – do Lat. *pax, pacis*: tranquilidade; ausência de conflito.
+
+## Fontes Consultadas
+
+### MDBG Chinese Dictionary
+**法** (fǎ / faat3): (noun) 1. The short form of France; (adjective) legislative
+**兵** (bīng / bing1): a male who serves a female whole-heartedly without winning her heart; a status between friend and boyfriend (Cantonese)
+**安** (ān / on1): content/calm/still/quiet/safe/secure/in good health/to find a place for/to install/to fix/to fit/to bring (a charge against sb)/to pacify/to harbor (good intentions)/security/safety/peace/ampere
+
+### Chinese Etymology (hanziyuan.net)
+**法**: Original meaning: Meaning (orig) a river ford 辦法 bànfǎ - method (now) 法魯 fǎ lǔ - law. Shuowen: 今文省. Decomposition: Compound 法 older 㳒 older 灋 from three-dot-water 氵 shuǐ and (- mythical animal that can tell the difference between right and wrong and save you from the water). Oracle (0), Bronze (0), Seal (1).
+**兵**: Original meaning: Meaning solder. Shuowen: 械也從廾持斤并力之貌. Decomposition: from two-hands-below 廾 gǒng and. Oracle (3), Bronze (6), Seal (1).
+**安**: Original meaning: Meaning peaceful. Shuowen: 靜也從女在宀下. Decomposition: Compound 安 from building 宀 mián and. Oracle (16), Bronze (15), Seal (1).
+
+### CantoDict (cantonese.org)
+**法**: faat3
+**兵**: bing1
+**安**: on1
+
+### Priberam Dicionário
+**Lei**: Preceito ou regra estabelecida por direito.; Norma, obrigação.; Religião.; Relação constante entre fenómenos; Quantidade de metal precioso que deve entrar em cada quilograma de metal preparado ou cunhado.
+**Método**: Ordem pedagógica na educação.; Tratado elementar.; Processo racional para chegar a determinado fim.; Maneira de proceder.; Processo racional para chegar ao conhecimento ou demonstração da verdade.
+**Soldado**: Militar sem graduação.; Qualquer militar.; O que milita numa bandeira qualquer ou que serve um partido ou ideia; Ave passeriforme (Icterus cayanensis) da família dos icterídeos.; ENCONTRO, INHAPIM, NHAPIM
+**Paz**: Quietação de ânimo.; Sossego, tranquilidade; Ausência de guerra, de dissensões.; Boa harmonia.; Concórdia, reconciliação.

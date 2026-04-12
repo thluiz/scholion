@@ -49,3 +49,50 @@ Para 范, o MDBG decompõe em 艹 + 氾 e trata como forma simplificada de 範 (
 **Modelo** – do It. *modello*, do Lat. *modulus* (medida pequena): padrão a imitar; exemplo; molde.
 
 **Altura** – do Lat. *altitudo, -inis* (de *altus*, alto): dimensão vertical; elevação; grandeza.
+
+## Fontes Consultadas
+
+### MDBG
+
+范	NOT_FOUND	NOT_FOUND
+高	gou1	high/tall/above average/loud/your (honorific)
+
+### Chinese Etymology
+
+=== 范 ===
+范: Found 2 etymologies and 20 characters in 0.006 seconds. E01499 范8303 → 范8303 E01505 範7BC4 → 范8303
+Main pronunciation 主要发音: fàn
+Original meaning 本义: Meaning (orig) a bee (now) range or form see 範.
+English senses 英语理解:
+Shuowen 说文解字: 艸也從艸氾聲
+Character decomposition 字形分解 [?]:
+Compound 范
+from grass-top 艹艸 cǎo and
+phonetic overflow 氾 fàn
+Oracle characters 甲骨文 (0)
+There is no known oracle characters found. 没有已知的甲骨文.
+Bronze characters 金文 (0)
+There is no known bronze characters found. 没有已知的金文.
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (16)
+Main pronunciation 主要发音: fàn
+Original meaning 本义: Meaning range
+
+=== 高 ===
+高: Found 1 etymologies and 113 characters in 0.000 seconds. E01786 高9AD8 → 高9AD8
+Main pronunciation 主要发音: gāo
+Original meaning 本义: Meaning tall
+English senses 英语理解: high, tall; lofty, elevated
+Shuowen 说文解字: 崇也象臺觀高之形從冂口與倉舍同意凡高之屬皆從高
+Character decomposition 字形分解 [?]:
+Oracle characters 甲骨文 (60)
+
+### CantoDict
+
+范	NOT_FOUND	NOT_FOUND
+高	gou1	high/tall/above average/loud/your (honorific)
+
+### Priberam
+
+Modelo		Imagem, desenho ou objecto; Molde, exemplar.; Coisa ou pessoa que é ou merece ser imitada.; EXEMPLO; Pessoa que posa para artistas, servindo de modelo vivo.
+Altura		Dimensão de alto a baixo.; Elevação acima de um ponto.; Eminência; altitude.; Profundidade.; Época em que algo sucede ou decorre (ex.: vocês chegaram na altura certa).

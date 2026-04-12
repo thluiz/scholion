@@ -43,3 +43,18 @@ Para 紗, as fontes concordam na estrutura 糹+ 少. O hanziyuan.net (Richard Se
 **Gaze** – do Fr. *gaze*, possivelmente de Gaza (cidade): tecido muito fino e transparente; pano leve de trama aberta.
 
 **Seda** – do Lat. *seta, -ae* (pelo, cerda, e depois o tecido): tecido produzido pelo bicho-da-seda; fibra têxtil fina e lustrosa.
+
+## Fontes Consultadas
+
+### MDBG Chinese Dictionary
+**紗** (shā / saa1): gauze, thin silk; yarn, thread
+
+### Chinese Etymology (hanziyuan.net)
+**紗**: Original meaning: Meaning yarn. Shuowen: (sem entrada). Decomposition: Compound 紗 from single-thread (纟)糹 mì and related phonetic four-strokes-few 少 shǎo. Oracle (0), Bronze (0), Seal (0).
+
+### CantoDict (cantonese.org)
+**紗**: saa1
+
+### Priberam Dicionário
+**Gaze**: Tecido leve e transparente.; GAZA; Tecido esterilizado, poroso, usado em curativos e outros procedimentos médicos.; francês gaze.; Confrontar: gás, gaz.
+**Seda**: Tecido feito com esse fio.; Fio delgado e brilhante produzido pela larva do bicho-da-seda para construir o casulo que a envolve.; Tecido feito com esse fio.; Pêlo; Cada um dos pêlos

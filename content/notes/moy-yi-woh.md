@@ -52,3 +52,20 @@ Para 依, o Shuowen Jiezi define como 倚也, "apoiar-se, encostar", e decompõe
 **Apoiar** – de *a-* + *poio* (banco, assento): servir de sustentação; dar suporte; amparar; auxiliar.
 
 **Harmonia** – do Lat. *harmonia*, do Gr. *harmonía* (ajuste, acordo): concordância entre as partes; equilíbrio; consonância.
+
+## Fontes Consultadas
+
+### MDBG Chinese Dictionary
+**依** (yī / ji1): to depend on/to comply with or listen to sb/according to/in the light of
+**和** (hé / wo4): and/together with/with/sum/union/peace/harmony/Taiwan pr. [han4] when it means "and" or "with"
+
+### Chinese Etymology (hanziyuan.net)
+**依**: Original meaning: Meaning depends on. Shuowen: 倚也從人衣聲. Decomposition: Compound 依 from person-left 亻 rén and related phonetic cloths 衣 yī. Oracle (3), Bronze (1), Seal (1).
+**和**: Original meaning: Meaning harmony, and. Shuowen: 相應也從口禾聲. Decomposition: Compound 和 flip-variant 咊 from mouth 口 kǒu and phonetic grain 禾 hé. Oracle (0), Bronze (3), Seal (1).
+
+### CantoDict (cantonese.org)
+**依**: ji1
+**和**: wo4
+
+### Priberam Dicionário
+**Harmonia**: Conjunto de sons que constituem acorde musical.; Arte de ordenar os acordes musicais.; Qualidades que tornam a frase ou o discurso agradável ao ouvido.; Boa disposição (no conjunto).; Proporção, ordem agradável à vista.

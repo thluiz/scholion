@@ -49,3 +49,21 @@ Para 崎, as fontes concordam na decomposição 山 (montanha) + 奇 (fonético/
 **Terreno** – do Lat. *terrenum* (de terra): extensão de terra; solo; campo.
 
 **Simples** – do Lat. *simplex, -icis* (sem dobra): que não é composto; fácil; despretensioso; puro.
+
+## Fontes Consultadas
+
+### MDBG Chinese Dictionary
+**崎** (qí / kei1): mountainous
+**單** (dān / daan1): bill/list/form/single/only/sole/odd number/CL:個|个[ge4]
+
+### Chinese Etymology (hanziyuan.net)
+**崎**: Original meaning: Meaning rough. Shuowen: (sem entrada). Decomposition: Compound 崎 from mountain 山 shān and phonetic person-riding 奇 qí. Oracle (0), Bronze (0), Seal (0).
+**單**: Original meaning: Meaning (orig) a cicada (now) BFS single. Shuowen: 大也從吅**吅亦聲闕. Decomposition: from (rem- 吅 xuān). Oracle (4), Bronze (13), Seal (1).
+
+### CantoDict (cantonese.org)
+**崎**: kei1
+**單**: daan1
+
+### Priberam Dicionário
+**Terreno**: Porção de terra cultivável.; Relativo ao planeta Terra.; TERREAL, TERRENHO, TERRESTRE; Semelhante à terra.; TERROSO
+**Simples**: Que não tem o limbo dividido, por oposição a composto (ex.: folhas simples).; Que não resulta da junção de vários elementos ou de várias partes; que tem apenas um elemento ou constituinte.; INCOMPLEXO, SINGELO; COMPLEXO, COMPOSTO; Que se faz ou resolve com facilidade; que não implica dificuldade (ex.: era um brinquedo muito simples de construir).
