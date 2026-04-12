@@ -16,6 +16,12 @@ sources:
     author: "Richard Sears"
     url: "https://hanziyuan.net"
     kind: wiki
+  - title: "教育部異體字字典"
+    url: "https://chardb.iis.sinica.edu.tw"
+    kind: wiki
+  - title: "小學堂 Xiaoxue Tang"
+    url: "https://xiaoxue.iis.sinica.edu.tw"
+    kind: wiki
 ---
 
 **梅馬佚**
@@ -31,18 +37,20 @@ Nome kung fu de Mayara Galvão Palmeira.
 
 ### 馬 (mǎ / maa5)
 
-Pictograma. O Shuowen Jiezi define: 怒也武也象馬頭髦尾四足之形, "fúria e marcialidade; representa a forma da cabeça, crina, cauda e quatro patas do cavalo." A forma em ossos oraculares mostrava o animal de perfil: cabeça, crina, corpo e quatro patas. Um dos pictogramas mais antigos e mais documentados, com dezenas de variantes arcaicas.
+Pictograma. O Shuowen Jiezi define: 怒也武也象馬頭髦尾四足之形, "fúria e marcialidade; representa a forma da cabeça, crina, cauda e quatro patas do cavalo." A forma em ossos oraculares mostrava o animal de perfil: cabeça, crina, corpo e quatro patas. O xiaoxue regista 35 formas: 4 em osso de oráculo (商 Shang), 13 em bronze, 7 em textos dos Reinos Combatentes, 3 selos e 8 clerical (do Qin aos Jin Ocidentais).
 
 ### 佚 (yì / jat6)
 
 亻(rén) – pessoa
 失 (shī) – perder
 
-Pessoa que se perde, ou que escapa ao comum. O caractere carrega dois sentidos paralelos: o que se perdeu (textos 佚, obras desaparecidas) e o que ultrapassa a norma (佚才, talento extraordinário). O que está além do ordinário é o que não se encontra entre os demais.
+Pessoa que se perde, ou que escapa ao comum. O Shuowen define 佚 como 佚民也, "pessoa reclusa", e acrescenta: 一曰佚忽也, "também: negligência". Duàn Yùcái anota que 佚民 é a forma original, e 逸民 é empréstimo fonético. O chardb lista 14 acepções: 遺棄 ("abandonar"), 散失 ("perder-se, dispersar-se"), 過失 ("erro"), 忘 ("esquecer"), 放蕩 ("licencioso"), 美 ("belo"), 通「逸」 ("conforto; fuga"), 通「秩」 ("ordem"), 超越 ("ultrapassar"), 通「佾」 ("fileira de dançarinos"), entre outras. O xiaoxue regista 5 formas: 1 selo (Shuowen) e 4 clerical (do Han Ocidental ao Han Oriental), sem formas oraculares ou em bronze.
 
 ### Divergências entre fontes
 
-Para 馬, as fontes concordam: pictograma puro, sem decomposição semântica. O Shuowen acrescenta 怒也武也 ("fúria e marcialidade"), que é leitura simbólica, não etimológica. O hanziyuan.net (Richard Sears) confirma as dezenas de variantes em ossos oraculares sem subscrever a conotação marcial. Para 佚, o MDBG decompõe em 亻+ 失 (pessoa + perder). O hanziyuan.net (Richard Sears) confirma os mesmos componentes (亻+ fonético 失) mas define o sentido original como "entregar-se a prazeres; fugir" (indulge in pleasures; flee), sem referir o sentido de "extraordinário". O caractere não possui formas em ossos oraculares nem em bronze. O Shuowen Jiezi define 佚 como 佚民也從人失聲一曰佚忽也, com ênfase no sentido de "pessoa reclusa" e "negligência". A leitura de "extraordinário" ou "talento que excede o comum" aparece no MDBG e no uso corrente mas não no hanziyuan.net nem no Shuowen.
+**馬.** As fontes concordam: pictograma puro, sem decomposição semântica. O Shuowen acrescenta 怒也武也 ("fúria e marcialidade"), leitura simbólica não etimológica. O hanziyuan.net lista 84 formas em osso de oráculo; o xiaoxue regista 35 formas no total (4 oraculares). Nenhuma fonte discorda quanto à natureza pictográfica.
+
+**佚.** O MDBG não tem entrada para 佚 em cantonês. O hanziyuan.net define o sentido original como "entregar-se a prazeres; fugir" (indulge in pleasures; flee), sem referir "extraordinário". O Shuowen define como 佚民也 ("pessoa reclusa") e 佚忽也 ("negligência"). O chardb acrescenta acepções importantes: 美 ("belo"), 超越 ("ultrapassar"), 通「逸」 ("conforto, fuga") e 通「佾」 ("fileira de dançarinos"). A leitura de "extraordinário" ou "talento que excede o comum" não aparece directamente em nenhuma fonte académica; é derivação do sentido 超越 ("ultrapassar") do chardb e do uso corrente 佚才. O xiaoxue regista 5 formas (todas tardias: 1 selo, 4 clerical), contra 0 oraculares e 0 bronze também no hanziyuan.net — confirmando formação pós-arcaica.
 
 ## Etimologia do Português
 
@@ -89,6 +97,55 @@ Liushutong characters 六书通的字 (2)
 #### 佚
 
 佚	Sem entrada.
+
+### Academia Sinica — 教育部異體字字典 (chardb)
+
+**佚** — U+4F5A · 部首: 人 · 總筆畫: 7 · 注音: ㄧˋ / ㄉㄧㄝˊ · 拼音: yì / dié
+1. 遺棄。 (To abandon; to renounce.)
+2. 散失。 (To become lost or scattered.)
+3. 過失。 (A mistake or error.)
+4. 忘。 (To forget; to be negligent.)
+5. 放蕩。 (Licentious; unrestrained.)
+6. 美。 (Beauty.)
+7. 舉。 (To raise; to lift.)
+8. 通「逸」。安閒、逃亡。 (Variant of 逸: comfort/ease; escape/flight.)
+9. 通「呹」。疾。 (Variant of 呹: rapidity.)
+10. 通「秩」。次序。 (Variant of 秩: order; sequence.)
+11. 超越。 (To exceed; to surpass.)
+12. 通「佾」。舞列。 (Variant of 佾: a line of dancers.)
+13. 姓。 (Surname.)
+14. 通「迭」。更迭。 (Variant of 迭: alternation; succession.)
+
+### Academia Sinica — 小學堂 (xiaoxue)
+
+#### 馬 — 字形演變 (Character Form Evolution)
+
+甲骨文 Oracle: 鐵2.2, 商 Shang; 乙9092, 商 Shang; 甲1286, 商 Shang; 林1.23.20, 商 Shang.
+金文 Bronze: 戊寅作父丁方鼎, 商代晚期 late Shang; (+ 12 forms, from mid Western Zhou to late Warring States).
+Total: 35 forms.
+
+說文解字: 「馬，怒也；武也。象馬頭髦尾四足之形。」
+
+古音 (shangguyin):
+- 廣韻 (Middle Chinese): 假攝 jiǎ division, 上聲 rising tone, 馬韻 mǎ rhyme, 明母 míng initial, 開口二等 open-mouth 2nd division, 次濁 voiced sonorant. 反切 fanqie: 莫下切.
+- 上古音 Old Chinese (王力 Wang Li): 魚部 yú rhyme group, initial m, rhyme ea.
+- 上古音 Old Chinese (李方桂 Li Fang-Kuei): 魚部 yú rhyme group, initial m, rhyme ragx.
+- 國語 Mandarin: ㄇㄚˇ mǎ [ma]
+
+#### 佚 — 字形演變 (Character Form Evolution)
+
+小篆 Seal: 說文‧人部 Shuowen, person radical.
+隸書 Clerical: 孫臏19, 西漢 Western Han; 永平七年尚方鏡, 東漢 Eastern Han; 婁壽碑, 東漢 Eastern Han; 石經論語殘碑, 東漢 Eastern Han.
+Total: 5 forms.
+
+說文解字: 「佚，佚民也。从人，失聲。一曰：佚，忽也。」 (Yì: a recluse. From 人 [person] with 失 [to lose] as phonetic. Also: negligence.)
+段玉裁注：「許書作佚民，正字也。作逸民者，假借字。佚从人，故為佚民字也。」 (Duan Yucai: "The Shuowen writes 佚民, which is the correct form. 逸民 is a phonetic loan. Since 佚 contains 人, it is the proper character for 'recluse'.")
+
+古音 (shangguyin):
+- 廣韻 (Middle Chinese): 臻攝 zhēn division, 入聲 entering tone, 質韻 zhì rhyme, 以母 yǐ initial, 開口三等 open-mouth 3rd division, 次濁 voiced sonorant. 反切 fanqie: 夷質切.
+- 上古音 Old Chinese (王力 Wang Li): 質部 zhì rhyme group, initial ʎ, rhyme ǐet.
+- 上古音 Old Chinese (李方桂 Li Fang-Kuei): 脂部 zhī rhyme group, initial r, rhyme it.
+- 國語 Mandarin: ㄧˋ yì [i]
 
 ### Priberam Dicionário
 

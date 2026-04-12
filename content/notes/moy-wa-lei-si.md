@@ -16,6 +16,12 @@ sources:
     author: "Richard Sears"
     url: "https://hanziyuan.net"
     kind: wiki
+  - title: "教育部異體字字典"
+    url: "https://chardb.iis.sinica.edu.tw"
+    kind: wiki
+  - title: "小學堂 Xiaoxue Tang"
+    url: "https://xiaoxue.iis.sinica.edu.tw"
+    kind: wiki
 ---
 
 **梅華利⼠**
@@ -51,7 +57,11 @@ Forma de radical Kangxi (⼠) em vez do caractere padrão 士. Pictograma de um 
 
 ### Divergências entre fontes
 
-Para 華, o MDBG decompõe em 艹 (planta) + componente inferior ligado a 花. O hanziyuan.net (Richard Sears) decompõe 華 como composto de 艹 (erva) + 𠌶 (huá, primitivo de flor), não como pictograma indivisível. Não registra formas em osso de oráculo (甲骨文 0), mas tem 10 formas em bronze. O Shuowen concorda com o sentido de florescência (榮也) e analisa como 從艹從𠌶. Para 利, as três fontes concordam na decomposição 禾 + 刂 e no sentido de afiado/benefício. Para ⼠, o MDBG e o Shuowen tratam 士 como composto de 十 + 一. O hanziyuan.net classifica como pictograma independente, sem confirmar a decomposição numérica nem a leitura do machado de guerra.
+**華.** As fontes concordam na decomposição 艹 + 𠌶 e no sentido de flor/florescência. O Shuowen define como 「榮也」 ("florescência") e o chardb (Academia Sinica) confirma como definição 1: 同「花」 (sinónimo de flor). O chardb lista 30 acepções, revelando uma amplitude semântica que as outras fontes não captam: 青春，年華 (def. 8, "juventude"), 文才 (def. 9, "talento literário"), 華夏 (def. 16, nome antigo da China), 黃色 (def. 20, "cor amarela"), 不當；不正 (def. 30, "improper"). O MDBG só lista "flower/blossom/fancy pattern/florid", omitindo tanto o sentido geográfico de China quanto as acepções negativas. O hanziyuan.net diverge: não regista formas oraculares (0 甲骨文), mas tem 10 em bronze; o xiaoxue corrige com 7 formas, incluindo 1 bronze da primavera-outono tardia (𪒠鐘) e selos Qin. O xiaoxue cita 高鴻縉 explicando que 華 foi empréstimo para "esplendor", e que 花 (flor) é criação posterior das Seis Dinastias.
+
+**利.** As fontes convergem na decomposição 禾 + 刀. O chardb acrescenta acepções como 和 (def. 2, "harmonioso") e 古代祭祖禮儀中侍奉尸的人 (def. 12, "serviçal nos ritos ancestrais"), ausentes do MDBG. O xiaoxue cita 屈翼鵬 que propõe 利 como forma primitiva de 犂 (arado).
+
+**⼠.** O MDBG e o Shuowen tratam 士 como composto de 十 + 一 (孔子曰：推十合一為士). O hanziyuan.net classifica como pictograma independente, sem confirmar a decomposição numérica. O chardb não foi consultado para este caractere por se tratar da forma de radical Kangxi (⼠).
 
 ## Etimologia do Português
 
@@ -120,6 +130,97 @@ Liushutong characters 六书通的字 (9)
 華		flower/blossom/CL:朵[duo3],支[zhi1],束[shu4],把[ba3],盆[pen2],簇[cu4]/fancy pattern/florid/to spend (money, time)
 利	lei6	sharp/favorable/advantage/benefit/profit/interest/to do good to/to benefit
 士	si6	member of the senior ministerial class (old)/scholar (old)/bachelor/honorific/first class military rank/specialist worker
+
+### Academia Sinica — 教育部異體字字典 (chardb)
+
+**華** — U+83EF · 部首: 艸 · 總筆畫: 10 · 注音: ㄏㄨㄚ · 拼音: huā/huá/huà
+1. 同「花」。 (Synonymous with "flower".)
+2. 開花。 (To bloom or flower.)
+3. 脈象細弱。 (A delicate pulse condition in medicine.)
+4. 昏花不明。 (Dimmed or blurred vision.)
+5. 剖開。 (To split or divide.)
+6. 光彩。 (Radiance; luminous quality.)
+7. 時光。 (The passage of time.)
+8. 青春，年華。 (Youth; youthfulness.)
+9. 文才。 (Literary refinement or talent.)
+10. 聲譽。 (Reputation or renown.)
+11. 紋彩、彩飾。 (Colorful; ornamental.)
+12. 華麗；美好。 (Splendid; beautiful.)
+13. 鮮美。 (Fresh and appealing.)
+14. 精華。 (Essence; quintessence.)
+15. 敬稱他人。 (Respectful term for others.)
+16. 華夏。 (Ancient name for China.)
+17. 中國語文。 (Chinese language.)
+18. 昌盛。 (Prosperity; flourishing.)
+19. 高貴。 (Nobility; high status.)
+20. 黃色。 (Yellow color.)
+21. 粉。 (Powder or dust.)
+22. 浮華。 (Superficiality; ostentation.)
+23. 白髮。 (Gray or graying hair.)
+24. 車蓋。 (A carriage canopy.)
+25. 瓜實。 (Fruit of gourd-type plants.)
+26. 通「譁」。 (Variant of 譁, clamor.)
+27. 華山。 (Mount Hua in Shaanxi.)
+28. 木名，後作「樺」。 (A tree species, later written as 樺.)
+29. 姓。 (Surname.)
+30. 不當；不正。 (Improper; incorrect.)
+
+**利** — U+5229 · 部首: 刂 · 總筆畫: 7 · 注音: ㄌㄧˋ · 拼音: lì
+1. 鋒利。 (Sharp; keen-edged.)
+2. 和。 (Harmonious; peaceful.)
+3. 靈便，利落。 (Nimble; agile.)
+4. 疾，迅猛。 (Swift; rapid.)
+5. 吉；順利。 (Auspicious; fortunate.)
+6. 善，優良；美好。 (Good; excellent; fine.)
+7. 利益。 (Benefit; advantage.)
+8. 有利。 (Favorable; advantageous.)
+9. 富饒。 (Fertile; abundant.)
+10. 貪；喜愛。 (Greedy; fond of.)
+11. 贏利；利息。 (Profit; interest.)
+12. 古代祭祖禮儀中侍奉尸的人。 (Attendant in ancestor worship rituals.)
+13. 古代泄瀉滯下症，後作「痢」。 (Intestinal disorder, later written as 痢.)
+14. 古代通「賴」。憑藉。 (Variant of 賴: to rely upon.)
+15. 古州名。 (Ancient place name.)
+16. 古縣名。 (Ancient county name.)
+17. 水名。 (River name.)
+18. 姓。 (Surname.)
+
+### Academia Sinica — 小學堂 (xiaoxue)
+
+#### 華 — 字形演變 (Character Form Evolution)
+
+金文 Bronze: 𪒠鐘, 春秋晚期 late Spring and Autumn.
+戰國文字 Warring States: 陶彙6.184, 戰國.秦 Warring States, Qin.
+小篆 Seal: 說文‧華部 Shuowen, flower radical.
+隸書 Clerical: 睡虎地簡5.34, 秦 Qin; 老子乙176下, 西漢 Western Han; 禮器碑, 東漢 Eastern Han; 熹.春秋.昭十二年, 東漢 Eastern Han.
+Total: 7 forms.
+
+說文解字: 「華，榮也。从艸，从𠌶。」 (Huá: florescence/blooming. From 艸 [grass] and 𠌶 [flower-primitive].)
+相關解說: 段玉裁注：「𠌶與華音義皆同。」高鴻縉《中國字例》：「按字原象形，甲文用為祭名。秦人或加艸為意符，遂有華字。及後華借用為光華意，秦漢人乃另造荂，荂見《方言》。六朝人又另造花字。日久而華字為借意所專，荂字少用，花字遂獨行。」 (Duan Yucai: "𠌶 and 華 have the same sound and meaning." Gao Hongjin: "Originally a pictograph, used in oracle bone script as a sacrifice name. Qin people added 艸 as a semantic indicator, creating 華. Later 華 was borrowed for 'splendor', so Han people created 荂. Six Dynasties people created 花. Over time 華 was monopolized by the borrowed meaning, and 花 became the standard word for flower.")
+
+古音 (shangguyin):
+- 廣韻 (Middle Chinese): 假攝 jiǎ division, 平聲 level tone, 麻韻 má rhyme, 曉母 xiǎo initial, 合口二等 closed-mouth 2nd division, 次清 voiceless aspirated. 反切 fanqie: 呼瓜切. 又音: 胡化/戶花.
+- 上古音 Old Chinese (王力 Wang Li): 魚部 yú rhyme group, initial h, rhyme oa.
+- 上古音 Old Chinese (李方桂 Li Fang-Kuei): 魚部 yú rhyme group, initial hw, rhyme rag.
+- 國語 Mandarin: ㄏㄨㄚ huā [xua]
+
+#### 利 — 字形演變 (Character Form Evolution)
+
+甲骨文 Oracle: 粹1505, 商 Shang; 粹673, 商 Shang.
+金文 Bronze: 師遽方彝, 西周中期 mid Western Zhou; 利鼎, 西周中期 mid Western Zhou; 燕王喜矛, 戰國晚期.燕 late Warring States, Yan.
+戰國文字 Warring States: 璽彙2710, 戰國.晉 Warring States, Jin; 璽彙2711, 戰國.晉 Warring States, Jin; 包2.122, 包2.135, 包2.143, 戰國.楚 Warring States, Chu; 璽彙2558, 戰國.楚 Warring States, Chu.
+小篆 Seal: 說文古文; 說文‧刀部 Shuowen, knife radical.
+隸書 Clerical: 睡.秦2, 秦 Qin; 縱橫家書10, 西漢 Western Han; 孫子39, 西漢 Western Han; 石門頌, 東漢 Eastern Han; 熹.易.益, 東漢 Eastern Han.
+Total: 18 forms.
+
+說文解字: 「利，銛也。从刀；和然後利，从和省。《易》曰：『利者，義之和也。』」 (Lì: sharp. From 刀 [knife]; harmony then sharpness, from an abbreviated form of 和. The Yijing says: "Benefit is the harmony of rightness.")
+相關解說: 屈翼鵬《殷虛文字甲編考釋》：「按，利當是犂之初文。從禾，從刀。其小點當象犂出之土𠙹也。」 (Qu Yipeng: "利 is likely the original form of 犂 [plow]. From 禾 [grain] and 刀 [knife]. The small dots represent clods turned by the plow.")
+
+古音 (shangguyin):
+- 廣韻 (Middle Chinese): 止攝 zhǐ division, 去聲 departing tone, 至韻 zhì rhyme, 來母 lái initial, 開口三等 open-mouth 3rd division, 次濁 voiced sonorant. 反切 fanqie: 力至切.
+- 上古音 Old Chinese (王力 Wang Li): 脂部 zhī rhyme group, initial l, rhyme ǐei.
+- 上古音 Old Chinese (李方桂 Li Fang-Kuei): 脂部 zhī rhyme group, initial l, rhyme jidh.
+- 國語 Mandarin: ㄌㄧˋ lì [li]
 
 ### Priberam
 

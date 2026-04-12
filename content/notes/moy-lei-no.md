@@ -16,6 +16,12 @@ sources:
     author: "Richard Sears"
     url: "https://hanziyuan.net"
     kind: wiki
+  - title: "教育部異體字字典"
+    url: "https://chardb.iis.sinica.edu.tw"
+    kind: wiki
+  - title: "小學堂 Xiaoxue Tang"
+    url: "https://xiaoxue.iis.sinica.edu.tw"
+    kind: wiki
 ---
 
 **梅利挪**
@@ -23,35 +29,37 @@ sources:
 
 Nome kung fu de Alexander Lennart Formiga Johnsson.
 
-**Lei** (利 lì / lei6) – Benefício, vantagem, afiado.
+**Lei** (利 lì / lei6) -- Benefício, vantagem, afiado.
 
-**No** (挪 nuó / no4) – Mover, deslocar, transferir.
+**No** (挪 nuó / no4) -- Mover, deslocar, transferir.
 
 ## Etimologia no Chinês
 
 ### 利 (lì / lei6)
 
-禾 (hé) – cereal, grão
-刂 (dāo) – faca
+禾 (hé) -- cereal, grão
+刂 (dāo) -- faca
 
-O Shuowen Jiezi define 利 como 銛也从刀从和, "afiado". Uma faca que corta o grão: o que é útil, o que rende fruto. Do corte limpo vem o sentido de benefício e vantagem.
+O Shuowen Jiezi define 利 como 銛也从刀从和, "afiado". O chardb lista 18 acepções, com 鋒利 ("cortante") como def. 1. A faca que corta o grão: o que é útil, o que rende fruto. Do corte limpo vem o sentido de benefício e vantagem.
 
 ### 挪 (nuó / no4)
 
-扌(shǒu) – mão
-那 (nà) – aquele; componente fonético
+扌(shǒu) -- mão
+那 (nà) -- aquele; componente fonético
 
-Mão que desloca algo de um lugar para outro. O radical 扌indica ação manual; 那 fornece o som. Mover, transferir, reposicionar. Ação manual.
+Mão que desloca algo de um lugar para outro. O chardb lista 3 acepções: 同捼搓揉 ("o mesmo que 捼, esfregar", def. 1), 移動 ("mover", def. 2) e 移用借貸 ("transferir fundos, emprestar", def. 3). A def. 1 é reveladora: liga 挪 à forma original 捼, confirmando que o sentido primitivo era o gesto manual de esfregar, não de deslocar. O hanziyuan.net liga explicitamente 挪 à forma 捼, cuja decomposição é 扌+ 委 (mão + fonético 委 wěi). O Shuowen define 捼 como 推也從手委聲一曰兩手相切摩也, "empurrar; ou: esfregar ambas as mãos". O xiaoxue não regista formas para 挪 (0 formas no yanbian), confirmando que o caractere é de formação tardia; a fonologia antiga também é lacunar (sem dados de Chinês Antigo).
 
 ### Divergências entre fontes
 
-Para 利, as três fontes concordam na decomposição 禾+刂 e no sentido de "afiado". O hanziyuan.net (Richard Sears) mostra formas arcaicas onde a faca aparece junto a cereais ou espigas, confirmando a leitura do Shuowen. Não há divergência relevante. Para 挪, o MDBG decompõe em 扌+ 那 (mão + fonético). O hanziyuan.net (Richard Sears) liga 挪 à forma original 捼, decomposta em 扌+ 委 (mão + fonético 委 wěi), não 扌+ 那 como na análise moderna. O Shuowen inclui a forma 捼, definida como 推也從手委聲 ("empurrar, de mão com som 委"). O caractere não aparece em inscrições oraculares nem em bronze. A decomposição moderna 扌+ 那 reflecte uma reanálise gráfica posterior, não a estrutura original.
+**利.** O Shuowen define como 「銛也」 ("afiado") e o chardb confirma com 鋒利 como def. 1. O hanziyuan.net diverge ao dar o significado original como "profit, as from the fields", alinhado com a def. 7 do chardb (利益), não com a def. 1 (鋒利). O MDBG funde sharp/favorable/advantage/benefit sem hierarquia. O xiaoxue preserva a nota de 屈翼鵬 que identifica 利 como forma primitiva de 犂 ("arado"). A fonologia antiga converge: 5 sistemas situam 利 na rima 脂 com inicial l.
+
+**挪.** O chardb dá como def. 1 同捼搓揉 ("esfregar"), confirmando o parentesco com 捼. O MDBG dá apenas to shift/to move. O hanziyuan.net liga 挪 directamente a 捼 (Shuowen: 推也從手委聲), mostrando que a decomposição moderna 扌+ 那 é uma reanálise gráfica posterior. A forma original era 扌+ 委, não 扌+ 那. O xiaoxue não regista formas históricas nem dados de Chinês Antigo para 挪, mas regista a fonologia do Chinês Médio: 果攝, 平聲, 歌韻, 泥母, 開口一等, 次濁, 反切 諾何切.
 
 ## Etimologia do Português
 
-**Benefício** – do Lat. *beneficium*: bem que se faz; vantagem, proveito.
+**Benefício** -- do Lat. *beneficium*: bem que se faz; vantagem, proveito.
 
-**Mover** – do Lat. *movere*: deslocar; mudar de posição; agitar.
+**Mover** -- do Lat. *movere*: deslocar; mudar de posição; agitar.
 
 ## Fontes Consultadas
 
@@ -98,6 +106,63 @@ phonetic that-place
 
 利	lei6	sharp/favorable/advantage/benefit/profit/interest/to do good to/to benefit
 挪	no4	to shift/to move
+
+### Academia Sinica -- 教育部異體字字典 (chardb)
+
+**利** -- U+5229 · 部首: 刂 · 總筆畫: 7 · 拼音: lì
+1. 鋒利。 (Sharp; keen-edged.)
+2. 和。 (Harmony.)
+3. 靈便，利落。 (Agile; nimble.)
+4. 疾，迅猛。 (Swift; fierce.)
+5. 吉；順利。 (Auspicious; smooth.)
+6. 善，優良；美好。 (Good; excellent; fine.)
+7. 利益。與「害」相對。 (Benefit; profit. Opposite of harm.)
+8. 有利；對……有利。 (Advantageous; favorable to.)
+9. 富饒。 (Abundant; wealthy.)
+10. 貪；喜愛。 (Greedy; fond of.)
+11. 贏利；利息。 (Profit; interest.)
+12. 古代祭祖禮儀中侍奉尸的人，亦稱「佐食」。 (In ancient ancestral rites, the person who serves the impersonator of the dead; also called 佐食.)
+13. 古代泄瀉滯下症的通稱。後作「痢」。 (Ancient general term for dysentery; later written as 痢.)
+14. 通「賴」。憑藉。 (Variant of 賴: to rely on.)
+15. 國名。 (Name of a state.)
+16. 地名。 (Place name.)
+17. 水名。 (Name of a river.)
+18. 姓。 (Surname.)
+
+**挪** -- U+632A · 部首: 手 · 總筆畫: 10 · 拼音: nuó
+1. 同「捼」。搓揉。 (Same as 捼: to rub; to knead.)
+2. 移動。 (To move; to shift.)
+3. 移用；借貸。 (To redirect funds; to borrow.)
+
+### Academia Sinica -- 小學堂 (xiaoxue)
+
+#### 利 -- 字形演變 (Character Form Evolution)
+
+甲骨文 Oracle: 粹1505, 商 Shang; 粹673, 商 Shang.
+金文 Bronze: 師遽方彝, 西周中期 mid Western Zhou; 利鼎, 西周中期 mid Western Zhou; 燕王喜矛, 戰國晚期 late Warring States, 燕 Yan.
+戰國文字 Warring States: 璽彙2710, 璽彙2711, 戰國.晉 Warring States, Jin; 包2.122, 包2.135, 包2.143, 戰國.楚 Warring States, Chu; 璽彙2558, 戰國.楚 Warring States, Chu.
+小篆 Seal: 說文古文; 說文‧刀部 Shuowen, knife radical.
+隸書 Clerical: 睡.秦2, 秦 Qin; 縱橫家書10, 西漢 Western Han; 孫子39, 西漢 Western Han; 石門頌, 東漢 Eastern Han; 熹.易.益, 東漢 Eastern Han.
+Total: 18 forms.
+
+說文解字: 「利，銛也。从刀；和然後利，从和省。《易》曰：『利者，義之和也。』」
+
+相關解說: 屈翼鵬《殷虛文字甲編考釋》：「按，利當是犂之初文。從禾，從刀。其小點當象犂出之土𠙹也。」
+
+古音 (shangguyin):
+- 廣韻 (Middle Chinese): 止攝, 去聲, 至韻, 來母, 開口三等, 次濁. 反切: 力至切.
+- 上古音 Old Chinese (高本漢): initial l, rhyme i̯əd. (王力): 脂部, initial l, rhyme ǐei. (董同龢): 脂部, initial l, rhyme jed. (周法高): 脂部, initial l, rhyme ier. (李方桂): 脂部, initial l, rhyme jidh.
+- 國語 Mandarin: ㄌㄧˋ lì [li]
+
+#### 挪 -- 字形演變 (Character Form Evolution)
+
+(sem formas registadas no xiaoxue)
+Total: 0 forms.
+
+古音 (shangguyin):
+- 廣韻 (Middle Chinese): 果攝, 平聲, 歌韻, 泥母, 開口一等, 次濁. 反切: 諾何切.
+- 上古音 Old Chinese: (sem dados)
+- 國語 Mandarin: ㄋㄨㄛˊ nuó [nuo]
 
 ### Priberam
 
