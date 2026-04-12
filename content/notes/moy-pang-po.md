@@ -16,6 +16,12 @@ sources:
     author: "Richard Sears"
     url: "https://hanziyuan.net"
     kind: wiki
+  - title: "教育部異體字字典"
+    url: "https://chardb.iis.sinica.edu.tw"
+    kind: wiki
+  - title: "小學堂 Xiaoxue Tang"
+    url: "https://xiaoxue.iis.sinica.edu.tw"
+    kind: wiki
 ---
 
 **梅彭普**
@@ -34,18 +40,20 @@ Nome kung fu de Claudio Pamplona dos Santos Dias.
 壴 (zhù) – tambor sobre suporte
 彡 (shān) – cerdas, linhas decorativas
 
-Som do tambor ressoando. O componente esquerdo 壴 representa um tambor montado; à direita, 彡 sugere reverberação, as ondas sonoras que se propagam. O Shuowen define 彭 como 鼓聲也, "som de tambor". É também um dos sobrenomes mais antigos da China.
+Som do tambor ressoando. O Shuowen define 彭 como 鼓聲也, "som de tambor". O chardb lista 12 acepções: de onomatopeia (def. 1), aparência de avanço (def. 2), via/caminho (def. 3), nome de estado antigo (def. 4), nomes de água (def. 6), sobrenome (def. 7), proximidade (def. 8), açoitar (defs. 9-10), abundante (def. 11), e 彭湃 = 澎湃 "rugir das ondas" (def. 12). O 《漢語大字典》, citado no xiaoxue, confirma: 「壴，即鼓之初字；彡，為鼓聲之標幟」 ("壴 é a forma original de 鼓; 彡 é o marcador do som do tambor"). O xiaoxue regista 14 formas: 2 oraculares Shang (甲2371, 輔仁93), bronzes desde o início do Zhou Ocidental, e variantes dos Reinos Combatentes em Qi, Chu e Qin.
 
 ### 普 (pǔ / pou2)
 
 並 (bìng) – juntos, lado a lado
 日 (rì) – sol
 
-Sol para todos. Universal. O componente superior 並 indica união, simultaneidade; o inferior 日 é o sol. A imagem é de luz solar que alcança todos por igual. O Shuowen define 普 como 日無色也, registrando o sentido de amplitude e generalidade.
+Sol para todos. O Shuowen define 普 como 日無色也 (na forma original 暜): "sol sem cor particular". O chardb lista 6 acepções: sol sem cor (def. 1), termo tibetano para homem adulto (def. 2), vasto (def. 3), universal/abrangente (def. 4), abreviatura de Prússia (def. 5), e sobrenome (def. 6). O sentido de "universal" (def. 4) é extensão do sentido original de amplitude uniforme. O xiaoxue regista apenas 4 formas: 1 selo (Shuowen), e 3 clerical (Han Ocidental a Han Oriental). Sem atestações em oráculo nem bronze.
 
 ### Divergências entre fontes
 
-Para 彭, as três fontes concordam na decomposição 壴+彡 e na definição "som de tambor" (鼓聲也). O hanziyuan.net (Richard Sears) descreve 彡 especificamente como "drum-beats" (batidas de tambor), reforçando a leitura sonora. O caractere tem 25 atestações em ossos oraculares, confirmando antiguidade. Para 普, o hanziyuan.net decompõe em 並 (two-people-same) + 日, concordando com o MDBG. Não há atestações em ossos oraculares nem bronze. O Shuowen define 普 como 日無色也 ("sol sem cor particular"), uma glosa que aponta para amplitude e não para "universalidade" no sentido moderno. O sentido de "universal" é extensão posterior, não o significado original segundo o Shuowen.
+**彭.** As fontes concordam na decomposição 壴+彡 e na definição "som de tambor" (鼓聲也). O hanziyuan.net descreve 彡 como "drum-beats", e o 《漢語大字典》, citado no xiaoxue, confirma: 壴 é a forma original de 鼓 e 彡 é o marcador sonoro. O chardb expande para 12 acepções, incluindo sentidos ausentes do MDBG: 行進貌 (def. 2, aparência de avanço), 道 (def. 3, caminho), 旁邊 (def. 8, proximidade), 彭湃 (def. 12, ondas rugindo). O MDBG só lista "surname Peng", ignorando o sentido onomatopaico original. O xiaoxue regista 14 formas com 2 oraculares Shang, confirmando antiguidade; o hanziyuan.net lista 25 oraculares — aqui o hanziyuan.net é mais abrangente no corpus oracular.
+
+**普.** O Shuowen define como 「日無色也」 ("sol sem cor"), e o chardb confirma esta como def. 1. O sentido de "universal" aparece como def. 4 (遍，全面) — extensão posterior, não o significado original. O MDBG lista general/popular/everywhere/universal sem distinguir do sentido arcaico. O hanziyuan.net regista o significado original como "universal (orig) meaning sunset", divergindo do Shuowen que diz "sol sem cor", não "pôr do sol". 邵瑛 (Shao Ying), citado no xiaoxue, nota: 「今經典作普」, 「此隸省變」 — a forma corrente 普 é simplificação clerical da forma original 暜. Nenhuma fonte regista formas oraculares ou de bronze; o xiaoxue lista apenas 4 formas (1 selo, 3 clerical), confirmando que o caractere é tardio.
 
 ## Etimologia do Português
 
@@ -89,6 +97,64 @@ Liushutong characters 六书通的字 (8)
 
 彭	paang4	surname Peng
 普	pou2	general/popular/everywhere/universal
+
+### Academia Sinica — 教育部異體字字典 (chardb)
+
+**彭** — U+5F6D · 部首: 彡 · 總筆畫: 12 · 注音: ㄆㄥˊ · 拼音: péng
+1. 狀聲詞。 (Onomatopoeia.)
+2. 行進貌。 (Appearance of advancing.)
+3. 道。 (Way or path.)
+4. 古國名。 (Ancient state name.)
+5. 春秋地名。 (Spring and Autumn period place name.)
+6. 水名。 (Water name.)
+7. 姓。 (Surname.)
+8. 旁邊；近處。 (Side; nearby area.)
+9. 通「篣」。鞭打。 (Variant of 篣; to whip.)
+10. 鞭打。 (To whip or beat.)
+11. 彭彭。盛多貌。 (Abundant; numerous appearance.)
+12. 彭湃。同「澎湃」。 (Surging; equivalent to 澎湃.)
+
+**普** — U+666E · 部首: 日 · 總筆畫: 12 · 注音: ㄆㄨˇ · 拼音: pǔ
+1. 日無色。 (The sun without color.)
+2. 吐蕃俗稱丈夫為普。 (In Tibetan custom, an adult male is called pu.)
+3. 廣大。 (Vast; expansive.)
+4. 遍，全面。 (Widespread; comprehensive.)
+5. 普魯士簡稱。 (Abbreviation for Prussia.)
+6. 姓。 (Surname.)
+
+### Academia Sinica — 小學堂 (xiaoxue)
+
+#### 彭 — 字形演變 (Character Form Evolution)
+
+甲骨文 Oracle: 甲2371, 商 Shang; 輔仁93, 商 Shang.
+金文 Bronze: 作彭史從尊 Zuò Péng shǐ cóng zūn, 西周早期 early Western Zhou; 方鼎 Fāng dǐng, 西周早期 early Western Zhou; 陶彙3.737, 戰國.齊 Warring States, Qi; 璽彙3513, 戰國.齊 Warring States, Qi; 包2.133, 戰國.楚 Warring States, Chu; 鄂君啟舟節 È jūn qǐ zhōu jié, 戰國中期.楚 mid Warring States, Chu; 十鐘, 戰國.秦 Warring States, Qin.
+小篆 Seal: 說文‧壴部 Shuowen, drum radical.
+隸書 Clerical: 漢印徵; 春秋事語95, 西漢 Western Han; 西陲簡51.19, 西漢 Western Han; 孔彪碑, 東漢 Eastern Han.
+Total: 14 forms.
+
+說文解字: 「彭，鼓聲也。从壴，彡聲。」 (Péng: the sound of a drum. From 壴 [drum] with 彡 as phonetic.)
+《漢語大字典》按: 「壴，即鼓之初字；彡，為鼓聲之標幟。」 (Hanyu Da Zidian: "壴 is the original form of 鼓 [drum]; 彡 is the marker for drum sound.")
+
+古音 (shangguyin):
+- 廣韻 (Middle Chinese): 梗攝 gěng division, 平聲 level tone, 庚韻 gēng rhyme, 並母 bìng initial, 開口二等 open-mouth 2nd division, 全濁 voiced obstruent. 反切 fanqie: 薄庚切.
+- 上古音 Old Chinese (王力 Wang Li): 陽部 yáng rhyme group, initial b, rhyme eaŋ.
+- 上古音 Old Chinese (李方桂 Li Fang-Kuei): 陽部 yáng rhyme group, initial b, rhyme rang.
+- 國語 Mandarin: ㄆㄥˊ péng [pʰəŋ]
+
+#### 普 — 字形演變 (Character Form Evolution)
+
+小篆 Seal: 說文‧日部 Shuowen, sun radical.
+隸書 Clerical: 流沙簡.屯戍16.13, 西漢 Western Han; 禮器碑陰, 東漢 Eastern Han; 魯峻碑陰, 東漢 Eastern Han.
+Total: 4 forms.
+
+說文解字: 「暜，日無色也。从日，从竝。」 (Pǔ: the sun without color. From 日 [sun] and 竝 [together].)
+邵瑛注: 「今經典作普」，「此隸省變。」 (Shao Ying: "Current classics write 普"; "this is a clerical simplification.")
+
+古音 (shangguyin):
+- 廣韻 (Middle Chinese): 遇攝 yù division, 上聲 rising tone, 姥韻 mǔ rhyme, 滂母 pāng initial, 合口一等 closed-mouth 1st division, 次清 voiceless aspirated. 反切 fanqie: 滂古切.
+- 上古音 Old Chinese (王力 Wang Li): 魚部 yú rhyme group, initial pʰ, rhyme ua.
+- 上古音 Old Chinese (李方桂 Li Fang-Kuei): 魚部 yú rhyme group, initial ph, rhyme agx.
+- 國語 Mandarin: ㄆㄨˇ pǔ [pʰu]
 
 ### Priberam
 

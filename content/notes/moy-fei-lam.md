@@ -16,6 +16,12 @@ sources:
     author: "Richard Sears"
     url: "https://hanziyuan.net"
     kind: wiki
+  - title: "教育部異體字字典"
+    url: "https://chardb.iis.sinica.edu.tw"
+    kind: wiki
+  - title: "小學堂 Xiaoxue Tang"
+    url: "https://xiaoxue.iis.sinica.edu.tw"
+    kind: wiki
 ---
 
 **梅菲林**
@@ -34,18 +40,79 @@ Nome kung fu de Fernando Almeida Xavier.
 艹 (cǎo) – erva, planta
 非 (fēi) – não, errado (componente fonético)
 
-O radical 艹 situa o caractere no reino vegetal. 非 contribui o som. O resultado é uma planta aromática, de vegetação densa e perfumada.
+O radical 艹 situa o caractere no reino vegetal; 非 contribui o som. O Shuowen define: 「菲，芴也。从艸，非聲。」 — "菲 é 芴 (uma planta; possivelmente um tipo de nabo silvestre). De 艸; 非 é o fonético." O chardb distingue oito acepções: legume 蒠菜 (def. 1), tubérculo 土瓜 (def. 2), modesto/frugal (def. 3: 微薄), melancolia (def. 4), sandália de palha (def. 5), fragrante (def. 6: 花草芳香), vegetação luxuriante (def. 7: 草茂貌), e composto orgânico fenantreno (def. 8). O sentido de "fragrante" é a sexta acepção, não a primária.
 
 ### 林 (lín / lam4)
 
 木 (mù) – árvore
 木 (mù) – árvore
 
-Duas árvores lado a lado: floresta. O Shuowen define 林 como 平土有叢木曰林, "terreno plano com árvores agrupadas chama-se lin". De uma árvore, madeira; de duas, bosque. A repetição gera abundância.
+Duas árvores lado a lado: floresta. O Shuowen define: 「林，平土有叢木曰林。从二木。」 — "Terreno plano com árvores agrupadas chama-se 林. De dois 木." O comentário de Wáng Yún (via Xiaoxue Tang): 「林从二木，非云止有二木也，取木與木連屬不絕之意也。」 — "林 usa dois 木, não quer dizer que são só duas árvores — toma o sentido de árvores ligadas entre si sem interrupção." O chardb regista 7 acepções: bosque (def. 1: 成片的竹、木), silvicultura (def. 2), reunião de pessoas ou coisas (def. 3), campo aberto (def. 4), abundância (def. 5: 眾盛貌), soberano (def. 6: 君), e apelido (def. 7). Formas desde ossos oraculares Shang e bronzes da Zhou Ocidental.
+
+### Academia Sinica — 教育部異體字字典 (chardb)
+
+**菲** — U+83F2 · 部首 Radical: 艸 · 總筆畫 Total strokes: 11 · 拼音: fěi, fēi
+1. 菜名。蒠菜。 (Vegetable name: xī cài, a type of edible plant.)
+2. 菜名。土瓜。 (Vegetable name: tǔguā, ground melon.)
+3. 微薄。 (Meagre, humble.)
+4. 同「蕜」。惆悵。 (Same as 蕜. Melancholy.)
+5. 通「屝」。草鞋。 (Interchangeable with 屝. Straw sandals.)
+6. 花草芳香。 (Flowers and grasses being fragrant.)
+7. 草茂貌。 (Appearance of luxuriant grass.)
+8. 有機化合物。 (Organic compound — phenanthrene.)
+
+**林** — U+6797 · 部首 Radical: 木 · 總筆畫 Total strokes: 8 · 拼音: lín
+1. 成片的竹、木。 (A stretch of bamboo or trees — grove, forest.)
+2. 林業。 (Forestry.)
+3. 泛指人或事物的會聚；彙集處。 (A gathering of people or things; a collection.)
+4. 野外。 (Open countryside.)
+5. 眾盛貌。 (Appearance of abundance.)
+6. 君。 (Sovereign.)
+7. 姓。 (Surname.)
+
+### 小學堂 Xiaoxue Tang
+
+#### 菲 — 字形演變 (Glyph evolution)
+
+Xiaoxue Tang records only 4 historical forms for 菲. No Oracle Bone or Bronze forms. Earliest: Shuowen Seal (說文‧艸部). Clerical (隸書): 武威簡.服傳 Wǔwēi jiǎn, fú zhuàn 4 (西漢 Western Han), 熹.詩.𠛙風.谷風 (東漢 Eastern Han), 張壽殘碑 Zhāng Shòu cán bēi (東漢 Eastern Han).
+
+**說文解字 Shuōwén Jiězì:** 「菲，芴也。从艸，非聲。」 — "菲 is 芴 (a plant). From 艸 (grass); 非 (fēi) is the phonetic."
+
+#### 菲 — 上古音 / 中古音
+
+**中古音 Middle Chinese (廣韻 Guǎngyùn):** 攝 division: 止 zhǐ · 聲調 tone: 上 shǎng (rising) · 韻目 rhyme: 尾 wěi · 字母 initial: 敷 fū · 開合: 合 hé (closed) · 等第: 三 3rd · 清濁: 次清 secondary voiceless · 反切 fanqie: 敷尾 fū wěi (又音 also: 妃 fēi; 又切 also: 扶沸 fú fèi)
+
+**上古音 Old Chinese:**
+- 高本漢 Karlgren: *pʰi̯wər
+- 王力 Wáng Lì: 微 wēi, *pʰǐwəi
+- 董同龢 Dǒng Tónghé: 微 wēi, *pʰjuə̆d
+- 周法高 Zhōu Fǎgāo: 微 wēi, *pʰjiwər
+- 李方桂 Lǐ Fānguì: 微 wēi, *phjədx
+
+#### 林 — 字形演變 (Glyph evolution)
+
+Xiaoxue Tang records 10 historical forms for 林. Oracle Bone (甲骨文): 鄴3下.46.15 (商 Shāng). Bronze (金文): 尹姞鬲 Yǐn Jí lì (西周中期 Mid Western Zhou). Spring and Autumn/Warring States: 侯馬 Hóumǎ (春秋晚期/戰國早期 Late Spring and Autumn / Early Warring States, 晉 Jìn), 上(2).容.31-32 (戰國 Warring States, 楚 Chǔ). Shuowen Seal: 說文‧林部. Clerical: 睡虎地簡 Shuìhǔdì jiǎn 10.4 (秦 Qín), 縱橫家書 Zònghéngjiā shū 57 (西漢 Western Han), 永始乘輿鼎 Yǒngshǐ chéngyú dǐng (西漢 Western Han), 熹.詩.擊鼓 (東漢 Eastern Han), 張遷碑 Zhāng Qiān bēi (東漢 Eastern Han).
+
+**說文解字 Shuōwén Jiězì:** 「林，平土有叢木曰林。从二木。」 — "Flat ground with clustered trees is called 林. From two 木 (tree)."
+
+**相關解說 Scholarly commentary:** 王筠 Wáng Yún 釋例: 「林从二木，非云止有二木也，取木與木連屬不絕之意也。」 — "林 uses two 木, not to say there are only two trees, but to convey the idea of trees linked together without end."
+
+#### 林 — 上古音 / 中古音
+
+**中古音 Middle Chinese (廣韻 Guǎngyùn):** 攝 division: 深 shēn · 聲調 tone: 平 píng (level) · 韻目 rhyme: 侵 qīn · 字母 initial: 來 lái · 開合: 開 kāi (open) · 等第: 三 3rd · 清濁: 次濁 secondary voiced · 反切 fanqie: 力尋 lì xún
+
+**上古音 Old Chinese:**
+- 高本漢 Karlgren: *ɡli̯əm
+- 王力 Wáng Lì: 侵 qīn, *lǐəm
+- 董同龢 Dǒng Tónghé: 侵 qīn, *ljəm
+- 周法高 Zhōu Fǎgāo: 侵 qīn, *liəm
+- 李方桂 Lǐ Fānguì: 侵 qīn, *gljəm
 
 ### Divergências entre fontes
 
-Para 菲, as fontes concordam na decomposição 艹 + 非 e no papel fonético de 非. O Shuowen define 菲 como 芴也, uma planta específica (tipo de nabo silvestre), sem menção a fragrância. O MDBG e o hanziyuan.net (Richard Sears) registam o sentido de fragrante/luxuriante como significado corrente, mas esse valor é uma extensão posterior, não o sentido original do Shuowen. Para 林, as três fontes concordam: duas vezes 木, pictograma duplicado, floresta. O Shuowen, o MDBG e o hanziyuan.net não divergem na decomposição nem no significado.
+Para 菲, a principal divergência é o sentido primário. O Shuowen define 菲 como 芴也 (uma planta específica), e o chardb confirma que as duas primeiras acepções são plantas (蒠菜, 土瓜), com "fragrante" apenas na sexta posição (def. 6: 花草芳香) e "luxuriante" na sétima (def. 7: 草茂貌). O MDBG e o hanziyuan.net registam fragrante/luxuriante como sentido corrente, mas trata-se de extensão posterior. O Xiaoxue Tang não regista formas oraculares nem em bronze (confirmado pelo hanziyuan.net: 0 em ambas), com apenas 4 formas históricas totais, indicando uso relativamente recente. A acepção de "modesto, frugal" (chardb def. 3: 微薄), frequente na expressão 菲薄, não aparece no MDBG nem no hanziyuan.net.
+
+Para 林, as cinco fontes concordam sem divergência na decomposição (dois 木) e no sentido de floresta. O Shuowen define como 平土有叢木, e o chardb expande para 7 acepções, incluindo reunião de pessoas/coisas (def. 3: 泛指人或事物的會聚) e soberano (def. 6: 君) — sentidos ausentes no MDBG e no hanziyuan.net. O comentário de Wáng Yún (via Xiaoxue Tang) esclarece que os dois 木 não indicam literalmente duas árvores, mas conexão contínua. O Xiaoxue Tang regista formas desde ossos oraculares Shang (鄴3下.46.15), confirmando o uso desde a era mais antiga da escrita. O Priberam traduz "floresta" como ecossistema de grande extensão, convergente com a def. 1 do chardb.
 
 ## Etimologia do Português
 
