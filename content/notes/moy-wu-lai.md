@@ -47,7 +47,7 @@ O radical é 言, fala. O Shuowen Jiezi define 護 como 救視也, "vigiar e soc
 示 (shì / si6) – altar, espírito, mostrar
 豊 (lǐ / lai5) – vaso ritual
 
-豊 se decompõe em 曲 (qū / kuk1, curvado, composição) + 豆 (dòu / dau6, vaso cerimonial com pedestal). O Shuowen Jiezi define 禮 como 履也, "trilhar um caminho" e "aquilo pelo qual se serve aos espíritos e se atrai bênçãos". A imagem é a de oferendas num vaso ritual diante do altar.
+O Shuowen Jiezi define 禮 como 履也, "trilhar um caminho" e "aquilo pelo qual se serve aos espíritos e se atrai bênçãos", de 示 (altar) com 豊 (vaso ritual) como fonético e semântico (豊亦聲). A decomposição tradicional de 豊 em 曲 (curvado) + 豆 (vaso com pedestal) não é confirmada pelas fontes acadêmicas. Li Xiaoding (李孝定), citado no xiaoxue, esclarece: "quando se fala do acto de servir espíritos é 禮; quando se fala do recipiente é 豊; quando se fala da riqueza das oferendas é 豐 — originalmente eram um só caractere". A imagem é a de oferendas diante do altar.
 
 Esse Lai (禮) é o mesmo de [Kuen Mo Lai Yeung (拳無禮讓)](https://silva.thluiz.com/posts/kuen-mo-lai-yeung-gwan-mo-leung-heung/). O punho não faz cerimônia, e certamente o Si Hing também não, porém uma parte do nome kung fu é um aviso, imagino que seja o caso. O Wu (護) de proteger equilibra: ele está sempre aberto a proteger seus valores.
 
