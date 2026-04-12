@@ -51,3 +51,22 @@ Para 祖, as fontes concordam na decomposição 礻+ 且. O Shuowen Jiezi define
 **Cinábrio** – do Lat. *cinnabaris*, do Gr. *kinnábari*: sulfureto vermelho de mercúrio; pigmento vermelho usado desde a antiguidade.
 
 **Vermelho** – do Lat. *vermiculus* (vermezinho, cochonilha): cor encarnada; rubro; escarlate.
+
+## Fontes Consultadas
+
+### MDBG Chinese Dictionary
+**祖** (zǔ / zou2): ancestor/forefather/grandparents
+**丹** (dān / daan1): red/pellet/powder/cinnabar
+
+### Chinese Etymology (hanziyuan.net)
+**祖**: Original meaning: Meaning ancestor. Shuowen: 始廟也從示且聲. Decomposition: Compound 祖 from altar 礻示 shì and related phonetic altar 且 qiě-jū. Oracle (1), Bronze (6), Seal (1).
+**丹**: Original meaning: Meaning cinnabar, related meaning red. Shuowen: 巴越之赤石也象采丹井一象丹形凡丹之屬皆從丹. Decomposition: (sem decomposição composta listada). Oracle (3), Bronze (1), Seal (1).
+
+### CantoDict (cantonese.org)
+**祖**: zou2
+**丹**: daan1
+
+### Priberam Dicionário
+**Ancestral**: Dos antepassados.; Muito antigo.; Avito.; Que ou quem pertence a uma geração anterior.; ANTECEDENTE, ANTEPASSADO
+**Cinábrio**: Sulfureto de mercúrio nativo.; VERMELHÃO; De cor vermelha.; CINABRINO
+**Vermelho**: Cor semelhante à do sangue vivo.; Que tem a cor semelhante à do sangue vivo (ex.: tinta vermelha).; ENCARNADO, ESCARLATE, RUBRO; Que apresenta essa cor devido a um afluxo de sangue (ex.: tem o nariz vermelho de tanto chorar).; AFOGUEADO, CORADO, RUBRO

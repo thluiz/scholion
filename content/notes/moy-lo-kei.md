@@ -53,3 +53,29 @@ Para 勞, o hanziyuan.net (Richard Sears) decompõe como 力 (força) + 𤇾 (fl
 **Trabalho** – do Lat. vulg. *tripaliare* (torturar com o *tripalium*): exercício de atividade para produção de algo; esforço, labuta.
 
 **Mérito** – do Lat. *meritum* (o que se merece): qualidade do que é digno de louvor; merecimento por serviço prestado.
+
+## Fontes Consultadas
+
+### MDBG Chinese Dictionary
+
+**勞** (láo / lou4): to toil/labor/laborer/to put sb to trouble (of doing sth)/meritorious deed
+
+**崎** (qí / kei1): mountainous
+
+### Chinese Etymology (hanziyuan.net)
+
+**勞**: Original meaning: Meaning to labor. Shuowen: 劇也從力熒省熒火燒冂用力者勞. Decomposition: Compound 勞 Japanese 労 from strength 力 lì and related phonetic flowers-fire (𫇦)𤇾 róng. Oracle (0), Bronze (2), Seal (1).
+
+**崎**: Original meaning: Meaning rough. Shuowen: (sem entrada). Decomposition: Compound 崎 from mountain 山 shān and phonetic person-riding 奇 qí. Oracle (0), Bronze (0), Seal (0).
+
+### CantoDict (cantonese.org)
+
+**勞**: lou4
+
+**崎**: kei1
+
+### Priberam Dicionário
+
+**Trabalho**: Acto; Qualquer ocupação física ou intelectual (ex.: trabalho manual).; Actividade; EMPREGO, OCUPAÇÃO, OFÍCIO, PROFISSÃO; Local onde se exerce essa actividade
+
+**Mérito**: Merecimento.; DEMÉRITO; Aptidão.; Superioridade.; Valor moral, intelectual.

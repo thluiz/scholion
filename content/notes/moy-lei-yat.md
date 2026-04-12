@@ -52,3 +52,29 @@ Para 利, as fontes concordam: 禾 + 刀, sem divergência relevante. Para 溢, 
 **Benefício** – do Lat. *beneficium*: bem que se faz; vantagem, proveito.
 
 **Transbordar** – de *trans-* (além) + *bordo* (borda): exceder a capacidade; derramar por cima das bordas; ir além dos limites.
+
+## Fontes Consultadas
+
+### MDBG Chinese Dictionary
+
+**利** (lì / lei6): sharp/favorable/advantage/benefit/profit/interest/to do good to/to benefit
+
+**溢** (yì / jat6): to overflow
+
+### Chinese Etymology (hanziyuan.net)
+
+**利**: Original meaning: Meaning profit, as from the fields. Shuowen: 銛也從刀和然後利從和省易曰利者義之和也. Decomposition: Compound 利𥝢𥝤 from grain 禾 hé and. Oracle (15), Bronze (6), Seal (1).
+
+**溢**: Original meaning: Meaning overflow. Shuowen: 器滿也從水益聲. Decomposition: Compound 溢 from three-dot-water 氵 shuǐ and related phonetic water-overflow (益)益 yì. Oracle (0), Bronze (0), Seal (1).
+
+### CantoDict (cantonese.org)
+
+**利**: lei6
+
+**溢**: jat6
+
+### Priberam Dicionário
+
+**Benefício**: Bem que generosamente se faz a alguém.; Beneficiação.; Cargo eclesiástico nas sés e colegiadas.; Rendimento desse cargo.; Espectáculo
+
+**Transbordar**: Sem entrada.

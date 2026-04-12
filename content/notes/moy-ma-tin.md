@@ -49,3 +49,48 @@ Para 馬, as fontes concordam: pictograma puro com 84 formas oraculares. Para �
 **Cavalo** – do Lat. *caballus, -i* (cavalo de trabalho, em oposição ao clássico *equus*): animal quadrúpede equino; força em movimento.
 
 **Céu** – do Lat. *caelum, -i* (abóbada celeste): espaço onde estão os astros; espaço visível acima do horizonte; atmosfera.
+
+## Fontes Consultadas
+
+### Chinese Etymology — hanziyuan.net (Richard Sears)
+
+#### 馬
+
+馬: Found 1 etymologies and 371 characters.
+Main pronunciation 主要发音: mǎ
+Original meaning 本义: Meaning horse.
+English senses 英语理解: horse
+Shuowen 说文解字: 怒也武也象馬頭髦尾四足之形
+Oracle characters 甲骨文 (84)
+
+#### 天
+
+天: Found 1 etymologies and 98 characters in 0.000 seconds. E06081 天5929 → 天5929
+Main pronunciation 主要发音: tiān
+Original meaning 本义: Meaning sky.
+English senses 英语理解: sky, heaven; god, celestial
+Shuowen 说文解字: 顛也至高無上從一大
+Character decomposition 字形分解 [?]:
+from (rem- 一 yī) from
+Oracle characters 甲骨文 (9)
+Bronze characters 金文 (52)
+
+### MDBG Chinese Dictionary
+
+#### 馬
+
+馬	maa5	horse/CL:匹[pi3]/horse or cavalry piece in Chinese chess/knight in Western chess
+
+#### 天
+
+天	tin1	(noun)  my God!
+
+### Priberam Dicionário
+
+#### Cavalo
+
+Quadrúpede equídeo; Quadrúpede equídeo; Cada uma das peças do jogo de xadrez que, no início do jogo, está entre a torre e o bispo.; Unidade de um corpo de cavalaria.; Aparelho destinado a saltos, que consiste num corpo de forma rectangular
+
+#### Céu
+
+Espaço visível acima do horizonte.; Espaço onde estão os astros.; COSMOS, FIRMAMENTO, UNIVERSO; Espaço visível acima do horizonte.; FIRMAMENTO

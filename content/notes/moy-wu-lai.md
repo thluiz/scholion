@@ -58,3 +58,33 @@ O hanziyuan.net (Richard Sears) classifica 蒦 em 護 como "capture-bird" (captu
 **Cortesia** – de *cortês* (corte + -ês), do Lat. *cohors, cohortis* (corte, pátio): qualidade do que é cortês; educação ou especial cuidado no trato com alguém; amabilidade, delicadeza, urbanidade.
 
 **Ritual** – do Lat. *ritualis* (de *ritus*, uso, costume): relativo a rito; conjunto de regras ou procedimentos num ato solene ou formal.
+
+## Fontes Consultadas
+
+### MDBG Chinese Dictionary
+
+**護** (hù / wu6): to protect
+
+**禮** (lǐ / lai5): gift/rite/ceremony/CL:份[fen4]/propriety/etiquette/courtesy
+
+### Chinese Etymology (hanziyuan.net)
+
+**護**: Original meaning: Meaning to protect. Shuowen: 救視也從言蒦聲. Decomposition: /Compound 護 from mouth-speak 言 yán and related phonetic capture-bird 蒦 huò substitute phonetic door 户戶戸 hù phonetic-phonetic 户蒦. Oracle (0), Bronze (0), Seal (1).
+
+**禮**: Original meaning: Meaning ritual. Shuowen: 履也所以事神致福也從示從豊豊亦聲. Decomposition: Compound 禮 from altar 礻示 shì and related phonetic drum 豊 lǐ. Oracle (1), Bronze (1), Seal (1).
+
+### CantoDict (cantonese.org)
+
+**護**: wu6
+
+**禮**: lai5
+
+### Priberam Dicionário
+
+**Proteger**: Preservar ou preservar-se de mal, de perigo ou de efeitos negativos.; DEFENDER, RESGUARDAR; DESPROTEGER; Tomar a defesa de.; APOIAR
+
+**Cerimônia**: Forma exterior e solene de celebração de um culto religioso ou profano.; RITO, SOLENIDADE; Manifestação mais ou menos solene com que se celebra um acontecimento da vida social.; Cada uma das formalidades rituais.; Padrão convencional de comportamento que se emprega onde a familiaridade não existe.
+
+**Cortesia**: Qualidade do que é cortês.; Educação ou especial cuidado no trato ou no contacto; AMABILIDADE, DELICADEZA, URBANIDADE; Aquilo que é oferecido, como prova ou sinal de amabilidade (ex.: o aperitivo é cortesia da casa).; Cumprimentos dos toureiros à autoridade e ao público, antes de começar a corrida.
+
+**Ritual**: Relativo a rito.; Livro que contém a forma das cerimónias; Conjunto de regras ou procedimentos que devem ser seguidos num acto; CERIMONIAL, ETIQUETA; latim ritualis, -e.

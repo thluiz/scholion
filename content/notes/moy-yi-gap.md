@@ -52,3 +52,46 @@ Para 意, as três fontes concordam na decomposição 音+心. O Shuowen define 
 **Intenção** – do Lat. *intentio, -onis* (de *intendere*, dirigir para): propósito; desígnio; vontade dirigida a um fim.
 
 **Pomba** – do Lat. *palumba* (pomba torcaz): ave columbiforme; símbolo de paz e pureza.
+
+## Fontes Consultadas
+
+### hanziyuan.net
+
+=== 意 ===
+意: Found 1 etymologies and 17 characters in 0.008 seconds. E07413 意610F → 意610F
+Main pronunciation 主要发音: yì
+Original meaning 本义: Meaning thought. In context, becomes 乙 yǐ (simp).
+English senses 英语理解: thought, idea, opinion; think
+Shuowen 说文解字: 志也從心察言而知意也從心從音
+Character decomposition 字形分解 [?]:
+Compound 意
+from heart 心 xīn and
+Oracle characters 甲骨文 (0)
+Bronze characters 金文 (0)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (16)
+
+=== 鴿 ===
+鴿: Found 1 etymologies and 1 characters in 0.002 seconds. E01816 鴿9D3F → 鸽9E3D
+Main pronunciation 主要发音: gē
+Original meaning 本义: Meaning pigeon.
+English senses 英语理解: pigeon, dove; Columba species (various)
+Shuowen 说文解字: 鳩屬從鳥合聲
+Character decomposition 字形分解 [?]:
+Compound 鴿
+from bird (鸟)鳥 niǎo and
+phonetic two-mouth-together 合 hé
+Oracle characters 甲骨文 (0)
+Bronze characters 金文 (0)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (0)
+
+### MDBG
+
+意	ji3	idea/meaning/thought/to think/wish/desire/intention/to expect/to anticipate
+鴿	gap3	pigeon/dove
+
+### Priberam
+
+Intenção		Resultado da vontade depois de admitir uma ideia; projecto; DESÍGNIO, INTENTO, PROPÓSITO, TENÇÃO; O que está planeado; Pensamento reservado (ex.: ninguém conhece as suas intenções).
+Pomba		Designação dada a várias aves granívoras e sociáveis da família dos columbídeos.; Designação dada a várias aves granívoras e sociáveis da família dos columbídeos.; Fêmea do pombo.; Pessoa bondosa.; Órgão sexual feminino.

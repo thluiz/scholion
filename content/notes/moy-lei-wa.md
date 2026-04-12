@@ -49,3 +49,47 @@ Para 利, as três fontes concordam na decomposição 禾+刂 e no sentido de "a
 **Benefício** – do Lat. *beneficium*: bem que se faz; vantagem, proveito.
 
 **Esplendor** – do Lat. *splendor, -oris*: magnificência; grandeza; fulgor.
+
+## Fontes Consultadas
+
+### hanziyuan.net
+
+=== 利 ===
+利: Found 1 etymologies and 48 characters in 0.010 seconds. E09038 利5229 → 利5229
+Main pronunciation 主要发音: lì
+Original meaning 本义: Meaning profit, as from the fields.
+English senses 英语理解: gains, advantage, profit, merit
+Shuowen 说文解字: 銛也從刀和然後利從和省易曰利者義之和也
+Character decomposition 字形分解 [?]:
+Compound 利𥝢𥝤
+from grain 禾 hé and
+Oracle characters 甲骨文 (15)
+Bronze characters 金文 (6)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (26)
+
+=== 華 ===
+華: Found 1 etymologies and 21 characters in 0.009 seconds. E08892 華83EF → 华534E
+Main pronunciation 主要发音: huá
+Original meaning 本义: Meaning flower.
+English senses 英语理解: flowery; illustrious; Chinese
+Shuowen 说文解字: 榮也從艸從𠌶凡華之屬皆從華
+Character decomposition 字形分解 [?]:
+from grass-top 艹艸 cǎo and
+related phonetic flower-primitive 𠌶 huá
+phonetic person-two 化 huà
+new phonetic 化
+Oracle characters 甲骨文 (0)
+Bronze characters 金文 (10)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (10)
+
+### MDBG
+
+利	lei6	sharp/favorable/advantage/benefit/profit/interest/to do good to/to benefit
+華		flower/blossom/CL:朵[duo3],支[zhi1],束[shu4],把[ba3],盆[pen2],簇[cu4]/fancy pattern/florid/to spend (money, time)
+
+### Priberam
+
+Benefício		Bem que generosamente se faz a alguém.; Beneficiação.; Cargo eclesiástico nas sés e colegiadas.; Rendimento desse cargo.; Espectáculo
+Esplendor		Brilho ou luminosidade fortes (ex.: esplendor do sol; esplendor luminoso).; FULGOR, RESPLANDECÊNCIA, RESPLENDOR; Ostentação ou exibição de grandeza ou de grande luxo (ex.: o esplendor da corte de Versalhes).; FAUSTO, LUSTRE, MAGNIFICÊNCIA, POMPA, SUMPTUOSIDADE; Aquilo que deslumbra ou encanta pela beleza ou pela grandiosidade (ex.: a paisagem cativa pelo

@@ -46,3 +46,55 @@ Para 登, as fontes concordam no significado de ascender. O Shuowen especifica "
 **Ascender** – do Lat. *ascendere* (ad + scandere, subir para): subir, elevar-se; progredir; avançar.
 
 **Exuberante** – do Lat. *exuberans, -antis* (que transborda): superabundante; viçoso; deslumbrante; vivo, animado.
+
+## Fontes Consultadas
+
+### Chinese Etymology — hanziyuan.net (Richard Sears)
+
+#### 登
+
+登: Found 1 etymologies and 50 characters in 0.020 seconds. E01132 登767B → 登767B
+Main pronunciation 主要发音: dēng
+Original meaning 本义: Meaning to rise.
+English senses 英语理解: rise, mount, board, climb
+Shuowen 说文解字: 上車也從癶豆象登車形
+Character decomposition 字形分解 [?]:
+Oracle characters 甲骨文 (3)
+Bronze characters 金文 (23)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (23)
+
+#### 郁
+
+郁: Found 2 etymologies and 7 characters in 0.003 seconds. E09499 鬱9B31 → 郁90C1 E07715 郁90C1 → 郁90C1
+Main pronunciation 主要发音: yù
+Original meaning 本义: Meaning (orig) good smelling (now) luxuriant; dense, thick; moody.
+English senses 英语理解:
+Shuowen 说文解字: 木叢生者從林鬱省聲
+Character decomposition 字形分解 [?]:
+Compound 鬱 mutants 鬰欝 yù
+from (rem- 冂 jiōng) and
+Oracle characters 甲骨文 (0)
+Bronze characters 金文 (3)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (1)
+
+### MDBG Chinese Dictionary
+
+#### 登
+
+登	dang1	to scale (a height)/to ascend/to mount/to publish or record/to enter (e.g. in a register)/to press down with the foot/to step or tread on/to put on (shoes or trousers) (dialect)/to be gathered and taken to the threshing ground (old)
+
+#### 郁
+
+郁	juk1	(verb)  move (with movements)
+
+### Priberam Dicionário
+
+#### Ascender
+
+Subir, elevar-se.; Ter ascenso.; Deve-se escrever O contrato termina automaticamente na data aniversária ou na data aniversário?; Gostaria de saber qual é o coletivo de tijolo.; Lugar de hospedagem.
+
+#### Exuberante
+
+Superabundante.; Viçoso.; Deslumbrante.; Vivo, animado.; Deve-se escrever O contrato termina automaticamente na data aniversária ou na data aniversário?

@@ -53,3 +53,47 @@ Para 格, as fontes concordam na decomposição 木+各. O hanziyuan.net (Richar
 **Padrão** – do Lat. *patronus* (protetor, modelo): norma; modelo; referência; configuração típica.
 
 **Trabalho** – do Lat. vulg. *tripaliare*: exercício de atividade; esforço; labuta.
+
+## Fontes Consultadas
+
+### hanziyuan.net
+
+=== 格 ===
+格: Found 1 etymologies and 20 characters in 0.003 seconds. E01818 格683C → 格683C
+Main pronunciation 主要发音: gé
+Original meaning 本义: Meaning pattern or form (originally made of wood)
+English senses 英语理解: pattern, standard, form; style
+Shuowen 说文解字: 木長貌從木各聲
+Character decomposition 字形分解 [?]:
+Compound 格
+from tree 木 mù and
+phonetic each 各 gè.
+Oracle characters 甲骨文 (1)
+Bronze characters 金文 (11)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (7)
+
+=== 勞 ===
+勞: Found 1 etymologies and 7 characters in 0.008 seconds. E09022 勞52DE → 劳52B3
+Main pronunciation 主要发音: láo
+Original meaning 本义: Meaning to labor.
+English senses 英语理解: labor, toil, do manual work
+Shuowen 说文解字: 劇也從力熒省熒火燒冂用力者勞
+Character decomposition 字形分解 [?]:
+Compound 勞 Japanese 労
+from strength 力 lì and
+related phonetic flowers-fire (𫇦)𤇾 róng
+Oracle characters 甲骨文 (0)
+Bronze characters 金文 (2)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (4)
+
+### MDBG
+
+格	gaak3	square/frame/rule/(legal) case/style/character/standard/pattern/(grammar) case/(classical) to obstruct/to hinder/(classical) to arrive/to come/(classical) to investigate/to study exhaustively
+勞	lou4	to toil/labor/laborer/to put sb to trouble (of doing sth)/meritorious deed
+
+### Priberam
+
+Padrão		Tipo oficial de pesos e medidas.; BITOLA, CRAVEIRA, ESTALÃO, MODELO; O que serve de referência.; MODELO, PARADIGMA; Régua de ferro para medir a largura da boca das pipas, barris, etc.
+Trabalho		Acto; Qualquer ocupação física ou intelectual (ex.: trabalho manual).; Actividade; EMPREGO, OCUPAÇÃO, OFÍCIO, PROFISSÃO; Local onde se exerce essa actividade

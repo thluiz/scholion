@@ -50,3 +50,52 @@ Para 司, o MDBG não segmenta o caractere em componentes nomeados, tratando-o c
 **Dirigir** – do Lat. *dirigere* (dis + regere, conduzir em linha reta): administrar; governar; orientar; comandar.
 
 **Profundidade** – do Lat. *profunditas, -atis* (de *profundus*, fundo): qualidade do que é profundo; abismo; complexidade; intensidade.
+
+## Fontes Consultadas
+
+### MDBG
+
+司	si1	to take charge of/to manage/department (under a ministry)
+奧	ou3	Austria/Austrian/abbr. for 奧地利|奥地利[Ao4 di4 li4]/Olympic/Olympics/abbr. for 奧林匹克|奥林匹克[Ao4 lin2 pi3 ke4]
+
+### Chinese Etymology
+
+=== 司 ===
+司: Found 1 etymologies and 29 characters in 0.005 seconds. E05746 司53F8 → 司53F8
+Main pronunciation 主要发音: sī
+Original meaning 本义: Meaning to take charge. (see 后 hòu)
+English senses 英语理解: take charge of, control, manage; officer
+Shuowen 说文解字: 臣司事於外者從反后凡司之屬皆從司
+Character decomposition 字形分解 [?]:
+from (rem+ left facing person) from
+Oracle characters 甲骨文 (1)
+Bronze characters 金文 (15)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (12)
+
+=== 奧 ===
+奧: Found 1 etymologies and 5 characters in 0.002 seconds. E08607 奧5967 → 奥5965
+Main pronunciation 主要发音: ào
+Original meaning 本义: Meaning obscure, as in can't see well.
+English senses 英语理解: mysterious, obscure, profound
+Shuowen 说文解字:
+Character decomposition 字形分解 [?]:
+Compound 𡪃 mutant 奧
+from (rem- 米 mǐ) from
+Oracle characters 甲骨文 (0)
+There is no known oracle characters found. 没有已知的甲骨文.
+Bronze characters 金文 (0)
+There is no known bronze characters found. 没有已知的金文.
+Seal characters 说文解字的篆字 (0)
+There is no known seal characters found. 没有已知的说文解字的篆字.
+Liushutong characters 六书通的字 (5)
+
+### CantoDict
+
+司	si1	to take charge of/to manage/department (under a ministry)
+奧	ou3	Austria/Austrian/abbr. for 奧地利|奥地利[Ao4 di4 li4]/Olympic/Olympics/abbr. for 奧林匹克|奥林匹克[Ao4 lin2 pi3 ke4]
+
+### Priberam
+
+Dirigir		Ter a direcção; Ter poderes ou responsabilidades de administração, de gestão.; ADMINISTRAR, GERIR, GOVERNAR, SUPERINTENDER; Orientar um grupo de pessoas.; REGER
+Profundidade		Distância da superfície ao fundo.; Distância da entrada ou frente até ao lado oposto.; Uma das três dimensões dos corpos (ex.: diz-se a profundidade de um poço, a altura de uma torre ou de um volume e a grossura ou espessura de uma tábua).; Distância entre a testa e a cauda de uma coluna de tropas.; Grande penetração de espírito; grande saber.

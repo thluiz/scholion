@@ -49,3 +49,52 @@ Para 巴, o MDBG trata como caractere não decomposto. O Shuowen define como 蟲
 **Esperança** – do Lat. *sperantia* (de *sperare*, esperar): sentimento de quem vê como possível a realização do que deseja; confiança.
 
 **Encontro** – de *encontrar*, do Lat. vulg. *incontrare* (ir ao encontro): ato de encontrar-se; reunião face a face; confronto direto.
+
+## Fontes Consultadas
+
+### MDBG
+
+巴	baa1	to long for/to wish/to cling to/to stick to/sth that sticks/close to/next to/spread open/informal abbr. for bus 巴士[ba1 shi4]/bar (unit of pressure)/nominalizing suffix on certain nouns, such as 尾巴[wei3 ba5], tail
+覿	NOT_FOUND	NOT_FOUND
+
+### Chinese Etymology
+
+=== 巴 ===
+巴: Found 1 etymologies and 28 characters in 0.006 seconds. E00123 巴5DF4 → 巴5DF4
+Main pronunciation 主要发音: ba
+Original meaning 本义: Meaning to grab.
+English senses 英语理解: greatly desire, anxiously hope
+Shuowen 说文解字: 蟲也或曰食象蛇象形凡巴之屬皆從巴徐锴曰一所吞也指事
+Character decomposition 字形分解 [?]:
+(- phonetic in 吧芭疤笆粑羓蚆笆鲃鈀钯靶爸肥皅舥杷)
+Oracle characters 甲骨文 (22)
+Bronze characters 金文 (0)
+There is no known bronze characters found. 没有已知的金文.
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (5)
+
+=== 覿 ===
+覿: Found 1 etymologies and 5 characters in 0.010 seconds. E02560 覿89BF → 觌89CC
+Main pronunciation 主要发音: dí
+Original meaning 本义: Meaning see; interview; be admitted to audience
+English senses 英语理解:
+Shuowen 说文解字: 見也從見賣聲
+Character decomposition 字形分解 [?]:
+Compound 覿
+from person-eye-see (见)見 jiàn and
+phonetic sell-variant (卖)賣𧶠𧸇 yù
+Oracle characters 甲骨文 (0)
+There is no known oracle characters found. 没有已知的甲骨文.
+Bronze characters 金文 (1)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (3)
+
+### CantoDict
+
+巴	baa1	to long for/to wish/to cling to/to stick to/sth that sticks/close to/next to/spread open/informal abbr. for bus 巴士[ba1 shi4]/bar (unit of pressure)/nominalizing suffix on certain nouns, such as 尾巴[wei3 ba5], tail
+覿	NOT_FOUND	NOT_FOUND
+
+### Priberam
+
+Esperança		Disposição do espírito que induz a esperar que uma coisa se há-de; Espera, expectativa.; Coisa que se espera.; Confiança.; Uma das virtudes teologais.
+Encontro		Acto; Choque, colisão.; Recontro.; Conjunção.; Objecção

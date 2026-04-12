@@ -60,3 +60,60 @@ Para 斐, o MDBG e o Shuowen concordam na decomposição 非+文 e no sentido de
 **Benefício** – do Lat. *beneficium*: bem que se faz; vantagem, proveito.
 
 **Unidade** – do Lat. *unitas, -atis*: qualidade do que é uno; o primeiro número inteiro.
+
+## Fontes Consultadas
+
+### hanziyuan.net
+
+=== 斐 ===
+斐: Found 1 etymologies and 4 characters in 0.030 seconds. E01545 斐6590 → 斐6590
+Main pronunciation 主要发音: fěi
+Original meaning 本义: Meaning beautiful.
+English senses 英语理解:
+Shuowen 说文解字: 分別文也從文非聲易曰君子豹變其文斐也
+Character decomposition 字形分解 [?]:
+Compound 斐
+from culture-cloths 文 wén and
+phonetic broken-wings 非 fēi.
+Oracle characters 甲骨文 (0)
+Bronze characters 金文 (0)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (3)
+
+=== 利 ===
+利: Found 1 etymologies and 48 characters in 0.010 seconds. E09038 利5229 → 利5229
+Main pronunciation 主要发音: lì
+Original meaning 本义: Meaning profit, as from the fields.
+English senses 英语理解: gains, advantage, profit, merit
+Shuowen 说文解字: 銛也從刀和然後利從和省易曰利者義之和也
+Character decomposition 字形分解 [?]:
+Compound 利𥝢𥝤
+from grain 禾 hé and
+Oracle characters 甲骨文 (15)
+Bronze characters 金文 (6)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (26)
+
+=== 一 ===
+一: Found 1 etymologies and 22 characters in 0.003 seconds. E07306 一4E00 → 一4E00
+Main pronunciation 主要发音: yī
+Original meaning 本义: Meaning one.
+English senses 英语理解: one; a, an; alone
+Shuowen 说文解字: 惟初太始道立於一造分天地化成萬物凡一之屬皆從一
+Character decomposition 字形分解 [?]:
+Oracle characters 甲骨文 (2)
+Bronze characters 金文 (15)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (4)
+
+### MDBG
+
+斐	NOT_FOUND	NOT_FOUND
+利	lei6	sharp/favorable/advantage/benefit/profit/interest/to do good to/to benefit
+一		one/1/single/a (article)/as soon as/entire/whole/all/throughout/"one" radical in Chinese characters (Kangxi radical 1)/also pr. [yao1] for greater clarity when spelling out numbers digit by digit
+
+### Priberam
+
+Elegância		Gosto delicado no trajar, no falar, no adorno da casa, etc.; Graça, airosidade, delicadeza e distinção aliada à simplicidade e clareza.; latim elegantia, -ae, gosto, delicadeza, distinção.; Deve-se escrever O contrato termina automaticamente na data aniversária ou na data aniversário?; Estou com uma dúvida: o correto será adverti-lo, adverte-lo ou advertê-lo?
+Benefício		Bem que generosamente se faz a alguém.; Beneficiação.; Cargo eclesiástico nas sés e colegiadas.; Rendimento desse cargo.; Espectáculo
+Unidade		O número um.; O princípio da numeração.; Quantidade tomada para termo de comparação.; Número dígito.; Objecto

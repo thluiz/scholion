@@ -52,3 +52,21 @@ Para 優, o Shuowen Jiezi define como 饒也, "abundante, generoso", e decompõe
 **Excelência** – do Lat. *excellentia*: qualidade superior; distinção; primazia.
 
 **Benefício** – do Lat. *beneficium*: bem que se faz; vantagem, proveito.
+
+## Fontes Consultadas
+
+### MDBG Chinese Dictionary
+**優** (yōu / jau1): (noun) (of Japanese media) 1. Actress; (slang) Pull up
+**利** (lì / lei6): sharp/favorable/advantage/benefit/profit/interest/to do good to/to benefit
+
+### Chinese Etymology (hanziyuan.net)
+**優**: Original meaning: Meaning superior or actor. Shuowen: 饒也從人憂聲一曰倡也. Decomposition: Compound 優 from person-left 亻 rén and phonetic heart-sad 憂 yōu, substitute phonetic hand-injured 尤 yóu. Oracle (0), Bronze (0), Seal (1).
+**利**: Original meaning: Meaning profit, as from the fields. Shuowen: 銛也從刀和然後利從和省易曰利者義之和也. Decomposition: Compound 利𥝢𥝤 from grain 禾 hé and. Oracle (15), Bronze (6), Seal (1).
+
+### CantoDict (cantonese.org)
+**優**: jau1
+**利**: lei6
+
+### Priberam Dicionário
+**Excelência**: Qualidade do que é excelente.; Grau elevado de perfeição, de bondade.; SUPERIORIDADE; Forma de tratamento destinada a pessoas nobres ou ilustres, e em geral dada às pessoas consideradas de alta categoria social (ex.: Sua Excelência mandou avisar que chegará com algum atraso) [Abreviatura: Ex.ª].
+**Benefício**: Bem que generosamente se faz a alguém.; Beneficiação.; Cargo eclesiástico nas sés e colegiadas.; Rendimento desse cargo.; Espectáculo

@@ -52,3 +52,21 @@ Para 安, as fontes concordam na decomposição 宀 (teto) + 女 (mulher). O Shu
 **Paz** – do Lat. *pax, pacis*: estado de tranquilidade; ausência de conflito; sossego.
 
 **Benefício** – do Lat. *beneficium*: bem que se faz; vantagem, proveito.
+
+## Fontes Consultadas
+
+### MDBG Chinese Dictionary
+**安** (ān / on1): content/calm/still/quiet/safe/secure/in good health/to find a place for/to install/to fix/to fit/to bring (a charge against sb)/to pacify/to harbor (good intentions)/security/safety/peace/ampere
+**利** (lì / lei6): sharp/favorable/advantage/benefit/profit/interest/to do good to/to benefit
+
+### Chinese Etymology (hanziyuan.net)
+**安**: Original meaning: Meaning peaceful. Shuowen: 靜也從女在宀下. Decomposition: Compound 安 from building 宀 mián and. Oracle (16), Bronze (15), Seal (1).
+**利**: Original meaning: Meaning profit, as from the fields. Shuowen: 銛也從刀和然後利從和省易曰利者義之和也. Decomposition: Compound 利𥝢𥝤 from grain 禾 hé and. Oracle (15), Bronze (6), Seal (1).
+
+### CantoDict (cantonese.org)
+**安**: on1
+**利**: lei6
+
+### Priberam Dicionário
+**Paz**: Quietação de ânimo.; Sossego, tranquilidade; Ausência de guerra, de dissensões.; Boa harmonia.; Concórdia, reconciliação.
+**Benefício**: Bem que generosamente se faz a alguém.; Beneficiação.; Cargo eclesiástico nas sés e colegiadas.; Rendimento desse cargo.; Espectáculo

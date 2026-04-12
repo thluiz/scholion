@@ -52,3 +52,21 @@ Para 磨, as fontes concordam na estrutura 麻 (fonético) + 石 (semântico). O
 **Polir** – do Lat. *polire* (alisar, aperfeiçoar): tornar liso e brilhante; aperfeiçoar; dar acabamento.
 
 **Trovão** – do Lat. vulg. *turbo, -onis* (turbilhão): estrondo produzido pela descarga elétrica atmosférica; ruído forte.
+
+## Fontes Consultadas
+
+### MDBG Chinese Dictionary
+**磨** (mó / mo4): to rub/to grind/to polish/to sharpen/to wear down/to die out/to waste time/to pester/to insist
+**雷** (léi / leoi4): thunder/mine (weapon)/(Internet slang) terrifying/terrific
+
+### Chinese Etymology (hanziyuan.net)
+**磨**: Original meaning: Meaning to grind. Shuowen: (sem entrada). Decomposition: Compound 磨 from rock-chime 石 shí related phonetic hemp-flax 麻 má. Oracle (0), Bronze (0), Seal (0).
+**雷**: Original meaning: Meaning thunder, see 電. Shuowen: (sem entrada). Decomposition: Compound 靁 mutant 雷 from rain 雨 yǔ and phonetic three-fields 畾 léi. Oracle (21), Bronze (9), Seal (0).
+
+### CantoDict (cantonese.org)
+**磨**: mo4
+**雷**: leoi4
+
+### Priberam Dicionário
+**Polir**: Alisar e dar brilho a.; Brunir.; Envernizar.; Civilizar; educar, aperfeiçoar.
+**Trovão**: Ruído estrondoso que acompanha a descarga de electricidade; Grande barulho comparável ao desse ruído estrondoso.

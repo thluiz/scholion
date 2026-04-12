@@ -57,3 +57,68 @@ Para 紅, as fontes concordam na decomposição 糹+ 工 e no papel fonético de
 **Equilíbrio** – do Lat. *aequilibrium* (aequus + libra, peso igual): estabilidade; igualdade de forças; ponderação.
 
 **Unidade** – do Lat. *unitas, -atis* (de *unus*, um): qualidade do que é uno; o primeiro número inteiro; coesão.
+
+## Fontes Consultadas
+
+### MDBG
+
+紅	hung4	(figurative noun)  blood (usually it refers to bleeding)
+平	ping4	flat/level/equal/to tie (make the same score)/to draw (score)/calm/peaceful/see also 平聲|平声[ping2 sheng1]
+一		one/1/single/a (article)/as soon as/entire/whole/all/throughout/"one" radical in Chinese characters (Kangxi radical 1)/also pr. [yao1] for greater clarity when spelling out numbers digit by digit
+
+### Chinese Etymology
+
+=== 紅 ===
+紅: Found 1 etymologies and 2 characters in 0.009 seconds. E02220 紅7D05 → 红7EA2
+Main pronunciation 主要发音: hóng
+Original meaning 本义: Meaning color vermillion.
+English senses 英语理解: red, vermillion; blush, flush
+Shuowen 说文解字: 帛赤白色從糸工聲
+Character decomposition 字形分解 [?]:
+Compound 紅
+from single-thread (纟)糹 mì and
+phonetic carrying-pole 工 gōng
+Oracle characters 甲骨文 (0)
+There is no known oracle characters found. 没有已知的甲骨文.
+Bronze characters 金文 (0)
+There is no known bronze characters found. 没有已知的金文.
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (1)
+
+=== 平 ===
+平: Found 1 etymologies and 50 characters in 0.009 seconds. E09160 平5E73 → 平5E73
+Main pronunciation 主要发音: píng
+Original meaning 本义: Meaning flat or even.
+English senses 英语理解: flat, level, even; peaceful
+Shuowen 说文解字: 語平舒也從亏從八八分也爰禮說
+Character decomposition 字形分解 [?]:
+from water 水 shuǐ and
+Oracle characters 甲骨文 (0)
+There is no known oracle characters found. 没有已知的甲骨文.
+Bronze characters 金文 (9)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (40)
+
+=== 一 ===
+一: Found 1 etymologies and 22 characters in 0.003 seconds. E07306 一4E00 → 一4E00
+Main pronunciation 主要发音: yī
+Original meaning 本义: Meaning one.
+English senses 英语理解: one; a, an; alone
+Shuowen 说文解字: 惟初太始道立於一造分天地化成萬物凡一之屬皆從一
+Character decomposition 字形分解 [?]:
+Oracle characters 甲骨文 (2)
+Bronze characters 金文 (15)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (4)
+
+### CantoDict
+
+紅	hung4	(figurative noun)  blood (usually it refers to bleeding)
+平	ping4	flat/level/equal/to tie (make the same score)/to draw (score)/calm/peaceful/see also 平聲|平声[ping2 sheng1]
+一		one/1/single/a (article)/as soon as/entire/whole/all/throughout/"one" radical in Chinese characters (Kangxi radical 1)/also pr. [yao1] for greater clarity when spelling out numbers digit by digit
+
+### Priberam
+
+Vermelho		Cor semelhante à do sangue vivo.; Que tem a cor semelhante à do sangue vivo (ex.: tinta vermelha).; ENCARNADO, ESCARLATE, RUBRO; Que apresenta essa cor devido a um afluxo de sangue (ex.: tem o nariz vermelho de tanto chorar).; AFOGUEADO, CORADO, RUBRO
+Equilíbrio		Estado de um corpo que se mantém, ainda que solicitado ou impelido por forças opostas.; Igualdade das forças de dois corpos que obram um contra o outro.; Igualdade.; Boa inteligência, harmonia (dentro de um partido, entre partidos diferentes, entre nações, etc.).; •
+Unidade		O número um.; O princípio da numeração.; Quantidade tomada para termo de comparação.; Número dígito.; Objecto

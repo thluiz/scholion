@@ -38,3 +38,33 @@ As três fontes concordam que 玉 é pictograma, sem decomposição semântica. 
 ## Etimologia do Português
 
 **Jade** – do Esp. *(piedra de) ijada* (pedra do flanco, por se crer que curava dores renais): pedra semipreciosa de cor verde; símbolo de pureza, nobreza e imortalidade na tradição chinesa.
+
+## Fontes Consultadas
+
+### Chinese Etymology — hanziyuan.net (Richard Sears)
+
+#### 玉
+
+玉: Found 1 etymologies and 36 characters in 0.004 seconds. E07712 玉7389 → 玉7389
+Main pronunciation 主要发音: yù
+Original meaning 本义: Meaning jade.
+English senses 英语理解: jade, precious stone, gem
+Shuowen 说文解字: 石之美有五德潤澤以溫仁之方也䚡理自外可以知中義之方也其聲舒揚尃以遠聞智之方也不橈而折勇之方也銳廉而不技絜之方也象三玉之連丨其貫也凡玉之屬皆從玉陽冰日三畫正均如貫玉也
+Character decomposition 字形分解 [?]:
+(- 丶 added to distinguish it from person-wang 王 wáng)
+Oracle characters 甲骨文 (13)
+Bronze characters 金文 (8)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (14)
+
+### MDBG Chinese Dictionary
+
+#### 玉
+
+玉	juk6	jade
+
+### Priberam Dicionário
+
+#### Jade
+
+Pedra rija, de cor esverdeada, que risca o vidro e o quartzo (ex.: colar de jade).; Pedra rija, de cor esverdeada, que risca o vidro e o quartzo (ex.: colar de jade).; Cor esverdeada semelhante à cor dessa pedra.; Planta suculenta (Crassula ovata) da família das crassuláceas.; PLANTA-JADE

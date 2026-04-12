@@ -52,3 +52,60 @@ Para 識, as fontes concordam na decomposição 言+戠 (semântico + fonético)
 **Conhecimento** – de *conhecer*, do Lat. *cognoscere* (cum + gnoscere, aprender com): ato de saber; instrução; informação; discernimento.
 
 **Perguntar** – do Lat. *percontare* (sondar, inquirir): dirigir pergunta a; interrogar; indagar; questionar.
+
+## Fontes Consultadas
+
+### Chinese Etymology — hanziyuan.net (Richard Sears)
+
+#### 識
+
+識: Found 1 etymologies and 15 characters in 0.021 seconds. E05600 識8B58 → 识8BC6
+Main pronunciation 主要发音: shi
+Original meaning 本义: Meaning to recognize.
+English senses 英语理解: recognize, understand, know
+Shuowen 说文解字: 常也一曰知也從言戠聲
+Character decomposition 字形分解 [?]:
+SCompound 識
+from mouth-speak (讠)訁 yán and
+related phonetic sentry (只)戠 zhí and
+substitute phonetic only 只 zhí
+Oracle characters 甲骨文 (0)
+Bronze characters 金文 (1)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (13)
+
+#### 問
+
+問: Found 1 etymologies and 10 characters in 0.004 seconds. E06439 問554F → 问95EE
+Main pronunciation 主要发音: wèn
+Original meaning 本义: Meaning to ask.
+English senses 英语理解: ask about, inquire after
+Shuowen 说文解字: 訊也從口門聲
+Character decomposition 字形分解 [?]:
+Compound 問
+from mouth 口 kǒu and
+related phonetic gate (门)門 mén
+Oracle characters 甲骨文 (1)
+Bronze characters 金文 (1)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (7)
+
+### MDBG Chinese Dictionary
+
+#### 識
+
+識	Sem entrada.
+
+#### 問
+
+問	man6	(verb)  to question
+
+### Priberam Dicionário
+
+#### Conhecimento
+
+Acto; Noção.; Notícia, informação.; Experiência.; Ideia
+
+#### Perguntar
+
+Fazer perguntas.; INQUIRIR, INTERPELAR, INTERROGAR; Pedir informações.; Deve-se escrever O contrato termina automaticamente na data aniversária ou na data aniversário?; A minha dúvida é se está correcto dizer: quando eu estive em Canárias ou quando eu estive nas Canárias?

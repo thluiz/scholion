@@ -51,3 +51,50 @@ Para 樂, o MDBG decompõe em 白 + 幺幺 + 木. O hanziyuan.net (Richard Sears
 **Música** – do Lat. *musica*, do Gr. *mousikḗ* (arte das Musas): arte de combinar sons; melodia; harmonia.
 
 **Maravilha** – do Lat. *mirabilia* (coisas admiráveis): coisa que causa admiração; prodígio; o que surpreende.
+
+## Fontes Consultadas
+
+### MDBG
+
+樂	lok6	happy/cheerful/to laugh
+奇	kei4	strange/odd/weird/wonderful/surprisingly/unusually
+
+### Chinese Etymology
+
+=== 樂 ===
+樂: Found 1 etymologies and 63 characters in 0.020 seconds. E07820 樂6A02 → 乐4E50
+Main pronunciation 主要发音: lè
+Original meaning 本义: Meaning music.
+English senses 英语理解: happy, glad; enjoyable; music
+Shuowen 说文解字: 五聲八音總名象鼓鞞木虡也
+Character decomposition 字形分解 [?]:
+from two-threads 𢆶 yōu and
+Oracle characters 甲骨文 (3)
+Bronze characters 金文 (19)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (40)
+
+=== 奇 ===
+奇: Found 1 etymologies and 9 characters in 0.008 seconds. E04859 奇5947 → 奇5947
+Main pronunciation 主要发音: qí
+Original meaning 本义: Meaning (orig) to ride a horse. Now meaning strange.
+English senses 英语理解: strange, unusual, uncanny, occult
+Shuowen 说文解字: 異也一曰不耦從大從可
+Character decomposition 字形分解 [?]:
+Oracle characters 甲骨文 (0)
+There is no known oracle characters found. 没有已知的甲骨文.
+Bronze characters 金文 (0)
+There is no known bronze characters found. 没有已知的金文.
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (8)
+
+### CantoDict
+
+樂	lok6	happy/cheerful/to laugh
+奇	kei4	strange/odd/weird/wonderful/surprisingly/unusually
+
+### Priberam
+
+Alegria		Sentimento de grande contentamento, que geralmente se manifesta por sinais exteriores.; FELICIDADE, GÁUDIO, JÚBILO, REGOZIJO; TRISTEZA; O que está na origem desse sentimento.; Acontecimento feliz.
+Música		Organização de sons com intenções estéticas, artísticas ou lúdicas, variáveis de acordo com o autor, com a zona geográfica, com a época, etc.; Arte e técnica de combinar os sons de forma melodiosa.; Composição ou obra musical.; Execução de uma peça musical.; Conjunto de músicos.
+Maravilha		Designação dada a várias plantas herbáceas da família das asteráceas.; Coisa ou pessoa que causa admiração ou surpresa por exceder o que pode ser imaginado ou esperado.; Coisa rara, insólita ou extraordinária.; MILAGRE, PORTENTO, PRODÍGIO; Estado de grande admiração.

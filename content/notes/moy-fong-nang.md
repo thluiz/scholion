@@ -53,3 +53,51 @@ Para 風, as fontes divergem na decomposição. O MDBG decompõe em 几+虫. O S
 **Vento** – do Lat. *ventus, -i*: deslocação do ar atmosférico; corrente de ar; sopro; tendência.
 
 **Capacidade** – do Lat. *capacitas, -atis* (de *capax*, que contém): aptidão; habilidade; poder de realizar; competência.
+
+## Fontes Consultadas
+
+### Chinese Etymology — hanziyuan.net (Richard Sears)
+
+#### 風
+
+風: Found 1 etymologies and 1 characters in 0.000 seconds.
+Main pronunciation 主要发音: fēng
+English senses 英语理解: wind; air; manners, atmosphere
+Shuowen 说文解字: 八風也
+Character decomposition 字形分解 [?]:
+from 虫 chóng (phonetic)
+Oracle characters 甲骨文 (1)
+
+#### 能
+
+能: Found 1 etymologies and 34 characters in 0.010 seconds. E04408 能80FD → 能80FD
+Main pronunciation 主要发音: néng
+Original meaning 本义: Meaning able.
+English senses 英语理解: to be able; can, permitted to; ability
+Shuowen 说文解字: 熊屬足似鹿從肉**聲能獸堅中故稱賢能而彊壯稱能傑也凡能之屬皆從能
+Character decomposition 字形分解 [?]:
+from (rem- ⺝⺼ yuè) from
+Oracle characters 甲骨文 (0)
+Bronze characters 金文 (12)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (21)
+
+### MDBG Chinese Dictionary
+
+#### 風
+
+風	fung1	wind/news/style/custom/manner/CL:陣|阵[zhen4],絲|丝[si1]
+
+#### 能
+
+能	nang4	can/to be able to/might possibly/ability/(physics) energy
+
+### Priberam Dicionário
+
+#### Vento
+
+Ar atmosférico que se desloca naturalmente, seguindo determinada direcção; Movimento do ar assim deslocado.; Ar agitado, por qualquer meio (ex.: vento do ar condicionado).; Ar em geral.; Falha ou defeito em obra fundida, proveniente de algum ar, que entrou no metal durante a solidificação.
+
+#### Capacidade
+
+Espaço interior de um corpo vazio.; Grandeza desse espaço (com relação ao que pode conter).; Aptidão, competência.; Talento.; Pessoa entendida.

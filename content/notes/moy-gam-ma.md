@@ -53,3 +53,31 @@ O hanziyuan.net (Richard Sears) decompõe 懃 como 心 (coração) + 勤 (indust
 **Cortesia** – de *cortês* (corte + -ês), do Lat. *cohors, cohortis* (pátio, corte): qualidade do que é cortês; cuidado especial no trato; amabilidade, delicadeza.
 
 **Cavalo** – do Lat. *caballus, -i* (cavalo de trabalho, em oposição ao clássico *equus*): animal quadrúpede equino; peça de xadrez; unidade de força.
+
+## Fontes Consultadas
+
+### MDBG Chinese Dictionary
+
+**懃** (qín): diligent/industrious/hardworking/frequent/regular/constant
+
+**馬** (mǎ / maa5): horse/CL:匹[pi3]/horse or cavalry piece in Chinese chess/knight in Western chess
+
+### Chinese Etymology (hanziyuan.net)
+
+**懃**: Original meaning: Meaning courteous. Shuowen: (sem entrada). Decomposition: Compound 懃 from heart 心 xīn and. Oracle (0), Bronze (0), Seal (0).
+
+**馬**: Original meaning: Meaning horse. Shuowen: 怒也武也象馬頭髦尾四足之形凡馬之屬皆從馬. Decomposition: (pictogram). Oracle (84), Bronze (0), Seal (0).
+
+### CantoDict (cantonese.org)
+
+**懃**: kan4
+
+**馬**: maa5
+
+### Priberam Dicionário
+
+**Diligência**: Aplicação para conseguir algo.; CUIDADO, ZELO; Disposição ou medida que se toma para resolver ou dar continuidade a um assunto.; PROVIDÊNCIA; Actividade
+
+**Cortesia**: Qualidade do que é cortês.; Educação ou especial cuidado no trato ou no contacto; AMABILIDADE, DELICADEZA, URBANIDADE; Aquilo que é oferecido, como prova ou sinal de amabilidade (ex.: o aperitivo é cortesia da casa).; Cumprimentos dos toureiros à autoridade e ao público, antes de começar a corrida.
+
+**Cavalo**: Quadrúpede equídeo; Quadrúpede equídeo; Cada uma das peças do jogo de xadrez que, no início do jogo, está entre a torre e o bispo.; Unidade de um corpo de cavalaria.; Aparelho destinado a saltos, que consiste num corpo de forma rectangular

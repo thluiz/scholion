@@ -52,3 +52,29 @@ Para 騎, as fontes concordam na estrutura 馬 + 奇. O Shuowen define 騎 como 
 **Cavalgar** – do Lat. *caballicare* (de *caballus*, cavalo): montar a cavalo; andar montado.
 
 **Chave** – do Lat. *clavis* (o que fecha): instrumento para abrir ou fechar fechaduras; o que dá acesso; solução de um problema.
+
+## Fontes Consultadas
+
+### MDBG Chinese Dictionary
+
+**騎** (qí / ke4): to ride (an animal or bike)/to sit astride/classifier for saddle-horses
+
+**鑰** (yuè): key/also pr. [yao4]
+
+### Chinese Etymology (hanziyuan.net)
+
+**騎**: Original meaning: Meaning to ride horseback. Shuowen: 跨馬也從馬奇聲. Decomposition: Compound 騎 from horse (马)馬 mǎ and. Oracle (0), Bronze (0), Seal (1).
+
+**鑰**: Original meaning: Meaning lock. Shuowen: (sem entrada). Decomposition: Compound 鑰 from metal-bell (钅)釒 jīn and phonetic music-flute 龠 yuè substitute phonetic moon 月 yuè phonetic-phonetic 月龠. Oracle (0), Bronze (0), Seal (0).
+
+### CantoDict (cantonese.org)
+
+**騎**: ke4
+
+**鑰**: joek6
+
+### Priberam Dicionário
+
+**Cavalgar**: Montar a cavalo.; Estar sentado, como se estivesse a cavalo.; ESCARRANCHAR-SE; Colocar-se a cavalo sobre.; MONTAR
+
+**Chave**: Instrumento com que se faz correr a lingueta; Instrumento com que se faz correr a lingueta; Insígnia ou símbolo de poder, autoridade ou posse.; Aquilo que garante o acesso a algo (ex.: pensava encontrar a chave da felicidade).; PORTA

@@ -54,3 +54,31 @@ Para 法, a decomposição moderna 氵+ 去 é pacífica entre as fontes. O Shuo
 **Método** – do Lat. *methodus*, do Gr. *méthodos* (meta + hodós, caminho para): processo racional para chegar a um fim; ordem, sistema.
 
 **Benefício** – do Lat. *beneficium*: bem que se faz; vantagem, proveito.
+
+## Fontes Consultadas
+
+### MDBG Chinese Dictionary
+
+**法** (fǎ / faat3): (noun) 1. The short form of France; (adjective) legislative
+
+**利** (lì / lei6): sharp/favorable/advantage/benefit/profit/interest/to do good to/to benefit
+
+### Chinese Etymology (hanziyuan.net)
+
+**法**: Original meaning: Meaning (orig) a river ford 辦法 bànfǎ - method (now) 法魯 fǎ lǔ - law. Shuowen: 今文省. Decomposition: Compound 法 older 㳒 older 灋 from three-dot-water 氵 shuǐ and (- mythical animal that can tell the difference between right and wrong and save you from the water). Oracle (0), Bronze (0), Seal (1).
+
+**利**: Original meaning: Meaning profit, as from the fields. Shuowen: 銛也從刀和然後利從和省易曰利者義之和也. Decomposition: Compound 利𥝢𥝤 from grain 禾 hé and. Oracle (15), Bronze (6), Seal (1).
+
+### CantoDict (cantonese.org)
+
+**法**: faat3
+
+**利**: lei6
+
+### Priberam Dicionário
+
+**Lei**: Preceito ou regra estabelecida por direito.; Norma, obrigação.; Religião.; Relação constante entre fenómenos; Quantidade de metal precioso que deve entrar em cada quilograma de metal preparado ou cunhado.
+
+**Método**: Ordem pedagógica na educação.; Tratado elementar.; Processo racional para chegar a determinado fim.; Maneira de proceder.; Processo racional para chegar ao conhecimento ou demonstração da verdade.
+
+**Benefício**: Bem que generosamente se faz a alguém.; Beneficiação.; Cargo eclesiástico nas sés e colegiadas.; Rendimento desse cargo.; Espectáculo

@@ -49,3 +49,53 @@ Para 馬, as fontes concordam: pictograma puro, sem decomposição semântica. O
 **Cavalo** – do Lat. *caballus, -i* (cavalo de trabalho): animal quadrúpede equino; força em movimento.
 
 **Distinção** – do Lat. *distinctio, -onis* (de *distinguere*, separar): diferença; qualidade superior; elegância; nobreza.
+
+## Fontes Consultadas
+
+### Chinese Etymology — hanziyuan.net (Richard Sears)
+
+#### 馬
+
+馬: Found 1 etymologies and 371 characters.
+Main pronunciation 主要发音: mǎ
+Original meaning 本义: Meaning horse.
+English senses 英语理解: horse
+Shuowen 说文解字: 怒也武也象馬頭髦尾四足之形
+Oracle characters 甲骨文 (84)
+
+#### 佚
+
+佚: Found 1 etymologies and 3 characters in 0.002 seconds. E07383 佚4F5A → 佚4F5A
+Main pronunciation 主要发音: yì
+Original meaning 本义: Meaning indulge in pleasures; flee
+English senses 英语理解:
+Shuowen 说文解字: 佚民也從人失聲一曰佚忽也
+Character decomposition 字形分解 [?]:
+Compound 佚
+from person-left 亻 rén and
+phonetic hand-lose-object 失 shī.
+(double-phonetic- 失 shī 跌 diē)
+Oracle characters 甲骨文 (0)
+Bronze characters 金文 (0)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (2)
+
+### MDBG Chinese Dictionary
+
+#### 馬
+
+馬	maa5	horse/CL:匹[pi3]/horse or cavalry piece in Chinese chess/knight in Western chess
+
+#### 佚
+
+佚	Sem entrada.
+
+### Priberam Dicionário
+
+#### Cavalo
+
+Quadrúpede equídeo; Quadrúpede equídeo; Cada uma das peças do jogo de xadrez que, no início do jogo, está entre a torre e o bispo.; Unidade de um corpo de cavalaria.; Aparelho destinado a saltos, que consiste num corpo de forma rectangular
+
+#### Distinção
+
+Acto; Diferença.; Qualidade distintiva.; Preferência, prerrogativa, excepção; Nobreza de porte.

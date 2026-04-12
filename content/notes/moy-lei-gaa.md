@@ -52,3 +52,21 @@ Para 利, o Shuowen Jiezi define como 銛也, "afiado", e decompõe em 刀 (faca
 **Benefício** – do Lat. *beneficium*: bem que se faz; vantagem, proveito.
 
 **Excelência** – do Lat. *excellentia* (superioridade): qualidade superior; distinção; primazia.
+
+## Fontes Consultadas
+
+### MDBG Chinese Dictionary
+**利** (lì / lei6): sharp/favorable/advantage/benefit/profit/interest/to do good to/to benefit
+**嘉** (jiā / gaa1): excellent/auspicious/to praise/to commend
+
+### Chinese Etymology (hanziyuan.net)
+**利**: Original meaning: Meaning profit, as from the fields. Shuowen: 銛也從刀和然後利從和省易曰利者義之和也. Decomposition: Compound 利𥝢𥝤 from grain 禾 hé and. Oracle (15), Bronze (6), Seal (1).
+**嘉**: Original meaning: Meaning joyful. Shuowen: 美也從壴加聲. Decomposition: Compound 嘉 from drum 壴 zhù and phonetic mouth-increase 加 jiā. Oracle (0), Bronze (14), Seal (1).
+
+### CantoDict (cantonese.org)
+**利**: lei6
+**嘉**: gaa1
+
+### Priberam Dicionário
+**Benefício**: Bem que generosamente se faz a alguém.; Beneficiação.; Cargo eclesiástico nas sés e colegiadas.; Rendimento desse cargo.; Espectáculo
+**Excelência**: Qualidade do que é excelente.; Grau elevado de perfeição, de bondade.; SUPERIORIDADE; Forma de tratamento destinada a pessoas nobres ou ilustres, e em geral dada às pessoas consideradas de alta categoria social (ex.: Sua Excelência mandou avisar que chegará com algum atraso) [Abreviatura: Ex.ª].

@@ -52,3 +52,51 @@ Para 祖, as fontes concordam na decomposição 礻+ 且 e no sentido de ancestr
 **Ancestral** – do Lat. *antecessor, -oris*: ascendente, antepassado.
 
 **Paz** – do Lat. *pax, pacis*: tranquilidade; ausência de conflito.
+
+## Fontes Consultadas
+
+### MDBG
+
+祖	zou2	ancestor/forefather/grandparents
+安	on1	content/calm/still/quiet/safe/secure/in good health/to find a place for/to install/to fix/to fit/to bring (a charge against sb)/to pacify/to harbor (good intentions)/security/safety/peace/ampere
+
+### Chinese Etymology
+
+=== 祖 ===
+祖: Found 1 etymologies and 17 characters in 0.003 seconds. E08510 祖7956 → 祖7956
+Main pronunciation 主要发音: zǔ
+Original meaning 本义: Meaning ancestor.
+English senses 英语理解: ancestor, forefather; grandfather
+Shuowen 说文解字: 始廟也從示且聲
+Character decomposition 字形分解 [?]:
+Compound 祖
+from altar 礻示 shì and
+related phonetic altar 且 qiě-jū.
+Oracle characters 甲骨文 (1)
+Bronze characters 金文 (6)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (9)
+
+=== 安 ===
+安: Found 1 etymologies and 80 characters in 0.011 seconds. E00077 安5B89 → 安5B89
+Main pronunciation 主要发音: ān
+Original meaning 本义: Meaning peaceful.
+English senses 英语理解: peaceful, tranquil, quiet
+Shuowen 说文解字: 靜也從女在宀下
+Character decomposition 字形分解 [?]:
+Compound 安
+from building 宀 mián and
+Oracle characters 甲骨文 (16)
+Bronze characters 金文 (15)
+Seal characters 说文解字的篆字 (1)
+Liushutong characters 六书通的字 (48)
+
+### CantoDict
+
+祖	zou2	ancestor/forefather/grandparents
+安	on1	content/calm/still/quiet/safe/secure/in good health/to find a place for/to install/to fix/to fit/to bring (a charge against sb)/to pacify/to harbor (good intentions)/security/safety/peace/ampere
+
+### Priberam
+
+Ancestral		Dos antepassados.; Muito antigo.; Avito.; Que ou quem pertence a uma geração anterior.; ANTECEDENTE, ANTEPASSADO
+Paz		Quietação de ânimo.; Sossego, tranquilidade; Ausência de guerra, de dissensões.; Boa harmonia.; Concórdia, reconciliação.

@@ -49,3 +49,29 @@ Para 利, as três fontes concordam na decomposição 禾 + 刀 e no sentido de 
 **Benefício** – do Lat. *beneficium* (bene + facere, fazer bem): bem que se faz; vantagem, proveito; favor concedido.
 
 **Rei** – do Lat. *rex, regis* (aquele que dirige): soberano de um reino; o primeiro, o principal.
+
+## Fontes Consultadas
+
+### MDBG Chinese Dictionary
+
+**利** (lì / lei6): sharp/favorable/advantage/benefit/profit/interest/to do good to/to benefit
+
+**王** (wáng / wong4): king or monarch/best or strongest of its type/grand/great
+
+### Chinese Etymology (hanziyuan.net)
+
+**利**: Original meaning: Meaning profit, as from the fields. Shuowen: 銛也從刀和然後利從和省易曰利者義之和也. Decomposition: Compound 利𥝢𥝤 from grain 禾 hé and. Oracle (15), Bronze (6), Seal (1).
+
+**王**: Original meaning: Meaning king. Shuowen: 天下所歸往也董仲舒曰古之造文者三畫而連其中謂之王三者天地人也而參通之者王也孔子曰一貫三為王凡王之屬皆從王. Decomposition: from (not- 壬 rén) and (actually 王 is like seal character for jade, the dot was added later to distinguish from king. seal character for king has middle line above center). Oracle (270), Bronze (0), Seal (0).
+
+### CantoDict (cantonese.org)
+
+**利**: lei6
+
+**王**: wong4
+
+### Priberam Dicionário
+
+**Benefício**: Bem que generosamente se faz a alguém.; Beneficiação.; Cargo eclesiástico nas sés e colegiadas.; Rendimento desse cargo.; Espectáculo
+
+**Rei**: Primeira figura de cada naipe, nas cartas do baralho.; Título de nobreza mais alto de um reino.; MONARCA, SOBERANO; O mesmo que rei consorte.; Título do pai do rei.
