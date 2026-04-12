@@ -1,5 +1,5 @@
 ---
-title: "說文解字 digital: as bases da Academia Sinica"
+title: "說文解字: Academia Sinica disponibiliza base pública de consulta"
 date: 2026-04-12T20:50:32+01:00
 summary: "O Shuowen Jiezi está disponível de graça nas bases filológicas da Academia Sinica de Taiwan, com 24 anos de curadoria académica."
 tags: ["etimologia", "chinês", "linguística"]
