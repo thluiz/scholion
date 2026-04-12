@@ -45,7 +45,7 @@ Caminhar e alcançar. O Shuowen Jiezi define 達 como 行不相遇也, "caminhar
 
 ### Divergências entre fontes
 
-Para 美, as fontes concordam em 羊 + 大. O Shuowen define como "doce" (甘也), associando ao sabor do carneiro gordo. O hanziyuan.net (Richard Sears) classifica 美 como pictograma de uma pessoa com um adorno de plumas na cabeça, não como carneiro + grande. Se essa leitura estiver correta, a decomposição 羊 + 大 é reinterpretação posterior. Para 達, o Shuowen decompõe como 辶 + 羍 (fonético), não como 辶 + 大 + 土. A segmentação em três componentes separados (辶, 大, 土) é análise moderna simplificada; o Shuowen trata o interior como bloco fonético único.
+Para 美, o Shuowen define como 甘也從羊從大, "doce, de carneiro e grande". O hanziyuan.net (Richard Sears) lista 大 (person-big) como componente e nota que a parte superior (羊) pode derivar de um adorno de plumas ou cabelo, não necessariamente de carneiro. Regista 4 formas oraculares e 2 de bronze. Se a leitura de Sears estiver correta, a decomposição 羊 + 大 é reinterpretação posterior. Para 達, o hanziyuan.net decompõe como 辶 + 羍 (fonético, "lamb-stew-da"), não como 辶 + 大 + 土. Não há Shuowen registado no hanziyuan.net para 達. Regista 0 formas oraculares e 4 de bronze. A segmentação em três componentes separados (辶, 大, 土) é análise moderna simplificada.
 
 ## Extrapolando na etimologia traduzida
 

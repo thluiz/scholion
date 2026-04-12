@@ -47,7 +47,7 @@ Traço único. A unidade. O mais simples dos caracteres chineses. O Shuowen defi
 
 ### Divergências entre fontes
 
-Para 紅, as fontes concordam na decomposição 糹+ 工 e no papel fonético de 工. O Shuowen define 紅 como 帛赤白色也, "seda de cor entre o vermelho e o branco", um rosa-avermelhado, não o vermelho vivo que o MDBG e o uso moderno atribuem. O hanziyuan.net (Richard Sears) confirma a decomposição mas não comenta a nuance de cor. Para 平, o MDBG trata como pictograma de superfície plana. O hanziyuan.net decompõe em 于 (fonético) + 八 (dividir), lendo o caractere como composto fono-semântico, não como pictograma. O Shuowen define 平 como 語平舒也, associando-o à fala, não a uma balança. Para 一, as três fontes concordam: traço único, indicativo puro, sem decomposição.
+Para 紅, as fontes concordam na decomposição 糹+ 工 e no papel fonético de 工. O Shuowen define 紅 como 帛赤白色也, "seda de cor entre o vermelho e o branco", um rosa-avermelhado, não o vermelho vivo que o MDBG e o uso moderno atribuem. O hanziyuan.net (Richard Sears) confirma a decomposição mas não comenta a nuance de cor. Para 平, o MDBG trata como pictograma de superfície plana. O hanziyuan.net decompõe a partir de 水 (água), lendo o caractere como relacionado com a superfície nivelada da água. Não registra formas em osso de oráculo (甲骨文 0), mas tem 9 formas em bronze. O Shuowen define 平 como 語平舒也 e decompõe em 亏 + 八 (dividir). Para 一, as três fontes concordam: traço único, indicativo puro, sem decomposição.
 
 ## Extrapolando na etimologia traduzida
 

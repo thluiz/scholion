@@ -44,7 +44,7 @@ A chave de metal. O radical 金 indica o material; 龠 representa um instrumento
 
 ### Divergências entre fontes
 
-Para 騎, as fontes concordam na estrutura 馬 + 奇. O papel de 奇 é fonético; a leitura semântica ("cavalo notável") não tem suporte nas fontes clássicas. O Shuowen define 騎 simplesmente como "montar a cavalo" (跨馬也), sem atribuir sentido semântico a 奇. Para 鑰, a estrutura 金 + 龠 é pacífica. O hanziyuan.net (Richard Sears) classifica 龠 como pictograma de uma flauta com orifícios. O Shuowen define 龠 como instrumento musical de três orifícios. A conexão entre flauta e chave é morfológica (objeto tubular com aberturas), não semântica.
+Para 騎, as fontes concordam na estrutura 馬 + 奇. O Shuowen define 騎 como 跨馬也從馬奇聲 — 奇 é fonético. O hanziyuan.net (Richard Sears) não regista formas oraculares nem de bronze para 騎. Para 鑰, a estrutura 金 + 龠 é pacífica. O hanziyuan.net classifica 龠 como "music-flute" (flauta) e indica que funciona como fonético em 鑰. Não há Shuowen registado no hanziyuan.net para 鑰, nem formas oraculares, de bronze ou de selo. A conexão entre flauta e chave é morfológica (objeto tubular com aberturas), não semântica.
 
 ## Extrapolando na etimologia traduzida
 

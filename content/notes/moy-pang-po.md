@@ -44,7 +44,7 @@ Sol para todos. Universal. O componente superior 並 indica união, simultaneida
 
 ### Divergências entre fontes
 
-Para 彭, o MDBG e o Shuowen concordam na decomposição 壴+彡 e na definição "som de tambor". O hanziyuan.net (Richard Sears) concorda com a estrutura mas classifica 彡 como indicativo genérico de padrão/textura, sem especificar "ondas sonoras". A leitura de reverberação é inferência, não dado explícito das fontes. Para 普, o hanziyuan.net decompõe em 並+日, concordando com o MDBG. O Shuowen define 普 como 日無色也 ("sol sem cor particular"), uma glosa que aponta para amplitude e não para "universalidade" no sentido moderno. O sentido de "universal" é extensão posterior, não o significado original segundo o Shuowen.
+Para 彭, as três fontes concordam na decomposição 壴+彡 e na definição "som de tambor" (鼓聲也). O hanziyuan.net (Richard Sears) descreve 彡 especificamente como "drum-beats" (batidas de tambor), reforçando a leitura sonora. O caractere tem 25 atestações em ossos oraculares, confirmando antiguidade. Para 普, o hanziyuan.net decompõe em 並 (two-people-same) + 日, concordando com o MDBG. Não há atestações em ossos oraculares nem bronze. O Shuowen define 普 como 日無色也 ("sol sem cor particular"), uma glosa que aponta para amplitude e não para "universalidade" no sentido moderno. O sentido de "universal" é extensão posterior, não o significado original segundo o Shuowen.
 
 ## Extrapolando na etimologia traduzida
 

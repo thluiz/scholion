@@ -44,7 +44,7 @@ Mover com as mãos. O radical 扌 indica ação manual; 那 funciona como compon
 
 ### Divergências entre fontes
 
-Para 賁, o MDBG decompõe em 卉+貝. O hanziyuan.net (Richard Sears) trata a parte superior não como 卉 (vegetação) mas como uma forma de 奔 (correr), ligando o caractere ao sentido de ímpeto antes do de ornamento. O Shuowen regista duas leituras distintas: bì (ornamento, hexagrama do Yijing) e bēn (correr com energia), confirmando a dualidade. A associação com vegetação e adorno depende da fonte consultada. Para 挪, as fontes concordam na decomposição 扌+那 e no sentido de mover/deslocar.
+Para 賁, o MDBG decompõe em 卉+貝. O hanziyuan.net (Richard Sears) confirma a decomposição a partir de 貝 (cowry), e o Shuowen define 飾也從貝卉聲, tratando 卉 como fonético. Não há atestações em ossos oraculares nem bronze. A leitura bēn (correr com energia) coexiste com bì (ornamento), mas nenhuma das fontes associa a parte superior a 奔. Para 挪, o MDBG decompõe em 扌+那. O hanziyuan.net, porém, regista a forma original 捼 (扌+委), do Shuowen 推也從手委聲, uma composição diferente da forma moderna 挪. O caractere 挪 (扌+那) é formação posterior não atestada no Shuowen.
 
 ## Extrapolando na etimologia traduzida
 

@@ -44,7 +44,7 @@ Ave da união. O componente esquerdo 合 funciona como fonético e semântico: a
 
 ### Divergências entre fontes
 
-Para 意, as três fontes concordam na decomposição 音+心. O Shuowen define como 志也 ("propósito"), o MDBG como "significado, intenção", e o hanziyuan.net (Richard Sears) confirma a estrutura. Não há divergência relevante neste caractere. Para 鴿, o MDBG decompõe em 合+鳥. O hanziyuan.net concorda com a estrutura mas tem poucas atestações antigas, dado que 鴿 não aparece nos corpora de ossos oraculares nem de bronze. O Shuowen não inclui entrada para 鴿, o que sugere que o caractere é formação tardia. A leitura semântica de 合 como "ave que se junta em bando" é interpretação posterior, não etimologia atestada.
+Para 意, as três fontes concordam na decomposição 音+心. O Shuowen define como 志也 ("propósito") e confirma 從心從音. O hanziyuan.net (Richard Sears) confirma a estrutura a partir de 心 (heart), sem atestações em ossos oraculares nem bronze. Não há divergência relevante neste caractere. Para 鴿, o MDBG decompõe em 合+鳥. O hanziyuan.net concorda: decompõe em 鳥 (bird) + fonético 合 (two-mouth-together), sem atestações em ossos oraculares nem bronze. O Shuowen inclui entrada para 鴿: 鳩屬從鳥合聲 ("da família dos pombos, de 鳥 com 合 como fonético"). A leitura semântica de 合 como "ave que se junta em bando" é interpretação posterior; o Shuowen trata 合 como fonético puro.
 
 ## Extrapolando na etimologia traduzida
 

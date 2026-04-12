@@ -45,7 +45,7 @@ Pictograma antigo de um urso. O Shuowen Jiezi define 能 como 熊屬, "da famíl
 
 ### Divergências entre fontes
 
-Para 風, as fontes divergem na decomposição moderna. O MDBG decompõe em 几+虫. O Shuowen Jiezi define como 八風也 e regista a forma com 虫 dentro de 凡. O hanziyuan.net (Richard Sears) mostra que a forma arcaica era um pássaro (鳳, fénix), sem 虫. A presença de 虫 na forma moderna é uma reanálise tardia, não componente original. A relação entre 風 (vento) e 鳳 (fénix) é aceite pelas três fontes, mas só o hanziyuan.net trata o pássaro como a forma primária. Para 能, o Shuowen define como 熊屬 ("da família do urso") e o hanziyuan.net confirma o pictograma de urso nas formas arcaicas. O MDBG decompõe graficamente em componentes modernos (厶+月+匕匕) sem referir a origem animal.
+Para 風, as fontes divergem na decomposição. O MDBG decompõe em 几+虫. O Shuowen Jiezi define como 八風也 e explica que o vento faz nascer insectos (風動蟲生故蟲八日而化), justificando a presença de 虫. O hanziyuan.net (Richard Sears) lista 虫 como componente fonético e regista apenas uma forma em osso oracular e nenhuma em bronze. O hanziyuan.net não descreve a forma arcaica como um pássaro (鳳) nem trata a relação 風/鳳 como primária. Para 能, o Shuowen define como 熊屬 ("da família do urso") e descreve o animal em detalhe. O hanziyuan.net (Richard Sears) regista o componente ⺝⺼ (carne/mês) e possui 12 formas em bronze mas nenhuma em ossos oraculares. O hanziyuan.net não descreve explicitamente a forma como pictograma de urso, embora o Shuowen o faça. O MDBG decompõe graficamente em componentes modernos (厶+月+匕匕) sem referir a origem animal.
 
 ## Extrapolando na etimologia traduzida
 

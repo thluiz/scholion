@@ -45,7 +45,7 @@ Coração reto no caminho. O radical 彳indica movimento; 直 + 心 compõem o n
 
 ### Divergências entre fontes
 
-Para 舞, o Shuowen Jiezi define como 樂也, "alegria", e decompõe em 無 (fonético) + 舛 (pés opostos). O hanziyuan.net (Richard Sears) classifica as formas oraculares como pictograma de uma pessoa segurando adornos e dançando, sem separação clara em 無 + 舛. A decomposição em componentes conhecidos seria posterior, quando o caractere se estabilizou na escrita. O MDBG lista apenas "dançar" sem comentar a estrutura. Para 德, o Shuowen decompõe em 彳 + 直 + 心. O hanziyuan.net nota que a forma oracular mais antiga não contém 心; o coração foi acrescentado em estágios posteriores (bronze tardio). A forma primitiva mostra 彳 + 直 apenas, "caminhar reto", com a dimensão moral interior sendo adição gráfica e semântica subsequente.
+Para 舞, o Shuowen Jiezi define como 樂也用足相背從舛無聲, "alegria", decompondo em 舛 (pés opostos) + 無 (fonético). O hanziyuan.net (Richard Sears) decompõe o caractere a partir de 無 ("from person-dancing-not 無 wú"), tratando 無 como componente central. O hanziyuan lista 1 forma oracular, 2 em bronze e 1 篆字 para 舞. O MDBG lista apenas "dançar" sem comentar a estrutura. Para 德, o Shuowen define como 升也從彳𢛳聲, com 𢛳 (variante de 惪, que contém 心) como componente fonético. O hanziyuan.net decompõe em 彳 + "related phonetic" 惪/悳, incluindo 心. O hanziyuan não lista formas oraculares para 德 (0 甲骨文), mas registra 42 formas em bronze.
 
 ## Extrapolando na etimologia traduzida
 

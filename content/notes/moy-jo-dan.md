@@ -41,7 +41,7 @@ Pictograma de um poço de cinábrio. O ponto central representa o mineral dentro
 
 ### Divergências entre fontes
 
-Para 祖, as fontes concordam na decomposição 礻+ 且. O Shuowen Jiezi define 祖 como 始廟也, "templo dos primórdios", enfatizando o aspecto ritual. O hanziyuan.net (Richard Sears) confirma a estrutura mas classifica 且 como pictograma independente (mesa de oferendas ou bloco de pedra), sem atribuir-lhe valor fonético. O MDBG lista apenas o sentido moderno de "ancestral, avô, fundador", sem entrar na composição. Para 丹, o Shuowen descreve o caractere como 巴越之赤石也, "pedra vermelha de Ba e Yue", e dá uma decomposição em 一 (um) dentro de 冂 (cavidade). O hanziyuan.net trata 丹 como pictograma puro de um poço de minério com ponto central, sem decompor em partes.
+Para 祖, as fontes concordam na decomposição 礻+ 且. O Shuowen Jiezi define 祖 como 始廟也從示且聲, "templo dos primórdios", com 且 como elemento fonético. O hanziyuan.net (Richard Sears) confirma a estrutura e também classifica 且 como "related phonetic" (fonético aparentado), ou seja, componente que contribui tanto som quanto sentido. O MDBG lista apenas o sentido moderno de "ancestral, avô, fundador", sem entrar na composição. Para 丹, o Shuowen descreve o caractere como 巴越之赤石也, "pedra vermelha de Ba e Yue", e dá uma decomposição em 一 (um) dentro de 冂 (cavidade). O hanziyuan.net trata 丹 como pictograma puro de um poço de minério com ponto central, sem decompor em partes.
 
 ## Extrapolando na etimologia traduzida
 

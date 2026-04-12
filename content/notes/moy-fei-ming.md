@@ -44,7 +44,7 @@ Sol e lua juntos: claridade. O Shuowen define 明 como 照也, "iluminar". Sol e
 
 ### Divergências entre fontes
 
-Para 奜, o MDBG regista a decomposição 大 + 非 com o sentido de grandioso. O hanziyuan.net (Richard Sears) não tem entrada para 奜, o que é comum em caracteres raros fora do uso corrente. O Shuowen também não regista 奜 como entrada independente. A informação disponível vem essencialmente do MDBG e de dicionários modernos. Para 明, as três fontes concordam na decomposição 日 + 月 e no sentido de iluminar/brilhante. O hanziyuan.net nota que as formas mais antigas em osso de oráculo mostram 囧 (janela) no lugar de 日, sugerindo que a origem é "luar entrando pela janela", não "sol e lua juntos". O Shuowen regista a forma 朙 (com 囧) como variante antiga.
+Para 奜, o MDBG regista a decomposição 大 + 非 com o sentido de grandioso. O hanziyuan.net (Richard Sears) não tem entrada para 奜, o que é comum em caracteres raros fora do uso corrente. O Shuowen também não regista 奜 como entrada independente. A informação disponível vem essencialmente do MDBG e de dicionários modernos. Para 明, as três fontes concordam na decomposição 日 + 月 e no sentido de iluminar/brilhante. O hanziyuan.net regista a forma antiga 朙 e tem 19 formas em osso de oráculo e 27 em bronze. O Shuowen regista 朙 como forma antiga (古文明從日). A interpretação de que 朙 usa 囧 (janela) no lugar de 日, sugerindo "luar entrando pela janela", é uma leitura etimológica tradicional, não uma afirmação explícita do hanziyuan.net.
 
 ## Extrapolando na etimologia traduzida
 

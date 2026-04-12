@@ -44,7 +44,7 @@ O altar dos ancestrais. O Shuowen Jiezi define 祖 como 始廟也, "o templo da 
 
 ### Divergências entre fontes
 
-Para 吉, a decomposição 士 + 口 é aceite pelas três fontes, mas a interpretação diverge. O Shuowen lê como "palavra do sábio" (boca + erudito). O hanziyuan.net (Richard Sears) mostra que as formas em ossos oraculares representam um machado ou arma sobre um recipiente, sem relação com boca ou erudito. A leitura 士 + 口 é provavelmente reinterpretação do caractere já estabilizado. Para 祖, as fontes concordam: 礻+ 且, altar ritual. O Shuowen e o hanziyuan.net coincidem em que 且 representa o altar de oferendas.
+Para 吉, a decomposição 士 + 口 é aceite pelas três fontes. O Shuowen define 善也從士口, "bom, de 士 e 口". O hanziyuan.net (Richard Sears) regista a mesma decomposição a partir de 口 (boca) e lista 101 formas em ossos oraculares, o que confirma a antiguidade do caractere. A interpretação "palavra do sábio" é expansão semântica; as fontes clássicas não a sustentam explicitamente. Para 祖, as fontes concordam: 礻+ 且. O Shuowen define 始廟也從示且聲 (且 como fonético). O hanziyuan.net classifica 且 como "related phonetic altar", atribuindo-lhe simultaneamente valor fonético e semântico de altar.
 
 ## Extrapolando na etimologia traduzida
 

@@ -45,7 +45,7 @@ Esforço sob fogo. A parte superior combina elementos de fogo com uma cobertura;
 
 ### Divergências entre fontes
 
-Para 格, as fontes concordam na decomposição 木+各. O hanziyuan.net (Richard Sears) classifica 各 como fonético puro, enquanto a nota acima trata 各 como simultaneamente fonético e semântico ("cada um" com sua forma). O Shuowen define 格 como 木長貌, "aspeto de madeira longa/galhos", focando na árvore e não no sentido abstrato de padrão. Para 勞, o hanziyuan.net decompõe a parte superior como 熒 sem cobertura (duas instâncias de 火) + 冖, concordando em linhas gerais com a análise acima. O MDBG regista a forma simplificada 劳, que elimina os componentes de fogo e retém apenas 力 sob uma forma abreviada.
+Para 格, as fontes concordam na decomposição 木+各. O hanziyuan.net (Richard Sears) classifica 各 como fonético puro (phonetic each 各), enquanto a nota acima trata 各 como simultaneamente fonético e semântico ("cada um" com sua forma). O Shuowen define 格 como 木長貌, "aspeto de madeira longa/galhos", focando na árvore e não no sentido abstrato de padrão. Para 勞, o hanziyuan.net decompõe em 力 (strength) + fonético 𤇾 (flowers-fire), sem isolar 冖 como componente separado. O Shuowen (劇也從力熒省) confirma a derivação de 熒 (abreviada) com 力. O MDBG regista a forma simplificada 劳, que elimina os componentes de fogo e retém apenas 力 sob uma forma abreviada.
 
 ## Extrapolando na etimologia traduzida
 
