@@ -70,4 +70,4 @@ sources: []
 | Rafael Romanizio Maciel | [Moy Lo Man](/notes/moy-lo-man/) | [梅老問](/notes/moy-lo-man/) | 2023-05-20 |
 | Daniel Araújo | [Moy Tang Yok](/notes/moy-tang-yok/) | [梅登郁](/notes/moy-tang-yok/) | 2023-11-25 |
 | Ismael Veríssimo | — | — | 2024-03-16 |
-| Marcos Eduardo Davi | Moy Dak Bei | 梅德貴 | 2024-05-26 |
+| Marcos Eduardo Davi | [Moy Dak Bei](/notes/moy-dak-bei/) | [梅德貴](/notes/moy-dak-bei/) | 2024-05-26 |
