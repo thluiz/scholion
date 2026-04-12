@@ -40,21 +40,21 @@ sources:
 矢 (shǐ / ci2) – flecha, dardo; jurar
 口 (kǒu / hau2) – boca; abertura, entrada
 
-Flecha e boca. Saber é acertar com a palavra.
+Flecha e boca. Saber é acertar com a palavra — essa é a leitura semântica tradicional, sustentada por Xu Kai (徐鍇): "conhecer um princípio com rapidez é como a velocidade de uma flecha". Miao Kui (苗夔) corrige: 矢 também funciona como fonético (矢亦聲), não apenas semântico. O chardb lista 20 acepções, incluindo 同「智」 — 知 e 智 eram originalmente o mesmo caractere.
 
 ### 友 (yǒu / jau5)
 
 又 (yòu / jau6) – mão direita
 又 (yòu / jau6) – mão direita
 
-Duas mãos direitas que se encontram. No bronze antigo, às vezes aparece 口 embaixo, sugerindo o juramento verbal. Amigo é quem estende a mão na mesma direção.
+Duas mãos direitas que se encontram. No bronze antigo, às vezes aparece 口 embaixo, sugerindo o juramento verbal. Amigo é quem estende a mão na mesma direção. Gao Hongjin (高鴻縉) precisa: o caractere vem de dois 又 (mãos) em cooperação; era originalmente um verbo ("cooperar"), e só no final dos Zhou passou a nome ao fundir-se com 朋. O chardb confirma a cooperação como sentido primário: def. 1 互助合作.
 
 ### 士 (shì / si6)
 
 十 (shí / sap6) – dez
 一 (yī / jat1) – um
 
-O Shuowen Jiezi interpreta como quem domina de um a dez. Confúcio: 推十合一為士, "quem reduz dez a um é um shi". A forma original era um machado de guerra fincado no chão. Guerreiro primeiro, letrado depois.
+O Shuowen Jiezi interpreta como quem domina de um a dez. Confúcio: 推十合一為士, "quem reduz dez a um é um shi". O xiaoxue confirma esta passagem na íntegra. A hipótese popular de que a forma original era um machado de guerra fincado no chão não tem suporte nas fontes acadêmicas consultadas: o hanziyuan.net classifica 士 como pictograma independente, "provavelmente modificação de 大 (dà, grande)", e o chardb não referencia o machado. O chardb detalha três camadas da classe social: ① nível mais baixo da nobreza pré-Qin, ② quem estuda artes e pratica artes marciais (學道藝、習武勇), ③ termo geral para intelectuais.
 
 ### Divergências entre fontes
 

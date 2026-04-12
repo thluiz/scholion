@@ -40,13 +40,13 @@ Nome kung fu de Marcos Eduardo Davi.
 彳 (chì / cik1) – passo, caminho
 惪 (dé / dak1) – virtude simples
 
-O Shuowen Jiezi define 德 como 升也, "elevar-se", de 彳 com 惪 como fonético. O hanziyuan.net classifica 惪 como "related phonetic simple-virtue", atribuindo valor fonético e semântico. Sem formas em osso de oráculo, 42 em bronze.
+O Shuowen Jiezi define 德 como 升也, "elevar-se", de 彳 com 惪 como fonético. O hanziyuan.net classifica 惪 como "related phonetic simple-virtue", atribuindo valor fonético e semântico. O hanziyuan.net regista 0 formas em osso de oráculo e 42 em bronze, mas o xiaoxue corrige: há 2 formas oraculares da dinastia Shang (粹864, 甲2304). O chardb lista 陞；登 ("subir") como definição primária — alinhada com o Shuowen — e 道德，品行 ("virtude, moral") apenas como segunda acepção.
 
 ### 貴 (guì / gwai3)
 
 貝 (bèi / bui3) – concha, moeda
 
-O Shuowen Jiezi define 貴 como 物不賤也, "o que não é vil", de 貝 com 臾 como fonético. A concha como unidade de valor. O que tem valor não é barato. Sem formas em osso de oráculo ou bronze. 1 selo, 20 Liushutong.
+O Shuowen Jiezi define 貴 como 物不賤也, "o que não é vil", de 貝 com 臾 como fonético. A concha como unidade de valor. O que tem valor não é barato. O xiaoxue regista 13 formas: 1 bronze (鳥書箴銘帶鉤, Warring States, Chu), 6 textos em bambu dos Reinos Combatentes, 2 selos (Qin), e 4 clerical. O 《集韻》 nota que a forma original 䝿 passou a 貴 na escrita clerical.
 
 ### Divergências entre fontes
 
