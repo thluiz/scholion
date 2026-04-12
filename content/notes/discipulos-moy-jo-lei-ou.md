@@ -12,9 +12,9 @@ sources: []
 | Leonardo Santos dos Reis | [Moy Lei Wong](/notes/moy-lei-wong/) | [梅利王](/notes/moy-lei-wong/) | 2006-05-26 |
 | Thiago Pereira | [Moy Fat Lei](/notes/moy-fat-lei/) | [梅法利](/notes/moy-fat-lei/) | 2007-05-26 |
 | Vladimir Macêdo Anchieta | [Moy Wu Lai](/notes/moy-wu-lai/) | [梅護禮](/notes/moy-wu-lai/) | 2007-05-26 |
-| Thiago Luiz da Silva Pereira | [Moy Chi Yau Si](/notes/moy-chi-yau-si/) | [梅知友士](/notes/moy-chi-yau-si/) | 2007-05-26 |
 | Paula Gama | [Moy Gam Ma](/notes/moy-gam-ma/) | [梅懃馬](/notes/moy-gam-ma/) | 2007-05-26 |
 | Xenia D'Avila Fonseca | [Moy Sing Yat](/notes/moy-sing-yat/) | [梅勝一](/notes/moy-sing-yat/) | 2007-05-26 |
+| Thiago Luiz da Silva Pereira | [Moy Chi Yau Si](/notes/moy-chi-yau-si/) | [梅知友士](/notes/moy-chi-yau-si/) | 2007-05-26 |
 | Carlos Cianci Antunes | [Moy Shan Si](/notes/moy-shan-si/) | [梅山士](/notes/moy-shan-si/) | 2008-07-12 |
 | William Franco de Oliveira | [Moy Faang Go](/notes/moy-faang-go/) | [梅范高](/notes/moy-faang-go/) | 2009-12-31 |
 | Claudio Pamplona dos Santos Dias | [Moy Pang Po](/notes/moy-pang-po/) | [梅彭普](/notes/moy-pang-po/) | 2009-12-31 |
