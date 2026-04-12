@@ -66,7 +66,7 @@ sources: []
 | Gérson Silva de Aguiar | [Moy Chek Sang](/notes/moy-chek-sang/) | [梅勣生](/notes/moy-chek-sang/) | 2021-09-23 |
 | Lucas Alves dos Santos Cota | [Moy Lo Kei Si](/notes/moy-lo-kei-si/) | [梅老崎士](/notes/moy-lo-kei-si/) | 2022-02-05 |
 | Matheus Azevedo | [Moy Ma Tin](/notes/moy-ma-tin/) | [梅馬天](/notes/moy-ma-tin/) | 2023-05-20 |
-| Alexander Rangel | Moy Lam Jo | 梅林祖 | 2023-05-20 |
+| Alexander Rangel | [Moy Lam Jo](/notes/moy-lam-jo/) | [梅林祖](/notes/moy-lam-jo/) | 2023-05-20 |
 | Rafael Romanizio Maciel | Moy Lo Man | 梅老問 | 2023-05-20 |
 | Daniel Araújo | Moy Tang Yok | 梅登郁 | 2023-11-25 |
 | Ismael Veríssimo | — | — | 2024-03-16 |
