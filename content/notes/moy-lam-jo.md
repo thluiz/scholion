@@ -1,0 +1,52 @@
+---
+title: "梅林祖 Moy Lam Jo"
+date: 2026-04-12T01:00:00+01:00
+summary: "Etimologia do nome kung fu de Alexander Rangel: Lam (林) floresta, Jo (祖) ancestral."
+tags: ["ving-tsun", "etimologia", "kung-fu"]
+has_commentary: true
+sources:
+  - title: "MDBG Chinese Dictionary"
+    url: "https://www.mdbg.net/chinese/dictionary"
+    kind: wiki
+  - title: "Priberam Dicionário"
+    url: "https://dicionario.priberam.org"
+    kind: wiki
+  - title: "Chinese Etymology (hanziyuan.net)"
+    author: "Richard Sears"
+    url: "https://hanziyuan.net"
+    kind: wiki
+---
+
+**梅林祖**
+*Moy Lam Jo*
+
+Nome kung fu de Alexander Rangel.
+
+**Lam** (林) – Floresta, bosque.
+
+**Jo** (祖) – Ancestral, antepassado.
+
+## Etimologia no Chinês
+
+### 林
+
+木 (mù / muk6) – árvore
+
+O Shuowen Jiezi define: 平土有叢木曰林, "terreno plano com árvores agrupadas chama-se lin". De dois 木. Duas árvores lado a lado: floresta. 3 formas em osso de oráculo, 8 em bronze. O hanziyuan.net nota "from three tree 木", contando a repetição gráfica.
+
+### 祖
+
+礻(shì / si6) – altar
+且 (qiě / co2) – altar de oferendas
+
+O Shuowen Jiezi define 祖 como 始廟也, "o templo da origem", de 示 com 且 como fonético. O hanziyuan.net classifica 且 como "related phonetic altar", atribuindo valor fonético e semântico. 1 forma em osso de oráculo, 6 em bronze.
+
+### Divergências entre fontes
+
+Para 林, o Shuowen decompõe em 二木 (dois 木), enquanto o hanziyuan.net lista "from three tree 木", possível referência à repetição visual no caractere. Para 祖, o Shuowen trata 且 como puramente fonético (且聲), enquanto o hanziyuan.net classifica como "related phonetic", sugerindo que 且 carrega valor semântico de altar além do fonético.
+
+## Extrapolando na etimologia traduzida
+
+**Floresta** – do Fr. ant. *forest*: conjunto de árvores que forma um ecossistema sobre grande extensão de terreno; mata.
+
+**Ancestral** – do Fr. *ancestral*: dos antepassados; muito antigo; que pertence a período remoto.
