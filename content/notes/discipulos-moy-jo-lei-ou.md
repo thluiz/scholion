@@ -7,6 +7,8 @@ has_commentary: false
 sources: []
 ---
 
+A lista abaixo está fora de ordem. Precisamos recolher as datas de Baai Si (拜師) de cada discípulo para ordená-la corretamente.
+
 | Nome | Nome kung fu | Ideogramas |
 |---|---|---|
 | Leonardo Santos dos Reis | [Moy Lei Wong](/notes/moy-lei-wong/) | [梅利王](/notes/moy-lei-wong/) |
