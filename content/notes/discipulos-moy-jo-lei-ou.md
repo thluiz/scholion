@@ -64,7 +64,7 @@ sources: []
 | Antônio Henrique Correia | [Moy On Tung](/notes/moy-on-tung/) | [梅安通](/notes/moy-on-tung/) | 2021-09-11 |
 | Mayara Galvão Palmeira | [Moy Mah Yat](/notes/moy-mah-yat/) | [梅馬佚](/notes/moy-mah-yat/) | 2021-09-16 |
 | Gérson Silva de Aguiar | [Moy Chek Sang](/notes/moy-chek-sang/) | [梅勣生](/notes/moy-chek-sang/) | 2021-09-23 |
-| Lucas Alves dos Santos Cota | Moy Lo Kei Si | 梅老崎士 | 2022-02-05 |
+| Lucas Alves dos Santos Cota | [Moy Lo Kei Si](/notes/moy-lo-kei-si/) | [梅老崎士](/notes/moy-lo-kei-si/) | 2022-02-05 |
 | Matheus Azevedo | Moy Ma Tin Si | 梅馬天士 | 2023-05-20 |
 | Alexander Rangel | Moy Lam Jo | 梅林祖 | 2023-05-20 |
 | Rafael Romanizio Maciel | Moy Lo Man | 梅老問 | 2023-05-20 |
