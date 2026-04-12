@@ -68,6 +68,6 @@ sources: []
 | Matheus Azevedo | [Moy Ma Tin](/notes/moy-ma-tin/) | [梅馬天](/notes/moy-ma-tin/) | 2023-05-20 |
 | Alexander Rangel | [Moy Lam Jo](/notes/moy-lam-jo/) | [梅林祖](/notes/moy-lam-jo/) | 2023-05-20 |
 | Rafael Romanizio Maciel | [Moy Lo Man](/notes/moy-lo-man/) | [梅老問](/notes/moy-lo-man/) | 2023-05-20 |
-| Daniel Araújo | Moy Tang Yok | 梅登郁 | 2023-11-25 |
+| Daniel Araújo | [Moy Tang Yok](/notes/moy-tang-yok/) | [梅登郁](/notes/moy-tang-yok/) | 2023-11-25 |
 | Ismael Veríssimo | — | — | 2024-03-16 |
 | Marcos Eduardo Davi | Moy Dak Bei | 梅德貴 | 2024-05-26 |
