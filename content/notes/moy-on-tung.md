@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Antônio Henrique Correia.
 
-**On** (安 ān) – Paz, calma, tranquilidade.
+**On** (安 ān / on1) – Paz, calma, tranquilidade.
 
-**Tung** (通 tōng) – Atravessar, comunicar, conhecer bem, abrir passagem.
+**Tung** (通 tōng / tung1) – Atravessar, comunicar, conhecer bem, abrir passagem.
 
 ## Etimologia no Chinês
 
-### 安 (ān)
+### 安 (ān / on1)
 
 宀 (mián / min4) – teto, cobertura
 女 (nǚ / neoi5) – mulher
 
 O Shuowen Jiezi define 安 como 靜也, "quietude". Mulher sob o teto. 16 formas em osso de oráculo, 15 em bronze.
 
-### 通 (tōng)
+### 通 (tōng / tung1)
 
 辶 (chuò / coek3) – caminhar, estrada
 甬 (yǒng / jung2) – caminho, corredor

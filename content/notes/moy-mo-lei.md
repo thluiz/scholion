@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Rodrigo Moreira.
 
-**Mo** (磨 mó) – Polir, afiar, moer.
+**Mo** (磨 mó / mo4) – Polir, afiar, moer.
 
-**Lei** (雷 léi) – Trovão.
+**Lei** (雷 léi / leoi4) – Trovão.
 
 ## Etimologia no Chinês
 
-### 磨 (mó)
+### 磨 (mó / mo4)
 
 麻 (má) – cânhamo, componente fonético
 石 (shí) – pedra
 
 Pedra que pule. O radical 石 ancora o sentido no domínio mineral; 麻 fornece o som. Moer, afiar, polir por fricção com pedra.
 
-### 雷 (léi)
+### 雷 (léi / leoi4)
 
 雨 (yǔ) – chuva
 田 (tián) – campo

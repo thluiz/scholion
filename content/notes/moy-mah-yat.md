@@ -23,17 +23,17 @@ sources:
 
 Nome kung fu de Mayara Galvão Palmeira.
 
-**Mah** (馬 mǎ) – Cavalo.
+**Mah** (馬 mǎ / maa5) – Cavalo.
 
-**Yat** (佚 yì) – Perdido, extraordinário, além do comum.
+**Yat** (佚 yì / jat6) – Perdido, extraordinário, além do comum.
 
 ## Etimologia no Chinês
 
-### 馬 (mǎ)
+### 馬 (mǎ / maa5)
 
 Pictograma. O Shuowen Jiezi define: 怒也武也象馬頭髦尾四足之形, "fúria e marcialidade; representa a forma da cabeça, crina, cauda e quatro patas do cavalo." A forma em ossos oraculares mostrava o animal de perfil: cabeça, crina, corpo e quatro patas. Um dos pictogramas mais antigos e mais documentados, com dezenas de variantes arcaicas.
 
-### 佚 (yì)
+### 佚 (yì / jat6)
 
 亻(rén) – pessoa
 失 (shī) – perder

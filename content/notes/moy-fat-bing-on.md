@@ -23,29 +23,29 @@ sources:
 
 Nome kung fu de Fabiano Marques Granado.
 
-**Fat** (法 fǎ) – Lei, método.
+**Fat** (法 fǎ / faat3) – Lei, método.
 
-**Bing** (兵 bīng) – Soldado, arma, militar.
+**Bing** (兵 bīng / bing1) – Soldado, arma, militar.
 
-**On** (安 ān) – Paz, tranquilidade.
+**On** (安 ān / on1) – Paz, tranquilidade.
 
 ## Etimologia no Chinês
 
-### 法 (fǎ)
+### 法 (fǎ / faat3)
 
 氵(shuǐ) – água
 去 (qù) – ir, remover
 
 O radical de água evoca o nivelamento, a água que encontra o plano. 去 contribui como componente fonético e semântico (afastar o que é torto).
 
-### 兵 (bīng)
+### 兵 (bīng / bing1)
 
 斤 (jīn) – machado
 廾 (gǒng) – duas mãos
 
 Mãos empunhando arma. O sentido original é a arma em si; por extensão, quem a empunha, o soldado. Nas inscrições em bronze, o caractere mostra duas mãos segurando um machado de combate.
 
-### 安 (ān)
+### 安 (ān / on1)
 
 宀 (mián) – teto, abrigo
 女 (nǚ) – mulher

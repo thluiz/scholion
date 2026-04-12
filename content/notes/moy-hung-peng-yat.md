@@ -23,26 +23,26 @@ sources:
 
 Nome kung fu de Rubia de Souza Barbosa.
 
-**Hung** (紅 hóng) – Vermelho.
+**Hung** (紅 hóng / hung4) – Vermelho.
 
-**Peng** (平 píng) – Plano, nivelado, paz.
+**Peng** (平 píng / ping4) – Plano, nivelado, paz.
 
-**Yat** (一 yī) – Um.
+**Yat** (一 yī / jat1) – Um.
 
 ## Etimologia no Chinês
 
-### 紅 (hóng)
+### 紅 (hóng / hung4)
 
 糹(sī) – seda
 工 (gōng) – trabalho
 
 Seda tingida: o vermelho. O radical 糹liga o caractere ao universo têxtil. 工 funciona como componente fonético. O resultado é a cor que a seda assume quando passa pelo banho de tinta: vermelho vivo.
 
-### 平 (píng)
+### 平 (píng / ping4)
 
 Pictograma de uma balança equilibrada. O traço horizontal superior representa o fiel nivelado; os elementos abaixo, os pratos em equilíbrio. O Shuowen define 平 como 語平舒也, "fala plana e distendida". Do equilíbrio físico ao equilíbrio moral: justiça, igualdade, paz.
 
-### 一 (yī)
+### 一 (yī / jat1)
 
 Traço único. A unidade. O mais simples dos caracteres chineses. O Shuowen define 一 como 惟初太始道立於一造分天地化成萬物, "no grande início o Tao se funda no um, que divide céu e terra e transforma todas as coisas". Um traço, tudo começa.
 

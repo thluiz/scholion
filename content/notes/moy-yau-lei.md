@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Iuri Correa Faria Alvarenga.
 
-**Yau** (優 yōu) – Excelente, superior.
+**Yau** (優 yōu / jau1) – Excelente, superior.
 
-**Lei** (利 lì) – Benefício, afiado.
+**Lei** (利 lì / lei6) – Benefício, afiado.
 
 ## Etimologia no Chinês
 
-### 優 (yōu)
+### 優 (yōu / jau1)
 
 亻(rén) – pessoa
 憂 (yōu) – preocupação, ansiedade
 
 O radical 亻situa o sentido no humano; 憂 serve como componente fonético e semântico. O caractere também significa "ator", aquele que representa.
 
-### 利 (lì)
+### 利 (lì / lei6)
 
 禾 (hé) – grão, cereal
 刂 (dāo) – faca

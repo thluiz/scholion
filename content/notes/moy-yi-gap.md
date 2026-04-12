@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Tatiana Candreva Palumbo.
 
-**Yi** (意 yì) – Significado, intenção, pensamento.
+**Yi** (意 yì / ji3) – Significado, intenção, pensamento.
 
-**Gap** (鴿 gē) – Pomba, pombo.
+**Gap** (鴿 gē / gap3) – Pomba, pombo.
 
 ## Etimologia no Chinês
 
-### 意 (yì)
+### 意 (yì / ji3)
 
 音 (yīn) – som
 心 (xīn) – coração
 
 O som do coração. Intenção. O componente superior 音 é som, palavra; o inferior 心, coração. O que o coração pronuncia sem voz: pensamento, vontade, sentido. O Shuowen define 意 como 志也, "propósito".
 
-### 鴿 (gē)
+### 鴿 (gē / gap3)
 
 合 (hé) – unir, combinar
 鳥 (niǎo) – ave

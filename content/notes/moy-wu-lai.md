@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Si Hing (師兄) Vladimir Anchieta.
 
-**Wu** (護 hù) – Proteger, guardar, defender.
+**Wu** (護 hù / wu6) – Proteger, guardar, defender.
 
-**Lai** (禮 lǐ) – Cerimônia, rito, cortesia, propriedade, presente.
+**Lai** (禮 lǐ / lai5) – Cerimônia, rito, cortesia, propriedade, presente.
 
 ## Etimologia no Chinês
 
-### 護 (hù)
+### 護 (hù / wu6)
 
 言 (yán / jin4) – fala, palavras
 蒦 (huò / wok6) – obter, medir (componente fonético)
 
 O radical é 言, fala. O Shuowen Jiezi define 護 como 救視也, "vigiar e socorrer". Proteger está ligado à fala: falar em defesa de alguém, advogar. Protetor é quem fala pelo protegido.
 
-### 禮 (lǐ)
+### 禮 (lǐ / lai5)
 
 示 (shì / si6) – altar, espírito, mostrar
 豊 (lǐ / lai5) – vaso ritual

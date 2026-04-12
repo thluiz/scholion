@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Alexander Lennart Formiga Johnsson.
 
-**Lei** (利 lì) – Benefício, vantagem, afiado.
+**Lei** (利 lì / lei6) – Benefício, vantagem, afiado.
 
-**No** (挪 nuó) – Mover, deslocar, transferir.
+**No** (挪 nuó / no4) – Mover, deslocar, transferir.
 
 ## Etimologia no Chinês
 
-### 利 (lì)
+### 利 (lì / lei6)
 
 禾 (hé) – cereal, grão
 刂 (dāo) – faca
 
 O Shuowen Jiezi define 利 como 銛也从刀从和, "afiado". Uma faca que corta o grão: o que é útil, o que rende fruto. Do corte limpo vem o sentido de benefício e vantagem.
 
-### 挪 (nuó)
+### 挪 (nuó / no4)
 
 扌(shǒu) – mão
 那 (nà) – aquele; componente fonético

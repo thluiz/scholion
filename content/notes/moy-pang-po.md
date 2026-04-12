@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Claudio Pamplona dos Santos Dias.
 
-**Pang** (彭 péng) – Sobrenome, som de tambor.
+**Pang** (彭 péng / paang4) – Sobrenome, som de tambor.
 
-**Po** (普 pǔ) – Universal, geral.
+**Po** (普 pǔ / pou2) – Universal, geral.
 
 ## Etimologia no Chinês
 
-### 彭 (péng)
+### 彭 (péng / paang4)
 
 壴 (zhù) – tambor sobre suporte
 彡 (shān) – cerdas, linhas decorativas
 
 Som do tambor ressoando. O componente esquerdo 壴 representa um tambor montado; à direita, 彡 sugere reverberação, as ondas sonoras que se propagam. O Shuowen define 彭 como 鼓聲也, "som de tambor". É também um dos sobrenomes mais antigos da China.
 
-### 普 (pǔ)
+### 普 (pǔ / pou2)
 
 並 (bìng) – juntos, lado a lado
 日 (rì) – sol

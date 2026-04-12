@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Claudio Ricardo Teixeira.
 
-**Kat** (吉 jí) – Auspicioso, propício.
+**Kat** (吉 jí / gat1) – Auspicioso, propício.
 
-**Jo** (祖 zǔ) – Ancestral, avô.
+**Jo** (祖 zǔ / zou2) – Ancestral, avô.
 
 ## Etimologia no Chinês
 
-### 吉 (jí)
+### 吉 (jí / gat1)
 
 士 (shì / si6) – erudito, estudioso
 口 (kǒu / hau2) – boca
 
 Palavra do sábio, bom augúrio. O Shuowen Jiezi define 吉 como 善也, "bom". A boca do erudito pronuncia o que é favorável. O caractere aparece extensamente em ossos oraculares em contextos de adivinhação: o veredicto propício.
 
-### 祖 (zǔ)
+### 祖 (zǔ / zou2)
 
 礻(shì / si6) – altar, mostrar (radical de ritual)
 且 (qiě / ce2) – altar de oferendas

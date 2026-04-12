@@ -23,17 +23,17 @@ sources:
 
 Nome kung fu de Daniel Araújo.
 
-**Tang** (登 dēng) – Ascender, subir, escalar.
+**Tang** (登 dēng / dang1) – Ascender, subir, escalar.
 
-**Yok** (郁 yù) – Exuberante, fragrante, denso.
+**Yok** (郁 yù / juk1) – Exuberante, fragrante, denso.
 
 ## Etimologia no Chinês
 
-### 登 (dēng)
+### 登 (dēng / dang1)
 
 O Shuowen Jiezi define 登 como 上車也, "subir ao carro", e descreve: 從癶豆象登車形, "de 癶 e 豆, representando a forma de subir ao carro". O significado original no hanziyuan.net é "to rise". 3 formas em osso de oráculo, 23 em bronze.
 
-### 郁 (yù)
+### 郁 (yù / juk1)
 
 O hanziyuan.net registra dois étimos para 郁. O significado original é "good smelling", depois "luxuriant, dense, moody". O Shuowen Jiezi define: 木叢生者, "árvores que crescem em grupo", de 林 com 鬱 como fonético abreviado. A forma tradicional completa é 鬱, simplificada para 郁. Sem formas em osso de oráculo, 3 em bronze.
 

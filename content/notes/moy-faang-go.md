@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de William Franco de Oliveira.
 
-**Faang** (范 fàn) – Modelo, padrão, exemplo.
+**Faang** (范 fàn / faan6) – Modelo, padrão, exemplo.
 
-**Go** (高 gāo) – Alto, elevado.
+**Go** (高 gāo / gou1) – Alto, elevado.
 
 ## Etimologia no Chinês
 
-### 范 (fàn)
+### 范 (fàn / faan6)
 
 艹 (cǎo) – erva, planta
 氾 (fàn) – transbordar
 
 O radical 艹 situa o caractere no domínio vegetal; 氾 funciona como componente fonético. O sentido original liga-se a uma planta usada como molde ou padrão. Daí modelo, exemplo, norma.
 
-### 高 (gāo)
+### 高 (gāo / gou1)
 
 Pictograma de uma torre ou pavilhão elevado. A forma antiga mostra uma estrutura com base, corpo e telhado. O Shuowen define 高 como 崇也, "elevado". Altura física e altura moral no mesmo traço.
 

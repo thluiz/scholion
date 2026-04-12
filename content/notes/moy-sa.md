@@ -23,11 +23,11 @@ sources:
 
 Nome kung fu de Fábio Gomes de Sá.
 
-**Sa** (紗 shā) – Gaze, seda fina, musselina.
+**Sa** (紗 shā / saa1) – Gaze, seda fina, musselina.
 
 ## Etimologia no Chinês
 
-### 紗 (shā)
+### 紗 (shā / saa1)
 
 糹(sī / si1) – seda
 少 (shǎo / siu2) – pouco, delicado

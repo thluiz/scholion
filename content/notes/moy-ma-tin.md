@@ -23,17 +23,17 @@ sources:
 
 Nome kung fu de Matheus Azevedo.
 
-**Ma** (馬 mǎ) – Cavalo.
+**Ma** (馬 mǎ / maa5) – Cavalo.
 
-**Tin** (天 tiān) – Céu, dia.
+**Tin** (天 tiān / tin1) – Céu, dia.
 
 ## Etimologia no Chinês
 
-### 馬 (mǎ)
+### 馬 (mǎ / maa5)
 
 Pictograma. O Shuowen Jiezi define: 怒也武也象馬頭髦尾四足之形, "fúria e marcialidade; representa a forma da cabeça, crina, cauda e quatro patas do cavalo." 84 formas em osso de oráculo.
 
-### 天 (tiān)
+### 天 (tiān / tin1)
 
 一 (yī / jat1) – um, o que está acima
 大 (dà / daai6) – grande, pessoa de braços abertos

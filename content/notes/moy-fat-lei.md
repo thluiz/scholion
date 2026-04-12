@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Thiago Pereira.
 
-**Fat** (法 fǎ) – Lei, método, caminho.
+**Fat** (法 fǎ / faat3) – Lei, método, caminho.
 
-**Lei** (利 lì) – Benefício, lucro, afiado.
+**Lei** (利 lì / lei6) – Benefício, lucro, afiado.
 
 ## Etimologia no Chinês
 
-### 法 (fǎ)
+### 法 (fǎ / faat3)
 
 氵(shuǐ / seoi2) – água
 去 (qù / heoi3) – ir, partir
 
 A água que segue seu curso. O Shuowen Jiezi define 法 como 刑也, "norma, penalidade", e registra a forma antiga com o componente 廌 (zhì), um animal mítico capaz de distinguir o justo do injusto. A água é o modelo: segue sempre o caminho mais direto, sem desvio.
 
-### 利 (lì)
+### 利 (lì / lei6)
 
 禾 (hé / wo4) – grão, cereal
 刂 (dāo / dou1) – faca

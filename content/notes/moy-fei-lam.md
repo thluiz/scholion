@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Fernando Almeida Xavier.
 
-**Fei** (菲 fēi) – Fragrante, exuberante.
+**Fei** (菲 fēi / fei1) – Fragrante, exuberante.
 
-**Lam** (林 lín) – Floresta, arvoredo.
+**Lam** (林 lín / lam4) – Floresta, arvoredo.
 
 ## Etimologia no Chinês
 
-### 菲 (fēi)
+### 菲 (fēi / fei1)
 
 艹 (cǎo) – erva, planta
 非 (fēi) – não, errado (componente fonético)
 
 O radical 艹 situa o caractere no reino vegetal. 非 contribui o som. O resultado é uma planta aromática, de vegetação densa e perfumada.
 
-### 林 (lín)
+### 林 (lín / lam4)
 
 木 (mù) – árvore
 木 (mù) – árvore

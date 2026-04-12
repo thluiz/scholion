@@ -23,19 +23,19 @@ sources:
 
 Nome kung fu de Si Hing (師兄) Carlos Antunes.
 
-**Shan** (山 shān) – Montanha, monte, pico.
+**Shan** (山 shān / saan1) – Montanha, monte, pico.
 
-**Si** (士 shì) – Bacharel, Escolástico, Especialista, Guerreiro, Cavalheiro, Cavaleiro, Teórico.
+**Si** (士 shì / si6) – Bacharel, Escolástico, Especialista, Guerreiro, Cavalheiro, Cavaleiro, Teórico.
 
 ## Etimologia no Chinês
 
-### 山 (shān)
+### 山 (shān / saan1)
 
 Pictograma. Três picos, o do meio mais alto. Uma das formas mais antigas do chinês: 12 variantes em osso de oráculo, 23 em bronze. Não se decompõe em outros caracteres.
 
 O Shuowen Jiezi define 山 como 宣也, "proclamar": a montanha proclama o qi, dispersa e gera as dez mil coisas. Tem pedra e é alto. Pictograma (象形).
 
-### 士 (shì)
+### 士 (shì / si6)
 
 十 (shí / sap6) – dez
 一 (yī / jat1) – um

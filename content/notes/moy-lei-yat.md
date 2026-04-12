@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Pedro Henrique Corrêa.
 
-**Lei** (利 lì) – Benefício, lucro, afiado.
+**Lei** (利 lì / lei6) – Benefício, lucro, afiado.
 
-**Yat** (溢 yì) – Transbordar, extravasar.
+**Yat** (溢 yì / jat6) – Transbordar, extravasar.
 
 ## Etimologia no Chinês
 
-### 利 (lì)
+### 利 (lì / lei6)
 
 禾 (hé / wo4) – grão, cereal
 刂 (dāo / dou1) – faca
 
 Colher o grão com a faca. O Shuowen Jiezi define 利 como 銛也, "afiado". A lâmina que ceifa a colheita é o gesto do proveito.
 
-### 溢 (yì)
+### 溢 (yì / jat6)
 
 氵(shuǐ / seoi2) – água
 益 (yì / jik1) – benefício, aumento

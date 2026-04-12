@@ -23,13 +23,13 @@ sources:
 
 Nome kung fu de Paula Gama.
 
-**Gam** (懃 qín) – Diligente, solícito, cortês.
+**Gam** (懃 qín / kan4) – Diligente, solícito, cortês.
 
-**Ma** (馬 mǎ) – Cavalo.
+**Ma** (馬 mǎ / maa5) – Cavalo.
 
 ## Etimologia no Chinês
 
-### 懃 (qín)
+### 懃 (qín / kan4)
 
 堇 (jǐn / gan2) – argila amarela; componente fonético
 心 (xīn / sam1) – coração
@@ -38,7 +38,7 @@ Variante de 勤, que carrega 力 (força) no lugar de 心. O Shuowen Jiezi defin
 
 Gam é homófono de 金 (gam1, ouro, metal, dinheiro). É o mesmo ideograma de Gam Bau (金包), envelope ofertado em comemorações. Si Fu comentava que o eco é muitas vezes intencional num nome kung fu.
 
-### 馬 (mǎ)
+### 馬 (mǎ / maa5)
 
 Pictograma. O Shuowen Jiezi define: 怒也武也象馬頭髦尾四足之形, "fúria e marcialidade; representa a forma da cabeça, crina, cauda e quatro patas do cavalo." O caractere tem 84 variantes em ossos oraculares — um dos pictogramas mais antigos e mais documentados. Quatro patas, uma crina, uma cauda. O cavalo é a imagem da força em movimento.
 

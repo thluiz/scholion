@@ -23,28 +23,28 @@ sources:
 
 Nome kung fu de Lucas Alves dos Santos Cota.
 
-**Lo** (老 lǎo) – Velho, venerável, experiente.
+**Lo** (老 lǎo / lou5) – Velho, venerável, experiente.
 
-**Kei** (崎 qí) – Terreno acidentado, escarpado.
+**Kei** (崎 qí / kei1) – Terreno acidentado, escarpado.
 
-**Si** (士 shì) – Guerreiro, escolástico, cavalheiro.
+**Si** (士 shì / si6) – Guerreiro, escolástico, cavalheiro.
 
 ## Etimologia no Chinês
 
-### 老 (lǎo)
+### 老 (lǎo / lou5)
 
 耂 (lǎo / lou5) – velho (forma residual)
 
 Pictograma de pessoa idosa. O Shuowen Jiezi define 老 como 考也, "ancião", e acrescenta: 七十曰老, "aos setenta chama-se lǎo". De 人 (pessoa) com 毛 e 匕, indicando cabelos e barba que embranquecem. 13 formas em osso de oráculo, 7 em bronze.
 
-### 崎 (qí)
+### 崎 (qí / kei1)
 
 山 (shān / saan1) – montanha
 奇 (qí / kei4) – irregular
 
 Montanha irregular. O radical 山 situa o significado na paisagem; 奇 funciona como fonético. Sem entrada no Shuowen. Sem formas em osso de oráculo, bronze ou selo.
 
-### 士 (shì)
+### 士 (shì / si6)
 
 O Shuowen Jiezi define 士 como 事也, "servir", e interpreta como quem domina de um (一) a dez (十). Confúcio: 推十合一為士, "quem reduz dez a um é um shi". O hanziyuan.net classifica como pictograma independente com significado original "a man". 1 forma em osso de oráculo, 21 em bronze.
 

@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Pedro Irlandini Endres de Oliveira.
 
-**On** (安 ān) – Paz, tranquilidade.
+**On** (安 ān / on1) – Paz, tranquilidade.
 
-**Lei** (利 lì) – Benefício, afiado.
+**Lei** (利 lì / lei6) – Benefício, afiado.
 
 ## Etimologia no Chinês
 
-### 安 (ān)
+### 安 (ān / on1)
 
 宀 (mián) – teto, abrigo
 女 (nǚ) – mulher
 
 Mulher sob o teto. O sentido original é segurança doméstica: onde há abrigo e presença, há tranquilidade.
 
-### 利 (lì)
+### 利 (lì / lei6)
 
 禾 (hé) – grão, cereal
 刂 (dāo) – faca

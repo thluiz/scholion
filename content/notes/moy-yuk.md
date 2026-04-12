@@ -23,11 +23,11 @@ sources:
 
 Nome kung fu de Jade Camacho.
 
-**Yuk** (玉 yù) – Jade, pedra preciosa.
+**Yuk** (玉 yù / juk6) – Jade, pedra preciosa.
 
 ## Etimologia no Chinês
 
-### 玉 (yù)
+### 玉 (yù / juk6)
 
 Pictograma. O Shuowen Jiezi define 玉 como 石之美有五德者, "a mais bela das pedras, com cinco virtudes". A forma antiga mostrava três peças de jade enfiadas num cordão vertical. O ponto que aparece na forma moderna distingue 玉 (jade) de 王 (rei). Distinção tardia: nas formas arcaicas os dois caracteres eram quase idênticos. As cinco virtudes do jade segundo o Shuowen: benevolência no brilho, retidão na transparência, sabedoria no som, coragem na dureza, integridade nas arestas.
 
