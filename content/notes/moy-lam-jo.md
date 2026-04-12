@@ -23,19 +23,19 @@ sources:
 
 Nome kung fu de Alexander Rangel.
 
-**Lam** (林 lín) – Floresta, bosque.
+**Lam** (林 lín / lam4) – Floresta, bosque.
 
-**Jo** (祖 zǔ) – Ancestral, antepassado.
+**Jo** (祖 zǔ / zou2) – Ancestral, antepassado.
 
 ## Etimologia no Chinês
 
-### 林 (lín)
+### 林 (lín / lam4)
 
 木 (mù / muk6) – árvore
 
 O Shuowen Jiezi define: 平土有叢木曰林, "terreno plano com árvores agrupadas chama-se lin". De dois 木. Duas árvores lado a lado: floresta. 3 formas em osso de oráculo, 8 em bronze. O hanziyuan.net nota "from three tree 木", contando a repetição gráfica.
 
-### 祖 (zǔ)
+### 祖 (zǔ / zou2)
 
 礻(shì / si6) – altar
 且 (qiě / co2) – altar de oferendas

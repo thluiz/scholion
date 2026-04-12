@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Rafael Ferreira Pombo.
 
-**Gap** (鴿 gē) – Pomba, pombo.
+**Gap** (鴿 gē / gap3) – Pomba, pombo.
 
-**Fat** (法 fǎ) – Lei, método, maneira.
+**Fat** (法 fǎ / faat3) – Lei, método, maneira.
 
 ## Etimologia no Chinês
 
-### 鴿 (gē)
+### 鴿 (gē / gap3)
 
 合 (hé) – unir, combinar; componente fonético
 鳥 (niǎo) – pássaro; componente semântico
 
 O pássaro que se reúne. A pomba é ave de bando. O radical 鳥 classifica o caractere entre as aves; 合 fornece o som e talvez a imagem do ajuntamento.
 
-### 法 (fǎ)
+### 法 (fǎ / faat3)
 
 氵(shuǐ) – água
 去 (qù) – ir, partir

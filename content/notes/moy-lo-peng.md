@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Marcelo Lopes Acris.
 
-**Lo** (老 lǎo) – Velho, venerável, experiente.
+**Lo** (老 lǎo / lou5) – Velho, venerável, experiente.
 
-**Peng** (平 píng) – Plano, nivelado, paz.
+**Peng** (平 píng / ping4) – Plano, nivelado, paz.
 
 ## Etimologia no Chinês
 
-### 老 (lǎo)
+### 老 (lǎo / lou5)
 
 耂 (lǎo) – velho
 匕 (bǐ) – mudança, transformação
 
 Quem mudou com o tempo. O venerável. O componente superior 耂 é uma forma abreviada de cabelos longos, sinal de idade. O componente inferior 匕 indica transformação. O Shuowen define 老 como 考也, "envelhecer": o corpo que se transforma pelo tempo.
 
-### 平 (píng)
+### 平 (píng / ping4)
 
 Pictograma de balança equilibrada. O Shuowen define 平 como 語平舒也, "fala serena e desimpedida". O traço horizontal superior representa o fiel da balança; os traços abaixo, os pratos em equilíbrio. Daí os sentidos de plano, justo, pacífico.
 

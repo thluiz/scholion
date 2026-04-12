@@ -23,22 +23,22 @@ sources:
 
 Nome kung fu de Eduardo Fauzi Richard Cerquise.
 
-**On** (安 ān) – Paz, tranquilidade.
+**On** (安 ān / on1) – Paz, tranquilidade.
 
-**Dak** (德 dé) – Virtude, moralidade.
+**Dak** (德 dé / dak1) – Virtude, moralidade.
 
-**Wah** (華 huá) – Esplêndido, magnífico.
+**Wah** (華 huá / waa4) – Esplêndido, magnífico.
 
 ## Etimologia no Chinês
 
-### 安 (ān)
+### 安 (ān / on1)
 
 宀 (mián) – teto, abrigo
 女 (nǚ) – mulher
 
 Mulher sob o teto. O sentido original é segurança doméstica: onde há abrigo e presença, há tranquilidade.
 
-### 德 (dé)
+### 德 (dé / dak1)
 
 彳 (chì) – passo, caminhar
 直 (zhí) – reto, direito
@@ -46,7 +46,7 @@ Mulher sob o teto. O sentido original é segurança doméstica: onde há abrigo 
 
 Coração reto no caminho. O radical 彳indica movimento; 直 + 心 compõem o núcleo: agir com retidão interior.
 
-### 華 (huá)
+### 華 (huá / waa4)
 
 艹 (cǎo) – planta, vegetação
 華 — a parte inferior representa a flor

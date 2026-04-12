@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Clayton Meireles Martins da Silva.
 
-**Kei** (崎 qí) – Terreno acidentado, escarpado.
+**Kei** (崎 qí / kei1) – Terreno acidentado, escarpado.
 
-**Tang** (單 dān) – Simples, único, lista.
+**Tang** (單 dān / daan1) – Simples, único, lista.
 
 ## Etimologia no Chinês
 
-### 崎 (qí)
+### 崎 (qí / kei1)
 
 山 (shān) – montanha
 奇 (qí) – estranho, incomum
 
 Montanha estranha, terreno acidentado. O radical 山 situa o sentido na paisagem; 奇 qualifica: irregular, íngreme.
 
-### 單 (dān)
+### 單 (dān / daan1)
 
 Pictograma de uma arma de caça com duas pontas. Nas inscrições em osso oracular, o caractere mostra uma forquilha com pedras amarradas nas extremidades, usada para caçar. O sentido evoluiu de "instrumento isolado" para "simples, único, sozinho".
 

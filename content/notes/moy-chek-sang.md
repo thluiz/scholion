@@ -25,7 +25,7 @@ Nome kung fu de Gérson Silva de Aguiar.
 
 **Chek** (勣 jì) – Mérito, feito, realização.
 
-**Sang** (生 shēng) – Vida, nascer, crescer.
+**Sang** (生 shēng / saang1) – Vida, nascer, crescer.
 
 ## Etimologia no Chinês
 
@@ -36,7 +36,7 @@ Nome kung fu de Gérson Silva de Aguiar.
 
 Variante de 績. O Shuowen Jiezi define 績 como 緝也, "fiar, tecer continuamente". A forma original, com 糸 (fio), referia o trabalho contínuo de fiar. Em 勣, o fio dá lugar à força: o mérito não é o que se tece, é o que se conquista pelo esforço. Responsabilidade somada a força.
 
-### 生 (shēng)
+### 生 (shēng / saang1)
 
 Pictograma. O Shuowen Jiezi define 生 como 進也象草木生出土上, "avançar; representa a planta brotando da terra". A forma antiga mostrava um broto emergindo do solo, uma linha vertical saindo de uma base horizontal. Vida como movimento ascendente. A planta brota do solo para cima.
 

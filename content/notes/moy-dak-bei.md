@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Marcos Eduardo Davi.
 
-**Dak** (德 dé) – Virtude, moral.
+**Dak** (德 dé / dak1) – Virtude, moral.
 
-**Bei** (貴 guì) – Precioso, nobre, caro.
+**Bei** (貴 guì / gwai3) – Precioso, nobre, caro.
 
 ## Etimologia no Chinês
 
-### 德 (dé)
+### 德 (dé / dak1)
 
 彳 (chì / cik1) – passo, caminho
 惪 (dé / dak1) – virtude simples
 
 O Shuowen Jiezi define 德 como 升也, "elevar-se", de 彳 com 惪 como fonético. O hanziyuan.net classifica 惪 como "related phonetic simple-virtue", atribuindo valor fonético e semântico. Sem formas em osso de oráculo, 42 em bronze.
 
-### 貴 (guì)
+### 貴 (guì / gwai3)
 
 貝 (bèi / bui3) – concha, moeda
 

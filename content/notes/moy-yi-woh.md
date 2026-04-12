@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Pedro Ivo Porfírio.
 
-**Yi** (依 yī) – Apoiar-se, depender.
+**Yi** (依 yī / ji1) – Apoiar-se, depender.
 
-**Woh** (和 hé) – Harmonia, paz.
+**Woh** (和 hé / wo4) – Harmonia, paz.
 
 ## Etimologia no Chinês
 
-### 依 (yī)
+### 依 (yī / ji1)
 
 亻(rén) – pessoa
 衣 (yī) – roupa, vestimenta
 
 Pessoa que se apoia. O radical 亻indica o humano; 衣 serve como componente fonético e semântico — a roupa que cobre e ampara. Sentido original: confiar em, depender de.
 
-### 和 (hé)
+### 和 (hé / wo4)
 
 禾 (hé) – grão, cereal
 口 (kǒu) – boca

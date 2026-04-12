@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Guilherme L. S. de Farias.
 
-**Faat** (法 fǎ) – Lei, método, caminho.
+**Faat** (法 fǎ / faat3) – Lei, método, caminho.
 
-**Lin** (蓮 lián) – Lótus.
+**Lin** (蓮 lián / lin4) – Lótus.
 
 ## Etimologia no Chinês
 
-### 法 (fǎ)
+### 法 (fǎ / faat3)
 
 氵(shuǐ / seoi2) – água
 去 (qù / heoi3) – ir, partir
 
 A água que segue seu curso. O Shuowen Jiezi define 法 como 刑也, "norma, penalidade". A água é o modelo: segue sempre o caminho mais direto, sem desvio.
 
-### 蓮 (lián)
+### 蓮 (lián / lin4)
 
 艹 (cǎo / cou2) – erva, planta
 連 (lián / lin4) – conectar, ligar

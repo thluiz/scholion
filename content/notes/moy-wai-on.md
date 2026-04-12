@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Roberto Santos Viana.
 
-**Wai** (威 wēi) – Poder, autoridade, prestígio.
+**Wai** (威 wēi / wai1) – Poder, autoridade, prestígio.
 
-**On** (安 ān) – Paz, calma, tranquilidade.
+**On** (安 ān / on1) – Paz, calma, tranquilidade.
 
 ## Etimologia no Chinês
 
-### 威 (wēi)
+### 威 (wēi / wai1)
 
 戌 (xū / seot1) – arma, alabarda
 女 (nǚ / neoi5) – mulher
 
 Autoridade. O Shuowen Jiezi define 威 como 姑也從女從戌, associando à figura da sogra, a mulher que detém a arma.
 
-### 安 (ān)
+### 安 (ān / on1)
 
 宀 (mián / min4) – teto, telhado
 女 (nǚ / neoi5) – mulher

@@ -23,17 +23,17 @@ sources:
 
 Nome kung fu de Vinícius Roque Moreira.
 
-**Lok** (樂 lè) – Alegria, música, prazer.
+**Lok** (樂 lè / lok6) – Alegria, música, prazer.
 
-**Ke** (奇 qí) – Estranho, extraordinário, admirável.
+**Ke** (奇 qí / kei4) – Estranho, extraordinário, admirável.
 
 ## Etimologia no Chinês
 
-### 樂 (lè)
+### 樂 (lè / lok6)
 
 Pictograma de um instrumento musical de madeira com cordas. A forma antiga mostra cordas tensas sobre uma base de madeira (木). O Shuowen define 樂 como 五聲八音總名, "nome geral para os cinco tons e oito timbres". Lê-se yuè quando significa música, lè quando significa alegria. Música e alegria nascem do mesmo lugar.
 
-### 奇 (qí)
+### 奇 (qí / kei4)
 
 大 (dà) – grande
 可 (kě) – poder, ser capaz

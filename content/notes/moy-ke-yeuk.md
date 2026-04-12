@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Cristiano Chaves da Silva.
 
-**Ke** (騎 qí) – Cavalgar, montar, cavalaria.
+**Ke** (騎 qí / ke4) – Cavalgar, montar, cavalaria.
 
-**Yeuk** (鑰 yuè) – Chave, fechadura.
+**Yeuk** (鑰 yuè / joek6) – Chave, fechadura.
 
 ## Etimologia no Chinês
 
-### 騎 (qí)
+### 騎 (qí / ke4)
 
 馬 (mǎ / ma5) – cavalo
 奇 (qí / kei4) – estranho, notável
 
 O cavalo notável. O radical 馬 indica a categoria; 奇 funciona como componente fonético e semântico, com a ideia do singular, do invulgar.
 
-### 鑰 (yuè)
+### 鑰 (yuè / joek6)
 
 金 (jīn / gam1) – metal
 龠 (yuè / joek6) – flauta, tubo

@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Bruno Bernardo Machado.
 
-**Bei** (賁 bì) – Ornado, enérgico, correr.
+**Bei** (賁 bì / ban1) – Ornado, enérgico, correr.
 
-**No** (挪 nuó) – Mover, deslocar.
+**No** (挪 nuó / no4) – Mover, deslocar.
 
 ## Etimologia no Chinês
 
-### 賁 (bì)
+### 賁 (bì / ban1)
 
 卉 (huì) – plantas, vegetação
 貝 (bèi) – concha, cáuri
 
 Ornamento. O componente superior 卉 representa a vegetação; o inferior 貝, a concha usada como moeda e adorno. A combinação sugere decoração e adorno. Com a leitura bēn, o sentido desloca-se para correr com energia, ímpeto.
 
-### 挪 (nuó)
+### 挪 (nuó / no4)
 
 扌 (shǒu) – mão
 那 (nà) – aquele, aquilo

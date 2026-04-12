@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Leonardo Santos dos Reis.
 
-**Lei** (利 lì) – Benefício, lucro, afiado.
+**Lei** (利 lì / lei6) – Benefício, lucro, afiado.
 
-**Wong** (王 wáng) – Rei, monarca.
+**Wong** (王 wáng / wong4) – Rei, monarca.
 
 ## Etimologia no Chinês
 
-### 利 (lì)
+### 利 (lì / lei6)
 
 禾 (hé / wo4) – grão, cereal
 刂 (dāo / dou1) – faca
 
 Colher o grão com a faca. O Shuowen Jiezi define 利 como 銛也, "afiado", com 刀 (faca) e 禾 (grão) como componentes. A lâmina que ceifa a colheita é o gesto do proveito: o que é afiado é útil, o que é útil é proveitoso.
 
-### 王 (wáng)
+### 王 (wáng / wong4)
 
 Pictograma. Três traços horizontais representam céu, humanidade e terra; o traço vertical que os une é o soberano — aquele que liga os três planos. O Shuowen Jiezi define: 天下所歸往也, "aquele a quem tudo-sob-o-céu se dirige". Dong Zhongshu acrescenta: 三畫而連其中謂之王, "três traços ligados pelo meio — isso é rei."
 

@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Carmen Paula Nistico Carvalho.
 
-**Kat** (吉 jí) – Auspicioso, propício, bom augúrio.
+**Kat** (吉 jí / gat1) – Auspicioso, propício, bom augúrio.
 
-**Ming** (明 míng) – Brilhante, claro, luminoso.
+**Ming** (明 míng / ming4) – Brilhante, claro, luminoso.
 
 ## Etimologia no Chinês
 
-### 吉 (jí)
+### 吉 (jí / gat1)
 
 士 (shì) – erudito, cavalheiro
 口 (kǒu) – boca
 
 A palavra do erudito: o que é dito com propriedade traz bom augúrio. O Shuowen Jiezi define 吉 como 善也, "bom, virtuoso". A combinação sugere que a fala correta é em si mesma auspiciosa.
 
-### 明 (míng)
+### 明 (míng / ming4)
 
 日 (rì) – sol
 月 (yuè) – lua

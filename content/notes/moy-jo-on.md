@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de João Pedro Santos.
 
-**Jo** (祖 zǔ) – Ancestral.
+**Jo** (祖 zǔ / zou2) – Ancestral.
 
-**On** (安 ān) – Paz.
+**On** (安 ān / on1) – Paz.
 
 ## Etimologia no Chinês
 
-### 祖 (zǔ)
+### 祖 (zǔ / zou2)
 
 礻(shì) – altar, indicar espírito
 且 (qiě) – bloco, tableta ancestral
 
 O radical 礻(forma reduzida de 示, altar) liga o caractere ao domínio ritual. 且 é a tableta memorial dos antepassados. O Shuowen define 祖 como 始廟也, "templo da origem", o lugar onde se honra quem veio antes.
 
-### 安 (ān)
+### 安 (ān / on1)
 
 宀 (mián) – teto, abrigo
 女 (nǚ) – mulher

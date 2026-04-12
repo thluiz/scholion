@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de André Vieira Gonçalves de Almeida.
 
-**Mei** (美 měi) – Belo, bom.
+**Mei** (美 měi / mei5) – Belo, bom.
 
-**Da** (達 dá) – Alcançar, atingir, penetrar.
+**Da** (達 dá / daat6) – Alcançar, atingir, penetrar.
 
 ## Etimologia no Chinês
 
-### 美 (měi)
+### 美 (měi / mei5)
 
 羊 (yáng / joeng4) – carneiro, ovelha
 大 (dà / daai6) – grande
 
 O grande carneiro. O Shuowen Jiezi define 美 como 甘也從羊從大, "doce; composto de carneiro e grande". O carneiro gordo e grande era o símbolo do que é bom, agradável, desejável.
 
-### 達 (dá)
+### 達 (dá / daat6)
 
 辶 (chuò / coek3) – caminhar
 大 (dà / daai6) – grande

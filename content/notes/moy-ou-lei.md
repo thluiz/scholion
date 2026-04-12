@@ -23,13 +23,13 @@ sources:
 
 Nome kung fu de Aurea Brandão.
 
-**Ou** (奧 ào) – Profundo, misterioso.
+**Ou** (奧 ào / ou3) – Profundo, misterioso.
 
-**Lei** (利 lì) – Benefício, afiado, vantajoso.
+**Lei** (利 lì / lei6) – Benefício, afiado, vantajoso.
 
 ## Etimologia no Chinês
 
-### 奧 (ào)
+### 奧 (ào / ou3)
 
 宀 (mián) – teto, cobertura
 釆 (biàn) – distinguir, separar
@@ -37,7 +37,7 @@ Nome kung fu de Aurea Brandão.
 
 Profundidade interior. O componente superior 宀 indica espaço coberto, interior de uma casa. Os componentes internos sugerem algo amplo e recôndito sob o teto. O Shuowen define 奧 como 宛也, "o recanto mais interior de uma sala". O lugar onde se guarda o que não é visível.
 
-### 利 (lì)
+### 利 (lì / lei6)
 
 禾 (hé) – cereal, grão
 刂 (dāo) – faca

@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Bruno José Mota Brandão.
 
-**Mo** (舞 wǔ) – Dança.
+**Mo** (舞 wǔ / mou5) – Dança.
 
-**Tak** (德 dé) – Virtude, moralidade.
+**Tak** (德 dé / dak1) – Virtude, moralidade.
 
 ## Etimologia no Chinês
 
-### 舞 (wǔ)
+### 舞 (wǔ / mou5)
 
 舛 (chuǎn) – pés opostos, divergir
 無 (wú) – nada, ausência
 
 Pés que se movem. O componente 舛 mostra dois pés em direções opostas, evocando o movimento alternado. 無 contribui como elemento fonético. O Shuowen Jiezi define 舞 como 樂也, "alegria expressa pelo corpo".
 
-### 德 (dé)
+### 德 (dé / dak1)
 
 彳 (chì) – passo, caminhar
 直 (zhí) – reto, direito

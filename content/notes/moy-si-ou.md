@@ -23,17 +23,17 @@ sources:
 
 Nome kung fu de Francisco Marcio Lopes da Silva.
 
-**Si** (司 sī) – Dirigir, administrar, controlar.
+**Si** (司 sī / si1) – Dirigir, administrar, controlar.
 
-**Ou** (奧 ào) – Profundo, misterioso.
+**Ou** (奧 ào / ou3) – Profundo, misterioso.
 
 ## Etimologia no Chinês
 
-### 司 (sī)
+### 司 (sī / si1)
 
 Pessoa junto a uma boca: quem dirige. A forma antiga mostra uma figura humana voltada para 口 (boca): aquele que dá ordens, que comanda pela palavra. O Shuowen define 司 como 臣司事於外者, "funcionário que administra assuntos no exterior". Gestão, departamento, controle.
 
-### 奧 (ào)
+### 奧 (ào / ou3)
 
 宀 (mián) – teto, abrigo
 釆 (biàn) – distinguir, separar

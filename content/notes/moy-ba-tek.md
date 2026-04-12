@@ -23,13 +23,13 @@ sources:
 
 Nome kung fu de Pedro Patrick Avelar Espozel.
 
-**Ba** (巴 bā) – Esperar, apegar-se, serpente.
+**Ba** (巴 bā / baa1) – Esperar, apegar-se, serpente.
 
 **Tek** (覿 dí) – Ver, encontrar face a face.
 
 ## Etimologia no Chinês
 
-### 巴 (bā)
+### 巴 (bā / baa1)
 
 Pictograma de uma serpente. A forma antiga mostra o corpo sinuoso e a boca aberta de uma cobra. O Shuowen define 巴 como 蟲也, "inseto/criatura rasteira", associado à grande serpente que engolia elefantes. Daí os sentidos de agarrar-se, apegar-se, esperar com ansiedade. Agarrar-se, não largar.
 

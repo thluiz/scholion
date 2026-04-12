@@ -23,13 +23,13 @@ sources:
 
 Nome kung fu de Clayton Quintino de Souza.
 
-**Kei** (崎 qí) – Terreno acidentado, escarpado.
+**Kei** (崎 qí / kei1) – Terreno acidentado, escarpado.
 
 **Don** (讜 dǎng) – Fala honesta, palavra franca.
 
 ## Etimologia no Chinês
 
-### 崎 (qí)
+### 崎 (qí / kei1)
 
 山 (shān) – montanha
 奇 (qí) – estranho, irregular

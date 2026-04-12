@@ -23,13 +23,13 @@ sources:
 
 Nome kung fu de Luciano Freitas.
 
-**Lo** (勞 láo) – Trabalho, esforço, mérito.
+**Lo** (勞 láo / lou4) – Trabalho, esforço, mérito.
 
-**Kei** (崎 qí) – Terreno irregular, escarpado.
+**Kei** (崎 qí / kei1) – Terreno irregular, escarpado.
 
 ## Etimologia no Chinês
 
-### 勞 (láo)
+### 勞 (láo / lou4)
 
 力 (lì / lik6) – força
 冖 (mì / mik6) – cobertura
@@ -37,7 +37,7 @@ Nome kung fu de Luciano Freitas.
 
 Esforço sob fogo. O Shuowen Jiezi define 勞 como 劇也, "intenso, penoso". Na parte superior, dois fogos sob uma cobertura; na base, 力 (força). A imagem é de quem trabalha ao calor das chamas.
 
-### 崎 (qí)
+### 崎 (qí / kei1)
 
 山 (shān / saan1) – montanha
 奇 (qí / kei4) – estranho, irregular

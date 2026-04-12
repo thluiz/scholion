@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Fernando Marques Pinheiro.
 
-**Fong** (風 fēng) – Vento.
+**Fong** (風 fēng / fung1) – Vento.
 
-**Nang** (能 néng) – Capacidade, poder, ser capaz.
+**Nang** (能 néng / nang4) – Capacidade, poder, ser capaz.
 
 ## Etimologia no Chinês
 
-### 風 (fēng)
+### 風 (fēng / fung1)
 
 几 (jǐ) – mesa pequena; aqui, componente estrutural
 虫 (chóng) – inseto
 
 A forma moderna engana. Nas inscrições em ossos oraculares, 風 mostrava um pássaro mítico, o fèng (鳳, fénix), que trazia o vento com suas asas. Os dois caracteres, 風 (vento) e 鳳 (fénix), partilham a mesma origem. O Shuowen Jiezi define: 八風也, "os oito ventos". A presença de 虫 na forma moderna reflete a crença antiga de que insetos nasciam do vento.
 
-### 能 (néng)
+### 能 (néng / nang4)
 
 厶 (sī) – componente estrutural
 月 (ròu) – carne (radical 肉 na forma cursiva)

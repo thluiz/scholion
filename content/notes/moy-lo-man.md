@@ -23,19 +23,19 @@ sources:
 
 Nome kung fu de Rafael Romanizio Maciel.
 
-**Lo** (老 lǎo) – Velho, venerável, experiente.
+**Lo** (老 lǎo / lou5) – Velho, venerável, experiente.
 
-**Man** (問 wèn) – Perguntar, inquirir.
+**Man** (問 wèn / man6) – Perguntar, inquirir.
 
 ## Etimologia no Chinês
 
-### 老 (lǎo)
+### 老 (lǎo / lou5)
 
 耂 (lǎo / lou5) – velho (forma residual)
 
 Pictograma de pessoa idosa. O Shuowen Jiezi define 老 como 考也, "ancião", e acrescenta: 七十曰老, "aos setenta chama-se lǎo". De 人 (pessoa) com 毛 e 匕, indicando cabelos e barba que embranquecem. 13 formas em osso de oráculo, 7 em bronze.
 
-### 問 (wèn)
+### 問 (wèn / man6)
 
 口 (kǒu / hau2) – boca
 門 (mén / mun4) – porta

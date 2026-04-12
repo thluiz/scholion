@@ -23,29 +23,29 @@ sources:
 
 Nome kung fu de Maria Alice de Souza Teixeira.
 
-**Wa** (華 huá) – Esplêndido, China.
+**Wa** (華 huá / waa4) – Esplêndido, China.
 
-**Lei** (利 lì) – Benefício, afiado.
+**Lei** (利 lì / lei6) – Benefício, afiado.
 
-**Si** (⼠ shì) – Erudito, guerreiro.
+**Si** (⼠ shì / si6) – Erudito, guerreiro.
 
 ## Etimologia no Chinês
 
-### 華 (huá)
+### 華 (huá / waa4)
 
 艹 (cǎo) – erva, planta
 花 componente floral inferior
 
 Forma antiga representa uma flor em plena abertura. O radical 艹 (planta) encima o caractere; a parte inferior é o componente que deu origem a 花 (flor). O Shuowen Jiezi define 華 como 榮也, "florescência", o momento em que a planta exibe tudo o que tem. Daí os sentidos de esplêndido, magnífico e, por extensão, China (中華).
 
-### 利 (lì)
+### 利 (lì / lei6)
 
 禾 (hé) – cereal
 刂 (dāo) – faca
 
 Cereal cortado com faca: a colheita. O Shuowen define 利 como 銛也, "afiado". Faca que corta bem traz benefício. Do gume nasce o proveito.
 
-### ⼠ (shì)
+### ⼠ (shì / si6)
 
 Forma de radical Kangxi (⼠) em vez do caractere padrão 士. Pictograma de um machado fincado no chão, símbolo de quem planta posição e defende. O Shuowen define 士 como 事也, "aquele que serve". Homem de saber e de armas.
 

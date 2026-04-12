@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Simão Coutinho de Albuquerque Neto.
 
-**Sek** (識 shí) – Conhecer, reconhecer, conhecimento.
+**Sek** (識 shí / sik1) – Conhecer, reconhecer, conhecimento.
 
-**Man** (問 wèn) – Perguntar, inquirir.
+**Man** (問 wèn / man6) – Perguntar, inquirir.
 
 ## Etimologia no Chinês
 
-### 識 (shí)
+### 識 (shí / sik1)
 
 言 (yán) – palavra, fala; componente semântico
 戠 (zhí) – componente fonético
 
 Reconhecer pela palavra. O radical 言 situa o caractere no campo da linguagem; 戠 fornece o som. O Shuowen Jiezi define 識 como 知也, "saber". Conhecer é, antes de tudo, saber nomear. Distinguir uma coisa da outra pela fala.
 
-### 問 (wèn)
+### 問 (wèn / man6)
 
 門 (mén) – porta, portão
 口 (kǒu) – boca

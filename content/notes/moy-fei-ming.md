@@ -25,7 +25,7 @@ Nome kung fu de Marcelo Pereira Firmino.
 
 **Fei** (奜 fěi) – Grandioso, vasto.
 
-**Ming** (明 míng) – Brilhante, claro, compreender.
+**Ming** (明 míng / ming4) – Brilhante, claro, compreender.
 
 ## Etimologia no Chinês
 
@@ -36,7 +36,7 @@ Nome kung fu de Marcelo Pereira Firmino.
 
 大 fornece o sentido de grandeza; 非 nega o limite. Caractere raro, registrado com o sentido de grandioso, vasto.
 
-### 明 (míng)
+### 明 (míng / ming4)
 
 日 (rì) – sol
 月 (yuè) – lua

@@ -23,20 +23,20 @@ sources:
 
 Nome kung fu de Niklas Bernardo Corrêa.
 
-**Lei** (利 lì) – Benefício, afiado.
+**Lei** (利 lì / lei6) – Benefício, afiado.
 
-**Gaa** (嘉 jiā) – Excelente, louvável.
+**Gaa** (嘉 jiā / gaa1) – Excelente, louvável.
 
 ## Etimologia no Chinês
 
-### 利 (lì)
+### 利 (lì / lei6)
 
 禾 (hé) – grão, cereal
 刂 (dāo) – faca
 
 Faca que colhe o grão. O sentido original é cortar a colheita, daí "afiado" e, por extensão, "vantajoso, benéfico". O que corta bem, rende bem.
 
-### 嘉 (jiā)
+### 嘉 (jiā / gaa1)
 
 壴 (zhù) – tambor cerimonial
 加 (jiā) – adicionar

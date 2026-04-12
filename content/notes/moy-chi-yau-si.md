@@ -21,29 +21,29 @@ sources:
 **梅知友士**
 *Moy Chi Yau Si*
 
-**Chi** (知 zhī) – Saber, ter consciência, Conhecimento.
+**Chi** (知 zhī / zi1) – Saber, ter consciência, Conhecimento.
 
-**Yau** (友 yǒu) – Amigo, Companheiro.
+**Yau** (友 yǒu / jau5) – Amigo, Companheiro.
 
-**Si** (士 shì) – Bacharel, Escolástico, Especialista, Guerreiro, Cavalheiro, Cavaleiro, Teórico.
+**Si** (士 shì / si6) – Bacharel, Escolástico, Especialista, Guerreiro, Cavalheiro, Cavaleiro, Teórico.
 
 ## Etimologia no Chinês
 
-### 知 (zhī)
+### 知 (zhī / zi1)
 
 矢 (shǐ / ci2) – flecha, dardo; jurar
 口 (kǒu / hau2) – boca; abertura, entrada
 
 Flecha e boca. Saber é acertar com a palavra.
 
-### 友 (yǒu)
+### 友 (yǒu / jau5)
 
 又 (yòu / jau6) – mão direita
 又 (yòu / jau6) – mão direita
 
 Duas mãos direitas que se encontram. No bronze antigo, às vezes aparece 口 embaixo, sugerindo o juramento verbal. Amigo é quem estende a mão na mesma direção.
 
-### 士 (shì)
+### 士 (shì / si6)
 
 十 (shí / sap6) – dez
 一 (yī / jat1) – um
