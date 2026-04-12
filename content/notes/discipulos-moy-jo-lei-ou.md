@@ -61,7 +61,7 @@ sources: []
 | Clayton Quintino de Souza | [Moy Kei Don](/notes/moy-kei-don/) | [梅崎讜](/notes/moy-kei-don/) | 2019-12-03 |
 | Fernando Marques Pinheiro | [Moy Fong Nang](/notes/moy-fong-nang/) | [梅風能](/notes/moy-fong-nang/) | 2021-09-11 |
 | Simão Coutinho de Albuquerque Neto | [Moy Sek Man](/notes/moy-sek-man/) | [梅識問](/notes/moy-sek-man/) | 2021-09-11 |
-| Antônio Henrique Correia | Moy On Tung | 梅安通 | 2021-09-11 |
+| Antônio Henrique Correia | [Moy On Tung](/notes/moy-on-tung/) | [梅安通](/notes/moy-on-tung/) | 2021-09-11 |
 | Mayara Galvão Palmeira | [Moy Mah Yat](/notes/moy-mah-yat/) | [梅馬佚](/notes/moy-mah-yat/) | 2021-09-16 |
 | Gérson Silva de Aguiar | [Moy Chek Sang](/notes/moy-chek-sang/) | [梅勣生](/notes/moy-chek-sang/) | 2021-09-23 |
 | Lucas Alves dos Santos Cota | Moy Lo Kei Si | 梅老崎士 | 2022-02-05 |
