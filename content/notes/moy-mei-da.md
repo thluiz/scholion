@@ -3,6 +3,7 @@ title: "梅美達 Moy Mei Da"
 date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de André Vieira Gonçalves de Almeida: Mei (美) belo, Da (達) alcançar."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
+toc: true
 has_commentary: true
 sources:
   - title: "MDBG Chinese Dictionary"
@@ -22,20 +23,20 @@ sources:
 
 Nome kung fu de André Vieira Gonçalves de Almeida.
 
-**Mei** (美) – Belo, bom.
+**Mei** (美 měi) – Belo, bom.
 
-**Da** (達) – Alcançar, atingir, penetrar.
+**Da** (達 dá) – Alcançar, atingir, penetrar.
 
 ## Etimologia no Chinês
 
-### 美
+### 美 (měi)
 
 羊 (yáng / joeng4) – carneiro, ovelha
 大 (dà / daai6) – grande
 
 O grande carneiro. O Shuowen Jiezi define 美 como 甘也從羊從大, "doce; composto de carneiro e grande". O carneiro gordo e grande era o símbolo do que é bom, agradável, desejável.
 
-### 達
+### 達 (dá)
 
 辶 (chuò / coek3) – caminhar
 大 (dà / daai6) – grande
@@ -47,7 +48,7 @@ Caminhar e alcançar. O Shuowen Jiezi define 達 como 行不相遇也, "caminhar
 
 Para 美, o Shuowen define como 甘也從羊從大, "doce, de carneiro e grande". O hanziyuan.net (Richard Sears) lista 大 (person-big) como componente e nota que a parte superior (羊) pode derivar de um adorno de plumas ou cabelo, não necessariamente de carneiro. Regista 4 formas oraculares e 2 de bronze. Se a leitura de Sears estiver correta, a decomposição 羊 + 大 é reinterpretação posterior. Para 達, o hanziyuan.net decompõe como 辶 + 羍 (fonético, "lamb-stew-da"), não como 辶 + 大 + 土. Não há Shuowen registado no hanziyuan.net para 達. Regista 0 formas oraculares e 4 de bronze. A segmentação em três componentes separados (辶, 大, 土) é análise moderna simplificada.
 
-## Extrapolando na etimologia traduzida
+## Etimologia do Português
 
 **Beleza** – de *belo*, do Lat. *bellus* (bonito, gracioso): qualidade do que é belo; harmonia de formas; perfeição estética.
 

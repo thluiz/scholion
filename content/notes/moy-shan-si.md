@@ -3,6 +3,7 @@ title: "梅山士 Moy Shan Si"
 date: 2026-04-10T21:54:21+01:00
 summary: "Etimologia do nome kung fu de Si Hing Carlos Antunes: Shan (山) montanha, Si (士) guerreiro-escolástico."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
+toc: true
 has_commentary: true
 sources:
   - title: "MDBG Chinese Dictionary"
@@ -22,19 +23,19 @@ sources:
 
 Nome kung fu de Si Hing (師兄) Carlos Antunes.
 
-**Shan** (山) – Montanha, monte, pico.
+**Shan** (山 shān) – Montanha, monte, pico.
 
-**Si** (士) – Bacharel, Escolástico, Especialista, Guerreiro, Cavalheiro, Cavaleiro, Teórico.
+**Si** (士 shì) – Bacharel, Escolástico, Especialista, Guerreiro, Cavalheiro, Cavaleiro, Teórico.
 
 ## Etimologia no Chinês
 
-### 山
+### 山 (shān)
 
 Pictograma. Três picos, o do meio mais alto. Uma das formas mais antigas do chinês: 12 variantes em osso de oráculo, 23 em bronze. Não se decompõe em outros caracteres.
 
 O Shuowen Jiezi define 山 como 宣也, "proclamar": a montanha proclama o qi, dispersa e gera as dez mil coisas. Tem pedra e é alto. Pictograma (象形).
 
-### 士
+### 士 (shì)
 
 十 (shí / sap6) – dez
 一 (yī / jat1) – um
@@ -45,7 +46,7 @@ O Shuowen Jiezi interpreta como quem domina de um a dez. Confúcio: 推十合一
 
 Para 山, as fontes concordam: pictograma puro, sem decomposição. O Shuowen acrescenta a leitura cosmológica (proclamar o qi, gerar as dez mil coisas), que é interpretação filosófica, não etimológica. Para 士, o hanziyuan.net (Richard Sears) não confirma a decomposição 十+一 nem o machado de guerra. Classifica como pictograma independente, "provavelmente modificação de 大 (dà, grande)". O Shuowen insiste na leitura numérica de um a dez.
 
-## Extrapolando na etimologia traduzida
+## Etimologia do Português
 
 **Montanha** – do Lat. vulgar *montanea* (de *montanus*, relativo a montes): monte elevado e de cume extenso; grande altura ou elevação; grande volume ou quantidade.
 

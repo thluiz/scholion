@@ -3,6 +3,7 @@ title: "梅懃馬 Moy Gam Ma"
 date: 2026-04-11T11:27:59+01:00
 summary: "Etimologia do nome kung fu de Paula Gama: Gam (懃) diligente, cortês, Ma (馬) cavalo."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
+toc: true
 has_commentary: true
 sources:
   - title: "MDBG Chinese Dictionary"
@@ -22,13 +23,13 @@ sources:
 
 Nome kung fu de Paula Gama.
 
-**Gam** (懃) – Diligente, solícito, cortês.
+**Gam** (懃 qín) – Diligente, solícito, cortês.
 
-**Ma** (馬) – Cavalo.
+**Ma** (馬 mǎ) – Cavalo.
 
 ## Etimologia no Chinês
 
-### 懃
+### 懃 (qín)
 
 堇 (jǐn / gan2) – argila amarela; componente fonético
 心 (xīn / sam1) – coração
@@ -37,7 +38,7 @@ Variante de 勤, que carrega 力 (força) no lugar de 心. O Shuowen Jiezi defin
 
 Gam é homófono de 金 (gam1, ouro, metal, dinheiro). É o mesmo ideograma de Gam Bau (金包), envelope ofertado em comemorações. Si Fu comentava que o eco é muitas vezes intencional num nome kung fu.
 
-### 馬
+### 馬 (mǎ)
 
 Pictograma. O Shuowen Jiezi define: 怒也武也象馬頭髦尾四足之形, "fúria e marcialidade; representa a forma da cabeça, crina, cauda e quatro patas do cavalo." O caractere tem 84 variantes em ossos oraculares — um dos pictogramas mais antigos e mais documentados. Quatro patas, uma crina, uma cauda. O cavalo é a imagem da força em movimento.
 
@@ -45,7 +46,7 @@ Pictograma. O Shuowen Jiezi define: 怒也武也象馬頭髦尾四足之形, "f�
 
 O hanziyuan.net (Richard Sears) decompõe 懃 como 心 (coração) + 勤 (industrioso), tratando 勤 como componente inteiro. A análise tradicional via Shuowen decompõe 勤 em 堇 (fonético) + 力 (semântico), o que implica que 懃 substitui 力 por 心. O significado original de 懃 no hanziyuan é "cortês", enquanto o MDBG trata como simples variante de 勤 (industrioso, solícito). Para 馬, as fontes concordam: pictograma puro, sem decomposição semântica.
 
-## Extrapolando na etimologia traduzida
+## Etimologia do Português
 
 **Diligência** – do Lat. *diligentia, -ae* (atenção, cuidado, zelo): aplicação para conseguir alguma coisa; disposição para resolver; atividade ou presteza na execução.
 

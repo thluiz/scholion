@@ -3,6 +3,7 @@ title: "梅菲林 Moy Fei Lam"
 date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Fernando Almeida Xavier: Fei (菲) fragrante, Lam (林) floresta."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
+toc: true
 has_commentary: true
 sources:
   - title: "MDBG Chinese Dictionary"
@@ -22,20 +23,20 @@ sources:
 
 Nome kung fu de Fernando Almeida Xavier.
 
-**Fei** (菲) – Fragrante, exuberante.
+**Fei** (菲 fēi) – Fragrante, exuberante.
 
-**Lam** (林) – Floresta, arvoredo.
+**Lam** (林 lín) – Floresta, arvoredo.
 
 ## Etimologia no Chinês
 
-### 菲
+### 菲 (fēi)
 
 艹 (cǎo) – erva, planta
 非 (fēi) – não, errado (componente fonético)
 
 O radical 艹 situa o caractere no reino vegetal. 非 contribui o som. O resultado é uma planta aromática, de vegetação densa e perfumada.
 
-### 林
+### 林 (lín)
 
 木 (mù) – árvore
 木 (mù) – árvore
@@ -46,7 +47,7 @@ Duas árvores lado a lado: floresta. O Shuowen define 林 como 平土有叢木�
 
 Para 菲, as fontes concordam na decomposição 艹 + 非 e no papel fonético de 非. O Shuowen define 菲 como 芴也, uma planta específica (tipo de nabo silvestre), sem menção a fragrância. O MDBG e o hanziyuan.net (Richard Sears) registam o sentido de fragrante/luxuriante como significado corrente, mas esse valor é uma extensão posterior, não o sentido original do Shuowen. Para 林, as três fontes concordam: duas vezes 木, pictograma duplicado, floresta. O Shuowen, o MDBG e o hanziyuan.net não divergem na decomposição nem no significado.
 
-## Extrapolando na etimologia traduzida
+## Etimologia do Português
 
 **Fragrância** – do Lat. *fragrantia* (de *fragrare*, cheirar bem): aroma agradável; perfume; odor suave.
 

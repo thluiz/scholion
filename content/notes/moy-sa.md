@@ -3,6 +3,7 @@ title: "梅紗 Moy Sa"
 date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Fábio Gomes de Sá: Sa (紗) gaze, seda fina."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
+toc: true
 has_commentary: true
 sources:
   - title: "MDBG Chinese Dictionary"
@@ -22,11 +23,11 @@ sources:
 
 Nome kung fu de Fábio Gomes de Sá.
 
-**Sa** (紗) – Gaze, seda fina, musselina.
+**Sa** (紗 shā) – Gaze, seda fina, musselina.
 
 ## Etimologia no Chinês
 
-### 紗
+### 紗 (shā)
 
 糹(sī / si1) – seda
 少 (shǎo / siu2) – pouco, delicado
@@ -37,7 +38,7 @@ Seda fina, delicada. O radical 糹indica o domínio têxtil; 少 funciona como f
 
 Para 紗, as fontes concordam na estrutura 糹+ 少. O hanziyuan.net (Richard Sears) classifica 少 como "related phonetic" (fonético com relação semântica), o que torna plausível a leitura "pouca fibra, tecido ralo". O hanziyuan.net não regista citação do Shuowen para 紗, e não há formas oraculares, de bronze nem de selo. Caractere tardio, sem divergência relevante entre as fontes.
 
-## Extrapolando na etimologia traduzida
+## Etimologia do Português
 
 **Gaze** – do Fr. *gaze*, possivelmente de Gaza (cidade): tecido muito fino e transparente; pano leve de trama aberta.
 

@@ -3,6 +3,7 @@ title: "梅彭普 Moy Pang Po"
 date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Claudio Pamplona dos Santos Dias: Pang (彭) som do tambor, Po (普) universal."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
+toc: true
 has_commentary: true
 sources:
   - title: "MDBG Chinese Dictionary"
@@ -22,20 +23,20 @@ sources:
 
 Nome kung fu de Claudio Pamplona dos Santos Dias.
 
-**Pang** (彭) – Sobrenome, som de tambor.
+**Pang** (彭 péng) – Sobrenome, som de tambor.
 
-**Po** (普) – Universal, geral.
+**Po** (普 pǔ) – Universal, geral.
 
 ## Etimologia no Chinês
 
-### 彭
+### 彭 (péng)
 
 壴 (zhù) – tambor sobre suporte
 彡 (shān) – cerdas, linhas decorativas
 
 Som do tambor ressoando. O componente esquerdo 壴 representa um tambor montado; à direita, 彡 sugere reverberação, as ondas sonoras que se propagam. O Shuowen define 彭 como 鼓聲也, "som de tambor". É também um dos sobrenomes mais antigos da China.
 
-### 普
+### 普 (pǔ)
 
 並 (bìng) – juntos, lado a lado
 日 (rì) – sol
@@ -46,7 +47,7 @@ Sol para todos. Universal. O componente superior 並 indica união, simultaneida
 
 Para 彭, as três fontes concordam na decomposição 壴+彡 e na definição "som de tambor" (鼓聲也). O hanziyuan.net (Richard Sears) descreve 彡 especificamente como "drum-beats" (batidas de tambor), reforçando a leitura sonora. O caractere tem 25 atestações em ossos oraculares, confirmando antiguidade. Para 普, o hanziyuan.net decompõe em 並 (two-people-same) + 日, concordando com o MDBG. Não há atestações em ossos oraculares nem bronze. O Shuowen define 普 como 日無色也 ("sol sem cor particular"), uma glosa que aponta para amplitude e não para "universalidade" no sentido moderno. O sentido de "universal" é extensão posterior, não o significado original segundo o Shuowen.
 
-## Extrapolando na etimologia traduzida
+## Etimologia do Português
 
 **Tambor** – do Ar. *tanbur* (instrumento de cordas, depois percussão): instrumento de percussão; membrana tensionada sobre aro.
 
