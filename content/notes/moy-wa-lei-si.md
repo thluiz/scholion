@@ -50,7 +50,7 @@ Forma de radical Kangxi (⼠) em vez do caractere padrão 士. Pictograma de um 
 
 ### Divergências entre fontes
 
-Para 華, o MDBG decompõe em 艹 (planta) + componente inferior ligado a 花. O hanziyuan.net (Richard Sears) classifica 華 como pictograma de uma flor, sem decomposição em componentes separados, e registra formas em osso de oráculo que mostram uma planta florida inteira. O Shuowen concorda com o sentido de florescência (榮也) mas não explicita decomposição. Para 利, as três fontes concordam na decomposição 禾 + 刂 e no sentido de afiado/benefício. Para ⼠, o MDBG e o Shuowen tratam 士 como composto de 十 + 一. O hanziyuan.net classifica como pictograma independente, sem confirmar a decomposição numérica nem a leitura do machado de guerra.
+Para 華, o MDBG decompõe em 艹 (planta) + componente inferior ligado a 花. O hanziyuan.net (Richard Sears) decompõe 華 como composto de 艹 (erva) + 𠌶 (huá, primitivo de flor), não como pictograma indivisível. Não registra formas em osso de oráculo (甲骨文 0), mas tem 10 formas em bronze. O Shuowen concorda com o sentido de florescência (榮也) e analisa como 從艹從𠌶. Para 利, as três fontes concordam na decomposição 禾 + 刂 e no sentido de afiado/benefício. Para ⼠, o MDBG e o Shuowen tratam 士 como composto de 十 + 一. O hanziyuan.net classifica como pictograma independente, sem confirmar a decomposição numérica nem a leitura do machado de guerra.
 
 ## Extrapolando na etimologia traduzida
 

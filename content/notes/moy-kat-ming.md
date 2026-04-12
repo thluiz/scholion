@@ -44,7 +44,7 @@ O Shuowen Jiezi define 明 como 照也, "iluminar". Sol e lua juntos: a claridad
 
 ### Divergências entre fontes
 
-Para 吉, o Shuowen decompõe em 士+口 e define como 善也 ("bom"). O hanziyuan.net (Richard Sears) não confirma a decomposição 士+口. Nas formas em ossos oraculares, o caractere mostra um machado sobre um suporte, interpretado como arma colocada em posição de repouso, daí "auspicioso" (ausência de conflito). O MDBG limita-se à decomposição gráfica moderna 士+口, sem tomar posição sobre a origem. Para 明, as fontes concordam nos componentes (日+月 na forma moderna), mas divergem sobre a forma arcaica. O hanziyuan.net mostra 囧 (janela) + 月 nos ossos oraculares, sem 日. O Shuowen já regista a forma com 日+月. O MDBG usa a decomposição moderna.
+Para 吉, o Shuowen decompõe em 士+口 e define como 善也 ("bom"). O hanziyuan.net (Richard Sears) lista 口 como componente e possui 101 formas em ossos oraculares, o que mostra que o caractere era muito frequente na escrita arcaica. As formas oraculares diferem substancialmente da forma moderna, mas o hanziyuan.net não propõe uma decomposição alternativa explícita. O MDBG limita-se à decomposição gráfica moderna 士+口, sem tomar posição sobre a origem. Para 明, as fontes concordam nos componentes (日+月 na forma moderna), mas divergem sobre a forma arcaica. O hanziyuan.net (Richard Sears) regista a forma antiga como 朙 e possui 19 formas em ossos oraculares e 27 em bronze, indicando evolução gráfica significativa. O Shuowen regista a forma com 日+月 (古文明從日). O MDBG usa a decomposição moderna.
 
 ## Extrapolando na etimologia traduzida
 

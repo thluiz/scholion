@@ -41,7 +41,7 @@ Pessoa que se perde, ou que escapa ao comum. O caractere carrega dois sentidos p
 
 ### Divergências entre fontes
 
-Para 馬, as fontes concordam: pictograma puro, sem decomposição semântica. O Shuowen acrescenta 怒也武也 ("fúria e marcialidade"), que é leitura simbólica, não etimológica. O hanziyuan.net (Richard Sears) confirma as dezenas de variantes em ossos oraculares sem subscrever a conotação marcial. Para 佚, o MDBG decompõe em 亻+ 失 (pessoa + perder). O hanziyuan.net confirma os mesmos componentes e o duplo sentido de "perdido" e "extraordinário". O Shuowen Jiezi define 佚 como 佚民也, com ênfase no sentido de "pessoa reclusa, que se retira". A leitura de "extraordinário" ou "talento que excede o comum" aparece no MDBG e no uso corrente mas não no Shuowen.
+Para 馬, as fontes concordam: pictograma puro, sem decomposição semântica. O Shuowen acrescenta 怒也武也 ("fúria e marcialidade"), que é leitura simbólica, não etimológica. O hanziyuan.net (Richard Sears) confirma as dezenas de variantes em ossos oraculares sem subscrever a conotação marcial. Para 佚, o MDBG decompõe em 亻+ 失 (pessoa + perder). O hanziyuan.net (Richard Sears) confirma os mesmos componentes (亻+ fonético 失) mas define o sentido original como "entregar-se a prazeres; fugir" (indulge in pleasures; flee), sem referir o sentido de "extraordinário". O caractere não possui formas em ossos oraculares nem em bronze. O Shuowen Jiezi define 佚 como 佚民也從人失聲一曰佚忽也, com ênfase no sentido de "pessoa reclusa" e "negligência". A leitura de "extraordinário" ou "talento que excede o comum" aparece no MDBG e no uso corrente mas não no hanziyuan.net nem no Shuowen.
 
 ## Extrapolando na etimologia traduzida
 

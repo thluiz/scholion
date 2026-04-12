@@ -53,7 +53,7 @@ Mulher sob o teto. O sentido original é segurança doméstica: onde há abrigo,
 
 ### Divergências entre fontes
 
-Para 法, o Shuowen Jiezi dá a forma antiga como 灋, decomposta em 氵(água) + 廌 (zhi, animal mítico que distingue culpado de inocente) + 去 (remover). O animal julga e a água nivela: a lei remove o injusto. O hanziyuan.net (Richard Sears) confirma a forma antiga com 廌 mas nota que o componente desapareceu na simplificação, restando apenas 氵+ 去. O MDBG registra o sentido moderno (lei, método, modo) sem referência à forma arcaica. Para 兵, o Shuowen define como 械也, "instrumento de guerra", e decompõe em 斤 (machado) + 廾 (duas mãos). O hanziyuan.net concorda com a decomposição e classifica como ideograma composto. Para 安, as fontes concordam em 宀 + 女 sem divergências relevantes.
+Para 法, o Shuowen Jiezi regista apenas 今文省 para a forma simplificada. O hanziyuan.net (Richard Sears) indica as formas antigas 㳒 e 灋, decompondo 法 como "from three-dot-water 氵shuǐ" com nota sobre o animal mítico que distingue culpado de inocente na forma arcaica. O hanziyuan não lista formas oraculares nem em bronze para 法 (0 甲骨文, 0 金文), confirmando que o caractere na forma atual é formação relativamente tardia. O MDBG registra o sentido moderno (lei, método, modo) sem referência à forma arcaica. Para 兵, o Shuowen define como 械也, "instrumento de guerra", e decompõe em 斤 (machado) + 廾 (duas mãos). O hanziyuan.net concorda com a decomposição e classifica como ideograma composto. Para 安, as fontes concordam em 宀 + 女 sem divergências relevantes.
 
 ## Extrapolando na etimologia traduzida
 

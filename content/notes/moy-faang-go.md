@@ -41,7 +41,7 @@ Pictograma de uma torre ou pavilhão elevado. A forma antiga mostra uma estrutur
 
 ### Divergências entre fontes
 
-Para 范, o MDBG decompõe em 艹 + 氾 e trata como forma simplificada de 範 (que carrega 車, carro, e 竹, bambu). O hanziyuan.net (Richard Sears) não tem entrada separada para 范, remetendo a 範 como forma completa. O Shuowen regista apenas 範 (com 車), definindo como 範軷也, "molde de fundição". O uso de 范 como equivalente de 範 é moderno. Para 高, as três fontes concordam que é um pictograma de construção elevada. O Shuowen define como 崇也 ("elevado"). O hanziyuan.net mostra formas em bronze de um pavilhão com base, andares e telhado, confirmando a leitura pictográfica sem decomposição semântica.
+Para 范, o MDBG decompõe em 艹 + 氾 e trata como forma simplificada de 範 (que carrega 車, carro, e 竹, bambu). O hanziyuan.net (Richard Sears) tem entrada para 范 com duas etimologias, decompondo em 艹 (erva) + 氾 (fonético, transbordar), e regista o sentido original como abelha (蜂), não molde. Não tem formas em osso de oráculo nem bronze, mas tem 1 forma seal e 16 formas Liushutong. O Shuowen define 范 como 艸也 ("planta") e a entrada separada 範 como molde. Para 高, as três fontes concordam que é um pictograma de construção elevada. O Shuowen define como 崇也 ("elevado"). O hanziyuan.net mostra formas em bronze de um pavilhão com base, andares e telhado, confirmando a leitura pictográfica sem decomposição semântica.
 
 ## Extrapolando na etimologia traduzida
 

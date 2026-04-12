@@ -45,7 +45,7 @@ Cereal cortado com faca: a colheita. O Shuowen define 利 como 銛也, "afiado".
 
 ### Divergências entre fontes
 
-Para 泰, o MDBG decompõe em 三 (três) + 人 (pessoa) + 水 (água). O hanziyuan.net (Richard Sears) decompõe em 大 (grande) + 廾 (duas mãos) + 水 (água), sem o elemento 三. O Shuowen define 泰 como 滑也 ("deslizar") e decompõe em 水 + 大, omitindo 廾 como componente independente. As três fontes divergem na segmentação dos componentes superiores. Para 利, MDBG, Shuowen e hanziyuan.net concordam na decomposição 禾 + 刂 e no sentido de afiado/benefício.
+Para 泰, o MDBG decompõe em 三 (três) + 人 (pessoa) + 水 (água). O hanziyuan.net (Richard Sears) decompõe a partir de 大 (dà, fonético) com notação de componente remanescente (𡗗), sem listar 廾 como componente explícito. Não regista formas em osso de oráculo nem bronze (ambos 0). O Shuowen define 泰 como 滑也 ("deslizar") e decompõe em 廾 + 水 + 大聲. As três fontes divergem na segmentação dos componentes superiores. Para 利, MDBG, Shuowen e hanziyuan.net concordam na decomposição 禾 + 刂 e no sentido de afiado/benefício.
 
 ## Extrapolando na etimologia traduzida
 

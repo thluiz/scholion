@@ -44,7 +44,7 @@ A flor que conecta lama e céu. O radical vegetal 艹 indica a categoria botâni
 
 ### Divergências entre fontes
 
-Para 法, a mesma questão de outros nomes: a decomposição moderna 氵+ 去 não reflete a forma antiga 灋, que incluía 廌 (animal mítico). O hanziyuan.net (Richard Sears) confirma o componente 廌 nas formas de bronze. Para 蓮, as fontes concordam na estrutura 艹 + 連. O papel de 連 é primariamente fonético; a leitura semântica (a flor que conecta) é interpretação posterior, não etimologia no sentido estrito.
+Para 法, a mesma questão de outros nomes: a decomposição moderna 氵+ 去 não reflete a forma antiga 灋, que incluía 廌 (animal mítico). O hanziyuan.net (Richard Sears) reconhece as formas antigas 㳒 e 灋 e menciona o animal mítico, mas não possui formas de bronze nem oraculares para 法 (0 em ambas as categorias). Para 蓮, as fontes concordam na estrutura 艹 + 連. O hanziyuan.net classifica 連 como fonético, sem formas de bronze ou oraculares (0 em ambas). A leitura semântica (a flor que conecta) é interpretação posterior, não etimologia no sentido estrito.
 
 ## Extrapolando na etimologia traduzida
 

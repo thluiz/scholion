@@ -44,7 +44,7 @@ Mão que desloca algo de um lugar para outro. O radical 扌indica ação manual;
 
 ### Divergências entre fontes
 
-Para 利, as três fontes concordam na decomposição 禾+刂 e no sentido de "afiado". O hanziyuan.net (Richard Sears) mostra formas arcaicas onde a faca aparece junto a cereais ou espigas, confirmando a leitura do Shuowen. Não há divergência relevante. Para 挪, o MDBG decompõe em 扌+ 那 (mão + fonético). O hanziyuan.net tem registos escassos para este caractere, que não aparece em inscrições oraculares nem em bronze. O Shuowen não inclui 挪, o que sugere formação tardia. A decomposição 扌+ 那 é aceite pelas fontes disponíveis sem contestação.
+Para 利, as três fontes concordam na decomposição 禾+刂 e no sentido de "afiado". O hanziyuan.net (Richard Sears) mostra formas arcaicas onde a faca aparece junto a cereais ou espigas, confirmando a leitura do Shuowen. Não há divergência relevante. Para 挪, o MDBG decompõe em 扌+ 那 (mão + fonético). O hanziyuan.net (Richard Sears) liga 挪 à forma original 捼, decomposta em 扌+ 委 (mão + fonético 委 wěi), não 扌+ 那 como na análise moderna. O Shuowen inclui a forma 捼, definida como 推也從手委聲 ("empurrar, de mão com som 委"). O caractere não aparece em inscrições oraculares nem em bronze. A decomposição moderna 扌+ 那 reflecte uma reanálise gráfica posterior, não a estrutura original.
 
 ## Extrapolando na etimologia traduzida
 

@@ -44,7 +44,7 @@ O Shuowen Jiezi define 老 como 考也七十曰老, "aos setenta se é velho". A
 
 ### Divergências entre fontes
 
-Para 吉, o Shuowen decompõe em 士+口 e define como 善也. O hanziyuan.net (Richard Sears) rejeita esta decomposição: nas formas oraculares, o caractere mostra um machado sobre um suporte, não uma boca sob um erudito. A leitura de "auspicioso" derivaria da arma em repouso, não da fala correta. O MDBG regista a decomposição gráfica moderna sem se pronunciar sobre a origem. Para 老, o Shuowen decompõe em 耂+匕 e o hanziyuan.net confirma a forma arcaica de pessoa com cabelos longos e bastão. As fontes concordam na estrutura e no sentido. A diferença é menor: o hanziyuan.net classifica como pictograma transformado, o Shuowen como ideograma composto.
+Para 吉, o Shuowen decompõe em 士+口 e define como 善也. O hanziyuan.net (Richard Sears) lista 口 como componente e possui 101 formas em ossos oraculares, indicando uso muito frequente na escrita arcaica. As formas oraculares diferem da forma moderna, mas o hanziyuan.net não propõe uma decomposição alternativa explícita nem rejeita a do Shuowen. O MDBG regista a decomposição gráfica moderna sem se pronunciar sobre a origem. Para 老, o Shuowen decompõe em 耂+匕 e o hanziyuan.net confirma a forma arcaica de pessoa com cabelos longos e bastão. As fontes concordam na estrutura e no sentido. A diferença é menor: o hanziyuan.net classifica como pictograma transformado, o Shuowen como ideograma composto.
 
 ## Extrapolando na etimologia traduzida
 

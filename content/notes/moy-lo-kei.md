@@ -45,7 +45,7 @@ Montanha irregular. O radical 山 indica a categoria geográfica; 奇 funciona c
 
 ### Divergências entre fontes
 
-Para 勞, o hanziyuan.net (Richard Sears) decompõe a parte superior como dois 火 (fogo) sob 冖 (cobertura), concordando com a nota. O Shuowen define 勞 como 劇也 ("intenso") mas na forma antiga usa 熒 (brilho de fogo) + 力, não dois fogos separados sob cobertura. A estrutura gráfica é a mesma, a segmentação dos componentes muda conforme a fonte. Para 崎, as fontes concordam: 山 + 奇, sem divergência. O papel de 奇 é fonético.
+Para 勞, o hanziyuan.net (Richard Sears) decompõe como 力 (força) + 𤇾 (flowers-fire, "related phonetic"), tratando a parte superior como bloco único, não como dois 火 separados sob 冖. O Shuowen define 勞 como 劇也從力熒省 — "intenso, de 力 e forma abreviada de 熒" — o que coincide na substância: fogo + força. Não há formas oraculares no hanziyuan.net (0); há 2 formas de bronze. Para 崎, as fontes concordam: 山 + 奇. O hanziyuan.net classifica 奇 como fonético. Não há formas oraculares, de bronze nem de selo para 崎.
 
 ## Extrapolando na etimologia traduzida
 

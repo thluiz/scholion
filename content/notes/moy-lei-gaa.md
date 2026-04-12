@@ -44,7 +44,7 @@ Louvor, excelência. O tambor cerimonial marca a celebração; 加 acrescenta in
 
 ### Divergências entre fontes
 
-Para 利, o Shuowen Jiezi define como 銛也, "afiado", e decompõe em 刀 (faca) + 禾 (grão), lendo o conjunto como "colher com a faca". O hanziyuan.net (Richard Sears) concorda com a decomposição mas classifica o caractere nas formas oraculares como pictograma de uma faca junto ao grão, sem distinguir componente fonético. O MDBG lista os sentidos modernos (afiado, vantajoso, benefício) sem comentar a estrutura. Para 嘉, o Shuowen define como 美也, "belo", e decompõe em 壴 (tambor) + 加 (fonético). O hanziyuan.net trata 加 como fonético e semântico simultaneamente, argumentando que o sentido de "adicionar" reforça a ideia de celebração acumulada. A diferença é de grau: o Shuowen atribui a 加 papel puramente fonético, Sears lhe dá peso semântico.
+Para 利, o Shuowen Jiezi define como 銛也, "afiado", e decompõe em 刀 (faca) + 禾 (grão), lendo o conjunto como "colher com a faca". O hanziyuan.net (Richard Sears) concorda com a decomposição mas classifica o caractere nas formas oraculares como pictograma de uma faca junto ao grão, sem distinguir componente fonético. O MDBG lista os sentidos modernos (afiado, vantajoso, benefício) sem comentar a estrutura. Para 嘉, o Shuowen define como 美也, "belo", e decompõe em 壴 (tambor) + 加 (fonético). O hanziyuan.net concorda: classifica 加 como componente fonético ("phonetic mouth-increase 加 jiā"), sem lhe atribuir peso semântico adicional. Não há divergência entre as fontes neste ponto. O hanziyuan nota que 嘉 não possui formas oraculares conhecidas, aparecendo a partir do bronze (14 formas).
 
 ## Extrapolando na etimologia traduzida
 

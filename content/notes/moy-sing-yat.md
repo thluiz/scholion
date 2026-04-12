@@ -41,7 +41,7 @@ Traço único. O mais elementar dos caracteres: um traço horizontal representan
 
 ### Divergências entre fontes
 
-Para 勝, o MDBG decompõe em 朕+力. O hanziyuan.net (Richard Sears) concorda com a presença de 力 mas analisa a parte superior como 舟 (barco) + 灷 (componente fonético), sem tratar 朕 como unidade. O Shuowen define 勝 como 任也 ("suportar, ser capaz"), um sentido distante de "vitória" que o MDBG e o uso moderno priorizam. Para 一, as três fontes concordam: traço único, sem decomposição. A definição cosmológica do Shuowen (o Dao que divide céu e terra) é filosófica, não partilhada pelo MDBG nem pelo hanziyuan.
+Para 勝, o MDBG decompõe em 朕+力. O hanziyuan.net (Richard Sears) concorda: decompõe em 月 + fonético 朕 (omens), tratando 朕 como unidade fonética. Não há atestações em ossos oraculares nem bronze. O Shuowen define 勝 como 任也 ("suportar, ser capaz") e confirma 從力朕聲, um sentido distante de "vitória" que o MDBG e o uso moderno priorizam. Para 一, as três fontes concordam: traço único, sem decomposição. A definição cosmológica do Shuowen (o Dao que divide céu e terra) é filosófica, não partilhada pelo MDBG nem pelo hanziyuan.
 
 ## Extrapolando na etimologia traduzida
 

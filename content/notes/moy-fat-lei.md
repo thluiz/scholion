@@ -44,7 +44,7 @@ Colher o grão com a faca. O Shuowen Jiezi define 利 como 銛也, "afiado". A l
 
 ### Divergências entre fontes
 
-Para 法, a decomposição moderna 氵+ 去 é pacífica entre as fontes. O Shuowen Jiezi, porém, registra a forma antiga 灋 com o componente 廌 (zhì), um animal mítico que separava o justo do injusto. O hanziyuan.net (Richard Sears) confirma a presença de 廌 nas formas de bronze, o que indica que a decomposição corrente (água + ir) é simplificação tardia, não a estrutura original. Para 利, as fontes concordam: 禾 + 刀, sem divergência relevante.
+Para 法, a decomposição moderna 氵+ 去 é pacífica entre as fontes. O Shuowen Jiezi registra a forma antiga 灋 com o componente 廌 (zhì), um animal mítico que separava o justo do injusto. O hanziyuan.net (Richard Sears) reconhece as formas antigas 㳒 e 灋 e menciona o animal mítico, mas não possui formas de bronze nem oraculares para este caractere (0 em ambas as categorias). A decomposição corrente (água + ir) é simplificação tardia, não a estrutura original. Para 利, as fontes concordam: 禾 + 刀, sem divergência relevante.
 
 ## Extrapolando na etimologia traduzida
 

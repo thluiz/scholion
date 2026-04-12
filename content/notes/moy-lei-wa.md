@@ -41,7 +41,7 @@ O caractere tradicional mostra uma planta em plena floração. A parte superior 
 
 ### Divergências entre fontes
 
-Para 利, as três fontes concordam na decomposição 禾+刂 e no sentido de "afiado". O Shuowen acrescenta a glosa 銛也, que especifica o tipo de fio cortante, mas não há divergência estrutural. Para 華, o hanziyuan.net (Richard Sears) decompõe a forma antiga como pictograma de uma árvore florida, sem isolar subcomponentes. O MDBG lista a decomposição como 化+十 na forma tradicional (華), enquanto o Shuowen trata como pictograma e define como 榮也 ("florescimento"). A discordância está na estrutura: pictograma integral (Shuowen, hanziyuan) versus composição 化+十 (MDBG).
+Para 利, as três fontes concordam na decomposição 禾+刂 e no sentido de "afiado". O Shuowen acrescenta a glosa 銛也, que especifica o tipo de fio cortante, mas não há divergência estrutural. Para 華, o hanziyuan.net (Richard Sears) decompõe em 艹 (grass-top) + fonético 𠌶 (flower-primitive), isolando subcomponentes e indicando 化 como fonético substituto. O Shuowen define como 榮也從艸從𠌶 ("florescimento"), confirmando a decomposição do hanziyuan. O MDBG lista a decomposição como 化+十 na forma tradicional (華). A discordância está na identificação do componente superior: 𠌶 como unidade primitiva (Shuowen, hanziyuan) versus 化 como componente moderno (MDBG).
 
 ## Extrapolando na etimologia traduzida
 

@@ -44,7 +44,7 @@ Grão na boca. Quando há alimento, há paz. O Shuowen Jiezi define 和 como 相
 
 ### Divergências entre fontes
 
-Para 依, o Shuowen Jiezi define como 倚也, "apoiar-se, encostar", e decompõe em 人 (pessoa) + 衣 (roupa), com 衣 como elemento fonético. O hanziyuan.net (Richard Sears) confirma a decomposição mas classifica 衣 como simultaneamente fonético e semântico, apontando que a roupa que cobre o corpo reforça o sentido de amparo. O MDBG registra apenas "de acordo com, depender de", sem entrar na etimologia. Para 和, o Shuowen define como 相應也, "correspondência mútua", e decompõe em 口 (boca) + 禾 (fonético). O hanziyuan.net inverte a leitura: trata 禾 como semântico (grão, alimento) e 口 como semântico (boca), fazendo de 和 um ideograma composto, não um caractere fono-semântico. A diferença é estrutural: para o Shuowen, 禾 fornece som; para Sears, fornece sentido.
+Para 依, o Shuowen Jiezi define como 倚也, "apoiar-se, encostar", e decompõe em 人 (pessoa) + 衣 (roupa), com 衣 como elemento fonético. O hanziyuan.net (Richard Sears) confirma a decomposição mas classifica 衣 como simultaneamente fonético e semântico, apontando que a roupa que cobre o corpo reforça o sentido de amparo. O MDBG registra apenas "de acordo com, depender de", sem entrar na etimologia. Para 和, o Shuowen define como 相應也, "correspondência mútua", e decompõe em 口 (boca) + 禾 (fonético). O hanziyuan.net concorda: classifica 禾 como componente fonético ("phonetic grain 禾 hé") e 口 como componente semântico. Não há divergência estrutural entre as duas fontes neste caso. O hanziyuan também confirma que 和 não possui formas oraculares conhecidas, aparecendo apenas a partir do bronze (3 formas).
 
 ## Extrapolando na etimologia traduzida
 

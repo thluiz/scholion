@@ -45,7 +45,7 @@ Faca que corta o grão. Colheita proveitosa. O Shuowen define 利 como 銛也, "
 
 ### Divergências entre fontes
 
-Para 奧, o MDBG decompõe em 宀+釆+大. O hanziyuan.net (Richard Sears) analisa a forma antiga como 宀 sobre 廾 (duas mãos) segurando 釆, com sentido de "recolher algo precioso para dentro da casa". A presença de 大 como componente separado não é confirmada pelo hanziyuan. O Shuowen define 奧 como 宛也 ("recanto interior"), concordando com o sentido espacial mas sem detalhar a decomposição nos mesmos termos. Para 利, as três fontes concordam na decomposição 禾+刂 e no sentido de "afiado/benefício". Não há divergência neste caractere.
+Para 奧, o MDBG decompõe em 宀+釆+大. O hanziyuan.net (Richard Sears) regista a forma variante 𡪃 e menciona 米 como componente, sem referir 廾 (duas mãos) nem 釆. Não há atestações em ossos oraculares nem bronze, o que limita a análise da forma arcaica. O Shuowen define 奧 como 宛也 ("recanto interior"), concordando com o sentido espacial mas sem detalhar a decomposição nos mesmos termos. Para 利, as três fontes concordam na decomposição 禾+刂 e no sentido de "afiado/benefício". Não há divergência neste caractere.
 
 ## Extrapolando na etimologia traduzida
 

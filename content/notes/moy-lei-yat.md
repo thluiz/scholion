@@ -44,7 +44,7 @@ Colher o grão com a faca. O Shuowen Jiezi define 利 como 銛也, "afiado". A l
 
 ### Divergências entre fontes
 
-Para 利, as fontes concordam: 禾 + 刀, sem divergência relevante. Para 溢, a estrutura 氵+ 益 é aceite pelas três fontes. O hanziyuan.net (Richard Sears) trata 益 como componente fonético. O Shuowen trata 益 como tendo valor semântico (aumento, excesso), o que reforça a ideia de "água que excede o recipiente". A diferença é menor: fonético puro vs. fonético-semântico.
+Para 利, as fontes concordam: 禾 + 刀, sem divergência relevante. Para 溢, a estrutura 氵+ 益 é aceite pelas três fontes. O hanziyuan.net (Richard Sears) classifica 益 como "related phonetic" (fonético com relação semântica), não como fonético puro, o que coincide com o Shuowen (器滿也從水益聲): 益 é fonético e ao mesmo tempo reforça o sentido de excesso. Não há formas oraculares nem de bronze para 溢 no hanziyuan.net.
 
 ## Extrapolando na etimologia traduzida
 

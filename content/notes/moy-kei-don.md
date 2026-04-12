@@ -44,7 +44,7 @@ Palavra franca. O radical 言 indica o domínio da linguagem; 黨 funciona como 
 
 ### Divergências entre fontes
 
-Para 崎, as fontes concordam na decomposição 山+奇 e no sentido de terreno acidentado. O hanziyuan.net (Richard Sears) tem poucas atestações antigas para 崎, sugerindo formação tardia. O Shuowen não inclui entrada própria para 崎, tratando-o implicitamente como extensão de 奇 com radical de montanha. Para 讜, o MDBG decompõe em 言+黨. O hanziyuan.net não tem entrada para 讜, dado que o caractere é raro e tardio. O Shuowen define 讜 como 直言也 ("fala direta"), confirmando o sentido de franqueza. A decomposição 言+黨 é consensual onde as fontes registam o caractere, mas a escassez de atestações antigas limita a análise etimológica.
+Para 崎, as fontes concordam na decomposição 山+奇 e no sentido de terreno acidentado. O hanziyuan.net (Richard Sears) classifica 奇 como fonético (phonetic person-riding 奇), sem atestações em ossos oraculares, bronze, selo ou Liushutong, confirmando formação tardia. O Shuowen não inclui entrada própria para 崎. Para 讜, o MDBG decompõe em 言+黨. O hanziyuan.net tem entrada para 讜: decompõe em 訁 (mouth-speak) + fonético 黨 (political-party), sem atestações em ossos oraculares nem bronze. O Shuowen define 讜 como 直言也從言黨聲 ("fala direta, de 言 com 黨 como fonético"), confirmando o sentido de franqueza. A decomposição 言+黨 é consensual entre as três fontes.
 
 ## Extrapolando na etimologia traduzida
 

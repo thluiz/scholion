@@ -41,7 +41,7 @@ Encontro direto, face a face. 見 (ver) fornece o sentido; 賣 contribui o som. 
 
 ### Divergências entre fontes
 
-Para 巴, o MDBG trata como caractere não decomposto. O Shuowen define como 蟲也, "criatura rasteira", e associa ao mito da serpente gigante que engolia elefantes. O hanziyuan.net (Richard Sears) classifica como pictograma de uma serpente, confirmando o Shuowen, mas nota que o sentido de "apegar-se, esperar" é extensão fonética tardia, sem relação com a serpente original. Para 覿, o MDBG decompõe em 賣 (fonético) + 見 (ver). O hanziyuan.net não tem entrada para 覿, dado o seu estatuto de caractere raro/arcaico. O Shuowen define 覿 como 見也 ("ver") e decompõe em 賣 + 見, concordando com o MDBG. A leitura específica de "encontro face a face" aparece no uso clássico mas não na definição do Shuowen, que regista apenas "ver".
+Para 巴, o MDBG trata como caractere não decomposto. O Shuowen define como 蟲也, "criatura rasteira", e associa ao mito da serpente gigante que engolia elefantes. O hanziyuan.net (Richard Sears) classifica como pictograma de uma serpente, confirmando o Shuowen, mas nota que o sentido de "apegar-se, esperar" é extensão fonética tardia, sem relação com a serpente original. Para 覿, o MDBG decompõe em 賣 (fonético) + 見 (ver). O hanziyuan.net (Richard Sears) tem entrada para 覿 com 1 etimologia e 5 caracteres, decompondo em 見 (ver) + 賣 (fonético). Regista 1 forma em bronze e 1 seal, além de 3 formas Liushutong. O Shuowen define 覿 como 見也 ("ver") e decompõe em 見 + 賣聲, concordando com o MDBG e o hanziyuan.net. A leitura específica de "encontro face a face" aparece no uso clássico mas não na definição do Shuowen, que regista apenas "ver".
 
 ## Extrapolando na etimologia traduzida
 

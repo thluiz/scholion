@@ -41,7 +41,7 @@ Pictograma de balança equilibrada. O Shuowen define 平 como 語平舒也, "fal
 
 ### Divergências entre fontes
 
-Para 老, o MDBG e o Shuowen concordam na decomposição 耂+匕. O hanziyuan.net (Richard Sears) classifica 老 como pictograma de um velho com cabelo longo e bengala, sem isolar 匕 como componente separado. A leitura "mudança/transformação" de 匕 dentro de 老 é interpretação do Shuowen, não consenso entre as fontes. Para 平, o hanziyuan.net trata como pictograma (balança nivelada), sem decompor em subcomponentes. O MDBG lista a composição como indefinida. O Shuowen concorda com o sentido de equilíbrio mas acrescenta a leitura fonética 語平舒也, que se refere à fala serena.
+Para 老, o MDBG e o Shuowen concordam na decomposição 耂+匕. O hanziyuan.net (Richard Sears) lista apenas 耂 (old-man-remnant) como componente, sem isolar 匕 como parte separada. A leitura "mudança/transformação" de 匕 dentro de 老 é interpretação do Shuowen (從人毛匕言須髮變白也), não consenso entre as fontes. Para 平, o hanziyuan.net decompõe a partir de 水 (água), associando o caractere à superfície nivelada da água, e não a uma balança. O Shuowen define 平 como 語平舒也 e decompõe 從亏從八, sem mencionar água. A imagem de "balança equilibrada" não é confirmada por nenhuma das fontes consultadas.
 
 ## Extrapolando na etimologia traduzida
 

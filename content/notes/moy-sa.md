@@ -35,7 +35,7 @@ Seda fina, delicada. O radical 糹indica o domínio têxtil; 少 funciona como f
 
 ### Divergências entre fontes
 
-Para 紗, as fontes concordam na estrutura 糹+ 少. Caractere simples, sem divergência relevante. O papel de 少 é primariamente fonético; a leitura semântica ("pouca fibra, tecido ralo") é plausível mas não confirmada pelo Shuowen, que define 紗 apenas como tipo de seda (絲也) sem comentar o papel de 少.
+Para 紗, as fontes concordam na estrutura 糹+ 少. O hanziyuan.net (Richard Sears) classifica 少 como "related phonetic" (fonético com relação semântica), o que torna plausível a leitura "pouca fibra, tecido ralo". O hanziyuan.net não regista citação do Shuowen para 紗, e não há formas oraculares, de bronze nem de selo. Caractere tardio, sem divergência relevante entre as fontes.
 
 ## Extrapolando na etimologia traduzida
 

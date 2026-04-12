@@ -44,7 +44,7 @@ Mulher sob o teto. O Shuowen Jiezi define 安 como 靜也, "quietude". A imagem 
 
 ### Divergências entre fontes
 
-Para 威, o Shuowen decompõe como 女 + 戌 e associa à sogra (姑也), a mulher que exerce autoridade. O hanziyuan.net (Richard Sears) mostra formas em bronze com uma alabarda sobre uma pessoa (não necessariamente mulher), sugerindo que o sentido original é "intimidar com arma", não "autoridade da sogra". A presença de 女 pode ser adição posterior ou reinterpretação. Para 安, as fontes concordam: 宀 + 女, mulher sob o teto. O hanziyuan.net confirma essa estrutura nos ossos oraculares. Caractere estável entre as fontes.
+Para 威, o Shuowen decompõe como 女 + 戌 e associa à sogra (姑也), a mulher que exerce autoridade. O hanziyuan.net (Richard Sears) mantém a mesma decomposição (from female 女) e regista 10 formas de bronze, mas nenhuma oracular. O significado original listado é "to dominate". As fontes concordam na estrutura; a associação à sogra é do Shuowen, não do hanziyuan.net. Para 安, as fontes concordam: 宀 + 女, mulher sob o teto. O hanziyuan.net confirma essa estrutura com 16 formas em ossos oraculares e 15 de bronze. Caractere estável entre as fontes.
 
 ## Extrapolando na etimologia traduzida
 
