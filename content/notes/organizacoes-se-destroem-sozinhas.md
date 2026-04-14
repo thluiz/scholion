@@ -40,3 +40,7 @@ Por que tal ideia não vingou no ocidente?
 Parece que a base filosófica do ocidente vem do embate. Sócrates já defendia a ideia da dialética (aprimorada por Hegel), ou seja, discutir para chegar em outro ponto, questionar o companheiro até exaurir possibilidades. Na sua forma mais rudimentar é simplesmente negar a ideia do outro — logo o ocidente estaria numa espiral narcisista de se destruir e levar o mundo todo junto.
 
 Devaneios para um dia desses. 😄
+
+---
+
+*Esta nota foi desenvolvida no post [Organizações contra a entropia](https://silva.thluiz.com/posts/organizacoes-contra-a-entropia/) no Silvae.*
