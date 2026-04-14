@@ -49,6 +49,21 @@ O formato é o que for útil para que o autor leia e entenda, e para que a IA re
 - Build check: `hugo --quiet` antes de comitar.
 - Commit message: `research: [ação] em [tema]` (ex: `research: verificar fontes em Posição x Oposição`)
 
+## Marcações inline `{{...}}`
+
+O autor pode deixar marcações no texto com duplas chaves para a IA resolver. Ao retomar ou revisar, buscar todas as ocorrências de `{{...}}` e processar cada uma:
+
+1. Tentar resolver (buscar nota, ideograma, link, fonte, verificar facto)
+2. Se encontrar, substituir a marcação pelo conteúdo resolvido
+3. Se não encontrar, perguntar ao autor com opções próximas
+
+Convenções:
+
+- `{{ideograma de 尋橋}}` — buscar ideograma ou nota de etimologia
+- `{{link para Moy Kat Jo}}` — buscar link interno no Scholion
+- `{{fonte para X}}` — buscar referência/URL
+- `{{verificar: afirmação Y}}` — fact-check contra fontes
+
 ## Retomando em nova sessão
 
 Ao retomar, ler o arquivo inteiro. O documento contém tudo que é necessário para continuar sem depender de memória ou contexto de sessões anteriores. Perguntar ao autor o que quer aprofundar.
