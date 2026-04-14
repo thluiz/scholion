@@ -71,10 +71,11 @@ No arquivo original da pesquisa:
    ```markdown
    ## Texto Publicado
 
-   Publicado em <YYYY-MM-DD> no Silvae: [<título>](https://silva.thluiz.com/p/<slug>/)
+   Publicado em <YYYY-MM-DD> no Silvae: [<título>](https://silva.thluiz.com/posts/<slug>/)
 
-   <summary da pesquisa>
+   <resumo substancial do texto publicado — 3 a 5 frases cobrindo os tópicos principais, não apenas o summary do frontmatter>
    ```
+   O resumo deve permitir que alguém lendo apenas a pesquisa entenda o que foi publicado sem precisar abrir o link. Incluir os temas centrais, nomes, conceitos e a conclusão do texto.
 6. Manter as demais seções (Rascunhos, Notas extraídas, Fontes, Notas de contexto) intactas.
 
 ### 7. Build e commit
