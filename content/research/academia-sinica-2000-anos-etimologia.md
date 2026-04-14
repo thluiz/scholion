@@ -84,6 +84,7 @@ Tudo digitalizado e público pela Academia Sinica (中央研究院) de Taiwan. A
 - [小學堂 (Xiaoxuetang)](/notes/xiaoxuetang/)
 - [段玉裁 e o 說文解字注](/notes/duan-yucai-shuowen-jiezi-zhu/)
 - ['Fundações' das línguas modernas](/notes/fundacoes-das-linguas-modernas/)
+- [Confúcio Disse?](/notes/confucio-disse/)
 
 ## Fontes ✓
 
