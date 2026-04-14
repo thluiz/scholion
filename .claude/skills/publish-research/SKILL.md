@@ -30,7 +30,18 @@ Links internos do Scholion (`/notes/...`, `/tags/...`) precisam virar URLs absol
 
 Links externos (https://...) ficam como estão.
 
-### 4. Criar post no Silvae
+### 4. Extrair fontes
+
+Extrair todas as entradas da seção `## Fontes ✓` da pesquisa. Cada entrada no formato `- Título — [Site](URL) ✓` vira uma source no frontmatter do Silvae:
+
+```yaml
+  - title: "Título"
+    url: "URL"
+```
+
+Fontes de imagens usadas no texto (fotos, capas, screenshots) devem incluir `kind: image` e, se conhecidos, `author`.
+
+### 5. Criar post no Silvae
 
 Criar pasta `E:/silva/src/content/post/<slug>/` e escrever `index.md`:
 
@@ -41,12 +52,14 @@ description: "<summary da pesquisa>"
 publishDate: "<YYYY-MM-DD de hoje>"
 tags: [<tags da pesquisa, sem "pesquisa-viva", formato silvae com espaços>]
 lang: "pt"
+sources:
+  <fontes de imagens primeiro (kind: image), depois fontes textuais>
 ---
 ```
 
 Corpo: o texto extraído no passo 2, com URLs convertidas no passo 3.
 
-### 5. Atualizar a pesquisa no Scholion
+### 6. Atualizar a pesquisa no Scholion
 
 No arquivo original da pesquisa:
 
@@ -64,7 +77,7 @@ No arquivo original da pesquisa:
    ```
 6. Manter as demais seções (Rascunhos, Notas extraídas, Fontes, Notas de contexto) intactas.
 
-### 6. Build e commit
+### 7. Build e commit
 
 1. `cd /e/scholion && hugo --quiet` — abortar se falhar.
 2. No Scholion: `git add content/research/<slug>.md` + commit `"research: publicar [tema]"` + push.
