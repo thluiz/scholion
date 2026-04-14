@@ -339,6 +339,15 @@
   color: #6366f1;
 }
 
+/* Pesquisa publicada */
+.scholion-card--research-published {
+  border-left: 3px solid #22c55e;
+}
+
+.scholion-card-mark--research-published {
+  color: #22c55e;
+}
+
 /* Pesquisa viva — single page */
 .scholion-note--research {
   border-color: #6366f1;
@@ -352,6 +361,16 @@
   color: #6366f1;
   margin-bottom: 0.5rem;
   letter-spacing: 0.02em;
+}
+
+/* Pesquisa publicada — single page */
+.scholion-note--research-published {
+  border-color: #22c55e;
+  border-left: 4px solid #22c55e;
+}
+
+.scholion-research-badge--published {
+  color: #22c55e;
 }
 
 /* Indicador "fixada" — apenas a estrela */

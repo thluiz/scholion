@@ -1,10 +1,14 @@
 [
   {
-    "date": "2026-04-10",
-    "subject": "edit: divergências entre fontes nas notas de etimologia kung fu"
+    "date": "2026-04-12",
+    "subject": "edit: revisão das etimologias à luz das fontes Academia Sinica"
   },
   {
-    "date": "2026-04-10",
-    "subject": "feat: 梅護禮 Moy Wu Lai"
+    "date": "2026-04-12",
+    "subject": "feat: fonte Academia Sinica (chardb + xiaoxue) em 知友士、德貴、護禮"
+  },
+  {
+    "date": "2026-04-12",
+    "subject": "feat: seção Fontes Consultadas com dados crus de MDBG, hanziyuan e Priberam"
   }
 ]

@@ -1,9 +1,10 @@
 {{ define "main" }}
   <div class="scholion-layout{{ if .Params.toc }} scholion-layout--toc{{ end }}">
-    <article class="scholion-note scholion-note--research">
+    {{ $isPublished := eq (string (.Params.research | default "")) "published" }}
+    <article class="scholion-note {{ if $isPublished }}scholion-note--research-published{{ else }}scholion-note--research{{ end }}">
       <header class="scholion-note-header">
         <p class="scholion-back"><a href="{{ "/notes/" | relURL }}">← todas as notas</a></p>
-        <div class="scholion-research-badge">🔍 Pesquisa Viva{{ with .Params.status }} · {{ . }}{{ end }}</div>
+        <div class="scholion-research-badge {{ if $isPublished }}scholion-research-badge--published{{ end }}">🔍 {{ if $isPublished }}Pesquisa Publicada{{ else }}Pesquisa Viva{{ with $.Params.status }} · {{ . }}{{ end }}{{ end }}</div>
         <h1>{{ .Title }}</h1>
         <div class="scholion-note-meta">
           <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>

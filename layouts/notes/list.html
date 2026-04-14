@@ -21,7 +21,8 @@
         {{ $kind := cond (.Params.has_commentary | default false) "commentary" "gloss" }}
         {{ $isPinned := .Params.pinned | default false }}
         {{ $isResearch := eq .Section "research" }}
-        <li class="scholion-card scholion-card--{{ $kind }}{{ if $isPinned }} scholion-card--pinned{{ end }}{{ if $isResearch }} scholion-card--research{{ end }}" data-kind="{{ $kind }}">
+        {{ $isPublished := eq (string (.Params.research | default "")) "published" }}
+        <li class="scholion-card scholion-card--{{ $kind }}{{ if $isPinned }} scholion-card--pinned{{ end }}{{ if $isPublished }} scholion-card--research-published{{ else if $isResearch }} scholion-card--research{{ end }}" data-kind="{{ $kind }}">
           <a href="{{ .RelPermalink }}">
             <div class="scholion-card-body">
               <h2 class="scholion-card-title">{{ .Title }}</h2>
@@ -40,7 +41,9 @@
             {{ if $isPinned }}
               <span class="scholion-card-pin" title="fixada">★</span>
             {{ end }}
-            {{ if $isResearch }}
+            {{ if $isPublished }}
+              <span class="scholion-card-mark scholion-card-mark--research-published" title="pesquisa publicada">🔍</span>
+            {{ else if $isResearch }}
               <span class="scholion-card-mark scholion-card-mark--research" title="pesquisa viva">🔍</span>
             {{ else if .Params.has_commentary }}
               <span class="scholion-card-mark" title="com comentário">●</span>
