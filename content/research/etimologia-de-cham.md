@@ -1,7 +1,7 @@
 ---
 title: "Pesquisa Viva: Etimologia de Cham 尋"
 date: 2026-04-14T22:00:00+01:00
-summary: "O que 尋 realmente significa — do fio embolado ao ato de medir, buscar e administrar"
+summary: "O que 尋 realmente significa — do fio embolado à sedução sexy de medir, buscar e administrar"
 tags: ["pesquisa-viva", "china", "etimologia", "ving-tsun", "cham-kiu", "chines-instrumental"]
 status: "em andamento"
 ---
