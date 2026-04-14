@@ -3,9 +3,12 @@ title: "四 (sì) — o número quatro"
 date: 2026-04-14T11:54:10+01:00
 summary: "Ficha etimológica de 四: o único numeral chinês que abandonou a forma indicativa (亖) por uma forma fechada."
 tags: ["etimologia", "chinês", "ideogramas"]
-has_commentary: false
+has_commentary: true
 toc: true
 sources:
+  - title: "Tetraphobia"
+    url: "https://en.wikipedia.org/wiki/Tetraphobia"
+    kind: wiki
   - title: "MDBG Chinese Dictionary — 四"
     url: "https://www.mdbg.net/chinese/dictionary?wdqb=四"
     kind: other
@@ -24,6 +27,10 @@ sources:
   - title: "小學堂 上古音 — 四"
     url: "https://xiaoxue.iis.sinica.edu.tw/shangguyin?kaiession=四"
     kind: other
+---
+
+四 (sì) e 死 (sǐ, morte) são quase homófonos — mesma inicial *s-*, mesma vogal, diferem só no tom (4º vs. 3º). Em cantonês é ainda mais próximo: sei3 vs. sei2. Isso gerou a tetrafobia (恐四症): evitar o 4 em andares de prédio, números de telefone, placas de carro, quartos de hospital. Muitos edifícios na China, Japão, Coreia e Vietnam saltam do 3º para o 5º andar. Em japonês, 四 pode ser lido *shi* (homófono de 死 *shi*); em coreano, *sa* (homófono de 사 *sa*). A associação é puramente fonética — não há relação etimológica entre 四 e 死.
+
 ---
 
 **四** — U+56DB · 部首 radical: 口 · 總筆畫 strokes: 5 · 注音 zhuyin: ㄙˋ · 拼音 pinyin: sì / jyutping: sei3
