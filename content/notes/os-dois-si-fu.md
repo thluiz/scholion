@@ -203,7 +203,7 @@ Formas atestadas: Oracle 70 · Bronze 100 · Seal 1
 2. 教導；教育 (ensinar; educar)
 3. 師傅；教師 (mestre artesão; professor)
 4. 草名 (nome de uma erva)
-5. 蟲名 (nome de um insecto)
+5. 蟲名 (nome de um inseto)
 6. 通『附』 (intercambiável com 附: aproximar; anexar; aderir)
 7. 通『付』 (intercambiável com 付: entregar)
 8. 姓 (sobrenome)
@@ -220,7 +220,7 @@ Formas atestadas: Oracle 0 · Bronze 1 · Seal 1
 
 **說文**: 相也。从人尃聲。方遇切。 (Auxiliar. De 人 [pessoa] com 尃 como fonético. Fanqie: 方遇切.)
 
-**段注 Duan Yucai**: (傅)相也。左傳。鄭伯傅王。注曰。傅、相也。賈子曰。傅、傅之德義。古假爲敷字。如禹敷土、亦作禹傅土是也。亦爲今之附近字。如凡言附箸是也。从人。尃聲。方遇切。五部。 (傅 significa "auxiliar". O Zuo Zhuan diz: "O Conde de Zheng auxiliou [傅] o rei." O comentário diz: "傅 significa auxiliar [相]." O Jia Zi diz: "傅 significa transmitir virtude e rectidão." Na antiguidade era usado como empréstimo de 敷 [espalhar]. Por exemplo, "Yu espalhou [敷] a terra" também se escrevia "Yu espalhou [傅] a terra." Também é usado como o caractere moderno de proximidade/adesão [附近]. Como em todos os casos em que se diz 附著 [aderir/colar]. De 人 [pessoa]. 尃 é o fonético. Fanqie: 方遇切. Quinta divisão [rímico].)
+**段注 Duan Yucai**: (傅)相也。左傳。鄭伯傅王。注曰。傅、相也。賈子曰。傅、傅之德義。古假爲敷字。如禹敷土、亦作禹傅土是也。亦爲今之附近字。如凡言附箸是也。从人。尃聲。方遇切。五部。 (傅 significa "auxiliar". O Zuo Zhuan diz: "O Conde de Zheng auxiliou [傅] o rei." O comentário diz: "傅 significa auxiliar [相]." O Jia Zi diz: "傅 significa transmitir virtude e retidão." Na antiguidade era usado como empréstimo de 敷 [espalhar]. Por exemplo, "Yu espalhou [敷] a terra" também se escrevia "Yu espalhou [傅] a terra." Também é usado como o caractere moderno de proximidade/adesão [附近]. Como em todos os casos em que se diz 附著 [aderir/colar]. De 人 [pessoa]. 尃 é o fonético. Fanqie: 方遇切. Quinta divisão [rímico].)
 
 #### Evolução de formas ([xiaoxue yanbian](https://xiaoxue.iis.sinica.edu.tw/yanbian?char=傅))
 
