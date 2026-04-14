@@ -74,7 +74,7 @@ Vinte séculos de consenso criaram uma verdade funcional que nenhuma verificaç�
 
 Por que será que estavam tão preocupados com etimologia tão cedo? 
 
-Uma questão dos nossos tempos é o quanto as palavras às vezes dizem pouco. Já chamei a atenção das minhas filhas para o perigo de algumàs vezes em brincadeiras "jovens". Elas trocam algum jargão quase que invertendo o significado, parece inocente, mas parece método. Um método bem antigo.
+Uma questão dos nossos tempos é o quanto as palavras às vezes dizem pouco. Já chamei a atenção das minhas filhas para o perigo de algumas vezes em brincadeiras "jovens". Elas trocam algum jargão quase que invertendo o significado, parece inocente, mas parece método. Um método bem antigo.
 
 De toda forma, tenho muito orgulho do 士 que o Si Fu me nomeou já ter sido definido por Confúcio 😜
 
