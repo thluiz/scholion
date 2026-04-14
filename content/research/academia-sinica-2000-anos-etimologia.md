@@ -10,9 +10,9 @@ toc: true
 
 ## Texto Publicado
 
-Publicado em 2026-04-14 no Silvae: [A Academia Sinica e os 2000 anos de etimologia](https://silva.thluiz.com/p/academia-sinica-2000-anos-etimologia/)
+Publicado em 2026-04-14 no Silvae: [A Academia Sinica e os 2000 anos de etimologia](https://silva.thluiz.com/posts/academia-sinica-2000-anos-etimologia/)
 
-O Shuowen Jiezi (100 d.C.), filologia chinesa, timeline com as línguas ocidentais, e a transmissão como criadora de verdade.
+A Academia Sinica (中央研究院) disponibilizou online a base do 說文解字注, o comentário de 段玉裁 ao primeiro dicionário etimológico chinês compilado por 許慎 no século I. O texto cobre o método filológico de Xu Shen (explicar os padrões simples 文, decompor os compostos 字), as três disciplinas clássicas (小學): estudo dos caracteres (文字學), fonologia (聲韻學) e semântica/exegese (訓詁學), e o trabalho de reconstrução de Duan Yucai na dinastia Qing. Contrasta a antiguidade desse aparato filológico com as línguas europeias modernas, fundadas entre os séculos XIII e XVIII. Conclui com a citação de Confúcio no verbete de 士 — atribuição que vinte séculos de transmissão tornaram verdade funcional.
 
 ## Rascunhos
 
