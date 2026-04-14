@@ -1,6 +1,7 @@
 ---
 title: A vibe recruta antes do argumento
 date: '2026-04-08T01:26:19+01:00'
+type: podcast
 summary: '01:05:07 — Zeitgeist aceleracionista: a vibe recruta antes do argumento'
 tags:
 - aceleracionismo

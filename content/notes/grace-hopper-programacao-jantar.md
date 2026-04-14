@@ -1,8 +1,10 @@
 ---
 title: Programação é como planejar um jantar — Grace Hopper
 date: '2022-02-27T14:16:47Z'
+type: quote
 summary: Grace Hopper, entrevistada por Lois Mandel para a Cosmopolitan em abril de 1967. O artigo — "The Computer Girls" — argumentava que programação era uma carreira natural para mulheres numa época em que…
 tags:
+- grace-hopper
 - tecnico
 - história
 has_commentary: false

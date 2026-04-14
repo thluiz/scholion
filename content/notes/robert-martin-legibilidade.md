@@ -1,8 +1,10 @@
 ---
 title: Legibilidade é velocidade — Robert C. Martin
 date: '2022-02-27T14:16:47Z'
+type: quote
 summary: 'O argumento em Clean Code: a proporção entre tempo lendo código e tempo escrevendo é maior que 10:1. Toda vez que você escreve uma linha, você já leu dezenas de linhas ao redor. Facilitar a leitura é…'
 tags:
+- robert-c-martin
 - tecnico
 has_commentary: false
 sources:

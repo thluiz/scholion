@@ -7,7 +7,7 @@ tags:
 - linguagem
 - chines-instrumental
 - biu-ji
-has_commentary: false
+has_commentary: true
 sources:
 - title: MDBG Chinese Dictionary
   url: https://www.mdbg.net/chinese/dictionary

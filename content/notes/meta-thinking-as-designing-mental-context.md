@@ -1,6 +1,7 @@
 ---
 title: Meta-Thinking as Designing Your Mental Context
 date: '2026-04-02T20:00:34+01:00'
+type: podcast
 summary: 00:07:07 — Meta-Thinking as Designing Your Mental Context
 tags:
 - systems-thinking

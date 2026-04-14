@@ -1,6 +1,7 @@
 ---
 title: 'Code Is Communication: Humans First, Machines Second'
 date: '2026-04-02T22:01:00-03:00'
+type: podcast
 summary: '00:08:48 — Code Is Communication: Humans First, Machines Second'
 tags:
 - communication

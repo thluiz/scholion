@@ -1,6 +1,7 @@
 ---
 title: "Fascismo restrito: a violência interna da democracia liberal"
 date: 2026-04-10T10:25:38+01:00
+type: podcast
 summary: "Safatle propõe trocar 'democracia liberal' por 'fascismo restrito' — as democracias ocidentais sempre mantiveram zonas onde o Estado podia matar."
 tags: ["fascismo", "democracia", "colonialismo"]
 has_commentary: false

@@ -1,6 +1,7 @@
 ---
 title: "Estado Nazista: Carnaval de facções organizado pela guerra externa"
 date: 2026-04-10T10:51:11+01:00
+type: podcast
 summary: "O Estado nazista não era orgânico — era um carnaval de facções (partido, burocracia, indústria, exército) que só a guerra conseguia unificar."
 tags: ["fascismo", "nazismo", "guerra"]
 has_commentary: false

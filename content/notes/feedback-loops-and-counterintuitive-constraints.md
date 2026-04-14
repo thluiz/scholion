@@ -1,6 +1,7 @@
 ---
 title: "Feedback Loops and Counterintuitive Constraints"
 date: 2026-04-10T09:33:35+01:00
+type: podcast
 summary: "Modeling with real data reveals surprises — Larson discovered hiring was constrained by manager hiring, not engineer hiring, fundamentally changing where he invested his time."
 tags: ["systems-thinking", "engineering-management", "hiring"]
 has_commentary: false

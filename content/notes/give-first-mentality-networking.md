@@ -1,6 +1,7 @@
 ---
 title: Give-First Mentality Over Transactional Networking
 date: '2026-04-04T12:48:45+01:00'
+type: podcast
 summary: 00:30:37 — Give-First Mentality Over Transactional Networking
 tags:
 - networking

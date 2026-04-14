@@ -1,6 +1,7 @@
 ---
 title: Invisible Work Isn't Valuable Work
 date: '2026-04-04T12:49:45+01:00'
+type: podcast
 summary: '00:36:27 — Visibility: Invisible Work Isn''t Valuable Work'
 tags:
 - visibility

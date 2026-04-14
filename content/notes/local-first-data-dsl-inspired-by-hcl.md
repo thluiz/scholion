@@ -1,6 +1,7 @@
 ---
 title: 'Local-First Data: Clear-Text DSL Inspired by HCL'
 date: '2026-04-04T12:52:45+01:00'
+type: podcast
 summary: '00:48:16 — Local-First Data: Clear-Text DSL Inspired by HCL'
 tags:
 - tools

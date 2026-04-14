@@ -1,8 +1,10 @@
 ---
 title: Complexidade não é objetivo — David Parnas
 date: '2022-02-27T14:16:47Z'
+type: quote
 summary: 'David Parnas, em entrevista ao perfil ACM Fellows. O contexto: Parnas critica engenheiros que se orgulham de construir sistemas grandes e complexos. Sua contribuição conhecida é o oposto — o…'
 tags:
+- david-parnas
 - tecnico
 - architecture
 has_commentary: false

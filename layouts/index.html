@@ -29,7 +29,8 @@
         <ul class="scholion-grid" id="pinned-grid">
           {{ range $pinned }}
             {{ $kind := cond (.Params.has_commentary | default false) "commentary" "gloss" }}
-            <li class="scholion-card scholion-card--{{ $kind }} scholion-card--pinned scholion-pinned-card" data-kind="{{ $kind }}">
+            {{ $noteType := .Params.type | default "" }}
+            <li class="scholion-card scholion-card--{{ $kind }}{{ with $noteType }} scholion-card--{{ . }}{{ end }} scholion-card--pinned scholion-pinned-card" data-kind="{{ $kind }}">
               <a href="{{ .RelPermalink }}">
                 <div class="scholion-card-body">
                   <h3 class="scholion-card-title">{{ .Title }}</h3>
@@ -43,12 +44,18 @@
                       {{ range first 3 . }}<li>#{{ . }}</li>{{ end }}
                     </ul>
                   {{ end }}
-                  <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+                  <div class="scholion-card-dateline">
+                    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+                    {{ if eq $noteType "quote" }}
+                      <span class="scholion-card-type scholion-card-type--quote" title="citação">❝</span>
+                    {{ else if eq $noteType "podcast" }}
+                      <span class="scholion-card-type scholion-card-type--podcast" title="podcast">🎙</span>
+                    {{ else if .Params.has_commentary }}
+                      <span class="scholion-card-type" title="com comentário">📝</span>
+                    {{ end }}
+                  </div>
                 </div>
                 <span class="scholion-card-pin" title="fixada">★</span>
-                {{ if .Params.has_commentary }}
-                  <span class="scholion-card-mark" title="com comentário">●</span>
-                {{ end }}
               </a>
             </li>
           {{ end }}
@@ -69,9 +76,10 @@
       <ul class="scholion-grid">
         {{ range $recent }}
           {{ $kind := cond (.Params.has_commentary | default false) "commentary" "gloss" }}
+          {{ $noteType := .Params.type | default "" }}
           {{ $isPinned := .Params.pinned | default false }}
           {{ $isResearch := eq .Section "research" }}
-          <li class="scholion-card scholion-card--{{ $kind }}{{ if $isPinned }} scholion-card--pinned{{ end }}{{ if $isResearch }} scholion-card--research{{ end }}" data-kind="{{ $kind }}">
+          <li class="scholion-card scholion-card--{{ $kind }}{{ with $noteType }} scholion-card--{{ . }}{{ end }}{{ if $isPinned }} scholion-card--pinned{{ end }}{{ if $isResearch }} scholion-card--research{{ end }}" data-kind="{{ $kind }}">
             <a href="{{ .RelPermalink }}">
               <div class="scholion-card-body">
                 <h3 class="scholion-card-title">{{ .Title }}</h3>
@@ -85,15 +93,21 @@
                     {{ range first 3 . }}<li>#{{ . }}</li>{{ end }}
                   </ul>
                 {{ end }}
-                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+                <div class="scholion-card-dateline">
+                  <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+                  {{ if $isResearch }}
+                    <span class="scholion-card-type scholion-card-type--research" title="pesquisa viva">🔍</span>
+                  {{ else if eq $noteType "quote" }}
+                    <span class="scholion-card-type scholion-card-type--quote" title="citação">❝</span>
+                  {{ else if eq $noteType "podcast" }}
+                    <span class="scholion-card-type scholion-card-type--podcast" title="podcast">🎙</span>
+                  {{ else if .Params.has_commentary }}
+                    <span class="scholion-card-type" title="com comentário">📝</span>
+                  {{ end }}
+                </div>
               </div>
               {{ if $isPinned }}
                 <span class="scholion-card-pin" title="fixada">★</span>
-              {{ end }}
-              {{ if $isResearch }}
-                <span class="scholion-card-mark scholion-card-mark--research" title="pesquisa viva">🔍</span>
-              {{ else if .Params.has_commentary }}
-                <span class="scholion-card-mark" title="com comentário">●</span>
               {{ end }}
             </a>
           </li>

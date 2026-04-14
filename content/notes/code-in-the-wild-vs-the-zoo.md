@@ -1,6 +1,7 @@
 ---
 title: Code in the Wild vs the Zoo
 date: '2026-04-07T19:43:31+01:00'
+type: podcast
 summary: 00:19:03 — Your Code Lives in the Wild but Is Written in a Zoo
 tags:
 - systems-thinking

@@ -1,6 +1,7 @@
 ---
 title: Write down the other side's arguments
 date: '2026-03-31T12:00:00+01:00'
+type: podcast
 summary: '00:14:40 — Exercise: write down the other side''s arguments'
 tags:
 - humility

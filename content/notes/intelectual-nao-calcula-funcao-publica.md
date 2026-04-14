@@ -1,6 +1,7 @@
 ---
 title: "Intelectual não calcula e função pública"
 date: 2026-04-10T10:26:38+01:00
+type: podcast
 summary: "Como funcionário público, a função é ajudar a sociedade a pensar a si mesma — seria desrespeitoso calcular intervenções por autopreservação."
 tags: ["intelectuais", "funcao-publica", "coragem"]
 has_commentary: false

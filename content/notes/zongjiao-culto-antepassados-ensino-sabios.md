@@ -1,6 +1,7 @@
 ---
 title: 'Zongjiao: culto dos antepassados e ensino dos sábios'
 date: '2026-04-02T23:05:35+01:00'
+type: podcast
 summary: '00:12:03 — Zongjiao: culto dos antepassados e ensino dos sábios'
 tags:
 - systems-thinking

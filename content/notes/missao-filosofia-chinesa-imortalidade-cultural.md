@@ -1,6 +1,7 @@
 ---
 title: 'A missão da filosofia chinesa: imortalidade cultural'
 date: '2026-04-02T23:07:35+01:00'
+type: podcast
 summary: '00:33:39 — A missão da filosofia: imortalidade da cultura chinesa'
 tags:
 - philosophy

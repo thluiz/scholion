@@ -1,6 +1,7 @@
 ---
 title: Every Action Connected to Value
 date: '2026-04-04T11:30:49+01:00'
+type: podcast
 summary: 00:09:37 — Connect Every Action to a Value Output
 tags:
 - perspective

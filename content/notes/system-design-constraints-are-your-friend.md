@@ -1,6 +1,7 @@
 ---
 title: "System Design: Constraints are your friend"
 date: 2026-04-09T22:21:37+01:00
+type: podcast
 summary: "Constraints close down the option space just enough to make creative action possible — they are friends, not obstacles."
 tags: ["systems-thinking", "design-thinking", "constraints"]
 has_commentary: false

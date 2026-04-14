@@ -1,6 +1,7 @@
 ---
 title: Thoughts Shape Reality, Systems Produce Thoughts
 date: '2026-04-02T19:58:34+01:00'
+type: podcast
 summary: 00:00:00 — Thoughts Shape Reality, Systems Produce Thoughts
 tags:
 - systems-thinking

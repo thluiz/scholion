@@ -1,6 +1,7 @@
 ---
 title: Câmbio como determinante central do desenvolvimento
 date: '2026-03-30T18:00:00+01:00'
+type: podcast
 summary: No novo desenvolvimentismo, a taxa de câmbio ocupa um papel muito mais central do que a teoria econômica convencional reconhece. Não se trata apenas de controlar exportações e importações — a taxa…
 tags:
 - economia

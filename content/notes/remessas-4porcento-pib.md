@@ -1,6 +1,7 @@
 ---
 title: Remessas custam mais do que o PIB cresceu
 date: '2026-03-30T18:00:00+01:00'
+type: podcast
 summary: — Luiz Carlos Bresser-Pereira
 tags:
 - economia

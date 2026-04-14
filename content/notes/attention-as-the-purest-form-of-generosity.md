@@ -1,6 +1,7 @@
 ---
 title: Attention as the purest form of generosity
 date: '2026-04-02T12:20:00-03:00'
+type: podcast
 summary: 00:22:14 — Attention as the Purest Form of Generosity
 tags:
 - philosophy

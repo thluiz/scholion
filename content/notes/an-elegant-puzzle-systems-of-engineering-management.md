@@ -1,6 +1,7 @@
 ---
 title: "An Elegant Puzzle - Systems of Engineering Management"
 date: 2026-04-09T23:05:49+01:00
+type: podcast
 summary: "Engineering management as elegant puzzles — a recipe book of systems and structures you return to when you need them, essential for isolated managers learning from books."
 tags: ["engineering-management", "systems-thinking", "reading"]
 has_commentary: false

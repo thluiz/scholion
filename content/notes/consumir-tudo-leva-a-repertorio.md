@@ -1,6 +1,7 @@
 ---
 title: Consumir tudo leva a repertório
 date: '2026-04-02T19:20:00+01:00'
+type: podcast
 summary: '"Consuma tudo que você puder, porque isso sempre vai te levar pra algum lugar. E é melhor consumir e não gostar do que ficar indiferente."'
 tags:
 - arte

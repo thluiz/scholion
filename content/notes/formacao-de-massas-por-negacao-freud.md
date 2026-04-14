@@ -1,6 +1,7 @@
 ---
 title: Formacao de massas por negacao (Freud)
 date: '2026-04-09T12:57:00+01:00'
+type: podcast
 summary: '00:45:27 — Redes sociais e a formacao de massas por negacao'
 tags:
 - violencia

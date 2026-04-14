@@ -1,8 +1,10 @@
 ---
 title: Resolva o problema que você tem — Bram Cohen
 date: '2022-02-27T14:16:47Z'
+type: quote
 summary: Atribuída a Bram Cohen, criador do BitTorrent. Consistente com sua filosofia documentada de design pragmático — construir para o problema real, não para o problema idealizado ou futuro.
 tags:
+- bram-cohen
 - tecnico
 - sistemas
 has_commentary: false

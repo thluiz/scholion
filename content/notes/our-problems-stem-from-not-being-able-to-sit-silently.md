@@ -1,6 +1,7 @@
 ---
 title: Our problems stem from not being able to sit silently
 date: '2026-04-02T12:10:00-03:00'
+type: podcast
 summary: 00:06:14 — Historical Roots from Pascal to William James
 tags:
 - philosophy

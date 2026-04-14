@@ -1,6 +1,7 @@
 ---
 title: Triplo sentido de 'O Mundo Fora da Pedra'
 date: '2026-03-30T09:40:00+01:00'
+type: podcast
 summary: 'Rita desdobra o triplo sentido do título O Mundo Fora da Pedra:'
 tags:
 - filosofia

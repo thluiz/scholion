@@ -1,6 +1,7 @@
 ---
 title: Don't Change Thoughts, Change the System
 date: '2026-04-02T19:59:34+01:00'
+type: podcast
 summary: 00:04:44 — Don't Change Thoughts, Change the System
 tags:
 - systems-thinking

@@ -1,6 +1,7 @@
 ---
 title: Toda a linha de sucessão do Rio de Janeiro na cadeia
 date: '2026-03-30T09:30:00+01:00'
+type: podcast
 summary: 'O Rio de Janeiro desafia até a Constituição: quando Castro também poderia ter sido preso, toda a linha de sucessão já estava encarcerada. Celso observa que o deputado constituinte que previu três…'
 tags:
 - política

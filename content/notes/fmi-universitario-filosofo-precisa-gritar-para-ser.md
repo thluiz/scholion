@@ -1,6 +1,7 @@
 ---
 title: "FMI Universitário: Filósofo precisa gritar para ser ouvido"
 date: 2026-04-10T10:51:18+01:00
+type: podcast
 summary: "Safatle usou expressão cortante deliberadamente — às vezes só se faz as pessoas falarem se gritar, para ampliar o debate."
 tags: ["academia", "debate-publico", "decolonial"]
 has_commentary: false

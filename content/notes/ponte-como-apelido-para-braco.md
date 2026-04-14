@@ -9,7 +9,7 @@ tags:
 - jargao
 - cham-kiu
 - chines-instrumental
-has_commentary: false
+has_commentary: true
 sources:
 - title: IV Encontro de Chinês Instrumental
   url: /notes/iv-encontro-chines-instrumental/

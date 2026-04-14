@@ -7,7 +7,7 @@ tags:
 - linguagem
 - imperio
 - chines-instrumental
-has_commentary: false
+has_commentary: true
 sources:
 - title: I Encontro de Chinês Instrumental
   url: /notes/i-encontro-chines-instrumental/
