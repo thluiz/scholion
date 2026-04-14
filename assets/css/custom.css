@@ -49,6 +49,13 @@
   filter: grayscale(0%);
 }
 
+@media (max-width: 1024px) {
+  .main-menu .logo,
+  .main-menu img.logo {
+    filter: grayscale(0%);
+  }
+}
+
 @media (min-width: 640px) {
   .main-menu .logo,
   .main-menu img.logo {
