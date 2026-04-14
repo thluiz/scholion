@@ -6,7 +6,7 @@ tags:
 - economics
 - efficiency
 - resource-consumption
-has_commentary: true
+has_commentary: false
 sources:
 - title: Jevons paradox — Wikipedia
   url: https://en.wikipedia.org/wiki/Jevons_paradox

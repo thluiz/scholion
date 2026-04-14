@@ -1,6 +1,7 @@
 ---
 title: "IC vs Management: A Longer Career Than You Think"
 date: 2026-04-10T09:34:35+01:00
+type: podcast
 summary: "The IC-vs-management decision feels permanent when you think in 10-year terms — but in a 30-40 year career, it's far less binary than it appears."
 tags: ["engineering-management", "career", "software-engineering"]
 has_commentary: false

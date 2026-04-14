@@ -1,6 +1,7 @@
 ---
 title: "Integralismo: fascismo brasileiro que nunca acabou"
 date: 2026-04-10T10:51:05+01:00
+type: podcast
 summary: "O Brasil teve o maior partido fascista fora da Europa com 1,2 milhão de membros — essas pessoas não desapareceram no ar."
 tags: ["fascismo", "integralismo", "brasil"]
 has_commentary: false

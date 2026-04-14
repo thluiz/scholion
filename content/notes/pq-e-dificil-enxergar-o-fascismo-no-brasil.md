@@ -1,6 +1,7 @@
 ---
 title: "Pq é difícil enxergar o fascismo no Brasil"
 date: 2026-04-10T10:51:06+01:00
+type: podcast
 summary: "Tecnologias de extermínio do fascismo foram testadas antes nas colônias — a lógica que não vê violência contra certos grupos, em crise, tende a se generalizar."
 tags: ["fascismo", "colonialismo", "brasil"]
 has_commentary: false

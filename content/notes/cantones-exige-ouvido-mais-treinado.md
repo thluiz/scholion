@@ -8,7 +8,7 @@ tags:
 - cantones
 - tons
 - chines-instrumental
-has_commentary: false
+has_commentary: true
 sources:
 - title: III Encontro de Chinês Instrumental
   url: /notes/iii-encontro-chines-instrumental/

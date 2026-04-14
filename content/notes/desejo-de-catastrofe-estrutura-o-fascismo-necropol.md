@@ -1,6 +1,7 @@
 ---
 title: "Desejo de Catástrofe estrutura o fascismo (necropolítica)"
 date: 2026-04-10T10:51:10+01:00
+type: podcast
 summary: "Hitler ordenou destruir infraestrutura alemã no fim da guerra — o fascismo carrega um desejo de catástrofe e uma violência que se volta contra si mesma."
 tags: ["fascismo", "necropolitica", "autodestruicao"]
 has_commentary: false

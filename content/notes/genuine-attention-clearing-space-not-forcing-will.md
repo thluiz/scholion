@@ -1,6 +1,7 @@
 ---
 title: 'Genuine attention: clearing space, not forcing will'
 date: '2026-04-02T12:15:00-03:00'
+type: podcast
 summary: 00:11:32 — Simone Weil on Attention as Waiting
 tags:
 - philosophy

@@ -1,6 +1,7 @@
 ---
 title: 'Curtis Yarvin: o 8 de janeiro como LARPing'
 date: '2026-04-08T01:20:19+01:00'
+type: podcast
 summary: 00:17:10 — Curtis Yarvin e o 8 de janeiro como LARPing
 tags:
 - 8-de-janeiro

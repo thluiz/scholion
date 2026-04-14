@@ -1,6 +1,7 @@
 ---
 title: "Fascismo como mobilização de violência e dessensibilização"
 date: 2026-04-10T10:51:03+01:00
+type: podcast
 summary: "Fascismo é mobilização de violência que altera os afetos sociais por dessensibilização — em crises estruturais que não vão passar, a tendência é o autoritarismo se espalhar."
 tags: ["fascismo", "violencia", "dessensibilizacao"]
 has_commentary: false

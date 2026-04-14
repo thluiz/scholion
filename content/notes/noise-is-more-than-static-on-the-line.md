@@ -1,6 +1,7 @@
 ---
 title: Noise Is More Than Static on the Line
 date: '2026-04-02T19:10:50+01:00'
+type: podcast
 summary: 00:09:26 — Noise Is More Than Static on the Line
 tags:
 - communication

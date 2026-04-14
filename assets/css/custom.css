@@ -249,6 +249,11 @@
   overflow: hidden;
 }
 
+.scholion-card--pinned .scholion-card-body {
+  padding-top: 0.9rem;
+}
+
+
 .scholion-card-title {
   font-size: 0.95rem;
   font-weight: 600;
@@ -316,36 +321,82 @@
   color: rgb(var(--color-neutral-500));
 }
 
-/* Indicador "tem comentário" */
-.scholion-card-mark {
-  position: absolute;
-  top: 0.5rem;
-  right: 0.6rem;
+/* Dateline (data + ícone de tipo) */
+.scholion-card-dateline {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Ícone de tipo inline */
+.scholion-card-type {
   font-size: 1rem;
   color: rgb(var(--color-primary-500));
   line-height: 1;
 }
 
 .scholion-card--commentary {
-  border-left: 3px solid rgb(var(--color-primary-500));
+}
+
+/* Citação */
+.scholion-card--quote {
+  border-left: 3px solid #0d9488;
+}
+.dark .scholion-card--quote {
+  border-left: 3px solid #2dd4bf;
+}
+
+.scholion-card-type--quote {
+  color: #0d9488;
+  font-size: 1.3rem;
+}
+.dark .scholion-card-type--quote {
+  color: #2dd4bf;
+}
+
+/* Podcast */
+.scholion-card--podcast {
+  border-left: 3px solid #db2777;
+}
+.dark .scholion-card--podcast {
+  border-left: 3px solid #f472b6;
+}
+
+.scholion-card-type--podcast {
+  color: #db2777;
+}
+.dark .scholion-card-type--podcast {
+  color: #f472b6;
 }
 
 /* Pesquisa viva */
 .scholion-card--research {
   border-left: 3px solid #6366f1;
 }
+.dark .scholion-card--research {
+  border-left: 3px solid #818cf8;
+}
 
-.scholion-card-mark--research {
+.scholion-card-type--research {
   color: #6366f1;
+}
+.dark .scholion-card-type--research {
+  color: #818cf8;
 }
 
 /* Pesquisa publicada */
 .scholion-card--research-published {
   border-left: 3px solid #22c55e;
 }
+.dark .scholion-card--research-published {
+  border-left: 3px solid #4ade80;
+}
 
-.scholion-card-mark--research-published {
+.scholion-card-type--research-published {
   color: #22c55e;
+}
+.dark .scholion-card-type--research-published {
+  color: #4ade80;
 }
 
 /* Pesquisa viva — single page */
@@ -388,18 +439,19 @@
 }
 
 .scholion-card--pinned {
-  box-shadow: 0 0 0 1px rgb(var(--color-primary-300)),
-              0 4px 14px -6px rgba(217, 119, 6, 0.18);
+  outline: 1px solid rgb(var(--color-primary-300));
+  outline-offset: 0px;
+  box-shadow: 0 4px 14px -6px rgba(217, 119, 6, 0.18);
 }
 
 .scholion-card--pinned:hover {
-  box-shadow: 0 0 0 1px rgb(var(--color-primary-500)),
-              0 8px 20px -8px rgba(217, 119, 6, 0.3);
+  outline-color: rgb(var(--color-primary-500));
+  box-shadow: 0 8px 20px -8px rgba(217, 119, 6, 0.3);
 }
 
 .dark .scholion-card--pinned {
-  box-shadow: 0 0 0 1px rgba(var(--color-primary-500), 0.7),
-              0 4px 14px -6px rgba(0, 0, 0, 0.4);
+  outline-color: rgba(var(--color-primary-500), 0.7);
+  box-shadow: 0 4px 14px -6px rgba(0, 0, 0, 0.4);
 }
 
 .dark .scholion-card-pin {

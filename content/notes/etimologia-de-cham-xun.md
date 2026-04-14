@@ -7,7 +7,7 @@ tags:
 - linguagem
 - etimologia
 - chines-instrumental
-has_commentary: false
+has_commentary: true
 sources:
 - title: Hanzi Yuan — 尋
   url: https://hanziyuan.net/#%E5%B0%8B

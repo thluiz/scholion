@@ -3,7 +3,7 @@ title: "Discípulos do Clã Moy Jo Lei Ou"
 date: 2026-04-11T14:00:00+01:00
 summary: "Lista dos discípulos do Clã Moy Jo Lei Ou com nomes civis, nomes kung fu, ideogramas e datas de Baai Si (拜師)."
 tags: ["ving-tsun", "kung-fu", "moy-yat"]
-has_commentary: false
+has_commentary: true
 sources: []
 ---
 

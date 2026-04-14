@@ -1,6 +1,7 @@
 ---
 title: "Dealing with Single Incidents Exceptions"
 date: 2026-04-09T23:02:49+01:00
+type: podcast
 summary: "Don't treat a single incident as representative reality — look at the distribution like a flame graph, and design processes that handle exceptions fairly."
 tags: ["engineering-management", "decision-making", "leadership"]
 has_commentary: false

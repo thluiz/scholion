@@ -1,6 +1,7 @@
 ---
 title: "What makes something a system by Deirdre Cerminaro"
 date: 2026-04-09T22:22:37+01:00
+type: podcast
 summary: "A system is anything where the sum is greater than the whole of its parts — the design lives in the intersections, not the components."
 tags: ["systems-thinking", "design-thinking"]
 has_commentary: false

@@ -1,6 +1,7 @@
 ---
 title: 'PeopleWork: Intentions, Policies, Observations'
 date: '2026-04-04T12:51:45+01:00'
+type: podcast
 summary: '00:39:55 — PeopleWork: Intentions, Policies, and Observations'
 tags:
 - tools

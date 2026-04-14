@@ -1,6 +1,7 @@
 ---
 title: "Just Systems in Engineering Management"
 date: 2026-04-10T09:31:35+01:00
+type: podcast
 summary: "A just system ensures people who follow established processes are rewarded equitably, removing the need to game or self-promote."
 tags: ["engineering-management", "leadership", "fairness"]
 has_commentary: false

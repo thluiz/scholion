@@ -8,7 +8,7 @@ tags:
 - kung-fu
 - linhagem
 - chines-instrumental
-has_commentary: false
+has_commentary: true
 sources:
 - title: II Encontro de Chinês Instrumental
   url: /notes/ii-encontro-chines-instrumental/

@@ -1,6 +1,7 @@
 ---
 title: Teaching Forces Clarity, AI Amplifies Clarity
 date: '2026-04-04T12:46:45+01:00'
+type: podcast
 summary: 00:22:11 — Teaching Forces Clarity, AI Amplifies Clarity
 tags:
 - ai
