@@ -15,6 +15,14 @@ sources:
   kind: article
 ---
 
+_Sou discípulo de Mestre Sênior Julio Camacho, quem me aceitou e que posso chamar de Si Fu (師父). Esta é uma nota geral sobre a etimologia do termo, fruto dos nossos encontros de Chinês Instrumental._
+
+_Não há como agradecer a tantas portas (門, mún) que ele abriu a mim e a tantos outros. Uma delas é a tradição milenar, já de 11 gerações, do Ving Tsun Kuen (詠春拳), à qual humildemente me inscrevo._
+
+_O mínimo é fazer uma nota própria para ele. Será feita em momento oportuno._
+
+---
+
 A grafia que o chinês de Hong Kong escuta naturalmente é 師傅 (primeiro tom, sexto tom), o "mestre-mestre". O *Fu* aqui é o de mestria, o que executa e transmite, como um maestro. Não carrega conotação familiar. Usa-se com nome próprio, como em "Mestre Julio Camacho". É o Si Fu de quando se fala *sobre* alguém para terceiros.
 
 A outra grafia é 師父. Mesmo som, outro *Fu*: o de pai. Pictograficamente, um homem de peito aberto com duas armas, protegendo a família. Esse é o líder de família Kung Fu. Não se conjuga com nome próprio, porque a pessoa só tem um. Os dois *Fu* são homófonos, ambos sexto tom, e misturá-los, ou usar o segundo com nome próprio, é gafe.
