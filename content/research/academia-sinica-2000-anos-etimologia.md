@@ -64,7 +64,7 @@ Fui pesquisar os ideogramas do meu nome Kung Fu [梅知友士 Moy Chi Yau Si](/n
 
 **孔子曰：「推十合一為士。」** - Confúcio disse: quem reduz dez a um é um shì
 
-Si Fu sempre salienta que quando alguém diz que alguém disse algo devemos tomar um cuidado redobrado. Confúcio data do século V antes da era comum, ou seja, eu estava impressionado de no século 1 da era comum existir preocupação etimológica, quer dizer que 600 anos antes Confúcio já tinha preocupação com isso?
+Si Fu sempre salienta que quando alguém diz que alguém disse algo devemos tomar um cuidado redobrado. Confúcio data do século V antes da era comum, ou seja, eu estava impressionado de no século 1 existir preocupação etimológica, quer dizer que 600 anos antes Confúcio já tinha preocupação com isso?
 
 Fui pesquisar e nada encontrei e existem 'n' outros verbetes atribuídos. Se são de conhecimento comum ou argumentos de autoridade não há como saber.
 
@@ -72,8 +72,13 @@ Porém dois mil anos de cadeia ininterrupta atribuindo a mesma frase ao mesmo au
 
 Vinte séculos de consenso criaram uma verdade funcional que nenhuma verificação pode desfazer, porque não existe registro anterior que a contradiga.
 
-_"Quem controla o presente, controla o passado, quem controla o passado controla o futuro"_ — George Orwell, *1984* (Part 1, Ch. 3)
+Por que será que estavam tão preocupados com etimologia tão cedo? 
 
+Uma questão dos nossos tempos é o quanto as palavras às vezes dizem pouco. Já chamei a atenção das minhas filhas para o perigo de algumàs vezes em brincadeiras "jovens". Elas trocam algum jargão quase que invertendo o significado, parece inocente, mas parece método. Um método bem antigo.
+
+De toda forma, tenho muito orgulho do 士 que o Si Fu me nomeou já ter sido definido por Confúcio 😜
+
+_"Quem controla o presente, controla o passado, quem controla o passado controla o futuro"_ — George Orwell, *1984* (Part 1, Ch. 3)
 
 ## Rascunhos
 
