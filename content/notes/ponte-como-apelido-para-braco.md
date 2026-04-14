@@ -7,7 +7,7 @@ tags:
 - ving-tsun
 - linguagem
 - jargao
-- chum-kiu
+- cham-kiu
 - chines-instrumental
 has_commentary: false
 sources:

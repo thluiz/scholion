@@ -11,6 +11,7 @@ tags:
 - chines-instrumental
 - etimologia
 - np-chines-instrumental
+- cham-kiu
 has_commentary: true
 sources: []
 ---

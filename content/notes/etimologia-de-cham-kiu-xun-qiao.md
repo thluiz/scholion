@@ -8,6 +8,7 @@ tags:
 - linguagem
 - etimologia
 - ving-tsun
+- cham-kiu
 has_commentary: false
 sources:
 - title: MDBG Chinese Dictionary
