@@ -9,6 +9,46 @@ toc: true
 
 ## Texto em andamento
 
+Por ideia do [Claudio Teixeira (Moy Kat Jo)](/notes/moy-kat-jo/) iniciamos os encontros regulares sobre o estudo de Cantonês intrumental. Acabamos ampliando o escopo para utilizar abordar também o Mandarim, de forma que um nome mais apropriado tem sido Chinês instrumental. 
+
+Em um dos encontros falamos sobre a etimologia de 尋 de [Cham Kiu 尋橋](/tags/cham-kiu/). [Si Fu 師父](/notes/os-dois-si-fu/) nos passou algumas possibilidades de leitura, mas eu estava um pouco incomodado, com as opções. 
+
+Fui me aprofundar mais e encontrei uma universidade curiosa que adotou o nome ocidental de Academia Sinica a 中央研究院.
+
+Eu já dei um sorrizinho 😏 lembrando de Si Taai Gung Moy Yat. Si Fu comenta que ele gostava muito desse jogo de palavras tanto em chinês quanto em inglês. Sinico x Cinico seria uma piada fonética que ele faria.
+
+Para colocar mais um nível nessa piada, o nome em chinês é estranho 中 significa centro (físico) e 央 pode ser traduzido como central. Os ideogramas finais (研究院) se referem a um instituo de pesquisa. Então o nome traduzido seria algo como _"Centro central de Pesquisa"_. 
+
+Para descer mais um nível na piada: O Centro Central de Pesquisa não fica na China. Fundado pelo governo nacionalista (國民黨, Kuomintang) em 1928 acabou indo para Taiwan junto ao governo nacionalista [em 1949](https://en.wikipedia.org/wiki/Academia_Sinica). 
+
+Para nossa sorte, talvez para se afirmar culturalmente, Taiwan não costuma usar o dito chinês simplificado, recorrendo sempre a escrita tradicional e para comprovar que está escrevendo o chinês correto ela disponibilizou online toda a base do 說文解字注 (Shuōwén Jiězì Zhù). 
+
+### O Shuōwén Jiězì
+
+Entre o primeiro e o segundo século da era comum (comum para quem?), 許慎 (Xǔ Shèn) compilou os principais ideogramas conhecidos com explicações e apresentou ao imperador da dinastia Han Oriental.
+
+O nome indica o método que ele usara: explicar os padrões simples (文), decompor os compostos (字). 
+
+文 são os caracteres indivisíveis, os átomos gráficos. 字 são os que nascem da combinação.
+
+O resultado seriam 9353 entradas, agrupadas por 540 radicais.
+
+Acontece que estudar palavras pelos radicais é o que chamamos no ocidente de etimologia. 
+
+No século I os chineses já estavam preocupados com etimologia, enquanto no ocidente as principais linguas só seriam fundadas quase 15 séculos depois: Dante só teria coragem de usar o Toscano-Florentino no século XIII, o Português, Francês, Espanhol e mesmo o inglês somente seriam estruturados entre os séculos XV e XVIII ['Fundações' das línguas modernas](/notes/fundacoes-das-linguas-modernas/)
+
+A motivação desse esforço etimológico foi a queima dos livros proporcionada pela dinastia Qin (221–206 a.C.). Livros confucianos se perderam e o sistema de escrita também mudou. Os estudiosos Han encontraram três barreiras: caracteres com formas diferentes, palavras que soavam diferente, significados que tinham mudado. Três problemas, três disciplinas [說文解字](/notes/shuowen-jiezi/): 
+- **小學** (xiǎoxué): Filologia. Aprender os fundamentos antes dos clássicos (大學)
+- **文字學** (wénzìxué): O estudo dos caracteres divididos em 6 categorias
+- **聲韻學** (shēngyùnxué): A fonética a partir dos livros de rimas, cerca de 193 grupos fonéticos (que são infernais para entender, um dia chego lá)
+- **訓詁學** (xùngǔxué): semântica e exegese. Quando um caractere muda de significado com o tempo. Por exemplo: 去 (qù) inverteu significava "partir de" e virou "ir para". Imagina ler um livro onde algumas palavras tem o significado oposto? _(no Francês as vezes 'avant' quer dizer "antes de", no sentido de quem está à frente 🤷)_
+
+_O leitor mais atento irá notar que eles chamam de 3 disciplinas, mas na verdade são 4. A última talvez seja mais uma lista de curiosidades, ou os fonemas eram agrupados com os radicais. De toda forma os chineses tendem a evitar o número 4 [四](/notes/si-numero-quatro/)_
+
+
+
+## Rascunhos
+
 ### O Shuowen Jiezi
 
 說文解字 (Shuōwén Jiězì). O nome é método: explicar os padrões simples (文), decompor os compostos (字). Compilado por 許慎 (Xǔ Shèn) por volta do ano 100, dinastia Han Oriental. Apresentado ao imperador em 121. Primeiro dicionário a organizar caracteres por radicais (540 radicais, 9.353 entradas).

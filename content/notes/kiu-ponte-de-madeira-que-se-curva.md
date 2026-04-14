@@ -9,7 +9,7 @@ tags:
 - kung-fu
 - ving-tsun
 - etimologia
-- chum-kiu
+- cham-kiu
 - chines-instrumental
 has_commentary: false
 sources:
