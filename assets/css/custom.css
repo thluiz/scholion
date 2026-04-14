@@ -406,6 +406,43 @@
   color: #4ade80;
 }
 
+/* Type badge — single page (podcast, quote) */
+.scholion-type-badge {
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.02em;
+}
+
+.scholion-type-badge--podcast {
+  color: #db2777;
+}
+.dark .scholion-type-badge--podcast {
+  color: #f472b6;
+}
+
+.scholion-type-badge--quote {
+  color: #0d9488;
+}
+.dark .scholion-type-badge--quote {
+  color: #2dd4bf;
+}
+
+.scholion-note--podcast {
+  border-left: 4px solid #db2777;
+}
+.dark .scholion-note--podcast {
+  border-left: 4px solid #f472b6;
+}
+
+.scholion-note--quote {
+  border-left: 4px solid #0d9488;
+}
+.dark .scholion-note--quote {
+  border-left: 4px solid #2dd4bf;
+}
+
 /* Pesquisa viva — single page */
 .scholion-note--research {
   border-color: #6366f1;

@@ -1,8 +1,14 @@
 {{ define "main" }}
   <div class="scholion-layout{{ if .Params.toc }} scholion-layout--toc{{ end }}">
-    <article class="scholion-note">
+    {{ $noteType := .Params.type | default "" }}
+    <article class="scholion-note{{ with $noteType }} scholion-note--{{ . }}{{ end }}">
       <header class="scholion-note-header">
         <p class="scholion-back"><a href="{{ "/notes/" | relURL }}">← todas as notas</a></p>
+        {{ if eq $noteType "podcast" }}
+          <div class="scholion-type-badge scholion-type-badge--podcast">🎙 Podcast</div>
+        {{ else if eq $noteType "quote" }}
+          <div class="scholion-type-badge scholion-type-badge--quote">❝ Citação</div>
+        {{ end }}
         <h1>{{ .Title }}</h1>
         <div class="scholion-note-meta">
           <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
