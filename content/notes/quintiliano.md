@@ -1,7 +1,7 @@
 ---
 title: Quintiliano
 date: '2026-03-30T12:00:00+01:00'
-summary: Marcus Fabius Quintilianus foi um retórico romano do século I d.C., nascido na Hispânia por volta de 35 d.C. É mais conhecido pela obra Institutio Oratoria — um tratado sobre educação e oratória em…
+summary: Marcus Fabius Quintilianus foi um retórico romano do século I d.C., nascido na Hispânia por volta de 35 d.C. É mais conhecido pela Institutio Oratoria, um tratado sobre educação e oratória em 12…
 tags:
 - filosofia
 - história
@@ -18,7 +18,7 @@ sources:
   kind: article
 ---
 
-Marcus Fabius Quintilianus foi um retórico romano do século I d.C., nascido na Hispânia por volta de 35 d.C. É mais conhecido pela obra *Institutio Oratoria* — um tratado sobre educação e oratória em 12 volumes.
+Marcus Fabius Quintilianus foi um retórico romano do século I d.C., nascido na Hispânia por volta de 35 d.C. É mais conhecido pela *Institutio Oratoria*, um tratado sobre educação e oratória em 12 volumes.
 
 Em [*Institutio Oratoria* X.3.17](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0068:book%3D10:chapter%3D3:section%3D17), Quintiliano descreve escritores que percorrem o material a grande velocidade, "seguindo o calor e o ímpeto do momento". Chamam a isso *silva*:
 

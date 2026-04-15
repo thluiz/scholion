@@ -1,7 +1,7 @@
 ---
 title: "O que é um Scholion (e o que é Marginalia)"
 date: 2026-04-09T01:35:37+01:00
-summary: "Scholion é a glosa erudita na margem do manuscrito antigo; marginalia é qualquer marca na margem — desde a glosa filológica até o cavaleiro lutando contra o caracol."
+summary: "Scholion é a glosa erudita na margem do manuscrito antigo. Marginalia é qualquer marca na margem, da glosa filológica ao cavaleiro lutando contra o caracol."
 tags: ["filologia", "manuscritos", "escrita", "etimologia", "linguagem"]
 pinned: true
 pin_weight: 100
@@ -24,7 +24,7 @@ sources:
     kind: book
 ---
 
-**Scholion** (σχόλιον, plural *scholia*) é a palavra grega para "comentário, explicação, glosa". Vem de σχολή (*skholē*), que significa "ócio", "lazer", "tempo livre" — e por extensão, "estudo", já que o estudo era a coisa boa que se fazia com o tempo livre. A mesma raiz dá *escola* em todas as línguas europeias.
+**Scholion** (σχόλιον, plural *scholia*) é a palavra grega para "comentário, explicação, glosa". Vem de σχολή (*skholē*), que significa "ócio", "lazer", "tempo livre". Por extensão, "estudo", já que o estudo era a coisa boa que se fazia com o tempo livre. A mesma raiz dá *escola* em todas as línguas europeias.
 
 No mundo antigo, o scholion era a anotação que um copista, gramático ou comentarista deixava nas margens — ou entre as linhas — de um manuscrito. Servia para explicar uma passagem obscura, registrar uma variante textual, traçar uma etimologia, situar um costume, atribuir um verso. Os grandes corpos de scholia que sobreviveram são os de Homero, Aristófanes, Píndaro, Virgílio, e os manuscritos bíblicos. Eles são, em conjunto, a maior fonte que temos sobre como os antigos *liam* os antigos: o que achavam difícil, o que achavam óbvio, o que precisavam decifrar.
 
