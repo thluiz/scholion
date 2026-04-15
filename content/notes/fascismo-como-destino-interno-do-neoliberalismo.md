@@ -1,7 +1,7 @@
 ---
 title: "Fascismo como destino interno do neoliberalismo"
 date: 2026-04-10T10:51:04+01:00
-type: podcast
+category: podcast
 summary: "Trump, Bolsonaro, Orbán não são desvios — são expressão orgânica do neoliberalismo. O fascismo não é marcha-ré da história, é possibilidade interna da modernização."
 tags: ["fascismo", "neoliberalismo", "modernizacao"]
 has_commentary: false

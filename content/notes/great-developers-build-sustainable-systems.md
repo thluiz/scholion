@@ -1,7 +1,7 @@
 ---
 title: Great Developers Build Sustainable Readable Systems
 date: '2026-04-02T22:02:00-03:00'
-type: podcast
+category: podcast
 summary: 00:11:28 — Great Developers Build Sustainable Readable Systems
 tags:
 - code-quality

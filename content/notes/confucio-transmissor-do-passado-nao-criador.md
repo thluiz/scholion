@@ -1,7 +1,7 @@
 ---
 title: 'Confucio: transmissor do passado, nao criador'
 date: '2026-04-02T23:39:33+01:00'
-type: podcast
+category: podcast
 summary: '00:19:54 — Confucio: transmissor do passado, nao criador'
 tags:
 - historia-da-china

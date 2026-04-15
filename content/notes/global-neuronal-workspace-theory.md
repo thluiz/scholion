@@ -1,7 +1,7 @@
 ---
 title: Global neuronal workspace theory
 date: '2026-03-31T12:00:00+01:00'
-type: podcast
+category: podcast
 summary: 1. 00:45:40 — Four-second delay from unconscious to conscious thought
 tags:
 - neurociência

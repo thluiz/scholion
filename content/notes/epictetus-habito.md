@@ -1,7 +1,7 @@
 ---
 title: Hábito e repetição — Epictetus
 date: '2022-02-27T14:16:47Z'
-type: quote
+category: quote
 summary: 'Paráfrase dos Discursos de Epictetus (registrados por Arriano, ~108 d.C.). O contexto completo trata da formação de hábitos: toda faculdade se fortalece pelo ato correspondente — caminhar melhora o…'
 tags:
 - epictetus

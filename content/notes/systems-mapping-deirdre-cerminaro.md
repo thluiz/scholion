@@ -1,7 +1,7 @@
 ---
 title: "Systems mapping by Deirdre Cerminaro"
 date: 2026-04-09T22:23:37+01:00
-type: podcast
+category: podcast
 summary: "Systems maps externalize complexity to make it manipulable — useful for alignment, for provoking questions, and for surfacing invisible gaps."
 tags: ["systems-thinking", "systems-mapping", "design-thinking"]
 has_commentary: false

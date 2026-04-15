@@ -1,7 +1,7 @@
 ---
 title: Filme de herói mobiliza mais que reforma legal
 date: '2026-04-02T12:28:00+01:00'
-type: podcast
+category: podcast
 summary: A única mobilização coletiva que produziu efeitos materiais práticos foi uma revolta de consumidores por um filme de herói (o Snyder Cut da Liga da Justiça) — e não contra reformas tributárias,…
 tags:
 - industria-cultural

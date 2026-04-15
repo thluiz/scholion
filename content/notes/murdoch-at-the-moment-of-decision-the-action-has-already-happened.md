@@ -1,7 +1,7 @@
 ---
 title: 'Murdoch: at the moment of decision, it''s done'
 date: '2026-04-02T12:05:00-03:00'
-type: podcast
+category: podcast
 summary: '00:30:03 — Murdoch: At the Moment of Decision, Most Action Has Already Happened'
 tags:
 - philosophy

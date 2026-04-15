@@ -1,7 +1,7 @@
 ---
 title: "Estado trata trabalhadores em greve como inimigos internos"
 date: 2026-04-10T10:51:09+01:00
-type: podcast
+category: podcast
 summary: "Chamar o Exército para manter refinarias durante greve ilustra a lógica de guerra na gestão do conflito social — herança neoliberal que facilita guinadas autoritárias."
 tags: ["fascismo", "neoliberalismo", "conflito-social"]
 has_commentary: false

@@ -1,7 +1,7 @@
 ---
 title: Índia busca a eternidade, China busca pela realidade
 date: '2026-04-02T23:06:35+01:00'
-type: podcast
+category: podcast
 summary: 01:10:05 — Índia busca a eternidade, China busca pela realidade
 tags:
 - philosophy

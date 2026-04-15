@@ -44,7 +44,7 @@
     <ul class="scholion-grid">
       {{ range $paginator.Pages }}
         {{ $kind := cond (.Params.has_commentary | default false) "commentary" "gloss" }}
-        {{ $noteType := .Params.type | default "" }}
+        {{ $noteType := .Params.category | default "" }}
         <li class="scholion-card scholion-card--{{ $kind }}{{ with $noteType }} scholion-card--{{ . }}{{ end }}" data-kind="{{ $kind }}">
           <a href="{{ .RelPermalink }}">
             <div class="scholion-card-body">

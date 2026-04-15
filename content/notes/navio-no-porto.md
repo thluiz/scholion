@@ -1,7 +1,7 @@
 ---
 title: Um navio no porto está seguro
 date: '2022-02-27T14:16:47Z'
-type: quote
+category: quote
 summary: A frase pertence a John A. Shedd, do livro Salt from My Attic (1928) — não a Grace Hopper. Hopper a adotou como lema pessoal e a citou frequentemente, o que causou a atribuição errônea generalizada.…
 tags:
 - john-a-shedd

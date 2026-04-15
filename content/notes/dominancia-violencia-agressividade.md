@@ -1,7 +1,7 @@
 ---
 title: Dominancia, violencia, agressividade
 date: '2026-04-09T12:54:00+01:00'
-type: podcast
+category: podcast
 summary: '00:34:32 — Dominancia, violencia, agressividade: tres niveis'
 tags:
 - violencia

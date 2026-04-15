@@ -1,7 +1,7 @@
 ---
 title: Landscape vs Landscaping Heuristic
 date: '2026-04-07T19:47:31+01:00'
-type: podcast
+category: podcast
 summary: '00:33:22 — Landscape Versus Landscaping: Know What You Can Change'
 tags:
 - systems-thinking

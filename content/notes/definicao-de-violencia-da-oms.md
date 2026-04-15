@@ -1,7 +1,7 @@
 ---
 title: Definicao de violencia da OMS
 date: '2026-04-09T12:50:00+01:00'
-type: podcast
+category: podcast
 summary: '00:17:22 — Definicao de violencia da OMS: intencionalidade'
 tags:
 - violencia

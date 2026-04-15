@@ -1,7 +1,7 @@
 ---
 title: Cem Escolas de Pensamento nascidas do caos
 date: '2026-04-02T23:38:33+01:00'
-type: podcast
+category: podcast
 summary: '00:17:36 — Cem Escolas de Pensamento: intelectualidade nascida do caos'
 tags:
 - historia-da-china

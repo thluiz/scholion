@@ -1,7 +1,7 @@
 ---
 title: Why Eliminating Slack Breaks the System
 date: '2026-04-02T19:35:47+01:00'
-type: podcast
+category: podcast
 summary: 00:09:35 — Why Eliminating Slack Breaks the System
 tags:
 - systems-thinking

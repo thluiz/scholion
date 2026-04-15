@@ -1,7 +1,7 @@
 ---
 title: Meninas excluem, meninos brigam
 date: '2026-04-09T12:56:00+01:00'
-type: podcast
+category: podcast
 summary: '00:43:40 — Meninas excluem, meninos brigam'
 tags:
 - violencia

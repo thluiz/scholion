@@ -1,7 +1,7 @@
 ---
 title: Accept Data In, Be Strict Going Out
 date: '2026-04-07T19:46:31+01:00'
-type: podcast
+category: podcast
 summary: 00:30:38 — Accept Data In, Be Strict Going Out
 tags:
 - systems-thinking

@@ -1,7 +1,7 @@
 ---
 title: 'Pascal: alone with your thoughts and mortality'
 date: '2026-04-02T12:25:00-03:00'
-type: podcast
+category: podcast
 summary: 00:13:50 — Distraction as Flight from Loneliness
 tags:
 - philosophy

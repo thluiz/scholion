@@ -1,7 +1,7 @@
 ---
 title: Projeto nacional de desenvolvimento
 date: '2026-04-04T12:39:40+01:00'
-type: podcast
+category: podcast
 summary: 00:08:42 — Brasil precisa de um projeto nacional de desenvolvimento
 tags:
 - desenvolvimento

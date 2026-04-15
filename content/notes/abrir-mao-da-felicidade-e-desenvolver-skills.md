@@ -1,7 +1,7 @@
 ---
 title: Abrir mao da felicidade e desenvolver skills
 date: '2026-04-09T12:59:00+01:00'
-type: podcast
+category: podcast
 summary: '00:52:18 — Abrir mao da felicidade e desenvolver skills'
 tags:
 - autoconhecimento

@@ -1,7 +1,7 @@
 ---
 title: "The Innovator's Dilemma in Engineering Organizations"
 date: 2026-04-10T09:35:35+01:00
-type: podcast
+category: podcast
 summary: "Innovation teams create a perverse social structure — the design challenge is rewarding essential production work while still enabling experimentation."
 tags: ["engineering-management", "innovation", "organizational-design"]
 has_commentary: false

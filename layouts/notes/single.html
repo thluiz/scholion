@@ -1,6 +1,6 @@
 {{ define "main" }}
   <div class="scholion-layout{{ if .Params.toc }} scholion-layout--toc{{ end }}">
-    {{ $noteType := .Params.type | default "" }}
+    {{ $noteType := .Params.category | default "" }}
     <article class="scholion-note{{ with $noteType }} scholion-note--{{ . }}{{ end }}">
       <header class="scholion-note-header">
         <p class="scholion-back"><a href="{{ "/notes/" | relURL }}">← todas as notas</a></p>

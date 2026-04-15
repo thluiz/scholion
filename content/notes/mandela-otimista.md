@@ -1,7 +1,7 @@
 ---
 title: Sou fundamentalmente um otimista — Mandela
 date: '2022-02-27T14:16:47Z'
-type: quote
+category: quote
 summary: 'Nelson Mandela, Long Walk to Freedom: The Autobiography of Nelson Mandela (Little, Brown, 1994).'
 tags:
 - nelson-mandela
