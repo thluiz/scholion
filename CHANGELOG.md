@@ -5,6 +5,43 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
+## [0.4.0] — 2026-04-15
+
+### Adicionado
+
+- **Sistema de tipos visuais** (`category` no frontmatter): notas ganham ícone e cor
+  por tipo na dateline do card e badge na página individual.
+  - `podcast` (🎙 rosa `#db2777`) — 119 notas de anotações de episódios Vox.
+  - `quote` (❝ teal `#0d9488`) — 15 notas de citações verificadas.
+  - `has_commentary` (📝 âmbar) — notas com comentário original do autor.
+- **Skill `add-scholion-quote`**: cria nota de citação verificada. Pesquisa autoria
+  em Quote Investigator, Wikiquote e busca geral. Tags de autor obrigatórias.
+- **Badges de tipo na single page**: 🎙 Podcast e ❝ Citação no header, mesmo
+  padrão do 🔍 Pesquisa Viva.
+- **Cores dark mode** para todos os tipos (quote, podcast, research, publicada).
+- **Suporte a page bundles** no git history e links GitHub (`dir/index.md`).
+- **Imagens centralizadas** no corpo das notas (`scholion-note-body img`).
+
+### Melhorado
+
+- **Ícones de tipo na dateline**: movidos do canto superior direito para a mesma
+  linha da data, evitando sobreposição com títulos longos.
+- **Logo colorido em mobile/tablet** (até 1024px) — sem hover em touch, fica
+  sempre visível.
+- **Cards pinned**: padding-top no body para não colar no ★.
+
+### Corrigido
+
+- **`type` renomeado para `category`**: `type` é palavra reservada do Hugo e
+  causava uso de layout errado (ex: `layouts/podcast/single.html` em vez de
+  `layouts/notes/single.html`). Renomeado em 134 notas, 4 templates e 2 skills.
+- **Border-left do commentary removida** — confundia visualmente com podcast no
+  light mode.
+- **`has_commentary` corrigido** em 23 notas de Chinês Instrumental (eram `false`,
+  agora `true`) e em Jevons Paradox.
+- **Tags de autor adicionadas** a 12 notas de citação existentes.
+- **Travessões dramáticos** removidos da nota "O que é um Scholion".
+
 ## [0.3.0] — 2026-04-11
 
 ### Adicionado
