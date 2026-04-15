@@ -24,7 +24,7 @@ Em [*Institutio Oratoria* X.3.17](http://www.perseus.tufts.edu/hopper/text?doc=P
 
 > *"hanc silvam vocant"*
 
-O termo não é uma definição que Quintiliano propõe — ele o reporta (e critica levemente o método). A paráfrase "matéria bruta ainda não trabalhada em forma definitiva" circula como glosa fiel ao espírito, não como citação direta.
+Quintiliano não propõe o termo. Reporta o que outros fazem, e critica levemente o método. A paráfrase "matéria bruta ainda não trabalhada em forma definitiva" circula como glosa fiel ao espírito, não como citação direta.
 
 Estácio, contemporâneo exato de Quintiliano na corte de Domiciano, usou o mesmo termo como título de sua coletânea de poemas (*Silvae*, 91-96 d.C.), afirmando no prefácio que os escreveu no calor do momento — linguagem que ecoa diretamente Quintiliano. Os poemas, porém, são obras de grande elaboração técnica. Se a referência é consciente ou apenas uso comum de terminologia retórica da época, ninguém sabe ao certo.
 
