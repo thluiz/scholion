@@ -1,14 +1,14 @@
 [
   {
     "date": "2026-04-15",
+    "subject": "fix: renomear type → category no frontmatter (type é reservado pelo Hugo)"
+  },
+  {
+    "date": "2026-04-15",
     "subject": "feat: sistema de tipos visuais para notas (type, ícones, cores)"
   },
   {
     "date": "2026-04-09",
     "subject": "fix: extract sources from inline links and Source: prefix"
-  },
-  {
-    "date": "2026-04-04",
-    "subject": "feat: Give-First Mentality Over Transactional Networking"
   }
 ]

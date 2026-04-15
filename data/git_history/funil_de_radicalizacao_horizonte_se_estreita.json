@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-04-15",
+    "subject": "fix: renomear type → category no frontmatter (type é reservado pelo Hugo)"
+  },
+  {
+    "date": "2026-04-15",
     "subject": "feat: sistema de tipos visuais para notas (type, ícones, cores)"
   },
   {
