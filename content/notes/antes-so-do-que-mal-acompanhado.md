@@ -17,8 +17,6 @@ sources:
     kind: article
 ---
 
-> "Antes só do que mal acompanhado."
-
 Provérbio popular, sem autor conhecido. A versão mais antiga rastreável aparece na tradição ibérica medieval — em *La Celestina* (Fernando de Rojas, ~1499) como "Valiera más solo que mal acompañado". Existe em português, espanhol, italiano e francês com formulações quase idênticas.
 
 A atribuição a Mark Twain circula amplamente na internet mas não aparece em nenhuma obra, carta ou discurso registrado. O Mark Twain House e o Wikiquote não a incluem. George Washington copiou sentimento parecido ("It is better to be alone than in bad company") das *110 Rules of Civility*, traduzidas de regras jesuítas francesas de 1595. Candace Bushnell popularizou a versão inglesa "Better alone than badly accompanied" em *Sex and the City*.

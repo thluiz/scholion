@@ -11,8 +11,6 @@ has_commentary: false
 sources: []
 ---
 
-> "It always seems impossible until it's done."
-
 Atribuída a Nelson Mandela.
 
 ---

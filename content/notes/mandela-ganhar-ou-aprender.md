@@ -11,8 +11,6 @@ has_commentary: false
 sources: []
 ---
 
-> "I never lose. I either win or I learn."
-
 Atribuída a Nelson Mandela.
 
 ---

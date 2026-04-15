@@ -11,8 +11,6 @@ has_commentary: false
 sources: []
 ---
 
-> "The trick is to fix the problem you have, rather than the problem you want."
-
 Atribuída a Bram Cohen, criador do BitTorrent. Consistente com sua filosofia documentada de design pragmático — construir para o problema real, não para o problema idealizado ou futuro.
 
 ---

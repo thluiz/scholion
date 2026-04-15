@@ -1,14 +1,14 @@
 [
   {
     "date": "2026-04-15",
+    "subject": "feat: títulos de quotes usam frase completa, sem autor"
+  },
+  {
+    "date": "2026-04-15",
     "subject": "fix: renomear type → category no frontmatter (type é reservado pelo Hugo)"
   },
   {
     "date": "2026-04-15",
     "subject": "feat: sistema de tipos visuais para notas (type, ícones, cores)"
-  },
-  {
-    "date": "2026-03-28",
-    "subject": "feat: Liberais meio-dia e cinquenta e oito"
   }
 ]

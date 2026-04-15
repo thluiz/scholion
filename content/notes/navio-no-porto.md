@@ -15,6 +15,4 @@ sources:
   kind: other
 ---
 
-> "A ship in harbor is safe, but that is not what ships are built for."
-
 A frase pertence a **John A. Shedd**, do livro *Salt from My Attic* (1928) — não a Grace Hopper. Hopper a adotou como lema pessoal e a citou frequentemente, o que causou a atribuição errônea generalizada. Ela nunca reivindicou autoria; chamava-a explicitamente de "um lema que adotei".
