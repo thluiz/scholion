@@ -17,9 +17,6 @@ sources:
     kind: "article"
 ---
 
-> "I am the master of my fate,
-> I am the captain of my soul."
-
 Versos finais de *Invictus* — poema de **William Ernest Henley** (1875), escrito após sua recuperação de tuberculose que resultou na amputação de uma perna.
 
 Mandela recitava o poema para companheiros de prisão na Ilha Robben e disse que ele o ajudava a "permanecer de pé quando tudo que queria era deitar". A associação com Mandela é genuína e profunda — mas os versos são de Henley, não de Mandela. O filme *Invictus* (Clint Eastwood, 2009) consolidou ainda mais essa conexão.

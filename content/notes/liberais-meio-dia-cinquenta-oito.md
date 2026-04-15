@@ -14,5 +14,3 @@ sources:
   url: https://vox.thluiz.com/2026/03/W13/nova-era-geopolitica-velho-dos-livros-luis-felipe-valle-kritike-podcast
   kind: podcast
 ---
-
-> "O problema é que estamos com vários liberais meio-dia e cinquenta e oito: uma hora eles viram fascistas."

@@ -14,6 +14,4 @@ sources:
     kind: wiki
 ---
 
-> "The worst loneliness is to not be comfortable with yourself."
-
 Atribuída a Mark Twain. O Goodreads lista a frase com milhares de likes mas sem indicação de obra ou data. O Wikiquote não a inclui entre as citações verificadas de Twain. Nenhuma fonte primária encontrada.
