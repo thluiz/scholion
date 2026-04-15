@@ -26,10 +26,10 @@ sources:
 
 Autoria não verificável. A formulação exata com "portáteis" não tem origem rastreável, mas a ideia é antiga.
 
-Milton, em *Paradise Lost* (1667): "The mind is its own place, and in itself / Can make a Heaven of Hell, a Hell of Heaven."
+**Milton**, em *Paradise Lost* (1667): "The mind is its own place, and in itself / Can make a Heaven of Hell, a Hell of Heaven."
 
-Oscar Wilde, em *Dorian Gray* (1890): "Each of us has heaven and hell in him, Basil."
+**Oscar Wilde**, em *Dorian Gray* (1890): "Each of us has heaven and hell in him, Basil."
 
-Neil Gaiman, em *Sandman* (1990): "I think hell is something you carry around with you. Not somewhere you go."
+**Neil Gaiman**, em *Sandman* (1990): "I think hell is something you carry around with you. Not somewhere you go."
 
 _Ouvi no podcast "Elefantes na Neblina" en passant._
