@@ -1,5 +1,5 @@
 ---
-title: "四 (sì) — o número quatro"
+title: "四 (sì). O número e a tetrafobia"
 date: 2026-04-14T11:54:10+01:00
 summary: "Ficha etimológica de 四: o único numeral chinês que abandonou a forma indicativa (亖) por uma forma fechada."
 tags: ["etimologia", "chinês", "ideogramas"]
