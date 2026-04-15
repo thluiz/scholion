@@ -1,7 +1,7 @@
 ---
 title: Ordens espontâneas desresponsabilizam
 date: '2026-04-08T01:23:19+01:00'
-type: podcast
+category: podcast
 summary: '00:47:07 — Ordens espontâneas: naturalizar é desresponsabilizar'
 tags:
 - wendy-brown

@@ -1,7 +1,7 @@
 ---
 title: "Sou o capitão da minha alma — Invictus"
 date: 2022-02-27T14:16:47Z
-type: quote
+category: quote
 summary: "Os versos finais de Invictus são de Henley, não de Mandela — embora a associação com Mandela seja genuína."
 tags: ["william-ernest-henley", "filosofia", "história", "poesia"]
 has_commentary: true

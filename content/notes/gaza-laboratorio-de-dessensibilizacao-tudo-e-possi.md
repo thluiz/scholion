@@ -1,7 +1,7 @@
 ---
 title: "Gaza: Laboratório de dessensibilização - tudo é possível"
 date: 2026-04-10T10:51:17+01:00
-type: podcast
+category: podcast
 summary: "Gaza como experimento social: imagens diárias de genocídio no celular para testar a normalização. Depois de Gaza, tudo é possível."
 tags: ["gaza", "dessensibilizacao", "violencia"]
 has_commentary: false

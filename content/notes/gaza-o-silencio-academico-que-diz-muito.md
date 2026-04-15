@@ -1,7 +1,7 @@
 ---
 title: "Gaza: O silêncio acadêmico que diz muito"
 date: 2026-04-10T10:51:16+01:00
-type: podcast
+category: podcast
 summary: "Para que serve a teoria crítica se não consegue dizer claramente que, diante de um genocídio, trata-se de um genocídio?"
 tags: ["gaza", "teoria-critica", "silencio"]
 has_commentary: false

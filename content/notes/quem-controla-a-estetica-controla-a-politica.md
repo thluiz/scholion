@@ -1,7 +1,7 @@
 ---
 title: "Quem controla a estética, controla a política"
 date: 2026-04-10T10:51:13+01:00
-type: podcast
+category: podcast
 summary: "A questão política fundamental é quem controla as formas da sensibilidade — o que se é capaz de sentir, ver e perceber. O fascismo compreende isso."
 tags: ["fascismo", "estetica", "walter-benjamin"]
 has_commentary: false

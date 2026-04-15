@@ -1,7 +1,7 @@
 ---
 title: Communication as a Developer Core Discipline
 date: '2026-04-02T22:00:00-03:00'
-type: podcast
+category: podcast
 summary: 00:04:24 — Communication as a Developer Core Discipline
 tags:
 - communication

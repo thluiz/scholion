@@ -1,7 +1,7 @@
 ---
 title: 'Primeiro dia de escola: olhar as costas uns dos outros'
 date: '2026-03-30T09:45:00+01:00'
-type: podcast
+category: podcast
 summary: 'Rita conta uma anedota reveladora sobre o choque entre mundos: no primeiro dia de escola, a mãe perguntou como tinha sido e ela respondeu "muito estranho, porque a gente passou a manhã inteira…'
 tags:
 - filosofia

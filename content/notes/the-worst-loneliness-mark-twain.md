@@ -1,7 +1,7 @@
 ---
 title: "The worst loneliness — atribuída a Mark Twain"
 date: 2026-04-15T00:11:30+01:00
-type: quote
+category: quote
 summary: "Atribuída a Mark Twain, sem registro em nenhuma obra ou discurso verificado. A frase circula amplamente em sites de citações sem fonte primária."
 tags: ["mark-twain", "filosofia"]
 has_commentary: false

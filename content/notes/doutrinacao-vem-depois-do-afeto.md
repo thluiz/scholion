@@ -1,7 +1,7 @@
 ---
 title: A doutrinação vem depois do afeto
 date: '2026-04-08T01:27:19+01:00'
-type: podcast
+category: podcast
 summary: 01:06:10 — Doutrinação vem depois; e se agíssemos como se já tivesse colapsado?
 tags:
 - radicalizacao

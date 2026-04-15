@@ -1,7 +1,7 @@
 ---
 title: 'Funil de radicalização: horizonte que se estreita'
 date: '2026-04-08T01:24:19+01:00'
-type: podcast
+category: podcast
 summary: '00:49:09 — O funil: horizonte se estreita, única saída é pra frente'
 tags:
 - leticia-cesarino

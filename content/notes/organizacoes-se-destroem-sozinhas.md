@@ -1,7 +1,7 @@
 ---
 title: Organizações se destroem sozinhas
 date: '2026-04-03T11:31:16+01:00'
-type: podcast
+category: podcast
 summary: 00:21:25 — Organizações se destroem sozinhas
 tags:
 - organizações

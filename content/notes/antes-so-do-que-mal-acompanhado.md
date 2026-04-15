@@ -1,7 +1,7 @@
 ---
 title: "Antes só do que mal acompanhado — provérbio"
 date: 2026-04-15T00:10:30+01:00
-type: quote
+category: quote
 summary: "Provérbio popular atribuído a Mark Twain, mas sem registro em suas obras. A formulação mais antiga aparece na tradição ibérica medieval, incluindo La Celestina (séc. XV)."
 tags: ["proverbio", "filosofia"]
 has_commentary: false

@@ -1,7 +1,7 @@
 ---
 title: Filosofia como prática social e ciclos linguísticos
 date: '2026-04-03T08:49:30+01:00'
-type: podcast
+category: podcast
 summary: 01:34:51 — Filosofia como prática social inseparável do idioma
 tags:
 - pensamento-chinês

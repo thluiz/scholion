@@ -1,7 +1,7 @@
 ---
 title: Proximate vs Ultimate Cause in Systems
 date: '2026-04-07T19:45:31+01:00'
-type: podcast
+category: podcast
 summary: 00:27:33 — Address Proximate Causes, Understand Ultimate Ones
 tags:
 - systems-thinking

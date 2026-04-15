@@ -1,7 +1,7 @@
 ---
 title: Liderar por trás — Mandela
 date: '2022-02-27T14:16:47Z'
-type: quote
+category: quote
 summary: Nelson Mandela, Long Walk to Freedom (1994). A formulação condensada "Lead from the back — and let others believe they are in front" circula amplamente como variante editorial desta passagem.
 tags:
 - nelson-mandela

@@ -1,7 +1,7 @@
 ---
 title: "Pasolini: consumo fascistiza a sociedade"
 date: 2026-04-10T10:51:12+01:00
-type: podcast
+category: podcast
 summary: "Pasolini identificou que a sociedade se fascistiza pela homogeneização cultural e pelo consumo — não basta uma teoria do Estado, é preciso entender a reprodução social."
 tags: ["fascismo", "cultura", "pasolini"]
 has_commentary: false

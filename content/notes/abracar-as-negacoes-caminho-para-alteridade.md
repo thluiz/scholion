@@ -1,7 +1,7 @@
 ---
 title: Abracar as negacoes como caminho para alteridade
 date: '2026-04-09T12:58:00+01:00'
-type: podcast
+category: podcast
 summary: '00:47:15 — Abracar as negacoes como caminho para alteridade'
 tags:
 - filosofia

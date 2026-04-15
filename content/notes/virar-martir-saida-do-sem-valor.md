@@ -1,7 +1,7 @@
 ---
 title: 'Virar mártir: a saída final do sem-valor'
 date: '2026-04-08T01:21:19+01:00'
-type: podcast
+category: podcast
 summary: '00:40:18 — Virar mártir: a saída final do sem-valor'
 tags:
 - radicalizacao-misogina

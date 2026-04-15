@@ -19,7 +19,7 @@
     <ul class="scholion-grid">
       {{ range $paginator.Pages }}
         {{ $kind := cond (.Params.has_commentary | default false) "commentary" "gloss" }}
-        {{ $noteType := .Params.type | default "" }}
+        {{ $noteType := .Params.category | default "" }}
         {{ $isPinned := .Params.pinned | default false }}
         {{ $isResearch := eq .Section "research" }}
         {{ $isPublished := eq (string (.Params.research | default "")) "published" }}

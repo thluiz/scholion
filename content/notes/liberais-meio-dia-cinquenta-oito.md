@@ -1,7 +1,7 @@
 ---
 title: Liberais meio-dia e cinquenta e oito
 date: '2026-03-28T10:00:00+01:00'
-type: quote
+category: quote
 summary: ''
 tags:
 - luis-felipe-valle

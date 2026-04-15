@@ -1,7 +1,7 @@
 ---
 title: Burocracia rouba tempo (Graeber)
 date: '2026-04-09T12:53:00+01:00'
-type: podcast
+category: podcast
 summary: '00:31:58 — Burocracia como violencia economica que rouba tempo'
 tags:
 - violencia

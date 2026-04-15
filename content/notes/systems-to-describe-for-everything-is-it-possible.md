@@ -1,7 +1,7 @@
 ---
 title: Systems to describe for Everything is it possible?
 date: '2026-04-04T12:14:01+01:00'
-type: podcast
+category: podcast
 summary: '00:04:20 — The System Kernel: A Black Box for Everything'
 tags:
 - systems-thinking

@@ -1,7 +1,7 @@
 ---
 title: Mensagem essencial no Mês da Mulher — Medo e Delírio
 date: '2026-04-04T12:00:00-03:00'
-type: podcast
+category: podcast
 summary: 'Série de estereótipos enunciados em tom irônico por uma comediante: não tem graça, já foi assediada mas "estavam me elogiando", não pode sair de roupa curta, foi promovida "porque estava dando pro…'
 tags:
 - feminismo

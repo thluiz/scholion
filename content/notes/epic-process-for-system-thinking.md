@@ -1,7 +1,7 @@
 ---
 title: "The EPIC Process for System Thinking"
 date: 2026-04-09T22:46:44+01:00
-type: podcast
+category: podcast
 summary: "Explore, Produce, Intervene, Check — a principled guide shaped by decades of systems practice, not a rigid prescription."
 tags: ["systems-thinking", "methodology", "problem-solving"]
 has_commentary: false

@@ -1,7 +1,7 @@
 ---
 title: Odio une, ocitocina discrimina grupos
 date: '2026-04-09T12:52:00+01:00'
-type: podcast
+category: podcast
 summary: '00:29:26 — Odio une, ocitocina discrimina grupos'
 tags:
 - violencia

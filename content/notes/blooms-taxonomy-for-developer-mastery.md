@@ -1,7 +1,7 @@
 ---
 title: Bloom's Taxonomy for Developer Mastery
 date: '2026-04-04T12:27:34+01:00'
-type: podcast
+category: podcast
 summary: 00:07:14 — Bloom's Taxonomy Applied to Developer Knowledge
 tags:
 - developer-career

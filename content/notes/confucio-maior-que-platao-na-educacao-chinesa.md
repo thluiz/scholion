@@ -1,7 +1,7 @@
 ---
 title: Confucio maior que Platao na educacao chinesa
 date: '2026-04-02T23:40:33+01:00'
-type: podcast
+category: podcast
 summary: 00:24:30 — Confucio maior que Platao na educacao chinesa
 tags:
 - historia-da-china

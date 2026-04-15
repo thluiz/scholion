@@ -1,7 +1,7 @@
 ---
 title: 'Recurso limitado: a raiz biologica da violencia'
 date: '2026-04-09T12:55:00+01:00'
-type: podcast
+category: podcast
 summary: '00:37:50 — Recurso limitado: a raiz biologica da violencia'
 tags:
 - violencia

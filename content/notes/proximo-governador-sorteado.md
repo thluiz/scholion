@@ -1,7 +1,7 @@
 ---
 title: Próximo governador do Rio vai ser sorteado
 date: '2026-03-30T09:35:00+01:00'
-type: podcast
+category: podcast
 summary: 'Celso brinca que o próximo governador do Rio será escolhido por sorteio: "Vamos pegar um cara na rua e obrigar ele. Se você não pagou o IPTU, você vai ter que governar o Rio."'
 tags:
 - política

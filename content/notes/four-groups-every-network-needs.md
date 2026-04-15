@@ -1,7 +1,7 @@
 ---
 title: Four Groups Every Network Needs
 date: '2026-04-04T12:47:45+01:00'
-type: podcast
+category: podcast
 summary: 00:29:23 — Four Groups Every Network Needs
 tags:
 - networking
