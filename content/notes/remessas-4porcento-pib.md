@@ -20,6 +20,6 @@ sources:
 
 O PIB brasileiro cresceu 3% em 2025. As remessas ao exterior foram de 4,1% do PIB no mesmo período. Mais do que crescemos foi drenado. Antes de qualquer distribuição para a população.
 
-*Os valores não se somam diretamente — remessas e crescimento medem coisas diferentes, e parte das remessas financia atividades que contribuem para o PIB. Mas a proporção é sugestiva: se uma fração maior desse capital tivesse sido reinvestida no Brasil, em infraestrutura, produção e consumo interno, qual seria a taxa de crescimento? A pergunta não tem resposta simples, mas a assimetria chama atenção.*
+*Os valores não se somam diretamente. Remessas e crescimento medem coisas diferentes, e parte das remessas financia atividades que contribuem para o PIB. Mas a proporção incomoda: se uma fração maior desse capital tivesse sido reinvestida no Brasil, em infraestrutura, produção e consumo interno, qual seria a taxa de crescimento?*
 
 Bresser-Pereira vê isso como consequência direta das políticas liberais de abertura financeira: o financiamento externo não complementa a poupança doméstica, substitui. E cobra o preço depois, em remessas permanentes de juros, lucros e royalties.
