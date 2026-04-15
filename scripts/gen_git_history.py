@@ -26,8 +26,15 @@ def git_log(filepath: Path, n: int = 3) -> list[dict]:
     return entries
 
 
+def note_slug(note: Path) -> str:
+    """Extract slug: for page bundles (dir/index.md) use dir name, else file stem."""
+    if note.name == "index.md":
+        return note.parent.name.replace("-", "_")
+    return note.stem.replace("-", "_")
+
+
 def process(note: Path):
-    slug = note.stem.replace("-", "_")
+    slug = note_slug(note)
     history = git_log(note)
     if not history:
         return
@@ -42,7 +49,10 @@ def main():
         notes = []
         for d in CONTENT_DIRS:
             if d.exists():
+                # Regular notes (slug.md)
                 notes.extend(n for n in sorted(d.glob("*.md")) if n.name != "_index.md")
+                # Page bundles (slug/index.md)
+                notes.extend(n for n in sorted(d.glob("*/index.md")))
         for note in notes:
             process(note)
         print(f"Generated history for {len(notes)} notes.")

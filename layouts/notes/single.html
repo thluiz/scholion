@@ -103,8 +103,14 @@
       {{ end }}
 
       {{/* Histórico de alterações */}}
-      {{ $slug := replace .File.ContentBaseName "-" "_" }}
-      {{ $ghURL := printf "https://github.com/thluiz/scholion/commits/main/content/notes/%s" .File.LogicalName }}
+      {{ $isBundle := eq .File.LogicalName "index.md" }}
+      {{ $bundleDir := .File.ContentBaseName }}
+      {{ if $isBundle }}
+        {{ $parts := split (replace .File.Path "\\" "/") "/" }}
+        {{ $bundleDir = index $parts (sub (len $parts) 2) }}
+      {{ end }}
+      {{ $slug := cond $isBundle (replace $bundleDir "-" "_") (replace .File.ContentBaseName "-" "_") }}
+      {{ $ghURL := cond $isBundle (printf "https://github.com/thluiz/scholion/commits/main/content/notes/%s/index.md" $bundleDir) (printf "https://github.com/thluiz/scholion/commits/main/content/notes/%s" .File.LogicalName) }}
       <aside class="scholion-history">
         <h2>Histórico</h2>
         {{ with index site.Data.git_history $slug }}

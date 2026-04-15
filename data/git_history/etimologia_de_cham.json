@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-04-14",
+    "subject": "fix: ajustar data da pesquisa Cham para evitar buildFuture=false"
+  },
+  {
+    "date": "2026-04-14",
     "subject": "research: ajustar sumário em etimologia de Cham 尋"
   },
   {

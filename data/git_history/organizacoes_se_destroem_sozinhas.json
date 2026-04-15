@@ -1,14 +1,14 @@
 [
   {
     "date": "2026-04-15",
+    "subject": "feat: badges de tipo na página individual + ajustes visuais"
+  },
+  {
+    "date": "2026-04-15",
     "subject": "feat: sistema de tipos visuais para notas (type, ícones, cores)"
   },
   {
     "date": "2026-04-09",
     "subject": "feat: pin 5 more curated notes for the home vitrine"
-  },
-  {
-    "date": "2026-04-03",
-    "subject": "feat: Organizações se destroem sozinhas"
   }
 ]
