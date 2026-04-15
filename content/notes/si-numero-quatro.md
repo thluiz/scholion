@@ -29,7 +29,11 @@ sources:
     kind: other
 ---
 
-四 (sì) e 死 (sǐ, morte) são quase homófonos — mesma inicial *s-*, mesma vogal, diferem só no tom (4º vs. 3º). Em cantonês é ainda mais próximo: sei3 vs. sei2. Isso gerou a tetrafobia (恐四症): evitar o 4 em andares de prédio, números de telefone, placas de carro, quartos de hospital. Muitos edifícios na China, Japão, Coreia e Vietnam saltam do 3º para o 5º andar. Em japonês, 四 pode ser lido *shi* (homófono de 死 *shi*); em coreano, *sa* (homófono de 사 *sa*). A associação é puramente fonética — não há relação etimológica entre 四 e 死.
+四 (sì) e 死 (sǐ, morte) são quase homófonos. Mesma inicial *s-*, mesma vogal, diferem só no tom (4º vs. 3º). Em cantonês fica ainda mais colado: sei3 vs. sei2.
+
+Daí a tetrafobia (恐四症). Prédios na China, Japão, Coreia e Vietnam saltam do 3º para o 5º andar. Números de telefone, placas de carro, quartos de hospital: tudo evita o 4. Em japonês, 四 pode ser lido *shi* (homófono de 死 *shi*); em coreano, *sa* (homófono de 사 *sa*).
+
+A associação é puramente fonética. Não há relação etimológica entre 四 e 死.
 
 ---
 
