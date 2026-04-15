@@ -1,5 +1,5 @@
 ---
-title: "Sou o capitão da minha alma — Invictus"
+title: "I am the master of my fate, I am the captain of my soul."
 date: 2022-02-27T14:16:47Z
 category: quote
 summary: "Os versos finais de Invictus são de Henley, não de Mandela — embora a associação com Mandela seja genuína."

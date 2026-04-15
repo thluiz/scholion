@@ -1,5 +1,5 @@
 ---
-title: "Antes só do que mal acompanhado — provérbio"
+title: "Antes só do que mal acompanhado."
 date: 2026-04-15T00:10:30+01:00
 category: quote
 summary: "Provérbio popular atribuído a Mark Twain, mas sem registro em suas obras. A formulação mais antiga aparece na tradição ibérica medieval, incluindo La Celestina (séc. XV)."
