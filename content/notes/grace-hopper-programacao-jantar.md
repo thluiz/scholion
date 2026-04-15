@@ -1,5 +1,5 @@
 ---
-title: Programação é como planejar um jantar — Grace Hopper
+title: "It's just like planning a dinner. You have to plan ahead and schedule everything so it's ready when you need it. Programming requires patience and the ability to handle detail. Women are naturals at computer programming."
 date: '2022-02-27T14:16:47Z'
 category: quote
 summary: Grace Hopper, entrevistada por Lois Mandel para a Cosmopolitan em abril de 1967. O artigo — "The Computer Girls" — argumentava que programação era uma carreira natural para mulheres numa época em que…

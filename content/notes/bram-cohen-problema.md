@@ -1,5 +1,5 @@
 ---
-title: Resolva o problema que você tem — Bram Cohen
+title: "The trick is to fix the problem you have, rather than the problem you want."
 date: '2022-02-27T14:16:47Z'
 category: quote
 summary: Atribuída a Bram Cohen, criador do BitTorrent. Consistente com sua filosofia documentada de design pragmático — construir para o problema real, não para o problema idealizado ou futuro.

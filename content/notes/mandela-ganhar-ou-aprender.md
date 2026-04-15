@@ -1,5 +1,5 @@
 ---
-title: Nunca perco — Mandela
+title: "I never lose. I either win or I learn."
 date: '2022-02-27T14:16:47Z'
 category: quote
 summary: Atribuída a Nelson Mandela.

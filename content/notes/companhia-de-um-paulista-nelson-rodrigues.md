@@ -1,5 +1,5 @@
 ---
-title: "Companhia de um paulista é a pior solidão — Nelson Rodrigues"
+title: "A companhia de um paulista é a pior forma de solidão."
 date: 2026-04-15T00:12:30+01:00
 category: quote
 summary: "Nelson Rodrigues, crônica \"O Paulista\" (7 de agosto de 1968). O aforismo nasceu após a visita de um paulista monossilábico que matava qualquer conversa."

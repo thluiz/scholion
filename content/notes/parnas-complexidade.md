@@ -1,5 +1,5 @@
 ---
-title: Complexidade não é objetivo — David Parnas
+title: "Complexity is not a goal. I don't want to be remembered as an engineer of complex systems."
 date: '2022-02-27T14:16:47Z'
 category: quote
 summary: 'David Parnas, em entrevista ao perfil ACM Fellows. O contexto: Parnas critica engenheiros que se orgulham de construir sistemas grandes e complexos. Sua contribuição conhecida é o oposto — o…'

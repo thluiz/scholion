@@ -1,5 +1,5 @@
 ---
-title: "The worst loneliness — atribuída a Mark Twain"
+title: "The worst loneliness is to not be comfortable with yourself."
 date: 2026-04-15T00:11:30+01:00
 category: quote
 summary: "Atribuída a Mark Twain, sem registro em nenhuma obra ou discurso verificado. A frase circula amplamente em sites de citações sem fonte primária."
