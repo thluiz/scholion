@@ -1,14 +1,14 @@
 [
   {
+    "date": "2026-04-15",
+    "subject": "Ajustes nota scholion"
+  },
+  {
     "date": "2026-04-09",
     "subject": "feat(ux): pinned cards — show 3, collapse rest with 'ver mais' toggle + pin_weight ordering"
   },
   {
     "date": "2026-04-09",
     "subject": "feat: pin notes to top of home/notes list + tag chips inside notes"
-  },
-  {
-    "date": "2026-04-09",
-    "subject": "feat: O que é um Scholion (e o que é Marginalia)"
   }
 ]
