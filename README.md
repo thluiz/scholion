@@ -4,7 +4,7 @@
 
 Site estático de marginalia, glosas e fragmentos do que leio, escuto e assisto. Cada nota é um cartão num mosaico, com fontes estruturadas e (opcionalmente) o meu comentário em cima.
 
-🌐 [scholion.thluiz.com](https://scholion.thluiz.com) (em breve)
+🌐 [scholion.thluiz.com](https://scholion.thluiz.com)
 
 ## Por que esse projeto existe
 
@@ -20,16 +20,16 @@ Scholion nasceu como um spin-off otimizado para o caso "marginalia ao estilo car
 
 ### Hugo, não Astro
 
-Hugo compila os mesmos 165 markdowns em ~80 ms. A 1.000 notas continua sub-segundo. Para um site que é 95% renderização de markdown estático, é a ferramenta certa — o JS-runtime do Astro não traz benefício neste caso.
+Hugo compila 300+ markdowns em ~60 ms. A 1.000 notas continua sub-segundo. Para um site que é 95% renderização de markdown estático, é a ferramenta certa — o JS-runtime do Astro não traz benefício neste caso.
 
 ### Blowfish como base, customizado por patches
 
-[Blowfish](https://blowfish.page) é um tema Hugo ativo (release a cada ~2 semanas, mantenedor responde rápido a deprecations do Hugo). Usado como **submodule** fixado em `v2.101.0`, com **zero edição dos arquivos do tema**:
+[Blowfish](https://blowfish.page) é um tema Hugo ativo (release a cada ~2 semanas, mantenedor responde rápido a deprecations do Hugo). Usado como **submodule**, com **zero edição dos arquivos do tema**:
 
 - `assets/css/custom.css` — overrides de estilo (carregado depois dos estilos do tema)
 - `assets/css/schemes/scholion.css` — color scheme próprio (paleta âmbar/sépia/stone)
-- `layouts/notes/list.html`, `single.html`, `index.html`, `_default/terms.html` — templates próprios via Hugo lookup order
-- `layouts/partials/favicons.html` — partial sobrescrito
+- `layouts/notes/`, `layouts/fontes/`, `layouts/research/` — templates próprios por section via Hugo lookup order
+- `layouts/partials/` — partials sobrescritos (head, footer, paginação)
 
 Updates do Blowfish: `git submodule update --remote themes/blowfish` + bump pra próxima tag testada. Os overrides são poucos e auditáveis, então o risco de quebra em update é baixo.
 
@@ -45,6 +45,7 @@ A página da nota individual abre com tipografia legível (max-width 42rem, line
 ---
 title: "Título"
 date: 2026-04-09T17:30:00+01:00
+category: quote                 # opcional — aciona layout/ícone específico (quote, podcast, etc.)
 summary: "Frase curta usada nos cards."
 tags: [tag-1, tag-2]
 has_commentary: true            # true se contém análise do autor; false para citação/glosa pura
@@ -62,12 +63,14 @@ Corpo em markdown.
 
 `has_commentary` é a separação que importa: notas que são apenas excerto/citação de uma fonte (glosa) versus notas onde adicionei análise, conexão ou síntese própria (commentary). Os filtros em `/notes/` permitem ver só um ou só outro.
 
+`category` diferencia tipos visuais de nota: `quote` (citações com estilo itálico e aspas decorativas), `podcast` (anotações de episódios), entre outros. Cada tipo tem cor, ícone e badge próprios nos cards.
+
 `sources` como array estruturado destrava agrupamento por autor, por tipo de fonte, por publisher — coisas impossíveis no formato antigo de "fonte como texto livre no rodapé".
 
 ## Stack
 
 - **[Hugo](https://gohugo.io)** v0.148+ extended — gerador estático
-- **[Blowfish](https://blowfish.page)** v2.101.0 — tema base (Tailwind, dark/light, busca client-side)
+- **[Blowfish](https://blowfish.page)** — tema base (Tailwind, dark/light, busca client-side)
 - **CSS Grid** puro para o mosaico (sem framework JS)
 - **Git submodule** para o tema (não Hugo Modules — evita dependência de Go)
 
@@ -81,18 +84,20 @@ scholion/
 │   │   ├── custom.css           # overrides + layout do mosaico/single
 │   │   └── schemes/scholion.css # color scheme âmbar
 │   └── img/seal.png
-├── config/_default/     # hugo.toml, params.toml, languages, menus
-├── content/notes/       # 165+ notas em markdown
+├── config/_default/     # hugo.toml, params.toml, markup.toml, languages, menus
+├── content/notes/       # 300+ notas em markdown
 ├── data/git_history/    # JSONs com histórico por nota (gerados)
 ├── layouts/             # templates próprios (override do Blowfish)
-│   ├── _default/terms.html
+│   ├── _default/term.html, terms.html
+│   ├── fontes/list.html
 │   ├── index.html
 │   ├── notes/list.html
 │   ├── notes/single.html
-│   └── partials/favicons.html
+│   ├── research/single.html
+│   └── partials/        # extend-head-uncached, favicons, footer, scholion-pagination
 ├── scripts/             # gen_git_history.py, pre-commit hook
 ├── static/              # favicon.png
-└── themes/blowfish/     # submodule, fixado em v2.101.0
+└── themes/blowfish/     # submodule
 ```
 
 ## Desenvolvimento local
@@ -146,7 +151,7 @@ O hook detecta notas staged, atualiza só os JSONs correspondentes e faz `git ad
 
 ## Deploy
 
-Em planejamento: **S3 + CloudFront**, com push para `main` disparando build via GitHub Actions.
+**Azure Static Web Apps** (plano Free). Push para `main` dispara build Hugo + deploy via GitHub Actions (workflow `azure-static-web-apps-zealous-forest-0dcc2601e.yml`).
 
 ## Histórico
 
