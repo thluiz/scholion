@@ -39,9 +39,11 @@ def process(note: Path):
     if not history:
         return
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    (OUT_DIR / f"{slug}.json").write_text(
-        json.dumps(history, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
-    )
+    new_content = json.dumps(history, ensure_ascii=False, indent=2) + "\n"
+    out_path = OUT_DIR / f"{slug}.json"
+    if out_path.exists() and out_path.read_text(encoding="utf-8") == new_content:
+        return  # unchanged — preserve mtime so hugo doesn't re-render everything
+    out_path.write_text(new_content, encoding="utf-8")
 
 
 def main():
