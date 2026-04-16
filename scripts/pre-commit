@@ -1,8 +1,0 @@
-#!/bin/sh
-# Pre-commit hook: update git history JSON for staged notes.
-# Copy to .git/hooks/pre-commit:
-#   cp scripts/pre-commit .git/hooks/pre-commit
-
-PYTHON=$(command -v py || command -v python || command -v python3)
-"$PYTHON" scripts/gen_git_history.py --staged
-git add data/git_history/
