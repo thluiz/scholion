@@ -151,7 +151,7 @@ O hook detecta notas staged, atualiza só os JSONs correspondentes e faz `git ad
 
 ## Deploy
 
-**Azure Static Web Apps** (plano Free). Push para `main` dispara build Hugo + deploy via GitHub Actions (workflow `azure-static-web-apps-zealous-forest-0dcc2601e.yml`).
+**AWS S3 + CloudFront** (us-east-1). Push para `main` dispara build Hugo + sync S3 + invalidação CloudFront via GitHub Actions (`.github/workflows/deploy.yml`).
 
 ## Histórico
 
