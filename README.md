@@ -95,7 +95,7 @@ scholion/
 │   ├── notes/single.html
 │   ├── research/single.html
 │   └── partials/        # extend-head-uncached, favicons, footer, scholion-pagination
-├── scripts/             # gen_git_history.py, pre-commit hook
+├── scripts/             # gen_git_history.py, pre-push hook
 ├── static/              # favicon.png
 └── themes/blowfish/     # submodule
 ```
@@ -148,9 +148,9 @@ cp scripts/pre-push .git/hooks/pre-push
 chmod +x .git/hooks/pre-push
 ```
 
-Antes de cada push, o hook roda `gen_git_history.py --all`. Se houver mudança, faz um commit `chore: update git history`. Esse commit só sobe no *próximo* push (o push actual já tem as refs resolvidas). Implicação: uma nota nova estreia sem histórico no site e só ganha a linha de mudança no push seguinte.
+Antes de cada push, o hook roda `gen_git_history.py --all`. Se houver mudança, faz um commit `chore: update git history`. Esse commit só sobe no *próximo* push (o push atual já tem as refs resolvidas). Implicação: uma nota nova estreia sem histórico no site e só ganha a linha de mudança no push seguinte.
 
-Para forçar actualização imediata, rodar manualmente:
+Para forçar atualização imediata, rodar manualmente:
 
 ```bash
 python scripts/gen_git_history.py --all

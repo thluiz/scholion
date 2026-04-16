@@ -5,6 +5,27 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
+## [0.5.0] — 2026-04-16
+
+### Alterado
+
+- **Deploy migrado para AWS S3 + CloudFront** (us-east-1). GitHub Actions builda
+  Hugo, sync S3 com cache diferenciado (HTML 1h, assets 1y immutable) e invalida
+  a distribution. Substitui Azure Static Web Apps.
+- **Hook de git history migrado para pre-push**. O pre-commit antigo falhava no
+  primeiro commit de uma nota — `git log --follow` retornava vazio para ficheiro
+  apenas staged e nenhum JSON era escrito. O pre-push roda `gen_git_history.py
+  --all` antes do envio; se houver diff, cria `chore: update git history` que
+  sobe no push seguinte.
+- **Mensagem de histórico ausente** passou a indicar que o JSON chega no próximo
+  deploy, em vez de apontar para docs de configuração.
+
+### Melhorado
+
+- **`gen_git_history.py` idempotente**: só escreve o JSON quando o conteúdo
+  diverge do existente. Escrita incondicional bumpava mtime em 310 ficheiros a
+  cada pre-push e forçava o `hugo server` a re-renderizar tudo.
+
 ## [0.4.0] — 2026-04-15
 
 ### Adicionado
