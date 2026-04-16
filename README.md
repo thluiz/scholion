@@ -141,13 +141,23 @@ python scripts/gen_git_history.py --all
 
 ### Atualização automática via hook
 
-Copie o hook pre-commit para que os JSONs sejam atualizados a cada commit:
+Copie o hook pre-push para que os JSONs sejam regenerados antes de cada push:
 
 ```bash
-cp scripts/pre-commit .git/hooks/pre-commit
+cp scripts/pre-push .git/hooks/pre-push
+chmod +x .git/hooks/pre-push
 ```
 
-O hook detecta notas staged, atualiza só os JSONs correspondentes e faz `git add` deles automaticamente.
+Antes de cada push, o hook roda `gen_git_history.py --all`. Se houver mudança, faz um commit `chore: update git history`. Esse commit só sobe no *próximo* push (o push actual já tem as refs resolvidas). Implicação: uma nota nova estreia sem histórico no site e só ganha a linha de mudança no push seguinte.
+
+Para forçar actualização imediata, rodar manualmente:
+
+```bash
+python scripts/gen_git_history.py --all
+git add data/git_history/
+git commit -m "chore: update git history"
+git push
+```
 
 ## Deploy
 
