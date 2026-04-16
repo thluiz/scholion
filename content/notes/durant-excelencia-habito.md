@@ -4,6 +4,8 @@ date: 2026-04-16T10:29:31+01:00
 category: quote
 summary: "Will Durant em The Story of Philosophy (1926), paráfrase do livro II da Ética a Nicômaco. Circula amplamente atribuída a Aristóteles."
 tags: ["will-durant", "aristoteles", "habito", "atribuicao-erronea"]
+pinned: true
+pin_weight: 93
 has_commentary: false
 sources:
   - title: "The Story of Philosophy"
