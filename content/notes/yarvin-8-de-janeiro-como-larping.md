@@ -3,11 +3,7 @@ title: 'Curtis Yarvin: o 8 de janeiro como LARPing'
 date: '2026-04-08T01:20:19+01:00'
 category: podcast
 summary: 00:17:10 — Curtis Yarvin e o 8 de janeiro como LARPing
-tags:
-- 8-de-janeiro
-- curtis-yarvin
-- larping
-- ecologia-da-mente
+tags: ["8-de-janeiro", "curtis-yarvin", "larping", "ecologia-da-mente", "viramaxxing-cesarino"]
 has_commentary: false
 sources:
 - title: 'Viracasacas #478 — Viramaxxing com Letícia Cesarino @ 00:17:10'

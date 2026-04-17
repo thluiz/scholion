@@ -2,10 +2,7 @@
 title: F# and OCaml
 date: '2026-04-04T08:24:00+01:00'
 summary: F# and OCaml are both members of the ML language family — together with Standard ML, the three most prominent ML dialects today.
-tags:
-- programming-languages
-- functional
-- ml-family
+tags: ["programming-languages", "functional", "ml-family"]
 has_commentary: true
 sources:
 - title: F# — Wikipedia

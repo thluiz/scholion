@@ -2,11 +2,7 @@
 title: 'Sinsan: nascido antes'
 date: '2026-04-08T18:02:30+01:00'
 summary: 先生 (Sinsan) é cantonês para "nascido antes". O Sensei japonês é cognato do mesmo composto. A rigor, qualquer pessoa nascida antes é Sinsan, mas o termo funciona como pronome de tratamento respeitoso,…
-tags:
-- china
-- linguagem
-- japao
-- chines-instrumental
+tags: ["china", "linguagem", "japao", "chines-instrumental"]
 has_commentary: true
 sources:
 - title: II Encontro de Chinês Instrumental

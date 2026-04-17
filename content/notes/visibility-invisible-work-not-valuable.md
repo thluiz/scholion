@@ -3,10 +3,7 @@ title: Invisible Work Isn't Valuable Work
 date: '2026-04-04T12:49:45+01:00'
 category: podcast
 summary: '00:36:27 — Visibility: Invisible Work Isn''t Valuable Work'
-tags:
-- visibility
-- career
-- remote-work
+tags: ["visibility", "career", "remote-work", "systems-thinking-humans"]
 has_commentary: false
 sources:
 - title: Systems Thinking for Humans — Fallthrough

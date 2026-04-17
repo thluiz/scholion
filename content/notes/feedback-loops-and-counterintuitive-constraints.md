@@ -3,7 +3,7 @@ title: "Feedback Loops and Counterintuitive Constraints"
 date: 2026-04-10T09:33:35+01:00
 category: podcast
 summary: "Modeling with real data reveals surprises — Larson discovered hiring was constrained by manager hiring, not engineer hiring, fundamentally changing where he invested his time."
-tags: ["systems-thinking", "engineering-management", "hiring"]
+tags: ["systems-thinking", "engineering-management", "hiring", "elegant-puzzle-larson"]
 has_commentary: false
 sources:
   - title: "Part 2: An Elegant Puzzle Book Discussion w/ Will Larson — Developer Tea"

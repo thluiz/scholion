@@ -3,10 +3,7 @@ title: 'Emergent Behavior: Measure, Don''t Predict'
 date: '2026-04-07T19:49:31+01:00'
 category: podcast
 summary: '00:14:37 — Emergent Behavior: Simple Rules, Complex Outcomes'
-tags:
-- systems-thinking
-- emergent-behavior
-- complex-systems
+tags: ["systems-thinking", "emergent-behavior", "complex-systems", "systems-thinking-akimbo"]
 has_commentary: true
 sources:
 - title: Systems Thinking

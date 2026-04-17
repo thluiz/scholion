@@ -3,7 +3,7 @@ title: "Five Systemic Perspectives as Analytical Lenses"
 date: 2026-04-09T22:47:44+01:00
 category: podcast
 summary: "Mechanistic, interrelationships, organismic, purposeful, and societal — five complementary lenses that stretch a leader's imagination for any challenge."
-tags: ["systems-thinking", "complexity", "methodology"]
+tags: ["systems-thinking", "complexity", "methodology", "systems-thinking-jackson"]
 has_commentary: false
 sources:
   - title: "Critical Systems Thinking with Michael C. Jackson — Thinkers & Ideas"

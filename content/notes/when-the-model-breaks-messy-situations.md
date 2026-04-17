@@ -3,7 +3,7 @@ title: "When the Model Breaks: Messy Situations Require Human Judgment"
 date: 2026-04-10T09:32:35+01:00
 category: podcast
 summary: "Models are useful but they miss things — when overlapping scenarios fall outside the system's coverage, managers must fall back on human judgment."
-tags: ["engineering-management", "systems-thinking", "decision-making"]
+tags: ["engineering-management", "systems-thinking", "decision-making", "elegant-puzzle-larson"]
 has_commentary: false
 sources:
   - title: "Part 2: An Elegant Puzzle Book Discussion w/ Will Larson — Developer Tea"

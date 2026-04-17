@@ -2,10 +2,7 @@
 title: Prototype-Based Programming
 date: '2026-04-04T08:22:52+01:00'
 summary: In prototype-based programming there are no classes. Objects inherit directly from other objects through a prototype link.
-tags:
-- software-engineering
-- javascript
-- object-oriented
+tags: ["software-engineering", "javascript", "object-oriented"]
 has_commentary: true
 sources:
 - title: Inheritance and the prototype chain — MDN

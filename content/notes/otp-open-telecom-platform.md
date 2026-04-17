@@ -2,10 +2,7 @@
 title: OTP (Open Telecom Platform)
 date: '2026-04-04T09:14:51+01:00'
 summary: OTP is a collection of middleware, libraries, and design principles for building applications in Erlang. The name stands for Open Telecom Platform — a branding attempt from Ericsson — but neither…
-tags:
-- software-engineering
-- erlang
-- concurrency
+tags: ["software-engineering", "erlang", "concurrency"]
 has_commentary: true
 sources:
 - title: Open Telecom Platform — Wikipedia

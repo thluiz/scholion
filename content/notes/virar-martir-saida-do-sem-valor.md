@@ -3,11 +3,7 @@ title: 'Virar mártir: a saída final do sem-valor'
 date: '2026-04-08T01:21:19+01:00'
 category: podcast
 summary: '00:40:18 — Virar mártir: a saída final do sem-valor'
-tags:
-- radicalizacao-misogina
-- incel
-- valor-de-mercado-sexual
-- martirio
+tags: ["radicalizacao-misogina", "incel", "valor-de-mercado-sexual", "martirio", "viramaxxing-cesarino"]
 has_commentary: true
 sources:
 - title: 'Viracasacas #478 — Viramaxxing com Letícia Cesarino @ 00:40:18'

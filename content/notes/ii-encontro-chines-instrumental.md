@@ -2,15 +2,7 @@
 title: II Encontro de Chinês Instrumental
 date: '2026-03-29T12:33:00+01:00'
 summary: 'Anotações do segundo encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O eixo do dia foi o vocabulário cantonês de mestria e linhagem: o substantivo Si e a teia de termos…'
-tags:
-- china
-- linguagem
-- kung-fu
-- sistemas
-- aulas
-- chines-instrumental
-- linhagem
-- np-chines-instrumental
+tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "linhagem", "np-chines-instrumental"]
 has_commentary: true
 sources: []
 ---

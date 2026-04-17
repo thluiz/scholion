@@ -3,10 +3,7 @@ title: Give-First Mentality Over Transactional Networking
 date: '2026-04-04T12:48:45+01:00'
 category: podcast
 summary: 00:30:37 — Give-First Mentality Over Transactional Networking
-tags:
-- networking
-- relationships
-- career
+tags: ["networking", "relationships", "career", "systems-thinking-humans"]
 has_commentary: false
 sources:
 - title: Systems Thinking for Humans — Fallthrough

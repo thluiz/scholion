@@ -3,10 +3,7 @@ title: "I am fundamentally an optimist. Whether that comes from nature or nurtur
 date: '2022-02-27T14:16:47Z'
 category: quote
 summary: 'Nelson Mandela, Long Walk to Freedom: The Autobiography of Nelson Mandela (Little, Brown, 1994).'
-tags:
-- nelson-mandela
-- filosofia
-- política
+tags: ["nelson-mandela", "filosofia", "política"]
 has_commentary: false
 sources:
 - title: '*Long Walk to Freedom* — Nelson Mandela (1994)'

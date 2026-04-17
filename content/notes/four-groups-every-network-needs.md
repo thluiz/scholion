@@ -3,10 +3,7 @@ title: Four Groups Every Network Needs
 date: '2026-04-04T12:47:45+01:00'
 category: podcast
 summary: 00:29:23 — Four Groups Every Network Needs
-tags:
-- networking
-- career
-- relationships
+tags: ["networking", "career", "relationships", "systems-thinking-humans"]
 has_commentary: false
 sources:
 - title: Systems Thinking for Humans — Fallthrough

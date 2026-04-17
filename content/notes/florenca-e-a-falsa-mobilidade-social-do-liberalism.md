@@ -3,7 +3,7 @@ title: "Florença e a falsa mobilidade social do liberalismo"
 date: 2026-04-10T10:51:08+01:00
 category: podcast
 summary: "Pesquisa sobre impostos em Florença mostra que as mesmas famílias ricas de 600 anos atrás continuam ricas — uma lógica feudal que desmente a mobilidade prometida."
-tags: ["neoliberalismo", "desigualdade", "mobilidade-social"]
+tags: ["neoliberalismo", "desigualdade", "mobilidade-social", "safatle-fascismo-ilustrissima"]
 has_commentary: false
 sources:
   - title: "Vladimir Safatle: O que vemos hoje não é metáfora, é o fascismo mesmo — Ilustríssima Conversa"

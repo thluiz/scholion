@@ -3,7 +3,7 @@ title: "IC vs Management: A Longer Career Than You Think"
 date: 2026-04-10T09:34:35+01:00
 category: podcast
 summary: "The IC-vs-management decision feels permanent when you think in 10-year terms — but in a 30-40 year career, it's far less binary than it appears."
-tags: ["engineering-management", "career", "software-engineering"]
+tags: ["engineering-management", "career", "software-engineering", "elegant-puzzle-larson"]
 has_commentary: false
 sources:
   - title: "Part 2: An Elegant Puzzle Book Discussion w/ Will Larson — Developer Tea"

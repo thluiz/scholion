@@ -3,7 +3,7 @@ title: "Fascismo se apresenta como Modernização"
 date: 2026-04-10T10:51:15+01:00
 category: podcast
 summary: "O fascismo histórico se apresentou como modernização — futurismo italiano, integralismo brasileiro — reinterpretando massacres como custo necessário do progresso."
-tags: ["fascismo", "modernizacao", "integralismo"]
+tags: ["fascismo", "modernizacao", "integralismo", "safatle-fascismo-ilustrissima"]
 has_commentary: false
 sources:
   - title: "Vladimir Safatle: O que vemos hoje não é metáfora, é o fascismo mesmo — Ilustríssima Conversa"

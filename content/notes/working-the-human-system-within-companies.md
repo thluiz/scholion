@@ -3,10 +3,7 @@ title: Working the Human System Within Companies
 date: '2026-04-04T12:50:45+01:00'
 category: podcast
 summary: 00:38:11 — Working the Human System Within Companies
-tags:
-- systems-thinking
-- career
-- engineering
+tags: ["systems-thinking", "career", "engineering", "systems-thinking-humans"]
 has_commentary: false
 sources:
 - title: Systems Thinking for Humans — Fallthrough

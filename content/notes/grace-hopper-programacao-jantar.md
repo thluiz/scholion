@@ -3,10 +3,7 @@ title: "It's just like planning a dinner. You have to plan ahead and schedule ev
 date: '2022-02-27T14:16:47Z'
 category: quote
 summary: Grace Hopper, entrevistada por Lois Mandel para a Cosmopolitan em abril de 1967. O artigo — "The Computer Girls" — argumentava que programação era uma carreira natural para mulheres numa época em que…
-tags:
-- grace-hopper
-- tecnico
-- história
+tags: ["grace-hopper", "tecnico", "história"]
 has_commentary: false
 sources:
 - title: '"The Computer Girls" — Cosmopolitan, abril de 1967'

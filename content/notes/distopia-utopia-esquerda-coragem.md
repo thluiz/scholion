@@ -3,7 +3,7 @@ title: "Se a deles é distopia, a nossa tem que ser utopia"
 date: 2026-04-16T21:06:35+01:00
 category: podcast
 summary: "A direita tem um plano concreto de futuro, ainda que apocalíptico. Opor-se a ele não é, por si só, um plano — e a esquerda não tem coragem de nomear sua utopia."
-tags: ["esquerda", "utopia", "distopia", "politica"]
+tags: ["esquerda", "utopia", "distopia", "politica", "melancolia-esquerda"]
 has_commentary: false
 sources:
   - title: '#479 "Resistindo à Melancolia de Esquerda" — Viracasacas Podcast'

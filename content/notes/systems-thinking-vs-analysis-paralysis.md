@@ -3,7 +3,7 @@ title: "Systems Thinking vs Analysis Paralysis"
 date: 2026-04-09T22:24:37+01:00
 category: podcast
 summary: "Do the next right thing — for systems thinkers who see across domains, the immediate decision is a productive constraint against the paralysis of optimizing the entire trajectory."
-tags: ["systems-thinking", "analysis-paralysis", "constraints"]
+tags: ["systems-thinking", "analysis-paralysis", "constraints", "think-in-systems-cerminaro"]
 has_commentary: false
 sources:
   - title: "How to Think in Systems: Deirdre Cerminaro — Creative Confidence Podcast"

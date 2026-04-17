@@ -2,15 +2,7 @@
 title: 'Cham (尋): tatear com a mão'
 date: '2026-04-08T18:00:00+01:00'
 summary: Cham (尋), no termo Cham Kiu (尋橋), significa "procurar", mas não no sentido de investigar ou pesquisar. É procurar com a mão, tatear, ato físico. A etimologia do ideograma confirma. A decupagem do…
-tags:
-- china
-- linguagem
-- cantones
-- kung-fu
-- ving-tsun
-- etimologia
-- cham-kiu
-- chines-instrumental
+tags: ["china", "linguagem", "cantones", "kung-fu", "ving-tsun", "etimologia", "cham-kiu", "chines-instrumental"]
 has_commentary: true
 sources:
 - title: IV Encontro de Chinês Instrumental

@@ -2,10 +2,7 @@
 title: Gang of Four Design Patterns
 date: '2026-04-04T08:30:50+01:00'
 summary: 'The 23 design patterns catalogued by Gamma, Helm, Johnson and Vlissides in Design Patterns: Elements of Reusable Object-Oriented Software (1994).'
-tags:
-- software-engineering
-- design-patterns
-- gang-of-four
+tags: ["software-engineering", "design-patterns", "gang-of-four"]
 has_commentary: true
 sources:
 - title: 'Design Patterns: Elements of Reusable Object-Oriented Software — Wikipedia'

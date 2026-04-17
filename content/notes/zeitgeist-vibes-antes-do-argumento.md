@@ -3,11 +3,7 @@ title: A vibe recruta antes do argumento
 date: '2026-04-08T01:26:19+01:00'
 category: podcast
 summary: '01:05:07 — Zeitgeist aceleracionista: a vibe recruta antes do argumento'
-tags:
-- aceleracionismo
-- nick-land
-- ecologia-da-mente
-- extrema-direita
+tags: ["aceleracionismo", "nick-land", "ecologia-da-mente", "extrema-direita", "viramaxxing-cesarino"]
 has_commentary: true
 sources:
 - title: 'Viracasacas #478 — Viramaxxing com Letícia Cesarino @ 01:05:07'

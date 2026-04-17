@@ -2,10 +2,7 @@
 title: O problema de três corpos nasce com Newton
 date: '2026-04-02T22:26:00+01:00'
 summary: O problema de três corpos aparece já com Newton. Na Proposição 66 do Livro 1 dos Principia (1687) e nos seus 22 corolários, Newton deu os primeiros passos no estudo do movimento de três massas sob…
-tags:
-- fisica
-- historia-da-ciencia
-- caos
+tags: ["fisica", "historia-da-ciencia", "caos"]
 has_commentary: true
 sources:
 - title: Three-body problem — Wikipedia

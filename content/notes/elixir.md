@@ -2,10 +2,7 @@
 title: Elixir
 date: '2026-04-04T09:15:51+01:00'
 summary: Elixir is a functional, concurrent language created by José Valim that runs on the BEAM virtual machine. It builds on Erlang's strengths — fault-tolerance, distribution, the actor model — while…
-tags:
-- programming-languages
-- functional
-- concurrency
+tags: ["programming-languages", "functional", "concurrency"]
 has_commentary: false
 sources:
 - title: Elixir — Wikipedia

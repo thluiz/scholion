@@ -3,7 +3,7 @@ title: "Safatle define Fascismo: Desaparecimento do diferente?"
 date: 2026-04-10T10:51:07+01:00
 category: podcast
 summary: "Fascismo é violência que reconstrói sujeitos até que não se sinta mais o desaparecimento do outro — ele já não é percebido como parte do mesmo corpo social."
-tags: ["fascismo", "filosofia", "dessensibilizacao"]
+tags: ["fascismo", "filosofia", "dessensibilizacao", "safatle-fascismo-ilustrissima"]
 has_commentary: false
 sources:
   - title: "Vladimir Safatle: O que vemos hoje não é metáfora, é o fascismo mesmo — Ilustríssima Conversa"

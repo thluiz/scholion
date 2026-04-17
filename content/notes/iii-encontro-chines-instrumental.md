@@ -2,15 +2,7 @@
 title: III Encontro de Chinês Instrumental
 date: '2026-04-04T17:00:00+01:00'
 summary: 'Anotações do terceiro encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O eixo do dia foi siu nim tau (小念頭) tomado como domínio: como se pronuncia em Mandarim e em Cantonês,…'
-tags:
-- china
-- linguagem
-- kung-fu
-- sistemas
-- aulas
-- chines-instrumental
-- siu-nim-tau
-- np-chines-instrumental
+tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "siu-nim-tau", "np-chines-instrumental"]
 has_commentary: true
 sources: []
 ---

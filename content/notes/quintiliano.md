@@ -2,10 +2,7 @@
 title: Quintiliano
 date: '2026-03-30T12:00:00+01:00'
 summary: Marcus Fabius Quintilianus foi um retórico romano do século I d.C., nascido na Hispânia por volta de 35 d.C. É mais conhecido pela Institutio Oratoria, um tratado sobre educação e oratória em 12…
-tags:
-- filosofia
-- história
-- retórica
+tags: ["filosofia", "história", "retórica"]
 pinned: true
 pin_weight: 55
 has_commentary: true

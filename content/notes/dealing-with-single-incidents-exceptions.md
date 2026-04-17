@@ -3,7 +3,7 @@ title: "Dealing with Single Incidents Exceptions"
 date: 2026-04-09T23:02:49+01:00
 category: podcast
 summary: "Don't treat a single incident as representative reality — look at the distribution like a flame graph, and design processes that handle exceptions fairly."
-tags: ["engineering-management", "decision-making", "leadership"]
+tags: ["engineering-management", "decision-making", "leadership", "elegant-puzzle-larson"]
 has_commentary: false
 sources:
   - title: "Part 1: An Elegant Puzzle Book Discussion w/ Will Larson — Developer Tea"

@@ -2,9 +2,7 @@
 title: Kung Fu para Filósofos
 date: '2019-11-04T00:00:00Z'
 summary: 'Os quatro empregos da noção de Kung Fu segundo Peimin Ni:'
-tags:
-- kungfu
-- filosofia
+tags: ["kungfu", "filosofia"]
 has_commentary: false
 sources: []
 ---

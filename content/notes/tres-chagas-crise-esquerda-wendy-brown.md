@@ -3,7 +3,7 @@ title: "As três chagas da crise da esquerda segundo Wendy Brown"
 date: 2026-04-16T21:03:35+01:00
 category: podcast
 summary: "Brown identifica três ingredientes do caldeirão melancólico — triunfo neoliberal (Thatcher, Reagan, Gingrich), metamorfose cultural e queda do socialismo real."
-tags: ["wendy-brown", "melancolia", "neoliberalismo", "esquerda"]
+tags: ["wendy-brown", "melancolia", "neoliberalismo", "esquerda", "melancolia-esquerda"]
 has_commentary: false
 sources:
   - title: '#479 "Resistindo à Melancolia de Esquerda" — Viracasacas Podcast'

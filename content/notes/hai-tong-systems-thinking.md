@@ -2,10 +2,7 @@
 title: 系統 Hai Tong - Hǎi Tóng
 date: '2026-03-31T18:58:00+01:00'
 summary: 'Holism over Reductionism: Classical Chinese thought rejects isolating parts; everything interconnects via qi, yin-yang, and wuxing (Five Phases: Wood, Fire, Earth, Metal, Water), mirroring systems…'
-tags:
-- systems-thinking
-- chinese-philosophy
-- holism
+tags: ["systems-thinking", "chinese-philosophy", "holism"]
 has_commentary: true
 sources:
 - title: 'Systems Thinking: A Comparison between Chinese and Western Approaches — ScienceDirect'

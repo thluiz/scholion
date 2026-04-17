@@ -3,9 +3,7 @@ title: Triplo sentido de 'O Mundo Fora da Pedra'
 date: '2026-03-30T09:40:00+01:00'
 category: podcast
 summary: 'Rita desdobra o triplo sentido do título O Mundo Fora da Pedra:'
-tags:
-- filosofia
-- literatura
+tags: ["filosofia", "literatura", "mito-indigena-carelli"]
 has_commentary: false
 sources:
 - title: Rita Carelli — Mito indígena evoca origem comum de todos os povos

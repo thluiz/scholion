@@ -3,10 +3,7 @@ title: Thoughts Shape Reality, Systems Produce Thoughts
 date: '2026-04-02T19:58:34+01:00'
 category: podcast
 summary: 00:00:00 — Thoughts Shape Reality, Systems Produce Thoughts
-tags:
-- systems-thinking
-- metacognition
-- self-improvement
+tags: ["systems-thinking", "metacognition", "self-improvement"]
 has_commentary: false
 sources:
 - title: Applying Systems Thinking for Better Thoughts — Vox

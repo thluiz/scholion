@@ -3,10 +3,7 @@ title: Meta-Thinking as Designing Your Mental Context
 date: '2026-04-02T20:00:34+01:00'
 category: podcast
 summary: 00:07:07 — Meta-Thinking as Designing Your Mental Context
-tags:
-- systems-thinking
-- metacognition
-- self-improvement
+tags: ["systems-thinking", "metacognition", "self-improvement"]
 has_commentary: true
 sources:
 - title: Applying Systems Thinking for Better Thoughts — Vox

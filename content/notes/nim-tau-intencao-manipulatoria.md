@@ -2,13 +2,7 @@
 title: Nim Tau é intenção manipulatória
 date: '2026-04-08T18:32:30+01:00'
 summary: 'Como expressão linguística, e não como soma dos caracteres isolados, 念頭 (Nim Tau) significa intenção. Si Fu foi específico sobre o tipo: intenção manipulatória, intenção que é vítima de intervenção,…'
-tags:
-- china
-- linguagem
-- kung-fu
-- ving-tsun
-- siu-nim-tau
-- chines-instrumental
+tags: ["china", "linguagem", "kung-fu", "ving-tsun", "siu-nim-tau", "chines-instrumental"]
 has_commentary: true
 sources:
 - title: III Encontro de Chinês Instrumental

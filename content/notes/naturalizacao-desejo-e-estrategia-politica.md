@@ -3,11 +3,7 @@ title: Naturalização, desejo e estratégia política
 date: '2026-03-31T16:08:00+01:00'
 category: podcast
 summary: 00:28:05 — Melancolia industrial e a fábrica da Brahma em Passo Fundo
-tags:
-- realismo-capitalista
-- mark-fischer
-- desejo
-- esquerda
+tags: ["realismo-capitalista", "mark-fischer", "desejo", "esquerda", "fisher-fisherianos-12"]
 pinned: true
 has_commentary: true
 sources:

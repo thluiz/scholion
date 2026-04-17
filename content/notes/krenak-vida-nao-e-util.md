@@ -2,10 +2,7 @@
 title: A vida não é útil — Ailton Krenak
 date: '2021-01-05T13:57:53Z'
 summary: 'Ailton Krenak desconstrói a ideia do utilitarismo do existir: a vida não deve ser reduzida à lógica mercantil de fazer coisas "úteis" para "ganhar mais" — esse modo de vida "devora o planeta" e…'
-tags:
-- filosofia
-- política
-- brasil
+tags: ["filosofia", "política", "brasil"]
 pinned: true
 pin_weight: 85
 has_commentary: true

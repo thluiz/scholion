@@ -2,10 +2,7 @@
 title: CQRS
 date: '2026-04-04T08:16:25+01:00'
 summary: CQRS — Command Query Responsibility Segregation — is a pattern first described by Greg Young. At its heart is the notion that you can use a different model to update information than the model you…
-tags:
-- software-engineering
-- architecture
-- design-patterns
+tags: ["software-engineering", "architecture", "design-patterns"]
 has_commentary: true
 sources:
 - title: CQRS — Martin Fowler

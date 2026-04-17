@@ -2,10 +2,7 @@
 title: 20.000 passos por dia
 date: '2020-11-06T21:17:10Z'
 summary: Isaac Fitzgerald conta como, na pandemia, uma notificação do iPhone — "você está caminhando menos do que em 2019" — o levou a começar a caminhar 20.000 passos por dia no Prospect Park, em Brooklyn.
-tags:
-- vida kung fu
-- saúde
-- hábitos
+tags: ["vida kung fu", "saúde", "hábitos"]
 has_commentary: true
 sources:
 - title: When Covid hit, I started walking 20,000 steps a day — The Guardian

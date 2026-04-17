@@ -3,9 +3,7 @@ title: Comunicação indireta e coisas não ditas
 date: '2026-04-02T19:17:00+01:00'
 category: podcast
 summary: O roteirista Eskil Fogt contou ao festival de Locarno que o filme é sobre comunicação indireta numa família cheia de coisas não ditas, e que de certa forma também é sobre o quão difícil é fazer…
-tags:
-- cinema
-- comunicacao
+tags: ["cinema", "comunicacao", "cinematico-577-valor-sentimental"]
 has_commentary: false
 sources:
 - title: 'Cinemático #577 - Valor Sentimental'

@@ -3,10 +3,7 @@ title: Noise Is More Than Static on the Line
 date: '2026-04-02T19:10:50+01:00'
 category: podcast
 summary: 00:09:26 — Noise Is More Than Static on the Line
-tags:
-- communication
-- cognitive-bias
-- professional-development
+tags: ["communication", "cognitive-bias", "professional-development", "dcr-great-developer"]
 has_commentary: false
 sources:
 - title: 'DCR: Traits of a Great Developer - Communications Model Deep Dive — Vox'

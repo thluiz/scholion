@@ -3,10 +3,7 @@ title: Filosofia como prática social e ciclos linguísticos
 date: '2026-04-03T08:49:30+01:00'
 category: podcast
 summary: 01:34:51 — Filosofia como prática social inseparável do idioma
-tags:
-- pensamento-chinês
-- filosofia
-- linguagem
+tags: ["pensamento-chinês", "filosofia", "linguagem", "pensamento-chines-sinedino"]
 has_commentary: true
 sources:
 - title: '#113 — Pensamento Chinês, Giorgio Sinedino'

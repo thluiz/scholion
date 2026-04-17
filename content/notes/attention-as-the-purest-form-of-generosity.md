@@ -3,11 +3,7 @@ title: Attention as the purest form of generosity
 date: '2026-04-02T12:20:00-03:00'
 category: podcast
 summary: 00:22:14 — Attention as the Purest Form of Generosity
-tags:
-- philosophy
-- attention
-- simone-weil
-- ethics
+tags: ["philosophy", "attention", "simone-weil", "ethics"]
 has_commentary: true
 sources:
 - title: The Power of Attention in a World of Distraction — Vox

@@ -2,11 +2,7 @@
 title: Senioridade é tempo de mestria, não idade biológica
 date: '2026-04-08T18:03:30+01:00'
 summary: Senioridade na família Kung Fu é tempo de mestria, não idade biológica. O exemplo recorrente é a faixa vermelha da família Gracie, que só vem após os 65, e é critério etário puro. Aqui o critério é…
-tags:
-- kung-fu
-- ving-tsun
-- mestria
-- chines-instrumental
+tags: ["kung-fu", "ving-tsun", "mestria", "chines-instrumental"]
 has_commentary: true
 sources:
 - title: II Encontro de Chinês Instrumental

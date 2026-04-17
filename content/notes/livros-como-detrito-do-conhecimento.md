@@ -2,12 +2,7 @@
 title: Livros como detrito do conhecimento
 date: '2026-04-08T18:10:00+01:00'
 summary: Si Fu citou um pensador chinês que chamava os livros de "detrito do conhecimento". A escrita congela o conceito, omite a evolução histórica daquilo, e perde o contexto vivo da conversa que originou o…
-tags:
-- china
-- epistemologia
-- escrita
-- transmissao
-- chines-instrumental
+tags: ["china", "epistemologia", "escrita", "transmissao", "chines-instrumental"]
 has_commentary: true
 sources:
 - title: IV Encontro de Chinês Instrumental

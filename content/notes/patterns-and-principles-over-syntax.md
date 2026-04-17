@@ -3,10 +3,7 @@ title: Patterns and Principles Over Syntax Details
 date: '2026-04-04T12:28:34+01:00'
 category: podcast
 summary: 00:09:46 — Patterns and Principles Over Syntax Details
-tags:
-- developer-career
-- software-development
-- metacognition
+tags: ["developer-career", "software-development", "metacognition", "devs-google-errors"]
 has_commentary: false
 sources:
 - title: Why Great Developers Still Google Their Errors — Vox

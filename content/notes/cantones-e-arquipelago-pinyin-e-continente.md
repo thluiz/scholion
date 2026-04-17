@@ -2,12 +2,7 @@
 title: Cantonês é arquipélago, Pinyin é continente
 date: '2026-04-08T16:50:30+01:00'
 summary: O Cantonês não tem um sistema oficial de transliteração equivalente ao Pinyin. Sobram vários métodos concorrentes de escrita romanizada (Jyutping, Yale, e o método que cada família inventou para…
-tags:
-- china
-- linguagem
-- cantones
-- identidade
-- chines-instrumental
+tags: ["china", "linguagem", "cantones", "identidade", "chines-instrumental"]
 has_commentary: true
 sources:
 - title: I Encontro de Chinês Instrumental

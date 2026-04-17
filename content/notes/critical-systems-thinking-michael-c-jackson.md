@@ -3,7 +3,7 @@ title: "Critical Systems Thinking by Michael C. Jackson"
 date: 2026-04-09T22:45:44+01:00
 category: podcast
 summary: "Critical systems thinking integrates competing strands into a coherent framework that enhances — not replaces — a leader's existing experience, filling gaps traditional MBA toolkits miss."
-tags: ["systems-thinking", "complexity", "leadership"]
+tags: ["systems-thinking", "complexity", "leadership", "systems-thinking-jackson"]
 has_commentary: false
 sources:
   - title: "Critical Systems Thinking with Michael C. Jackson — Thinkers & Ideas"

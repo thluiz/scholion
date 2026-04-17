@@ -2,10 +2,7 @@
 title: Peter Principle
 date: '2026-04-04T08:11:37+01:00'
 summary: '"In a hierarchy, every employee tends to rise to his level of incompetence."'
-tags:
-- management
-- career
-- organizational-behavior
+tags: ["management", "career", "organizational-behavior"]
 has_commentary: false
 sources:
 - title: Peter principle — Wikipedia

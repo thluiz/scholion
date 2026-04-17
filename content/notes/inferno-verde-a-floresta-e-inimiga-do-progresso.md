@@ -3,7 +3,7 @@ title: "Inferno Verde: A floresta é inimiga do progresso"
 date: 2026-04-10T10:51:14+01:00
 category: podcast
 summary: "Nas memórias de JK, a floresta amazônica era o inimigo — obstáculo ao Brasil ser si mesmo. O entusiasmo em derrubar árvores ajuda a entender como o país foi construído."
-tags: ["brasil", "amazonia", "modernizacao"]
+tags: ["brasil", "amazonia", "modernizacao", "safatle-fascismo-ilustrissima"]
 has_commentary: false
 sources:
   - title: "Vladimir Safatle: O que vemos hoje não é metáfora, é o fascismo mesmo — Ilustríssima Conversa"

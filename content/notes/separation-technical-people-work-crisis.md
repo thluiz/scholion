@@ -3,10 +3,7 @@ title: Separating Technical and People Work Causes Crisis
 date: '2026-04-04T12:45:45+01:00'
 category: podcast
 summary: 00:14:01 — Separation of Technical and People Work Causes the Crisis
-tags:
-- engineering
-- mentorship
-- career
+tags: ["engineering", "mentorship", "career", "systems-thinking-humans"]
 has_commentary: false
 sources:
 - title: Systems Thinking for Humans — Fallthrough

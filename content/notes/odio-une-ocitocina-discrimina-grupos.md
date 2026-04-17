@@ -3,10 +3,7 @@ title: Odio une, ocitocina discrimina grupos
 date: '2026-04-09T12:52:00+01:00'
 category: podcast
 summary: '00:29:26 — Odio une, ocitocina discrimina grupos'
-tags:
-- violencia
-- neurociencia
-- politica
+tags: ["violencia", "neurociencia", "politica", "naruhodo-436-violencia"]
 has_commentary: false
 sources:
 - title: 'Naruhodo #436 - A violencia faz parte da natureza humana? — Vox'

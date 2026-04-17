@@ -3,10 +3,7 @@ title: 'Zongjiao: culto dos antepassados e ensino dos sábios'
 date: '2026-04-02T23:05:35+01:00'
 category: podcast
 summary: '00:12:03 — Zongjiao: culto dos antepassados e ensino dos sábios'
-tags:
-- systems-thinking
-- philosophy
-- china
+tags: ["systems-thinking", "philosophy", "china", "pensamento-chines-sinedino"]
 has_commentary: false
 sources:
 - title: '#113 – Pensamento Chinês, Giorgio Sinedino — Filosofia Pop'

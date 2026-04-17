@@ -2,14 +2,7 @@
 title: I Encontro de Chinês Instrumental
 date: '2026-03-21T22:21:00+01:00'
 summary: 'Anotações do primeiro encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O recorte combinado foi Chinês instrumental, mas esse primeiro encontro percorreu o mapa todo: como…'
-tags:
-- china
-- linguagem
-- kung-fu
-- sistemas
-- aulas
-- chines-instrumental
-- np-chines-instrumental
+tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental"]
 has_commentary: true
 sources: []
 ---

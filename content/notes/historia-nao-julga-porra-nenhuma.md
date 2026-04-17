@@ -3,7 +3,7 @@ title: "A história não julga porra nenhuma"
 date: 2026-04-16T21:10:35+01:00
 category: podcast
 summary: "Divan demole o consolo messiânico: nazistas e torturadores morreram em casa. Se a história não é tribunal pendente, a exigência de acção passa inteira ao presente."
-tags: ["historia", "esquerda", "politica", "melancolia"]
+tags: ["historia", "esquerda", "politica", "melancolia", "melancolia-esquerda"]
 has_commentary: false
 sources:
   - title: '#479 "Resistindo à Melancolia de Esquerda" — Viracasacas Podcast'

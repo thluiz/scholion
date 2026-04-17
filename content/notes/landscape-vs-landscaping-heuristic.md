@@ -3,10 +3,7 @@ title: Landscape vs Landscaping Heuristic
 date: '2026-04-07T19:47:31+01:00'
 category: podcast
 summary: '00:33:22 — Landscape Versus Landscaping: Know What You Can Change'
-tags:
-- systems-thinking
-- developer-mindset
-- complex-systems
+tags: ["systems-thinking", "developer-mindset", "complex-systems", "systems-thinking-akimbo"]
 has_commentary: false
 sources:
 - title: Systems Thinking

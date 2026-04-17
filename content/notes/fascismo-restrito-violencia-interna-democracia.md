@@ -3,7 +3,7 @@ title: "Fascismo restrito: a violência interna da democracia liberal"
 date: 2026-04-10T10:25:38+01:00
 category: podcast
 summary: "Safatle propõe trocar 'democracia liberal' por 'fascismo restrito' — as democracias ocidentais sempre mantiveram zonas onde o Estado podia matar."
-tags: ["fascismo", "democracia", "colonialismo"]
+tags: ["fascismo", "democracia", "colonialismo", "safatle-fascismo-ilustrissima"]
 has_commentary: false
 sources:
   - title: "Vladimir Safatle: O que vemos hoje não é metáfora, é o fascismo mesmo — Ilustríssima Conversa"

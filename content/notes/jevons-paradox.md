@@ -2,10 +2,7 @@
 title: Jevons Paradox
 date: '2026-04-02T21:25:58+01:00'
 summary: In 1865, economist William Stanley Jevons observed that as steam engines became more efficient, Britain's coal consumption didn't drop — it exploded. Technological improvements that increase the…
-tags:
-- economics
-- efficiency
-- resource-consumption
+tags: ["economics", "efficiency", "resource-consumption"]
 has_commentary: false
 sources:
 - title: Jevons paradox — Wikipedia

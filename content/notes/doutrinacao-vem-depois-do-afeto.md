@@ -3,11 +3,7 @@ title: A doutrinação vem depois do afeto
 date: '2026-04-08T01:27:19+01:00'
 category: podcast
 summary: 01:06:10 — Doutrinação vem depois; e se agíssemos como se já tivesse colapsado?
-tags:
-- radicalizacao
-- afetos
-- aceleracionismo
-- soberania-digital
+tags: ["radicalizacao", "afetos", "aceleracionismo", "soberania-digital", "viramaxxing-cesarino"]
 has_commentary: true
 sources:
 - title: 'Viracasacas #478 — Viramaxxing com Letícia Cesarino @ 01:06:10'

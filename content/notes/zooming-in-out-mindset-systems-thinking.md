@@ -3,7 +3,7 @@ title: "Zooming in and zooming out as a mindset for Systems Thinking"
 date: 2026-04-09T22:25:37+01:00
 category: podcast
 summary: "Continuously oscillate between macro and micro — stay zoomed out too long and you freeze; stay zoomed in too long and you lose the bigger picture."
-tags: ["systems-thinking", "design-thinking", "mindset"]
+tags: ["systems-thinking", "design-thinking", "mindset", "think-in-systems-cerminaro"]
 has_commentary: false
 sources:
   - title: "How to Think in Systems: Deirdre Cerminaro — Creative Confidence Podcast"

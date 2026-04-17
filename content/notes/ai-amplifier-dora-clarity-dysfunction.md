@@ -3,10 +3,7 @@ title: 'AI as Amplifier: Clarity or Dysfunction'
 date: '2026-04-04T12:44:45+01:00'
 category: podcast
 summary: '00:10:07 — AI as Amplifier: DORA Report on Clarity vs Dysfunction'
-tags:
-- ai
-- systems-thinking
-- engineering
+tags: ["ai", "systems-thinking", "engineering", "systems-thinking-humans"]
 has_commentary: false
 sources:
 - title: Systems Thinking for Humans — Fallthrough

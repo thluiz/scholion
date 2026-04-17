@@ -3,7 +3,7 @@ title: "Esperança política sem teleologia: Brown contra o providencialismo"
 date: 2026-04-16T21:08:35+01:00
 category: podcast
 summary: "Brown convoca a esquerda a formular esperança política que não se apoie na muleta teleológica de achar que a história marcha automaticamente do seu lado."
-tags: ["wendy-brown", "esperanca", "teleologia", "esquerda"]
+tags: ["wendy-brown", "esperanca", "teleologia", "esquerda", "melancolia-esquerda"]
 has_commentary: false
 sources:
   - title: '#479 "Resistindo à Melancolia de Esquerda" — Viracasacas Podcast'

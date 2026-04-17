@@ -2,10 +2,7 @@
 title: Erlang
 date: '2026-04-04T09:13:51+01:00'
 summary: Erlang is a concurrent, functional programming language created by Joe Armstrong, Robert Virding, and Mike Williams at Ericsson in 1986 to improve the development of telephony applications. It was…
-tags:
-- programming-languages
-- functional
-- concurrency
+tags: ["programming-languages", "functional", "concurrency"]
 has_commentary: true
 sources:
 - title: Erlang — Wikipedia

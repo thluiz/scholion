@@ -2,10 +2,7 @@
 title: Four Rules of Simple Design
 date: '2026-04-04T08:15:26+01:00'
 summary: 'Kent Beck formulated four rules of simple design while developing Extreme Programming in the late 1990s. A design is simple, in priority order, when it:'
-tags:
-- software-engineering
-- design-principles
-- extreme-programming
+tags: ["software-engineering", "design-principles", "extreme-programming"]
 has_commentary: true
 sources:
 - title: Beck Design Rules — Martin Fowler

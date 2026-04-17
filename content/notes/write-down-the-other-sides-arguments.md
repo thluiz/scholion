@@ -3,10 +3,7 @@ title: Write down the other side's arguments
 date: '2026-03-31T12:00:00+01:00'
 category: podcast
 summary: '00:14:40 — Exercise: write down the other side''s arguments'
-tags:
-- humility
-- professional-development
-- mindset
+tags: ["humility", "professional-development", "mindset", "dcr-great-developer"]
 has_commentary: false
 sources:
 - title: 'Source: DCR: Traits of A Great Developer - Humility (Developer Tea)'

@@ -3,11 +3,7 @@ title: O sinal do dinheiro (Wendy Brown)
 date: '2026-04-08T01:22:19+01:00'
 category: podcast
 summary: '00:43:28 — O sinal do dinheiro: trilhão de dólares = não pode estar errado'
-tags:
-- wendy-brown
-- neoliberalismo
-- elon-musk
-- ordens-espontaneas
+tags: ["wendy-brown", "neoliberalismo", "elon-musk", "ordens-espontaneas", "viramaxxing-cesarino"]
 has_commentary: true
 sources:
 - title: 'Viracasacas #478 — Viramaxxing com Letícia Cesarino @ 00:43:28'

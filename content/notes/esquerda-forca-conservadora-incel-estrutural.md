@@ -3,7 +3,7 @@ title: "A esquerda como força conservadora: de CLT-saudosa a incel-estrutural"
 date: 2026-04-16T21:07:35+01:00
 category: podcast
 summary: "Divan e Abau convergem: agarrada a categorias de outra época, a esquerda vira força conservadora; e a nostalgia do sindicatão partilha estrutura com o lamento redpill."
-tags: ["esquerda", "conservadorismo", "nostalgia", "wendy-brown"]
+tags: ["esquerda", "conservadorismo", "nostalgia", "wendy-brown", "melancolia-esquerda"]
 has_commentary: false
 sources:
   - title: '#479 "Resistindo à Melancolia de Esquerda" — Viracasacas Podcast'

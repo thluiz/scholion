@@ -3,10 +3,7 @@ title: Definicao de violencia da OMS
 date: '2026-04-09T12:50:00+01:00'
 category: podcast
 summary: '00:17:22 — Definicao de violencia da OMS: intencionalidade'
-tags:
-- violencia
-- sociologia
-- psicologia
+tags: ["violencia", "sociologia", "psicologia", "naruhodo-436-violencia"]
 has_commentary: false
 sources:
 - title: 'Naruhodo #436 - A violencia faz parte da natureza humana? — Vox'

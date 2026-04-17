@@ -2,10 +2,7 @@
 title: Por que não uso MediatR para CQRS
 date: '2022-02-27T14:16:47Z'
 summary: Cezary Piatek argumenta que MediatR é uma boa implementação do padrão mediator — mas o mediator pattern resolve um problema diferente do CQRS. Usar MediatR para CQRS introduz fricção desnecessária em…
-tags:
-- tecnico
-- architecture
-- csharp
+tags: ["tecnico", "architecture", "csharp"]
 has_commentary: true
 sources:
 - title: Why I don't use MediatR for CQRS — Cezary Piatek

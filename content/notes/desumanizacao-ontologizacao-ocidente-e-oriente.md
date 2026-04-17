@@ -3,10 +3,7 @@ title: 'Desumanizacao: ontologizacao no Ocidente e Oriente'
 date: '2026-04-09T12:51:00+01:00'
 category: podcast
 summary: '00:26:10 — Desumanizacao: ontologizacao no Ocidente e Oriente'
-tags:
-- violencia
-- cultura
-- psicologia
+tags: ["violencia", "cultura", "psicologia", "naruhodo-436-violencia"]
 has_commentary: false
 sources:
 - title: 'Naruhodo #436 - A violencia faz parte da natureza humana? — Vox'
