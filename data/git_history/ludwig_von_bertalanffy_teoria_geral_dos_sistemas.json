@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-04-18",
+    "subject": "feat: links para aprofundamentos na nota Bertalanffy"
+  },
+  {
     "date": "2026-04-17",
     "subject": "chore: normaliza tags de notas — formato bracket + tag de episódio"
   },
