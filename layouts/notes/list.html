@@ -1,7 +1,8 @@
 {{ define "main" }}
   {{ $research := where site.RegularPages "Section" "research" }}
   {{ $allPages := union .Pages $research }}
-  {{ $pinned := (where $allPages "Params.pinned" true).ByDate.Reverse }}
+  {{ $pinnedRaw := where $allPages "Params.pinned" true }}
+  {{ $pinned := sort $pinnedRaw "Params.pin_weight" "desc" }}
   {{ $unpinned := (where $allPages "Params.pinned" "!=" true).ByDate.Reverse }}
   {{ $combined := slice }}
   {{ range $pinned }}{{ $combined = $combined | append . }}{{ end }}
