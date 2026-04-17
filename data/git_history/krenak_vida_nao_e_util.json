@@ -1,14 +1,14 @@
 [
   {
+    "date": "2026-04-17",
+    "subject": "chore: normaliza tags de notas — formato bracket + tag de episódio"
+  },
+  {
     "date": "2026-04-09",
     "subject": "edit: reorder pinned notes"
   },
   {
     "date": "2026-04-09",
     "subject": "feat: pin Krenak (w=70) and Rascunho Kung Fu (w=75)"
-  },
-  {
-    "date": "2021-01-05",
-    "subject": "feat: A vida não é útil — Ailton Krenak"
   }
 ]

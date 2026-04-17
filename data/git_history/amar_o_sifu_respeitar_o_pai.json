@@ -1,14 +1,14 @@
 [
   {
+    "date": "2026-04-17",
+    "subject": "chore: normaliza tags de notas — formato bracket + tag de episódio"
+  },
+  {
     "date": "2026-04-15",
     "subject": "feat: sistema de tipos visuais para notas (type, ícones, cores)"
   },
   {
     "date": "2026-04-09",
     "subject": "fix: rewrite relative .md source URLs to scholion routes"
-  },
-  {
-    "date": "2026-04-08",
-    "subject": "feat: Amar o Si Fu, respeitar o pai"
   }
 ]

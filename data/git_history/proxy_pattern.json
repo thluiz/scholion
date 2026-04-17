@@ -1,14 +1,14 @@
 [
   {
+    "date": "2026-04-17",
+    "subject": "chore: normaliza tags de notas — formato bracket + tag de episódio"
+  },
+  {
     "date": "2026-04-11",
     "subject": "fix: corrigir datas das notas de design patterns para horário real do commit"
   },
   {
     "date": "2026-04-11",
     "subject": "feat: 11 notas stub para GoF design patterns + corrige links /note/ → /notes/"
-  },
-  {
-    "date": "2026-04-04",
-    "subject": "feat: Proxy Pattern"
   }
 ]

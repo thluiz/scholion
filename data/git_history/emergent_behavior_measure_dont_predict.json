@@ -1,14 +1,14 @@
 [
   {
+    "date": "2026-04-17",
+    "subject": "chore: normaliza tags de notas — formato bracket + tag de episódio"
+  },
+  {
     "date": "2026-04-15",
     "subject": "fix: renomear type → category no frontmatter (type é reservado pelo Hugo)"
   },
   {
     "date": "2026-04-15",
     "subject": "feat: sistema de tipos visuais para notas (type, ícones, cores)"
-  },
-  {
-    "date": "2026-04-07",
-    "subject": "feat: Emergent Behavior: Measure, Don't Predict"
   }
 ]
