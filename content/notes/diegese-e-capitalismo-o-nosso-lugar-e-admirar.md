@@ -3,10 +3,7 @@ title: 'Diegese e capitalismo: o nosso lugar é admirar'
 date: '2026-04-02T12:29:00+01:00'
 category: podcast
 summary: A diegese dos filmes de Snyder deixa claro que nenhum de nós pode ser como os heróis — o nosso lugar é sentado, admirando de boca aberta. Essa construção estética é simultaneamente uma escolha do…
-tags:
-- industria-cultural
-- herois
-- fandom
+tags: ["industria-cultural", "herois", "fandom", "popcult-22-snyder-barker"]
 has_commentary: false
 sources:
 - title: 'Popcult #22 - Zack Snyder vs Clive Barker'

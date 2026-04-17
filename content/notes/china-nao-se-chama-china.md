@@ -2,11 +2,7 @@
 title: China não se chama China
 date: '2026-04-08T16:49:00+01:00'
 summary: 'A palavra "China" não é usada na China. O país se chama 中國, Zhōngguó, o País do Centro, e em registros mais formais aparece como Império. A nomenclatura não é detalhe: ela abre a porta para o que vem…'
-tags:
-- china
-- linguagem
-- imperio
-- chines-instrumental
+tags: ["china", "linguagem", "imperio", "chines-instrumental"]
 has_commentary: true
 sources:
 - title: I Encontro de Chinês Instrumental

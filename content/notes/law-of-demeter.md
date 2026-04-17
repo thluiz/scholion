@@ -2,10 +2,7 @@
 title: Law of Demeter
 date: '2026-04-04T08:13:31+01:00'
 summary: '"Only talk to your immediate friends; don''t talk to strangers."'
-tags:
-- software-engineering
-- object-oriented
-- design-principles
+tags: ["software-engineering", "object-oriented", "design-principles"]
 has_commentary: true
 sources:
 - title: Law of Demeter — Wikipedia

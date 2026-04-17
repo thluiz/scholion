@@ -3,10 +3,7 @@ title: Formacao de massas por negacao (Freud)
 date: '2026-04-09T12:57:00+01:00'
 category: podcast
 summary: '00:45:27 — Redes sociais e a formacao de massas por negacao'
-tags:
-- violencia
-- psicologia
-- redes-sociais
+tags: ["violencia", "psicologia", "redes-sociais", "naruhodo-436-violencia"]
 has_commentary: false
 sources:
 - title: 'Naruhodo #436 - A violencia faz parte da natureza humana? — Vox'

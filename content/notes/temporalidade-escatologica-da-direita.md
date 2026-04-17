@@ -3,11 +3,7 @@ title: A temporalidade escatológica da direita
 date: '2026-04-08T01:25:19+01:00'
 category: podcast
 summary: 01:03:19 — Prepper, Bitcoin drive e a temporalidade escatológica da direita
-tags:
-- extrema-direita
-- escatologia
-- prepper
-- nick-land
+tags: ["extrema-direita", "escatologia", "prepper", "nick-land", "viramaxxing-cesarino"]
 has_commentary: true
 sources:
 - title: 'Viracasacas #478 — Viramaxxing com Letícia Cesarino @ 01:03:19'

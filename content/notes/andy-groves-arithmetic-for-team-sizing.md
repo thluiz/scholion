@@ -3,7 +3,7 @@ title: "Andy Grove's Arithmetic for Team Sizing"
 date: 2026-04-09T23:03:49+01:00
 category: podcast
 summary: "Simple arithmetic beats research-backed perfection: half a day per direct report means no more than ten — sometimes basic observation is all you need."
-tags: ["engineering-management", "team-sizing", "leadership"]
+tags: ["engineering-management", "team-sizing", "leadership", "elegant-puzzle-larson"]
 has_commentary: false
 sources:
   - title: "Part 1: An Elegant Puzzle Book Discussion w/ Will Larson — Developer Tea"

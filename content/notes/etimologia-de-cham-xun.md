@@ -2,11 +2,7 @@
 title: Etimologia de Cham 寻
 date: '2026-04-08T23:11:24+01:00'
 summary: 寻 (jyutping cam4, pinyin xún), forma simplificada de 尋.
-tags:
-- china
-- linguagem
-- etimologia
-- chines-instrumental
+tags: ["china", "linguagem", "etimologia", "chines-instrumental"]
 has_commentary: true
 sources:
 - title: Hanzi Yuan — 尋

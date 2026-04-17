@@ -2,12 +2,7 @@
 title: Os quatro tons do Mandarim em Pinyin
 date: '2026-04-08T17:45:00+01:00'
 summary: 'O Mandarim tem quatro tons marcados no Pinyin por um diacrítico sobre a vogal, mais um quinto tom neutro sem marca. O exemplo clássico é a sílaba ma, que muda de significado conforme o tom: mā (媽,…'
-tags:
-- china
-- linguagem
-- pinyin
-- tons
-- chines-instrumental
+tags: ["china", "linguagem", "pinyin", "tons", "chines-instrumental"]
 has_commentary: true
 sources:
 - title: Standard Chinese phonology — Wikipedia

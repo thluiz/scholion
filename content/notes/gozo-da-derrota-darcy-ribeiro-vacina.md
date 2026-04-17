@@ -3,7 +3,7 @@ title: "O gozo da derrota: Darcy Ribeiro virou vacina contra vencer"
 date: 2026-04-16T21:09:35+01:00
 category: podcast
 summary: "Divan critica o uso de 'não gostaria de estar ao lado dos vencedores' como programa de vida. A derrota vira identidade, e perder limpo vira estética."
-tags: ["darcy-ribeiro", "derrota", "esquerda", "melancolia"]
+tags: ["darcy-ribeiro", "derrota", "esquerda", "melancolia", "melancolia-esquerda"]
 has_commentary: false
 sources:
   - title: '#479 "Resistindo à Melancolia de Esquerda" — Viracasacas Podcast'

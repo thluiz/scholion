@@ -3,7 +3,7 @@ title: "The EPIC Process for System Thinking"
 date: 2026-04-09T22:46:44+01:00
 category: podcast
 summary: "Explore, Produce, Intervene, Check — a principled guide shaped by decades of systems practice, not a rigid prescription."
-tags: ["systems-thinking", "methodology", "problem-solving"]
+tags: ["systems-thinking", "methodology", "problem-solving", "systems-thinking-jackson"]
 has_commentary: false
 sources:
   - title: "Critical Systems Thinking with Michael C. Jackson — Thinkers & Ideas"

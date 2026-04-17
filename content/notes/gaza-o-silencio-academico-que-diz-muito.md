@@ -3,7 +3,7 @@ title: "Gaza: O silêncio acadêmico que diz muito"
 date: 2026-04-10T10:51:16+01:00
 category: podcast
 summary: "Para que serve a teoria crítica se não consegue dizer claramente que, diante de um genocídio, trata-se de um genocídio?"
-tags: ["gaza", "teoria-critica", "silencio"]
+tags: ["gaza", "teoria-critica", "silencio", "safatle-fascismo-ilustrissima"]
 has_commentary: false
 sources:
   - title: "Vladimir Safatle: O que vemos hoje não é metáfora, é o fascismo mesmo — Ilustríssima Conversa"

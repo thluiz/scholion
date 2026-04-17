@@ -3,10 +3,7 @@ title: Desindustrialização precoce e suas consequências
 date: '2026-04-04T12:40:40+01:00'
 category: podcast
 summary: 01:18:49 — Desindustrialização completa transforma o Brasil num favelão
-tags:
-- desindustrializacao
-- brasil
-- desenvolvimento
+tags: ["desindustrializacao", "brasil", "desenvolvimento", "invasao-chinesa-jabbour"]
 has_commentary: true
 sources:
 - title: Invasão Chinesa no Brasil - Elias Jabbour

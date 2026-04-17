@@ -3,7 +3,7 @@ title: "Fazer da angústia combustível: Foucault contra a paralisia"
 date: 2026-04-16T21:11:35+01:00
 category: podcast
 summary: "Divan inverte o quadro — em vez de paralisia pela falta de respostas prontas, angústia como combustível. O poder que nos atravessa também nos ensina."
-tags: ["foucault", "angustia", "esquerda", "resistencia"]
+tags: ["foucault", "angustia", "esquerda", "resistencia", "melancolia-esquerda"]
 has_commentary: false
 sources:
   - title: '#479 "Resistindo à Melancolia de Esquerda" — Viracasacas Podcast'

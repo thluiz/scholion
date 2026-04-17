@@ -3,10 +3,7 @@ title: Projeto nacional de desenvolvimento
 date: '2026-04-04T12:39:40+01:00'
 category: podcast
 summary: 00:08:42 — Brasil precisa de um projeto nacional de desenvolvimento
-tags:
-- desenvolvimento
-- geopolitica
-- brasil
+tags: ["desenvolvimento", "geopolitica", "brasil", "invasao-chinesa-jabbour"]
 has_commentary: false
 sources:
 - title: Invasão Chinesa no Brasil - Elias Jabbour

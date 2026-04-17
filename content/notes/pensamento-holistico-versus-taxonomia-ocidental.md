@@ -3,10 +3,7 @@ title: Pensamento holístico versus taxonomia ocidental
 date: '2026-04-03T08:48:30+01:00'
 category: podcast
 summary: 00:10:19 — Pensamento holístico versus taxonomia ocidental
-tags:
-- pensamento-chinês
-- filosofia
-- epistemologia
+tags: ["pensamento-chinês", "filosofia", "epistemologia", "pensamento-chines-sinedino"]
 has_commentary: true
 sources:
 - title: '#113 — Pensamento Chinês, Giorgio Sinedino'

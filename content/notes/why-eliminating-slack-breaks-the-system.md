@@ -3,11 +3,7 @@ title: Why Eliminating Slack Breaks the System
 date: '2026-04-02T19:35:47+01:00'
 category: podcast
 summary: 00:09:35 — Why Eliminating Slack Breaks the System
-tags:
-- systems-thinking
-- slack
-- efficiency
-- variability
+tags: ["systems-thinking", "slack", "efficiency", "variability", "systems-thinking-seth-godin"]
 has_commentary: false
 sources:
 - title: 'Systems thinking (E) — Akimbo: A Podcast from Seth Godin'

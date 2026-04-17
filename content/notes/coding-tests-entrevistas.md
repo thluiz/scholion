@@ -2,9 +2,7 @@
 title: Coding tests obrigatórios — por que parei
 date: '2022-02-27T14:16:47Z'
 summary: Bradston Henry não é contra coding tests em geral — é contra empresas que os tornam obrigatórios sem alternativa, usando-os como único portão de entrada.
-tags:
-- tecnico
-- carreira
+tags: ["tecnico", "carreira"]
 has_commentary: true
 sources:
 - title: Why I Stopped Interviewing With Companies That Require a Coding Test — dev.to

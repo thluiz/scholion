@@ -3,10 +3,7 @@ title: 'Synthesis vs Analysis: The Cow Metaphor'
 date: '2026-04-07T19:44:31+01:00'
 category: podcast
 summary: '00:21:38 — Synthesis Versus Analysis: The Cow Metaphor'
-tags:
-- systems-thinking
-- analysis-vs-synthesis
-- developer-mindset
+tags: ["systems-thinking", "analysis-vs-synthesis", "developer-mindset", "systems-thinking-akimbo"]
 has_commentary: false
 sources:
 - title: Systems Thinking

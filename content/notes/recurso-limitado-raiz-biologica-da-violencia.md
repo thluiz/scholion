@@ -3,10 +3,7 @@ title: 'Recurso limitado: a raiz biologica da violencia'
 date: '2026-04-09T12:55:00+01:00'
 category: podcast
 summary: '00:37:50 — Recurso limitado: a raiz biologica da violencia'
-tags:
-- violencia
-- biologia
-- evolucao
+tags: ["violencia", "biologia", "evolucao", "naruhodo-436-violencia"]
 has_commentary: false
 sources:
 - title: 'Naruhodo #436 - A violencia faz parte da natureza humana? — Vox'

@@ -3,10 +3,7 @@ title: 'Confucio: transmissor do passado, nao criador'
 date: '2026-04-02T23:39:33+01:00'
 category: podcast
 summary: '00:19:54 — Confucio: transmissor do passado, nao criador'
-tags:
-- historia-da-china
-- filosofia
-- confucionismo
+tags: ["historia-da-china", "filosofia", "confucionismo", "tres-reinos-fragmentacao"]
 has_commentary: false
 sources:
 - title: '172 Tres Reinos: a fragmentacao do Imperio Chines — Vox'

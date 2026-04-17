@@ -2,10 +2,7 @@
 title: C#
 date: '2026-04-04T09:12:51+01:00'
 summary: C# was designed by Anders Hejlsberg at Microsoft, first distributed in 2000 as part of the .NET platform. Hejlsberg had previously designed Turbo Pascal, Delphi, and Visual J++ — and flaws he…
-tags:
-- programming-languages
-- dotnet
-- object-oriented
+tags: ["programming-languages", "dotnet", "object-oriented"]
 has_commentary: true
 sources:
 - title: C# — Wikipedia

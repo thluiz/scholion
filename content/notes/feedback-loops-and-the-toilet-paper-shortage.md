@@ -3,10 +3,7 @@ title: Feedback Loops and the Toilet Paper Shortage
 date: '2026-04-07T19:48:31+01:00'
 category: podcast
 summary: 00:10:46 — Positive and Negative Feedback Loops
-tags:
-- systems-thinking
-- feedback-loops
-- complex-systems
+tags: ["systems-thinking", "feedback-loops", "complex-systems", "systems-thinking-akimbo"]
 has_commentary: true
 sources:
 - title: Systems Thinking

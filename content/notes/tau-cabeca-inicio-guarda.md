@@ -2,13 +2,7 @@
 title: 'Tau (頭): cabeça, início, guarda do importante'
 date: '2026-04-08T18:32:00+01:00'
 summary: 頭 (Tau) significa cabeça, e por isso carrega o sentido de início e de o que é mais importante. A cabeça abre o corpo e abre a sequência. A composição do ideograma sugere ainda a ideia de guardar…
-tags:
-- china
-- linguagem
-- kung-fu
-- ving-tsun
-- siu-nim-tau
-- chines-instrumental
+tags: ["china", "linguagem", "kung-fu", "ving-tsun", "siu-nim-tau", "chines-instrumental"]
 has_commentary: true
 sources:
 - title: III Encontro de Chinês Instrumental

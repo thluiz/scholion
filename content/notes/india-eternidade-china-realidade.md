@@ -3,10 +3,7 @@ title: Índia busca a eternidade, China busca pela realidade
 date: '2026-04-02T23:06:35+01:00'
 category: podcast
 summary: 01:10:05 — Índia busca a eternidade, China busca pela realidade
-tags:
-- philosophy
-- china
-- buddhism
+tags: ["philosophy", "china", "buddhism", "pensamento-chines-sinedino"]
 has_commentary: false
 sources:
 - title: '#113 – Pensamento Chinês, Giorgio Sinedino — Filosofia Pop'

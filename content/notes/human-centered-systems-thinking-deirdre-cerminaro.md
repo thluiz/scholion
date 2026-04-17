@@ -3,7 +3,7 @@ title: "Human-centered systems thinking by Deirdre Cerminaro"
 date: 2026-04-09T22:20:37+01:00
 category: podcast
 summary: "Systems thinking fused with human-centered design: holistic solutions that move from analysis to making, portable across any industry."
-tags: ["systems-thinking", "human-centered-design", "design-thinking"]
+tags: ["systems-thinking", "human-centered-design", "design-thinking", "think-in-systems-cerminaro"]
 has_commentary: false
 sources:
   - title: "How to Think in Systems: Deirdre Cerminaro — Creative Confidence Podcast"

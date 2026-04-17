@@ -2,10 +2,7 @@
 title: 精武 Chin Woo Athletic Association
 date: '2026-04-01T16:57:49+01:00'
 summary: 精武 (Jing Wu / Chin Woo). O nome completo é 精武體育會 (Chin Woo Athletic Association).
-tags:
-- kung-fu
-- historia
-- artes-marciais
+tags: ["kung-fu", "historia", "artes-marciais"]
 has_commentary: true
 sources:
 - title: Chin Woo Athletic Association — Wikipedia

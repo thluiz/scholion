@@ -3,7 +3,7 @@ title: "O 'Nostradamus de aplicativo' e a ortodoxia já descrita em 1999"
 date: 2026-04-16T21:04:35+01:00
 category: podcast
 summary: "Divan e Abau mostram que o esquerdista-Nostradamus das redes e o embate ortodoxos×identitários são diagnósticos feitos por Brown na virada do milênio."
-tags: ["wendy-brown", "esquerda", "redes-sociais", "melancolia"]
+tags: ["wendy-brown", "esquerda", "redes-sociais", "melancolia", "melancolia-esquerda"]
 has_commentary: false
 sources:
   - title: '#479 "Resistindo à Melancolia de Esquerda" — Viracasacas Podcast'

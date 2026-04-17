@@ -3,11 +3,7 @@ title: 'Graeber: Revolution in Reverse'
 date: '2026-04-08T01:28:19+01:00'
 category: podcast
 summary: '01:07:34 — Revolution in Reverse: alternativas de baixo pra cima'
-tags:
-- david-graeber
-- soberania-digital
-- esquerda
-- pratica-do-comum
+tags: ["david-graeber", "soberania-digital", "esquerda", "pratica-do-comum", "viramaxxing-cesarino"]
 pinned: true
 pin_weight: 97
 has_commentary: true

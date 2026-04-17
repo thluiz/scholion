@@ -3,7 +3,7 @@ title: "An Elegant Puzzle - Systems of Engineering Management"
 date: 2026-04-09T23:05:49+01:00
 category: podcast
 summary: "Engineering management as elegant puzzles — a recipe book of systems and structures you return to when you need them, essential for isolated managers learning from books."
-tags: ["engineering-management", "systems-thinking", "reading"]
+tags: ["engineering-management", "systems-thinking", "reading", "elegant-puzzle-larson"]
 has_commentary: false
 sources:
   - title: "Part 1: An Elegant Puzzle Book Discussion w/ Will Larson — Developer Tea"

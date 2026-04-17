@@ -3,11 +3,7 @@ title: Etimologia de Biu Ji 標指 (Biāo Zhǐ / biu1 zi2)
 date: '2026-04-12T19:15:35+01:00'
 summary: 'Análise etimológica de 標指 (Biāo Zhǐ): 標 ponta da árvore → marca, sinal; 指 dedo → apontar, indicar. Sete fontes consultadas.'
 toc: true
-tags:
-- china
-- linguagem
-- etimologia
-- ving-tsun
+tags: ["china", "linguagem", "etimologia", "ving-tsun"]
 has_commentary: false
 sources:
 - title: MDBG Chinese Dictionary

@@ -3,7 +3,7 @@ title: "Intelectual não calcula e função pública"
 date: 2026-04-10T10:26:38+01:00
 category: podcast
 summary: "Como funcionário público, a função é ajudar a sociedade a pensar a si mesma — seria desrespeitoso calcular intervenções por autopreservação."
-tags: ["intelectuais", "funcao-publica", "coragem"]
+tags: ["intelectuais", "funcao-publica", "coragem", "safatle-fascismo-ilustrissima"]
 has_commentary: false
 sources:
   - title: "Vladimir Safatle: O que vemos hoje não é metáfora, é o fascismo mesmo — Ilustríssima Conversa"

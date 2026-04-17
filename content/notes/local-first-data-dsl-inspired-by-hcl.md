@@ -3,10 +3,7 @@ title: 'Local-First Data: Clear-Text DSL Inspired by HCL'
 date: '2026-04-04T12:52:45+01:00'
 category: podcast
 summary: '00:48:16 — Local-First Data: Clear-Text DSL Inspired by HCL'
-tags:
-- tools
-- local-first
-- data-ownership
+tags: ["tools", "local-first", "data-ownership", "systems-thinking-humans"]
 has_commentary: false
 sources:
 - title: Systems Thinking for Humans — Fallthrough

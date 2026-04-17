@@ -3,7 +3,7 @@ title: "Estado trata trabalhadores em greve como inimigos internos"
 date: 2026-04-10T10:51:09+01:00
 category: podcast
 summary: "Chamar o Exército para manter refinarias durante greve ilustra a lógica de guerra na gestão do conflito social — herança neoliberal que facilita guinadas autoritárias."
-tags: ["fascismo", "neoliberalismo", "conflito-social"]
+tags: ["fascismo", "neoliberalismo", "conflito-social", "safatle-fascismo-ilustrissima"]
 has_commentary: false
 sources:
   - title: "Vladimir Safatle: O que vemos hoje não é metáfora, é o fascismo mesmo — Ilustríssima Conversa"

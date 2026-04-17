@@ -2,10 +2,7 @@
 title: We shape our tools, thereafter they shape us
 date: '2026-04-01T12:30:00+01:00'
 summary: 'Genealogia da frase:'
-tags:
-- kung-fu
-- pensamento-sistemico
-- citacoes
+tags: ["kung-fu", "pensamento-sistemico", "citacoes"]
 has_commentary: true
 sources:
 - title: A Schoolman's Guide to Marshall McLuhan — Saturday Review, 1967

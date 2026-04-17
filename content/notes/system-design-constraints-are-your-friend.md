@@ -3,7 +3,7 @@ title: "System Design: Constraints are your friend"
 date: 2026-04-09T22:21:37+01:00
 category: podcast
 summary: "Constraints close down the option space just enough to make creative action possible — they are friends, not obstacles."
-tags: ["systems-thinking", "design-thinking", "constraints"]
+tags: ["systems-thinking", "design-thinking", "constraints", "think-in-systems-cerminaro"]
 has_commentary: false
 sources:
   - title: "How to Think in Systems: Deirdre Cerminaro — Creative Confidence Podcast"

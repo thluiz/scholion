@@ -2,16 +2,7 @@
 title: Cham Kiu (尋橋) como atravessar a ponte curta
 date: '2026-04-08T18:08:00+01:00'
 summary: Na nossa linhagem, a tradução mais usual de Cham Kiu (尋橋) não é "procurar a ponte" nem "procurar o braço" nem "afundar a ponte". É "ponte curta". A leitura decorre de uma camada de Cham que só…
-tags:
-- china
-- linguagem
-- cantones
-- kung-fu
-- ving-tsun
-- linhagem
-- cham-kiu
-- etimologia
-- chines-instrumental
+tags: ["china", "linguagem", "cantones", "kung-fu", "ving-tsun", "linhagem", "cham-kiu", "etimologia", "chines-instrumental"]
 has_commentary: true
 sources:
 - title: IV Encontro de Chinês Instrumental

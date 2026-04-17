@@ -3,7 +3,7 @@ title: "You Don't Have to Read Every Page"
 date: 2026-04-09T23:04:49+01:00
 category: podcast
 summary: "Management books work better as references than narratives — put them down, come back when a new challenge makes a specific chapter suddenly relevant."
-tags: ["reading", "engineering-management", "learning"]
+tags: ["reading", "engineering-management", "learning", "elegant-puzzle-larson"]
 has_commentary: false
 sources:
   - title: "Part 1: An Elegant Puzzle Book Discussion w/ Will Larson — Developer Tea"

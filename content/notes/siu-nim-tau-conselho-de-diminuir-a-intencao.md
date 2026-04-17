@@ -2,13 +2,7 @@
 title: Siu Nim Tau é conselho de diminuir a intenção
 date: '2026-04-08T18:33:00+01:00'
 summary: 'A leitura holística de 小念頭 (Siu Nim Tau) deixa de ser descritiva e vira conselho. Siu dentro dessa expressão funciona como verbo aplicado à intenção: faça a intenção ficar pequena, faça-a ser…'
-tags:
-- china
-- linguagem
-- kung-fu
-- ving-tsun
-- siu-nim-tau
-- chines-instrumental
+tags: ["china", "linguagem", "kung-fu", "ving-tsun", "siu-nim-tau", "chines-instrumental"]
 has_commentary: true
 sources:
 - title: III Encontro de Chinês Instrumental

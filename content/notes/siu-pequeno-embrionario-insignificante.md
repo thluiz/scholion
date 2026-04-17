@@ -2,13 +2,7 @@
 title: 'Siu (小): pequeno, embrionário, insignificante'
 date: '2026-04-08T18:31:00+01:00'
 summary: 'O ideograma 小 (Siu) abre em três leituras que valem por inteiro. Tamanho relativo: a formiga é Siu diante do referente que a observa. Embrionário: a semente é Siu não porque seja pouca coisa, mas…'
-tags:
-- china
-- linguagem
-- kung-fu
-- ving-tsun
-- siu-nim-tau
-- chines-instrumental
+tags: ["china", "linguagem", "kung-fu", "ving-tsun", "siu-nim-tau", "chines-instrumental"]
 has_commentary: true
 sources:
 - title: III Encontro de Chinês Instrumental

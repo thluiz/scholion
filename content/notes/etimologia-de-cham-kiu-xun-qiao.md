@@ -3,12 +3,7 @@ title: Etimologia de Cham Kiu 尋橋 (Xún Qiáo / cam4 kiu4)
 date: '2026-04-12T20:22:12+01:00'
 summary: 'Análise etimológica de 尋橋 (Xún Qiáo / cam4 kiu4): 尋 desenredar, medir com os braços → buscar; 橋 travessa sobre água → ponte. Sete fontes consultadas.'
 toc: true
-tags:
-- china
-- linguagem
-- etimologia
-- ving-tsun
-- cham-kiu
+tags: ["china", "linguagem", "etimologia", "ving-tsun", "cham-kiu"]
 has_commentary: false
 sources:
 - title: MDBG Chinese Dictionary

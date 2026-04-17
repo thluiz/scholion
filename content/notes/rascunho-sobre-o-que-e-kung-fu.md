@@ -2,10 +2,7 @@
 title: Rascunho sobre o que é Kung Fu
 date: '2026-04-01T12:00:00+01:00'
 summary: Um livro sobre Kung Fu escrito por alguém que acredita que Kung Fu não pode ser ensinado. Parece contraditório — e é. Mas essa contradição é o ponto de partida, não o obstáculo.
-tags:
-- kung-fu
-- pensamento-sistemico
-- ving-tsun
+tags: ["kung-fu", "pensamento-sistemico", "ving-tsun"]
 pinned: true
 pin_weight: 60
 has_commentary: true

@@ -3,11 +3,7 @@ title: Etimologia de Siu Nim Tau 小念頭 (Xiǎo Niàn Tóu / siu2 nim6 tau4)
 date: '2026-04-12T20:37:36+01:00'
 summary: 'Análise etimológica de 小念頭 (Xiǎo Niàn Tóu / siu2 nim6 tau4): 小 três pontos, o mínimo; 念 coração + agora, o pensamento constante; 頭 cabeça, o começo. Sete fontes consultadas.'
 toc: true
-tags:
-- china
-- linguagem
-- etimologia
-- ving-tsun
+tags: ["china", "linguagem", "etimologia", "ving-tsun"]
 has_commentary: false
 sources:
 - title: MDBG Chinese Dictionary

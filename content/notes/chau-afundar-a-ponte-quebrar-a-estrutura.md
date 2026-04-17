@@ -2,15 +2,7 @@
 title: 'Chau (沉): afundar a ponte é quebrar a estrutura'
 date: '2026-04-08T18:06:00+01:00'
 summary: 'Existe um ideograma homofônico de Cham, Chau (沉), que significa afundar, submergir. Numa linhagem específica de Ving Tsun, é esse o caractere correto no nome da forma: não "procurar a ponte", mas…'
-tags:
-- china
-- linguagem
-- cantones
-- kung-fu
-- ving-tsun
-- linhagem
-- chum-kiu
-- chines-instrumental
+tags: ["china", "linguagem", "cantones", "kung-fu", "ving-tsun", "linhagem", "chum-kiu", "chines-instrumental"]
 has_commentary: true
 sources:
 - title: IV Encontro de Chinês Instrumental

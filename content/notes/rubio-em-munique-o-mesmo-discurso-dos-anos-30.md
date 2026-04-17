@@ -3,7 +3,7 @@ title: "Rubio em Munique: o mesmo discurso dos anos 30"
 date: 2026-04-10T10:51:19+01:00
 category: podcast
 summary: "Se trocasse Rubio por Hitler, daria mais ou menos a mesma coisa — necessidade de expansionismo, ambiguidade militar, civilização ocidental como pretexto."
-tags: ["fascismo", "geopolitica", "autocritica"]
+tags: ["fascismo", "geopolitica", "autocritica", "safatle-fascismo-ilustrissima"]
 has_commentary: false
 sources:
   - title: "Vladimir Safatle: O que vemos hoje não é metáfora, é o fascismo mesmo — Ilustríssima Conversa"

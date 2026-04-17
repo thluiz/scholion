@@ -2,10 +2,7 @@
 title: Functional Programming
 date: '2026-04-04T08:23:52+01:00'
 summary: 'Functional programming is a paradigm where programs are constructed by applying and composing functions. It is declarative: function definitions are expressions that map values to other values,…'
-tags:
-- software-engineering
-- programming-paradigms
-- functional
+tags: ["software-engineering", "programming-paradigms", "functional"]
 has_commentary: true
 sources:
 - title: Functional programming — Wikipedia

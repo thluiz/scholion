@@ -3,10 +3,7 @@ title: "It always seems impossible until it's done."
 date: '2022-02-27T14:16:47Z'
 category: quote
 summary: Atribuída a Nelson Mandela.
-tags:
-- nelson-mandela
-- filosofia
-- política
+tags: ["nelson-mandela", "filosofia", "política"]
 has_commentary: false
 sources: []
 ---

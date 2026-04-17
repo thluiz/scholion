@@ -3,10 +3,7 @@ title: Great Developers Build Sustainable Readable Systems
 date: '2026-04-02T22:02:00-03:00'
 category: podcast
 summary: 00:11:28 — Great Developers Build Sustainable Readable Systems
-tags:
-- code-quality
-- software-development
-- developer-career
+tags: ["code-quality", "software-development", "developer-career", "dcr-great-developer"]
 has_commentary: false
 sources:
 - title: 'DCR: Traits of a Great Developer - Communications Expert — Vox'

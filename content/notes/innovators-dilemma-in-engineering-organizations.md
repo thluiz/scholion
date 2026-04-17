@@ -3,7 +3,7 @@ title: "The Innovator's Dilemma in Engineering Organizations"
 date: 2026-04-10T09:35:35+01:00
 category: podcast
 summary: "Innovation teams create a perverse social structure — the design challenge is rewarding essential production work while still enabling experimentation."
-tags: ["engineering-management", "innovation", "organizational-design"]
+tags: ["engineering-management", "innovation", "organizational-design", "elegant-puzzle-larson"]
 has_commentary: false
 sources:
   - title: "Part 2: An Elegant Puzzle Book Discussion w/ Will Larson — Developer Tea"

@@ -2,11 +2,7 @@
 title: A polissemia chinesa do Si
 date: '2026-04-08T18:00:00+01:00'
 summary: O ideograma 師 (Si) significa primariamente mestre, no sentido de modelo a ser seguido, referência. A confusão de tomá-lo como "ensinar" no sentido principal é erro comum. A polissemia chinesa permite…
-tags:
-- china
-- linguagem
-- kung-fu
-- chines-instrumental
+tags: ["china", "linguagem", "kung-fu", "chines-instrumental"]
 has_commentary: true
 sources:
 - title: II Encontro de Chinês Instrumental

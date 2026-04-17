@@ -3,10 +3,7 @@ title: 'Genuine attention: clearing space, not forcing will'
 date: '2026-04-02T12:15:00-03:00'
 category: podcast
 summary: 00:11:32 — Simone Weil on Attention as Waiting
-tags:
-- philosophy
-- attention
-- simone-weil
+tags: ["philosophy", "attention", "simone-weil"]
 has_commentary: false
 sources:
 - title: The Power of Attention in a World of Distraction — Vox

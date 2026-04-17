@@ -2,12 +2,7 @@
 title: 'Moon Pai: galho ligado é linhagem, galho descolado é seita'
 date: '2026-04-08T18:03:00+01:00'
 summary: 門派 (Moon Pai) significa literalmente "ramificação de alguma coisa", os galhos de uma árvore. Moon sozinho aparece muito traduzido como "seita", e o conceito encaixa porque uma seita é,…
-tags:
-- china
-- linguagem
-- kung-fu
-- linhagem
-- chines-instrumental
+tags: ["china", "linguagem", "kung-fu", "linhagem", "chines-instrumental"]
 has_commentary: true
 sources:
 - title: II Encontro de Chinês Instrumental

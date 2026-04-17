@@ -3,11 +3,7 @@ title: 'Pascal: alone with your thoughts and mortality'
 date: '2026-04-02T12:25:00-03:00'
 category: podcast
 summary: 00:13:50 — Distraction as Flight from Loneliness
-tags:
-- philosophy
-- attention
-- distraction
-- pascal
+tags: ["philosophy", "attention", "distraction", "pascal"]
 has_commentary: false
 sources:
 - title: The Power of Attention in a World of Distraction — Vox

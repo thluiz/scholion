@@ -2,13 +2,7 @@
 title: Os tons do Cantonês em Jyutping
 date: '2026-04-08T18:05:00+01:00'
 summary: A contagem de tons do Cantonês depende de quem está contando. A análise moderna padrão, usada pelo Jyutping (a romanização oficial do Cantonês de Hong Kong) e por dicionários como o MDBG, fala em…
-tags:
-- china
-- linguagem
-- cantones
-- jyutping
-- tons
-- chines-instrumental
+tags: ["china", "linguagem", "cantones", "jyutping", "tons", "chines-instrumental"]
 has_commentary: true
 sources:
 - title: Cantonese phonology — Wikipedia

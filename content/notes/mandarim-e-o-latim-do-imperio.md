@@ -2,12 +2,7 @@
 title: Mandarim é o latim do Império
 date: '2026-04-08T16:49:30+01:00'
 summary: Mandarim está para a China como o Latim esteve para Roma. É a língua oficial do Império, e tudo o resto, Cantonês, Hokkien, Xangainês, é dialeto no sentido técnico de língua que não foi adotada como…
-tags:
-- china
-- linguagem
-- imperio
-- sistemas
-- chines-instrumental
+tags: ["china", "linguagem", "imperio", "sistemas", "chines-instrumental"]
 has_commentary: true
 sources:
 - title: I Encontro de Chinês Instrumental

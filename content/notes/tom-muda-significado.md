@@ -2,11 +2,7 @@
 title: Tom muda o significado
 date: '2026-04-08T16:51:00+01:00'
 summary: No chinês, o tom muda o significado da palavra. Não é sotaque nem ênfase, é parte da identidade lexical do termo, algo que o português não tem. Mandarim tem cinco tons, contando o tom neutro.…
-tags:
-- china
-- linguagem
-- tons
-- chines-instrumental
+tags: ["china", "linguagem", "tons", "chines-instrumental"]
 has_commentary: true
 sources:
 - title: I Encontro de Chinês Instrumental

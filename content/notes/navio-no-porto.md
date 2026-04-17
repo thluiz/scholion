@@ -3,9 +3,7 @@ title: "A ship in harbor is safe, but that is not what ships are built for."
 date: '2022-02-27T14:16:47Z'
 category: quote
 summary: A frase pertence a John A. Shedd, do livro Salt from My Attic (1928) — não a Grace Hopper. Hopper a adotou como lema pessoal e a citou frequentemente, o que causou a atribuição errônea generalizada.…
-tags:
-- john-a-shedd
-- filosofia
+tags: ["john-a-shedd", "filosofia"]
 has_commentary: false
 sources:
 - title: Quote Investigator — "A Ship in Harbor Is Safe"

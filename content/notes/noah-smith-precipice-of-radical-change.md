@@ -2,10 +2,7 @@
 title: Estamos à beira de uma mudança radical?
 date: '2022-02-27T14:16:47Z'
 summary: 'Noah Smith contra o catastrofismo de esquerda e direita: é possível que estejamos à beira de uma ruptura histórica — mas é igualmente possível que simplesmente "atravessemos o pântano" como já…'
-tags:
-- política
-- filosofia
-- futurismo
+tags: ["política", "filosofia", "futurismo"]
 has_commentary: true
 sources:
 - title: Do we stand at the precipice of radical change? — Noah Smith, Noahpinion

@@ -3,10 +3,7 @@ title: Organizações se destroem sozinhas
 date: '2026-04-03T11:31:16+01:00'
 category: podcast
 summary: 00:21:25 — Organizações se destroem sozinhas
-tags:
-- organizações
-- burocracia
-- gestão
+tags: ["organizações", "burocracia", "gestão", "rt-56-sabotar-chefe"]
 pinned: true
 has_commentary: true
 sources:

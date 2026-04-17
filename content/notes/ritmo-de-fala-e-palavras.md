@@ -2,8 +2,7 @@
 title: Ritmo de fala e palavras
 date: '2026-03-30T08:55:00+01:00'
 summary: 'Fala em ritmo normal: 130–150 palavras/minuto. Em discurso público cuidadoso, o intervalo aceito é 120–160 wpm — abaixo de 110 é lento demais, acima de 160 começa a comprometer a compreensão (Write…'
-tags:
-- escrita
+tags: ["escrita"]
 has_commentary: true
 sources: []
 ---

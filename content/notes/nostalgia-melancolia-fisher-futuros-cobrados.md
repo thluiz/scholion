@@ -3,7 +3,7 @@ title: "Nostalgia-melancolia vs nostalgia-Fisher: futuros cobrados"
 date: 2026-04-16T21:05:35+01:00
 category: podcast
 summary: "Fisher oferece a saída: não glorificar passado intocável, mas cobrar os futuros que esse passado prometia. Nostalgia-melancolia aprisiona; nostalgia-Fisher exige."
-tags: ["mark-fisher", "nostalgia", "melancolia", "esquerda"]
+tags: ["mark-fisher", "nostalgia", "melancolia", "esquerda", "melancolia-esquerda"]
 has_commentary: false
 sources:
   - title: '#479 "Resistindo à Melancolia de Esquerda" — Viracasacas Podcast'

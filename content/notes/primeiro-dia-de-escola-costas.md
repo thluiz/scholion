@@ -3,9 +3,7 @@ title: 'Primeiro dia de escola: olhar as costas uns dos outros'
 date: '2026-03-30T09:45:00+01:00'
 category: podcast
 summary: 'Rita conta uma anedota reveladora sobre o choque entre mundos: no primeiro dia de escola, a mãe perguntou como tinha sido e ela respondeu "muito estranho, porque a gente passou a manhã inteira…'
-tags:
-- filosofia
-- literatura
+tags: ["filosofia", "literatura", "mito-indigena-carelli"]
 has_commentary: false
 sources:
 - title: Rita Carelli — Mito indígena evoca origem comum de todos os povos

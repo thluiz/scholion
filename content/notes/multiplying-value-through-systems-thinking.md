@@ -3,7 +3,7 @@ title: "Multiplying Value Through Systems Thinking"
 date: 2026-04-09T23:23:51+01:00
 category: podcast
 summary: "Successful engineers multiply value rather than just adding it — think in terms of system effects, not just the immediate task, and the returns compound."
-tags: ["systems-thinking", "engineering-management", "software-engineering"]
+tags: ["systems-thinking", "engineering-management", "software-engineering", "multiplying-value-systems"]
 has_commentary: false
 sources:
   - title: "Habits of Successful Software Engineers - Multiplying Value by Thinking in Systems — Developer Tea"

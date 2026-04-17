@@ -3,10 +3,7 @@ title: Complex Systems and Hindsight Predictability
 date: '2026-04-07T19:42:31+01:00'
 category: podcast
 summary: 00:00:45 — Complex Systems Produce Unpredictable Behavior
-tags:
-- systems-thinking
-- complex-systems
-- predictability
+tags: ["systems-thinking", "complex-systems", "predictability", "systems-thinking-akimbo"]
 has_commentary: false
 sources:
 - title: Systems Thinking

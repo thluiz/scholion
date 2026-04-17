@@ -3,11 +3,7 @@ title: Every Action Connected to Value
 date: '2026-04-04T11:30:49+01:00'
 category: podcast
 summary: 00:09:37 — Connect Every Action to a Value Output
-tags:
-- perspective
-- best-practices
-- value-creation
-- mindset
+tags: ["perspective", "best-practices", "value-creation", "mindset", "dcr-great-developer"]
 has_commentary: true
 sources:
 - title: 'DCR: Traits of a Great Developer - Expanding Perspective'

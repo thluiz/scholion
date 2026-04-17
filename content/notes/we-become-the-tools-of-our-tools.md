@@ -3,10 +3,7 @@ title: We become the tools of our tools
 date: '2026-04-02T12:00:00-03:00'
 category: podcast
 summary: 00:28:38 — We Become the Tools of Our Tools
-tags:
-- technology
-- attention
-- philosophy
+tags: ["technology", "attention", "philosophy"]
 has_commentary: false
 sources:
 - title: The Power of Attention in a World of Distraction — Vox

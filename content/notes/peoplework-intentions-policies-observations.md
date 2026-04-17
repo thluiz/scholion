@@ -3,10 +3,7 @@ title: 'PeopleWork: Intentions, Policies, Observations'
 date: '2026-04-04T12:51:45+01:00'
 category: podcast
 summary: '00:39:55 — PeopleWork: Intentions, Policies, and Observations'
-tags:
-- tools
-- relationships
-- systems-thinking
+tags: ["tools", "relationships", "systems-thinking", "systems-thinking-humans"]
 has_commentary: false
 sources:
 - title: Systems Thinking for Humans — Fallthrough

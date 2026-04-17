@@ -3,7 +3,7 @@ title: "Just Systems in Engineering Management"
 date: 2026-04-10T09:31:35+01:00
 category: podcast
 summary: "A just system ensures people who follow established processes are rewarded equitably, removing the need to game or self-promote."
-tags: ["engineering-management", "leadership", "fairness"]
+tags: ["engineering-management", "leadership", "fairness", "elegant-puzzle-larson"]
 has_commentary: false
 sources:
   - title: "Part 2: An Elegant Puzzle Book Discussion w/ Will Larson — Developer Tea"

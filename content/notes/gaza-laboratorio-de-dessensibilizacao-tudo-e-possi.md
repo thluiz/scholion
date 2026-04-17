@@ -3,7 +3,7 @@ title: "Gaza: Laboratório de dessensibilização - tudo é possível"
 date: 2026-04-10T10:51:17+01:00
 category: podcast
 summary: "Gaza como experimento social: imagens diárias de genocídio no celular para testar a normalização. Depois de Gaza, tudo é possível."
-tags: ["gaza", "dessensibilizacao", "violencia"]
+tags: ["gaza", "dessensibilizacao", "violencia", "safatle-fascismo-ilustrissima"]
 has_commentary: false
 sources:
   - title: "Vladimir Safatle: O que vemos hoje não é metáfora, é o fascismo mesmo — Ilustríssima Conversa"

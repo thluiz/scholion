@@ -2,13 +2,7 @@
 title: Ponte como apelido para braço no jargão marcial
 date: '2026-04-08T18:04:00+01:00'
 summary: Dentro do jargão marcial, a palavra "ponte" virou apelido para "braço". Pelo encadeamento, Cham Kiu (尋橋) passa a significar "procurar o braço", e essa é a tradução mais comum, repetida pela maioria…
-tags:
-- kung-fu
-- ving-tsun
-- linguagem
-- jargao
-- cham-kiu
-- chines-instrumental
+tags: ["kung-fu", "ving-tsun", "linguagem", "jargao", "cham-kiu", "chines-instrumental"]
 has_commentary: true
 sources:
 - title: IV Encontro de Chinês Instrumental
