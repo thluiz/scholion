@@ -14,11 +14,11 @@ sources:
 
 Mapa de autores adjacentes no pensamento sistêmico:
 
-- **Norbert Wiener** — Cibernética (feedback, autorregulação)
-- **Donella Meadows** — *Thinking in Systems* (2008), o livro mais acessível sobre o tema
-- **Peter Senge** — *A Quinta Disciplina* (pensamento sistêmico aplicado a organizações)
-- **Gregory Bateson** — *Steps to an Ecology of Mind* (sistemas, comunicação, epistemologia)
-- **Fritjof Capra** — *A Teia da Vida* (sistemas vivos, autopoiese)
-- **Humberto Maturana & Francisco Varela** — autopoiese (sistemas vivos se autoproduzem)
+- **[Norbert Wiener]({{< ref "norbert-wiener-cibernetica" >}})** — Cibernética (feedback, autorregulação)
+- **[Donella Meadows]({{< ref "donella-meadows-thinking-in-systems" >}})** — *Thinking in Systems* (2008), o livro mais acessível sobre o tema
+- **[Peter Senge]({{< ref "peter-senge-quinta-disciplina" >}})** — *A Quinta Disciplina* (pensamento sistêmico aplicado a organizações)
+- **[Gregory Bateson]({{< ref "gregory-bateson-steps-to-an-ecology-of-mind" >}})** — *Steps to an Ecology of Mind* (sistemas, comunicação, epistemologia)
+- **[Fritjof Capra]({{< ref "fritjof-capra-teia-da-vida" >}})** — *A Teia da Vida* (sistemas vivos, autopoiese)
+- **[Humberto Maturana & Francisco Varela]({{< ref "maturana-varela-autopoiese" >}})** — autopoiese (sistemas vivos se autoproduzem)
 
 Conexão com o livro: a frase do Si Fu no "Conhecendo o Elefante" — *"Um sistema não pode ser compreendido analisando suas partes isoladamente"* — é Bertalanffy em estado puro, transmitido pela linhagem Ving Tsun sem nunca precisar citá-lo.
