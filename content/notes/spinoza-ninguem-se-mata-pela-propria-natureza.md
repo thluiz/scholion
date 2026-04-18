@@ -16,6 +16,6 @@ sources:
 
 Spinoza nega que alguém possa se matar pela própria natureza. O *conatus*, esforço de perseverar no ser, é a essência de cada coisa. Quem se mata foi vencido por causas externas contrárias à sua natureza, nunca agiu por liberdade. "Que um homem, pela necessidade de sua própria natureza, se esforce por não existir é tão impossível quanto que algo se faça do nada" (Ética IV, prop. 20).
 
-O paradoxo do suicídio como "coragem extrema" se desfaz aqui. O suicida age como se houvesse um Eu soberano a proteger, um núcleo que precisa ser mantido intacto mesmo ao preço do corpo. Spinoza corta pela raiz: esse Eu não existe separado do corpo. O *conatus* não é vontade consciente, é a própria constituição do ser. Destruir o corpo é destruir tudo, inclusive aquilo que se pretendia salvar.
+O paradoxo do suicídio como "coragem extrema" se desfaz aqui. O suicida age como se houvesse um Eu soberano a proteger, um núcleo que precisa ser mantido intacto mesmo ao preço do corpo. Spinoza corta pela raiz: esse Eu não existe separado do corpo. O *conatus* é a própria constituição do ser, anterior a qualquer vontade consciente. Destruir o corpo é destruir tudo, inclusive aquilo que se pretendia salvar.
 
 O ato que se apresenta como liberdade suprema é, para Spinoza, servidão total. Não há coragem onde não há escolha genuína. Há um corpo dominado por afetos externos que já não consegue afirmar a própria existência.
