@@ -376,6 +376,21 @@
   color: #f472b6;
 }
 
+/* Comic / strip */
+.scholion-card--comic {
+  border-left: 3px solid #ea580c;
+}
+.dark .scholion-card--comic {
+  border-left: 3px solid #fb923c;
+}
+
+.scholion-card-type--comic {
+  color: #ea580c;
+}
+.dark .scholion-card-type--comic {
+  color: #fb923c;
+}
+
 /* Pesquisa viva */
 .scholion-card--research {
   border-left: 3px solid #6366f1;
@@ -429,6 +444,13 @@
   color: #2dd4bf;
 }
 
+.scholion-type-badge--comic {
+  color: #ea580c;
+}
+.dark .scholion-type-badge--comic {
+  color: #fb923c;
+}
+
 .scholion-note--podcast {
   border-left: 4px solid #db2777;
 }
@@ -441,6 +463,18 @@
 }
 .dark .scholion-note--quote {
   border-left: 4px solid #2dd4bf;
+}
+
+.scholion-note--comic {
+  border-left: 4px solid #ea580c;
+}
+.dark .scholion-note--comic {
+  border-left: 4px solid #fb923c;
+}
+
+.scholion-note--comic .scholion-note-body img {
+  max-width: 100%;
+  border-radius: 4px;
 }
 
 /* Pesquisa viva — single page */
