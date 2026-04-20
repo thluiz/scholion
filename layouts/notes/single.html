@@ -8,6 +8,8 @@
           <div class="scholion-type-badge scholion-type-badge--podcast">🎙 Podcast</div>
         {{ else if eq $noteType "quote" }}
           <div class="scholion-type-badge scholion-type-badge--quote">❝ Citação</div>
+        {{ else if eq $noteType "comic" }}
+          <div class="scholion-type-badge scholion-type-badge--comic">🖼 Comic</div>
         {{ end }}
         <h1>{{ .Title }}</h1>
         <div class="scholion-note-meta">
