@@ -48,3 +48,5 @@ Ele explicava: _"Esse verde é um problema. Se você for pequeno, esse problema 
 Em seguida desenhava um grande quadrado preto quase do tamanho do quadro, envolvendo os dois anteriores: _"Vê? Agora aquele problema que era grande e incomodava não passa de mais uma questão pequena. Com Kung Fu podemos trabalhar nós mesmos frente a essas dificuldades."_
 
 Essa conversa tem mais de 20 anos. Obviamente o Si Fu não explicou com esses termos, mas o Guilherme e o comentário me fizeram relembrar que dentro de 夫 existe sempre um 大. Uma pessoa grande, que precisou e precisa seguir crescendo.
+
+![大 transforma em 夫; quadrado azul envolvendo quadrado verde](dai-fu.png)
