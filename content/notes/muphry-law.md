@@ -3,7 +3,7 @@ title: "Muphry's law: If you write anything criticising editing or proofreading,
 date: 2026-04-21T14:15:50+01:00
 category: quote
 summary: "Variação da lei de Murphy para revisão e edição, registrada por John Bangsund em março de 1992 no Society of Editors Newsletter de Victoria, Austrália."
-tags: ["john-bangsund", "famous-razors", "edicao", "ironia"]
+tags: ["john-bangsund", "famous-razors", "murphy-laws", "edicao", "ironia"]
 has_commentary: false
 sources:
   - title: "Muphry's law"
