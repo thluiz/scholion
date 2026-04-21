@@ -1,6 +1,6 @@
 ---
 title: "Mestre Pedro Henrique Corrêa: Humanidade é escutar o outro"
-date: 2026-04-22T14:00:00+01:00
+date: 2026-04-19T23:20:00+01:00
 category: note
 summary: "Proposta de Mestre Pedro Henrique Corrêa (Moy Lei Yat 梅利溢): Kung Fu como habilidade adquirida no tempo, lida pela cultura chinesa como adaptabilidade ao ambiente, não como quantidade ou resultado. Na família Moy Jo Lei Ou, o ponto comum é a humanidade, e humanidade é escutar o outro. Si Fu desdobra em que qualquer ambiente com troca favorece Kung Fu, e puxa o conceito de perverso para a conversa."
 tags: ["kung-fu", "ving-tsun", "programa-de-mestrado", "III-encontro-mestrado", "humanidade", "escutar", "cultura", "perversao", "moy-lei-yat"]
