@@ -3,7 +3,7 @@ title: "Hanlon's razor: Never attribute to malice that which is adequately expla
 date: 2026-04-21T12:35:58+01:00
 category: quote
 summary: "Formulação de 1980 de Robert J. Hanlon em 'Murphy's Law Book Two'. A atribuição a Napoleão é mito sem fonte primária."
-tags: ["robert-j-hanlon", "famous-razors", "heuristica", "atribuicao-errada"]
+tags: ["robert-j-hanlon", "famous-razors", "heuristica", "atribuicao-errada", "murphy-laws"]
 has_commentary: false
 sources:
   - title: "Quote Origin: Never Attribute to Malice That Which Is Adequately Explained by Stupidity"
