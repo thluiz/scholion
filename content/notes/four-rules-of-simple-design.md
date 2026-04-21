@@ -18,3 +18,5 @@ Kent Beck formulated four rules of simple design while developing Extreme Progra
 4. **Fewest elements** — minimize the number of classes, methods, and moving parts. Remove anything that doesn't serve the first three rules.
 
 The order matters: passing tests comes first, then clarity, then removing duplication, and finally minimizing structure. Each rule only applies after the ones above it are satisfied.
+
+The fourth rule is a corollary of [Occam's razor](/notes/occam-razor/) applied to software design: entities should not be multiplied beyond necessity.
