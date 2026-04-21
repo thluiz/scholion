@@ -1,10 +1,11 @@
 ---
-title: "Mestre Guilherme Farias: Os três pilares de Kung Fu -  trabalho, energia, maturidade"
+title: "Mestre Guilherme Farias: Os três pilares de Kung Fu - trabalho, energia, maturidade"
 date: 2026-04-18T19:12:57+01:00
 category: note
-summary: "Proposta de Mestre Guilherme de Farias sobre o que é Kung Fu 功夫 (Gōngfu / gung1 fu1) como sendo três camadas de prática: trabalho mecânico 工 (Gōng / gung1), energia aplicada 力 (Lì / lik6) e e o transbordamento para a vida 夫 (Fū / fu1). "
+summary: "Proposta de Mestre Guilherme de Farias sobre o que é Kung Fu 功夫 (Gōngfu / gung1 fu1) como três camadas de prática: trabalho mecânico 工 (Gōng / gung1), energia aplicada 力 (Lì / lik6) e o transbordamento para a vida 夫 (Fū / fu1)."
 tags: ["kung-fu", "ving-tsun", "ideogramas", "programa-de-mestrado", "III-encontro-mestrado", "processo", "etimologia"]
 has_commentary: true
+toc: true
 sources:
   - title: "Programa de Mestrado — III Encontro"
     author: "Julio Camacho et al."
@@ -12,18 +13,9 @@ sources:
     kind: other
 ---
 
-No terceiro encontro do Programa de Mestrado, o Mestre Guilherme de Farias trouxe uma leitura que era inédita para mim do que seria Kung Fu 功夫 (Gōngfu / gung1 fu1).
+No terceiro encontro do Programa de Mestrado, Mestre Guilherme de Farias trouxe uma nova leitura de 功夫 (Gōngfu / gung1 fu1): ao invés de se debruçar na etimologia, colocou os ideogramas como camadas e fases distintas do desenvolvimento do indivíduo.
 
-Ao invés de se debruçar na etimologia ele os colocou como camadas e fases distintas de desenvolvimento o individuo.
-
-A proposta dele: 功 (Gōng / gung1) se desdobra em dois componentes: 工 (Gōng / gung1), trabalho, e 力 (Lì / lik6), energia. Junto com 夫 (Fū / fu1), para a vida praticante.
-
-- **工** (Gōng / gung1) - Em chines é literalmente trabalho. O trabalho necessário para executar uma ação.
-
-- **力** (Lì / lik6)
-
-
-夫 (Fū / fu1) carrega a ideia de maturidade porque o seu componente base é 大 (Dà / daai6), uma pessoa de braços abertos — grande, adulta. No ideograma 夫, essa pessoa ganha uma presilha nos cabelos: na China antiga, homens casados ou maduros prendiam o cabelo de forma específica. 夫 é alguém que já percorreu um caminho.
+A proposta dele: 功 (Gōng / gung1) se desdobra em dois componentes, 工 (Gōng / gung1), trabalho, e 力 (Lì / lik6), energia. Junto com 夫 (Fū / fu1), temos as três camadas da vida do praticante:
 
 ### 工 (Gōng / gung1) — Trabalho
 
@@ -37,18 +29,22 @@ A segunda camada é energia. Não mais a execução bruta, mas a economia do ges
 
 A terceira camada é fu. Maturidade. O ponto em que o que se aprende na técnica transborda. Não precisa mais se apegar ao movimento porque o movimento já te atravessou. Não é que a técnica não importa mais. É que ela deixou de ser o recipiente e virou o conteúdo.
 
-### A correção
+夫 (Fū / fu1) carrega a ideia de maturidade porque o seu componente base é 大 (Dà / daai6), uma pessoa de braços abertos — grande, adulta. No ideograma 夫, essa pessoa ganha uma presilha nos cabelos: na China antiga, homens adultos prendiam o cabelo de forma específica. 夫 é alguém que já percorreu um caminho.
 
-O Si Fu, ouvindo isso, fez a correção que precisava ser feita. Elogiou o trabalho (e tinha trabalho por trás, dava para ver) mas apontou uma falha de raciocínio na terceira camada. O Guilherme disse que chega um momento em que "não há mais nada para aprender no Tan Sao". O Si Fu discordou.
+## O Comentário do Si Fu
 
-*"É como se no Tan Sao tivesse um número X de sabedoria, e aí você conseguiu extrair toda a sabedoria do Tan Sao. E não é."*
+O ponto que o [Si Fu](/notes/os-dois-si-fu/) salientou é que o praticante está sempre em todas as etapas ao mesmo tempo. Importante não ter a ideia de que uma técnica é perfeita em si. Um Tan Sau nunca vai existir no vácuo, sempre vai depender do contexto de execução e sempre vai ter algo a dizer ao praticante.
 
-O argumento é lindo na sua simplicidade. A pessoa que faz Siu Nim Tau 小念頭 hoje não é a mesma que fez ontem. Ontem você não tinha vivido hoje. Então o que o sistema diz para você agora é algo que ontem ele não podia dizer, porque você não existia ainda nesta versão. O saber sistêmico é interativo, e interação pressupõe dois lados vivos. Se você mudou, o diálogo mudou.
+A pessoa que faz [Siu Nim Tau](/notes/etimologia-de-siu-nim-tau-xiao-nian-tou/) (小念頭) hoje não é a mesma que fez ontem. Ontem você não tinha vivido hoje. Então o que o sistema diz para você agora é algo que ontem ele não podia dizer, porque você não existia ainda nesta versão. O saber sistêmico é interativo, e interação pressupõe dois lados vivos. Se você mudou, o diálogo mudou.
 
-*"Eu nunca tive um dia como eu tive hoje na minha vida."*
+## Glosa
 
-É por isso que em alto nível você volta para o sistema. Não para a didática, aquela já ficou para trás. Para o sistema. Porque ele continua tendo o que dizer, contanto que você continue tendo o que perguntar.
+Guilherme acabou me lembrando de uma das primeiras aulas propriamente ditas que tive com o Si Fu. Estava no final do Siu Nim Tau 小念頭 (Xiǎo Niàn Tóu / siu2 nim6 tau4) ainda, prestes a começar o [Cham Kiu](/tags/cham-kiu/) 尋橋 (Xún Qiáo / cam4 kiu4). Ele trabalhava com a Si Jeh Paula e explicava uma ideia sobre 大 (Dà / daai6) com três quadrados no quadro branco da primeira sala do Blue Sky.
 
-A trilogia do Guilherme funciona como mapa, não como território. Ninguém mora numa camada só. Ninguém "supera" o trabalho mecânico de vez. A correção do Si Fu é que as camadas não são degraus que você sobe e abandona. São lentes que se sobrepõem. Você pratica com as três ao mesmo tempo, em proporções diferentes conforme quem você é naquele dia.
+Começava com dois quadrados. Um azul maior envolvendo de perto um verde um pouco menor.
 
-Talvez o mais bonito da proposta seja que ela devolve ao praticante a responsabilidade de ler os ideogramas com o próprio corpo. 工, 力, 夫 não são definição. São convite.
+Ele explicava: _"Esse verde é um problema. Se você for pequeno, esse problema parece muito grande, vai te incomodar. A questão é que muitas vezes não temos como mudar os problemas. Eles são o que são. O que podemos trabalhar somos nós mesmos."_
+
+Em seguida desenhava um grande quadrado preto quase do tamanho do quadro, envolvendo os dois anteriores: _"Vê? Agora aquele problema que era grande e incomodava não passa de mais uma questão pequena. Com Kung Fu podemos trabalhar nós mesmos frente a essas dificuldades."_
+
+Essa conversa tem mais de 20 anos. Obviamente o Si Fu não explicou com esses termos, mas o Guilherme e o comentário me fizeram relembrar que dentro de 夫 existe sempre um 大. Uma pessoa grande, que precisou e precisa seguir crescendo.
