@@ -3,7 +3,7 @@ title: "Mestre Guilherme Farias: Os três pilares de Kung Fu - trabalho, energia
 date: 2026-04-18T19:12:57+01:00
 category: note
 summary: "Proposta de Mestre Guilherme de Farias sobre o que é Kung Fu 功夫 (Gōngfu / gung1 fu1) como três camadas de prática: trabalho mecânico 工 (Gōng / gung1), energia aplicada 力 (Lì / lik6) e o transbordamento para a vida 夫 (Fū / fu1)."
-tags: ["kung-fu", "ving-tsun", "ideogramas", "programa-de-mestrado", "III-encontro-mestrado", "processo", "etimologia"]
+tags: ["kung-fu", "ving-tsun", "ideogramas", "programa-de-mestrado", "III-encontro-mestrado", "processo", "etimologia", "moy-faat-lin"]
 has_commentary: true
 toc: true
 sources:
@@ -13,7 +13,7 @@ sources:
     kind: other
 ---
 
-No terceiro encontro do Programa de Mestrado, Mestre Guilherme de Farias trouxe uma nova leitura de 功夫 (Gōngfu / gung1 fu1): ao invés de se debruçar na etimologia, colocou os ideogramas como camadas e fases distintas do desenvolvimento do indivíduo.
+No terceiro encontro do Programa de Mestrado, Mestre Guilherme de Farias, [Moy Faat Lin 梅法蓮](/notes/moy-faat-lin/), trouxe uma nova leitura de 功夫 (Gōngfu / gung1 fu1): ao invés de se debruçar na etimologia, colocou os ideogramas como camadas e fases distintas do desenvolvimento do indivíduo.
 
 A proposta dele: 功 (Gōng / gung1) se desdobra em dois componentes, 工 (Gōng / gung1), trabalho, e 力 (Lì / lik6), energia. Junto com 夫 (Fū / fu1), temos as três camadas da vida do praticante:
 

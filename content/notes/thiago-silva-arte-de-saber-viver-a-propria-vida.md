@@ -1,6 +1,6 @@
 ---
 title: "Mestre Thiago Silva: A arte de saber viver a própria vida"
-date: 2026-04-22T14:30:00+01:00
+date: 2026-04-19T23:30:00+01:00
 category: note
 summary: "Proposta de Mestre Thiago Silva (Moy Chi Yau Si 梅知友士) no terceiro encontro do Programa de Mestrado: Kung Fu como arte de saber viver a própria vida, de acordo com os próprios valores. Sem sistema, o Kung Fu para de evoluir e o praticante vira refém de si mesmo. Si Fu desdobra em que não existe Kung Fu sem Sifu: Sifu como função, não como pessoa."
 tags: ["kung-fu", "ving-tsun", "programa-de-mestrado", "III-encontro-mestrado", "sistema", "sifu-como-funcao", "moy-chi-yau-si"]
