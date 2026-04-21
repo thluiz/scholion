@@ -3,7 +3,7 @@ title: "Sturgeon's law: Ninety percent of everything is crap"
 date: 2026-04-21T14:14:50+01:00
 category: quote
 summary: "Formulada por Theodore Sturgeon em palestra de 1951 na NYU. Primeira publicação escrita: Venture Magazine, setembro de 1957. Sturgeon chamava de 'Sturgeon's Revelation'."
-tags: ["theodore-sturgeon", "famous-razors", "critica-cultural", "heuristica"]
+tags: ["theodore-sturgeon", "famous-razors", "murphy-laws", "critica-cultural", "heuristica"]
 has_commentary: false
 sources:
   - title: "Sturgeon's law"
