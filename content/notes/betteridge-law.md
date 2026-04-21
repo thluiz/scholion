@@ -3,7 +3,7 @@ title: "Betteridge's law of headlines: Any headline that ends in a question mark
 date: 2026-04-21T14:15:10+01:00
 category: quote
 summary: "Formulada por Ian Betteridge em artigo de fevereiro de 2009. Máxima similar circulava antes sob outros nomes, como 'Davis's law' em compilações de 1991."
-tags: ["ian-betteridge", "famous-razors", "jornalismo", "heuristica"]
+tags: ["ian-betteridge", "famous-razors", "murphy-laws", "jornalismo", "heuristica"]
 has_commentary: false
 sources:
   - title: "Betteridge's law of headlines"
