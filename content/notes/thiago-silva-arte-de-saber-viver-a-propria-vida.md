@@ -53,12 +53,12 @@ Contribuí pouco na minha vez. Fiquei confuso, com muita coisa anotada e pouca o
 
 Caprichei nas notas dos irmãos em parte para compensar o que eu mesmo não consegui construir melhor na hora.
 
-Tem um ponto que ainda estou tentando acomodar no meu pensamento: Ao que parece, Si Fu separa o sistema Ving Tsun apenas no conjunto de técnicas. Eu tenho uma visão mais holistica: O Sistema Ving Tsun se baseia na família Kung Fu se replicando e refinando geração após geração. Quando Leung Bok Toa atribui a fundadora e sua esposa o nome do sistema ele está dizendo, de certa forma, que o que ele tem veio de um anterior. 
+Tem um ponto que ainda estou tentando acomodar no meu pensamento: ao que parece, Si Fu separa o sistema Ving Tsun apenas ao conjunto de técnicas. Eu tenho uma visão mais holística: o Sistema Ving Tsun se baseia na família Kung Fu se replicando e refinando geração após geração. Quando Leung Bok Toa atribui à fundadora, sua esposa, o nome do sistema, ele está dizendo, de certa forma, que o que ele tem veio de um anterior.
 
-Quando Si Taai Gung afirma que iria transmitir da mesma forma que aprendeu reproduzia essa afirmação.
+Quando Si Taai Gung afirmava que iria transmitir da mesma forma que aprendeu, reproduzia essa afirmação.
 
-Quando Si Gung cria a ideia de denominação Moy Yat Ving Tsun, também está ecoando a mesma ideia. 
+Quando Si Gung cria a ideia de denominação Moy Yat Ving Tsun, também está ecoando a mesma ideia.
 
-Quando nós nos vinculamos ao Instituto Julio Camacho também rimamos o mesmo movimento.
+Quando nós nos vinculamos ao Instituto Julio Camacho, também rimamos o mesmo movimento.
 
-Para mim, a família é parte do sistema. É a partir dela que o sistema se refina e se perpertua (o que eu chamo de "pegadinha" sistêmica dele). O conjunto de técnicas não sobrevive no vácuo, se fosse assim poderia ser transmitido em livros, internet, vídeos. O que garante a legimidade e eficiência do próprio processo é o nosso vinculo com a geração imediatamente anterior, não adianta buscar atalhos. 
+Para mim, a família é parte do sistema. É a partir dela que o sistema se refina e se perpetua (o que eu chamo de "pegadinha" sistêmica dele). O conjunto de técnicas não sobrevive no vácuo. Se fosse assim, poderia ser transmitido em livros, internet, vídeos. O que garante a legitimidade e eficiência do próprio processo é o nosso vínculo com a geração imediatamente anterior, não adianta buscar atalhos.
