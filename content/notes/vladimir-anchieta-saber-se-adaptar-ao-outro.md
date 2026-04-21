@@ -2,7 +2,7 @@
 title: "Mestre Vladimir Anchieta: Saber se adaptar ao outro"
 date: 2026-04-19T22:30:00+01:00
 category: note
-summary: "Proposta de Mestre Vladimir Anchieta (Moy Wu Lai 梅護禮) sobre Kung Fu como adaptação: viver de forma adequada ao mundo e saber se adaptar ao outro. Si Fu desdobra a ética de Sifu: dar ferramentas para o discípulo pensar, em vez de impor a própria crença."
+summary: "Proposta de Mestre Vladimir Anchieta (Moy Wu Lai 梅護禮) sobre Kung Fu como adaptação: viver de forma adequada ao mundo e saber se adaptar ao outro. Si Fu desdobra a ética de Si Fu: dar ferramentas para o discípulo pensar, em vez de impor a própria crença."
 tags: ["kung-fu", "ving-tsun", "programa-de-mestrado", "III-encontro-mestrado", "adaptacao", "sifu", "moy-wu-lai"]
 has_commentary: true
 toc: true
@@ -45,7 +45,7 @@ Si Fu pede pra gente imaginar o cenário em que seus discipulos não tenham sua 
 
 **A forma mais honesta de ajudar o discípulo é dar ferramentas para ele pensar, não dar respostas prontas.** Ajudar a ser forte na própria crença dele, não na sua. O Si Fu não precisa esconder a crença. Não precisa evitar falar dela. Mas não pode impô-la, porque estaria usando uma posição que serve para uma coisa para fazer outra.
 
-Não há problema em ser evangélico. O problema é limitar a forma como o discípulo pode viver a própria vida melhor, só por conta das crenças do Sifu.
+Não há problema em ser evangélico. O problema é limitar a forma como o discípulo pode viver a própria vida melhor, só por conta das crenças do Si Fu.
 
 ## Glosa
 
