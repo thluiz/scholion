@@ -41,7 +41,7 @@ Adequar-se soa a ajustar-se, render-se à norma, ocupar o lugar que mandaram. N�
 
 Adequação em sentido grego é reconhecer que a pessoa vive dentro de um sistema de relações. Família, ofício, cidade, natureza. A excelência consiste em servir esse sistema do jeito que só ela pode servir. Um corretor de imóveis bom não é o que vende mais. É o que coloca cada pessoa na casa certa. Ele serve ao ergon da profissão, que é a acomodação da pessoa no mundo. Aretê em corretor mora aí.
 
-É rígido? Em parte sim. O mundo grego não tinha a mobilidade que temos. Mas o princípio fica: a excelência se mede pelo ajuste à função, e a função se mede pela inserção no cosmos.
+É rígido? Em um mundo orientado para uma organização (Cosmos) não havia mobilidade real. Por isso práticas Filosóficas (Estóicas) precisam sempre ser adaptadas ao nosso contexto. Não podemos cair no anacronismo de achar que se aplicam ao mundo de hoje como foram propostas.
 
 ### Por que isso interessa no Kung Fu
 
