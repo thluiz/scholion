@@ -3,7 +3,7 @@ title: "Grey's Law: Any sufficiently advanced incompetence is indistinguishable 
 date: 2026-04-21T12:38:00+01:00
 category: quote
 summary: "Paródia da 3ª lei de Clarke. Atribuição a 'Grey' não corroborada; registro mais antigo é de 2002 em Usenet."
-tags: ["grey", "famous-razors", "atribuicao-errada", "heuristica"]
+tags: ["grey", "famous-razors", "atribuicao-errada", "heuristica", "murphy-laws"]
 has_commentary: false
 sources:
   - title: "Grey's Law"
