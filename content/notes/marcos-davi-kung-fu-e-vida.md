@@ -27,7 +27,7 @@ O sistema Ving Tsun serve de referência para essa leitura. Respeitar uma linha,
 
 ### Marcialidade não é luta
 
-Marcos diz que tem dificuldade de enxergar o Tan Sao 攤手 (Tān Shǒu / taan1 sau2) além da marcialidade, de levá-lo para o cotidiano. Reconhece que o próprio Kung Fu ainda está muito bebê nesse aspecto.
+Marcos diz que tem dificuldade de enxergar o Tan Sao [攤](/notes/etimologia-de-taan-tan/)[手](/notes/etimologia-de-sau-shou/) (Tān Shǒu / taan1 sau2) além da marcialidade, de levá-lo para o cotidiano. Reconhece que o próprio Kung Fu ainda está muito bebê nesse aspecto.
 
 ## O Comentário do Si Fu
 
