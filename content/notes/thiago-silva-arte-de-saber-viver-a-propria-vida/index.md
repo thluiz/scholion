@@ -15,7 +15,7 @@ sources:
 
 O Programa de Mestrado alimenta o livro que venho escrevendo, um guia do sistema Ving Tsun lido pela lente do pensamento sistêmico. Si Fu abriu o terceiro encontro reafirmando o objetivo: *"queremos registrar esse material, escrever esse material."* Cada fala dos irmãos, cada pergunta, cada provocação vira matéria-prima.
 
-Quando chegou a minha vez, como [Moy Chi Yau Si 梅知友士](/notes/moy-chi-yau-si/), fui no sentido dos termos que não têm tradução.
+Quando chegou a minha vez, fui no sentido dos termos que não têm tradução.
 
 ### A arte de saber viver a própria vida
 
@@ -62,3 +62,5 @@ Quando Si Gung cria a ideia de denominação Moy Yat Ving Tsun, também está ec
 Quando nós nos vinculamos ao Instituto Julio Camacho, também rimamos o mesmo movimento.
 
 Para mim, a família é parte do sistema. É a partir dela que o sistema se refina e se perpetua (o que eu chamo de "pegadinha" sistêmica dele). O conjunto de técnicas não sobrevive no vácuo. Se fosse assim, poderia ser transmitido em livros, internet, vídeos. O que garante a legitimidade e eficiência do próprio processo é o nosso vínculo com a geração imediatamente anterior, não adianta buscar atalhos.
+
+{{< figure src="iii-encontro-sifu-emblema.png" alt="Si Fu durante o III Encontro do Programa de Mestrado, com o emblema da família Moy Jo Lei Ou no fundo" caption="*III Encontro do Programa de Mestrado — Si Fu e o emblema da família Moy Jo Lei Ou*" figureClass="text-center italic" >}}
