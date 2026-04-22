@@ -28,6 +28,9 @@ sources:
 - title: 漢語多功能字庫 — CUHK
   url: https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/
   kind: wiki
+- title: 漢典 (zdic.net)
+  url: https://www.zdic.net/
+  kind: wiki
 ---
 
 ## 掌 (Jeung)
@@ -63,7 +66,11 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 1 (S08813) · Liushutong 5.
 
 **說文**: 《說文解字》：「掌，手中也。从手，尚聲。」 ("Shuowen Jiezi: 掌 é o 'meio da mão' (i.e. palma). De 手 (mão) como semântico; 尚 como fonético.")
 
-**段注 Duan Yucai**: shuowen.org não exibiu a ficha para 掌 nesta consulta. O 段注 ficou pendente de acesso direto.
+**段注 Duan Yucai** (via [zdic.net](https://www.zdic.net/hans/%E6%8E%8C)):
+
+> 手中也。手有面有背。背在外則面在中。故曰手中。左傳云有文在手者、在掌也。釋名云。水泆出所爲澤曰掌。水渟處如手掌中也。詩。或王事鞅掌。傳曰。鞅掌、失容也。箋云。鞅猶何也。掌謂捧之也。玉裁按凡周禮官名掌某者、皆捧持之義。从手。尙聲。諸兩切。十部。
+
+("O meio da mão. A mão tem face e dorso. Como o dorso fica do lado de fora, a face fica no meio. Por isso se diz 'meio da mão'. O *Zuǒzhuàn* diz: 'quando há marcas na mão, é na palma'. O *Shìmíng* diz: 'onde a água transborda e forma alagadiço chama-se 掌 — o ponto em que a água se acumula é como o meio da palma'. O *Shījīng* tem: 'E os afazeres do rei me sobrecarregam — 鞅掌'. O comentário de Mao diz: '鞅掌 é perder a compostura'. A glosa de Zhèng diz: '鞅 é como 何 [carregar]; 掌 quer dizer segurar na palma'. Nota de Yucai: em todos os nomes de ofício do *Zhōu Lǐ* [Ritos de Zhou] formados com 掌某 ['Encarregado de X'], o sentido é 'segurar e manter'. De 手 (mão); 尚 é o fonético. Fanqie: 諸兩. Rhyme group 10.")
 
 **Notas interpretativas (CUHK)**: variantes dos Estados Combatentes às vezes omitem o componente 口 do fonético 尚. Expressões clássicas recorrentes: 運之掌上 ("girá-lo na palma" = sem esforço) e 反掌 ("virar a palma" = com facilidade). A extensão para "administrar, governar" (def. 4 do chardb) parte dessas imagens: quem tem algo *na palma da mão* o domina.
 
@@ -106,4 +113,4 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 1 (S08813) · Liushutong 5.
 - **Semântica da ação**: def. 2 (golpear com a palma) e def. 3 (segurar) vão na mesma direção mas com agência oposta: a palma que golpeia e a mão que retém. A def. 4 (職掌, "administrar, estar encarregado") estende a ideia de "ter na palma da mão" para o domínio político-administrativo — eco direto de 運之掌上 ("girá-lo na palma"), expressão clássica.
 - **Confirmação cantonesa**: MDBG e CantoDict registram **zoeng2** — coerente com MC 章母養韻開三上 (palatal inicial + rima *aŋ* em tom rising).
 - **Rima arcaica**: as cinco reconstruções concordam em atribuir 掌 ao rhyme group 陽 *yáng* e ao inicial palatal *ȶ-* / *t-*. Karlgren, Wang Li e Dong Tonghe usam *ȶ-* (palatal); Zhou Fagao e Li Fanggui simplificam para *t-* — diferença notacional, não fonológica.
-- **Shuowen.org ausente**: a interface pública do shuowen.org não retornou a ficha de 掌 nesta consulta. O texto do *Shuowen* está verificado via hanziyuan e xiaoxue; o 段注 Duan Yucai ficou pendente de acesso direto.
+- **Shuowen.org ausente, 段注 via zdic.net**: a interface pública do shuowen.org não retornou a ficha de 掌. O 段注 foi resgatado de [zdic.net/hans/掌](https://www.zdic.net/hans/%E6%8E%8C), que reproduz o texto de Duan integral. Pontos que o 段注 acrescenta: (i) a definição "meio da mão" parte de uma topografia explícita — dorso fora, face dentro; (ii) o sentido "pântano / alagadiço" (chardb def. 8) tem ancoragem clássica no *Shìmíng* (*shuǐ tíng chù rú shǒuzhǎng zhōng yě* — "o lugar onde a água se acumula é como o meio da palma"); (iii) a extensão administrativa (def. 4) é confirmada como central — todos os ofícios no *Zhōu Lǐ* do tipo *zhǎng mǒu* ("Encarregado de X") são, literalmente, "segurar e manter" X na palma.
