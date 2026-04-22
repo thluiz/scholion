@@ -12,7 +12,15 @@ toc: true
 
 Publicado em 2026-04-22 no Silvae: [O III Encontro do Programa de Mestrado](https://silva.thluiz.com/posts/iii-encontro-mestrado/)
 
-Compilação das sete falas do terceiro encontro do Programa de Mestrado, com Thiago Silva como texto-base. Sumários linkados das contribuições de Márcio Lopes (aretê grego como arte da excelência), Marcos Davi (Kung Fu é vida, Si Fu separando Kung Fu subjetivo de Ving Tsun objetivo e puxando a etimologia de marcialidade em Marte), Guilherme Farias (as três camadas 工/力/夫), Pedro Henrique Corrêa (humanidade é escutar o outro, perverso freudiano), Claudio Teixeira (servir-liderar-legar sem cronologia) e Vladimir Anchieta (Kung Fu como adaptação ao outro). A fala do Thiago puxa Kung Fu como arte de saber viver a própria vida — frase do Si Gung —, e alerta que sem sistema o praticante vira refém de si mesmo. Si Fu complementa com o triângulo da soberania (pessoa, sistema, Si Fu) e insiste que não existe auto-Kung Fu: Si Fu é função, não pessoa. O texto fecha com a divergência ainda em aberto: para o Thiago, a família é parte do sistema, e o que garante legitimidade ao Ving Tsun é o vínculo geracional, não o conjunto de técnicas em si.
+Compilação das sete falas do terceiro encontro do Programa de Mestrado, com Thiago Silva como texto-base.
+
+Márcio Lopes trouxe Kung Fu como arte da excelência, com Si Fu puxando o conceito grego de aretê. Marcos Davi, definição herdada do Si Taai Gung: Kung Fu é vida, com Si Fu separando Kung Fu (subjetivo) de Ving Tsun (objetivo) e puxando a etimologia de marcialidade em Marte. Guilherme Farias leu os ideogramas de 功夫 como três camadas (工/力/夫). Pedro Henrique Corrêa propôs humanidade como ponto comum da família. Claudio Teixeira: servir-liderar-legar, sem cronologia. Vladimir Anchieta: Kung Fu como adaptação ao outro.
+
+A fala do Thiago puxou a frase do Si Gung: Kung Fu é a arte de saber viver a própria vida. Sem sistema, o praticante vira refém do que ele mesmo desenvolveu.
+
+Si Fu complementou com o triângulo da soberania (pessoa, sistema, Si Fu). Si Fu é função, não pessoa. Não existe auto-Kung Fu.
+
+O Thiago complementa no fechamento: a família é parte do sistema, e é o vínculo geracional que garante legitimidade ao Ving Tsun.
 
 ## Notas extraídas
 
