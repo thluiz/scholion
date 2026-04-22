@@ -1,14 +1,14 @@
 [
   {
     "date": "2026-04-22",
+    "subject": "note: adiciona etimologia de Moy Chi Yau Si às fontes"
+  },
+  {
+    "date": "2026-04-22",
+    "subject": "note: remove auto-referência em 3ª pessoa e adiciona foto do III Encontro (Thiago)"
+  },
+  {
+    "date": "2026-04-22",
     "subject": "fix: datas futuras em Pedro e Thiago (Hugo ignorava); add: tag moy-faat-lin + link Guilherme"
-  },
-  {
-    "date": "2026-04-22",
-    "subject": "fix: revisão ortográfica e gramatical da glosa (Thiago Silva, III Encontro)"
-  },
-  {
-    "date": "2026-04-22",
-    "subject": "note: Mestre Thiago Silva, a arte de saber viver a própria vida (III Encontro); fix: Sifu -> Si Fu em Vladimir"
   }
 ]
