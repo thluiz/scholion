@@ -31,7 +31,7 @@ Marcos diz que tem dificuldade de enxergar o Tan Sao 攤手 (Tān Shǒu / taan1 
 
 ## O Comentário do Si Fu
 
-[Si Fu](/notes/os-dois-si-fu/) faz duas correções a partir das falas de Marcos. A primeira nasce quando Marcos diz que "usa o Ving Tsun no trabalho".
+[Si Fu](/notes/os-dois-si-fu/) faz duas colocações a partir das falas de Marcos. A primeira nasce quando Marcos diz que "usa o Ving Tsun no trabalho".
 
 Kung Fu é o aspecto subjetivo do processo e do resultado. Sistema Ving Tsun é o aspecto objetivo, quase material. 
 
