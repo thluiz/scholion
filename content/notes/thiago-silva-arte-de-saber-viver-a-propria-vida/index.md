@@ -11,6 +11,9 @@ sources:
     author: "Julio Camacho et al."
     year: 2026
     kind: other
+  - title: "Moy Chi Yau Si 梅知友士 — etimologia"
+    url: /notes/moy-chi-yau-si/
+    kind: internal
 ---
 
 O Programa de Mestrado alimenta o livro que venho escrevendo, um guia do sistema Ving Tsun lido pela lente do pensamento sistêmico. Si Fu abriu o terceiro encontro reafirmando o objetivo: *"queremos registrar esse material, escrever esse material."* Cada fala dos irmãos, cada pergunta, cada provocação vira matéria-prima.
