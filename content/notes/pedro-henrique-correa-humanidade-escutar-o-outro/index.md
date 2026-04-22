@@ -15,6 +15,8 @@ sources:
 
 No terceiro encontro do Programa de Mestrado, Mestre Pedro Henrique Corrêa, [Moy Lei Yat 梅利溢](/notes/moy-lei-yat/), participa com a filha no colo. Poderia ter usado isso como desculpa para não se colocar, entretanto nos brindou com colocações relevantes, abrindo portas para o mundo da psicanálise.
 
+{{< figure src="pedro-filha-kung-fu.png" alt="Mestre Pedro Henrique Corrêa com a filha no colo durante o III Encontro do Programa de Mestrado" caption="*Mestre Pedro explicando para filha o que é Kung Fu*" figureClass="text-center italic" >}}
+
 ### Habilidade adquirida no tempo
 
 Kung Fu é uma habilidade adquirida ao longo do tempo.
