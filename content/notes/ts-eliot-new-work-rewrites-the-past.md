@@ -3,7 +3,7 @@ title: "T.S. Eliot: a new work rewrites the whole past"
 date: 2026-04-22T23:48:16+01:00
 category: podcast
 summary: "Eliot's retroactive causation: a radically new artwork reorganizes the entire tradition that precedes it — retroactivity at the level of ontology."
-tags: ["philosophy", "history", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "philosophy", "history", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

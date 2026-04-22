@@ -3,7 +3,7 @@ title: "Subjectivity requires the impenetrable other"
 date: 2026-04-22T23:41:16+01:00
 category: podcast
 summary: "With Hegel, Freud and Lacan: a subject emerges only through encounter with another subjectivity whose interiority is a priori opaque."
-tags: ["hegel", "philosophy", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "hegel", "philosophy", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

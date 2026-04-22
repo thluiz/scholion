@@ -3,7 +3,7 @@ title: "Marx's communism: capitalism without capital"
 date: 2026-04-22T23:47:16+01:00
 category: podcast
 summary: "Marx's communism kept capitalism's engine of ceaseless expanded reproduction while removing only surplus value — ecologically incoherent."
-tags: ["marx", "communism", "ecology", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "marx", "communism", "ecology", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

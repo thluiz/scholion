@@ -3,7 +3,7 @@ title: "Does the left need a Lee Kuan Yew?"
 date: 2026-04-22T23:51:16+01:00
 category: podcast
 summary: "Žižek backs Sloterdijk's prediction that Lee Kuan Yew will be the figure of this era remembered in 100 years — the left needs comparable social cohesion."
-tags: ["politics", "communism", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "politics", "communism", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

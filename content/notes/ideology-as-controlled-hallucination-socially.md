@@ -3,7 +3,7 @@ title: "Ideology as controlled hallucination — but socially"
 date: 2026-04-22T23:59:16+01:00
 category: podcast
 summary: "Reframing Anil Seth's cognitive theory as ideology critique: reality is a construction, but the feedback loop runs through the symbolic order, not an individual brain."
-tags: ["philosophy", "hegel", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "philosophy", "hegel", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

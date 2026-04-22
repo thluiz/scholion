@@ -3,7 +3,7 @@ title: "US tripartite landscape: Democrats, Trumpians, democratic socialists"
 date: 2026-04-22T23:56:16+01:00
 category: podcast
 summary: "The coming American contest is three-sided: absorbed Republican-Trumpians, old-center Democrats, and a democratic-socialist current deciding whether to split."
-tags: ["politics", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "politics", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

@@ -3,7 +3,7 @@ title: "Every epoch reinvents its Shakespeare"
 date: 2026-04-22T23:49:16+01:00
 category: podcast
 summary: "Shakespeare's greatness is his ontological incompleteness: each epoch legitimately re-constitutes Hamlet from its own position."
-tags: ["philosophy", "history", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "philosophy", "history", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

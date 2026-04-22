@@ -3,7 +3,7 @@ title: "Paraconsistent logic as the lesson of quantum mechanics"
 date: 2026-04-22T23:45:16+01:00
 category: podcast
 summary: "Paraconsistent logic is the formal shape of a materialism adequate to QM: time, space and causality cease to hold without remainder."
-tags: ["quantum-physics", "materialism", "philosophy", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "quantum-physics", "materialism", "philosophy", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

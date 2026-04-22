@@ -3,7 +3,7 @@ title: "Epistemological limitation defines the thing itself"
 date: 2026-04-22T23:39:16+01:00
 category: podcast
 summary: "Žižek's core inversion: quantum incompleteness is not a gap in our knowledge of reality but a feature of reality itself."
-tags: ["quantum-physics", "materialism", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "quantum-physics", "materialism", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

@@ -3,7 +3,7 @@ title: "Capitalism works — but must be controlled"
 date: 2026-04-22T23:52:16+01:00
 category: podcast
 summary: "Denying that capitalism organizes productive activity is a fantasy; but free markets exist only when a strong state breaks the monopolies capitalism generates."
-tags: ["politics", "communism", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "politics", "communism", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

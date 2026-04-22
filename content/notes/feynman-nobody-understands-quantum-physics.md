@@ -3,7 +3,7 @@ title: "Feynman's 'nobody understands' taken seriously"
 date: 2026-04-22T23:43:16+01:00
 category: podcast
 summary: "Žižek reads Feynman literally: QM discloses a stratum whose structure is incompatible with the grammar of our reality."
-tags: ["quantum-physics", "philosophy", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "quantum-physics", "philosophy", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

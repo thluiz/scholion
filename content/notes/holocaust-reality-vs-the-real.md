@@ -3,7 +3,7 @@ title: "The Holocaust: reality vs. the Real"
 date: 2026-04-22T23:44:16+01:00
 category: podcast
 summary: "The Real of the Holocaust is non-negotiable; its reality — the meaning installed in collective life — can still be rewritten by ideological shifts."
-tags: ["history", "philosophy", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "history", "philosophy", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

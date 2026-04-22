@@ -3,7 +3,7 @@ title: "Heidegger's historical horizon — and why QM goes further"
 date: 2026-04-22T23:46:16+01:00
 category: podcast
 summary: "Heidegger: reality is always disclosed within a historical horizon. Quantum physics asks what stands outside every such horizon — the Lacanian Real."
-tags: ["philosophy", "quantum-physics", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "philosophy", "quantum-physics", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

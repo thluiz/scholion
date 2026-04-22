@@ -3,7 +3,7 @@ title: "Stalinism, Luxemburg, and the Frankfurt School's blind spot"
 date: 2026-04-23T00:01:16+01:00
 category: podcast
 summary: "Luxemburg's 'socialism or barbarism' is wrong because Stalinism was both at once — a lesson the Frankfurt School, fixated on Western fascism, never processed."
-tags: ["stalinism", "communism", "marx", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "stalinism", "communism", "marx", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"
