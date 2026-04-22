@@ -3,7 +3,7 @@ title: "Wang Huning: America Against America as CCP bible"
 date: 2026-04-22T23:53:16+01:00
 category: podcast
 summary: "Wang Huning, senior CCP ideologist: the soft-fascist question of preserving capitalism's productive energy while suppressing the social disintegration it causes."
-tags: ["politics", "communism", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "politics", "communism", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

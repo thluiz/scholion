@@ -3,7 +3,7 @@ title: "War communism: obligatory international cooperation"
 date: 2026-04-22T23:50:16+01:00
 category: podcast
 summary: "Against both voluntaristic cooperation and world government: 'war communism' as enforced coordination for the emergency state already arriving."
-tags: ["politics", "communism", "ecology", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "politics", "communism", "ecology", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

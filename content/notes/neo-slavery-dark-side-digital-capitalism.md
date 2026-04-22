@@ -3,7 +3,7 @@ title: "Neo-slavery: the dark side of global digital capitalism"
 date: 2026-04-23T00:04:16+01:00
 category: podcast
 summary: "Tens of thousands enslaved in Mekong scam compounds with organ-harvesting for quota failures; concentration camps in southern Libya running weekly torture-ransom videos."
-tags: ["politics", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "politics", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

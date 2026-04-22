@@ -3,7 +3,7 @@ title: "An alliance of those who refuse to pretend the exit is already known"
 date: 2026-04-23T00:05:16+01:00
 category: podcast
 summary: "Host's closing reading: a politics whose starting assumption is that the situation is genuinely deadlocked and no existing tendency — liberal, left or right — has the resources to unlock it."
-tags: ["politics", "philosophy", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "politics", "philosophy", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

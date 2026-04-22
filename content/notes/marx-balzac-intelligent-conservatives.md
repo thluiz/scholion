@@ -3,7 +3,7 @@ title: "Marx on Balzac: intelligent conservatives see the deadlocks"
 date: 2026-04-22T23:57:16+01:00
 category: podcast
 summary: "Žižek's dreamed coalition: renewed left plus intelligent — not reactionary — conservatives, the Balzac type who see the deadlocks and know there is no easy way out."
-tags: ["politics", "marx", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "politics", "marx", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

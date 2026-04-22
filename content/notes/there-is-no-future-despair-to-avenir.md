@@ -3,7 +3,7 @@ title: "There is no future: from despair to avenir"
 date: 2026-04-23T00:02:16+01:00
 category: podcast
 summary: "Hope is deferral; you only act in despair. 'There is no future' — the Democratic 'party of the future' is Fukuyamaism; Bernie Sanders alone at Biden's inauguration was avenir."
-tags: ["politics", "philosophy", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "politics", "philosophy", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

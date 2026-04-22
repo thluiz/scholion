@@ -3,7 +3,7 @@ title: "Trump opened a space the left tried and failed to open"
 date: 2026-04-22T23:55:16+01:00
 category: podcast
 summary: "Žižek grants that Trump did what the anti-globalization left tried and failed to do: disrupted global capitalism as we knew it, opening a new space."
-tags: ["politics", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "politics", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

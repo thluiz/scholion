@@ -3,7 +3,7 @@ title: "Trump as symptom of a dead democratic-welfare center"
 date: 2026-04-22T23:58:16+01:00
 category: podcast
 summary: "Trump is real and dangerous but not the primary enemy. He is a symptom of the democratic welfare-state center that lost its ideological content and instinct for self-preservation."
-tags: ["politics", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "politics", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

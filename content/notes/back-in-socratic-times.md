@@ -3,7 +3,7 @@ title: "We are back in Socratic times"
 date: 2026-04-22T23:38:16+01:00
 category: podcast
 summary: "Contemporary crises — ecology, AI, abortion — force a Socratic reflexive stance: before deciding what to do, ask what our concepts mean."
-tags: ["philosophy", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "philosophy", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

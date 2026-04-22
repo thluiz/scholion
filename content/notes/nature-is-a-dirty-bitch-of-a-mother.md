@@ -3,7 +3,7 @@ title: "Nature is a dirty bitch of a mother"
 date: 2026-04-22T23:37:16+01:00
 category: podcast
 summary: "Žižek contra deep ecology: nature is not a homeostatic mother but the source of the very catastrophes that buried the oil and coal we now burn."
-tags: ["ecology", "materialism", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "ecology", "materialism", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

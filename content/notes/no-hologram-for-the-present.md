@@ -3,7 +3,7 @@ title: "We don't know where we are: no hologram for the present"
 date: 2026-04-23T00:00:16+01:00
 category: podcast
 summary: "Today we lack the kind of totalizing hologram that capitalism retroactively imposed on all prior history once it contingently emerged. We are in the interval."
-tags: ["history", "marx", "politics", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "history", "marx", "politics", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

@@ -3,7 +3,7 @@ title: "Malebranche and the rational core of occasionalism"
 date: 2026-04-22T23:40:16+01:00
 category: podcast
 summary: "Malebranche's radical split between ideas and matter anticipates a modern insight: their interaction is always mediated by a third term."
-tags: ["philosophy", "materialism", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "philosophy", "materialism", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

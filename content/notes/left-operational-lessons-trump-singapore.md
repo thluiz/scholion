@@ -3,7 +3,7 @@ title: "The left's operational lessons: from Trump to Singapore"
 date: 2026-04-23T00:03:16+01:00
 category: podcast
 summary: "Trump won by stating his extreme position; Mamdani's 'radicalism' is old moderate social democracy; Switzerland and Singapore model organic unity 'in a good sense'."
-tags: ["politics", "communism", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "politics", "communism", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

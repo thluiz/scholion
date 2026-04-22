@@ -3,7 +3,7 @@ title: "Modernity begins after Renaissance (Pascal)"
 date: 2026-04-22T23:42:16+01:00
 category: podcast
 summary: "Modernity begins not with the Renaissance but with the Pascalian cut: a subjective interior facing a gray, infinite cosmos."
-tags: ["philosophy", "history", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "philosophy", "history", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"

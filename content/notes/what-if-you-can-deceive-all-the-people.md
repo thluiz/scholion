@@ -3,7 +3,7 @@ title: "What if you can deceive all the people all the time?"
 date: 2026-04-22T23:54:16+01:00
 category: podcast
 summary: "Žižek inverts Lincoln: authentic mass awakenings are rare and usually end in catastrophe. What politics remains once the myth of the clear-eyed people falls?"
-tags: ["politics", "philosophy", "zizek-quantum-history"]
+tags: ["slavoj-zizek", "politics", "philosophy", "zizek-quantum-history"]
 has_commentary: false
 sources:
   - title: "Slavoj Žižek on quantum history and the end of the past — Philosophy For Our Times"
