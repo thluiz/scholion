@@ -31,7 +31,7 @@ Nome kung fu de Rafael Romanizio Maciel.
 
 **Lo** (老 lǎo / lou5) – Velho, venerável, experiente.
 
-**Man** (問 wèn / man6) – Perguntar, inquirir.
+**Man** (問 wèn / man6) – Perguntar, inquirir. Ver [Etimologia de 問](/notes/etimologia-de-man-wen/) para análise completa.
 
 ## Etimologia no Chinês
 
