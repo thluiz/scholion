@@ -73,9 +73,13 @@ No arquivo original da pesquisa:
 
    Publicado em <YYYY-MM-DD> no Silvae: [<título>](https://silva.thluiz.com/posts/<slug>/)
 
-   <resumo substancial do texto publicado — 3 a 5 frases cobrindo os tópicos principais, não apenas o summary do frontmatter>
+   <resumo substancial do texto publicado — cobre os tópicos principais, não só o summary do frontmatter>
    ```
    O resumo deve permitir que alguém lendo apenas a pesquisa entenda o que foi publicado sem precisar abrir o link. Incluir os temas centrais, nomes, conceitos e a conclusão do texto.
+
+   **Voz e forma do resumo:**
+   - **Primeira pessoa.** O autor é o Thiago; nunca referir-se a ele como "o Thiago" ou "a fala do Thiago". Usar "na minha vez", "puxei", "complemento".
+   - **Parágrafos curtos**, não um único bloco corrido. Quebrar por seção lógica do post (abertura, falas dos irmãos, minha fala, comentário do Si Fu, fechamento).
 6. Manter as demais seções (Rascunhos, Notas extraídas, Fontes, Notas de contexto) intactas.
 
 ### 7. Build e commit
@@ -83,6 +87,10 @@ No arquivo original da pesquisa:
 1. `cd /e/scholion && hugo --quiet` — abortar se falhar.
 2. No Scholion: `git add content/research/<slug>.md` + commit `"research: publicar [tema]"` + push.
 3. No Silvae: `cd /e/silva && git add src/content/post/<slug>/` + commit `"feat: [título]"` + push.
+
+### 8. Aguardar pipeline antes de dizer "publicado"
+
+Após o push do Silvae, o deploy para S3+CloudFront ainda está rodando. Usar "pushed" / "enviado" ao relatar o estado. Só dizer "publicado" / "no ar" / "live" após confirmar `gh run list --repo thluiz/silva --limit 2` mostrar o workflow "Deploy to S3 + CloudFront" como `completed success`.
 
 ## Regras
 
