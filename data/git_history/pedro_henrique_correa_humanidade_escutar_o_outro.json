@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-04-22",
+    "subject": "ajustes"
+  },
+  {
+    "date": "2026-04-22",
     "subject": "fix: datas futuras em Pedro e Thiago (Hugo ignorava); add: tag moy-faat-lin + link Guilherme"
   },
   {
