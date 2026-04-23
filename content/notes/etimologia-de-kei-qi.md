@@ -36,7 +36,7 @@ category: etymology
 
 **崎** — U+5D0E · 部首 radical: 山 (montanha) · 總筆畫 strokes: 11 · 注音 zhuyin: ㄑㄧˊ · 拼音 pinyin: qí / jyutping: kei1
 
-É o Kei de 4 nomes da linhagem: Moy Kei Don, Moy Kei Tang, Moy Lo Kei Si, Moy Lo Kei.
+É o Kei de 4 nomes da linhagem: [Moy Kei Don](/notes/moy-kei-don/), [Moy Kei Tang](/notes/moy-kei-tang/), [Moy Lo Kei Si](/notes/moy-lo-kei-si/), [Moy Lo Kei](/notes/moy-lo-kei/).
 
 ### Definições
 

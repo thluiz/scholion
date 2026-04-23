@@ -33,7 +33,7 @@ category: etymology
 
 **依** — U+4F9D · 部首 radical: 人 (rén — pessoa, grafado 亻) · 總筆畫 strokes: 8 · 注音 zhuyin: ㄧ · 拼音 pinyin: yī / jyutping: ji1
 
-É o Yi do nome kung fu de Pedro Ivo Porfírio (Moy Yi Woh).
+É o Yi do nome kung fu de Pedro Ivo Porfírio ([Moy Yi Woh](/notes/moy-yi-woh/)).
 
 Leitura secundária rara registrada: yǐ. Disambiguação: distingue-se de 意 (yì, intenção) — em cantonês, 依 é ji1 (tom alto nivelado, 陰平) e 意 é ji3 (tom decrescente, 陰去).
 

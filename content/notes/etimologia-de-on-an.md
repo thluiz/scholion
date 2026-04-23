@@ -33,7 +33,7 @@ category: etymology
 
 **安** — U+5B89 · 部首 radical: 宀 (telhado) · 總筆畫 strokes: 6 · 注音 zhuyin: ㄢ · 拼音 pinyin: ān / jyutping: on1
 
-É o On de 6 nomes da linhagem: Moy Fat Bing On, Moy Jo On, Moy On Dak Wah, Moy On Lei, Moy On Tung, Moy Wai On.
+É o On de 6 nomes da linhagem: [Moy Fat Bing On](/notes/moy-fat-bing-on/), [Moy Jo On](/notes/moy-jo-on/), [Moy On Dak Wah](/notes/moy-on-dak-wah/), [Moy On Lei](/notes/moy-on-lei/), [Moy On Tung](/notes/moy-on-tung/), [Moy Wai On](/notes/moy-wai-on/).
 
 ### Definições
 

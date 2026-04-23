@@ -33,7 +33,7 @@ category: etymology
 
 **利** — U+5229 · 部首 radical: 刀 (faca) / 刂 (faca lateral) · 總筆畫 strokes: 7 · 注音 zhuyin: ㄌㄧˋ · 拼音 pinyin: lì / jyutping: lei6
 
-É o Lei de 12 nomes da linhagem: Moy Fei Lei Yat, Moy Fat Lei, Moy Lei Gaa, Moy Lei No, Moy Lei Wa, Moy Lei Wong, Moy Lei Yat, Moy On Lei, Moy Ou Lei, Moy Tai Lei, Moy Wa Lei Si, Moy Yau Lei.
+É o Lei de 12 nomes da linhagem: [Moy Fei Lei Yat](/notes/moy-fei-lei-yat/), [Moy Fat Lei](/notes/moy-fat-lei/), [Moy Lei Gaa](/notes/moy-lei-gaa/), [Moy Lei No](/notes/moy-lei-no/), [Moy Lei Wa](/notes/moy-lei-wa/), [Moy Lei Wong](/notes/moy-lei-wong/), [Moy Lei Yat](/notes/moy-lei-yat/), [Moy On Lei](/notes/moy-on-lei/), [Moy Ou Lei](/notes/moy-ou-lei/), [Moy Tai Lei](/notes/moy-tai-lei/), [Moy Wa Lei Si](/notes/moy-wa-lei-si/), [Moy Yau Lei](/notes/moy-yau-lei/).
 
 ### Definições
 

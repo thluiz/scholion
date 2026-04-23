@@ -33,7 +33,7 @@ category: etymology
 
 **郁** — U+90C1 · 部首 radical: 邑 (yì — aldeia, grafado 阝 à direita) · 總筆畫 strokes: 8 (alguns catálogos contam 9) · 注音 zhuyin: ㄩˋ · 拼音 pinyin: yù / jyutping: juk1 (em composto com 鬱 a leitura cantonesa alterna entre juk1 e wat1)
 
-É o Yok do nome kung fu de Daniel Araújo (Moy Tang Yok).
+É o Yok do nome kung fu de Daniel Araújo ([Moy Tang Yok](/notes/moy-tang-yok/)).
 
 Forma simplificada moderna para 鬱 (yù — denso, aromático, deprimido; formação mais complexa com 林 + 缶 + 鬯). 郁 existia independentemente na antiguidade como topônimo; a absorção das acepções de 鬱 é convergência moderna.
 

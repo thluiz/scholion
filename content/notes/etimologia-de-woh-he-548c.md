@@ -33,7 +33,7 @@ category: etymology
 
 **和** — U+548C · 部首 radical: 口 (kǒu — boca) · 總筆畫 strokes: 8 · 注音 zhuyin: ㄏㄜˊ (principal), ㄏㄜˋ, ㄏㄨㄛˋ, ㄏㄨㄛˊ, ㄏㄨˊ · 拼音 pinyin: hé / hè / huò / huó / hú / jyutping: wo4 / wo6
 
-É o Woh do nome kung fu de Pedro Ivo Porfírio (Moy Yi Woh).
+É o Woh do nome kung fu de Pedro Ivo Porfírio ([Moy Yi Woh](/notes/moy-yi-woh/)).
 
 Variantes antigas: 咊 (forma do Shuowen — 口 à esquerda, 禾 à direita; inversa da moderna), 龢 (com 龠 — flauta de Pan, em uso clássico para "harmonia musical").
 

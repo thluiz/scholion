@@ -33,7 +33,7 @@ category: etymology
 
 **一** — U+4E00 · 部首 radical: 一 (Kangxi 1) · 總筆畫 strokes: 1 · 注音 zhuyin: ㄧ · 拼音 pinyin: yī / jyutping: jat1 (variante yao1 para soletração digit-a-dígito)
 
-É o Yat de 3 nomes da linhagem: Moy Fei Lei Yat, Moy Hung Peng Yat, Moy Sing Yat.
+É o Yat de 3 nomes da linhagem: [Moy Fei Lei Yat](/notes/moy-fei-lei-yat/), [Moy Hung Peng Yat](/notes/moy-hung-peng-yat/), [Moy Sing Yat](/notes/moy-sing-yat/).
 
 ### Definições
 

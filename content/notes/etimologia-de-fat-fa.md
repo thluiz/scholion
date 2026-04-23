@@ -33,7 +33,7 @@ category: etymology
 
 **法** — U+6CD5 · 部首 radical: 氵/水 (água) · 總筆畫 strokes: 8 · 注音 zhuyin: ㄈㄚˇ · 拼音 pinyin: fǎ / jyutping: faat3
 
-É o Fat de 4 nomes da linhagem: Moy Faat Lin, Moy Fat Bing On, Moy Fat Lei, Moy Gap Fat.
+É o Fat de 4 nomes da linhagem: [Moy Faat Lin](/notes/moy-faat-lin/), [Moy Fat Bing On](/notes/moy-fat-bing-on/), [Moy Fat Lei](/notes/moy-fat-lei/), [Moy Gap Fat](/notes/moy-gap-fat/).
 
 Variantes antigas: 灋 (U+7051), 㳒 (U+3CD2), 佱 (U+4F71).
 

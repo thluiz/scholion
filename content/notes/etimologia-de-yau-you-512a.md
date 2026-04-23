@@ -33,7 +33,7 @@ category: etymology
 
 **優** — U+512A · 部首 radical: 人 (rén — pessoa, grafado 亻) · 總筆畫 strokes: 17 · 注音 zhuyin: ㄧㄡ · 拼音 pinyin: yōu / jyutping: jau1
 
-É o Yau do nome kung fu de Iuri Correa Faria (Moy Yau Lei).
+É o Yau do nome kung fu de Iuri Correa Faria ([Moy Yau Lei](/notes/moy-yau-lei/)).
 
 Leitura única. Forma simplificada: 优 (U+4F18, com 尤 em lugar de 憂 como fonético).
 

@@ -33,7 +33,7 @@ category: etymology
 
 **識** — U+8B58 · 部首 radical: 言 (yán — palavra, fala) · 總筆畫 strokes: 19 · 注音 zhuyin: ㄕˊ / ㄓˋ · 拼音 pinyin: shí / zhì / jyutping: sik1 / zi3
 
-É o Sek do nome kung fu de Simão Coutinho (Moy Sek Man).
+É o Sek do nome kung fu de Simão Coutinho ([Moy Sek Man](/notes/moy-sek-man/)).
 
 Duas leituras distinguem sentido: shí/sik1 (conhecer, reconhecer, consciência) vs zhì/zi3 (marcar, registrar — equivalente a 誌, 幟). Forma simplificada: 识 (U+8BC6).
 

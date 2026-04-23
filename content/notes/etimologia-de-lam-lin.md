@@ -33,7 +33,7 @@ category: etymology
 
 **林** — U+6797 · 部首 radical: 木 (árvore) · 總筆畫 strokes: 8 · 注音 zhuyin: ㄌㄧㄣˊ · 拼音 pinyin: lín / jyutping: lam4
 
-É o Lam de 2 nomes da linhagem: Moy Fei Lam, Moy Lam Jo.
+É o Lam de 2 nomes da linhagem: [Moy Fei Lam](/notes/moy-fei-lam/), [Moy Lam Jo](/notes/moy-lam-jo/).
 
 ### Definições
 

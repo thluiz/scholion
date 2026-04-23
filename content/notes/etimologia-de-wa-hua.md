@@ -33,7 +33,7 @@ category: etymology
 
 **華** — U+83EF · 部首 radical: 艸 (erva, Kangxi 140) · 總筆畫 strokes: 10 · 注音 zhuyin: ㄏㄨㄚˊ · 拼音 pinyin: huá (também huà, huā) / jyutping: waa4
 
-É o Wa de 3 nomes da linhagem: Moy Lei Wa, Moy On Dak Wah, Moy Wa Lei Si.
+É o Wa de 3 nomes da linhagem: [Moy Lei Wa](/notes/moy-lei-wa/), [Moy On Dak Wah](/notes/moy-on-dak-wah/), [Moy Wa Lei Si](/notes/moy-wa-lei-si/).
 
 Forma simplificada: 华 (U+534E). Variantes antigas: 蕐, 䔢, 𡾀.
 

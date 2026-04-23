@@ -33,7 +33,7 @@ category: etymology
 
 **吉** — U+5409 · 部首 radical: 口 (boca) · 總筆畫 strokes: 6 · 注音 zhuyin: ㄐㄧˊ · 拼音 pinyin: jí / jyutping: gat1
 
-É o Kat de 3 nomes da linhagem: Moy Kat Jo, Moy Kat Lo, Moy Kat Ming.
+É o Kat de 3 nomes da linhagem: [Moy Kat Jo](/notes/moy-kat-jo/), [Moy Kat Lo](/notes/moy-kat-lo/), [Moy Kat Ming](/notes/moy-kat-ming/).
 
 ### Definições
 

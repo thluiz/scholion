@@ -33,7 +33,7 @@ category: etymology
 
 **彭** — U+5F6D · 部首 radical: 彡 (shān — tufos de pêlo/som/ornamento; tradicional cataloga também sob 壴) · 總筆畫 strokes: 12 · 注音 zhuyin: ㄆㄥˊ · 拼音 pinyin: péng / jyutping: paang4
 
-É o Pang do nome kung fu de Claudio Pamplona (Moy Pang Po).
+É o Pang do nome kung fu de Claudio Pamplona ([Moy Pang Po](/notes/moy-pang-po/)).
 
 Leituras secundárias: páng (彭彭 — aparência de abundância; 彭湃 — ondas em fúria, equivalente a 澎湃), bāng (em topônimos como 彭亨/Pahang), pēng (onomatopeia, equivalente a 砰).
 

@@ -33,7 +33,7 @@ category: etymology
 
 **舞** — U+821E · 部首 radical: 舛 (chuǎn — dois pés em oposição) · 總筆畫 strokes: 14 · 注音 zhuyin: ㄨˇ · 拼音 pinyin: wǔ / jyutping: mou5
 
-É o Mo do nome kung fu de Bruno Mota Brandão (Moy Mo Tak).
+É o Mo do nome kung fu de Bruno Mota Brandão ([Moy Mo Tak](/notes/moy-mo-tak/)).
 
 Leitura única em chinês padrão. Variante antiga: 𦨅. Forma arcaica do Shuowen: 𦐀 (de 羽 + 亡). Variante textual comum: 儛.
 

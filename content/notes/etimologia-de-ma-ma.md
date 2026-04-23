@@ -33,7 +33,7 @@ category: etymology
 
 **馬** — U+99AC · 部首 radical: 馬 (cavalo, Kangxi 187) · 總筆畫 strokes: 10 · 注音 zhuyin: ㄇㄚˇ · 拼音 pinyin: mǎ / jyutping: maa5
 
-É o Ma de 3 nomes da linhagem: Moy Gam Ma, Moy Ma Tin, Moy Mah Yat.
+É o Ma de 3 nomes da linhagem: [Moy Gam Ma](/notes/moy-gam-ma/), [Moy Ma Tin](/notes/moy-ma-tin/), [Moy Mah Yat](/notes/moy-mah-yat/).
 
 Forma simplificada: 马 (via escrita cursiva 草書).
 

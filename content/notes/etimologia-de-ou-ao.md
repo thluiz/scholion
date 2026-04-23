@@ -33,7 +33,7 @@ category: etymology
 
 **奧** — U+5967 · 部首 radical: 大 (moderno) / 宀 (Shuowen) · 總筆畫 strokes: 13 · 注音 zhuyin: ㄠˋ · 拼音 pinyin: ào (também yù, yōu) / jyutping: ou3
 
-É o Ou de 2 nomes da linhagem: Moy Ou Lei, Moy Si Ou.
+É o Ou de 2 nomes da linhagem: [Moy Ou Lei](/notes/moy-ou-lei/), [Moy Si Ou](/notes/moy-si-ou/).
 
 Forma simplificada: 奥 (U+5965). Variante antiga: 𡪃.
 

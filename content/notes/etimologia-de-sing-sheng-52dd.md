@@ -33,7 +33,7 @@ category: etymology
 
 **勝** — U+52DD · 部首 radical: 力 (lì — força) · 總筆畫 strokes: 12 · 注音 zhuyin: ㄕㄥˋ / ㄕㄥ · 拼音 pinyin: shèng / shēng / jyutping: sing3 / sing1
 
-É o Sing do nome kung fu de Xenia D'Avila (Moy Sing Yat).
+É o Sing do nome kung fu de Xenia D'Avila ([Moy Sing Yat](/notes/moy-sing-yat/)).
 
 Duas leituras distinguem sentido: shèng/sing3 (vencer, superar) vs shēng/sing1 (suportar, aguentar carga). Forma simplificada: 胜 (U+80DC).
 

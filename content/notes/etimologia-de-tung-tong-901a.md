@@ -33,7 +33,7 @@ category: etymology
 
 **通** — U+901A · 部首 radical: 辵 (chuò — caminhar, grafado 辶) · 總筆畫 strokes: 10 · 注音 zhuyin: ㄊㄨㄥ · 拼音 pinyin: tōng / jyutping: tung1
 
-É o Tung do nome kung fu de Antônio Henrique Correia (Moy On Tung).
+É o Tung do nome kung fu de Antônio Henrique Correia ([Moy On Tung](/notes/moy-on-tung/)).
 
 Leitura secundária: tòng (去聲 — classificador para atividade tomada na íntegra, e.g. "uma sessão de bebedeira").
 
