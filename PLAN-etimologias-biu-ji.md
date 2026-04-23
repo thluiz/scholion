@@ -22,7 +22,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 - [x] 勁 (ging) — energia, força condensada
 - [x] 樁 (jong) — estaca/boneco; central para Mui Fa Jong e Muk Yan Jong
 - [x] 中 (jung) — centro; jung sin
-- [ ] 線 (sin) — linha; jung sin
+- [x] 線 (sin) — linha; jung sin
 - [ ] 守 (sau) — proteger/guardar; jaam sau, wui sau, gwai sau
 - [ ] 斬 (jaam) — cortar; jaam sau
 - [ ] 式 (sik) — forma/técnica; jiu sik
