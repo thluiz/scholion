@@ -25,6 +25,8 @@ sources:
 - title: 說文解字 (via zdic.net)
   url: https://www.zdic.net
   kind: wiki
+category: etymology
+
 ---
 
 ## 王 (Wong)

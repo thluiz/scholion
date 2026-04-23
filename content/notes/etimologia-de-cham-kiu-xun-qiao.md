@@ -28,6 +28,8 @@ sources:
 - title: 說文解字 (shuowen.org)
   url: https://www.shuowen.org
   kind: wiki
+category: etymology
+
 ---
 
 ## 尋

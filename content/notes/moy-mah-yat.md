@@ -22,6 +22,8 @@ sources:
   - title: "小學堂 Xiaoxue Tang"
     url: "https://xiaoxue.iis.sinica.edu.tw"
     kind: wiki
+category: disciple
+
 ---
 
 **梅馬佚**

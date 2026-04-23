@@ -31,6 +31,8 @@ sources:
 - title: 漢典 (zdic.net)
   url: https://www.zdic.net/
   kind: wiki
+category: etymology
+
 ---
 
 ## 掌 (Jeung)

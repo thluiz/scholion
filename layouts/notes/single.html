@@ -10,6 +10,10 @@
           <div class="scholion-type-badge scholion-type-badge--quote">❝ Citação</div>
         {{ else if eq $noteType "comic" }}
           <div class="scholion-type-badge scholion-type-badge--comic">🖼 Comic</div>
+        {{ else if eq $noteType "etymology" }}
+          <div class="scholion-type-badge scholion-type-badge--etymology">📜 Etimologia</div>
+        {{ else if eq $noteType "disciple" }}
+          <div class="scholion-type-badge scholion-type-badge--disciple">🙇 Discípulo</div>
         {{ end }}
         <h1>{{ .Title }}</h1>
         <div class="scholion-note-meta">

@@ -28,6 +28,8 @@ sources:
 - title: Kangxi Zidian (via zdic.net)
   url: https://www.zdic.net
   kind: wiki
+category: etymology
+
 ---
 
 ## 崎 (Kei)
