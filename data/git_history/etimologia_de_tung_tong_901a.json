@@ -1,14 +1,14 @@
 [
   {
     "date": "2026-04-23",
+    "subject": "feat: linka nomes de discípulo nas notas de etimologia"
+  },
+  {
+    "date": "2026-04-23",
     "subject": "feat: categorias etymology (📜) e disciple (🙇) para notas de etimologia e discípulos"
   },
   {
     "date": "2026-04-23",
     "subject": "fix: corrige 'nome de linhagem' para 'nome kung fu' em 26 notas"
-  },
-  {
-    "date": "2026-04-23",
-    "subject": "note: etimologia de 通 (Tung — Tōng / tung1)"
   }
 ]
