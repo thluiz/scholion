@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 勁 (Ging — Jìng / ging6)"
 date: '2026-04-23T21:51:24+01:00'
-summary: "Análise etimológica de 勁 (Jìng / ging6), composto fonossemântico: 力 (força) + 巠 (fonético, jīng — fios da urdidura do tear). Shuowen: 彊也 ('forte, robusto'). 段注 de Duan Yucai cita o Guangyun: 勁, 健也 ('vigoroso, saudável'). No Ving Tsun, ging designa a energia condensada emitida com economia de hei lik — não é força bruta (ba lik 霸力) nem força interna mística (noi gung 內功). Sete fontes consultadas."
+summary: "Análise etimológica de 勁 (Jìng / ging6), composto fonossemântico: 力 (força) + 巠 (fonético, jīng — fios da urdidura do tear). Shuowen: 彊也 ('forte, robusto'). 段注 de Duan Yucai cita o Guangyun: 勁, 健也 ('vigoroso, saudável'). Caractere de atestação tardia — primeira forma documentada em selo de 戰國·晉 (Estados Combatentes, Jin). No Hai Tong de Moy Yat, aparece como ging (energia) no Siu Nim Tau. Sete fontes consultadas."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 category: etymology
@@ -103,6 +103,6 @@ Simplificação: 劲 (U+52B2) — regra R13 substitui 巠 por 𢀖 simplificado
 
 **Ausência epigráfica pré-Warring States**: O hanziyuan regista 0 oracle bones e 0 bronzes. O xiaoxue confirma: a primeira forma atestada é de 戰國·晉 (selo 璽彙0843). 勁 é caractere relativamente tardio, documentado apenas a partir dos Estados Combatentes. Isto é consistente com a estrutura fonossemântica transparente (力 + 巠) típica de criações lexicais posteriores.
 
-**Significado original "strong" vs "vigoroso/saudável"**: O Shuowen define como 彊 ("forte, robusto"), mas o 段注 cita o Guangyun que corrige/completa: 健 ("vigoroso, com saúde"). A distinção é significativa — 彊 enfatiza resistência/dureza, 健 enfatiza vitalidade/saúde. Esta dupla valência (dureza estrutural + vitalidade dinâmica) ressoa com o uso marcial do termo no Ving Tsun, onde ging 勁 é força viva (elástica, reativa) em oposição a ba lik 霸力 (força bruta, estática).
+**Significado original "strong" vs "vigoroso/saudável"**: O Shuowen define como 彊 ("forte, robusto"), mas o 段注 cita o Guangyun que corrige/completa: 健 ("vigoroso, com saúde"). A distinção é significativa — 彊 enfatiza resistência/dureza estrutural, 健 enfatiza vitalidade/saúde dinâmica. O par de glosas revela que o campo semântico abrange tanto a firmeza estática quanto o vigor em movimento.
 
 **Grupo rímico 段注 vs xiaoxue**: 段玉裁 atribui 勁 ao grupo rímico 11 (十一部). Os cinco sistemas modernos de reconstrução do Old Chinese (Wang Li, Dong Tonghe, Zhou Fagao, Li Fanggui) convergem no grupo 耕 (*gēng*). São nomenclaturas distintas para sistemas de divisão rímica distintos, mas a convergência dos reconstrucionistas em 耕 é robusta.
