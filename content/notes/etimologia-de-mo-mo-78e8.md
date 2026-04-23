@@ -31,7 +31,7 @@ sources:
 
 **磨** — U+78E8 · 部首 radical: 石 (shí — pedra) · 總筆畫 strokes: 16 · 注音 zhuyin: ㄇㄛˊ / ㄇㄛˋ · 拼音 pinyin: mó / mò / jyutping: mo4 / mo6
 
-É o Mo do nome de linhagem de Moy Mo Lei (Rodrigo Moreira).
+É o Mo do nome kung fu de Rodrigo Moreira (Moy Mo Lei).
 
 Duas leituras distinguem sentido: mó/mo4 (verbo: moer, polir, afiar) vs mò/mo6 (substantivo: a mó, o moinho).
 

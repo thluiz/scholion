@@ -31,7 +31,7 @@ sources:
 
 **意** — U+610F · 部首 radical: 心 (xīn — coração/mente) · 總筆畫 strokes: 13 · 注音 zhuyin: ㄧˋ · 拼音 pinyin: yì / jyutping: ji3
 
-É o Yi do nome de linhagem de Moy Yi Gap (Tatiana Candreva).
+É o Yi do nome kung fu de Tatiana Candreva (Moy Yi Gap).
 
 ### Definições
 

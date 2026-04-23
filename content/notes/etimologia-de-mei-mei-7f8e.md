@@ -31,7 +31,7 @@ sources:
 
 **美** — U+7F8E · 部首 radical: 羊 (yáng — carneiro) · 總筆畫 strokes: 9 · 注音 zhuyin: ㄇㄟˇ · 拼音 pinyin: měi / jyutping: mei5
 
-É o Mei do nome de linhagem de Moy Mei Da (André Vieira).
+É o Mei do nome kung fu de André Vieira (Moy Mei Da).
 
 Leitura única em chinês padrão.
 

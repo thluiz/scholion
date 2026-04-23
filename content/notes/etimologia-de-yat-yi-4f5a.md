@@ -31,7 +31,7 @@ sources:
 
 **佚** — U+4F5A · 部首 radical: 人 (rén — pessoa, grafado 亻) · 總筆畫 strokes: 7 · 注音 zhuyin: ㄧˋ / ㄉㄧㄝˊ · 拼音 pinyin: yì / dié / jyutping: jat6
 
-É o Yat do nome de linhagem de Moy Mah Yat (Mayara Galvão).
+É o Yat do nome kung fu de Mayara Galvão (Moy Mah Yat).
 
 Duas leituras registradas: yì/jat6 (principal, "recluso, perdido, desgarrado") e dié (rara, variante arcaica de 迭 — alternar).
 

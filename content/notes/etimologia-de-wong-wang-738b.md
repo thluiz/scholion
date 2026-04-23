@@ -31,7 +31,7 @@ sources:
 
 **王** — U+738B · 部首 radical: 玉 (yù — jade, grafado 王 quando radical) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄨㄤˊ · 拼音 pinyin: wáng / jyutping: wong4
 
-É o Wong do nome de linhagem de Moy Lei Wong (Leonardo Santos dos Reis), primeiro discípulo Baai Si do Clã Moy Jo Lei Ou (2006-05-26).
+É o Wong do nome kung fu de Leonardo Santos dos Reis (Moy Lei Wong), primeiro discípulo Baai Si do Clã Moy Jo Lei Ou (2006-05-26).
 
 Leituras secundárias: wàng (去聲, "reinar sobre"), yù (leitura arcaica compartilhada com 玉).
 
