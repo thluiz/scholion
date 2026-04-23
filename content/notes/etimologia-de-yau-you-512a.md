@@ -115,4 +115,3 @@ Total: 5 formas. Caractere sem atestação antes de Shuowen. Primeira atestaçã
 - **Ausência em Oracle e Bronze**: 優 é caractere pós-Warring States — o conceito "abundante/excelente" era expresso por 饒 (ráo), 豐 (fēng), 厚 (hòu) em épocas anteriores.
 - **Simplificação 优 (A300)**: a forma simplificada 优 troca 憂 (17 traços, 17-stroke phonetic) por 尤 (yóu — 4 traços). Ambos compartilham o campo fonético OC /ʔu/. Simplificação regular.
 - **Acepções exclusivas do chardb**: 柔弱，少決斷 (frouxo, indeciso — conotação negativa de "abundância" = "indolência/indecisão"), 戲謔 (zombaria), 雨水充足 (chuva abundante), 象聲詞 (onomatopeia). Preservam usos clássicos ausentes de MDBG.
-- **Na linhagem Moy Jo Lei Ou**: 優 em Moy Yau Lei é o ideograma central do nome — "o [praticante] excelente/abundante [em] Lei [benefício]". Combina o sentido positivo moderno (excelência) com a ressonância clássica (abundância do ator ritual).
