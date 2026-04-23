@@ -31,6 +31,8 @@ sources:
 - title: Wiktionary
   url: https://en.wiktionary.org/wiki/%E6%8B%B3
   kind: wiki
+category: etymology
+
 ---
 
 ## 拳 (Kuen)

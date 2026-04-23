@@ -22,6 +22,8 @@ sources:
 - title: 小學堂 — Academia Sinica
   url: https://xiaoxue.iis.sinica.edu.tw
   kind: wiki
+category: etymology
+
 ---
 
 ## 友 (Yau)

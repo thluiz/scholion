@@ -65,6 +65,10 @@
                   <span class="scholion-card-type scholion-card-type--quote" title="citação">❝</span>
                 {{ else if eq $noteType "podcast" }}
                   <span class="scholion-card-type scholion-card-type--podcast" title="podcast">🎙</span>
+                {{ else if eq $noteType "etymology" }}
+                  <span class="scholion-card-type scholion-card-type--etymology" title="etimologia">📜</span>
+                {{ else if eq $noteType "disciple" }}
+                  <span class="scholion-card-type scholion-card-type--disciple" title="discípulo">🙇</span>
                 {{ else if .Params.has_commentary }}
                   <span class="scholion-card-type" title="com comentário">📝</span>
                 {{ end }}

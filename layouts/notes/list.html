@@ -50,6 +50,10 @@
                   <span class="scholion-card-type scholion-card-type--podcast" title="podcast">🎙</span>
                 {{ else if eq $noteType "comic" }}
                   <span class="scholion-card-type scholion-card-type--comic" title="comic">🖼</span>
+                {{ else if eq $noteType "etymology" }}
+                  <span class="scholion-card-type scholion-card-type--etymology" title="etimologia">📜</span>
+                {{ else if eq $noteType "disciple" }}
+                  <span class="scholion-card-type scholion-card-type--disciple" title="discípulo">🙇</span>
                 {{ else if .Params.has_commentary }}
                   <span class="scholion-card-type" title="com comentário">📝</span>
                 {{ end }}

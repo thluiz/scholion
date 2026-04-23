@@ -391,6 +391,36 @@
   color: #fb923c;
 }
 
+/* Etymology (etimologia-de-*) */
+.scholion-card--etymology {
+  border-left: 3px solid #d97706;
+}
+.dark .scholion-card--etymology {
+  border-left: 3px solid #fbbf24;
+}
+
+.scholion-card-type--etymology {
+  color: #d97706;
+}
+.dark .scholion-card-type--etymology {
+  color: #fbbf24;
+}
+
+/* Disciple (moy-*) */
+.scholion-card--disciple {
+  border-left: 3px solid #7c3aed;
+}
+.dark .scholion-card--disciple {
+  border-left: 3px solid #a78bfa;
+}
+
+.scholion-card-type--disciple {
+  color: #7c3aed;
+}
+.dark .scholion-card-type--disciple {
+  color: #a78bfa;
+}
+
 /* Pesquisa viva */
 .scholion-card--research {
   border-left: 3px solid #6366f1;
@@ -451,6 +481,20 @@
   color: #fb923c;
 }
 
+.scholion-type-badge--etymology {
+  color: #d97706;
+}
+.dark .scholion-type-badge--etymology {
+  color: #fbbf24;
+}
+
+.scholion-type-badge--disciple {
+  color: #7c3aed;
+}
+.dark .scholion-type-badge--disciple {
+  color: #a78bfa;
+}
+
 .scholion-note--podcast {
   border-left: 4px solid #db2777;
 }
@@ -475,6 +519,20 @@
 .scholion-note--comic .scholion-note-body img {
   max-width: 100%;
   border-radius: 4px;
+}
+
+.scholion-note--etymology {
+  border-left: 4px solid #d97706;
+}
+.dark .scholion-note--etymology {
+  border-left: 4px solid #fbbf24;
+}
+
+.scholion-note--disciple {
+  border-left: 4px solid #7c3aed;
+}
+.dark .scholion-note--disciple {
+  border-left: 4px solid #a78bfa;
 }
 
 /* Pesquisa viva — single page */

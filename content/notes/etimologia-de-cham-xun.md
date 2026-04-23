@@ -8,6 +8,8 @@ sources:
 - title: Hanzi Yuan — 尋
   url: https://hanziyuan.net/#%E5%B0%8B
   kind: article
+category: etymology
+
 ---
 
 > Nota mais completa sobre o mesmo ideograma: [`/notes/etimologia-de-cham-kiu-xun-qiao/`](/notes/etimologia-de-cham-kiu-xun-qiao/) — cobre a forma tradicional 尋 com análise de sete fontes.

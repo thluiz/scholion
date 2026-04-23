@@ -28,6 +28,8 @@ sources:
 - title: 漢語多功能字庫 — CUHK
   url: https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/
   kind: wiki
+category: etymology
+
 ---
 
 ## 梅 (Moy)
