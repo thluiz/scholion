@@ -20,7 +20,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 ## Batch 1 — Alta prioridade (29) — núcleo técnico do Ving Tsun
 
 - [x] 勁 (ging) — energia, força condensada
-- [ ] 樁 (jong) — estaca/boneco; central para Mui Fa Jong e Muk Yan Jong
+- [x] 樁 (jong) — estaca/boneco; central para Mui Fa Jong e Muk Yan Jong
 - [ ] 中 (jung) — centro; jung sin
 - [ ] 線 (sin) — linha; jung sin
 - [ ] 守 (sau) — proteger/guardar; jaam sau, wui sau, gwai sau
