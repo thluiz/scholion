@@ -53,7 +53,7 @@ Cereal cortado com faca: a colheita. O Shuowen define 利 como 銛也, "afiado".
 
 ### 士 (shì / si6)
 
-Pictograma de um machado fincado no chão, símbolo de quem planta posição e defende. O Shuowen define 士 como 事也, "aquele que serve". Homem de saber e de armas. Mesmo 士 usado em Moy Chi Yau Si e Moy Shan Si.
+Pictograma de um machado fincado no chão, símbolo de quem planta posição e defende. O Shuowen define 士 como 事也, "aquele que serve". Homem de saber e de armas.
 
 ### Divergências entre fontes
 
@@ -61,7 +61,7 @@ Pictograma de um machado fincado no chão, símbolo de quem planta posição e d
 
 **利.** As fontes convergem na decomposição 禾 + 刀. O chardb acrescenta acepções como 和 (def. 2, "harmonioso") e 古代祭祖禮儀中侍奉尸的人 (def. 12, "serviçal nos ritos ancestrais"), ausentes do MDBG. O xiaoxue cita 屈翼鵬 que propõe 利 como forma primitiva de 犂 (arado).
 
-**士.** O MDBG e o Shuowen tratam 士 como composto de 十 + 一 (孔子曰：推十合一為士). O hanziyuan.net classifica como pictograma independente, sem confirmar a decomposição numérica. Ver `etimologia-de-si-shi.md` para análise completa — é o mesmo 士 de Moy Chi Yau Si e Moy Shan Si.
+**士.** O MDBG e o Shuowen tratam 士 como composto de 十 + 一 (孔子曰：推十合一為士). O hanziyuan.net classifica como pictograma independente, sem confirmar a decomposição numérica.
 
 ## Etimologia do Português
 
