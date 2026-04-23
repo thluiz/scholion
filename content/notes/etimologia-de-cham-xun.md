@@ -10,6 +10,8 @@ sources:
   kind: article
 ---
 
+> Nota mais completa sobre o mesmo ideograma: [`/notes/etimologia-de-cham-kiu-xun-qiao/`](/notes/etimologia-de-cham-kiu-xun-qiao/) — cobre a forma tradicional 尋 com análise de sete fontes.
+
 寻 (jyutping *cam4*, pinyin *xún*), forma simplificada de 尋.
 
 ```
