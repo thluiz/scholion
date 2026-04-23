@@ -1,14 +1,14 @@
 [
   {
     "date": "2026-04-23",
+    "subject": "feat: adiciona tag moy-jo-lei-ou em todas as 61 notas de discípulo"
+  },
+  {
+    "date": "2026-04-23",
     "subject": "feat: cross-links moy-*.md -> etimologia individual dos ideogramas"
   },
   {
     "date": "2026-04-23",
     "subject": "fix: remove comentário desnecessário sobre Moy Chi Yau Si / Shan Si"
-  },
-  {
-    "date": "2026-04-23",
-    "subject": "fix: corrige ⼠ (U+2F2E radical) para 士 (U+58EB) em Moy Wa Lei Si"
   }
 ]

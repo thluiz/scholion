@@ -1,14 +1,14 @@
 [
   {
     "date": "2026-04-23",
+    "subject": "feat: adiciona tag moy-jo-lei-ou em todas as 61 notas de discípulo"
+  },
+  {
+    "date": "2026-04-23",
     "subject": "feat: cross-links moy-*.md -> etimologia individual dos ideogramas"
   },
   {
     "date": "2026-04-12",
     "subject": "feat: fonte Academia Sinica (chardb + xiaoxue) nas 50 notas restantes"
-  },
-  {
-    "date": "2026-04-12",
-    "subject": "feat: seção Fontes Consultadas com dados crus de MDBG, hanziyuan e Priberam"
   }
 ]
