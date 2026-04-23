@@ -40,7 +40,7 @@ sources: []
 | Roberto Santos Viana | [Moy Wai On](/notes/moy-wai-on/) | [梅威安](/notes/moy-wai-on/) | 2016-11-25 |
 | Pedro Irlandini Endres de Oliveira | [Moy On Lei](/notes/moy-on-lei/) | [梅安利](/notes/moy-on-lei/) | 2017-09-02 |
 | Fernando Almeida Xavier | [Moy Fei Lam](/notes/moy-fei-lam/) | [梅菲林](/notes/moy-fei-lam/) | 2017-09-02 |
-| Maria Alice de Souza Teixeira | [Moy Wa Lei Si](/notes/moy-wa-lei-si/) | [梅華利⼠](/notes/moy-wa-lei-si/) | 2018-03-17 |
+| Maria Alice de Souza Teixeira | [Moy Wa Lei Si](/notes/moy-wa-lei-si/) | [梅華利士](/notes/moy-wa-lei-si/) | 2018-03-17 |
 | João Pedro Santos | [Moy Jo On](/notes/moy-jo-on/) | [梅祖安](/notes/moy-jo-on/) | 2018-03-17 |
 | Fabiano Marques Granado | [Moy Fat Bing On](/notes/moy-fat-bing-on/) | [梅法兵安](/notes/moy-fat-bing-on/) | 2018-03-17 |
 | Clayton Meireles Martins da Silva | [Moy Kei Tang](/notes/moy-kei-tang/) | [梅崎單](/notes/moy-kei-tang/) | 2018-03-17 |
