@@ -37,12 +37,16 @@ Nome kung fu de Fernando Almeida Xavier.
 
 ### 菲 (fēi / fei1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-fei-fei/`](/notes/etimologia-de-fei-fei/)
+
 艹 (cǎo) – erva, planta
 非 (fēi) – não, errado (componente fonético)
 
 O radical 艹 situa o caractere no reino vegetal; 非 contribui o som. O Shuowen define: 「菲，芴也。从艸，非聲。」 — "菲 é 芴 (uma planta; possivelmente um tipo de nabo silvestre). De 艸; 非 é o fonético." O chardb distingue oito acepções: legume 蒠菜 (def. 1), tubérculo 土瓜 (def. 2), modesto/frugal (def. 3: 微薄), melancolia (def. 4), sandália de palha (def. 5), fragrante (def. 6: 花草芳香), vegetação luxuriante (def. 7: 草茂貌), e composto orgânico fenantreno (def. 8). O sentido de "fragrante" é a sexta acepção, não a primária.
 
 ### 林 (lín / lam4)
+
+> Ver etimologia completa: [`/notes/etimologia-de-lam-lin/`](/notes/etimologia-de-lam-lin/)
 
 木 (mù) – árvore
 木 (mù) – árvore

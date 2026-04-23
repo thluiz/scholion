@@ -37,12 +37,16 @@ Nome kung fu de Pedro Ivo Porfírio.
 
 ### 依 (yī / ji1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-yi-yi-4f9d/`](/notes/etimologia-de-yi-yi-4f9d/)
+
 亻(rén) – pessoa
 衣 (yī) – roupa, vestimenta
 
 Pessoa que se apoia. O radical 亻indica o humano; 衣 serve como componente fonético e semântico — a roupa que cobre e ampara. Sentido original: confiar em, depender de.
 
 ### 和 (hé / wo4)
+
+> Ver etimologia completa: [`/notes/etimologia-de-woh-he-548c/`](/notes/etimologia-de-woh-he-548c/)
 
 禾 (hé) – grão, cereal
 口 (kǒu) – boca

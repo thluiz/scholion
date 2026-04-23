@@ -37,9 +37,13 @@ Nome kung fu de Mayara Galvão Palmeira.
 
 ### 馬 (mǎ / maa5)
 
+> Ver etimologia completa: [`/notes/etimologia-de-ma-ma/`](/notes/etimologia-de-ma-ma/)
+
 Pictograma. O Shuowen Jiezi define: 怒也武也象馬頭髦尾四足之形, "fúria e marcialidade; representa a forma da cabeça, crina, cauda e quatro patas do cavalo." A forma em ossos oraculares mostrava o animal de perfil: cabeça, crina, corpo e quatro patas. O xiaoxue regista 35 formas: 4 em osso de oráculo (商 Shang), 13 em bronze, 7 em textos dos Reinos Combatentes, 3 selos e 8 clerical (do Qin aos Jin Ocidentais).
 
 ### 佚 (yì / jat6)
+
+> Ver etimologia completa: [`/notes/etimologia-de-yat-yi-4f5a/`](/notes/etimologia-de-yat-yi-4f5a/)
 
 亻(rén) – pessoa
 失 (shī) – perder

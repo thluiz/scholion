@@ -39,6 +39,8 @@ Nome kung fu de Rubia de Souza Barbosa.
 
 ### 紅 (hóng / hung4)
 
+> Ver etimologia completa: [`/notes/etimologia-de-hung-hong/`](/notes/etimologia-de-hung-hong/)
+
 糹(sī) – seda
 工 (gōng) – trabalho
 
@@ -46,9 +48,13 @@ Seda tingida: o vermelho. O radical 糹liga o caractere ao universo têxtil. 工
 
 ### 平 (píng / ping4)
 
+> Ver etimologia completa: [`/notes/etimologia-de-peng-ping/`](/notes/etimologia-de-peng-ping/)
+
 Pictograma de uma balança equilibrada. O traço horizontal superior representa o fiel nivelado; os elementos abaixo, os pratos em equilíbrio. O Shuowen define 平 como 語平舒也, "fala plana e distendida", e decompõe em 亏 + 八. O chardb lista 23 acepções, desde 寧靜；安舒 ("tranquilo, confortável", def. 1) a 平定物價 ("estabilizar preços", def. 22). O xiaoxue regista 16 formas, com bronzes desde a Primavera e Outono (鄀公平侯鼎) e uma forma antiga (說文古文) distinta da forma de selo. O som arcaico reconstrói-se como *bʰiĕŋ (Karlgren) ou *bjing (Li Fang-Kuei), classe da rima 耕 (gēng).
 
 ### 一 (yī / jat1)
+
+> Ver etimologia completa: [`/notes/etimologia-de-yat-yi/`](/notes/etimologia-de-yat-yi/)
 
 Traço único. A unidade. O mais simples dos caracteres chineses. O Shuowen define 一 como 惟初太始道立於一造分天地化成萬物, "no grande início o Tao se funda no um, que divide céu e terra e transforma todas as coisas". O chardb lista 21 acepções, incluindo o conceito filosófico (def. 14) e o uso como nota musical no sistema gongche (def. 16). O xiaoxue regista 14 formas, incluindo 1 oráculo Shang (鐵148.1) e 1 bronze dos Zhou Ocidentais (我方鼎). A nota de Duan Yucai confirma: 「一之形於六書為指事」 ("a forma de 一 nos seis princípios é indicativa"). O som arcaico reconstrói-se como *ʔiĕt (Karlgren) ou *·jit (Li Fang-Kuei), classe da rima 質/脂 (zhì/zhī).
 

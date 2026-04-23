@@ -35,6 +35,8 @@ Nome kung fu de Fábio Gomes de Sá.
 
 ### 紗 (shā / saa1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-sa-sha-7d17/`](/notes/etimologia-de-sa-sha-7d17/)
+
 糹(sī / si1) – seda
 少 (shǎo / siu2) – pouco, delicado
 

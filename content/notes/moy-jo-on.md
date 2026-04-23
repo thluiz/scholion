@@ -37,12 +37,16 @@ Nome kung fu de João Pedro Santos.
 
 ### 祖 (zǔ / zou2)
 
+> Ver etimologia completa: [`/notes/etimologia-de-jo-zu/`](/notes/etimologia-de-jo-zu/)
+
 礻(shì) – altar, indicar espírito
 且 (qiě) – bloco, tableta ancestral
 
 O radical 礻(forma reduzida de 示, altar) liga o caractere ao domínio ritual. 且 é a tableta memorial dos antepassados. O Shuowen define 祖 como ��廟也, "templo da origem", o lugar onde se honra quem veio antes. O chardb lista 20 acepções, desde 祖廟 ("templo ancestral", def. 1) até 餞行送別 ("banquete de despedida", def. 16). O xiaoxue regista 15 formas, incluindo 1 oráculo Shang e bronzes desde os Zhou Ocidentais. O som arcaico reconstrói-se como *tso (Karlgren) ou *tsagx (Li Fang-Kuei), classe da rima 魚 (yú).
 
 ### 安 (ān / on1)
+
+> Ver etimologia completa: [`/notes/etimologia-de-on-an/`](/notes/etimologia-de-on-an/)
 
 宀 (mián) – teto, abrigo
 女 (nǚ) – mulher

@@ -37,12 +37,16 @@ Nome kung fu de Xenia D'Avila Fonseca.
 
 ### 勝 (shèng / sing1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-sing-sheng-52dd/`](/notes/etimologia-de-sing-sheng-52dd/)
+
 朕 (zhèn) – eu (imperial); componente fonético
 力 (lì) – força
 
 Força que supera. O componente 朕, antes de se tornar pronome exclusivo do imperador, significava "sinal, presságio". Combinado com 力, forma a ideia de força que prevalece. Vitória. O Shuowen define 勝 como 任也, "suportar, ser capaz".
 
 ### 一 (yī / jat1)
+
+> Ver etimologia completa: [`/notes/etimologia-de-yat-yi/`](/notes/etimologia-de-yat-yi/)
 
 Traço único. O mais elementar dos caracteres: um traço horizontal representando a unidade. O Shuowen define: 惟初太始道立於一造分天地化成萬物, "no princípio absoluto, o Dao estabeleceu-se no Um, que dividiu céu e terra e gerou as dez mil coisas."
 

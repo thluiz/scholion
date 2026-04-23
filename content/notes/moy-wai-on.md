@@ -37,12 +37,16 @@ Nome kung fu de Roberto Santos Viana.
 
 ### 威 (wēi / wai1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-wai-wei-5a01/`](/notes/etimologia-de-wai-wei-5a01/)
+
 戌 (xū / seot1) – arma, alabarda
 女 (nǚ / neoi5) – mulher
 
 Autoridade. O Shuowen Jiezi define 威 como 姑也從女從戌, associando à figura da sogra, a mulher que detém a arma.
 
 ### 安 (ān / on1)
+
+> Ver etimologia completa: [`/notes/etimologia-de-on-an/`](/notes/etimologia-de-on-an/)
 
 宀 (mián / min4) – teto, telhado
 女 (nǚ / neoi5) – mulher

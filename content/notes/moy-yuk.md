@@ -35,6 +35,8 @@ Nome kung fu de Jade Camacho.
 
 ### 玉 (yù / juk6)
 
+> Ver etimologia completa: [`/notes/etimologia-de-yuk-yu-7389/`](/notes/etimologia-de-yuk-yu-7389/)
+
 Pictograma. O Shuowen Jiezi define 玉 como 石之美有五德者, "a mais bela das pedras, com cinco virtudes". A forma antiga mostrava três peças de jade enfiadas num cordão vertical. O ponto que aparece na forma moderna distingue 玉 (jade) de 王 (rei). Distinção tardia: nas formas arcaicas os dois caracteres eram quase idênticos. As cinco virtudes do jade segundo o Shuowen: benevolência no brilho, retidão na transparência, sabedoria no som, coragem na dureza, integridade nas arestas.
 
 ### Divergências entre fontes

@@ -37,12 +37,16 @@ Nome kung fu de Pedro Henrique Corrêa.
 
 ### 利 (lì / lei6)
 
+> Ver etimologia completa: [`/notes/etimologia-de-lei-li/`](/notes/etimologia-de-lei-li/)
+
 禾 (hé / wo4) -- grão, cereal
 刂 (dāo / dou1) -- faca
 
 Colher o grão com a faca. O Shuowen Jiezi define 利 como 銛也, "afiado". O chardb lista 18 acepções, com 鋒利 ("cortante") como def. 1. A lâmina que ceifa a colheita é o gesto do proveito.
 
 ### 溢 (yì / jat6)
+
+> Ver etimologia completa: [`/notes/etimologia-de-yat-yi-6ea2/`](/notes/etimologia-de-yat-yi-6ea2/)
 
 氵(shuǐ / seoi2) -- água
 益 (yì / jik1) -- benefício, aumento

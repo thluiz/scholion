@@ -37,12 +37,16 @@ Nome kung fu de Antônio Henrique Correia.
 
 ### 安 (ān / on1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-on-an/`](/notes/etimologia-de-on-an/)
+
 宀 (mián / min4) – teto, cobertura
 女 (nǚ / neoi5) – mulher
 
 O Shuowen Jiezi define 安 como 靜也, "quietude". Mulher sob o teto. O chardb lista 24 acepções: da paz e tranquilidade (defs. 1-2) a usos gramaticais como pronome interrogativo "onde" (def. 18) e advérbio "como" (def. 19). O xiaoxue regista 31 formas: 3 oraculares Shang, bronzes desde o Zhou Ocidental, e variantes regionais dos Reinos Combatentes.
 
 ### 通 (tōng / tung1)
+
+> Ver etimologia completa: [`/notes/etimologia-de-tung-tong-901a/`](/notes/etimologia-de-tung-tong-901a/)
 
 辶 (chuò / coek3) – caminhar, estrada
 甬 (yǒng / jung2) – caminho, corredor

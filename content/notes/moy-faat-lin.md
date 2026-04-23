@@ -37,12 +37,16 @@ Nome kung fu de Guilherme L. S. de Farias.
 
 ### 法 (fǎ / faat3)
 
+> Ver etimologia completa: [`/notes/etimologia-de-fat-fa/`](/notes/etimologia-de-fat-fa/)
+
 氵(shuǐ / seoi2) – água
 去 (qù / heoi3) – ir, partir
 
 A forma moderna decompõe-se em 氵+ 去, mas a forma antiga era 灋, incluindo 廌 (zhì), animal mítico que distinguia o justo do injusto. O Shuowen define a forma completa: 「灋，刑也。平之如水，从水；廌，所以觸不直者，去之，从去。法，今文省。」 — "Castigo. Nivelar como a água; 廌 é o que embate nos desonestos e os afasta." A forma corrente 法 é abreviação da escrita contemporânea (今文省). O chardb regista 19 acepções, desde lei criminal (def. 1) até método (def. 6) e budismo (def. 14). O Xiaoxue Tang confirma formas em bronze desde o início da Zhou Ocidental (大盂鼎 Dà Yú dǐng).
 
 ### 蓮 (lián / lin4)
+
+> Ver etimologia completa: [`/notes/etimologia-de-lin-lian/`](/notes/etimologia-de-lin-lian/)
 
 艹 (cǎo / cou2) – erva, planta
 連 (lián / lin4) – conectar, ligar (componente fonético)

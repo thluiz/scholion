@@ -39,6 +39,8 @@ Nome kung fu de Eduardo Fauzi Richard Cerquise.
 
 ### 安 (ān / on1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-on-an/`](/notes/etimologia-de-on-an/)
+
 宀 (mián) – teto, abrigo
 女 (nǚ) – mulher
 
@@ -46,12 +48,16 @@ Mulher sob o teto. O sentido original é segurança doméstica: onde há abrigo 
 
 ### 德 (dé / dak1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-dak-de/`](/notes/etimologia-de-dak-de/)
+
 彳 (chì) – passo, caminhar
 惪 (dé) – virtude simples
 
 O Shuowen define 德 como 升也, "elevar-se", de 彳 com 𢛳 como fonético. O chardb confirma esta como definição primária: 陞；登 (def. 1). A acepção de "virtude, moral" (道德，品行) aparece apenas como segunda definição. O chardb lista ainda 20 acepções ao todo, incluindo marcas na cabeça da fénix (def. 12) e nome alternativo do Rio Amarelo (def. 19). O xiaoxue regista 22 formas, incluindo 2 oraculares da dinastia Shang (粹864, 甲2304), corrigindo o hanziyuan.net que lista 0.
 
 ### 華 (huá / waa4)
+
+> Ver etimologia completa: [`/notes/etimologia-de-wa-hua/`](/notes/etimologia-de-wa-hua/)
 
 艹 (cǎo) – planta, vegetação
 𠌶 (huá) – primitivo de flor

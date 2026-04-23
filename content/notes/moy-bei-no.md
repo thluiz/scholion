@@ -37,12 +37,16 @@ Nome kung fu de Bruno Bernardo Machado.
 
 ### 賁 (bì / ban1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-bei-ben/`](/notes/etimologia-de-bei-ben/)
+
 卉 (huì) – plantas, vegetação
 貝 (bèi) – concha, cáuri
 
 Ornamento. O componente superior 卉 representa a vegetação; o inferior 貝, a concha usada como moeda e adorno. A combinação sugere decoração e adorno. Com a leitura bēn, o sentido desloca-se para correr com energia, ímpeto.
 
 ### 挪 (nuó / no4)
+
+> Ver etimologia completa: [`/notes/etimologia-de-no-nuo/`](/notes/etimologia-de-no-nuo/)
 
 扌 (shǒu) – mão
 那 (nà) – aquele, aquilo

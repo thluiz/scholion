@@ -37,12 +37,16 @@ Nome kung fu de Marcelo Lopes Acris.
 
 ### 老 (lǎo / lou5)
 
+> Ver etimologia completa: [`/notes/etimologia-de-lou-lao/`](/notes/etimologia-de-lou-lao/)
+
 耂 (lǎo) – velho
 匕 (bǐ) – mudança, transformação
 
 Quem mudou com o tempo. O venerável. O componente superior 耂 é uma forma abreviada de cabelos longos, sinal de idade. O componente inferior 匕 indica transformação. O Shuowen define 老 como 考也, "envelhecer": o corpo que se transforma pelo tempo. Shang Chengzuo (商承祚) nota que as formas em osso de oráculo mostram "um idoso apoiado em bastão" (象老者倚杖之形). O xiaoxue regista 22 formas: 6 em osso de oráculo (商 Shang), 6 em bronze (do Zhou Ocidental tardio aos Reinos Combatentes), e 10 entre Reinos Combatentes, selo e clerical.
 
 ### 平 (píng / ping4)
+
+> Ver etimologia completa: [`/notes/etimologia-de-peng-ping/`](/notes/etimologia-de-peng-ping/)
 
 O Shuowen define 平 como 語平舒也, "fala serena e desimpedida", e decompõe 從亏從八 — de 亏 com 八 (dividir). O chardb lista 23 acepções, com as primárias sendo 安寧 ("tranquilo"), 不傾斜 ("nivelado"), 平原 ("planície"), 和平 ("paz"), 公正 ("justo") e 平常 ("corrente, vulgar"). O hanziyuan.net decompõe a partir de 水 (água), associando o caractere à superfície nivelada da água. O xiaoxue regista 16 formas: 5 em bronze (da Primavera e Outono aos Reinos Combatentes), 2 em textos dos Reinos Combatentes (楚 Chu e 晉 Jin), 2 selos (incluindo Shuowen e texto antigo), e 7 clerical (do Qin aos Jin Ocidentais).
 

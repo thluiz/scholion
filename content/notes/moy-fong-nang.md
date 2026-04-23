@@ -37,12 +37,16 @@ Nome kung fu de Fernando Marques Pinheiro.
 
 ### 風 (fēng / fung1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-fong-feng/`](/notes/etimologia-de-fong-feng/)
+
 几 (jǐ) – componente estrutural
 虫 (chóng) – inseto
 
 O Shuowen define em detalhe: 「風，八風也。東方曰明庶風；東南曰清明風；南方曰景風；西南曰涼風；西方曰閶闔風；西北曰不周風；北方曰廣莫風；東北曰融風。風動蟲生，故蟲八日而化。从虫，凡聲。凬，古文風。」 — "Os oito ventos: leste Míngshù, sudeste Qīngmíng, sul Jǐng, sudoeste Liáng, oeste Chānghé, noroeste Bùzhōu, norte Guǎngmò, nordeste Róng. O vento move-se e os insectos nascem; por isso os insectos em oito dias se transformam. De 虫 (insecto); 凡 é o fonético. 凬 é a forma antiga." O comentário do Hànyǔ Dà Zìdiǎn (via Xiaoxue Tang) nota: 「甲文以'凡'或以'鳳'為'風'。」 — "Nos ossos oraculares, 凡 ou 鳳 serviam como 風." O chardb regista 20 acepções, desde movimento do ar (def. 1) até educação moral (def. 2: 教化), costumes (def. 3: 風俗), canções populares do Shijing (def. 4), e loucura (def. 15, depois escrito como 瘋).
 
 ### 能 (néng / nang4)
+
+> Ver etimologia completa: [`/notes/etimologia-de-nang-neng/`](/notes/etimologia-de-nang-neng/)
 
 厶 (sī) – componente estrutural
 月 (ròu) – carne (radical 肉 na forma cursiva)

@@ -37,12 +37,16 @@ Nome kung fu de Aurea Brandão.
 
 ### 奧 (ào / ou3)
 
+> Ver etimologia completa: [`/notes/etimologia-de-ou-ao/`](/notes/etimologia-de-ou-ao/)
+
 宀 (mián) – teto, cobertura
 𢍏 – componente fonético
 
 O Shuowen define 奧 como 宛也, "o recanto mais interior de uma sala", 室之西南隅 ("o canto sudoeste da sala"). O chardb lista 16 acepções: do canto sudoeste da sala onde se colocavam as tábuas ancestrais (def. 1), ao interior profundo (def. 2), lugares recônditos (def. 3), mistério/profundidade (def. 6), até chiqueiro (def. 7) e deus do fogão (def. 8). O xiaoxue regista apenas 4 formas: 1 selo (Shuowen), 1 selo de nome (漢印徵), e 2 clerical (Han Oriental e Cao Wei). Sem atestações em oráculo nem bronze.
 
 ### 利 (lì / lei6)
+
+> Ver etimologia completa: [`/notes/etimologia-de-lei-li/`](/notes/etimologia-de-lei-li/)
 
 禾 (hé) – cereal, grão
 刂 (dāo) – faca

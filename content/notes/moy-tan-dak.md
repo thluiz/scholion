@@ -37,9 +37,13 @@ Nome kung fu de Katia Marina Dantas Gomes Cabral.
 
 ### 丹 (dān / daan1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-daan-dan/`](/notes/etimologia-de-daan-dan/)
+
 Pictograma de poço de cinábrio. O caractere representa um poço mineral (o ponto central) dentro de uma cavidade. Cinábrio (sulfeto de mercúrio) era o pigmento vermelho por excelência na China antiga, usado em rituais e na alquimia taoísta. O Shuowen define 丹 como 巴越之赤石也, "pedra vermelha de Ba e Yue". O chardb confirma 朱砂 ("cinábrio") como definição primária, seguida de 赤色 ("cor vermelha") e 赤誠 ("sinceridade, lealdade"). O xiaoxue regista 14 formas: 2 oraculares da dinastia Shang (京津3649, 京津3050), 1 bronze do início dos Zhou Ocidentais, selos e bambus dos Reinos Combatentes, e formas clerical dos Qin e Han. 丹心 é "coração sincero".
 
 ### 德 (dé / dak1)
+
+> Ver etimologia completa: [`/notes/etimologia-de-dak-de/`](/notes/etimologia-de-dak-de/)
 
 彳 (chì) – passo, caminho
 惪 (dé) – virtude simples

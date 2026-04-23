@@ -37,11 +37,15 @@ Nome kung fu de Alexander Rangel.
 
 ### 林 (lín / lam4)
 
+> Ver etimologia completa: [`/notes/etimologia-de-lam-lin/`](/notes/etimologia-de-lam-lin/)
+
 木 (mù / muk6) -- árvore
 
 O Shuowen Jiezi define: 平土有叢木曰林, "terreno plano com árvores agrupadas chama-se lin". De dois 木. O chardb lista 7 acepções: a primária é 成片的竹、木 ("conjunto de bambus e árvores"), seguida de 林業 ("silvicultura"), 泛指人或事物的會聚 ("ajuntamento de pessoas ou coisas"), 野外 ("campo aberto"), 眾盛貌 ("aspecto de abundância"), 君 ("soberano") e 姓 ("apelido"). A acepção de 君 ("soberano") é notável: ausente de todas as outras fontes. O xiaoxue regista 10 formas, desde 1 oracular (Shang) até clerical (Han Oriental), com comentário de Wang Jun: 林从二木非云止有二木也取木與木連屬不絕之意也, "林 contém dois 木 mas não significa apenas duas árvores; capta a noção de árvores ligadas sem interrupção".
 
 ### 祖 (zǔ / zou2)
+
+> Ver etimologia completa: [`/notes/etimologia-de-jo-zu/`](/notes/etimologia-de-jo-zu/)
 
 礻(shì / si6) -- altar
 且 (qiě / co2) -- altar de oferendas

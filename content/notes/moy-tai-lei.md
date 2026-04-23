@@ -37,6 +37,8 @@ Nome kung fu de Thales Antônio Cabral de Guimarães.
 
 ### 泰 (tài / taai3)
 
+> Ver etimologia completa: [`/notes/etimologia-de-tai-tai-6cf0/`](/notes/etimologia-de-tai-tai-6cf0/)
+
 水 (shuǐ) – água (na base)
 大 (dà) – grande
 廾 (gǒng) – duas mãos
@@ -44,6 +46,8 @@ Nome kung fu de Thales Antônio Cabral de Guimarães.
 Água que flui sob grandeza sustentada por duas mãos. A composição sugere abundância contida, grandeza serena. O Shuowen define 泰 como 滑也, "deslizar suavemente". O caractere nomeia o hexagrama 11 do Yijing: céu e terra em comunicação, prosperidade sem esforço.
 
 ### 利 (lì / lei6)
+
+> Ver etimologia completa: [`/notes/etimologia-de-lei-li/`](/notes/etimologia-de-lei-li/)
 
 禾 (hé) – cereal
 刂 (dāo) – faca

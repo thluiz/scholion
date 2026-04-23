@@ -44,6 +44,8 @@ Variante de 績. O Shuowen Jiezi define 績 como 緝也, "fiar, tecer continuame
 
 ### 生 (shēng / saang1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-sang-sheng/`](/notes/etimologia-de-sang-sheng/)
+
 Pictograma. O Shuowen Jiezi define 生 como 進也象草木生出土上, "avançar; representa a planta brotando da terra". A forma antiga mostrava um broto emergindo do solo, uma linha vertical saindo de uma base horizontal. Vida como movimento ascendente. A planta brota do solo para cima.
 
 ### Academia Sinica — 教育部異體字字典 (chardb)

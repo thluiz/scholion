@@ -37,12 +37,16 @@ Nome kung fu de Carlos Antônio de Oliveira.
 
 ### 吉 (jí / gat1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-kat-ji/`](/notes/etimologia-de-kat-ji/)
+
 士 (shì) – erudito, cavalheiro
 口 (kǒu) – boca
 
 A palavra do erudito: o que é dito com propriedade traz bom augúrio. O Shuowen Jiezi define 吉 como 善也, "bom, virtuoso". A combinação sugere que a fala correta é em si mesma auspiciosa. O chardb lista 9 acepções, incluindo 橘樹；橘子 ("tangerineira/tangerina", def. 5, extensão fonética) e 古代祭祀鬼神的禮儀 ("rito sacrificial antigo", def. 3). O xiaoxue regista 15 formas (5 oráculos Shang, 3 bronzes). O som arcaico reconstrói-se como *kiĕt (Karlgren) ou *kjit (Li Fang-Kuei), classe da rima 質/脂.
 
 ### 老 (lǎo / lou5)
+
+> Ver etimologia completa: [`/notes/etimologia-de-lou-lao/`](/notes/etimologia-de-lou-lao/)
 
 耂 (lǎo) – forma abreviada do radical "velho"
 匕 (bǐ) – colher; variação de pessoa

@@ -37,6 +37,8 @@ Nome kung fu de Luciano Freitas.
 
 ### 勞 (láo / lou4)
 
+> Ver etimologia completa: [`/notes/etimologia-de-lou-lao2/`](/notes/etimologia-de-lou-lao2/)
+
 力 (lì / lik6) – força
 冖 (mì / mik6) – cobertura
 火 (huǒ / fo2) – fogo (duas ocorrências)
@@ -44,6 +46,8 @@ Nome kung fu de Luciano Freitas.
 Esforço sob fogo. O Shuowen Jiezi define 勞 como 劇也, "intenso, penoso", e acrescenta: 熒火燒冂用力者勞, "fogo de 熒 queimando sob 冂; quem emprega força é 勞." O xiaoxue regista 19 formas: 2 em osso de oráculo (商 Shang), 3 em bronze (師㝨簋, 𦅫鎛, 中山王鼎), 5 em textos de bambu dos Reinos Combatentes (楚 Chu) e 9 em escrita clerical. Duan Yucai nota: 燒冂謂燒屋也，斯時用力者最勞 ("queimar a casa: nessa hora quem emprega força mais se esgota"). O chardb lista 22 acepções, sendo a primeira 辛勤；勞苦 ("labor, esforço penoso") e a quarta 功績 ("mérito, feito").
 
 ### 崎 (qí / kei1)
+
+> Ver etimologia completa: [`/notes/etimologia-de-kei-qi/`](/notes/etimologia-de-kei-qi/)
 
 山 (shān / saan1) – montanha
 奇 (qí / kei4) – estranho, irregular

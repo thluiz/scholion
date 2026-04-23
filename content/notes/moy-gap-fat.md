@@ -37,12 +37,16 @@ Nome kung fu de Rafael Ferreira Pombo.
 
 ### 鴿 (gē / gap3)
 
+> Ver etimologia completa: [`/notes/etimologia-de-gap-ge/`](/notes/etimologia-de-gap-ge/)
+
 合 (hé) – unir, combinar; componente fonético
 鳥 (niǎo) – pássaro; componente semântico
 
 O pássaro que se reúne. A pomba é ave de bando. O radical 鳥 classifica o caractere entre as aves; 合 fornece o som e talvez a imagem do ajuntamento. O chardb define 鴿 como nome genérico das aves do género Columba da família Columbidae, sublinhando a capacidade de voo e o uso como correio. O xiaoxue regista apenas 2 formas: um selo (說文‧鳥部) e um clerical (相馬經75上, Han Ocidental). O Shuowen citado pelo xiaoxue define: 「鳩屬。从鳥，合聲」 ("da família das rolas; de 鳥 com 合 como fonético"). O som arcaico reconstrói-se como *kəp (Wang Li, Zhou Fagao, Li Fang-Kuei), classe da rima 緝 (jī), inicial velar surda.
 
 ### 法 (fǎ / faat3)
+
+> Ver etimologia completa: [`/notes/etimologia-de-fat-fa/`](/notes/etimologia-de-fat-fa/)
 
 氵(shuǐ) – água
 去 (qù) – ir, partir

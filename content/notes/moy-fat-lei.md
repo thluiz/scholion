@@ -37,12 +37,16 @@ Nome kung fu de Thiago Pereira.
 
 ### 法 (fǎ / faat3)
 
+> Ver etimologia completa: [`/notes/etimologia-de-fat-fa/`](/notes/etimologia-de-fat-fa/)
+
 氵(shuǐ / seoi2) – água
 去 (qù / heoi3) – ir, partir
 
 A forma moderna é simplificação de 灋. O Shuowen define: 「灋，刑也。平之如水」 — "Castigo; nivelar como a água." A forma completa incluía 廌 (zhì), animal mítico que distinguia o justo do injusto. O chardb regista 19 acepções, desde lei criminal (def. 1) até método (def. 6) e dharma budista (def. 14). O Xiaoxue Tang confirma formas em bronze desde a Zhou Ocidental (大盂鼎).
 
 ### 利 (lì / lei6)
+
+> Ver etimologia completa: [`/notes/etimologia-de-lei-li/`](/notes/etimologia-de-lei-li/)
 
 禾 (hé / wo4) – grão, cereal
 刂 (dāo / dou1) – faca

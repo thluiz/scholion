@@ -37,12 +37,16 @@ Nome kung fu de Carmen Paula Nistico Carvalho.
 
 ### 吉 (jí / gat1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-kat-ji/`](/notes/etimologia-de-kat-ji/)
+
 士 (shì) – erudito, cavalheiro
 口 (kǒu) – boca
 
 A palavra do erudito: o que é dito com propriedade traz bom augúrio. O Shuowen Jiezi define 吉 como 善也, "bom, virtuoso". O chardb lista 9 acepções, incluindo extensões ausentes das outras fontes: 陰曆每月初一 ("primeiro dia do mês lunar", def. 2), 古代祭祀鬼神的禮儀 ("rito sacrificial antigo", def. 3) e 橘樹；橘子 ("tangerineira", def. 5). O xiaoxue regista 15 formas (5 oráculos Shang, 3 bronzes). O som arcaico reconstrói-se como *kiĕt (Karlgren), classe da rima 質/脂.
 
 ### 明 (míng / ming4)
+
+> Ver etimologia completa: [`/notes/etimologia-de-ming-ming/`](/notes/etimologia-de-ming-ming/)
 
 日 (rì) – sol
 月 (yuè) – lua

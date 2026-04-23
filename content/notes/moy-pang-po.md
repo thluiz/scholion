@@ -37,12 +37,16 @@ Nome kung fu de Claudio Pamplona dos Santos Dias.
 
 ### 彭 (péng / paang4)
 
+> Ver etimologia completa: [`/notes/etimologia-de-pang-peng-5f6d/`](/notes/etimologia-de-pang-peng-5f6d/)
+
 壴 (zhù) – tambor sobre suporte
 彡 (shān) – cerdas, linhas decorativas
 
 Som do tambor ressoando. O Shuowen define 彭 como 鼓聲也, "som de tambor". O chardb lista 12 acepções: de onomatopeia (def. 1), aparência de avanço (def. 2), via/caminho (def. 3), nome de estado antigo (def. 4), nomes de água (def. 6), sobrenome (def. 7), proximidade (def. 8), açoitar (defs. 9-10), abundante (def. 11), e 彭湃 = 澎湃 "rugir das ondas" (def. 12). O 《漢語大字典》, citado no xiaoxue, confirma: 「壴，即鼓之初字；彡，為鼓聲之標幟」 ("壴 é a forma original de 鼓; 彡 é o marcador do som do tambor"). O xiaoxue regista 14 formas: 2 oraculares Shang (甲2371, 輔仁93), bronzes desde o início do Zhou Ocidental, e variantes dos Reinos Combatentes em Qi, Chu e Qin.
 
 ### 普 (pǔ / pou2)
+
+> Ver etimologia completa: [`/notes/etimologia-de-po-pu-666e/`](/notes/etimologia-de-po-pu-666e/)
 
 並 (bìng) – juntos, lado a lado
 日 (rì) – sol

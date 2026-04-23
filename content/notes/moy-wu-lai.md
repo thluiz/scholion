@@ -37,12 +37,16 @@ Nome kung fu de Si Hing (師兄) Vladimir Anchieta.
 
 ### 護 (hù / wu6)
 
+> Ver etimologia completa: [`/notes/etimologia-de-wu-hu/`](/notes/etimologia-de-wu-hu/)
+
 言 (yán / jin4) – fala, palavras
 蒦 (huò / wok6) – obter, medir (componente fonético)
 
 O radical é 言, fala. O Shuowen Jiezi define 護 como 救視也, "vigiar e socorrer". Proteger está ligado à fala: falar em defesa de alguém, advogar. Protetor é quem fala pelo protegido.
 
 ### 禮 (lǐ / lai5)
+
+> Ver etimologia completa: [`/notes/etimologia-de-lai-li/`](/notes/etimologia-de-lai-li/)
 
 示 (shì / si6) – altar, espírito, mostrar
 豊 (lǐ / lai5) – vaso ritual

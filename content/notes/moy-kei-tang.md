@@ -37,12 +37,16 @@ Nome kung fu de Clayton Meireles Martins da Silva.
 
 ### 崎 (qí / kei1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-kei-qi/`](/notes/etimologia-de-kei-qi/)
+
 山 (shān) -- montanha
 奇 (qí) -- estranho, incomum
 
 Montanha estranha, terreno acidentado. O chardb define a acepção primária como 傾側不正貌, "aspecto inclinado, que não está recto". O radical 山 situa o sentido na paisagem; 奇 qualifica: irregular, íngreme.
 
 ### 單 (dān / daan1)
+
+> Ver etimologia completa: [`/notes/etimologia-de-tang-dan/`](/notes/etimologia-de-tang-dan/)
 
 Pictograma de uma arma de caça com duas pontas. Nas inscrições em osso oracular, o caractere mostra uma forquilha com pedras amarradas nas extremidades, usada para caçar. O Shuowen define 單 como 大也, "grande", de 吅 com 吅 como fonético. O chardb lista 22 acepções, revelando a amplitude semântica do caractere: desde 大 ("grande", def. 1) e 單獨、一個 ("isolado, um só", def. 2), passando por 奇數 ("ímpar", def. 3), 薄弱 ("fraco", def. 5), 簡單 ("simples", def. 6), até 名冊 ("lista, registo", def. 9). O sentido evoluiu de "instrumento isolado" para "simples, único, sozinho".
 

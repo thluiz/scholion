@@ -37,12 +37,16 @@ Nome kung fu de Tatiana Candreva Palumbo.
 
 ### 意 (yì / ji3)
 
+> Ver etimologia completa: [`/notes/etimologia-de-yi-yi-610f/`](/notes/etimologia-de-yi-yi-610f/)
+
 音 (yīn) – som
 心 (xīn) – coração
 
 O som do coração. Intenção. O componente superior 音 é som, palavra; o inferior 心, coração. O que o coração pronuncia sem voz: pensamento, vontade, sentido. O Shuowen define 意 como 志也, "propósito".
 
 ### 鴿 (gē / gap3)
+
+> Ver etimologia completa: [`/notes/etimologia-de-gap-ge/`](/notes/etimologia-de-gap-ge/)
 
 合 (hé) – unir, combinar
 鳥 (niǎo) – ave

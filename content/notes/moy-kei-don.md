@@ -37,6 +37,8 @@ Nome kung fu de Clayton Quintino de Souza.
 
 ### 崎 (qí / kei1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-kei-qi/`](/notes/etimologia-de-kei-qi/)
+
 山 (shān) -- montanha
 奇 (qí) -- estranho, irregular
 

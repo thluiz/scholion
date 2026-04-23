@@ -37,12 +37,16 @@ Nome kung fu de Ailton Jordão.
 
 ### 祖 (zǔ / zou2)
 
+> Ver etimologia completa: [`/notes/etimologia-de-jo-zu/`](/notes/etimologia-de-jo-zu/)
+
 礻(shì) – altar, indicador de ritual
 且 (qiě / zǔ) – oferendas empilhadas
 
 O altar dos ancestrais. O radical 礻liga o caractere ao domínio do sagrado; 且 representa oferendas dispostas sobre uma mesa. Juntos: o lugar onde se honram os antepassados. O chardb lista 20 acepções, desde 祖廟 ("templo ancestral", def. 1) até 餞行送別 ("banquete de despedida", def. 16). A nota do xiaoxue via Wang Jun confirma: 「甲骨文、金文祖字初文作'且'，後加示旁」 — o caractere original era simplesmente 且, ao qual se adicionou depois o radical 示. O xiaoxue regista 15 formas, incluindo 1 oráculo Shang (前1.9.6), bronzes desde os Zhou Ocidentais (大盂鼎) até à Primavera e Outono. O som arcaico reconstrói-se como *tso (Karlgren) ou *tsagx (Li Fang-Kuei), classe da rima 魚 (yú).
 
 ### 丹 (dān / daan1)
+
+> Ver etimologia completa: [`/notes/etimologia-de-daan-dan/`](/notes/etimologia-de-daan-dan/)
 
 Pictograma de um poço de cinábrio. O ponto central representa o mineral dentro da cavidade. Cinábrio é o minério de mercúrio, vermelho vivo, usado na alquimia taoísta para preparar o elixir da imortalidade. Por extensão: vermelho, essencial, alquímico. O chardb lista 9 acepções, com 朱砂 ("cinábrio", def. 1) como sentido primário e 赤誠 ("sinceridade ardente", def. 4) como extensão moral. O xiaoxue regista 14 formas, incluindo 2 oráculos Shang (京津3649, 京津3050) e 1 bronze dos Zhou Ocidentais (庚贏卣). O som arcaico reconstrói-se como *tɑn (Karlgren) ou *tan (Li Fang-Kuei), classe da rima 元 (yuán).
 

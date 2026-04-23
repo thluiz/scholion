@@ -37,12 +37,16 @@ Nome kung fu de Bruno José Mota Brandão.
 
 ### 舞 (wǔ / mou5)
 
+> Ver etimologia completa: [`/notes/etimologia-de-mo-wu-821e/`](/notes/etimologia-de-mo-wu-821e/)
+
 舛 (chuǎn) – pés opostos, divergir
 無 (wú) – nada, ausência
 
 Pés que se movem. O componente 舛 mostra dois pés em direções opostas, evocando o movimento alternado. 無 contribui como elemento fonético. O Shuowen Jiezi define 舞 como 樂也, "alegria expressa pelo corpo", e acrescenta 用足相背, "usando os pés em sentidos opostos". O chardb lista 13 acepções: 舞蹈 ("dança como arte"), 表演舞蹈 ("dançar"), 揮動 ("agitar"), 耍弄 ("brincar"), 鼓舞 ("inspirar"), 疾 ("rapidez"), 鐘體的頂部 ("topo de um sino"), 戲弄 ("zombar"), 通「廡」 ("estrutura coberta"), 通「武」 ("composição musical antiga"), entre outras. Lǐ Xiàodìng nota que a forma oracular mostra "pessoa segurando objectos e dançando" (象人執物而舞之形). O xiaoxue regista 10 formas: 3 em osso de oráculo (商 Shang), 2 em bronze (Zhou Ocidental inicial e Primavera e Outono tardia), 2 selos (Shuowen: texto antigo e seal) e 3 clerical.
 
 ### 德 (dé / dak1)
+
+> Ver etimologia completa: [`/notes/etimologia-de-dak-de/`](/notes/etimologia-de-dak-de/)
 
 彳 (chì) – passo, caminhar
 惪 (dé) – virtude simples
