@@ -5,6 +5,22 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
+## [0.5.1] — 2026-04-23
+
+### Corrigido
+
+- Caracteres Latin Extended-A (`Ž`, `Š`, `Č` etc.) rendiam como caixa vazia nas
+  imagens OpenGraph — `NotoSansSC` não cobre esse bloco. Agora são transliterados
+  apenas na OG (`Žižek` → `Zizek`); HTML/SEO mantém os originais.
+
+### Adicionado
+
+- Notas com CJK no título mostram o ideograma destacado no canto inferior direito
+  da OG (fonte `BabelStoneHan`, escala dinâmica pela contagem). Ideogramas saem
+  do corpo do título. Tags são omitidas nessas notas.
+- Título escalona de 50 a 34 pt quando excede 65/90/110 chars, evitando colagem
+  com o summary.
+
 ## [0.5.0] — 2026-04-16
 
 ### Alterado
