@@ -2,7 +2,7 @@
 title: "梅法兵安 Moy Fat Bing On"
 date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Fabiano Marques Granado: Fat (法) lei, método, Bing (兵) soldado, On (安) paz."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:

@@ -2,7 +2,7 @@
 title: "梅老問 Moy Lo Man"
 date: 2026-04-12T01:05:00+01:00
 summary: "Etimologia do nome kung fu de Rafael Romanizio Maciel: Lo (老) venerável, Man (問) perguntar."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:

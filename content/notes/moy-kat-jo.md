@@ -2,7 +2,7 @@
 title: "梅吉祖 Moy Kat Jo"
 date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Claudio Ricardo Teixeira: Kat (吉) auspicioso, Jo (祖) ancestral."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:

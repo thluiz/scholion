@@ -2,7 +2,7 @@
 title: "梅勣生 Moy Chek Sang"
 date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Gérson Silva de Aguiar: Chek (勣) mérito, Sang (生) vida."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:

@@ -2,7 +2,7 @@
 title: "梅林祖 Moy Lam Jo"
 date: 2026-04-12T01:00:00+01:00
 summary: "Etimologia do nome kung fu de Alexander Rangel: Lam (林) floresta, Jo (祖) ancestral."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:

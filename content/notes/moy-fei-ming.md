@@ -2,7 +2,7 @@
 title: "梅奜明 Moy Fei Ming"
 date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Marcelo Pereira Firmino: Fei (奜) grandioso, Ming (明) brilhante."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:

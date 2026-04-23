@@ -2,7 +2,7 @@
 title: "梅美達 Moy Mei Da"
 date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de André Vieira Gonçalves de Almeida: Mei (美) belo, Da (達) alcançar."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:

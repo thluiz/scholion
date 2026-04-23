@@ -2,7 +2,7 @@
 title: "梅山士 Moy Shan Si"
 date: 2026-04-10T21:54:21+01:00
 summary: "Etimologia do nome kung fu de Si Hing Carlos Antunes: Shan (山) montanha, Si (士) guerreiro-escolástico."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:

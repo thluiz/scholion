@@ -2,7 +2,7 @@
 title: "梅護禮 Moy Wu Lai"
 date: 2026-04-10T20:50:40+01:00
 summary: "Etimologia do nome kung fu de Si Hing Vladimir Anchieta: Wu (護) proteger, Lai (禮) cerimônia, ritual, cortesia."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:

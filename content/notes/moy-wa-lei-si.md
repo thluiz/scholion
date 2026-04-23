@@ -2,7 +2,7 @@
 title: "梅華利士 Moy Wa Lei Si"
 date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Maria Alice de Souza Teixeira: Wa (華) esplêndido, Lei (利) benefício, Si (士) erudito."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:

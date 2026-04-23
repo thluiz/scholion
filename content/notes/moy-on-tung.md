@@ -2,7 +2,7 @@
 title: "梅安通 Moy On Tung"
 date: 2026-04-12T00:46:37+01:00
 summary: "Etimologia do nome kung fu de Antônio Henrique Correia: On (安) paz, Tung (通) atravessar, comunicar."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:

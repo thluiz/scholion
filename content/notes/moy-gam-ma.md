@@ -2,7 +2,7 @@
 title: "梅懃馬 Moy Gam Ma"
 date: 2026-04-11T11:27:59+01:00
 summary: "Etimologia do nome kung fu de Paula Gama: Gam (懃) diligente, cortês, Ma (馬) cavalo."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:

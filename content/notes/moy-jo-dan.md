@@ -2,7 +2,7 @@
 title: "梅祖丹 Moy Jo Dan"
 date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Ailton Jordão: Jo (祖) ancestral, Dan (丹) cinábrio, vermelho."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:
