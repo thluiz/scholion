@@ -177,6 +177,24 @@ IMPORTANTE: as divergências ficam DENTRO da secção de cada caractere (como `#
 4. Cruzar fontes e listar divergências
 5. Apresentar resultado final ao usuário
 
+## Slug convention para notas resultantes
+
+Quando a saída desta skill for usada para criar uma nota em `E:/scholion/content/notes/`, o slug canónico é:
+
+```
+etimologia-de-<cantonês-autor>-<pinyin>-<unicode-hex>.md
+```
+
+- `<cantonês-autor>` — romanização usada pelo autor (do nome kung fu ou contexto onde o caractere aparece)
+- `<pinyin>` — pinyin sem diacrítico e sem tom
+- `<unicode-hex>` — codepoint em 4+ dígitos hex minúsculos (ex: `738b` para 王, `4f9d` para 依)
+
+Exemplo: `etimologia-de-wong-wang-738b.md` (王).
+
+**Motivação**: elimina colisões de slug entre caracteres com mesmo cantonês+pinyin (ex: 意/依 ambos `yi-yi`, 溢/佚/一 todos `yat-yi`). O codepoint é o identificador canónico e determinístico do ideograma — mais legível que sufixo numérico arbitrário (`2`, `3`).
+
+**Aplicação**: notas criadas **a partir de 2026-04-23** seguem esta convenção. Notas anteriores mantêm seus slugs (`etimologia-de-lou-lao.md`, `etimologia-de-lou-lao2.md`, etc.) — não renomear em massa.
+
 ## Notas
 
 - Esta skill é **autónoma** — não cria notas, não faz commit, não modifica o Scholion
