@@ -1,14 +1,14 @@
 [
   {
+    "date": "2026-04-23",
+    "subject": "note: aponta de cham-xun (寻) para cham-kiu-xun-qiao (尋) completa"
+  },
+  {
     "date": "2026-04-17",
     "subject": "chore: normaliza tags de notas — formato bracket + tag de episódio"
   },
   {
     "date": "2026-04-15",
     "subject": "feat: sistema de tipos visuais para notas (type, ícones, cores)"
-  },
-  {
-    "date": "2026-04-08",
-    "subject": "feat: Etimologia de Cham 寻"
   }
 ]
