@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 泰 (Tai — Tài / taai3)"
 date: '2026-04-23T12:32:36+01:00'
-summary: "Análise etimológica de 泰 (Tài / taai3), 'grandioso, tranquilo, próspero, liso/fluente; Monte Tai; Tailândia'. Composto: 廾 (mãos juntas) + 水 (água) + 大 (fonético). Shuowen: 滑也 ('liso/escorregadio') — Duan Yucai explica: 'água nas mãos que escoa livremente embaixo, extremamente lisa'. Forma arcaica 夳 preserva essa etimologia. Hexagrama 泰 do *Yijing* simboliza 'comunicação harmônica entre céu e terra'. Seis fontes consultadas (hanziyuan indisponível)."
+summary: "Análise etimológica de 泰 (Tài / taai3), 'grandioso, tranquilo, próspero, liso/fluente; Monte Tai; Tailândia'. Composto: 廾 (mãos juntas) + 水 (água) + 大 (fonético). Shuowen: 滑也 ('liso/escorregadio') — Duan Yucai explica: 'água nas mãos que escoa livremente embaixo, extremamente lisa'. Forma arcaica 夳 preserva essa etimologia. Hexagrama 泰 do *Yijing* simboliza 'comunicação harmônica entre céu e terra'. Sete fontes consultadas."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 has_commentary: false
@@ -64,13 +64,15 @@ Leitura única. Forma arcaica Shuowen: 夳 (U+5933, composição 大+廾).
 
 ### Decomposição e formas antigas (hanziyuan)
 
-Componentes: 廾 (gǒng — duas mãos unidas) + 水 (shuǐ — água) + 大 (dà — fonético).
+Componentes (hanziyuan): 泰 (variante antiga 𡙥, mutante 㤗) de 𡗗 (pěng), que reúne 大 (dà — fonético, grande/pessoa) com 廾 (gǒng — duas mãos abaixo), acrescido de 水 (shuǐ — água). Nomeado "grande-água" (great-water, 泰𡙥).
 
-Significado original (hanziyuan): (não retornou dados — script fetch-hanziyuan timeout persistente).
+Significado original (hanziyuan): "(original) escorregadio/liso; (moderno) grande, calmo, superior" — extensão semântica de "fluente" para "harmonioso/próspero".
 
-Shuowen (hanziyuan, inline): (não retornou dados — ver Shuowen completo abaixo via zdic).
+Notas de decomposição (hanziyuan): "mãos 廾 cheias de água 水 — escorregadio > pacífico, calmo" (hands full of water — slippery > peaceful, calm).
 
-Formas atestadas (hanziyuan): (não retornou dados — script hanziyuan indisponível).
+Shuowen (hanziyuan, inline): 滑也從廾從水大聲臣鉉等曰本音他達切今左氏傳作汏輔非是 ("Liso. Composto de 廾 e 水, com 大 como fonético. Xu Xuan e outros dizem: a pronúncia original é 他達切 [fanqie]. O *Zuǒ zhuàn* atual escreve 汏 — erro, não é correto.")
+
+Formas atestadas (hanziyuan): Oracle 0 · Bronze 0 · Seal 1 (S08352) · Liushutong 0. Atestação exclusiva em selo Shuowen — confirma formação tardia e canonização via a tradição lexicográfica Han, não uso epigráfico pré-Han.
 
 ### Shuowen Jiezi completo (via zdic.net)
 
@@ -120,6 +122,7 @@ Total: 14 formas. Primeira atestação: bambu Warring States Chu. Ausente em Ora
 - **Divergência OC 月 vs 祭**: Wang Li coloca em 月部 (yuè); os outros sistemas em 祭部 (jì). Reflete a indefinição entre rima em /-t/ e rima em /-d/ no OC — 月 tem /-t/, 祭 tem /-d/ ou /-ts/. A convergência dessas rimas no Han Ocidental e Oriental para 祭 mostra a reorganização.
 - **Consenso fonológico OC**: /tʰ/ + vogal baixa /a/ + coda /-d/ou /-t/, no departamento 祭/月. Inicial estável, coda em disputa.
 - **Leitura cantonesa taai3**: preserva a inicial aspirada /tʰ/ e o 去聲 (departing → tom 3 陰去). Conservação exemplar.
-- **hanziyuan indisponível**: script Playwright falhou por timeout. Contagens de formas Oracle/Bronze/Seal complementadas pelo xiaoxue yanbian (16 formas no total). Primeira atestação Warring States Chu é consistente entre hanziyuan (ausência em Oracle/Bronze) e xiaoxue.
+- **Variantes arcaicas — 𡙥 e 㤗**: hanziyuan registra 𡙥 (older traditional) e 㤗 (mutant) como variantes históricas de 泰, ambas ausentes do uso moderno. 夳 (古文泰 do Shuowen) é a forma arcaica canônica. O aparecimento tardio em selo Shuowen (sem Oracle ou Bronze) sugere que 泰 pode ter surgido como refinamento gráfico de um ancestral ainda não identificado na epigrafia pré-Han.
+- **Xu Xuan vs Zuǒ zhuàn**: hanziyuan cita o comentário dos irmãos Xu (Xu Xuan 徐鉉 Song) corrigindo o *Zuǒ zhuàn* contemporâneo deles: a escrita 汏 para 泰 no *Zuǒ zhuàn* é erro, a forma correta é 泰. Testemunha viva da instabilidade textual medieval entre 泰/汏 — ambos compartilham pronúncia fanqie 他達.
 - **Transcrição moderna "Tailândia/Tailandês"**: 泰國 (Tàiguó) é transcrição fonética tardia do inglês "Thai", aproveitando o significado positivo "grandioso/pacífico". Paralelo semântico: assim como 美 (belo) virou 美國 (EUA), 泰 (grandioso) virou 泰國 (Tailândia).
 - **Acepções exclusivas do chardb**: 奢侈 (luxuoso — acepção negativa), 驕縱 (arrogante), 古代酒器 (vaso cerimonial de vinho). Preservam usos clássicos.
