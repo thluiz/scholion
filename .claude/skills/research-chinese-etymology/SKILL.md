@@ -51,10 +51,21 @@ Processar cada caractere por TODAS as fontes abaixo. Usar Agent com subagents em
 
 ### 6. shuowen.org — Shuowen Jiezi completo + 段注 (WebFetch)
 
-- URL: `https://www.shuowen.org` — buscar por caractere na página
+- URL: `https://www.shuowen.org/?kw=CHAR`
 - Extrair: texto completo do Shuowen Jiezi + 段注 Duan Yucai (comentário Qing dynasty)
 - Formato: chinês original verbatim + tradução inglesa entre parênteses
 - 段注 é frequentemente longo — incluir na íntegra, traduzido
+- **Gotcha comum (2026-04-23)**: esta URL frequentemente retorna só a listagem das 10 primeiras entradas do dicionário (一, 元, 天...) em vez do caractere solicitado. Site paginado, não retorna entrada individual via query string. Quando isso acontecer, usar **fallback zdic.net** e marcar explicitamente na nota:
+  ```
+  **段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido para este caractere): ...
+  ```
+
+### 6b. zdic.net — fallback para Shuowen + 段注 (WebFetch)
+
+- URL: `https://www.zdic.net/hans/CHAR`
+- Fallback quando shuowen.org falha (frequente)
+- Contém 說文解字 + 段玉裁注 em formato estruturado
+- Retornado como paráfrase/síntese — marcar como tal na nota
 
 ### 7. xiaoxue shangguyin — fonologia (Playwright script)
 
@@ -177,9 +188,11 @@ IMPORTANTE: as divergências ficam DENTRO da secção de cada caractere (como `#
 4. Cruzar fontes e listar divergências
 5. Apresentar resultado final ao usuário
 
-## Slug convention para notas resultantes
+## Convenção de nota resultante (slug + frontmatter)
 
-Quando a saída desta skill for usada para criar uma nota em `E:/scholion/content/notes/`, o slug canónico é:
+Quando a saída desta skill for usada para criar uma nota em `E:/scholion/content/notes/`:
+
+### Slug
 
 ```
 etimologia-de-<cantonês-autor>-<pinyin>-<unicode-hex>.md
@@ -191,9 +204,76 @@ etimologia-de-<cantonês-autor>-<pinyin>-<unicode-hex>.md
 
 Exemplo: `etimologia-de-wong-wang-738b.md` (王).
 
-**Motivação**: elimina colisões de slug entre caracteres com mesmo cantonês+pinyin (ex: 意/依 ambos `yi-yi`, 溢/佚/一 todos `yat-yi`). O codepoint é o identificador canónico e determinístico do ideograma — mais legível que sufixo numérico arbitrário (`2`, `3`).
+**Motivação**: elimina colisões de slug entre caracteres com mesmo cantonês+pinyin. Notas anteriores a 2026-04-23 mantêm slugs legados (`lou-lao.md`/`lou-lao2.md` com sufixo numérico) — não renomear em massa.
 
-**Aplicação**: notas criadas **a partir de 2026-04-23** seguem esta convenção. Notas anteriores mantêm seus slugs (`etimologia-de-lou-lao.md`, `etimologia-de-lou-lao2.md`, etc.) — não renomear em massa.
+### Frontmatter obrigatório
+
+```yaml
+---
+title: "Etimologia de <CHAR> (<Cantonês> — <Pinyin> / <jyutping>)"
+date: '<timestamp ISO>'
+summary: "..."
+toc: true
+tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
+category: etymology
+has_commentary: false
+sources:
+- title: MDBG Chinese Dictionary
+  url: https://www.mdbg.net/chinese/dictionary
+  kind: wiki
+- title: chardb — Academia Sinica
+  url: https://chardb.iis.sinica.edu.tw
+  kind: wiki
+- title: CantoDict (cantonese.org)
+  url: https://www.cantonese.org
+  kind: wiki
+- title: Chinese Etymology (hanziyuan.net)
+  author: Richard Sears
+  url: https://hanziyuan.net
+  kind: wiki
+- title: 小學堂 — Academia Sinica
+  url: https://xiaoxue.iis.sinica.edu.tw
+  kind: wiki
+- title: 說文解字 (via zdic.net)
+  url: https://www.zdic.net
+  kind: wiki
+---
+```
+
+**category: etymology** ativa o tipo visual 📜 no Scholion (ícone no card, borda âmbar, badge na single). Sem isso, a nota sai sem identificação de tipo.
+
+### Nome kung fu de origem (primeiro parágrafo)
+
+Formato: **"É o \<Pinyin\> do nome kung fu de \<Pessoa Real\> ([Moy X Y Z](/notes/moy-x-y-z/))."** — pessoa primeiro, nome kung fu em parênteses e linkado.
+
+Quando o caractere aparece em múltiplos nomes: **"É o \<Pinyin\> de N nomes da linhagem: [Moy A B](/notes/moy-a-b/), [Moy C D](/notes/moy-c-d/)..."** — todos os nomes kung fu linkados às respectivas notas de discípulo em `/notes/moy-*/`.
+
+**NÃO usar** "nome de linhagem" — é invenção, o termo correto é "nome kung fu".
+
+## Regra de integridade (anti-alucinação)
+
+**NADA de invenção.** Quando uma fonte não retorna dados para um campo, marcar explicitamente:
+
+```
+**<Campo>**: (não retornou dados — <motivo curto>)
+```
+
+Exemplos vistos na prática:
+- `(não retornou dados — script fetch-hanziyuan timeout persistente)` — hanziyuan offline
+- `(não retornou dados — ausente da tabela xiaoxue)` — coluna OC vazia
+- `(não retornou dados — 勣 não tem entrada própria no Shuowen)` — caractere raro/tardio
+- `(não retornou dados — chardb retornou apenas lista, sem ficha)` — variante sem entrada
+- `(paráfrase via zdic.net — texto verbatim de shuowen.org não obtido)` — fallback
+
+Caracteres tardios (pós-Warring States, ex: 勣, 奜, 鑰, 讜, 懃) legitimamente têm 5+ "não retornou dados" por ausência epigráfica real. Não forçar dados.
+
+## Não editorializar
+
+As notas de etimologia são referência objetiva. **Não inserir** bullets ou parágrafos interpretando o significado do ideograma no contexto da linhagem Moy Yat, no nome do discípulo, ou no kung fu. A frase de abertura ("É o X do nome kung fu de Pessoa (Moy ...)") é exceção legítima — apenas identifica de qual nome o caractere vem.
+
+Exemplos do que NÃO incluir (incidente 2026-04-23):
+- "優 em Moy Yau Lei é o ideograma central do nome — combina excelência com a ressonância do ator ritual."
+- "É o mesmo 士 usado em Moy Chi Yau Si e Moy Shan Si."
 
 ## Notas
 
