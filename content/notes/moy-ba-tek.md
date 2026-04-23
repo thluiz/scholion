@@ -37,6 +37,8 @@ Nome kung fu de Pedro Patrick Avelar Espozel.
 
 ### 巴 (bā / baa1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-ba-ba/`](/notes/etimologia-de-ba-ba/)
+
 Pictograma de uma serpente. A forma antiga mostra o corpo sinuoso e a boca aberta de uma cobra. O Shuowen define 巴 como 「蟲也。或曰食象蛇」, "criatura rasteira; ou, segundo alguns, a serpente que engolia elefantes". Zhang Binglin (章炳麟) cita o Shanhaijing para confirmar: a serpente Ba que engole elefantes e após três anos expele os ossos é o sentido original. O xiaoxue regista 2 formas em osso de oráculo (商 Shang). Daí os sentidos de agarrar-se, apegar-se, esperar com ansiedade -- extensões posteriores, sem relação com a serpente original.
 
 ### 覿 (dí)

@@ -37,12 +37,16 @@ Nome kung fu de Leonardo Santos dos Reis.
 
 ### 利 (lì / lei6)
 
+> Ver etimologia completa: [`/notes/etimologia-de-lei-li/`](/notes/etimologia-de-lei-li/)
+
 禾 (hé / wo4) -- grão, cereal
 刂 (dāo / dou1) -- faca
 
 Colher o grão com a faca. O Shuowen Jiezi define 利 como 銛也, "afiado", com 刀 (faca) e 禾 (grão) como componentes. O chardb lista 18 acepções, com 鋒利 ("cortante") como def. 1. A lâmina que ceifa a colheita é o gesto do proveito: o que é afiado é útil, o que é útil é proveitoso.
 
 ### 王 (wáng / wong4)
+
+> Ver etimologia completa: [`/notes/etimologia-de-wong-wang-738b/`](/notes/etimologia-de-wong-wang-738b/)
 
 Pictograma. Três traços horizontais representam céu, humanidade e terra; o traço vertical que os une é o soberano. O Shuowen Jiezi define: 天下所歸往也, "aquele a quem tudo-sob-o-céu se dirige". Dong Zhongshu acrescenta: 三畫而連其中謂之王, "três traços ligados pelo meio -- isso é rei." O chardb lista 16 acepções: desde 古代最高統治者的稱號 ("título do mais alto governante da antiguidade", def. 1), passando por 首領同類中最突出的 ("líder, o mais destacado da sua espécie", def. 4), 大 ("grande", def. 5), até 匡正 ("rectificar", def. 8), 統治領有一國或一地 ("governar, ter soberania", def. 10), 勝過 ("superar", def. 12) e 通旺興盛旺盛 ("variante de 旺: próspero", def. 13). A def. 15 nota que 王 é a forma antiga de 玉 ("jade"), e a def. 6 preserva o uso como tratamento honorífico para a geração dos avós. O xiaoxue regista 28 formas: 5 oraculares (Shang), 10 bronzes (desde a dinastia Shang até aos Reinos Combatentes), selos e clerical. A riqueza das atestações -- 270 oraculares no hanziyuan.net -- confirma a centralidade do caractere na escrita chinesa desde as origens.
 

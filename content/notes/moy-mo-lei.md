@@ -37,12 +37,16 @@ Nome kung fu de Rodrigo Moreira.
 
 ### 磨 (mó / mo4)
 
+> Ver etimologia completa: [`/notes/etimologia-de-mo-mo-78e8/`](/notes/etimologia-de-mo-mo-78e8/)
+
 麻 (má) – cânhamo, componente fonético
 石 (shí) – pedra
 
 Pedra que pule. O radical 石 ancora o sentido no domínio mineral; 麻 fornece o som. Moer, afiar, polir por fricção com pedra. O chardb lista 17 acepções: 磨冶石器 ("talhar ferramentas de pedra"), 磨擦 ("friccionar"), 磨練 ("temperar por dificuldade"), 切磋 ("discutir e investigar"), 折磨 ("atormentar"), 糾纏 ("insistir"), 拖延時間 ("postergar"), 泯滅 ("extinguir"), entre outras. Inclui também o sentido nominal: 碾碎穀物等的工具 ("mó de moer cereais"). Sem entrada no Shuowen. O xiaoxue regista apenas 2 formas: 漢印徵 e 石門頌 (Han Oriental), ambas clerical, confirmando formação tardia.
 
 ### 雷 (léi / leoi4)
+
+> Ver etimologia completa: [`/notes/etimologia-de-lei-li-96f7/`](/notes/etimologia-de-lei-li-96f7/)
 
 雨 (yǔ) – chuva
 畾 (léi) – três campos empilhados, fonético

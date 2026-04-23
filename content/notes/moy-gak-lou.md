@@ -37,12 +37,16 @@ Nome kung fu de Glauco Gavioli.
 
 ### 格 (gé / gaak3)
 
+> Ver etimologia completa: [`/notes/etimologia-de-gak-ge/`](/notes/etimologia-de-gak-ge/)
+
 木 (mù) – árvore, madeira
 各 (gè) – cada (componente fonético)
 
 O Shuowen define: 「格，木長皃。从木，各聲。」 — "Aspeto de madeira longa/galhos. De 木 (árvore); 各 é o fonético." O sentido original é a aparência dos ramos longos de uma árvore. O chardb regista 34 acepções: ramos longos (def. 1: 樹木的長枝條), estacas de rede (def. 2), prateleira (def. 3), grade de madeira (def. 4), impedir (def. 5), limitar (def. 6), quadrado/moldura (def. 9), carácter/estilo (def. 11: 品質，風度), padrão (def. 13: 法式，標準), lei (def. 14), investigar (def. 16: 推究), chegar (def. 17: 至，來), combater (def. 19: 擊打，格鬥). A leitura semântica de 各 como "cada um com sua forma" é interpretação posterior; o Shuowen e o hanziyuan.net classificam 各 como fonético puro.
 
 ### 勞 (láo / lou4)
+
+> Ver etimologia completa: [`/notes/etimologia-de-lou-lao2/`](/notes/etimologia-de-lou-lao2/)
 
 力 (lì) – força
 熒 (yíng) – fogo de lamparina (abreviado)

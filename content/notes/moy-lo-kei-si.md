@@ -39,11 +39,15 @@ Nome kung fu de Lucas Alves dos Santos Cota.
 
 ### 老 (lǎo / lou5)
 
+> Ver etimologia completa: [`/notes/etimologia-de-lou-lao/`](/notes/etimologia-de-lou-lao/)
+
 耂 (lǎo / lou5) – velho (forma residual)
 
 Pictograma de pessoa idosa. O Shuowen Jiezi define 老 como 考也, "ancião", e acrescenta: 七十曰老, "aos setenta chama-se lǎo". De 人 (pessoa) com 毛 e 匕, indicando cabelos e barba que embranquecem. Shang Chengzuo (商承祚), no Yinxu Wenzi Leibian, nota que as formas em osso de oráculo mostram "um idoso apoiado em bastão" (象老者倚杖之形). O xiaoxue regista 22 formas: 6 em osso de oráculo (商 Shang), 6 em bronze (do Zhou Ocidental tardio ao período dos Reinos Combatentes), 5 em textos dos Reinos Combatentes (楚 Chu), 1 selo (Shuowen) e 4 clerical (do Qin aos Jin Ocidentais).
 
 ### 崎 (qí / kei1)
+
+> Ver etimologia completa: [`/notes/etimologia-de-kei-qi/`](/notes/etimologia-de-kei-qi/)
 
 山 (shān / saan1) – montanha
 奇 (qí / kei4) – irregular
@@ -51,6 +55,8 @@ Pictograma de pessoa idosa. O Shuowen Jiezi define 老 como 考也, "ancião", e
 Montanha irregular. O radical 山 situa o significado na paisagem; 奇 funciona como fonético. O chardb define 崎 como 傾側不正貌 ("inclinado, que não é reto") e 曲岸 ("margem curva"), além do composto 崎嶇 (terreno íngreme e acidentado). Sem entrada no Shuowen. O xiaoxue regista apenas 1 forma em clerical (淮源廟碑, Han Oriental), confirmando formação tardia.
 
 ### 士 (shì / si6)
+
+> Ver etimologia completa: [`/notes/etimologia-de-si-shi/`](/notes/etimologia-de-si-shi/)
 
 O Shuowen Jiezi define 士 como 事也, "servir", e interpreta como quem domina de um (一) a dez (十). Confúcio: 推十合一為士, "quem reduz dez a um é um shi". O hanziyuan.net classifica como pictograma independente com significado original "a man". O xiaoxue regista 13 formas: 4 em bronze (do Zhou Ocidental inicial ao período dos Reinos Combatentes, 晉), 5 em textos dos Reinos Combatentes (楚 Chu e 秦 Qin), 1 selo (Shuowen) e 3 clerical (do Han Ocidental ao Han Oriental).
 

@@ -39,6 +39,8 @@ Nome kung fu de Fabiano Marques Granado.
 
 ### 法 (fǎ / faat3)
 
+> Ver etimologia completa: [`/notes/etimologia-de-fat-fa/`](/notes/etimologia-de-fat-fa/)
+
 氵(shuǐ) – água
 去 (qù) – ir, remover
 
@@ -46,12 +48,16 @@ A forma moderna é simplificação de 灋. O Shuowen define: 「灋，刑也。�
 
 ### 兵 (bīng / bing1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-bing-bing/`](/notes/etimologia-de-bing-bing/)
+
 斤 (jīn) – machado
 廾 (gǒng) – duas mãos
 
 Mãos empunhando arma. O Shuowen define: 「械也。从廾持斤，并力之皃。」 — "Instrumento de guerra. De 廾 (duas mãos) segurando 斤 (machado), com a aparência de forças combinadas." O chardb confirma que o sentido primário é arma/instrumento (def. 1: 兵器，武器), seguido de soldado (def. 2), assuntos militares (def. 3), combate (def. 4), guerra (def. 5). O comentário de Yáng Shùdá (via Xiaoxue Tang): 「兵字从𠬞持斤，斤，兵也。」 — "兵 é de 𠬞 segurando 斤; 斤 é a arma." Formas desde ossos oraculares da dinastia Shang (佚729, 後2.29.6) e bronzes da Zhou Ocidental.
 
 ### 安 (ān / on1)
+
+> Ver etimologia completa: [`/notes/etimologia-de-on-an/`](/notes/etimologia-de-on-an/)
 
 宀 (mián) – teto, abrigo
 女 (nǚ) – mulher

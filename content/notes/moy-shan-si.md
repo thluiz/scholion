@@ -37,11 +37,15 @@ Nome kung fu de Si Hing (師兄) Carlos Antunes.
 
 ### 山 (shān / saan1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-shan-shan/`](/notes/etimologia-de-shan-shan/)
+
 Pictograma. Três picos, o do meio mais alto. Uma das formas mais antigas do chinês. Não se decompõe em outros caracteres.
 
 O Shuowen define 山 como 宣也, "proclamar": a montanha proclama o qi, dispersa e gera as dez mil coisas. O chardb lista 10 acepções: elevação de terra e pedra (def. 1), as Cinco Montanhas Sagradas (def. 2), túmulo (def. 3), objecto com forma de montanha (def. 4), padrão decorativo montanhoso (def. 5), grande/enorme (def. 6), interior da montanha como morada de monges e eremitas (def. 7), termo modesto (def. 8), rude/vulgar (def. 9), e sobrenome (def. 10). O 《漢語大字典》, citado no xiaoxue, confirma: 「甲、金文像山峰並立之形」 ("nas formas oraculares e de bronze, parece picos alinhados"). O xiaoxue regista 19 formas: 1 oracular Shang (乙2463), bronzes desde o final da dinastia Shang, e variantes dos Reinos Combatentes em Yan, Jin e Chu.
 
 ### 士 (shì / si6)
+
+> Ver etimologia completa: [`/notes/etimologia-de-si-shi/`](/notes/etimologia-de-si-shi/)
 
 十 (shí / sap6) – dez
 一 (yī / jat1) – um

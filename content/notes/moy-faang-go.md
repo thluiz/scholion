@@ -37,12 +37,16 @@ Nome kung fu de William Franco de Oliveira.
 
 ### 范 (fàn / faan6)
 
+> Ver etimologia completa: [`/notes/etimologia-de-faang-fan/`](/notes/etimologia-de-faang-fan/)
+
 艹 (cǎo) – erva, planta
 氾 (fàn) – transbordar
 
 O radical 艹 situa o caractere no domínio vegetal; 氾 funciona como componente fonético. O Shuowen define 范 como 艸也 ("planta"), e o chardb confirma este sentido primário (def. 1), acrescentando abelha (def. 2) como sentido antigo. O uso como "modelo, padrão" é empréstimo da forma tradicional 範, que contém 竹 (bambu) e 車 (carro). O Xiaoxue Tang não regista formas em osso de oráculo nem bronze, com as attestações mais antigas em selos dos Reinos Combatentes.
 
 ### 高 (gāo / gou1)
+
+> Ver etimologia completa: [`/notes/etimologia-de-go-gao/`](/notes/etimologia-de-go-gao/)
 
 Pictograma de uma torre ou pavilhão elevado. A forma antiga mostra uma estrutura com base, corpo e telhado. O Shuowen define 高 como 崇也, "elevado", descrevendo-o como 象臺觀高之形 ("representa a forma de um terraço alto"). O comentário de Kǒng Guǎngjū (via Xiaoxue Tang) detalha: a parte superior representa o andar de cima, 冂 o de baixo, 口 as portas e janelas. O chardb regista 18 acepções, desde altura física (def. 1) até estilo literário elevado (def. 17). Formas atestadas desde os ossos oraculares da dinastia Shang.
 

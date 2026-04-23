@@ -37,11 +37,15 @@ Nome kung fu de Rafael Romanizio Maciel.
 
 ### 老 (lǎo / lou5)
 
+> Ver etimologia completa: [`/notes/etimologia-de-lou-lao/`](/notes/etimologia-de-lou-lao/)
+
 耂 (lǎo / lou5) – velho (forma residual)
 
 Pictograma de pessoa idosa. O Shuowen Jiezi define 老 como 考也, "ancião", e acrescenta: 七十曰老從人毛匕言須髮變白也, "aos setenta chama-se lǎo; de 人, 毛 e 匕, pois barba e cabelo tornam-se brancos." Shang Chengzuo, no comentário sobre ossos oraculares, observa: 象老者倚杖之形 ("retrata a forma de um idoso apoiado num bastão"). O xiaoxue regista 22 formas: 6 em osso de oráculo (商 Shang), 6 em bronze (Zhou Ocidental a Warring States), e 10 em textos mais tardios. O chardb lista 16 acepções, sendo a primeira 五十至七十歲的高齡 ("idade avançada dos 50 aos 70").
 
 ### 問 (wèn / man6)
+
+> Ver etimologia completa: [`/notes/etimologia-de-man-wen/`](/notes/etimologia-de-man-wen/)
 
 口 (kǒu / hau2) – boca
 門 (mén / mun4) – porta

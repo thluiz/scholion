@@ -37,12 +37,16 @@ Nome kung fu de Simão Coutinho de Albuquerque Neto.
 
 ### 識 (shí / sik1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-sek-shi-8b58/`](/notes/etimologia-de-sek-shi-8b58/)
+
 言 (yán) – palavra, fala; componente semântico
 戠 (zhí) – componente fonético
 
 Reconhecer pela palavra. O Shuowen define 識 como 常也, "constante", e acrescenta 一曰知也, "também: saber". O chardb lista 15 acepções: de estandarte/bandeira (def. 1, depois escrito 幟), marcar (def. 2, depois escrito 誌), recordar (def. 3), registar (def. 4), saber (def. 8), reconhecer (def. 9), até termo budista para o sujeito da atividade mental (def. 13). 楊樹達 (Yang Shuda), citado no xiaoxue, distingue três camadas de significado: 「最先為記識，一也；認識次之，二也；最後為知識，三也」 — primeiro "marcar/registar", depois "reconhecer", por fim "conhecimento". O xiaoxue regista 8 formas: 1 bronze (𣄰尊, Zhou Ocidental precoce), selos e clerical de Qin a Han.
 
 ### 問 (wèn / man6)
+
+> Ver etimologia completa: [`/notes/etimologia-de-man-wen/`](/notes/etimologia-de-man-wen/)
 
 門 (mén) – porta, portão
 口 (kǒu) – boca

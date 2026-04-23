@@ -37,12 +37,16 @@ Nome kung fu de Marcos Eduardo Davi.
 
 ### 德 (dé / dak1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-dak-de/`](/notes/etimologia-de-dak-de/)
+
 彳 (chì / cik1) – passo, caminho
 惪 (dé / dak1) – virtude simples
 
 O Shuowen Jiezi define 德 como 升也, "elevar-se", de 彳 com 惪 como fonético. O hanziyuan.net classifica 惪 como "related phonetic simple-virtue", atribuindo valor fonético e semântico. O hanziyuan.net regista 0 formas em osso de oráculo e 42 em bronze, mas o xiaoxue corrige: há 2 formas oraculares da dinastia Shang (粹864, 甲2304). O chardb lista 陞；登 ("subir") como definição primária — alinhada com o Shuowen — e 道德，品行 ("virtude, moral") apenas como segunda acepção.
 
 ### 貴 (guì / gwai3)
+
+> Ver etimologia completa: [`/notes/etimologia-de-bei-gui/`](/notes/etimologia-de-bei-gui/)
 
 貝 (bèi / bui3) – concha, moeda
 

@@ -37,12 +37,16 @@ Nome kung fu de Cristiano Chaves da Silva.
 
 ### 騎 (qí / ke4)
 
+> Ver etimologia completa: [`/notes/etimologia-de-ke-qi/`](/notes/etimologia-de-ke-qi/)
+
 馬 (mǎ / ma5) – cavalo
 奇 (qí / kei4) – estranho, notável
 
 O cavalo notável. O radical 馬 indica a categoria; 奇 funciona como componente fonético e semântico, com a ideia do singular, do invulgar. O chardb lista 9 acepções, desde 跨馬，騎馬 ("montar a cavalo", def. 1) a 量詞 ("classificador para cavalos", def. 8). O xiaoxue regista 9 formas, incluindo selos dos Reinos Combatentes (璽彙0307, Qi; 騎傳馬節, Yan; 璽彙2512, Jin; 包2.119, Chu) e clerical desde o Han Ocidental. O Shuowen citado pelo xiaoxue define: 「騎，跨馬也。从馬，奇聲。」 O som arcaico reconstrói-se como *gʰia (Karlgren) ou *gjar (Li Fang-Kuei), classe da rima 歌 (gē).
 
 ### 鑰 (yuè / joek6)
+
+> Ver etimologia completa: [`/notes/etimologia-de-yeuk-yao/`](/notes/etimologia-de-yeuk-yao/)
 
 金 (jīn / gam1) – metal
 龠 (yuè / joek6) – flauta, tubo

@@ -39,6 +39,8 @@ Nome kung fu de José Felipe Dantas Ferreira.
 
 ### 斐 (fěi / fei2)
 
+> Ver etimologia completa: [`/notes/etimologia-de-fei-fei2/`](/notes/etimologia-de-fei-fei2/)
+
 非 (fēi) – não; componente fonético
 文 (wén) – literatura, padrão, cultura
 
@@ -46,12 +48,16 @@ O Shuowen define: 「斐，分別文也。从文，非聲。《易》曰：'君�
 
 ### 利 (lì / lei6)
 
+> Ver etimologia completa: [`/notes/etimologia-de-lei-li/`](/notes/etimologia-de-lei-li/)
+
 禾 (hé) – cereal, grão
 刂 (dāo) – faca
 
 Colher o grão com a faca. O Shuowen define: 「利，銛也。从刀；和然後利，从和省。」 — "Afiado. De 刀; quando há harmonia, há benefício." O chardb regista 18 acepções, desde afiado (def. 1) até benefício (def. 7) e lucro (def. 11). O comentário de Qū Yìpéng (via Xiaoxue Tang) propõe que 利 seja a forma original de 犂 (arado). Formas desde ossos oraculares Shang.
 
 ### 一 (yī / jat1)
+
+> Ver etimologia completa: [`/notes/etimologia-de-yat-yi/`](/notes/etimologia-de-yat-yi/)
 
 Traço único horizontal. O Shuowen define: 「一，惟初太始，道立於一，造分天地，化成萬物。弌，古文一。」 — "No princípio, o Dao se estabeleceu no um, dele se dividiram céu e terra, e se formaram as dez mil coisas. 弌 é a forma antiga." O comentário de Duàn Yùcái (via Xiaoxue Tang): 「一之形於六書為指事。」 — "A forma de 一 nas seis categorias de escrita é zhǐshì (indicativo)." O comentário de Xú Hào acrescenta: 「一二三亖，畫如其數，是為指事，亦為象事也。」 — "一 二 三 亖, traçados conforme o número, são indicativos e também pictográficos." O chardb e o Xiaoxue Tang concordam: formas desde ossos oraculares Shang e bronzes da Zhou Ocidental.
 

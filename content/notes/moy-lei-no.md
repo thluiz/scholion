@@ -37,12 +37,16 @@ Nome kung fu de Alexander Lennart Formiga Johnsson.
 
 ### 利 (lì / lei6)
 
+> Ver etimologia completa: [`/notes/etimologia-de-lei-li/`](/notes/etimologia-de-lei-li/)
+
 禾 (hé) -- cereal, grão
 刂 (dāo) -- faca
 
 O Shuowen Jiezi define 利 como 銛也从刀从和, "afiado". O chardb lista 18 acepções, com 鋒利 ("cortante") como def. 1. A faca que corta o grão: o que é útil, o que rende fruto. Do corte limpo vem o sentido de benefício e vantagem.
 
 ### 挪 (nuó / no4)
+
+> Ver etimologia completa: [`/notes/etimologia-de-no-nuo/`](/notes/etimologia-de-no-nuo/)
 
 扌(shǒu) -- mão
 那 (nà) -- aquele; componente fonético

@@ -44,6 +44,8 @@ Caractere raro. O chardb regista apenas 2 acepções: grande (def. 1: 大) e var
 
 ### 明 (míng / ming4)
 
+> Ver etimologia completa: [`/notes/etimologia-de-ming-ming/`](/notes/etimologia-de-ming-ming/)
+
 日 (rì) – sol
 月 (yuè) – lua
 

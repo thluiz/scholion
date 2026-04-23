@@ -37,6 +37,8 @@ Nome kung fu de André Vieira Gonçalves de Almeida.
 
 ### 美 (měi / mei5)
 
+> Ver etimologia completa: [`/notes/etimologia-de-mei-mei-7f8e/`](/notes/etimologia-de-mei-mei-7f8e/)
+
 羊 (yáng / joeng4) – carneiro, ovelha
 大 (dà / daai6) – grande
 

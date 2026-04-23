@@ -37,12 +37,16 @@ Nome kung fu de Claudio Ricardo Teixeira.
 
 ### 吉 (jí / gat1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-kat-ji/`](/notes/etimologia-de-kat-ji/)
+
 士 (shì / si6) – erudito, estudioso
 口 (kǒu / hau2) – boca
 
 Palavra do sábio, bom augúrio. O Shuowen Jiezi define 吉 como 善也, "bom". A boca do erudito pronuncia o que é favorável. O caractere aparece extensamente em ossos oraculares em contextos de adivinhação: o veredicto propício. O chardb lista 9 acepções, desde 善；吉祥 ("bom; auspicioso", def. 1) a 橘樹；橘子 ("tangerineira; tangerina", def. 5) — esta extensão fonética ausente das outras fontes. O xiaoxue regista 15 formas, incluindo 5 oráculos Shang (鐵159.1, 前7.16.4, 前8.7.2, 佚247, 甲2671) e bronzes desde os Zhou Ocidentais (夨令方彝). O som arcaico reconstrói-se como *kiĕt (Karlgren) ou *kjit (Li Fang-Kuei), classe da rima 質/脂 (zhì/zhī).
 
 ### 祖 (zǔ / zou2)
+
+> Ver etimologia completa: [`/notes/etimologia-de-jo-zu/`](/notes/etimologia-de-jo-zu/)
 
 礻(shì / si6) – altar, mostrar (radical de ritual)
 且 (qiě / ce2) – altar de oferendas

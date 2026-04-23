@@ -39,6 +39,8 @@ Nome kung fu de Maria Alice de Souza Teixeira.
 
 ### 華 (huá / waa4)
 
+> Ver etimologia completa: [`/notes/etimologia-de-wa-hua/`](/notes/etimologia-de-wa-hua/)
+
 艹 (cǎo) – erva, planta
 花 componente floral inferior
 
@@ -46,12 +48,16 @@ Forma antiga representa uma flor em plena abertura. O radical 艹 (planta) encim
 
 ### 利 (lì / lei6)
 
+> Ver etimologia completa: [`/notes/etimologia-de-lei-li/`](/notes/etimologia-de-lei-li/)
+
 禾 (hé) – cereal
 刂 (dāo) – faca
 
 Cereal cortado com faca: a colheita. O Shuowen define 利 como 銛也, "afiado". Faca que corta bem traz benefício. Do gume nasce o proveito.
 
 ### 士 (shì / si6)
+
+> Ver etimologia completa: [`/notes/etimologia-de-si-shi/`](/notes/etimologia-de-si-shi/)
 
 Pictograma de um machado fincado no chão, símbolo de quem planta posição e defende. O Shuowen define 士 como 事也, "aquele que serve". Homem de saber e de armas.
 

@@ -37,6 +37,8 @@ sources:
 
 ### 知 (zhī / zi1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-chi-zhi/`](/notes/etimologia-de-chi-zhi/)
+
 矢 (shǐ / ci2) – flecha, dardo; jurar
 口 (kǒu / hau2) – boca; abertura, entrada
 
@@ -44,12 +46,16 @@ Flecha e boca. Saber é acertar com a palavra — essa é a leitura semântica t
 
 ### 友 (yǒu / jau5)
 
+> Ver etimologia completa: [`/notes/etimologia-de-yau-you/`](/notes/etimologia-de-yau-you/)
+
 又 (yòu / jau6) – mão direita
 又 (yòu / jau6) – mão direita
 
 Duas mãos direitas que se encontram. No bronze antigo, às vezes aparece 口 embaixo, sugerindo o juramento verbal. Amigo é quem estende a mão na mesma direção. Gao Hongjin (高鴻縉) precisa: o caractere vem de dois 又 (mãos) em cooperação; era originalmente um verbo ("cooperar"), e só no final dos Zhou passou a nome ao fundir-se com 朋. O chardb confirma a cooperação como sentido primário: def. 1 互助合作.
 
 ### 士 (shì / si6)
+
+> Ver etimologia completa: [`/notes/etimologia-de-si-shi/`](/notes/etimologia-de-si-shi/)
 
 十 (shí / sap6) – dez
 一 (yī / jat1) – um

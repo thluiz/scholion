@@ -37,9 +37,13 @@ Nome kung fu de Francisco Marcio Lopes da Silva.
 
 ### 司 (sī / si1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-si-shi-53f8/`](/notes/etimologia-de-si-shi-53f8/)
+
 Pessoa junto a uma boca: quem dirige. A forma antiga mostra uma figura humana voltada para 口 (boca): aquele que dá ordens, que comanda pela palavra. O Shuowen define 司 como 臣司事於外者, "funcionário que administra assuntos no exterior", e analisa como 从反后 ("inversão de 后", soberano). O chardb lista 12 acepções: dirigir/presidir (def. 1), oficial do governo (def. 2), assuntos sob jurisdição (def. 3), nome de repartição antiga (def. 4), nome de estado (def. 5), abreviatura de 土司 — chefe indígena das dinastias Yuan/Ming/Qing (def. 6), sinónimo de 師 "mestre" (def. 7), sobrenome (def. 8), litígio (def. 9), espiar/vigiar — depois escrito 伺 (def. 10), e herdar — depois escrito 嗣 (def. 11). O xiaoxue regista 14 formas: 4 oraculares Shang (粹430, 甲241, 鄴3下.34.7, 鄴3下.46.9), bronzes desde o Zhou médio, e variantes dos Reinos Combatentes em Qi, Yan, Jin e Chu.
 
 ### 奧 (ào / ou3)
+
+> Ver etimologia completa: [`/notes/etimologia-de-ou-ao/`](/notes/etimologia-de-ou-ao/)
 
 宀 (mián) – teto, abrigo
 𢍏 – componente fonético

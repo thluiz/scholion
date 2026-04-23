@@ -37,9 +37,13 @@ Nome kung fu de Vinícius Roque Moreira.
 
 ### 樂 (lè / lok6)
 
+> Ver etimologia completa: [`/notes/etimologia-de-lok-le-6a02/`](/notes/etimologia-de-lok-le-6a02/)
+
 Pictograma de um instrumento musical de madeira com cordas. A forma antiga mostra cordas tensas sobre uma base de madeira (木). O Shuowen define 樂 como 五聲八音總名, "nome geral para os cinco tons e oito timbres". Lê-se yuè quando significa música, lè quando significa alegria. O chardb lista 16 acepções: 音樂 ("música"), 歌唱 ("cantar"), 樂器 ("instrumento musical"), 喜悅 ("alegria"), 安樂 ("paz, conforto"), 樂意 ("estar disposto a"), entre outras. Luó Zhènyù nota que a forma oracular mostra "cordas sobre madeira, imagem de cítara" (从絲坿木上，琴瑟之象也). O xiaoxue regista 18 formas: 2 em osso de oráculo (商 Shang), 8 em bronze (do Zhou Ocidental médio à Primavera e Outono tardia), 3 em textos dos Reinos Combatentes (楚 Chu e 燕 Yan), 1 selo (Shuowen) e 4 clerical (do Qin ao Han Oriental).
 
 ### 奇 (qí / kei4)
+
+> Ver etimologia completa: [`/notes/etimologia-de-ke-qi-5947/`](/notes/etimologia-de-ke-qi-5947/)
 
 大 (dà) – grande
 可 (kě) – poder, ser capaz

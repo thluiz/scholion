@@ -37,12 +37,16 @@ Nome kung fu de Niklas Bernardo Corrêa.
 
 ### 利 (lì / lei6)
 
+> Ver etimologia completa: [`/notes/etimologia-de-lei-li/`](/notes/etimologia-de-lei-li/)
+
 禾 (hé) -- grão, cereal
 刂 (dāo) -- faca
 
 Faca que colhe o grão. O Shuowen define 利 como 銛也, "afiado". O chardb lista 18 acepções: a primária é 鋒利 ("afiado, cortante"), seguida de 和 ("harmonia"), 靈便利落 ("ágil, desembaraçado"), 疾迅猛 ("rápido, impetuoso"), 吉順利 ("auspicioso, favorável"), 善優良美好 ("excelente, bom, belo"), e 利益 ("benefício, proveito", def. 7). O chardb inclui ainda acepções raras: 古代祭祖禮儀中侍奉尸的人 (def. 12, "pessoa que serve o representante do morto nos ritos ancestrais") e 古代泄瀉滯下症的通稱後作痢 (def. 13, "termo antigo para disenteria, depois escrito 痢").
 
 ### 嘉 (jiā / gaa1)
+
+> Ver etimologia completa: [`/notes/etimologia-de-gaa-jia/`](/notes/etimologia-de-gaa-jia/)
 
 壴 (zhù) -- tambor cerimonial
 加 (jiā) -- adicionar

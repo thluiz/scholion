@@ -37,12 +37,16 @@ Nome kung fu de Iuri Correa Faria Alvarenga.
 
 ### 優 (yōu / jau1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-yau-you-512a/`](/notes/etimologia-de-yau-you-512a/)
+
 亻(rén) – pessoa
 憂 (yōu) – preocupação, ansiedade
 
 O radical 亻situa o sentido no humano; 憂 serve como componente fonético e semântico. O caractere também significa "ator", aquele que representa.
 
 ### 利 (lì / lei6)
+
+> Ver etimologia completa: [`/notes/etimologia-de-lei-li/`](/notes/etimologia-de-lei-li/)
 
 禾 (hé) – grão, cereal
 刂 (dāo) – faca

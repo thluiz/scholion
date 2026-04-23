@@ -37,9 +37,13 @@ Nome kung fu de Daniel Araújo.
 
 ### 登 (dēng / dang1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-tang-deng-767b/`](/notes/etimologia-de-tang-deng-767b/)
+
 O Shuowen Jiezi define 登 como 上車也, "subir ao carro", e descreve: 從癶豆象登車形, "de 癶 e 豆, representando a forma de subir ao carro". O chardb confirma 昇；自下而上 ("ascender; ir de baixo para cima") como definição primária, com 21 acepções incluindo 成熟 (def. 4, "amadurecer") e 上冊；登載 (def. 8, "registar, inscrever"). O xiaoxue regista 25 formas: 4 oraculares Shang, 1 bronze Shang tardio (登串父丁觶), bronzes do Zhou ao início dos Reinos Combatentes, bambus de Chu e formas clerical. O comentário de Duan Yucai nota: 「引伸之，凡上陞曰登」 ("por extensão, todo ascender se diz 登"). Xu Kai acrescenta que 豆 no Shuowen não é o 豆 de "taça ritual" mas um pictograma: 「豆非俎豆字，象形耳」.
 
 ### 郁 (yù / juk1)
+
+> Ver etimologia completa: [`/notes/etimologia-de-yok-yu-90c1/`](/notes/etimologia-de-yok-yu-90c1/)
 
 O Shuowen Jiezi define 郁 como 右扶風郁夷也, originalmente um topónimo (郁夷, na região de Fufeng). O chardb lista 7 acepções: 郁夷 (def. 1, topónimo antigo), 物實無中核者 (def. 2, "fruto sem caroço"), e as acepções por empréstimo: 通「鬱」 (def. 3, fragrância/exuberância), 通「彧」 (def. 4, elegância literária), 通「薁」 (def. 5, uva silvestre), 通「燠」 (def. 6, calor). O xiaoxue regista apenas 3 formas: 1 selo (說文‧邑部) e 2 formas em selos Han (漢印徵). Caractere raro nas inscrições antigas.
 

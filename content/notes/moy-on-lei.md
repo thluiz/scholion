@@ -37,12 +37,16 @@ Nome kung fu de Pedro Irlandini Endres de Oliveira.
 
 ### 安 (ān / on1)
 
+> Ver etimologia completa: [`/notes/etimologia-de-on-an/`](/notes/etimologia-de-on-an/)
+
 宀 (mián) – teto, abrigo
 女 (nǚ) – mulher
 
 Mulher sob o teto. O Shuowen define 安 como 靜也, "quietude"; Duan Yucai emenda para 竫 e nota a equivalência com 寍. O chardb lista 安定；安全 ("estabilidade, segurança") como acepção primária, seguida de 安靜, 止, 穩, 徐緩 — um espectro que vai de estabilidade física a serenidade interior. O xiaoxue regista 31 formas históricas: 3 oraculares (商), 7 bronzes (西周 a 春秋), passando por selos (Qin) e clerical (Han).
 
 ### 利 (lì / lei6)
+
+> Ver etimologia completa: [`/notes/etimologia-de-lei-li/`](/notes/etimologia-de-lei-li/)
 
 禾 (hé) – grão, cereal
 刂 (dāo) – faca

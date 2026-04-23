@@ -37,12 +37,16 @@ Nome kung fu de Marcos Leiras de Carvalho.
 
 ### 利 (lì / lei6)
 
+> Ver etimologia completa: [`/notes/etimologia-de-lei-li/`](/notes/etimologia-de-lei-li/)
+
 禾 (hé) -- cereal, grão
 刂 (dāo) -- faca
 
 Faca que corta o grão. O Shuowen define 利 como 銛也, "afiado". O chardb lista 18 acepções, da qual 鋒利 ("cortante") é a primária. O que corta bem traz benefício.
 
 ### 華 (huá / waa4)
+
+> Ver etimologia completa: [`/notes/etimologia-de-wa-hua/`](/notes/etimologia-de-wa-hua/)
 
 O Shuowen define 華 como 榮也從艸從𠌶, "florescimento, de erva com 𠌶". O chardb lista 30 acepções, revelando a amplitude do caractere: desde 同花花朵 ("flor", def. 1) e 開花 ("florescer", def. 2), passando por 光彩光輝 ("brilho, esplendor", def. 6), 時光 ("tempo que passa", def. 7), 年輕年少 ("juventude", def. 8), 文采 ("ornamento literário", def. 9), 華麗美麗 ("magnificência", def. 12), 精華 ("essência", def. 14), 我國古稱華夏 ("China: antiga designação do país", def. 16), 漢語的簡稱 ("abreviatura de 'língua chinesa'", def. 17), 繁盛榮華 ("prosperidade", def. 18), 顯貴 ("eminência", def. 19), até 頭髮花白 ("cabelo grisalho", def. 23) e 車蓋 ("cobertura de carruagem", def. 24). O xiaoxue regista 7 formas: 1 bronze (Primavera e Outono), 1 cerâmica (Reinos Combatentes, Qin), 1 selo (Shuowen), e 4 clerical. O comentário de Xu Hao explica: 𠌶華亦一字𠌶乃古象形文上象蓓蕾下象莖葉, "𠌶 e 華 são o mesmo caractere; 𠌶 é a forma pictográfica arcaica, com botões em cima e caule e folhas em baixo". Gao Hongjin acrescenta: 秦人或加艸為意符遂有華字及後華借用為光華意秦漢人乃另造荂六朝人又另造花字, "os Qin acrescentaram 艸 como radical semântico, criando 華; depois 華 foi emprestado para o sentido de esplendor; os Han criaram 荂, e na era das Seis Dinastias surgiu 花".
 
