@@ -22,8 +22,8 @@ sources:
 - title: 小學堂 — Academia Sinica
   url: https://xiaoxue.iis.sinica.edu.tw
   kind: wiki
-- title: 說文解字 (via xiaoxue Academia Sinica)
-  url: https://xiaoxue.iis.sinica.edu.tw
+- title: 說文解字 (via zdic.net)
+  url: https://www.zdic.net
   kind: wiki
 ---
 
@@ -73,11 +73,11 @@ Shuowen (hanziyuan, inline): 異也一曰不耦從大從可
 
 Formas atestadas (hanziyuan): Oracle 0 · Bronze 0 · Seal 1 (S03504) · Liushutong 8. Caractere relativamente tardio — sem atestação em Oracle ou Bronze. Primeira atestação consolidada em cerâmica Warring States.
 
-### Shuowen Jiezi completo (via xiaoxue Academia Sinica)
+### Shuowen Jiezi completo (via zdic.net)
 
-**說文**: 奇，異也。一曰不耦。从大，从可。 ("Qí: diferente. Alternativamente: 'não pareado' (不耦). Composto de 大 (grande) e 可.")
+**說文**: 異也。一曰不耦。从大从可。渠羈切。 ("Diferente. Alternativamente: 'não pareado' (不耦). Composto de 大 e 可. Fanqie: 渠羈.")
 
-**段注 Duan Yucai** (via xiaoxue — não foi possível obter edição verbatim completa; shuowen.org e zdic.net com timeout persistente para este caractere): 會意，可亦聲。 ("[Princípio formativo:] ideograma composto (會意); 可 também [serve como] fonético.")
+**段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido para este caractere): 異也。不羣之謂。一曰不耦。奇耦字當作此。今作偶、俗。按二義相因。从大。从可。會意。可亦聲。古音在十七部。今音前義渠羈切。後義居宜切。 ("'Diferente'. Significa 'não pertencer ao grupo' (不羣). Alternativamente: 'não pareado' (不耦). O caractere 奇耦 ['par/ímpar'] deveria propriamente ser este [奇]; hoje se escreve 偶 — forma coloquial. Considere-se: os dois sentidos derivam um do outro. De 大 e 可 — ideograma composto (會意); 可 também é fonético. No som arcaico pertence à 17ª secção de rima. No som moderno: para o sentido anterior [estranho], fanqie 渠羈; para o posterior [ímpar], 居宜.")
 
 Nota de Xu Hao (徐灝) citando Dai Dong (戴侗) no *Liùshū gù* (六書故): 奇，从立，可省聲。一足立也。別作踦。奇，古踦字。 ("奇: composto de 立 (pessoa em pé), com 可 como fonético abreviado. [Representa] alguém em pé sobre um só pé. Também escrito 踦 [jǐ/qī — manquitolar, apoiar-se em um pé]. 奇 é a forma antiga de 踦.")
 
@@ -126,6 +126,7 @@ Total: 11 formas. Primeira atestação: cerâmica Warring States Yan.
 - **Shuowen "異也" vs hanziyuan "cavalgar"**: o Shuowen glosa 奇 como 異 (diferente), com variante 不耦 (desemparelhado). Hanziyuan (Sears) propõe leitura pictográfica pré-Shuowen: 大 + 可 representa "homem montando cavalo" — sentido "cavalgar" que sobreviveu apenas em 騎 (com 馬 acrescentado). A leitura de Sears é consistente com o fato de que 奇 e 騎 compartilham fonética OC idêntica.
 - **Dai Dong — leitura "em pé sobre um pé só"**: Dai Dong propõe que o topo do caractere seja 立 (pessoa em pé), não 大 (homem grande), e que 可 seja fonético abreviado. 奇 seria forma antiga de 踦 (jǐ/qī — manquitolar, estar em pé sobre uma perna). Leitura filológica interessante mas minoritária.
 - **Duan Yucai — "可 também fonético"**: Duan explicita que embora o Shuowen classifique como 會意 (ideograma), 可 funciona também foneticamente. OC de 可 (*kʰˤalʔ) e 奇 (*[g](r)aj) compartilham coda e vogal baixa — fonética plausível.
+- **Duan Yucai — bifurcação 奇 vs 偶**: o 段注 argumenta que 奇耦 (par/ímpar) deveria ser escrito propriamente com 奇/耦, e que a grafia moderna 偶 é forma vulgar (俗). Ecoa o debate filológico Qing sobre "formas corretas" (正字) versus "coloquiais" (俗字). Duan também distingue explicitamente as duas pronúncias: 渠羈切 para "estranho", 居宜切 para "ímpar" — confirmando a bifurcação semântica-fonética como já consumada no chinês médio.
 - **Arco semântico "desemparelhado" → "estranho"**: a leitura "不耦" (não pareado) do Shuowen conecta diretamente o sentido matemático (ímpar, gei1/jī) ao sentido geral (estranho/incomum, kei4/qí). Aquilo que não tem par é naturalmente "excepcional". A bifurcação tonal qí/jī especializou-se posteriormente.
 - **Consenso fonológico OC**: /g/ (sonora) + vogal /i/ ou /a/ + coda palatal ou /-r/, no departamento 歌部. Reconstrução estável.
 - **Leitura cantonesa kei4 / gei1**: preserva a divisão semântica — kei4 (com inicial aspirada /kʰ/ cantonesa, do /ɡ/ OC voiced) para "estranho"; gei1 (com inicial não-aspirada /k/) para "ímpar". Essa alofonia inicial é típica do cantonês em palavras que preservam distinção OC de sonoridade.
