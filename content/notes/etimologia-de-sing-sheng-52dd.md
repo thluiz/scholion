@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 勝 (Sing — Shèng / sing3)"
 date: '2026-04-23T12:29:43+01:00'
-summary: "Análise etimológica de 勝 (Shèng / sing3, também sing1), 'vencer, superar, suportar, belo, esplêndido'. Composto fono-semântico: 力 (lì — força, semântico) + 朕 (zhèn — fonético). Shuowen: 任也 ('suportar, aguentar, poder com'). Duan Yucai observa que o sentido primário é 'aguentar/suportar carga' — tanto 'levantar' quanto 'vencer' derivam daí; a separação tonal平 (sing1, suportar) vs 去 (sing3, vencer) é diferenciação popular posterior. Seis fontes consultadas (hanziyuan indisponível)."
+summary: "Análise etimológica de 勝 (Shèng / sing3, também sing1), 'vencer, superar, suportar, belo, esplêndido'. Composto fono-semântico: 力 (lì — força, semântico) + 朕 (zhèn — fonético). Shuowen: 任也 ('suportar, aguentar, poder com'). Duan Yucai observa que o sentido primário é 'aguentar/suportar carga' — tanto 'levantar' quanto 'vencer' derivam daí; a separação tonal 平 (sing1, suportar) vs 去 (sing3, vencer) é diferenciação popular posterior. Sete fontes consultadas."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 has_commentary: false
@@ -67,13 +67,15 @@ Duas leituras distinguem sentido: shèng/sing3 (vencer, superar) vs shēng/sing1
 
 ### Decomposição e formas antigas (hanziyuan)
 
-Componentes: 力 (lì — força, semântico) + 朕 (zhèn — fonético; originalmente "eu, pronome real" ou "fenda de barco").
+Componentes (hanziyuan): composto 勝𠢧 formado por 月 (yuè — lua/carne), 劵𠢏 (juàn — componente obsoleto) e 舟 (zhōu — barco, via 朕); semanticamente de 力 (lì — força) com 朕𦩎 (zhèn — "fenda de barco/presságios", fonético). Variante tradicional antiga: 𠢧. Forma simplificada moderna: 胜 (A224, existing-char borrow for sound — 胜 originalmente "carne crua de cão" foi tomado emprestado pelo valor fonético).
 
-Significado original (hanziyuan): (não retornou dados — script fetch-hanziyuan timeout após múltiplas tentativas).
+Significado original (hanziyuan): vitória.
 
-Shuowen (hanziyuan, inline): (não retornou dados — ver Shuowen completo abaixo via zdic).
+Notas de decomposição (hanziyuan): "com esforço e presságios, pode haver vitória" (with effort and omens, there can be victory).
 
-Formas atestadas (hanziyuan): (não retornou dados — script hanziyuan indisponível. Contagens via xiaoxue yanbian abaixo.)
+Shuowen (hanziyuan, inline): 任也從力朕聲
+
+Formas atestadas (hanziyuan): Oracle 0 · Bronze 0 · Seal 1 (S10378) · Liushutong 58. Ausência total em osso oracular e bronze confirma formação relativamente tardia do caractere; grande número de formas Liushutong indica riqueza de variantes gráficas em seal tardio.
 
 ### Shuowen Jiezi completo (via zdic.net)
 
@@ -122,7 +124,6 @@ Total: 16 formas. Primeira atestação: selo Warring States. Ausente em Oracle e
 - **Shuowen definição 任也**: "aguentar, suportar carga" é o sentido primário — o caractere compõe-se com 力 (força). O sentido militar "vencer" especializou-se posteriormente via a extensão "ter força suficiente para derrotar".
 - **OC 周法高 e 李方桂 — cluster st-**: Zhou Fagao (stʰ) e Li Fanggui (sth) reconstroem cluster consonantal st- no OC, diferentemente dos outros sistemas (ɕ- simples). Essa reconstrução preserva a relação fonética com 朕 (OC *drjɯmʔ / *[d]əmʔ) — o /t/ do cluster st- ecoa o /d/ inicial de 朕, justificando a escolha fonética.
 - **Ausência em Oracle e Bronze Zhou Ocidental**: 勝 não aparece em epigrafia Shang nem Zhou Ocidental — primeira atestação em Warring States tardio. Caractere de formação pós-primitivo, consistente com o fato de que 朕 (originalmente pronome real) só virou fonético regular no período Warring States.
-- **hanziyuan indisponível**: tentativas múltiplas de script Playwright falharam por timeout do site hanziyuan.net. Contagens Oracle/Bronze/Seal não obtidas — o xiaoxue yanbian, mais completo, supre lacuna: primeira atestação em selo Warring States Jin.
 - **Leitura cantonesa sing1 / sing3**: preserva a bifurcação tonal do mandarim. 勝任 (sing1 jam6 — estar à altura) usa tom 1 (陰平, sentido "aguentar"); 勝利 registrado variavelmente como sing1 ou sing3 — mostra a instabilidade dialetal da divisão tonal.
 - **Consenso fonológico OC (núcleo)**: /ɕ/ ou cluster /st-/ + /i/ alta + /əŋ/, no departamento 蒸部. Reconstrução estável exceto pela presença/ausência de cluster.
 - **Acepções exclusivas do chardb**: 通『升』 (equivalente a 升: medida de volume), 通『伸』 (equivalente a 伸: estender), 古代婦女盛妝的一種首飾 (adorno cerimonial feminino), 織布機上持經綫的軸 (eixo do tear) — preservam usos técnicos clássicos ausentes de MDBG.
