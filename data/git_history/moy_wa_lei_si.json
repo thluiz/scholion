@@ -1,14 +1,14 @@
 [
   {
+    "date": "2026-04-23",
+    "subject": "fix: remove comentário desnecessário sobre Moy Chi Yau Si / Shan Si"
+  },
+  {
+    "date": "2026-04-23",
+    "subject": "fix: corrige ⼠ (U+2F2E radical) para 士 (U+58EB) em Moy Wa Lei Si"
+  },
+  {
     "date": "2026-04-12",
     "subject": "feat: fonte Academia Sinica (chardb + xiaoxue) nas 50 notas restantes"
-  },
-  {
-    "date": "2026-04-12",
-    "subject": "feat: seção Fontes Consultadas com dados crus de MDBG, hanziyuan e Priberam"
-  },
-  {
-    "date": "2026-04-12",
-    "subject": "edit: jyutping (cantonese.org) em todas as notas de etimologia"
   }
 ]
