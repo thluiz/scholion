@@ -2,7 +2,7 @@
 title: "梅登郁 Moy Tang Yok"
 date: 2026-04-12T01:10:00+01:00
 summary: "Etimologia do nome kung fu de Daniel Araújo: Tang (登) ascender, Yok (郁) exuberante, fragrante."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:

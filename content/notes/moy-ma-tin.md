@@ -2,7 +2,7 @@
 title: "梅馬天 Moy Ma Tin"
 date: 2026-04-12T00:55:00+01:00
 summary: "Etimologia do nome kung fu de Matheus Azevedo: Ma (馬) cavalo, Tin (天) céu."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:

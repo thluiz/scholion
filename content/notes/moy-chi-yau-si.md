@@ -2,7 +2,7 @@
 title: "梅知友士 Moy Chi Yau Si"
 date: 2026-04-10T20:06:28+01:00
 summary: "Etimologia do nome kung fu do autor: Chi (知) saber, Yau (友) amigo, Si (士) guerreiro-escolástico."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:

@@ -2,7 +2,7 @@
 title: "梅紅平一 Moy Hung Peng Yat"
 date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Rubia de Souza Barbosa: Hung (紅) vermelho, Peng (平) plano, Yat (一) um."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:

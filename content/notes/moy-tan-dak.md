@@ -2,7 +2,7 @@
 title: "梅丹德 Moy Tan Dak"
 date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Katia Marina Dantas Gomes Cabral: Tan (丹) cinábrio, vermelho, Dak (德) virtude."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:

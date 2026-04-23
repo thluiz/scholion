@@ -2,7 +2,7 @@
 title: "梅彭普 Moy Pang Po"
 date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Claudio Pamplona dos Santos Dias: Pang (彭) som do tambor, Po (普) universal."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:

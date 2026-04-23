@@ -2,7 +2,7 @@
 title: "梅斐利一 Moy Fei Lei Yat"
 date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de José Felipe Dantas Ferreira: Fei (斐) elegância literária, Lei (利) benefício, Yat (一) um."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:

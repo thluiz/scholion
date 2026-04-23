@@ -2,7 +2,7 @@
 title: "梅德貴 Moy Dak Bei"
 date: 2026-04-12T01:15:00+01:00
 summary: "Etimologia do nome kung fu de Marcos Eduardo Davi: Dak (德) virtude, Bei (貴) precioso, nobre."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:

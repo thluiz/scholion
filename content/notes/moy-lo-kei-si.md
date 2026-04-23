@@ -2,7 +2,7 @@
 title: "梅老崎士 Moy Lo Kei Si"
 date: 2026-04-12T00:50:00+01:00
 summary: "Etimologia do nome kung fu de Lucas Alves dos Santos Cota: Lo (老) venerável, Kei (崎) terreno acidentado, Si (士) guerreiro-escolástico."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:

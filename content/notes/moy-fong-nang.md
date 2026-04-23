@@ -2,7 +2,7 @@
 title: "梅風能 Moy Fong Nang"
 date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Fernando Marques Pinheiro: Fong (風) vento, Nang (能) capacidade."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:

@@ -2,7 +2,7 @@
 title: "梅崎單 Moy Kei Tang"
 date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Clayton Meireles Martins da Silva: Kei (崎) terreno acidentado, Tang (單) simples, único."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:

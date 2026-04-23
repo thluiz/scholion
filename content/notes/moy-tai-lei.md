@@ -2,7 +2,7 @@
 title: "梅泰利 Moy Tai Lei"
 date: 2026-04-11T23:00:00+01:00
 summary: "Etimologia do nome kung fu de Thales Antônio Cabral de Guimarães: Tai (泰) grande, Lei (利) benefício."
-tags: ["ving-tsun", "etimologia", "kung-fu"]
+tags: ["ving-tsun", "etimologia", "kung-fu", "moy-jo-lei-ou"]
 toc: true
 has_commentary: true
 sources:
