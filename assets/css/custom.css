@@ -421,6 +421,36 @@
   color: #a78bfa;
 }
 
+/* Movie */
+.scholion-card--movie {
+  border-left: 3px solid #0284c7;
+}
+.dark .scholion-card--movie {
+  border-left: 3px solid #38bdf8;
+}
+
+.scholion-card-type--movie {
+  color: #0284c7;
+}
+.dark .scholion-card-type--movie {
+  color: #38bdf8;
+}
+
+/* Walk / caminhada */
+.scholion-card--walk {
+  border-left: 3px solid #78716c;
+}
+.dark .scholion-card--walk {
+  border-left: 3px solid #a8a29e;
+}
+
+.scholion-card-type--walk {
+  color: #78716c;
+}
+.dark .scholion-card-type--walk {
+  color: #a8a29e;
+}
+
 /* Pesquisa viva */
 .scholion-card--research {
   border-left: 3px solid #6366f1;
@@ -495,6 +525,20 @@
   color: #a78bfa;
 }
 
+.scholion-type-badge--movie {
+  color: #0284c7;
+}
+.dark .scholion-type-badge--movie {
+  color: #38bdf8;
+}
+
+.scholion-type-badge--walk {
+  color: #78716c;
+}
+.dark .scholion-type-badge--walk {
+  color: #a8a29e;
+}
+
 .scholion-note--podcast {
   border-left: 4px solid #db2777;
 }
@@ -533,6 +577,20 @@
 }
 .dark .scholion-note--disciple {
   border-left: 4px solid #a78bfa;
+}
+
+.scholion-note--movie {
+  border-left: 4px solid #0284c7;
+}
+.dark .scholion-note--movie {
+  border-left: 4px solid #38bdf8;
+}
+
+.scholion-note--walk {
+  border-left: 4px solid #78716c;
+}
+.dark .scholion-note--walk {
+  border-left: 4px solid #a8a29e;
 }
 
 /* Pesquisa viva — single page */
