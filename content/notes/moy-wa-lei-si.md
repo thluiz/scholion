@@ -1,7 +1,7 @@
 ---
-title: "梅華利⼠ Moy Wa Lei Si"
+title: "梅華利士 Moy Wa Lei Si"
 date: 2026-04-11T23:00:00+01:00
-summary: "Etimologia do nome kung fu de Maria Alice de Souza Teixeira: Wa (華) esplêndido, Lei (利) benefício, Si (⼠) erudito."
+summary: "Etimologia do nome kung fu de Maria Alice de Souza Teixeira: Wa (華) esplêndido, Lei (利) benefício, Si (士) erudito."
 tags: ["ving-tsun", "etimologia", "kung-fu"]
 toc: true
 has_commentary: true
@@ -24,7 +24,7 @@ sources:
     kind: wiki
 ---
 
-**梅華利⼠**
+**梅華利士**
 *Moy Wa Lei Si*
 
 Nome kung fu de Maria Alice de Souza Teixeira.
@@ -33,7 +33,7 @@ Nome kung fu de Maria Alice de Souza Teixeira.
 
 **Lei** (利 lì / lei6) – Benefício, afiado.
 
-**Si** (⼠ shì / si6) – Erudito, guerreiro.
+**Si** (士 shì / si6) – Erudito, guerreiro.
 
 ## Etimologia no Chinês
 
@@ -51,9 +51,9 @@ Forma antiga representa uma flor em plena abertura. O radical 艹 (planta) encim
 
 Cereal cortado com faca: a colheita. O Shuowen define 利 como 銛也, "afiado". Faca que corta bem traz benefício. Do gume nasce o proveito.
 
-### ⼠ (shì / si6)
+### 士 (shì / si6)
 
-Forma de radical Kangxi (⼠) em vez do caractere padrão 士. Pictograma de um machado fincado no chão, símbolo de quem planta posição e defende. O Shuowen define 士 como 事也, "aquele que serve". Homem de saber e de armas.
+Pictograma de um machado fincado no chão, símbolo de quem planta posição e defende. O Shuowen define 士 como 事也, "aquele que serve". Homem de saber e de armas. Mesmo 士 usado em Moy Chi Yau Si e Moy Shan Si.
 
 ### Divergências entre fontes
 
@@ -61,7 +61,7 @@ Forma de radical Kangxi (⼠) em vez do caractere padrão 士. Pictograma de um 
 
 **利.** As fontes convergem na decomposição 禾 + 刀. O chardb acrescenta acepções como 和 (def. 2, "harmonioso") e 古代祭祖禮儀中侍奉尸的人 (def. 12, "serviçal nos ritos ancestrais"), ausentes do MDBG. O xiaoxue cita 屈翼鵬 que propõe 利 como forma primitiva de 犂 (arado).
 
-**⼠.** O MDBG e o Shuowen tratam 士 como composto de 十 + 一 (孔子曰：推十合一為士). O hanziyuan.net classifica como pictograma independente, sem confirmar a decomposição numérica. O chardb não foi consultado para este caractere por se tratar da forma de radical Kangxi (⼠).
+**士.** O MDBG e o Shuowen tratam 士 como composto de 十 + 一 (孔子曰：推十合一為士). O hanziyuan.net classifica como pictograma independente, sem confirmar a decomposição numérica. Ver `etimologia-de-si-shi.md` para análise completa — é o mesmo 士 de Moy Chi Yau Si e Moy Shan Si.
 
 ## Etimologia do Português
 
