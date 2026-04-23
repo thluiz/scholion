@@ -33,7 +33,7 @@ category: etymology
 
 **鴿** — U+9D3F · 部首 radical: 鳥 (pássaro) · 總筆畫 strokes: 17 · 注音 zhuyin: ㄍㄜ · 拼音 pinyin: gē / jyutping: gap3
 
-É o Gap de 2 nomes da linhagem: Moy Gap Fat, Moy Yi Gap.
+É o Gap de 2 nomes da linhagem: [Moy Gap Fat](/notes/moy-gap-fat/), [Moy Yi Gap](/notes/moy-yi-gap/).
 
 Forma simplificada: 鸽 (U+9E3D).
 

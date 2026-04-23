@@ -33,7 +33,7 @@ category: etymology
 
 **普** — U+666E · 部首 radical: 日 (rì — sol) · 總筆畫 strokes: 12 · 注音 zhuyin: ㄆㄨˇ · 拼音 pinyin: pǔ / jyutping: pou2
 
-É o Po do nome kung fu de Claudio Pamplona (Moy Pang Po).
+É o Po do nome kung fu de Claudio Pamplona ([Moy Pang Po](/notes/moy-pang-po/)).
 
 Forma original Shuowen: 暜 (U+669C). Shao Ying observa: "hoje os clássicos escrevem 普; este [暜] é variante abreviada clerical" (此隸省變).
 

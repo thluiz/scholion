@@ -33,7 +33,7 @@ category: etymology
 
 **祖** — U+7956 · 部首 radical: 示 (altar) · 總筆畫 strokes: 9 · 注音 zhuyin: ㄗㄨˇ · 拼音 pinyin: zǔ / jyutping: zou2
 
-É o Jo de 4 nomes da linhagem: Moy Jo Dan, Moy Jo On, Moy Kat Jo, Moy Lam Jo.
+É o Jo de 4 nomes da linhagem: [Moy Jo Dan](/notes/moy-jo-dan/), [Moy Jo On](/notes/moy-jo-on/), [Moy Kat Jo](/notes/moy-kat-jo/), [Moy Lam Jo](/notes/moy-lam-jo/).
 
 ### Definições
 

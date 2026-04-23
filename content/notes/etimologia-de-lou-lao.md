@@ -33,7 +33,7 @@ category: etymology
 
 **老** — U+8001 · 部首 radical: 老 · 總筆畫 strokes: 6 · 注音 zhuyin: ㄌㄠˇ · 拼音 pinyin: lǎo / jyutping: lou5
 
-É o Lou/Lo de 4 nomes da linhagem: Moy Kat Lo, Moy Lo Kei Si, Moy Lo Man, Moy Lo Peng. (Não confundir com o 勞 *lou4* de Moy Lo Kei 梅勞崎.)
+É o Lou/Lo de 4 nomes da linhagem: [Moy Kat Lo](/notes/moy-kat-lo/), [Moy Lo Kei Si](/notes/moy-lo-kei-si/), [Moy Lo Man](/notes/moy-lo-man/), [Moy Lo Peng](/notes/moy-lo-peng/). (Não confundir com o 勞 *lou4* de [Moy Lo Kei](/notes/moy-lo-kei/) 梅勞崎.)
 
 ### Definições
 

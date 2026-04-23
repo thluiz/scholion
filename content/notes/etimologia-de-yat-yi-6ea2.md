@@ -33,7 +33,7 @@ category: etymology
 
 **溢** — U+6EA2 · 部首 radical: 水 (shuǐ — água, grafado 氵) · 總筆畫 strokes: 13 · 注音 zhuyin: ㄧˋ · 拼音 pinyin: yì / jyutping: jat6
 
-É o Yat do nome kung fu de Pedro Henrique Corrêa (Moy Lei Yat).
+É o Yat do nome kung fu de Pedro Henrique Corrêa ([Moy Lei Yat](/notes/moy-lei-yat/)).
 
 Leitura única.
 
@@ -112,6 +112,6 @@ Total: 3 formas. Caractere sem história epigráfica profunda — primeira atest
 - **Ausência em Oracle e Bronze**: 溢 é caractere pós-Warring States. O conceito de "transbordar" era expresso na epigrafia Shang/Zhou pelo caractere 益 (simples). A redundância gráfica com 氵 reflete a tendência Han de re-especificar caracteres que haviam ganho usos estendidos.
 - **Consenso fonológico OC escasso**: apenas Wang Li registra reconstrução OC (錫部, /ʎ/ + /ǐek/). Os demais sistemas não têm entrada para 溢 — reforça a datação Han tardia, posterior ao período em que as reconstruções OC canônicas foram baseadas.
 - **Leitura cantonesa jat6**: preserva a coda /-t/ do 入聲 (entering tone). Tom 6 (陽入, entering baixo) corresponde à inicial 次濁 (partially voiced). Inicial /j/ cantonesa reflete o /ʎ/ ou /j/ do Chinês Medieval (聲母 以). Conservação regular.
-- **溢 vs 佚 vs 一 — homofonia relevante**: os três caracteres soam yat em cantonês (com tons e finais próximos), refletindo a família OC *jit. A convergência fonética justifica a ambiguidade gráfica entre 溢 (transbordar) e 佚 (perder, falhar — usado para o Moy Mah Yat, mayara galvão).
+- **溢 vs 佚 vs 一 — homofonia relevante**: os três caracteres soam yat em cantonês (com tons e finais próximos), refletindo a família OC *jit. A convergência fonética justifica a ambiguidade gráfica entre 溢 (transbordar) e 佚 (perder, falhar — usado para o [Moy Mah Yat](/notes/moy-mah-yat/), mayara galvão).
 - **Acepções exclusivas do chardb**: 通「佾」 (equivalente a 佾: formação de dança ritual), 量詞 (classificador de volume/peso antigo), 靜 (quieto), 慎 (cauteloso). Preservam usos clássicos raros.
 - **Uso moderno "spillover"**: 溢出效應 (efeito spillover em economia) é calco semântico tardio — empresta o conceito físico de "transbordamento" para modelar efeitos secundários indiretos.

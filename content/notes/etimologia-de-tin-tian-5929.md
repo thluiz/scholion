@@ -33,7 +33,7 @@ category: etymology
 
 **天** — U+5929 · 部首 radical: 一 (yī — um) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄊㄧㄢ · 拼音 pinyin: tiān / jyutping: tin1
 
-É o Tin do nome kung fu de Matheus Azevedo (Moy Ma Tin).
+É o Tin do nome kung fu de Matheus Azevedo ([Moy Ma Tin](/notes/moy-ma-tin/)).
 
 Leitura única em chinês padrão.
 

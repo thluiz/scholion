@@ -33,7 +33,7 @@ category: etymology
 
 **登** — U+767B · 部首 radical: 癶 (bō — dois pés; tradicional cataloga também sob 豆) · 總筆畫 strokes: 12 · 注音 zhuyin: ㄉㄥ · 拼音 pinyin: dēng / jyutping: dang1
 
-É o Tang do nome kung fu de Daniel Araújo (Moy Tang Yok).
+É o Tang do nome kung fu de Daniel Araújo ([Moy Tang Yok](/notes/moy-tang-yok/)).
 
 Leitura secundária rara: dé (registrada no chardb, equivalente a 得 — obter).
 

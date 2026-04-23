@@ -33,7 +33,7 @@ category: etymology
 
 **威** — U+5A01 · 部首 radical: 女 (nǚ — mulher) · 總筆畫 strokes: 9 · 注音 zhuyin: ㄨㄟ · 拼音 pinyin: wēi / jyutping: wai1
 
-É o Wai do nome kung fu de Roberto Santos Viana (Moy Wai On).
+É o Wai do nome kung fu de Roberto Santos Viana ([Moy Wai On](/notes/moy-wai-on/)).
 
 Leitura única.
 

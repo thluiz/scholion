@@ -33,7 +33,7 @@ category: etymology
 
 **樂** — U+6A02 · 部首 radical: 木 (mù — árvore, madeira) · 總筆畫 strokes: 15 · 注音 zhuyin: ㄌㄜˋ / ㄩㄝˋ · 拼音 pinyin: lè / yuè / jyutping: lok6 / ngok6
 
-É o Lok do nome kung fu de Vinícius Roque Moreira (Moy Lok Ke).
+É o Lok do nome kung fu de Vinícius Roque Moreira ([Moy Lok Ke](/notes/moy-lok-ke/)).
 
 Leituras secundárias registradas: lào (topônimos), yào (gostar de — compartilhada com leitura clássica), liáo (raro).
 

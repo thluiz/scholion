@@ -33,7 +33,7 @@ category: etymology
 
 **勞** — U+52DE · 部首 radical: 力 (força) · 總筆畫 strokes: 12 · 注音 zhuyin: ㄌㄠˊ · 拼音 pinyin: láo (também lào em Taiwan) / jyutping: lou4
 
-É o Lou de 2 nomes da linhagem: Moy Gak Lou, Moy Lo Kei. (Não confundir com o 老 *lou5* de Moy Lo Man / Lo Peng / Lo Kei Si / Kat Lo.)
+É o Lou de 2 nomes da linhagem: [Moy Gak Lou](/notes/moy-gak-lou/), [Moy Lo Kei](/notes/moy-lo-kei/). (Não confundir com o 老 *lou5* de [Moy Lo Man](/notes/moy-lo-man/) / Lo Peng / Lo Kei Si / Kat Lo.)
 
 Forma simplificada: 劳 (U+52B3). Variante japonesa: 労.
 

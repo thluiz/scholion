@@ -33,7 +33,7 @@ category: etymology
 
 **挪** — U+632A · 部首 radical: 手 (mão) · 總筆畫 strokes: 10 · 注音 zhuyin: ㄋㄨㄛˊ · 拼音 pinyin: nuó / jyutping: no4
 
-É o No de 2 nomes da linhagem: Moy Bei No, Moy Lei No.
+É o No de 2 nomes da linhagem: [Moy Bei No](/notes/moy-bei-no/), [Moy Lei No](/notes/moy-lei-no/).
 
 Variantes relacionadas: 捼 (U+637C, com 委), 挼 (U+633C, com 妥).
 

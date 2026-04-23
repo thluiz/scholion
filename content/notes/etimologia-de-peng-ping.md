@@ -33,7 +33,7 @@ category: etymology
 
 **平** — U+5E73 · 部首 radical: 干 (moderno) / 亏 (Shuowen) · 總筆畫 strokes: 5 · 注音 zhuyin: ㄆㄧㄥˊ · 拼音 pinyin: píng (também pián, bìng, bēng) / jyutping: ping4
 
-É o Peng de 2 nomes da linhagem: Moy Hung Peng Yat, Moy Lo Peng.
+É o Peng de 2 nomes da linhagem: [Moy Hung Peng Yat](/notes/moy-hung-peng-yat/), [Moy Lo Peng](/notes/moy-lo-peng/).
 
 ### Definições
 

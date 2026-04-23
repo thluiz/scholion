@@ -33,7 +33,7 @@ category: etymology
 
 **泰** — U+6CF0 · 部首 radical: 水 (shuǐ — água) · 總筆畫 strokes: 10 · 注音 zhuyin: ㄊㄞˋ · 拼音 pinyin: tài / jyutping: taai3
 
-É o Tai do nome kung fu de Thales Antônio Cabral (Moy Tai Lei).
+É o Tai do nome kung fu de Thales Antônio Cabral ([Moy Tai Lei](/notes/moy-tai-lei/)).
 
 Leitura única. Forma arcaica Shuowen: 夳 (U+5933, composição 大+廾).
 

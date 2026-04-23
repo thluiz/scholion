@@ -33,7 +33,7 @@ category: etymology
 
 **丹** — U+4E39 · 部首 radical: 丶 (zhǔ — ponto) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄉㄢ · 拼音 pinyin: dān / jyutping: daan1
 
-É o Daan de 2 nomes da linhagem: Moy Jo Dan, Moy Tan Dak.
+É o Daan de 2 nomes da linhagem: [Moy Jo Dan](/notes/moy-jo-dan/), [Moy Tan Dak](/notes/moy-tan-dak/).
 
 Variantes antigas: 𠂁, 𠁿, 㣋.
 

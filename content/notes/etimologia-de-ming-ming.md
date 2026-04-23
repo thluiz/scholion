@@ -33,7 +33,7 @@ category: etymology
 
 **明** — U+660E · 部首 radical: 日 (sol) · 總筆畫 strokes: 8 · 注音 zhuyin: ㄇㄧㄥˊ · 拼音 pinyin: míng / jyutping: ming4
 
-É o Ming de 2 nomes da linhagem: Moy Fei Ming, Moy Kat Ming.
+É o Ming de 2 nomes da linhagem: [Moy Fei Ming](/notes/moy-fei-ming/), [Moy Kat Ming](/notes/moy-kat-ming/).
 
 Variante antiga: 朙 (com 囧 + 月 em vez de 日 + 月).
 

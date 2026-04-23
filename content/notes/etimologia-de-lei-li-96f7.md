@@ -33,7 +33,7 @@ category: etymology
 
 **雷** — U+96F7 · 部首 radical: 雨 (yǔ — chuva) · 總筆畫 strokes: 13 · 注音 zhuyin: ㄌㄟˊ · 拼音 pinyin: léi / jyutping: leoi4
 
-É o Lei do nome kung fu de Rodrigo Moreira (Moy Mo Lei).
+É o Lei do nome kung fu de Rodrigo Moreira ([Moy Mo Lei](/notes/moy-mo-lei/)).
 
 Forma Shuowen: 靁 (U+9741, com três 田 em roda 畾). 雷 é simplificação com um só 田. Leitura secundária registrada: lèi (raro).
 

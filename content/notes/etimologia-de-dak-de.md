@@ -33,7 +33,7 @@ category: etymology
 
 **德** — U+5FB7 · 部首 radical: 彳 (andar) · 總筆畫 strokes: 15 · 注音 zhuyin: ㄉㄜˊ · 拼音 pinyin: dé / jyutping: dak1
 
-É o Dak de 4 nomes da linhagem: Moy Dak Bei, Moy Mo Tak, Moy On Dak Wah, Moy Tan Dak.
+É o Dak de 4 nomes da linhagem: [Moy Dak Bei](/notes/moy-dak-bei/), [Moy Mo Tak](/notes/moy-mo-tak/), [Moy On Dak Wah](/notes/moy-on-dak-wah/), [Moy Tan Dak](/notes/moy-tan-dak/).
 
 ### Definições
 

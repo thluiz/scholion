@@ -33,7 +33,7 @@ category: etymology
 
 **達** — U+9054 · 部首 radical: 辵 (chuò — caminhar, grafado 辶) · 總筆畫 strokes: 12 · 注音 zhuyin: ㄉㄚˊ · 拼音 pinyin: dá / jyutping: daat6
 
-É o Da do nome kung fu de André Vieira (Moy Mei Da).
+É o Da do nome kung fu de André Vieira ([Moy Mei Da](/notes/moy-mei-da/)).
 
 Leituras secundárias: tà (挑達 — ir e vir livremente). Forma simplificada: 达 (U+8FBE).
 

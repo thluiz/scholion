@@ -33,9 +33,9 @@ category: etymology
 
 **司** — U+53F8 · 部首 radical: 口 (kǒu — boca) · 總筆畫 strokes: 5 · 注音 zhuyin: ㄙ · 拼音 pinyin: sī / jyutping: si1
 
-É o Si do nome kung fu de Francisco Marcio Lopes (Moy Si Ou).
+É o Si do nome kung fu de Francisco Marcio Lopes ([Moy Si Ou](/notes/moy-si-ou/)).
 
-Leituras secundárias registradas no chardb: cí, sì. Disambiguação: esta nota é para 司 (si1, administrar). O caractere 士 (si6, "erudito/nobre" — usado em nomes como Moy Chi Yau Si) tem etimologia completamente distinta.
+Leituras secundárias registradas no chardb: cí, sì. Disambiguação: esta nota é para 司 (si1, administrar). O caractere 士 (si6, "erudito/nobre" — usado em nomes como [Moy Chi Yau Si](/notes/moy-chi-yau-si/)) tem etimologia completamente distinta.
 
 ### Definições
 

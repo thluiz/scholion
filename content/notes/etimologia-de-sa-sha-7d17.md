@@ -33,7 +33,7 @@ category: etymology
 
 **紗** — U+7D17 · 部首 radical: 糸 (mì — fio de seda) · 總筆畫 strokes: 10 · 注音 zhuyin: ㄕㄚ · 拼音 pinyin: shā / jyutping: saa1
 
-É o Sa do nome kung fu de Fábio Gomes de Sá (Moy Sa).
+É o Sa do nome kung fu de Fábio Gomes de Sá ([Moy Sa](/notes/moy-sa/)).
 
 Leitura secundária registrada no chardb: miǎo (raro, significado "delicado/diminuto"). Forma simplificada: 纱 (U+7EB1).
 

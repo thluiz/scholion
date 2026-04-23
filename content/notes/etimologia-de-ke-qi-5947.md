@@ -33,7 +33,7 @@ category: etymology
 
 **奇** — U+5947 · 部首 radical: 大 (dà — grande/homem) · 總筆畫 strokes: 8 · 注音 zhuyin: ㄑㄧˊ / ㄐㄧ · 拼音 pinyin: qí / jī / jyutping: kei4 / gei1
 
-É o Ke do nome kung fu de Vinícius Roque Moreira (Moy Lok Ke).
+É o Ke do nome kung fu de Vinícius Roque Moreira ([Moy Lok Ke](/notes/moy-lok-ke/)).
 
 Duas leituras principais: qí/kei4 (estranho, extraordinário) vs jī/gei1 (número ímpar, em contextos matemáticos). Leituras secundárias registradas: ǎi, yǐ, cí.
 
