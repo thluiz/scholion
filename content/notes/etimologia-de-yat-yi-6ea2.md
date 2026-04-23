@@ -31,7 +31,7 @@ sources:
 
 **溢** — U+6EA2 · 部首 radical: 水 (shuǐ — água, grafado 氵) · 總筆畫 strokes: 13 · 注音 zhuyin: ㄧˋ · 拼音 pinyin: yì / jyutping: jat6
 
-É o Yat do nome de linhagem de Moy Lei Yat (Pedro Henrique Corrêa).
+É o Yat do nome kung fu de Pedro Henrique Corrêa (Moy Lei Yat).
 
 Leitura única.
 
