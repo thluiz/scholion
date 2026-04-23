@@ -54,6 +54,10 @@
                   <span class="scholion-card-type scholion-card-type--etymology" title="etimologia">📜</span>
                 {{ else if eq $noteType "disciple" }}
                   <span class="scholion-card-type scholion-card-type--disciple" title="discípulo">🙇</span>
+                {{ else if eq $noteType "movie" }}
+                  <span class="scholion-card-type scholion-card-type--movie" title="filme">🎥</span>
+                {{ else if eq $noteType "walk" }}
+                  <span class="scholion-card-type scholion-card-type--walk" title="caminhada">🗺</span>
                 {{ else if .Params.has_commentary }}
                   <span class="scholion-card-type" title="com comentário">📝</span>
                 {{ end }}

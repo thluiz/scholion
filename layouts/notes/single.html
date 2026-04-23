@@ -14,6 +14,10 @@
           <div class="scholion-type-badge scholion-type-badge--etymology">📜 Etimologia</div>
         {{ else if eq $noteType "disciple" }}
           <div class="scholion-type-badge scholion-type-badge--disciple">🙇 Discípulo</div>
+        {{ else if eq $noteType "movie" }}
+          <div class="scholion-type-badge scholion-type-badge--movie">🎥 Filme</div>
+        {{ else if eq $noteType "walk" }}
+          <div class="scholion-type-badge scholion-type-badge--walk">🗺 Caminhada</div>
         {{ end }}
         <h1>{{ .Title }}</h1>
         <div class="scholion-note-meta">
