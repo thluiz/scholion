@@ -42,7 +42,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 - [x] 器 (hei) — instrumento/arma; gwan hei
 - [x] 花 (fa) — flor; Mui Fa
 - [x] 圈 (huen) — círculo; Huen Ma, Huen Sau
-- [ ] 短 (duen) — curto; duen kiu
+- [x] 短 (duen) — curto; duen kiu
 - [ ] 救 (gau) — salvar/socorrer; Gau Gap Sau
 - [ ] 急 (gap) — urgente; gap chuk, Gau Gap Sau
 - [ ] 速 (chuk) — rápido; gap chuk
