@@ -63,7 +63,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 - [x] 歸 (gwai) — retornar; gwai sau
 - [x] 回 (wui) — retornar; wui sau
 - [x] 合 (hap) — unir; hap jok
-- [ ] 作 (jok) — fazer; hap jok
+- [x] 作 (jok) — fazer; hap jok
 - [ ] 身 (san) — corpo/tronco
 - [ ] 聯 (luen) — conectar; luen hai
 - [ ] 繫 (hai) — atar/ligar; luen hai
