@@ -66,7 +66,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 - [x] 作 (jok) — fazer; hap jok
 - [x] 身 (san) — corpo/tronco
 - [x] 聯 (luen) — conectar; luen hai
-- [ ] 繫 (hai) — atar/ligar; luen hai
+- [x] 繫 (hai) — atar/ligar; luen hai
 - [ ] 反 (faan) — reverter; faan ying
 - [ ] 應 (ying) — responder; faan ying
 - [ ] 真 (jan) — verdadeiro; jan jing
