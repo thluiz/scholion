@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-04-24",
+    "subject": "fix: escape YAML em etimologia-de-hap-he (aspas internas no summary)"
+  },
+  {
+    "date": "2026-04-24",
     "subject": "etimologia: 合 (hap — hé / hap6)"
   }
 ]
