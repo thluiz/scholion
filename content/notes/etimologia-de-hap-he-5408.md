@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 合 (Hap — Hé / hap6)"
 date: '2026-04-24T20:15:11+01:00'
-summary: "Análise etimológica de 合 (Hé / hap6), 'unir, juntar, fechar'. Shuowen: 亼口也 ('亼 [três bocas reunidas] mais 口 [uma boca]'). 段注 de Duan Yucai explica: 三口相同是爲合 ('três bocas em acordo é 合') — composição semântica do "fechar/convergir". Contraposto a 古 (antigo), que é 十口相傳 ('dez bocas transmitindo'). Atestado em oracle bones Shang. Leitura secundária gě (medida de grão). No Hai Tong, aparece em hap jok 合作 ('cooperar'). Sete fontes consultadas."
+summary: "Análise etimológica de 合 (Hé / hap6), 'unir, juntar, fechar'. Shuowen: 亼口也 ('亼 [três bocas reunidas] mais 口 [uma boca]'). 段注 de Duan Yucai explica: 三口相同是爲合 ('três bocas em acordo é 合') — composição semântica do 'fechar/convergir'. Contraposto a 古 (antigo), que é 十口相傳 ('dez bocas transmitindo'). Atestado em oracle bones Shang. Leitura secundária gě (medida de grão). No Hai Tong, aparece em hap jok 合作 ('cooperar'). Sete fontes consultadas."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 category: etymology
