@@ -86,7 +86,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 
 ### Início da baixa prioridade (3)
 
-- [ ] 人 (yan) — pessoa; Go Yan, Muk Yan
+- [x] 人 (yan) — pessoa; Go Yan, Muk Yan
 - [ ] 三 (saam) — três; Saam Baai Fat, Saam Cheung
 - [ ] 本 (bun) — raiz/base; bun nang
 
