@@ -21,16 +21,12 @@ O programa que hoje chamamos "ontologia" é formulado por Aristóteles sem esse 
 
 #### ✓ Aristóteles, *Metafísica* Γ (IV), 1, 1003a21-24
 
-A passagem inaugural da "filosofia primeira":
-
 > ἔστιν ἐπιστήμη τις ἣ θεωρεῖ τὸ ὂν ᾗ ὂν καὶ τὰ τούτῳ ὑπάρχοντα καθ᾽ αὑτό.
 > *"Há uma ciência que estuda o ser enquanto ser e os atributos que lhe pertencem por natureza própria."*
 
-A expressão-chave é **τὸ ὂν ᾗ ὂν** (*to on hê on*), "o ser enquanto ser". `ᾗ` (*hê*) significa "enquanto", "sob o aspecto de". Estudar X *enquanto* Y é estudar X só no que diz respeito ao aspecto Y. Aplicado ao ser: não estudar *este* ente ou *aquele* ente, mas o que faz algo ser um ente em geral.
+O núcleo técnico é **τὸ ὂν ᾗ ὂν** (*to on hê on*). `ᾗ` (*hê*) significa "enquanto", "sob o aspecto de". A matemática estuda o ser enquanto quantidade. A física estuda o ser enquanto movimento. A filosofia primeira estuda o ser enquanto ser, sem recorte. Seu objeto é o que sobra quando nenhum recorte foi feito.
 
-Aristóteles contrasta com as ciências particulares (matemática, física) que estudam o ser sob um recorte. A filosofia primeira é universal porque não recorta.
-
-Verificado: texto grego no Perseus Digital Library (ed. Ross); Stanford Encyclopedia of Philosophy confirma a passagem como a definição central do projeto. Aristóteles nunca usa o termo "ontologia" — ele fala em *prôtê philosophia* ("filosofia primeira") e, em outros livros da *Metafísica*, também em *theologikê* (teologia).
+Aristóteles não chama isso de "ontologia". Chama de *prôtê philosophia*, "filosofia primeira". Em outros livros da *Metafísica* também aparece *theologikê*, "teologia".
 
 Links:
 - Perseus (texto grego + tradução Tredennick 1933): http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0051:book=4:section=1003a
@@ -38,27 +34,19 @@ Links:
 
 #### ✓ Aristóteles, *Metafísica* Γ (IV), 2, 1003a33–b19 — "o ser diz-se de muitos modos"
 
-Logo na sequência da definição, Aristóteles resolve o risco de o projeto colapsar sob equívoco:
-
 > τὸ δὲ ὂν λέγεται μὲν πολλαχῶς, ἀλλὰ πρὸς ἓν καὶ μίαν τινὰ φύσιν καὶ οὐχ ὁμωνύμως.
 > *"O ser diz-se de muitos modos, mas com referência a uma coisa única e a uma só natureza, e não por mera homonímia."*
 
-Três termos técnicos atravessam a passagem:
+Se "ser" significa coisas diferentes (uma pedra é; a dureza da pedra é; a relação entre duas pedras é), como uma ciência única pode tratar de tudo isso? Aristóteles usa o exemplo de "saudável". Uma pessoa é saudável. Uma comida é saudável. Uma caminhada é saudável. Cada uma em sentido diferente. A comida é saudável porque preserva a saúde da pessoa; a caminhada, porque a produz. A saúde da pessoa é o referente central, **πρὸς ἕν** (*pros hen*), "com referência a um".
 
-- **πολλαχῶς** (*pollachôs*) — "de muitos modos". Ser não é um termo unívoco.
-- **πρὸς ἕν** (*pros hen*) — "com referência a um [central]". Todos os sentidos convergem para um referente focal.
-- **οὐχ ὁμωνύμως** (*ouch homônymôs*) — "não homonimamente". Não é coincidência de palavra.
-
-O referente focal é a **substância** (οὐσία, *ousia*). Um acidente é porque a substância é; uma relação é porque há substâncias que se relacionam. Isto é o que se chama **significação focal** ou *pros hen*-homonímia: um meio-termo entre univocidade e equívoco puro. Sem isso, a ciência do ser em geral seria impossível — não teria objeto unificado.
-
-Conexão interna: essa estrutura focal é o que torna a ontologia aristotélica **hierárquica**. O ser tem um centro (ousia) e uma periferia (os nove outros modos das *Categorias*).
+Com o ser funciona igual. Todos os sentidos remetem à **substância** (οὐσία, *ousia*). A qualidade existe porque uma substância a tem. A relação existe porque substâncias se relacionam. Sem a substância no centro, os outros sentidos não têm sobre o que predicar.
 
 Links:
 - Perseus (mesma seção 1003a): http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0051:book=4:section=1003a
 
 #### ✓ Aristóteles, *Categorias* 4, 1b25–2a4 — as dez categorias
 
-O tratado das *Categorias* (anterior à *Metafísica* na ordenação do *Organon*) enumera dez gêneros supremos do que pode ser dito de algo:
+O tratado das *Categorias* (parte do *Organon*, anterior à *Metafísica*) enumera dez gêneros supremos do que se pode dizer de algo:
 
 1. **οὐσία** (*ousia*) — substância
 2. **ποσόν** (*poson*) — quantidade
@@ -71,9 +59,9 @@ O tratado das *Categorias* (anterior à *Metafísica* na ordenação do *Organon
 9. **ποιεῖν** (*poiein*) — ação
 10. **πάσχειν** (*paschein*) — paixão / ser afetado
 
-As dez categorias são os modos possíveis de predicar algo de um sujeito. E são assimétricas: as nove outras dependem da primeira. A SEP formula: *"were primary substances not to exist then no other entity would exist"* — se as substâncias primárias não existissem, nada mais existiria. Uma qualidade existe porque está numa substância; uma relação existe entre substâncias.
+As dez são os modos possíveis de predicar algo de um sujeito. E são assimétricas: as nove dependem da primeira. Uma qualidade existe porque está numa substância. Uma relação existe entre substâncias. Sem substâncias, nada.
 
-Ponto-chave da leitura clássica da ontologia: o ser tem **estrutura categorial**. Não é um gênero homogêneo (Aristóteles contra Platão). É uma multiplicidade ordenada, com a substância no centro. Tudo o que a tradição medieval e moderna vai chamar de "categorias ontológicas" tem aqui a sua raiz.
+Aqui Aristóteles se separa de Platão. O ser não é um gênero único do qual tudo participa igualmente. É uma multiplicidade ordenada, com a substância no centro. Kant, muito depois, vai usar "categoria" no sentido próprio dele (condições do entendimento). Ryle vai falar de "erro de categoria" no séc. XX. A palavra persiste, modificada.
 
 Links:
 - Wikipedia, "Categories (Aristotle)": https://en.wikipedia.org/wiki/Categories_(Aristotle)
