@@ -60,7 +60,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 
 ### Média prioridade (23)
 
-- [ ] 歸 (gwai) — retornar; gwai sau
+- [x] 歸 (gwai) — retornar; gwai sau
 - [ ] 回 (wui) — retornar; wui sau
 - [ ] 合 (hap) — unir; hap jok
 - [ ] 作 (jok) — fazer; hap jok
