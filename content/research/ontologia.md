@@ -17,7 +17,7 @@ Cada uma será exaurida antes de passar à próxima. Fontes verificadas acumulam
 
 ### 1. Clássica / metafísica
 
-O programa que hoje chamamos "ontologia" é formulado por Aristóteles sem esse nome. A palavra "ontologia" só aparece no séc. XVII.
+Aristóteles formula o que hoje chamamos "ontologia", mas sem usar esse nome. A palavra "ontologia" só aparece no séc. XVII.
 
 #### ✓ Aristóteles, *Metafísica* Γ (IV), 1, 1003a21-24
 
