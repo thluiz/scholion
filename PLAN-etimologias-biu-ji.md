@@ -78,7 +78,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 - [x] 簡 (gaan) — simples; gaan daan
 - [x] 實 (sat) — real/sólido; sat yung
 - [x] 用 (yung) — uso; sat yung
-- [ ] 角 (gok) — ângulo; gok do
+- [x] 角 (gok) — ângulo; gok do
 - [ ] 度 (do) — grau/medida; gok do
 - [ ] 逸 (yat) — recluso/ocioso; Moy Yat (梅逸)
 - [ ] 冚 (gam) — cobrir; Gam Jaang
