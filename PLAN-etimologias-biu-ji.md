@@ -35,7 +35,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 - [x] 鬥 (dau) — lutar; bok dau
 - [x] 步 (bo) — passo; wan bo, ma bo
 - [x] 穩 (wan) — firme/estável; wan bo
-- [ ] 拿 (na) — tomar/pegar; na jong
+- [x] 拿 (na) — tomar/pegar; na jong
 - [ ] 進 (jun) — avançar; jun-toei
 - [ ] 退 (toei) — recuar; jun-toei
 - [ ] 木 (muk) — madeira; Muk Yan Jong
