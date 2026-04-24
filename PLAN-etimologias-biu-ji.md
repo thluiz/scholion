@@ -53,7 +53,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 
 ### Upgrade de glossário leve (4) — já em `termos-biu-ji-v-encontro.md`, promover a etimologia completa
 
-- [ ] 借 (je) — tomar emprestado; ji yue
+- [x] 借 (je) — tomar emprestado; ji yue
 - [ ] 喻 (yue) — metáfora/analogia; ji yue
 - [ ] 南 (naam) — sul; ji nam cham
 - [ ] 針 (jam) — agulha; ji nam cham (bússola)
