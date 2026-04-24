@@ -47,7 +47,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 - [x] 急 (gap) — urgente; gap chuk, Gau Gap Sau
 - [x] 速 (chuk) — rápido; gap chuk
 - [x] 佛 (fat) — Buda; Saam Baai Fat
-- [ ] 拜 (baai) — reverenciar; Saam Baai Fat
+- [x] 拜 (baai) — reverenciar; Saam Baai Fat
 
 ## Batch 2 — Upgrades de glossário + média + início da baixa (30)
 
