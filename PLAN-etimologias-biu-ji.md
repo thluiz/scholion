@@ -25,7 +25,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 - [x] 線 (sin) — linha; jung sin
 - [x] 守 (sau) — proteger/guardar; jaam sau, wui sau, gwai sau
 - [x] 斬 (jaam) — cortar; jaam sau
-- [ ] 式 (sik) — forma/técnica; jiu sik
+- [x] 式 (sik) — forma/técnica; jiu sik
 - [ ] 招 (jiu) — gesto/técnica; jiu sik
 - [ ] 派 (paai) — ramo/escola; Ving Tsun Paai
 - [ ] 詠 (wing) — cantar/entoar; Ving Tsun
