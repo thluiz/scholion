@@ -74,7 +74,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 - [x] 繼 (gai) — continuar; gai wong
 - [x] 往 (wong) — ir para; gai wong
 - [x] 開 (hoi) — abrir; hoi loi, hoi jong
-- [ ] 來 (loi) — vir; hoi loi
+- [x] 來 (loi) — vir; hoi loi
 - [ ] 簡 (gaan) — simples; gaan daan
 - [ ] 實 (sat) — real/sólido; sat yung
 - [ ] 用 (yung) — uso; sat yung
