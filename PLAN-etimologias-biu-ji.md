@@ -96,7 +96,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 - [x] 數 (so) — número; jiu so
 - [x] 位 (wai) — posição; wai ji
 - [x] 置 (ji) — colocar; wai ji
-- [ ] 理 (lei) — princípio/razão; kuen lei (nota: `lei-li` existente cobre 利/禮, não 理)
+- [x] 理 (lei) — princípio/razão; kuen lei (nota: `lei-li` existente cobre 利/禮, não 理)
 
 ## Totais
 
