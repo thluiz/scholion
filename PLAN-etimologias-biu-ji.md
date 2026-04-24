@@ -43,7 +43,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 - [x] 花 (fa) — flor; Mui Fa
 - [x] 圈 (huen) — círculo; Huen Ma, Huen Sau
 - [x] 短 (duen) — curto; duen kiu
-- [ ] 救 (gau) — salvar/socorrer; Gau Gap Sau
+- [x] 救 (gau) — salvar/socorrer; Gau Gap Sau
 - [ ] 急 (gap) — urgente; gap chuk, Gau Gap Sau
 - [ ] 速 (chuk) — rápido; gap chuk
 - [ ] 佛 (fat) — Buda; Saam Baai Fat
