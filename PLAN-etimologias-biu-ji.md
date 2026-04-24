@@ -92,7 +92,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 
 ## Batch 3 — Resto baixa prioridade (5) — genéricos/gramaticais/posicionais
 
-- [ ] 的 (dik) — partícula modificadora
+- [x] 的 (dik) — partícula modificadora
 - [ ] 數 (so) — número; jiu so
 - [ ] 位 (wai) — posição; wai ji
 - [ ] 置 (ji) — colocar; wai ji
