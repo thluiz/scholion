@@ -31,7 +31,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 - [x] 詠 (wing) — cantar/entoar; Ving Tsun
 - [x] 春 (chun) — primavera; Ving Tsun
 - [x] 攻 (gong) — atacar; gong sau
-- [ ] 搏 (bok) — combater; bok dau
+- [x] 搏 (bok) — combater; bok dau
 - [ ] 鬥 (dau) — lutar; bok dau
 - [ ] 步 (bo) — passo; wan bo, ma bo
 - [ ] 穩 (wan) — firme/estável; wan bo
