@@ -71,7 +71,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 - [x] 應 (ying) — responder; faan ying
 - [x] 真 (jan) — verdadeiro; jan jing
 - [x] 正 (jing) — correto; jan jing
-- [ ] 繼 (gai) — continuar; gai wong
+- [x] 繼 (gai) — continuar; gai wong
 - [ ] 往 (wong) — ir para; gai wong
 - [ ] 開 (hoi) — abrir; hoi loi, hoi jong
 - [ ] 來 (loi) — vir; hoi loi
