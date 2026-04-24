@@ -38,7 +38,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 - [x] 拿 (na) — tomar/pegar; na jong
 - [x] 進 (jun) — avançar; jun-toei
 - [x] 退 (toei) — recuar; jun-toei
-- [ ] 木 (muk) — madeira; Muk Yan Jong
+- [x] 木 (muk) — madeira; Muk Yan Jong
 - [ ] 器 (hei) — instrumento/arma; gwan hei
 - [ ] 花 (fa) — flor; Mui Fa
 - [ ] 圈 (huen) — círculo; Huen Ma, Huen Sau
