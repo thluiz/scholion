@@ -39,7 +39,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 - [x] 進 (jun) — avançar; jun-toei
 - [x] 退 (toei) — recuar; jun-toei
 - [x] 木 (muk) — madeira; Muk Yan Jong
-- [ ] 器 (hei) — instrumento/arma; gwan hei
+- [x] 器 (hei) — instrumento/arma; gwan hei
 - [ ] 花 (fa) — flor; Mui Fa
 - [ ] 圈 (huen) — círculo; Huen Ma, Huen Sau
 - [ ] 短 (duen) — curto; duen kiu
