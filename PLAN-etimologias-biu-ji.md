@@ -76,7 +76,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 - [x] 開 (hoi) — abrir; hoi loi, hoi jong
 - [x] 來 (loi) — vir; hoi loi
 - [x] 簡 (gaan) — simples; gaan daan
-- [ ] 實 (sat) — real/sólido; sat yung
+- [x] 實 (sat) — real/sólido; sat yung
 - [ ] 用 (yung) — uso; sat yung
 - [ ] 角 (gok) — ângulo; gok do
 - [ ] 度 (do) — grau/medida; gok do
