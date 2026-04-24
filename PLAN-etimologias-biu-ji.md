@@ -56,7 +56,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 - [x] 借 (je) — tomar emprestado; ji yue
 - [x] 喻 (yue) — metáfora/analogia; ji yue
 - [x] 南 (naam) — sul; ji nam cham
-- [ ] 針 (jam) — agulha; ji nam cham (bússola)
+- [x] 針 (jam) — agulha; ji nam cham (bússola)
 
 ### Média prioridade (23)
 
