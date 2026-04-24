@@ -82,7 +82,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 - [x] 度 (do) — grau/medida; gok do
 - [x] 逸 (yat) — recluso/ocioso; Moy Yat (梅逸)
 - [x] 冚 (gam) — cobrir; Gam Jaang
-- [ ] 踭 (jaang) — cotovelo; Gam Jaang
+- [x] 踭 (jaang) — cotovelo; Gam Jaang
 
 ### Início da baixa prioridade (3)
 
