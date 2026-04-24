@@ -45,7 +45,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 - [x] 短 (duen) — curto; duen kiu
 - [x] 救 (gau) — salvar/socorrer; Gau Gap Sau
 - [x] 急 (gap) — urgente; gap chuk, Gau Gap Sau
-- [ ] 速 (chuk) — rápido; gap chuk
+- [x] 速 (chuk) — rápido; gap chuk
 - [ ] 佛 (fat) — Buda; Saam Baai Fat
 - [ ] 拜 (baai) — reverenciar; Saam Baai Fat
 
