@@ -37,7 +37,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 - [x] 穩 (wan) — firme/estável; wan bo
 - [x] 拿 (na) — tomar/pegar; na jong
 - [x] 進 (jun) — avançar; jun-toei
-- [ ] 退 (toei) — recuar; jun-toei
+- [x] 退 (toei) — recuar; jun-toei
 - [ ] 木 (muk) — madeira; Muk Yan Jong
 - [ ] 器 (hei) — instrumento/arma; gwan hei
 - [ ] 花 (fa) — flor; Mui Fa
