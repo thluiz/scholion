@@ -33,7 +33,7 @@ Cobertos em `os-dois-si-fu.md` (etimologia completa com Shuowen, 段注, evoluç
 - [x] 攻 (gong) — atacar; gong sau
 - [x] 搏 (bok) — combater; bok dau
 - [x] 鬥 (dau) — lutar; bok dau
-- [ ] 步 (bo) — passo; wan bo, ma bo
+- [x] 步 (bo) — passo; wan bo, ma bo
 - [ ] 穩 (wan) — firme/estável; wan bo
 - [ ] 拿 (na) — tomar/pegar; na jong
 - [ ] 進 (jun) — avançar; jun-toei
