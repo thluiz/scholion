@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 器 (Hei — Qì / hei3)"
 date: '2026-04-24T12:50:48+01:00'
-summary: "Análise etimológica de 器 (Qì / hei3), 'vaso, instrumento, utensílio'. Shuowen: 皿也。象器之口，犬所以守之ˇ ('vaso; pictograma das bocas/aberturas dos recipientes, [com] 犬 [cão] que os guarda'). 段注 de Duan Yucai distingue: 皿 é vasilhame para comida; 器 é termo geral para qualquer instrumento. A leitura "quatro bocas + cão" do Shuowen é disputada: hanziyuan propõe 'quatro peças de cerâmica numa vara de transporte'. Contraposto a 道 na tradição filosófica: 器 é o concreto/instrumental, 道 é o princípio. No Hai Tong, aparece em gwan hei 軍器 (armas). Sete fontes consultadas."
+summary: "Análise etimológica de 器 (Qì / hei3), 'vaso, instrumento, utensílio'. Shuowen: 皿也。象器之口，犬所以守之ˇ ('vaso; pictograma das bocas/aberturas dos recipientes, [com] 犬 [cão] que os guarda'). 段注 de Duan Yucai distingue: 皿 é vasilhame para comida; 器 é termo geral para qualquer instrumento. A leitura 'quatro bocas + cão' do Shuowen é disputada: hanziyuan propõe 'quatro peças de cerâmica numa vara de transporte'. Contraposto a 道 na tradição filosófica: 器 é o concreto/instrumental, 道 é o princípio. No Hai Tong, aparece em gwan hei 軍器 (armas). Sete fontes consultadas."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 category: etymology
