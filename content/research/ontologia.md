@@ -83,6 +83,42 @@ Links:
 
 (a iniciar)
 
+### 6. Transcendental / crítica de categorias
+
+Kant, Ryle, filosofia analítica. Autores que recusam a ontologia como sistema metafísico mas refazem a pergunta por outros meios: Kant pela crítica das condições a priori do conhecimento; Ryle pela análise dos erros de categoria.
+
+#### ✓ Gilbert Ryle, "Categories" (*Proceedings of the Aristotelian Society* 38, 1937–1938, pp. 189–206)
+
+Ensaio curto onde Ryle introduz o vocabulário do **type-trespassing**. Tese: uma frase pode estar gramaticalmente perfeita e ainda assim cometer absurdo lógico, porque pelo menos um dos termos não é do tipo certo para se acoplar com os outros. "Type-trespasses" são essas violações de tipo.
+
+Exemplo do tipo de absurdo que Ryle quer detectar (formulação ilustrativa minha, não verificada como citação literal dele): "O número 7 é azul" — sintaticamente bem-formada, mas comete type-trespass porque "azul" se aplica a corpos físicos, não a objetos abstratos como números.
+
+Ryle assume uma posição forte: distinguir entre categorias é a tarefa central da filosofia. *"We are in the dark about the nature of philosophical problems and methods if we are in the dark about types and categories."*
+
+Ponto importante para a leitura ontológica: Ryle insiste que *"there is (and can be) no finite number of categories or types"*. Isto é uma ruptura explícita com Aristóteles. Não há tábua de gêneros supremos. Categorias são formais e abertas, não inventário fixo do real.
+
+Links:
+- Ryle, "Categories" (PDF integral): https://sites.ualberta.ca/~francisp/NewPhil448/RyleCategories1938.pdf
+- SEP, "Gilbert Ryle": https://plato.stanford.edu/entries/ryle/
+
+#### ✓ Gilbert Ryle, *The Concept of Mind* (Hutchinson, London, 1949)
+
+A tese central: Descartes comete um erro de categoria ao falar de "mente" e "corpo". Trata os dois como duas substâncias do mesmo gênero, conectadas misteriosamente. Ryle chama essa visão de "Official Doctrine" e cunha a expressão **"Ghost in the Machine"**, "fantasma na máquina". A mente seria um fantasminha pilotando o corpo-máquina por dentro.
+
+Para mostrar que isso é um erro categorial, Ryle abre o livro com o exemplo do visitante em Oxford (cap. 1):
+
+> Um estrangeiro visita Oxford pela primeira vez. Mostram-lhe os *colleges*, as bibliotecas, os museus, os laboratórios, os escritórios administrativos. Depois ele pergunta: "Mas onde está a Universidade?"
+
+A pergunta parece razoável mas comete um erro de categoria. O visitante supôs que "Universidade" é um item adicional na lista, uma construção ao lado do Christ Church, da Bodleian, do Ashmolean. Não é. *Universidade* não é um item da mesma categoria que *prédio*. Universidade é o **modo de organização** de tudo o que ele já viu. O visitante está procurando a Universidade no mesmo nível ontológico dos prédios, quando ela está num nível diferente.
+
+Para Ryle, falar da mente como "outra coisa" ao lado do corpo é o mesmo erro. Mente não é uma substância paralela. É o modo de organização das disposições e capacidades comportamentais. Quem age inteligentemente, está sendo inteligente. Não há um "ato mental interno" causando o ato externo. Esta posição ficou conhecida como **disposicionalismo** ou **logical behaviorism** (rótulos que Ryle rejeitava parcialmente).
+
+Posição no mapa: Ryle herda o vocabulário de Aristóteles (categorias, tipos lógicos) mas rejeita a forma. Para Aristóteles há dez categorias supremas, finitas, que estruturam o ser. Para Ryle, não há tábua. Há a operação local de detectar confusões. Filosofia vira ferramenta de limpeza conceitual, não sistema metafísico.
+
+Links:
+- SEP, "Category Mistakes": https://plato.stanford.edu/entries/category-mistakes/
+- Wikipedia, "Category mistake": https://en.wikipedia.org/wiki/Category_mistake
+
 ## Notas do Scholion já relacionadas
 
 - `desumanizacao-ontologizacao-ocidente-e-oriente` — ontologização como categorização fixa do outro (Naruhodo #436).
