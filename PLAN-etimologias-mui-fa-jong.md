@@ -41,7 +41,7 @@ Decisão: pesquisar apenas se vier a existir nota de discípulo no Scholion para
 - [x] 門 (mun) — portão/escola; mun yan 門人, tung mun 同門, si mun 師門
 - [x] 同 (tung) — mesmo/companheiro; tung mun 同門
 - [x] 學 (hok) — aprender; hau hok 後學
-- [ ] 宗 (jung) — chefe/ancestral; jung si 宗師
+- [x] 宗 (jung) — chefe/ancestral; jung si 宗師
 - [ ] 走 (jau) — caminhar; jau wai 走位
 - [ ] 方 (fong) — direção; fong wai 方位
 - [ ] 路 (lo / lou) — caminho; jung lo 中路
