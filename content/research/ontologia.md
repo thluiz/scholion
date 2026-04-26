@@ -129,3 +129,4 @@ Links:
 ## Notas extraídas
 
 - `disposicionalismo-ryle` — mente como modo de organização (Ryle, *The Concept of Mind* 1949).
+- `ryle-categorias` — como Ryle define categoria (teste de substituição, infinitude, ausência de tábua). **Em construção** — definição positiva ainda em discussão.
