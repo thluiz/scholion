@@ -38,21 +38,21 @@ A confirmar antes de aprofundar:
 
 Já mapeada na pesquisa de [Ontologia](/research/ontologia), leitura 1.
 
-### 2. Wittgenstein — filosofia como terapia conceitual
+### 2. Hegel — filosofia como autocompreensão do Espírito
+
+(A localizar — *Fenomenologia do Espírito*, *Enciclopédia*.)
+
+### 3. Wittgenstein — filosofia como terapia conceitual
 
 PI §109. Detalhes na pesquisa de [Wittgenstein](/research/wittgenstein).
-
-### 3. Deleuze e Guattari — filosofia como criação de conceitos
-
-*Qu'est-ce que la philosophie?* (1991). Filosofia distinta da ciência (funções) e da arte (afetos/perceptos). Tensão produtiva com a crítica de Sokal/Bricmont a *Caosmose* e *Mil Platôs*.
 
 ### 4. Heidegger — pensamento do ser
 
 Filosofia não é uma ciência entre outras. Detalhes na pesquisa de [Heidegger](/research/heidegger).
 
-### 5. Hegel — filosofia como autocompreensão do Espírito
+### 5. Deleuze e Guattari — filosofia como criação de conceitos
 
-(A localizar — *Fenomenologia do Espírito*, *Enciclopédia*.)
+*Qu'est-ce que la philosophie?* (1991). Filosofia distinta da ciência (funções) e da arte (afetos/perceptos). Tensão produtiva com a crítica de Sokal/Bricmont a *Caosmose* e *Mil Platôs*.
 
 ### 6. Posições negativas / anti-filosofia
 
