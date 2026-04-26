@@ -22,13 +22,13 @@ toc: true
 
 ## Motivação
 
-A pesquisa sobre [ontologia](/research/ontologia) trouxe Wittgenstein à tona via [virada-gramatical-ryle-wittgenstein-austin](/notes/virada-gramatical-ryle-wittgenstein-austin), com as passagens *Investigações Filosóficas* §371 ("essence is expressed by grammar") e §373 ("grammar tells what kind of object anything is"). Vale entender o projeto dele inteiro — antes e depois da virada — para localizar essas passagens no contexto certo.
+A pesquisa sobre [ontologia](/research/ontologia) trouxe Wittgenstein à tona via [virada-gramatical-ryle-wittgenstein-austin](/notes/virada-gramatical-ryle-wittgenstein-austin), com as passagens *Investigações Filosóficas* §371 ("essence is expressed by grammar") e §373 ("grammar tells what kind of object anything is"). A pesquisa precisa do projeto dele inteiro, antes e depois da virada, para localizar essas passagens no contexto certo.
 
 ## Perguntas em aberto
 
 - O que muda exatamente entre o *Tractatus* e as *Investigações*? É reviravolta total ou continuidade soterrada?
 - O que Wittgenstein quer dizer com "filosofia como terapia"?
-- A noção de "jogo de linguagem" tem alguma estrutura ou é radicalmente plural?
+- A noção de "jogo de linguagem" tem alguma estrutura ou é irredutivelmente plural?
 - Como Wittgenstein se relaciona com a tradição filosófica anterior (Frege, Russell, Schopenhauer)?
 
 ## Direções propostas
@@ -49,11 +49,11 @@ Jogos de linguagem, semelhanças de família, regras, *forma de vida*, virada gr
 
 ### 4. Filosofia como terapia conceitual
 
-A formulação metafilosófica que atravessa as *Investigações* e a obra tardia. "A philosophy is a battle against the bewitchment of our intelligence by means of language" (PI §109).
+A formulação metafilosófica que atravessa as *Investigações* e a obra tardia. PI §109 é a passagem de referência (a filosofia como combate ao "enfeitiçamento da nossa inteligência pela linguagem" — verificar tradução exata ao aprofundar).
 
 ### 5. Recepção e linhas
 
-Filosofia da linguagem comum (Ryle, Austin, Strawson). Wittgenstein de Cambridge vs. Wittgenstein de Oxford. Recepção continental (Stanley Cavell, Habermas).
+Filosofia da linguagem comum (Ryle, Austin, Strawson). Wittgenstein lecionou em Cambridge; a recepção majoritária da filosofia da linguagem comum, em Oxford. Recepção continental: Stanley Cavell, Habermas.
 
 ## Notas do Scholion já relacionadas
 
