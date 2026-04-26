@@ -57,6 +57,6 @@ Apareceu também o tema do café da manhã previsto para o sábado 25 de abril n
 
 Mestre Guilherme expôs preocupação com o retorno financeiro. Da vinda do Si Fu em março, o grupo conseguiu devolver cerca de dois mil reais; a passagem custou em torno de quatro a cinco mil reais. Si Fu não está cobrando a diferença, mas há pessoas que ainda não pagaram suas contribuições. A próxima programação precisa contemplar um valor que cubra os custos sem onerar quem se organiza, e Mestre Guilherme entrega a proposta entre quinta e sexta dessa semana.
 
-### Devolutiva e o princípio do Antunes
+### Devolutiva e o princípio do Si Baak Queiroz
 
 Thiago pediu que os Si Hing comentem os textos que ele já compartilhou. Mestre Claudio prometeu enviar comentário escrito. Daí veio um princípio que Thiago disse ter aprendido com Si Baak Queiroz: responder à pessoa na mesma medida (o que inclui o formato) em que ela se manifesta: *"Texto recebido, texto devolvido. Áudio, áudio. Vídeo, vídeo. Dois minutos viram dois minutos."*
