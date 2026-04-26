@@ -45,7 +45,7 @@ Decisão: pesquisar apenas se vier a existir nota de discípulo no Scholion para
 - [x] 走 (jau) — caminhar; jau wai 走位
 - [x] 方 (fong) — direção; fong wai 方位
 - [x] 路 (lo / lou) — caminho; jung lo 中路
-- [ ] 插 (chaap) — inserir; chaap kuen 插拳
+- [x] 插 (chaap) — inserir; chaap kuen 插拳
 - [ ] 練 (lin) — treinar; lin mo je 練武者
 - [ ] 者 (je) — agente; lin mo je 練武者
 - [ ] 化 (fa) — transformar; fa ging 化境
