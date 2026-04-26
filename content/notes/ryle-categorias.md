@@ -4,7 +4,6 @@ date: 2026-04-26T11:30:23+01:00
 summary: "Ryle, em 'Categories' (1938) e em The Concept of Mind (1949), define categoria como tipo lógico detectado pelo teste de substituição: se trocar uma expressão por outra na mesma frase produz absurdo, as expressões são de categorias diferentes. Não há tábua finita; categorias são abertas e identificadas localmente."
 tags: ["ryle", "categorias", "filosofia-da-linguagem", "ontologia"]
 has_commentary: false
-status: "em construção — autor ainda não está satisfeito com a definição positiva de categoria"
 sources:
   - title: "Categories"
     author: "Gilbert Ryle"
@@ -52,6 +51,8 @@ A tese: dualismo cartesiano é exatamente esse erro. Mente e corpo não são doi
 ## Limite honesto
 
 Ryle não fornece teoria positiva das categorias (uma lista, um sistema). O método é diagnóstico: detectar erros de categoria onde aparecem, dissolver pseudo-problemas filosóficos. Por isso ele se refere ao próprio trabalho como *logical geography* — mapear o terreno conceitual sem tentar deduzi-lo de princípios.
+
+A pergunta de fundo — "mas o que **é** uma categoria, afinal?" — fica em [ryle-o-que-e-uma-categoria](/notes/ryle-o-que-e-uma-categoria), que aprofunda a recusa de Ryle a dar definição positiva e a leitura posicional de categoria como tipo lógico.
 
 ## Notas de verificação
 

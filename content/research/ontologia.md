@@ -9,7 +9,7 @@ toc: true
 
 ## Estado
 
-- **Em foco**: leitura 6 (Transcendental / crítica de categorias), Ryle. Três notas extraídas; quarta em construção.
+- **Em foco**: leitura 6 (Transcendental / crítica de categorias), Ryle. Quatro notas extraídas; bloco de Ryle fechado.
 - **Próximo na leitura 6**: Kant (Crítica da Razão Pura, tábua das categorias).
 - **Pendentes na leitura 1** (clássica): ambiguidade filosofia primeira vs. teologia (Met. E 1, 1026a); cunhagem do termo (Goclenius 1613 → Clauberg 1647 → Wolff 1730).
 - Pesquisas-irmãs com escopo próprio: [Heidegger](/research/heidegger), [Wittgenstein](/research/wittgenstein).
@@ -136,6 +136,6 @@ Links:
 ## Notas extraídas
 
 - [disposicionalismo-ryle](/notes/disposicionalismo-ryle) — mente como modo de organização (Ryle, *The Concept of Mind* 1949).
-- [ryle-categorias](/notes/ryle-categorias) — como Ryle define categoria (teste de substituição, infinitude, ausência de tábua). **Em construção** — definição positiva ainda em discussão.
+- [ryle-categorias](/notes/ryle-categorias) — como Ryle define categoria (teste de substituição, infinitude, ausência de tábua). Complementada por `ryle-o-que-e-uma-categoria` na questão da definição positiva.
 - [ryle-o-que-e-uma-categoria](/notes/ryle-o-que-e-uma-categoria) — por que Ryle recusa definição positiva; categoria como posição lógico-gramatical, não essência. Inclui analogia (minha) com o "lado esquerdo".
 - [virada-gramatical-ryle-wittgenstein-austin](/notes/virada-gramatical-ryle-wittgenstein-austin) — a tese "Ryle dissolve ontologia em gramática" como marca da filosofia da linguagem comum (Wittgenstein PI §371-373; Ryle; Austin em *Sense and Sensibilia*). Inclui apontamento crítico de Quine e Heidegger.
