@@ -131,3 +131,4 @@ Links:
 - `disposicionalismo-ryle` — mente como modo de organização (Ryle, *The Concept of Mind* 1949).
 - `ryle-categorias` — como Ryle define categoria (teste de substituição, infinitude, ausência de tábua). **Em construção** — definição positiva ainda em discussão.
 - `ryle-o-que-e-uma-categoria` — por que Ryle recusa definição positiva; categoria como posição lógico-gramatical, não essência. Inclui analogia (minha) com o "lado esquerdo".
+- `virada-gramatical-ryle-wittgenstein-austin` — a tese "Ryle dissolve ontologia em gramática" como marca da filosofia da linguagem comum (Wittgenstein PI §371-373; Ryle; Austin em *Sense and Sensibilia*). Inclui apontamento crítico de Quine e Heidegger.
