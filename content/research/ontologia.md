@@ -128,4 +128,4 @@ Links:
 
 ## Notas extraídas
 
-Nenhuma ainda.
+- `disposicionalismo-ryle` — mente como modo de organização (Ryle, *The Concept of Mind* 1949).
