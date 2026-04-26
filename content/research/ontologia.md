@@ -7,6 +7,21 @@ status: "em andamento"
 toc: true
 ---
 
+## Método
+
+- Exaurir uma leitura de cada vez antes de passar à próxima.
+- "Texto em andamento" só quando o autor começar a compor.
+- Fontes só recebem ✓ depois de verificadas contra fonte primária ou citação direta em fonte secundária confiável.
+- Marcar como ⚠ qualquer paráfrase ou interpretação não-literal.
+- Cada nota extraída inclui seção "Notas de verificação" distinguindo o que é literal do que é paráfrase.
+
+## Estado
+
+- **Em foco**: leitura 6 (Transcendental / crítica de categorias), Ryle. Três notas extraídas; quarta em construção.
+- **Próximo na leitura 6**: Kant (Crítica da Razão Pura, tábua das categorias).
+- **Pendentes na leitura 1** (clássica): ambiguidade filosofia primeira vs. teologia (Met. E 1, 1026a); cunhagem do termo (Goclenius 1613 → Clauberg 1647 → Wolff 1730).
+- Pesquisas-irmãs com escopo próprio: [Heidegger](/research/heidegger), [Wittgenstein](/research/wittgenstein).
+
 ## Perguntas em aberto
 
 - Quando "ontológico" é usado como oposto a "epistêmico" (p.ex. Žižek sobre quantum), o que está em jogo é o mesmo "ontológico" de Heidegger?
