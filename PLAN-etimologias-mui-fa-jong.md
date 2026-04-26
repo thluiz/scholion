@@ -37,7 +37,7 @@ Decisão: pesquisar apenas se vier a existir nota de discípulo no Scholion para
 - [x] 弟 (dai) — discípulo; dai ji 弟子, si hing dai 師兄弟, si dai 師弟
 - [x] 兄 (hing) — irmão mais velho; si hing 師兄, daai si hing 大師兄
 - [x] 徒 (to) — discípulo; to dai 徒弟, to yi 徒兒
-- [ ] 兒 (yi) — criança/discípulo; to yi 徒兒
+- [x] 兒 (yi) — criança/discípulo; to yi 徒兒
 - [ ] 門 (mun) — portão/escola; mun yan 門人, tung mun 同門, si mun 師門
 - [ ] 同 (tung) — mesmo/companheiro; tung mun 同門
 - [ ] 學 (hok) — aprender; hau hok 後學
