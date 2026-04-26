@@ -31,7 +31,7 @@ Decisão: pesquisar apenas se vier a existir nota de discípulo no Scholion para
 ## Batch 1 — Núcleo técnico do Ving Tsun (23)
 
 - [x] 武 (mo) — marcial; mo hei 武器, mo sut 武術, mo gung 武功
-- [ ] 術 (sut) — arte/técnica; mo sut 武術, kuen sut 拳術
+- [x] 術 (sut) — arte/técnica; mo sut 武術, kuen sut 拳術
 - [ ] 技 (gei) — técnica; kuen gei 拳技
 - [ ] 藝 (ngai) — arte; kuen ngai 拳藝
 - [ ] 弟 (dai) — discípulo; dai ji 弟子, si hing dai 師兄弟, si dai 師弟
