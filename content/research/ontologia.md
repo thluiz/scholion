@@ -113,7 +113,7 @@ Ryle assume uma posição forte: distinguir entre categorias é a tarefa central
 Ponto importante para a leitura ontológica: Ryle insiste que *"there is (and can be) no finite number of categories or types"*. Isto é uma ruptura explícita com Aristóteles. Não há tábua de gêneros supremos. Categorias são formais e abertas, não inventário fixo do real.
 
 Links:
-- Ryle, "Categories" (PDF integral): https://sites.ualberta.ca/~francisp/NewPhil448/RyleCategories1938.pdf
+- Ryle, "Categories" (PDF integral): https://sites.ualberta.ca/~francisp/NewPhil448/RyleCategories1938.pdf (*cópia em local drive*)
 - SEP, "Gilbert Ryle": https://plato.stanford.edu/entries/ryle/
 
 #### ✓ Gilbert Ryle, *The Concept of Mind* (Hutchinson, London, 1949)
