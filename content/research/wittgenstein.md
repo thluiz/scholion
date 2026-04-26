@@ -57,8 +57,8 @@ Filosofia da linguagem comum (Ryle, Austin, Strawson). Wittgenstein lecionou em 
 
 ## Notas do Scholion já relacionadas
 
-- `virada-gramatical-ryle-wittgenstein-austin` — Wittgenstein como vértice da dissolução da ontologia em gramática (PI §371, §373).
-- `ryle-o-que-e-uma-categoria` — Ryle e Wittgenstein como movimento conjunto, embora Ryle não cite.
+- [virada-gramatical-ryle-wittgenstein-austin](/notes/virada-gramatical-ryle-wittgenstein-austin) — Wittgenstein como vértice da dissolução da ontologia em gramática (PI §371, §373).
+- [ryle-o-que-e-uma-categoria](/notes/ryle-o-que-e-uma-categoria) — Ryle e Wittgenstein como movimento conjunto, embora Ryle não cite.
 
 ## Notas extraídas
 
