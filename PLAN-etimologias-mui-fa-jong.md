@@ -39,7 +39,7 @@ Decisão: pesquisar apenas se vier a existir nota de discípulo no Scholion para
 - [x] 徒 (to) — discípulo; to dai 徒弟, to yi 徒兒
 - [x] 兒 (yi) — criança/discípulo; to yi 徒兒
 - [x] 門 (mun) — portão/escola; mun yan 門人, tung mun 同門, si mun 師門
-- [ ] 同 (tung) — mesmo/companheiro; tung mun 同門
+- [x] 同 (tung) — mesmo/companheiro; tung mun 同門
 - [ ] 學 (hok) — aprender; hau hok 後學
 - [ ] 宗 (jung) — chefe/ancestral; jung si 宗師
 - [ ] 走 (jau) — caminhar; jau wai 走位
