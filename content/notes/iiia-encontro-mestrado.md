@@ -1,5 +1,5 @@
 ---
-title: IIIa Encontro do Programa de Mestrado
+title: III-A Encontro do Programa de Mestrado
 date: '2026-04-25T21:30:00-03:00'
 summary: Anotações do encontro intermediário do Programa de Mestrado, sem Si Fu, entre os Si Hing. O encontro alinhou ferramentas de escrita, prazos dos textos do livro, agenda da próxima vinda do Si Fu em maio e o pedido de pins do clã Moy Jo Lei Ou.
 tags: ["kung-fu", "ving-tsun", "programa-de-mestrado", "encontros-mestrado"]
@@ -7,7 +7,7 @@ has_commentary: false
 sources: []
 ---
 
-O IIIa Encontro do Programa de Mestrado foi um encontro intermediário, sem Si Fu, marcado para ajustar a agenda da escrita do livro entre o [III Encontro de 17 de abril](https://silva.thluiz.com/posts/iii-encontro-mestrado/) e a próxima reunião com Si Fu, prevista para 20 de maio. Estiveram presentes os mestres Marcio Lopes, Guilherme Farias, Carlos Antunes, Claudio Teixeira e Thiago Silva.
+O III-A Encontro do Programa de Mestrado foi um encontro intermediário, sem Si Fu, marcado para ajustar a agenda da escrita do livro entre o [III Encontro de 17 de abril](https://silva.thluiz.com/posts/iii-encontro-mestrado/) e a próxima reunião com Si Fu, prevista para 20 de maio. Estiveram presentes os mestres Marcio Lopes, Guilherme Farias, Carlos Antunes, Claudio Teixeira e Thiago Silva.
 
 ### Ferramentas de escrita
 
@@ -59,4 +59,4 @@ Mestre Guilherme expôs preocupação com o retorno financeiro. Da vinda do Si F
 
 ### Devolutiva e o princípio do Antunes
 
-Thiago pediu que os Si Hing comentem os textos que ele já compartilhou. Mestre Claudio prometeu enviar comentário escrito. Daí veio um princípio que Thiago disse ter aprendido com Cianci Antunes: responder à pessoa no mesmo formato em que ela se manifesta. Texto recebido, texto devolvido. Áudio, áudio. Vídeo, vídeo. Dois minutos viram dois minutos.
+Thiago pediu que os Si Hing comentem os textos que ele já compartilhou. Mestre Claudio prometeu enviar comentário escrito. Daí veio um princípio que Thiago disse ter aprendido com Si Baak Queiroz: responder à pessoa na mesma medida (o que inclui o formato) em que ela se manifesta: "Texto recebido, texto devolvido. Áudio, áudio. Vídeo, vídeo. Dois minutos viram dois minutos."
