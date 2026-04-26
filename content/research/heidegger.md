@@ -22,7 +22,7 @@ toc: true
 
 ## Motivação
 
-A pesquisa sobre [ontologia](/research/ontologia) precisa cobrir a leitura fenomenológica (leitura 2). Heidegger é o vértice central dela. Em [virada-gramatical-ryle-wittgenstein-austin](/notes/virada-gramatical-ryle-wittgenstein-austin) ele aparece como crítico da dissolução da ontologia em gramática — para ele, o problema do ser é prévio à linguagem ordinária. Vale entender a posição dele de dentro, não só como contraste.
+A pesquisa sobre [ontologia](/research/ontologia) precisa cobrir a leitura fenomenológica (leitura 2). Heidegger é o autor central dela. Em [virada-gramatical-ryle-wittgenstein-austin](/notes/virada-gramatical-ryle-wittgenstein-austin) ele aparece como crítico da dissolução da ontologia em gramática. Para ele, o problema do ser é prévio à linguagem ordinária. A pesquisa precisa abordá-lo pelas próprias premissas, não apenas como contraposição.
 
 Há também conexão direta com Žižek (ver nota `heidegger-historical-horizon-qm-beyond`).
 
