@@ -44,7 +44,7 @@ Decisão: pesquisar apenas se vier a existir nota de discípulo no Scholion para
 - [x] 宗 (jung) — chefe/ancestral; jung si 宗師
 - [x] 走 (jau) — caminhar; jau wai 走位
 - [x] 方 (fong) — direção; fong wai 方位
-- [ ] 路 (lo / lou) — caminho; jung lo 中路
+- [x] 路 (lo / lou) — caminho; jung lo 中路
 - [ ] 插 (chaap) — inserir; chaap kuen 插拳
 - [ ] 練 (lin) — treinar; lin mo je 練武者
 - [ ] 者 (je) — agente; lin mo je 練武者
