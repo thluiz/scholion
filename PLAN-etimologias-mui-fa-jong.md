@@ -50,7 +50,7 @@ Decisão: pesquisar apenas se vier a existir nota de discípulo no Scholion para
 - [x] 者 (je) — agente; lin mo je 練武者
 - [x] 化 (fa) — transformar; fa ging 化境
 - [x] 境 (ging) — domínio; fa ging 化境
-- [ ] 切 (chit) — cortar; chit choh 切磋
+- [x] 切 (chit) — cortar; chit choh 切磋
 - [ ] 磋 (choh) — polir; chit choh 切磋
 - [ ] 弓 (gung) — arco; chin gung 前弓 (postura)
 
