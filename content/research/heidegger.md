@@ -14,6 +14,7 @@ toc: true
 - Fontes só recebem ✓ depois de verificadas contra fonte primária ou citação direta em fonte secundária confiável.
 - Marcar como ⚠ qualquer paráfrase ou interpretação não-literal.
 - Distinguir Heidegger primeiro (*Sein und Zeit*) e tardio (Kehre).
+- Menções a outras notas ou pesquisas devem sempre virar links markdown clicáveis (`[slug](/notes/slug)` ou `[slug](/research/slug)`), não apenas backticks — facilita navegação.
 
 ## Estado
 
