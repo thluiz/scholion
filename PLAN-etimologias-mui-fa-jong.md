@@ -33,7 +33,7 @@ Decisão: pesquisar apenas se vier a existir nota de discípulo no Scholion para
 - [x] 武 (mo) — marcial; mo hei 武器, mo sut 武術, mo gung 武功
 - [x] 術 (sut) — arte/técnica; mo sut 武術, kuen sut 拳術
 - [x] 技 (gei) — técnica; kuen gei 拳技
-- [ ] 藝 (ngai) — arte; kuen ngai 拳藝
+- [x] 藝 (ngai) — arte; kuen ngai 拳藝
 - [ ] 弟 (dai) — discípulo; dai ji 弟子, si hing dai 師兄弟, si dai 師弟
 - [ ] 兄 (hing) — irmão mais velho; si hing 師兄, daai si hing 大師兄
 - [ ] 徒 (to) — discípulo; to dai 徒弟, to yi 徒兒
