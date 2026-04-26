@@ -59,8 +59,8 @@ Levinas (alteridade), Derrida (desconstrução), Sloterdijk, fenomenologia franc
 
 ## Notas do Scholion já relacionadas
 
-- `heidegger-historical-horizon-qm-beyond` — Heidegger: realidade é sempre disclosed dentro de um horizonte histórico (Žižek discutindo Heidegger no contexto de física quântica).
-- `virada-gramatical-ryle-wittgenstein-austin` — Heidegger como crítico da dissolução da ontologia em gramática.
+- [heidegger-historical-horizon-qm-beyond](/notes/heidegger-historical-horizon-qm-beyond) — Heidegger: realidade é sempre disclosed dentro de um horizonte histórico (Žižek discutindo Heidegger no contexto de física quântica).
+- [virada-gramatical-ryle-wittgenstein-austin](/notes/virada-gramatical-ryle-wittgenstein-austin) — Heidegger como crítico da dissolução da ontologia em gramática.
 
 ## Notas extraídas
 

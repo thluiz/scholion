@@ -136,14 +136,14 @@ Links:
 
 ## Notas do Scholion já relacionadas
 
-- `desumanizacao-ontologizacao-ocidente-e-oriente` — ontologização como categorização fixa do outro (Naruhodo #436).
-- `epistemological-limitation-defines-the-thing` — "incompleteness is ontological, not epistemic" (Žižek).
-- `every-epoch-reinvents-its-shakespeare` — "ontological incompleteness".
-- `ts-eliot-new-work-rewrites-the-past` — retroatividade no nível da ontologia.
+- [desumanizacao-ontologizacao-ocidente-e-oriente](/notes/desumanizacao-ontologizacao-ocidente-e-oriente) — ontologização como categorização fixa do outro (Naruhodo #436).
+- [epistemological-limitation-defines-the-thing](/notes/epistemological-limitation-defines-the-thing) — "incompleteness is ontological, not epistemic" (Žižek).
+- [every-epoch-reinvents-its-shakespeare](/notes/every-epoch-reinvents-its-shakespeare) — "ontological incompleteness".
+- [ts-eliot-new-work-rewrites-the-past](/notes/ts-eliot-new-work-rewrites-the-past) — retroatividade no nível da ontologia.
 
 ## Notas extraídas
 
-- `disposicionalismo-ryle` — mente como modo de organização (Ryle, *The Concept of Mind* 1949).
-- `ryle-categorias` — como Ryle define categoria (teste de substituição, infinitude, ausência de tábua). **Em construção** — definição positiva ainda em discussão.
-- `ryle-o-que-e-uma-categoria` — por que Ryle recusa definição positiva; categoria como posição lógico-gramatical, não essência. Inclui analogia (minha) com o "lado esquerdo".
-- `virada-gramatical-ryle-wittgenstein-austin` — a tese "Ryle dissolve ontologia em gramática" como marca da filosofia da linguagem comum (Wittgenstein PI §371-373; Ryle; Austin em *Sense and Sensibilia*). Inclui apontamento crítico de Quine e Heidegger.
+- [disposicionalismo-ryle](/notes/disposicionalismo-ryle) — mente como modo de organização (Ryle, *The Concept of Mind* 1949).
+- [ryle-categorias](/notes/ryle-categorias) — como Ryle define categoria (teste de substituição, infinitude, ausência de tábua). **Em construção** — definição positiva ainda em discussão.
+- [ryle-o-que-e-uma-categoria](/notes/ryle-o-que-e-uma-categoria) — por que Ryle recusa definição positiva; categoria como posição lógico-gramatical, não essência. Inclui analogia (minha) com o "lado esquerdo".
+- [virada-gramatical-ryle-wittgenstein-austin](/notes/virada-gramatical-ryle-wittgenstein-austin) — a tese "Ryle dissolve ontologia em gramática" como marca da filosofia da linguagem comum (Wittgenstein PI §371-373; Ryle; Austin em *Sense and Sensibilia*). Inclui apontamento crítico de Quine e Heidegger.
