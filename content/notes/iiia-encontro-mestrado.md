@@ -7,11 +7,11 @@ has_commentary: false
 sources: []
 ---
 
-O IIIa Encontro do Programa de Mestrado foi um encontro intermediário, sem Si Fu, marcado para ajustar a agenda da escrita do livro entre o [III Encontro de 17 de abril](https://silva.thluiz.com/posts/iii-encontro-mestrado/) e a próxima reunião com Si Fu, prevista para 20 de maio. Estiveram presentes Mestre Guilherme de Farias (que conduziu o encontro), Mestre Cláudio Teixeira, Carlos Cianci Antunes, Mestre Márcio Lopes (que entrou já no andamento) e Thiago Silva (Chi Yau Si Moy). O encontro percorreu ferramentas de escrita, padronização de transliterações, prazos, próximo grande encontro com Si Fu, tamanho do livro, organização dos pins do clã, eventos de apoio à vinda do Si Fu, finanças e devolutiva entre os textos.
+O IIIa Encontro do Programa de Mestrado foi um encontro intermediário, sem Si Fu, marcado para ajustar a agenda da escrita do livro entre o [III Encontro de 17 de abril](https://silva.thluiz.com/posts/iii-encontro-mestrado/) e a próxima reunião com Si Fu, prevista para 20 de maio. Estiveram presentes os mestres Marcio Lopes, Guilherme Farias, Carlos Antunes, Claudio Teixeira e Thiago Silva.
 
 ### Ferramentas de escrita
 
-Mestre Cláudio descreveu o uso do Notebook LM (gratuito, da Google), apresentado a ele por Thiago. Compila os materiais das reuniões anteriores e gera rascunhos a partir das próprias falas. Como teste, alimentou o sistema com a tabela de transliterações que Léo Mordente (Si Suk) passou ao grupo, pedindo que sempre que aparecesse um termo em cantonês o ideograma e a transliteração viessem automaticamente ao lado. O resultado foi considerado por ele "uma maravilha". Está quase abrindo mão do Gemini, que passou a achar redundante depois de pedir ao Notebook LM para estudar o próprio estilo a partir de artigos antigos seus.
+Mestre Claudio descreveu o uso do Notebook LM (gratuito, da Google), apresentado a ele por Thiago. Compila os materiais das reuniões anteriores e gera rascunhos a partir das próprias falas. Como teste, alimentou o sistema com a tabela de transliterações que Léo Mordente (Si Suk) passou ao grupo, pedindo que sempre que aparecesse um termo em cantonês o ideograma e a transliteração viessem automaticamente ao lado. O resultado foi considerado por ele "uma maravilha". Está quase abrindo mão do Gemini, que passou a achar redundante depois de pedir ao Notebook LM para estudar o próprio estilo a partir de artigos antigos seus.
 
 Mestre Guilherme prefere seguir com o Gemini, já contratado pelo Instituto. Cianci usa apenas papel e lápis, ou o bloco de notas. Thiago escreve direto no GitHub, para manter controle de versão; usa IA só como editor para revisar vícios de escrita, não para gerar texto. O acordo foi simples: cada um usa a ferramenta com a qual se sente confortável, desde que o texto chegue ao grupo.
 
@@ -27,11 +27,11 @@ Todos concordaram que o canal de circulação seja online, para permitir que os 
 
 A divisão segue os temas dos encontros maiores: (1) conceito de Kung Fu, (2) conceito de Sistema, (3) Sistema Ving Tsun. Cada autor produz três blocos, refinando o material das próprias falas com o que apareceu nas discussões. Thiago reportou que já fez o do primeiro encontro e está agora refinando-o com o material do segundo.
 
-O prazo combinado foi entregar até a quarta-feira seguinte ao encontro (29 de abril) o que estiver pronto. Mestre Cláudio se comprometeu com a entrega dele para essa data. A prioridade imediata é fechar Kung Fu e Sistema antes do encontro com Si Fu em 20 de maio. O grupo concluiu que avançar para Sistema Ving Tsun antes de fechar os dois primeiros geraria desorganização no livro.
+O prazo combinado foi entregar até a quarta-feira seguinte ao encontro (29 de abril) o que estiver pronto. Mestre Claudio se comprometeu com a entrega dele para essa data. A prioridade imediata é fechar Kung Fu e Sistema antes do encontro com Si Fu em 20 de maio. O grupo concluiu que avançar para Sistema Ving Tsun antes de fechar os dois primeiros geraria desorganização no livro.
 
 ### Frequência dos encontros semanais
 
-Os encontros semanais entre os Si Hing serão mantidos às sextas-feiras, no horário das 18h30 e com duração estimada de meia hora. Pode estender-se quando houver mais assunto. A ideia é apresentar progresso e ler em conjunto o que foi escrito. Mestre Cláudio adiantou que não conseguirá participar do encontro do dia 8 de maio, porque viaja a trabalho para a Argentina, e ofereceu enviar um vídeo no lugar. O grupo aceitou que a presença seja preferencial, não obrigatória, com peso maior na circulação dos textos.
+Os encontros semanais entre os Si Hing serão mantidos às sextas-feiras, no horário das 18h30 e com duração estimada de meia hora. Pode estender-se quando houver mais assunto. A ideia é apresentar progresso e ler em conjunto o que foi escrito. Mestre Claudio adiantou que não conseguirá participar do encontro do dia 8 de maio, porque viaja a trabalho para a Argentina, e ofereceu enviar um vídeo no lugar. O grupo aceitou que a presença seja preferencial, não obrigatória, com peso maior na circulação dos textos.
 
 ### Próximo grande encontro com Si Fu
 
@@ -39,13 +39,13 @@ Si Fu estará no Brasil entre 20 e 27 de maio. Reservou o primeiro fim de semana
 
 ### Tamanho-alvo do livro
 
-Mestre Márcio reforçou a métrica que Si Fu havia mencionado: pelo menos 108 páginas no total, com capítulos podendo variar em torno de 36 páginas. Menos de 50 páginas não seria considerado livro. Thiago comentou que o material que tem já passou de 100 páginas, mas observou que o critério não é mérito de extensão; o objetivo continua sendo viabilizar a impressão.
+Mestre Márcio reforçou a métrica que Si Fu havia mencionado: pelo menos 108 páginas no total, com capítulos podendo variar em torno de 36 páginas. Menos de 50 páginas não seria considerado livro. Thiago observou que páginas a mais não são mérito, o objetivo é viabilizar a impressão como livro.
 
 ### Pins do clã
 
 Mestre Márcio retomou o projeto dos pins. O fornecedor exige pedido mínimo de cinquenta unidades, mas aceita combinar pins de famílias diferentes dentro do mesmo lote. Custo de fabricação em torno de quinze reais; preço de venda proposto em dezesseis dólares, com a margem destinada ao Mo Gun para ajudar a cobrir a vinda do Si Fu. Para o clã Moy Jo Lei Ou ficaram definidos pins de prata, dourado de discípulo e dourado de mestre. Márcio chamará cada um no privado para fechar a quantidade.
 
-Mestre Cláudio levantou a questão das logos das próprias famílias: se cada um faz a sua ou se todos seguem a estética das cinco pétalas superpostas que Si Fu propôs para Moy Jo Lei Ou, mudando apenas as cores. Mestre Márcio ponderou que, hoje, só o Cristiano tem família, e que a discussão pode esperar; quem quiser desenvolver logo própria pode falar com Si Fu (que se ofereceu para ajudar) ou com a designer que Márcio contratou para a logo da imobiliária dele, ao custo aproximado de duzentos reais. A recomendação que Márcio repetiu ao longo da conversa foi não travar por causa do design e sentar com Si Fu antes de seguir.
+Mestre Claudio levantou a questão das logos das próprias famílias: se cada um faz a sua ou se todos seguem a estética das cinco pétalas superpostas que Si Fu propôs para Moy Jo Lei Ou, mudando apenas as cores. Mestre Márcio ponderou que, hoje, só o Cristiano tem família, e que a discussão pode esperar; quem quiser desenvolver logo própria pode falar com Si Fu (que se ofereceu para ajudar) ou com a designer que Márcio contratou para a logo da imobiliária dele, ao custo aproximado de duzentos reais. A recomendação que Márcio repetiu ao longo da conversa foi não travar por causa do design e sentar com Si Fu antes de seguir.
 
 ### Eventos de apoio à vinda do Si Fu
 
@@ -59,4 +59,4 @@ Mestre Guilherme expôs preocupação com o retorno financeiro. Da vinda do Si F
 
 ### Devolutiva e o princípio do Antunes
 
-Thiago pediu que os Si Hing comentem os textos que ele já compartilhou. Mestre Cláudio prometeu enviar comentário escrito. Daí veio um princípio que Thiago disse ter aprendido com Cianci Antunes: responder à pessoa no mesmo formato em que ela se manifesta. Texto recebido, texto devolvido. Áudio, áudio. Vídeo, vídeo. Dois minutos viram dois minutos.
+Thiago pediu que os Si Hing comentem os textos que ele já compartilhou. Mestre Claudio prometeu enviar comentário escrito. Daí veio um princípio que Thiago disse ter aprendido com Cianci Antunes: responder à pessoa no mesmo formato em que ela se manifesta. Texto recebido, texto devolvido. Áudio, áudio. Vídeo, vídeo. Dois minutos viram dois minutos.
