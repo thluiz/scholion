@@ -7,15 +7,6 @@ status: "em andamento"
 toc: true
 ---
 
-## Método
-
-- Exaurir uma leitura de cada vez antes de passar à próxima.
-- "Texto em andamento" só quando o autor começar a compor.
-- Fontes só recebem ✓ depois de verificadas contra fonte primária ou citação direta em fonte secundária confiável.
-- Marcar como ⚠ qualquer paráfrase ou interpretação não-literal.
-- Cada nota extraída inclui seção "Notas de verificação" distinguindo o que é literal do que é paráfrase.
-- Menções a outras notas ou pesquisas devem sempre virar links markdown clicáveis (`[slug](/notes/slug)` ou `[slug](/research/slug)`), não apenas backticks — facilita navegação.
-
 ## Estado
 
 - **Em foco**: leitura 6 (Transcendental / crítica de categorias), Ryle. Três notas extraídas; quarta em construção.

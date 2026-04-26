@@ -13,41 +13,92 @@ Pesquisas vivas são documentos em `E:/scholion/content/research/<slug>.md` que 
 O argumento em `$ARGUMENTS` é o tema ou pergunta. Ao receber:
 
 1. **Verificar se já existe** pesquisa sobre o tema em `E:/scholion/content/research/`. Se existir, ler o arquivo e retomar de onde parou.
-2. **Se não existir**, criar com o frontmatter abaixo.
+2. **Se não existir**, criar com a estrutura abaixo.
 
-## Frontmatter
+## Estrutura sugerida
+
+### Frontmatter
 
 ```yaml
 ---
 title: "Pesquisa Viva: [Tema]"
 date: <timestamp>
-summary: "[pergunta central]"
+summary: "[pergunta central ou descrição enxuta]"
 tags: ["pesquisa-viva", ...]
 status: "em andamento"  # em andamento | pausada | concluída
+toc: true
 ---
 ```
 
-## Corpo — formato livre
+### Esqueleto recomendado
 
-O corpo é markdown livre. Não tem estrutura rígida. O conteúdo evolui conforme a pesquisa avança. Alguns elementos que podem aparecer:
+```markdown
+## Método
 
-- **Texto em andamento** — rascunho do autor. Ele vai compondo o texto conforme a pesquisa avança. A IA salva o material bruto como o autor mandou, sem editar. Pode ter subtítulos internos (###). Trechos marcados com "(em aberto)" indicam passagens que o autor ainda não resolveu. A IA não tenta resolver essas passagens por conta própria
-- **Perguntas em aberto** — só o autor adiciona. Nunca inventar perguntas, direções ou conexões que o autor não pediu
-- **Fontes verificadas** — com status: ✓ verificada, ? pendente, ✗ descartada. Incluir citação exata, obra, ano, e o que foi verificado. **Links de referência ficam inline na própria fonte**, numa linha "Links:" no final de cada bloco. Nunca criar seção separada de links/referências — duplica informação e fica redundante
-- **Não verificados** — fontes mencionadas mas que ainda precisam de confirmação contra primárias
-- **Notas extraídas** — índice de notas do Scholion geradas a partir desta pesquisa, com links
+(Regras gerais aplicadas: ver `.claude/skills/research/SKILL.md`. Listar abaixo apenas regras específicas desta pesquisa, se houver.)
 
-O formato é o que for útil para que o autor leia e entenda, e para que a IA retome sem perder contexto. Não forçar estrutura. Deixar o documento crescer organicamente.
+- (regras específicas, ex.: "Distinguir autor primeiro/tardio")
 
-## Regras
+## Estado
 
-- **Voz e estilo**: seguir regras da skill `ghost-writer` ao gerar texto. Pesquisa não é artigo acadêmico.
-- **NUNCA inventar fontes, citações ou atribuições.** Se não verificou, marcar como ? pendente.
-- **Verificar antes de publicar.** Cada citação precisa ser confirmada contra fonte primária antes de receber ✓.
-- **Notas são extraídas, não geradas.** Quando uma parte da pesquisa amadurece, o autor decide se vira nota. Usar `/add-scholion-note` para criar. Adicionar link de volta na pesquisa.
-- Sem `Co-Authored-By Claude` no commit.
-- Build check: `hugo --quiet` antes de comitar.
-- Commit message: `research: [ação] em [tema]` (ex: `research: verificar fontes em Posição x Oposição`)
+- **Em foco**: o que está sendo aprofundado agora.
+- **Próximo**: candidatos consensuais para o próximo passo.
+- (links para pesquisas-irmãs com escopo próprio, se aplicável)
+
+## Motivação
+
+(Por que esta pesquisa existe; conexão com outras pesquisas/notas.)
+
+## Perguntas em aberto
+
+- (só o autor adiciona perguntas)
+
+## Direções a mapear / Leituras
+
+(Para confirmar com o autor antes de aprofundar. Cada uma é exaurida antes de passar à próxima.)
+
+### 1. ...
+
+## Notas do Scholion já relacionadas
+
+- [slug](/notes/slug) — descrição curta.
+
+## Notas extraídas
+
+- [slug](/notes/slug) — descrição curta.
+```
+
+## Regras universais
+
+Aplicar a todas as pesquisas. Não duplicar nas seções "Método" das pesquisas.
+
+### Honestidade epistêmica
+
+- **Nunca inventar fontes, citações ou atribuições.** Se não verificou, marcar como `?` pendente.
+- **Verificar antes de marcar ✓.** Cada citação literal precisa ser confirmada contra fonte primária ou citação direta em fonte secundária confiável.
+- **Marcar com ⚠** qualquer paráfrase, formulação própria ou interpretação não-literal.
+- **Cada nota extraída inclui seção "Notas de verificação"** distinguindo o que é literal de fonte primária do que é paráfrase de fonte secundária.
+- Em ilustrações ou exemplos próprios, marcar explicitamente como "minha analogia" ou "minha formulação", não atribuir ao autor estudado.
+
+### Método
+
+- **Exaurir uma direção** (leitura, autor, problema) de cada vez antes de passar à próxima.
+- **"Texto em andamento" só quando o autor começar a compor.** A IA não fabrica texto especulativo do autor.
+- **Nunca inventar perguntas em aberto, direções ou conexões que o autor não pediu.** A IA pode propor direções, mas explicitamente como "a confirmar".
+- **Atualizar Estado a cada rodada substantiva.** Quem retoma a pesquisa lê o Estado primeiro.
+
+### Voz e estilo
+
+- **Aplicar a skill `ghost-writer`** em qualquer preview ou edição. Sem Claude-speak, sem setup-punch, sem rótulos meta.
+
+### Cross-references e navegação
+
+- **Menções a outras notas ou pesquisas devem virar links markdown clicáveis**: `[slug](/notes/slug)` ou `[slug](/research/slug)`. Nunca apenas backticks com o slug nu — quebra a navegação.
+- **Links de fontes externas** ficam inline no bloco da fonte (linha "Links:" no final do bloco). Nunca criar seção separada de "Referências" — duplica informação.
+
+### Notas extraídas
+
+- Quando parte da pesquisa amadurece, o autor decide se vira nota. Usar `/add-scholion-note`. Adicionar link de volta na pesquisa, na seção "Notas extraídas".
 
 ## Marcações inline `{{...}}`
 
@@ -66,4 +117,10 @@ Convenções:
 
 ## Retomando em nova sessão
 
-Ao retomar, ler o arquivo inteiro. O documento contém tudo que é necessário para continuar sem depender de memória ou contexto de sessões anteriores. Perguntar ao autor o que quer aprofundar.
+Ao retomar, ler o arquivo inteiro. O documento contém tudo que é necessário para continuar sem depender de memória ou contexto de sessões anteriores. Ler **Estado** primeiro. Perguntar ao autor o que quer aprofundar.
+
+## Operacionais
+
+- Sem `Co-Authored-By Claude` no commit.
+- Build check: `hugo --quiet` antes de comitar.
+- Commit message: `research: [ação] em [tema]` (ex: `research: verificar fontes em Posição x Oposição`).
