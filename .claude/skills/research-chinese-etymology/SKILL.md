@@ -1,18 +1,31 @@
 ---
 name: research-chinese-etymology
-description: Pesquisa etimologia de caracteres chineses consultando 7 fontes académicas (MDBG, chardb/xiaoxue Academia Sinica, hanziyuan, shuowen.org, CantoDict). Retorna definições, decomposição, Shuowen + 段注, evolução de formas, fonologia e divergências entre fontes.
+description: Pesquisa etimologia de caracteres chineses consultando 7 fontes académicas (MDBG, chardb/xiaoxue Academia Sinica, hanziyuan, shuowen.org, CantoDict). Checa se a nota já existe antes de pesquisar. Salva como `etimologia-de-*.md` no Scholion após preview aprovado.
 argument-hint: "[caracteres] ex: 知友士"
 ---
 
 # Pesquisa Etimológica de Caracteres Chineses
 
-Recebe um ou mais caracteres chineses e produz análise etimológica completa de cada um, consultando 7 fontes. **Não cria notas, não faz etimologia portuguesa.** Apenas pesquisa e formata.
+Recebe um ou mais caracteres chineses, produz análise etimológica completa de cada um (consultando 7 fontes) e **salva como nota no Scholion** (`E:/scholion/content/notes/etimologia-de-*.md`) após preview aprovado pelo autor.
+
+A skill **checa se a etimologia já existe antes de pesquisar** — pesquisa em 7 fontes é cara e não deve ser repetida.
 
 ## Parâmetros
 
 Extrair caracteres CJK de `$ARGUMENTS`. Pode ser 1 ou mais caracteres (ex: `德`, `知友士`).
 
 Se `$ARGUMENTS` não contiver caracteres CJK, perguntar.
+
+## Verificação prévia (ANTES de qualquer fetch)
+
+Para cada caractere, checar se já existe nota:
+
+1. **Por unicode hex** (slug moderno): `Glob` em `E:/scholion/content/notes/etimologia-de-*-<unicode>.md` (4+ dígitos hex minúsculos do codepoint).
+2. **Por caractere no título** (notas legadas pré-2026-04-23 sem unicode no slug): `Grep` por `"Etimologia de <CHAR>"` no frontmatter `title:` em `E:/scholion/content/notes/etimologia-de-*.md`.
+
+Se existir nota, perguntar ao autor: **"Já existe `<slug>.md`. Atualizar (refazer pesquisa), pular, ou só ler o conteúdo atual?"** — não decidir sozinho.
+
+Apenas após confirmação de que não existe (ou que deve atualizar), proceder à pesquisa.
 
 ## Fontes e como acessar
 
@@ -180,17 +193,25 @@ IMPORTANTE: as divergências ficam DENTRO da secção de cada caractere (como `#
 
 ## Estratégia de execução
 
-1. Extrair caracteres de `$ARGUMENTS`
-2. Para cada caractere, lançar buscas em paralelo (Agent subagents ou tool calls paralelos):
+1. **Extrair** caracteres de `$ARGUMENTS`.
+2. **Verificação prévia**: para cada caractere, checar se já existe nota (ver secção acima). Se existir, perguntar ao autor antes de prosseguir.
+3. **Coletar contexto kung fu** (a menos que invocada por outra skill que já passe o contexto): perguntar ao autor de qual nome kung fu o caractere vem e qual a pessoa. Aceitar "nenhum" para registro filológico sem vínculo.
+4. **Pesquisar** (apenas para caracteres sem nota ou que devem ser atualizados): para cada caractere, lançar buscas em paralelo (Agent subagents ou tool calls paralelos):
    - WebFetch: MDBG, chardb, cantonese.org, shuowen.org (4 em paralelo)
    - Playwright: hanziyuan, xiaoxue yanbian, xiaoxue shangguyin (podem ser paralelos se infra permitir)
-3. Formatar output por caractere no formato acima
-4. Cruzar fontes e listar divergências
-5. Apresentar resultado final ao usuário
+5. **Formatar** output por caractere no formato acima.
+6. **Cruzar fontes** e listar divergências.
+7. **Preview**: montar a nota completa (frontmatter + corpo) e mostrar ao autor antes de gravar. Aguardar aprovação explícita.
+8. **Salvar** após aprovação (ver secção "Salvamento da nota" abaixo).
 
-## Convenção de nota resultante (slug + frontmatter)
+## Salvamento da nota
 
-Quando a saída desta skill for usada para criar uma nota em `E:/scholion/content/notes/`:
+Após preview aprovado pelo autor, gravar em `E:/scholion/content/notes/<slug>.md`:
+
+1. **Timestamp real** — capturar via `Bash`: `date +"%Y-%m-%dT%H:%M:%S%:z"`. Nunca inventar hora.
+2. **Write** o ficheiro completo (frontmatter + corpo).
+3. **Verificar** com `Glob` ou `Read` que o ficheiro existe — só então confirmar ao autor com path resultante.
+4. **Não comitar automaticamente** — esta skill apenas grava. Commit fica a cargo do autor (ou da skill orquestradora, ex: `/kung-fu-name-etymology`).
 
 ### Slug
 
@@ -277,6 +298,6 @@ Exemplos do que NÃO incluir (incidente 2026-04-23):
 
 ## Notas
 
-- Esta skill é **autónoma** — não cria notas, não faz commit, não modifica o Scholion
-- Pode ser invocada por outras skills (ex: `kung-fu-name-etymology`) para a parte chinesa
-- Caracteres raros podem não ter entrada em todas as fontes — sinalizar quando uma fonte não retorna dados
+- Esta skill **cria a nota** em `E:/scholion/content/notes/etimologia-de-*.md` após preview aprovado, mas **não comita** — o commit fica com o autor ou a skill orquestradora.
+- Pode ser invocada por outras skills (ex: `kung-fu-name-etymology`) para a parte chinesa. Quando invocada com contexto kung fu já fornecido, não perguntar de novo.
+- Caracteres raros podem não ter entrada em todas as fontes — sinalizar quando uma fonte não retorna dados.
