@@ -23,7 +23,7 @@ Ainda assim, a fundação do Kung Fu reside nos êxitos do Siu Nim Tau e do Cham
 
 ### Kuen to 拳套
 
-A decupagem começou pelo termo novo. *Kuen* 拳 é punho. A parte de baixo do ideograma é 手 *sau*, mão, fechada sobre o braço. Em Mandarim, 拳 lê-se *quán*, mesmo *chuan* do *Tai Chi Chuan* 太極拳; e 手 lê-se *shǒu*.
+*Kuen* 拳 é punho. A parte de baixo do ideograma é 手 *sau*, mão, fechada sobre o braço. Em Mandarim, 拳 lê-se *quán*, mesmo *chuan* do *Tai Chi Chuan* 太極拳; e 手 lê-se *shǒu*.
 
 *Tou* 套 é embalagem, invólucro, capa. A imagem que Si Fu propôs foi a da capa de um livro: a capa não é o livro, é o que embala o livro, dá nome e contorno àquilo que ela cobre. *Kuen to* 拳套 seria o agrupamento de gestos de punho dentro de um conjunto que tem unidade. 
 
@@ -45,7 +45,7 @@ Si Fu pediu uma palavra para a natureza do Biu Ji, e o que apareceu foi reestabe
 
 ### Desdobramentos: do cotovelo do Siu Nim Tau à faca
 
-Si Fu pegou um exemplo concreto. No Cham Kiu concentra a energia no cotovelo e dispara para frente; o nome já diz *piu* 標, lançar. No Biu Ji, a energia se concentra no cotovelo, sobe e produz outra coisa.
+No Cham Kiu concentra a energia no cotovelo e dispara para frente; o nome já diz *piu* 標, lançar. No Biu Ji, a energia se concentra no cotovelo, sobe e produz outra coisa.
 
 No Baat Jaam Do, a configuração já está pronta na forma anterior; basta adaptar. Quem não interiorizou o conceito na base, no entanto, vai ter que tirar o atraso de seis, sete, dez anos quando chegar à faca. Não é o caso de lamentar; é como o sistema funciona.
 
@@ -67,11 +67,11 @@ A inversão importa porque o Hai Tong faz uso dos dois. Quando o texto diz que, 
 
 Claudio levantou se *to kuen* tem a ver com o termo *dispositivo* que Si Gung usa. Si Fu desfez a equivalência. O termo *dispositivo*, no vocabulário de Si Gung, substitui *técnica*. Técnica tem relação direta com a anatomia do gesto e seu uso utilitário: a chave de fenda gira na fenda; o soco serve para socar. Dispositivo está disposto a outras coisas, no plural, e não a uma coisa só. Aponta para fora do uso direto (TODO criar nota: Kuen Kuit "a mão que ataca também defende").
 
-Esse deslocamento já estava no ideograma. *Jiu sik* 招式 é a expressão chinesa que costuma ser traduzida por "técnica". O caractere 招 *jiu* tem o radical de mão (手) e fonético 召 (chamar); o [Shuowen Jiezi](/notes/etimologia-de-jiu-zhao-62db/) define como "chamar com a mão", e o 段注 reforça: não com a boca, mas com a mão. *Jiu* não é o gesto inerte, é o gesto que chama. O composto *jiu sik* não diz "forma-técnica" no sentido de procedimento útil; diz "gesto-que-chama em uma forma". Dispositivo, no português de Si Gung, repõe na palavra ocidental o que já estava no ideograma chinês.
+*Jiu sik* 招式 é a expressão chinesa que costuma ser traduzida por "técnica". O caractere 招 *jiu* tem o radical de mão (手) e fonético 召 (chamar); o [Shuowen Jiezi](/notes/etimologia-de-jiu-zhao-62db/) define como "chamar com a mão", e o 段注 reforça: não com a boca, mas com a mão. *Jiu* não é o gesto inerte, é o gesto que chama. O composto *jiu sik* não diz "forma-técnica" no sentido de procedimento útil; diz "gesto-que-chama em uma forma".
 
-Conta-se que alguém ofereceu dinheiro ao Si Gung para que ele ensinasse o Baat Jaam Do; Si Taai Gung respondeu que poderia ensinar qualquer coisa já que a pessoa não estava sabendo nem pedir. Se o que se transmite é técnica isolada, troca-se por dinheiro como se troca mercadoria, e o que sai do outro lado será inerte sem que comprador perceba a diferença. 
+Conta-se que alguém ofereceu dinheiro ao Si Gung para que ele ensinasse o Baat Jaam Do; Si Taai Gung respondeu que poderia ensinar qualquer coisa já que a pessoa não estava sabendo nem pedir. Se o que se transmite é técnica isolada, troca-se por dinheiro como se troca mercadoria, e o que sai do outro lado será inerte sem que o comprador perceba a diferença. 
 
-Se o que está em jogo é dispositivo, ele dispõe de outras coisas é preciso existir conexões. A escolha do termo *dispositivo* foi cunhada em 1999, na missão da Moy Yat Sang International, na fórmula "dispositivos corporais de combate simbólico". Anos depois, na mesma linha, *componente* veio substituir *conteúdo*, porque componente é o elemento que compõe, ao passo que conteúdo é o que está dentro de um componente.
+Se o que está em jogo é dispositivo, é preciso que existam conexões para que ele funcione adequadamente. A escolha do termo *dispositivo* foi cunhada em 1999, na missão da Moy Yat Sang International, na fórmula "dispositivos corporais de combate simbólico". Anos depois, na mesma linha, *componente* veio substituir *conteúdo*, porque componente é o elemento que compõe, ao passo que conteúdo é o que está dentro de um componente.
 
 ### Cuidado com dicionário e com IA
 
@@ -83,7 +83,7 @@ Si Fu foi explícito quanto ao recurso a IAs (ChatGPT, Gemini, similares): evita
 
 O trecho do Hai Tong fecha dizendo que, com o auxílio do primeiro e do segundo *to kuen*, se passa a dominar o *kuen lei* 拳理 e a pôr em ação a veemência do Biu Ji. O verbo "dominar" traduz aí *cheung ak* 掌握, e a etimologia diz mais do que a tradução. *Cheung* 掌 é palma, mão aberta. *Ak* 握 é segurar, agarrar com a mão fechada. A composição cobre o intervalo entre os dois extremos: do mais aberto ao mais fechado, em todas as gradações intermediárias. Os três caracteres (手 *sau*, mão; 拳 *kuen*, punho fechado; 掌 *cheung*, palma aberta) partilham o mesmo radical de mão, e foi a comparação visual entre os três que abriu a leitura.
 
-*Cheung ak* 掌握 não é, então, dominar no sentido fraco de fazer bem. É domínio soberano, controle completo na transformação inteira da mão, de ponta-a-ponta. Penso na ideia de conhecer como a palma da mão. Aplicado ao *kuen lei*, a lógica interna do punho, é o controle na variação que o sistema admite. Só se experimenta o Biu Ji em sua plenitude se houver maestria nos dominios anteriores. O Hai Tong fecha o ponto: não há atalho que se possa trilhar.
+*Cheung ak* 掌握 não é, então, dominar no sentido fraco de fazer bem. É domínio soberano, controle completo na transformação inteira da mão, de ponta-a-ponta. Penso na ideia de conhecer como a palma da mão. Aplicado ao *kuen lei*, a lógica interna do punho, é o controle na variação que o sistema admite. Só se experimenta o Biu Ji em sua plenitude se houver maestria nos dominios anteriores.
 
 ### A função prática do instrumental
 
@@ -93,8 +93,8 @@ Apareceu uma anedota sobre uma loja de travesseiro em que o vendedor norte-ameri
 
 ### Estudar ideogramas no cotidiano
 
-Para fechar, foi sugerido como exercício prático o costume de assistir filme chinês com os olhos abertos para os ideogramas que aparecem em placas, cartazes e legendas de fundo. Funciona como o sinal de *stop* nas ruas: depois de visto algumas vezes, lê-se sem precisar parar para soletrar. Na semana anterior, ao ver *Weekends in Taipei*, foi possível identificar uma placa de colégio só pela combinação de radicais e contexto, sem ter o léxico completo. O método é cumulativo e barato.
+Para fechar, foi sugerido como exercício prático o costume de assistir filme chinês com os olhos abertos para os ideogramas que aparecem em placas, cartazes e legendas de fundo. Funciona como o sinal de *stop* nas ruas: depois de visto algumas vezes, lê-se sem precisar parar para soletrar. Na semana anterior, ao ver *Weekends in Taipei*, foi possível identificar uma placa de colégio só pela combinação de radicais e contexto, sem ter o léxico completo.
 
-Si Fu retomou também uma sugestão de Clóvis de Barros Filho {{ link: https://www.youtube.com/watch?v=TRPBY_lxJfE }}: ler textos parando, pedaço por pedaço, extraindo o sentido antes de avançar. A premissa é que o autor se deu o trabalho de escrever e o trabalho do leitor é entender, não decorar nem voar. Pitágoras inventou o teorema do zero; quem chega depois só precisa entender. 
+Si Fu retomou também uma sugestão de [Clóvis de Barros Filho](https://www.youtube.com/watch?v=TRPBY_lxJfE): ler textos parando, pedaço por pedaço, extraindo o sentido antes de avançar. A premissa é que o autor se deu o trabalho de escrever e o trabalho do leitor é entender, não decorar nem voar. Pitágoras formulou o teorema; quem chega depois só precisa entender. 
 
 A próxima aula deve voltar ao Biu Ji propriamente dito, em particular ao *ji nam cham* 指南針, a bússola que dá o nome ao verdadeiro sentido do Biu Ji segundo o Hai Tong.
