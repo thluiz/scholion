@@ -65,7 +65,7 @@ A inversão importa porque o Hai Tong faz uso dos dois. Quando o texto diz que, 
 
 ### Dispositivo e Jiu Sik 招式
 
-Claudio levantou se *to kuen* tem a ver com o termo *dispositivo* que Si Gung usa. Si Fu desfez a equivalência. O termo *dispositivo*, no vocabulário de Si Gung, substitui *técnica*. Técnica tem relação direta com a anatomia do gesto e seu uso utilitário: a chave de fenda gira na fenda; o soco serve para socar. Dispositivo está disposto a outras coisas, no plural, e não a uma coisa só. Aponta para fora do uso direto (TODO criar nota: Kuen Kuit "a mão que ataca também defende").
+Claudio levantou se *to kuen* tem a ver com o termo *dispositivo* que Si Gung usa. Si Fu desfez a equivalência. O termo *dispositivo*, no vocabulário de Si Gung, substitui *técnica*. Técnica tem relação direta com a anatomia do gesto e seu uso utilitário: a chave de fenda gira na fenda; o soco serve para socar. Dispositivo está disposto a outras coisas, no plural, e não a uma coisa só. Aponta para fora do uso direto, na linha do Kuen Kuit [打手即消手](/notes/kuen-kuit-da-sau-jik-siu-sau/) (*Da Sau Jik Siu Sau*): a mesma mão que ataca já dispersa.
 
 *Jiu sik* [招](/notes/etimologia-de-jiu-zhao-62db/)[式](/notes/etimologia-de-sik-shi-5f0f/) é a expressão chinesa que costuma ser traduzida por "técnica". O caractere 招 *jiu* tem o radical de mão (手) e fonético 召 (chamar); o [Shuowen Jiezi](/notes/etimologia-de-jiu-zhao-62db/) define como "chamar com a mão", e o 段注 reforça: não com a boca, mas com a mão. *Jiu* não é o gesto inerte, é o gesto que chama. O composto *jiu sik* não diz "forma-técnica" no sentido de procedimento útil; diz "gesto-que-chama em uma forma".
 
