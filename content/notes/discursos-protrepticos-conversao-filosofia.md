@@ -14,3 +14,11 @@ sources:
 **00:07:18** — Discursos protrépticos e a conversão à filosofia
 
 Os discursos protrépticos são textos cujo objetivo é convencer à prática da filosofia, levando o ouvinte ou leitor a adotar um certo modo de vida — referências como Epicteto, Diocrisóstomo, Luciano de Samóstata e o imperador Juliano servem para traçar o perfil do filósofo ideal. A vida e a disposição interior são mais importantes que a aparência típica da época, que envolvia roupas gastas, manto surrado, barba longa, sandálias, cajado e cabelo comprido. A adoção da filosofia podia dar-se por escolha pessoal ou como resposta a um chamamento divino: o filósofo era alguém que literalmente se convertia à filosofia, de modo semelhante a uma conversão religiosa. Santo Agostinho, por exemplo, converteu-se primeiro à filosofia através da leitura de Cícero, e só depois ao cristianismo.
+
+---
+
+**Pesquisa viva**: [discursos-protrepticos](/research/discursos-protrepticos) — direções a explorar:
+
+1. Cânone do gênero (Aristóteles, *Hortensius* de Cícero, Jâmblico, Clemente, Galeno)
+2. Textos com função protréptica (Platão *Eutidemo*, Epicteto *Diatribes*, Boécio)
+3. Pergunta protréptica no século XXI (Hadot, Foucault, Nussbaum, MacIntyre)
