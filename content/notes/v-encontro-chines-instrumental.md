@@ -95,6 +95,6 @@ Apareceu uma anedota sobre uma loja de travesseiro em que o vendedor norte-ameri
 
 Para fechar, foi sugerido como exercício prático o costume de assistir filme chinês com os olhos abertos para os ideogramas que aparecem em placas, cartazes e legendas de fundo. Funciona como o sinal de *stop* nas ruas: depois de visto algumas vezes, lê-se sem precisar parar para soletrar. Na semana anterior, ao ver *Weekends in Taipei*, foi possível identificar uma placa de colégio só pela combinação de radicais e contexto, sem ter o léxico completo.
 
-Si Fu retomou também uma sugestão de [Clóvis de Barros Filho](https://www.youtube.com/watch?v=TRPBY_lxJfE): ler textos parando, pedaço por pedaço, extraindo o sentido antes de avançar. A premissa é que o autor se deu o trabalho de escrever e o trabalho do leitor é entender, não decorar nem voar. Pitágoras formulou o teorema; quem chega depois só precisa entender. 
+Si Fu retomou também uma sugestão de [Clóvis de Barros Filho](/notes/clovis-de-barros-brio/): ler textos parando, pedaço por pedaço, extraindo o sentido antes de avançar. A premissa é que o autor se deu o trabalho de escrever e o trabalho do leitor é entender, não decorar nem voar. Pitágoras formulou o teorema; quem chega depois só precisa entender. 
 
 A próxima aula deve voltar ao Biu Ji propriamente dito, em particular ao *ji nam cham* 指南針, a bússola que dá o nome ao verdadeiro sentido do Biu Ji segundo o Hai Tong.
