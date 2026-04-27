@@ -89,7 +89,7 @@ O trecho do Hai Tong fecha dizendo que, com o auxílio do primeiro e do segundo 
 
 A última parte do encontro retomou o sentido da palavra *instrumental* no nome da série. Cantonês instrumental, ou Chinês instrumental, é instrumental porque aponta para a prática. Não é estudo de língua pelo prazer da língua; é ferramenta para que o praticante de Ving Tsun, em conversa com discípulo, possa usar os termos com lastro. Si Fu insistiu em três pontos: entender o Mandarim como raiz oficial e o Cantonês como variação social, sem se trancar no gueto do Kung Fu; ter ideia da estrutura linguística (qualificador antes, exceções culturais como nas relações familiares); e olhar o ideograma sem medo, sem decorar como bloco.
 
-Apareceu uma anedota sobre uma loja de travesseiro em que o vendedor norte-americano comentou que o Inglês tem sete qualificadores em ordem fixa, e que inverter a ordem soa errado mesmo sem que ninguém saiba explicar a regra (TODO criar nota: regra da ordem fixa dos qualificadores em Inglês, já ouvida em mais de um local); o ouvido do nativo carrega a regra. O Chinês tem padrões equivalentes, com exceções, e a meta do Chinês instrumental não é dominá-los todos, mas reconhecer que existem.
+Apareceu uma anedota sobre uma loja de travesseiro em que o vendedor norte-americano comentou que o Inglês tem sete qualificadores em ordem fixa, e que inverter a ordem soa errado mesmo sem que ninguém saiba explicar a regra ([A ordem dos adjetivos em Inglês](/notes/ordem-dos-adjetivos-em-ingles/)); o ouvido do nativo carrega a regra. O Chinês tem padrões equivalentes, com exceções, e a meta do Chinês instrumental não é dominá-los todos, mas reconhecer que existem.
 
 ### Estudar ideogramas no cotidiano
 
