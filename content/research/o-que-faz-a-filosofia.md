@@ -9,8 +9,8 @@ toc: true
 
 ## Estado
 
-- **Em foco**: ainda não definido.
-- **Próximo**: a confirmar na próxima sessão. Candidatos abaixo.
+- **Em foco**: Jaspers, *Einführung in die Philosophie* — direção 7.
+- **Próximo**: a confirmar após Jaspers. Deleuze/Guattari (direção 5) é o candidato natural seguinte, pelo contraste.
 - Pesquisas-irmãs: [Ontologia](/research/ontologia), [Heidegger](/research/heidegger), [Wittgenstein](/research/wittgenstein).
 
 ## Motivação
@@ -57,6 +57,12 @@ Filosofia não é uma ciência entre outras. Detalhes na pesquisa de [Heidegger]
 ### 6. Posições negativas / anti-filosofia
 
 Carnap, Quine, Wittgenstein do *Tractatus*: filosofia se reduz a análise lógica, ou se cala. Sokal/Bricmont como crítica externa moderna.
+
+### 7. Jaspers — filosofia como caminho, por contraste com a ciência
+
+*Einführung in die Philosophie* (1950, conferências radiofónicas em Basileia). 12 conferências curtas que abrem pela pergunta "o que é filosofia?". Define filosofia negativamente contra a ciência (sem progresso, sem resultado universalmente vinculante) e positivamente pelas fontes do filosofar: espanto, dúvida, situações-limite (*Grenzsituationen*). Filosofia está sempre *unterwegs* — a caminho.
+
+⚠ Reconstruído de memória; verificar contra o texto. Edição a determinar (alemão, inglês ou tradução portuguesa).
 
 ## Notas do Scholion já relacionadas
 
