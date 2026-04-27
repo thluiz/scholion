@@ -18,4 +18,4 @@ Quem não tem brio diz "isso aí é para dois ou três" e desiste.
 
 Quem tem brio se incomoda com a própria incapacidade de entender uma frase, e volta. Relê trinta vezes a mesma frase, se preciso. Clóvis conta de uma frase de Bourdieu que leu trinta vezes na cozinha de madrugada, para não acordar Joaquim Barbosa, colega de quarto na época.
 
-A pedagogia que diz "esse texto é difícil demais para você" infantiliza. Pensar com competência é tão esforçado quanto correr, exige sentar a bunda na cadeira.
+A pedagogia que diz "esse texto é difícil demais para você" infantiliza. Pensar com competência é tão esforçado quanto correr, exige sentar a bunda na cadeira e trabalhar. Se treinar a desbravar mesmo os mais áridos desertos do saber.
