@@ -59,4 +59,4 @@ Mestre Guilherme expôs preocupação com o retorno financeiro. Da vinda do Si F
 
 ### Devolutiva e o princípio do Antunes
 
-Thiago pediu que os Si Hing comentem os textos que ele já compartilhou. Mestre Claudio prometeu enviar comentário escrito. Daí veio um princípio que Thiago disse ter aprendido com Si Baak Queiroz: responder à pessoa na mesma medida (o que inclui o formato) em que ela se manifesta: "Texto recebido, texto devolvido. Áudio, áudio. Vídeo, vídeo. Dois minutos viram dois minutos."
+Thiago pediu que os Si Hing comentem os textos que ele já compartilhou. Mestre Claudio prometeu enviar comentário escrito. Daí veio um princípio que Thiago disse ter aprendido com Si Baak Queiroz: responder à pessoa na mesma medida (o que inclui o formato) em que ela se manifesta: *"Texto recebido, texto devolvido. Áudio, áudio. Vídeo, vídeo. Dois minutos viram dois minutos."*
