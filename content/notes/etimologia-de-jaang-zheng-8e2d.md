@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 踭 (Jaang — Zhēng / zaang1)"
 date: '2026-04-25T00:13:27+01:00'
-summary: "Análise etimológica de 踭 (Zhēng / zaang1), 'calcanhar; cotovelo'. Caractere dialetal cantonês/hakka, ausente do Shuowen, do Guangyun e do Kangxi — Wiktionary o trata como variante gráfica de 㬹 (U+3B39), forma padrão registrada no Kangxi (p. 986/14) e no Hanyu Da Zidian (3-2089-05). 踭 figura no HDZ em 6-3717-08. Composição fonossemântica: 足 (pé, semântico) + 爭 (zhēng, fonético; simplificado para 争 na RPC). 15 traços (tradicional) / 13 (simplificado). No léxico marcial cantonês do Ving Tsun, 踭 designa o cotovelo — articulação pontiaguda ativa no combate. Aparece em Gam Jaang 冚踭 (técnica de Biu Ji citada por Moy Yat no Hai Tong). Compostos do lexema com a variante padrão 㬹 (手㬹, 腳㬹, 鞋㬹, 高㬹鞋) mostram seu uso vernacular além do registro marcial."
+summary: "Análise etimológica de 踭 (Zhēng / zaang1), 'calcanhar; cotovelo'. Caractere dialetal cantonês/hakka, ausente do Shuowen, do Guangyun e do Kangxi — Wiktionary o trata como variante gráfica de 㬹 (U+3B39), forma padrão registrada no Kangxi (p. 986/14) e no Hanyu Da Zidian (3-2089-05). 踭 figura no HDZ em 6-3717-08. Composição fonossemântica: 足 (pé, semântico) + 爭 (zhēng, fonético; simplificado para 争 na RPC). 15 traços (tradicional) / 13 (simplificado). No léxico marcial cantonês do Ving Tsun, 踭 designa o cotovelo — articulação ativa no combate. Aparece em Gam Jaang 冚踭 (técnica de Biu Ji citada por Moy Yat no Hai Tong). Compostos do lexema com a variante padrão 㬹 (手㬹, 腳㬹, 鞋㬹, 高㬹鞋) mostram seu uso vernacular além do registro marcial."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 category: etymology
@@ -45,7 +45,7 @@ sources:
 2. (cantonês/hakka) *"rear part of a limb; elbow or heel"*
 3. (cantonês/hakka) *"heel of a shoe"*
 
-**[CantoDict](https://www.cantonese.org/search.php?q=踭)**: *zaang1* (tom 1) — cotovelo; calcanhar (no léxico cantonês, o mesmo caractere cobre ambas as articulações "de canto agudo").
+**[CantoDict](https://www.cantonese.org/search.php?q=踭)**: *zaang1* (tom 1) — cotovelo; calcanhar (no léxico cantonês, o mesmo caractere cobre ambas as articulações da parte posterior do membro — uso confirmado por Wiktionary, que define 㬹/踭 como *"rear part of a limb; elbow or heel"*).
 
 **[chardb — Academia Sinica](https://chardb.iis.sinica.edu.tw/search.jsp?stype=1&q=踭)** (referenciando *Hanyu Da Zidian* 6-3717-08):
 1. 方言。腳跟 (dialetal: calcanhar)
@@ -66,7 +66,7 @@ Os principais compostos do lexema atestam-se sobretudo com 㬹: 手㬹 (cotovelo
 Composto fonossemântico (形聲): 足 zú (pé, semântico) + 爭 zhēng (contender, fonético).
 Forma simplificada (RPC): 足 + 争 (variante simplificada de 爭, 6 traços).
 
-O radical 足 registra a etimologia anatômica — originalmente "calcanhar". A extensão para "cotovelo" no cantonês/hakka é por **analogia anatômica**: ambos são articulações pontiagudas com função estrutural semelhante (apoio, alavancagem). A variante 㬹, com radical 月 (carne), representa o mesmo lexema sob outra perspetiva (parte carnal do membro).
+O radical 足 registra a etimologia anatômica — originalmente "calcanhar". A extensão para "cotovelo" no cantonês/hakka é por **analogia anatômica**: ambos são articulações posteriores do membro (cotovelo: braço; calcanhar: perna), com função estrutural de apoio e alavancagem. A variante 㬹, com radical 月 (carne), representa o mesmo lexema sob outra perspetiva (parte carnal do membro).
 
 #### Shuowen Jiezi
 
