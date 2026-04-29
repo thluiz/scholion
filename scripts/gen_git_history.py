@@ -71,8 +71,26 @@ def main():
                 count += 1
         if count:
             print(f"Updated history for {count} staged note(s).")
+    elif "--range" in sys.argv:
+        idx = sys.argv.index("--range")
+        rev_range = sys.argv[idx + 1]
+        result = subprocess.run(
+            ["git", "diff", "--name-only", "--diff-filter=ACMR", rev_range, "--",
+             "content/notes", "content/research"],
+            capture_output=True, text=True, encoding="utf-8", errors="replace", cwd=ROOT,
+        )
+        count = 0
+        for line in result.stdout.strip().splitlines():
+            p = Path(line)
+            if p.parts[:2] in CONTENT_PREFIXES and p.suffix == ".md" and p.name != "_index.md":
+                full = ROOT / p
+                if full.exists():
+                    process(full)
+                    count += 1
+        if count:
+            print(f"Updated history for {count} note(s) in {rev_range}.")
     else:
-        print("Usage: gen_git_history.py --all | --staged", file=sys.stderr)
+        print("Usage: gen_git_history.py --all | --staged | --range REV1..REV2", file=sys.stderr)
         sys.exit(1)
 
 

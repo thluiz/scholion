@@ -1,13 +1,33 @@
 #!/bin/sh
-# Pre-push hook: regenerate git history JSONs and commit them so they ship on
-# the next push. The current push is already resolved; new JSONs do not make it
-# into this push, but the commit stays on the local branch for the next push.
+# Pre-push hook: regenerate git history JSONs only for notes touched in the
+# range being pushed, then commit so they ship on the next push. The current
+# push is already resolved; new JSONs do not make it into this push, but the
+# commit stays on the local branch for the next push.
 # Copy to .git/hooks/pre-push:
 #   cp scripts/pre-push .git/hooks/pre-push
 #   chmod +x .git/hooks/pre-push
 
 PYTHON=$(command -v py || command -v python || command -v python3)
-"$PYTHON" scripts/gen_git_history.py --all
+zero="0000000000000000000000000000000000000000"
+
+ranges=""
+while read local_ref local_oid remote_ref remote_oid; do
+    [ "$local_oid" = "$zero" ] && continue
+    if [ "$remote_oid" = "$zero" ]; then
+        # New branch: fall back to merge-base with origin/main, or last 20 commits.
+        base=$(git merge-base "$local_oid" origin/main 2>/dev/null) || base="${local_oid}~20"
+        ranges="$ranges $base..$local_oid"
+    else
+        ranges="$ranges $remote_oid..$local_oid"
+    fi
+done
+
+# Fallback when invoked manually (no stdin): last commit only.
+[ -z "$ranges" ] && ranges="HEAD~1..HEAD"
+
+for range in $ranges; do
+    "$PYTHON" scripts/gen_git_history.py --range "$range"
+done
 
 if ! git diff --quiet -- data/git_history/; then
     git add data/git_history/
