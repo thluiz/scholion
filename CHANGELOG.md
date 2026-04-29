@@ -5,6 +5,16 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
+## [0.5.2] — 2026-04-29
+
+### Melhorado
+
+- **Hook pre-push usa a faixa do push**, não `--all`. Lê `local_oid`/`remote_oid`
+  do stdin e passa `--range <remote>..<local>` para `gen_git_history.py`, que
+  regenera JSON apenas dos notes alterados na faixa. Com 644 notas, o hook caiu
+  de ~2m15s para sub-segundo em pushes típicos. Fallback para `merge-base com
+  origin/main` em branch nova; `HEAD~1..HEAD` se rodado manualmente sem stdin.
+
 ## [0.5.1] — 2026-04-23
 
 ### Corrigido

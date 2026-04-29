@@ -148,7 +148,7 @@ cp scripts/pre-push .git/hooks/pre-push
 chmod +x .git/hooks/pre-push
 ```
 
-Antes de cada push, o hook roda `gen_git_history.py --all`. Se houver mudança, faz um commit `chore: update git history`. Esse commit só sobe no *próximo* push (o push atual já tem as refs resolvidas). Implicação: uma nota nova estreia sem histórico no site e só ganha a linha de mudança no push seguinte.
+Antes de cada push, o hook lê a faixa de commits sendo enviada (via stdin do git) e roda `gen_git_history.py --range <remote>..<local>`, regenerando JSON apenas dos notes alterados nessa faixa. Se houver mudança, faz um commit `chore: update git history`. Esse commit só sobe no *próximo* push (o push atual já tem as refs resolvidas). Implicação: uma nota nova estreia sem histórico no site e só ganha a linha de mudança no push seguinte.
 
 Para forçar atualização imediata, rodar manualmente:
 
