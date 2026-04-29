@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 馬 (Ma — Mǎ / maa5)"
 date: '2026-04-22T11:00:00+01:00'
-summary: "Análise etimológica de 馬 (Mǎ / maa5), 'cavalo'. Pictograma íntegro. Shuowen: 怒也，武也 ('fúria; marcialidade') — leitura associativa. 段注 cita o 釋名 ligando ao 大司馬 (Grande Mestre dos Cavalos), cargo marcial. Sete fontes consultadas."
+summary: "Análise etimológica de 馬 (Mǎ / maa5), 'cavalo'. Pictograma íntegro. Shuowen: 怒也，武也 ('fúria; marcialidade') — leitura associativa. 段注 cita o 釋名 ligando ao 大司馬 (Grande Mestre dos Cavalos), cargo marcial. No jargão do Ving Tsun, Ma designa tanto a base do praticante quanto a estrutura que se forma no contato entre dois corpos (Chi Sao). Sete fontes consultadas."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 has_commentary: false
@@ -44,6 +44,13 @@ Forma simplificada: 马 (via escrita cursiva 草書).
 **CantoDict**: maa5 (tom 5, high rising). Composto 馬虎 maa1 fu1 — "descuidado".
 
 **chardb**: (a busca retornou lista de 648 caracteres relacionados sem ficha direta do caractere-alvo — dados verbatim não puderam ser extraídos.)
+
+### Uso marcial no Ving Tsun
+
+No léxico marcial cantonês do Ving Tsun, **Ma** (馬) tem dois sentidos técnicos sobrepostos:
+
+1. **A base do praticante** — a estrutura corporal de apoio: postura, distribuição de peso, raiz. É o que se trabalha em formas como 二字鉗羊馬 (Yi Ji Kim Yeung Ma).
+2. **A estrutura que se forma quando dois praticantes se tocam** — em Chi Sao, a configuração de contato passa a constituir um Ma único, sustentado pelos dois corpos; deixa de ser a base de cada um isoladamente, e os praticantes leem e respondem a essa estrutura conjunta em tempo real.
 
 ### Decomposição e formas antigas (hanziyuan)
 
