@@ -1,6 +1,6 @@
 ---
 name: research-chinese-etymology
-description: Pesquisa etimologia de caracteres chineses consultando 7 fontes académicas (MDBG, chardb/xiaoxue Academia Sinica, hanziyuan, shuowen.org, CantoDict). Checa se a nota já existe antes de pesquisar. Salva como `etimologia-de-*.md` no Scholion após preview aprovado.
+description: Pesquisa etimologia de caracteres chineses consultando 7 fontes acadêmicas (MDBG, chardb/xiaoxue Academia Sinica, hanziyuan, shuowen.org, CantoDict). Checa se a nota já existe antes de pesquisar. Salva como `etimologia-de-*.md` no Scholion após preview aprovado, em português brasileiro.
 argument-hint: "[caracteres] ex: 知友士"
 ---
 
@@ -179,6 +179,38 @@ IMPORTANTE: as divergências ficam DENTRO da secção de cada caractere (como `#
 3. **段注 Duan Yucai**: chinês original completo + inglês entre parênteses
 4. **Evolução de formas**: TUDO traduzido — dinastias, períodos, estados, scripts, artefatos (com pinyin)
 5. **Fonologia**: termos técnicos traduzidos (攝→division, 聲→tone, 韻→rhyme, 母→initial, 反切→fanqie, 等→grade, 開→open, 合→closed, 平→level, 上→rising, 去→departing, 入→entering)
+
+## Português brasileiro
+
+A prosa da nota — texto explicativo, divergências, decomposição, descrições de fontes — deve estar em **português brasileiro**. Glossário rápido das trocas mais comuns:
+
+| ❌ PT-PT | ✅ PT-BR |
+|---------|---------|
+| registado / regista / registam | registrado / registra / registram |
+| registo | registro |
+| polissémica | polissêmica |
+| icónico/a | icônico/a |
+| anatómico/a | anatômico/a |
+| carácter (sentido tipográfico) | caractere |
+| dialectologia | dialetologia |
+| ficheiro | arquivo |
+| secção / subsecção | seção / subseção |
+| standard (anglicismo) | padrão |
+| "o seu vocabulário" (artigo + possessivo) | "seu vocabulário" |
+| consoante | conforme |
+
+Não traduzir termos técnicos chineses (Shuowen, fanqie, 段注, etc.) nem o vocabulário linguístico de origem latina universal (radical, fonético, semântico, dialeto, fonossemântico).
+
+## Datação sem fonte
+
+Para caracteres ausentes do corpus filológico clássico (Shuowen, Guangyun, Kangxi), **não atribuir datação histórica como fato** ("Ming–Qing", "atestação mais antiga é tardia", "criação recente") a menos que uma fonte concreta consultada o sustente. Quando a inferência for razoável mas não verificada, marcá-la explicitamente como tal.
+
+- ❌ "A atestação mais antiga de uso escrito é tardia (Ming–Qing em textos cantoneses regionais)."
+- ❌ "É composto semântico puro de criação recente."
+- ✅ "Atestação mais antiga datável: requer estudo de corpus cantonês vernacular (não verificada nas fontes consultadas)."
+- ✅ "Provavelmente criação letrada cantonesa tardia — inferência a partir do registro 方言, sem datação direta nas fontes."
+
+A observação positiva que sempre pode ser feita com segurança: "ausente do *Shuowen* (Han), *Guangyun* (Song), *Kangxi Zidian* (Qing); presente apenas em referência moderna como o *Hanyu Da Zidian*, sob etiqueta 方言."
 
 ## Playwright — scripts e infra
 
