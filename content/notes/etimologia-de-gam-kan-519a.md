@@ -28,43 +28,43 @@ sources:
   kind: wiki
 ---
 
-### 冚
+## 冚 (Gam)
 
 **冚** — U+519A · 部首 radical: 冂 · 總筆畫 strokes: 5 · 注音 zhuyin: ㄎㄢˇ · 拼音 pinyin: kǎn · jyutping: gam2 / ham6 / kam2
 
-**Nota**: caractere dialetal cantonês, não pertencente ao corpus filológico clássico.
+É o Gam em **Gam Jaang** (冚踭) — "cobrir o cotovelo", técnica do [Biu Ji](/notes/etimologia-de-biu-ji-biao-zhi/) citada por Moy Yat na epígrafe do *Hai Tong*. Caractere dialetal cantonês, sem registro no corpus filológico clássico.
 
-#### Definições
+### Definições
 
-**MDBG**: (não retornou dados — 冚 não consta da MDBG)
+**[MDBG](https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=%E5%86%9A)**: busca retorna *"No results found"* — 冚 marcado como *[Not in dictionary]*.
 
-**CantoDict**: Três leituras distintas por acepção:
+**[CantoDict](https://www.cantonese.org/search.php?q=%E5%86%9A)**: três leituras distintas por acepção:
 - *gam2* — cobrir, fechar (de maneira física — cobrir algo com um pano, tampa)
 - *ham6* — abranger, englobar (ex: ham6 baang6 laang6 "tudo/completamente")
-- *kam2* — cobrir, tampar (similar a gam2)
+- *kam2* — cobrir, tampar; também em compostos coloquiais como 冚檔 kam2 dong3 ("dar batida policial") e 冚家 kam2 gaa1 ("família inteira")
 
-Moy Yat usa "gam" (correspondente a gam2) no Hai Tong.
-
-**chardb [Academia Sinica](https://chardb.iis.sinica.edu.tw/search.jsp?stype=1&q=冚)**:
+**[chardb — Academia Sinica](https://chardb.iis.sinica.edu.tw/search.jsp?stype=1&q=冚)**:
 1. 方言。蓋 (termo dialetal: cobrir; tampa)
 
-Definição única, assinalada explicitamente como 方言 ("dialetal").
+Definição única, marcada explicitamente como 方言 ("dialetal"). A entrada do chardb cita o *Hanyu Da Zidian* 1-0303-02 — 冚 figura no maior dicionário compreensivo do chinês moderno, mas sempre sob a etiqueta "dialetal".
 
-#### Decomposição
+**[zdic.net](https://www.zdic.net/hans/冚)** confirma a mesma marcação: "方言，盖：把被～好" — única acepção, dialetal.
+
+### Decomposição
 
 Componentes: 冖 mì (cobertura/capa, acima) + 一 yī (horizontal, embaixo)
 
-O pictograma é iconicamente direto: uma cobertura/capa (冖) sobre uma linha (一 — superfície/objeto). Representa o ato de cobrir algo. Diferente da maioria dos caracteres analisados, **não há fonético**; é composto semântico puro de criação recente.
+O pictograma é iconicamente direto: uma cobertura/capa (冖) sobre uma linha (一 — superfície/objeto). Representa o ato de cobrir algo. Diferente da maioria dos caracteres analisados, **não há fonético**; é composto semântico puro, criação letrada cantonesa tardia (Ming–Qing ou posterior).
 
-#### Shuowen Jiezi
+### Shuowen Jiezi
 
-**Não consta**. 冚 é caractere dialetal cantonês pós-clássico — ausente do Shuowen (Han), Guangyun (Song), Kangxi (Qing). A atestação mais antiga de uso escrito é tardia (Ming-Qing em textos cantoneses regionais). Sem 段玉裁注.
+**Não consta**. 冚 é caractere dialetal cantonês pós-clássico — ausente do *Shuowen* (Han), *Guangyun* (Song), *Kangxi Zidian* (Qing). Tanto a [verificação no zdic.net](https://www.zdic.net/hans/冚) (que normalmente agrega esses três corpora) quanto o [chardb da Academia Sinica](https://chardb.iis.sinica.edu.tw/search.jsp?stype=1&q=冚) confirmam a ausência: a única atestação lexicográfica que o chardb oferece é o *Hanyu Da Zidian* moderno (1-0303-02), cujo verbete justamente classifica o caractere como 方言. A atestação mais antiga de uso escrito é tardia (Ming–Qing em textos cantoneses regionais). Sem 段玉裁注.
 
-#### Evolução de formas
+### Evolução de formas
 
-**Ausência total em paleografia clássica**: xiaoxue yanbian retorna zero resultados. Nenhuma atestação em oracle bones, bronzes, seal, bambu ou estelas Han. É caractere dialetal posterior.
+**Ausência total em paleografia clássica**: o [小學堂 (xiaoxue) yanbian](https://xiaoxue.iis.sinica.edu.tw) retorna zero resultados para 冚. Nenhuma atestação em ossos oraculares, bronzes, selo, bambu ou estelas Han. Caractere dialetal posterior.
 
-#### Fonologia
+### Fonologia
 
 **中古音 Middle Chinese**: (查無資料 — não consta do Guangyun)
 
@@ -75,21 +75,19 @@ O pictograma é iconicamente direto: uma cobertura/capa (冖) sobre uma linha (�
 - Cantonês: gam2, ham6, kam2 (três leituras por acepção)
 - Hakka: ham3
 
-Cada leitura cantonesa tende a cobrir um campo semântico específico — em Moy Yat, "gam" em 冚踭 (gam jaang) é o gesto de "cobrir/tapar com o cotovelo".
+Cada leitura cantonesa cobre um campo semântico específico — em Moy Yat, "gam" em 冚踭 (gam jaang) é o gesto de "cobrir o cotovelo".
 
-#### Divergências entre fontes
+### Divergências entre fontes
 
-**Ausência na tradição filológica clássica**: Esta é a característica mais marcante de 冚. Nem o Shuowen, nem o Guangyun, nem o Kangxi registam o caractere. MDBG não tem entrada. Apenas chardb (com nota 方言 "dialetal") e CantoDict (por ser o léxico cantonês) preservam-no. Isto situa 冚 como caractere de **registo estritamente regional** — provavelmente criação letrada cantonesa tardia (Ming-Qing ou posterior) para representar um som/gesto dialetal.
+**Ausência na tradição filológica clássica**: esta é a característica mais marcante de 冚. As três grandes obras lexicográficas — *Shuowen Jiezi* (Han), *Guangyun* (Song), *Kangxi Zidian* (Qing) — não registram o caractere; a verificação no [zdic.net](https://www.zdic.net/hans/冚), que agrega esses corpora, retorna apenas a definição moderna marcada 方言. O [MDBG](https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=%E5%86%9A) explicitamente devolve *No results found*. Apenas o [chardb da Academia Sinica](https://chardb.iis.sinica.edu.tw/search.jsp?stype=1&q=冚) (sob etiqueta 方言) e o [CantoDict](https://www.cantonese.org/search.php?q=%E5%86%9A) o preservam. Isto situa 冚 como caractere de **registro estritamente regional** — provavelmente criação letrada cantonesa tardia (Ming–Qing ou posterior) para representar um som/gesto dialetal.
 
-**Múltiplas leituras cantonesas por acepção**: Cantonês distingue três leituras:
+**Múltiplas leituras cantonesas por acepção**: cantonês distingue três leituras:
 - gam2 para "cobrir fisicamente"
 - ham6 para "englobar completamente"
 - kam2 para "cobrir/tampar"
 
-A multiplicidade sugere que 冚 é grafia polissémica para vários lexemas cantoneses aparentados, não um único lexema. A tradição escrita cantonesa usa 冚 ambiguamente conforme contexto.
+A multiplicidade sugere que 冚 é grafia polissêmica para vários lexemas cantoneses aparentados, não um único lexema. A tradição escrita cantonesa usa 冚 ambiguamente conforme contexto.
 
-**Pictograma icónico sem fonético**: 冖+一 é construção puramente icónica. Não há etimologia fonossemântica a reconstruir. Isto é típico de caracteres dialetais modernos, criados em regime gráfico distinto do seal/clerical clássico.
+**Pictograma icônico sem fonético**: 冖+一 é construção puramente icônica. Não há etimologia fonossemântica a reconstruir. Isto é típico de caracteres dialetais modernos, criados em regime gráfico distinto do seal/clerical clássico.
 
-**Gam Jaang 冚踭 no Hai Tong**: Moy Yat cita 冚踭 (gam jaang) como técnica central do Biu Ji na epígrafe. 冚 ativa o sentido físico concreto — "cobrir com o cotovelo" (jaang 踭, "cotovelo" — também caractere dialetal cantonês). A combinação revela o léxico técnico do Ving Tsun como entranhado no cantonês regional: a terminologia marcial usa caracteres dialetais (冚, 踭) não registáveis no mandarim padrão.
-
-**Relação com caracteres clássicos sinónimos**: O sentido "cobrir" é coberto em chinês clássico por 蓋 (gài), 覆 (fù), 掩 (yǎn). 冚 não tem equivalente cognato atestado; é inovação gráfica regional. Tratamento análogo ao de 踭 (próxima nota) — caracteres técnicos do Ving Tsun grafados em forma cantonesa.
+**Léxico marcial cantonês irredutível ao mandarim**: o par 冚 + [踭](/notes/etimologia-de-jaang-zheng-8e2d/) — ambos dialetais cantoneses — em **Gam Jaang 冚踭** mostra que a terminologia técnica do Ving Tsun não pode ser cabalmente transcrita no léxico mandarim padrão; depende do cantonês regional. Em chinês clássico, "cobrir" é coberto por 蓋 (gài), 覆 (fù), 掩 (yǎn); 冚 não tem equivalente cognato atestado, sendo inovação gráfica regional. Tratamento análogo ao de [踭](/notes/etimologia-de-jaang-zheng-8e2d/) — caracteres técnicos do Ving Tsun grafados em forma cantonesa.
