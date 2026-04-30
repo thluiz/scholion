@@ -7,7 +7,7 @@ has_commentary: true
 sources: []
 ---
 
-Anotações do sexto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O encontro retomou a advertência da aula anterior sobre dicionários e IA, entrou no [Biu Ji](/notes/etimologia-de-biu-ji-biao-zhi/) 標指 pelas duas expressões do Hai Tong, 標準[指南針](/notes/etimologia-de-jam-zhen-91dd/) (que o nome 標指 abrevia) e 借喻指南針 (a leitura correta segundo Si Taai Gung), decupou as duas expressões em circulação na família, bússola padrão (de Si Gung) e bússola de alta precisão (cunhada por Si Fu), recolocou o Biu Ji como técnica de emergência reabrindo o termo, e fechou com a contraposição entre uma decupação etimológica que viaja e outra que funciona.
+Anotações do sexto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O encontro retomou a advertência da aula anterior sobre dicionários e IA, e entrou no [Biu Ji](/notes/etimologia-de-biu-ji-biao-zhi/) 標指 pelas duas expressões que o Hai Tong registra: 標準[指南針](/notes/etimologia-de-jam-zhen-91dd/), de que 標指 é abreviatura, e 借喻指南針, a leitura correta segundo Si Taai Gung. Apareceu a história da bússola padrão (de Si Gung) e da bússola de alta precisão (cunhada por Si Fu), e voltou a discussão sobre o Biu Ji como técnica de emergência.
 
 ### Verdade canônica e coerência relacional
 
@@ -61,7 +61,7 @@ Construir um pensamento sobre uma evolução pré-histórica do ideograma sem an
 
 A leitura mais próxima da imagem que apareceu na conversa vem da decomposição do componente fonético. 標 se compõe de 木 (árvore) e 票 (*piào*, fonético), e o próprio 票 decompõe-se em 示 + 𤐫, onde 𤐫 carrega a imagem de fogo aquecendo a mão. Há fogo no ideograma, então, dentro do componente fonético, no sentido de aquecer a mão, e não como chama na ponta da árvore. A decomposição é de hanziyuan (Richard Sears), não da tradição comentarial chinesa.
 
-A 段注 de [Duan Yucai](/notes/etimologia-de-jaam-zhan-65ac/) 段玉裁 (século XIX, comentador do Shuowen Jiezi) trabalha em outra direção: sustenta a equivalência 標 = 表 = 剽 ("marca sutil") e fixa o sentido primário em "ponta fina dos galhos" (木杪末), de onde vem a extensão para "destacar" (標舉) e "marca" (標志).
+A 段注 de [Duan Yucai](/notes/duan-yucai-shuowen-jiezi-zhu/) 段玉裁 (século XIX, comentador do Shuowen Jiezi) trabalha em outra direção: sustenta a equivalência 標 = 表 = 剽 ("marca sutil") e fixa o sentido primário em "ponta fina dos galhos" (木杪末), de onde vem a extensão para "destacar" (標舉) e "marca" (標志).
 
 O exercício que Si Fu reconheceu como certo foi outro: tentar conectar o que ele falou com o que está escrito, porque alguma verdade tem nos dois lados. A pesquisa serve para acumular repertório, não para substituir uma fonte por outra.
 
@@ -79,7 +79,7 @@ Apareceu na aula uma reformulação alternativa, vinda do estudo dentro da prát
 
 Si Fu acolheu a leitura mas advertiu contra um delírio de superpotência embutido nela. Quando se diz que a base ficou tão consistente que ela é a referência para a qual se volta com segurança, subentende-se controle sobre tudo. Situações vão acontecer sem que a pessoa as escolha. O exemplo recorrente é o teto que cai na cabeça: emergência radical, não calculada por ninguém.
 
-O Biu Ji atende as duas pontas. De um lado, o improviso calculado: o momento em que se estende o limite no [Yi Maa](/notes/cham-kiu-moy-yat-atravessar-a-ponte-curta/), o disparo do cotovelo no Gwai Jaang 跪踭, o pé jogado para frente na ponta como um [piu](/notes/etimologia-de-biu-ji-biao-zhi/), o Sam Pai Fat caindo para trás com a base subindo. Cada um deles é desafio escolhido. Se o tornozelo sobe ou se o quadril perde linha, isso é parte do experimento.
+O Biu Ji atende as duas pontas. De um lado, o improviso calculado: o momento em que se estende o limite no Yi Maa, o disparo do cotovelo no Gwai Jaang 跪踭, o pé jogado para frente na ponta como um [piu](/notes/etimologia-de-biu-ji-biao-zhi/), o Sam Pai Fat caindo para trás com a base subindo. Cada um deles é desafio escolhido. Se o tornozelo sobe ou se o quadril perde linha, isso é parte do experimento.
 
 De outro lado, o que não se escolhe. A linha central ocupada por algo que veio de fora, o cenário que muda, o teto que desaba. O Biu Ji opera nessas duas pontas com o mesmo material gestual.
 
@@ -97,7 +97,7 @@ Como contraponto à viajada do fogo no Biu, Si Fu mostrou um ideograma que se de
 
 A decupação se sustenta no próprio traço. À esquerda, o radical 彳, de pessoa em movimento. À direita, em cima, 十 (dez), no meio 目 (olho), embaixo 心 (coração). A leitura padrão é "dez olhos abaixam o coração": observa-se o mundo por todas as vias, e isso atualiza o coração.
 
-O composto [Mo Tak](/notes/moy-mo-tak/) 武德, que Si Gung traduzia como "poder pessoal", lê-se na verdade como poder marcial. *Mo* 武 é marcial; o que vem depois é o domínio que se constitui dentro do marcial. A tradução para "poder pessoal" desloca a ênfase de modo que a tradução literal não autoriza.
+O composto Mo Tak 武德, que Si Gung traduzia como "poder pessoal", lê-se na verdade como poder marcial. *Mo* 武 é marcial; o que vem depois é o domínio que se constitui dentro do marcial. A tradução para "poder pessoal" desloca a ênfase de modo que a tradução literal não autoriza.
 
 No Tak, a decupação encontra os componentes alinhados, com som coerente e sentido cumulativo. No Biu, a tentativa de encontrar fogo num fragmento não-radical do ideograma exige uma evolução pré-histórica especulativa que se desconecta da transmissão.
 
