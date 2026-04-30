@@ -59,7 +59,9 @@ Si Fu desfez o caminho. O som dos dois ideogramas, em cantonês, é diferente: �
 
 Construir um pensamento sobre uma evolução pré-histórica do ideograma sem ancoragem na transmissão é o que Si Fu chamou de viajada. Pode até existir e algum colástico defender, mas o resultado distancia da base. A regra prática é saber parar a pesquisa antes de desconectar.
 
-A leitura mais aceita, vinda da tradição comentarial chinesa, é a de [Duan Yucai](/notes/etimologia-de-jaam-zhan-65ac/) 段玉裁 (século XIX, comentador do Shuowen Jiezi), que liga o Biu ao Piau, o programa inteiro do Biu Ji. Há fogo aí, mas no sentido de "aquecer a mão", não no sentido literal de chama.
+A leitura mais próxima da imagem que apareceu na conversa vem da decomposição do componente fonético. 標 se compõe de 木 (árvore) e 票 (*piào*, fonético), e o próprio 票 decompõe-se em 示 + 𤐫, onde 𤐫 carrega a imagem de fogo aquecendo a mão. Há fogo no ideograma, então, dentro do componente fonético, no sentido de aquecer a mão, e não como chama na ponta da árvore. A decomposição é de hanziyuan (Richard Sears), não da tradição comentarial chinesa.
+
+A 段注 de [Duan Yucai](/notes/etimologia-de-jaam-zhan-65ac/) 段玉裁 (século XIX, comentador do Shuowen Jiezi) trabalha em outra direção: sustenta a equivalência 標 = 表 = 剽 ("marca sutil") e fixa o sentido primário em "ponta fina dos galhos" (木杪末), de onde vem a extensão para "destacar" (標舉) e "marca" (標志).
 
 O exercício que Si Fu reconheceu como certo foi outro: tentar conectar o que ele falou com o que está escrito, porque alguma verdade tem nos dois lados. A pesquisa serve para acumular repertório, não para substituir uma fonte por outra.
 
