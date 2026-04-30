@@ -105,7 +105,7 @@ No Tak, a decupação encontra os componentes alinhados, com som coerente e sent
 
 O exercício mais pobre na decupação é o da substituição: "agora não é mais isso, é aquilo". Cada nova fonte derruba a anterior, e a transmissão fica em loop de troca.
 
-A alternativa é acumular repertório: manter a leitura de Si Fu, manter a leitura do Hai Tong, manter o que aparece no comentário comparado, e pinçar o que serve quando precisar.
+A alternativa é acumular. Cada leitura vira camada, e o trabalho do discípulo é saber qual cabe em qual situação.
 
 ### Próxima aula: Mui Fa Jong 梅花樁
 
