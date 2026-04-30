@@ -7,7 +7,7 @@ has_commentary: true
 sources: []
 ---
 
-Anotações do sexto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O encontro retomou a advertência da aula anterior sobre dicionários e IA, entrou no [Biu Ji](/notes/etimologia-de-biu-ji-biao-zhi/) 標指 pelo nome completo Biu Ji Jinan Cheung 指南針, decupou as duas expressões em circulação na família, bússola padrão (de Si Gung) e bússola de alta precisão (cunhada por Si Fu), recolocou o Biu Ji como técnica de emergência reabrindo o termo, e fechou com a contraposição entre uma decupação etimológica que viaja e outra que funciona.
+Anotações do sexto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O encontro retomou a advertência da aula anterior sobre dicionários e IA, entrou no [Biu Ji](/notes/etimologia-de-biu-ji-biao-zhi/) 標指 pelo nome completo Biu Ji Jinan Cheung [指南針](/notes/etimologia-de-jam-zhen-91dd/), decupou as duas expressões em circulação na família, bússola padrão (de Si Gung) e bússola de alta precisão (cunhada por Si Fu), recolocou o Biu Ji como técnica de emergência reabrindo o termo, e fechou com a contraposição entre uma decupação etimológica que viaja e outra que funciona.
 
 ### Verdade canônica e coerência relacional
 
@@ -19,7 +19,7 @@ O dicionário vai no cânone sem contexto. A IA vai em parte no cânone, em part
 
 ### Biu Ji Jinan Cheung 指南針: o nome completo no Hai Tong
 
-Si Fu pediu a leitura do trecho do Hai Tong em que Si Taai Gung Moy Yat afirma que "o verdadeiro significado de Biu é tomar a bússola como comparativo". O nome completo do Biu Ji aparece ali como Biu Ji Jinan Cheung 指南針, expressão para a bússola que aponta para o sul.
+Si Fu pediu a leitura do trecho do Hai Tong em que Si Taai Gung Moy Yat afirma que "o verdadeiro significado de Biu é tomar a bússola como comparativo". O nome completo do Biu Ji aparece ali como Biu Ji Jinan Cheung [指南針](/notes/etimologia-de-jam-zhen-91dd/), expressão para a bússola que aponta para o sul.
 
 A bússola que dá o sentido do Biu Ji segundo o Hai Tong é, então, esse instrumento de orientação por referência. Não é só o gesto do dedo que aponta; é o aparelho que registra norte e sul.
 
