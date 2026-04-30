@@ -1,13 +1,13 @@
 ---
 title: VI Encontro de Chinês Instrumental
 date: '2026-04-30T12:02:00-03:00'
-summary: 'Anotações do sexto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O encontro entrou no Biu Ji 標指 pelo nome completo no Hai Tong, Biu Ji Jinan Cheung 指南針, decupou bússola padrão e bússola de alta precisão, mostrou os limites da decupação etimológica que viaja sem ancoragem na transmissão e reabriu a leitura do Biu Ji como técnica de emergência.'
+summary: 'Anotações do sexto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O encontro entrou no Biu Ji 標指 pelas duas expressões do Hai Tong, 標準指南針 (que Biu Ji abrevia) e 借喻指南針 (a leitura correta), decupou bússola padrão e bússola de alta precisão, mostrou os limites da decupação etimológica que viaja sem ancoragem na transmissão e reabriu a leitura do Biu Ji como técnica de emergência.'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "biu-ji", "etimologia"]
 has_commentary: true
 sources: []
 ---
 
-Anotações do sexto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O encontro retomou a advertência da aula anterior sobre dicionários e IA, entrou no [Biu Ji](/notes/etimologia-de-biu-ji-biao-zhi/) 標指 pelo nome completo Biu Ji Jinan Cheung [指南針](/notes/etimologia-de-jam-zhen-91dd/), decupou as duas expressões em circulação na família, bússola padrão (de Si Gung) e bússola de alta precisão (cunhada por Si Fu), recolocou o Biu Ji como técnica de emergência reabrindo o termo, e fechou com a contraposição entre uma decupação etimológica que viaja e outra que funciona.
+Anotações do sexto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O encontro retomou a advertência da aula anterior sobre dicionários e IA, entrou no [Biu Ji](/notes/etimologia-de-biu-ji-biao-zhi/) 標指 pelas duas expressões do Hai Tong, 標準[指南針](/notes/etimologia-de-jam-zhen-91dd/) (que o nome 標指 abrevia) e 借喻指南針 (a leitura correta segundo Si Taai Gung), decupou as duas expressões em circulação na família, bússola padrão (de Si Gung) e bússola de alta precisão (cunhada por Si Fu), recolocou o Biu Ji como técnica de emergência reabrindo o termo, e fechou com a contraposição entre uma decupação etimológica que viaja e outra que funciona.
 
 ### Verdade canônica e coerência relacional
 
@@ -17,17 +17,17 @@ Na lógica chinesa, não há esse compromisso com a verdade como materialidade. 
 
 O dicionário vai no cânone sem contexto. A IA vai em parte no cânone, em parte no que está espalhado na rede, mastiga e devolve embrulhado. O risco prático é distanciar o praticante do processo relacional que é justamente o que estabelece a verdade da sua relação. O Si Fu da pessoa vira o algoritmo lá no servidor, que não é nem gente.
 
-### Biu Ji Jinan Cheung 指南針: o nome completo no Hai Tong
+### 標準指南針 e 借喻指南針 no Hai Tong
 
-Si Fu pediu a leitura do trecho do Hai Tong em que Si Taai Gung Moy Yat afirma que "o verdadeiro significado de Biu é tomar a bússola como comparativo". O nome completo do Biu Ji aparece ali como Biu Ji Jinan Cheung [指南針](/notes/etimologia-de-jam-zhen-91dd/), expressão para a bússola que aponta para o sul.
+Si Taai Gung Moy Yat trata o Biu Ji 標指 no Hai Tong como abreviatura de [標準指南針](/notes/etimologia-de-jam-zhen-91dd/), bússola padrão. *Biu* 標 sai de 標準, padrão; *Ji* 指 sai de 指南針, a bússola que aponta para o sul.
 
-A bússola que dá o sentido do Biu Ji segundo o Hai Tong é, então, esse instrumento de orientação por referência. Não é só o gesto do dedo que aponta; é o aparelho que registra norte e sul.
+Sobre o sentido, o texto registra duas leituras erradas em circulação: dedos voadores e Sam Pai Fat 三拜佛 (três reverências ao Buda, lida a partir do gesto do fim da forma). E define a leitura correta noutra fórmula, 借喻指南針, tomar a bússola como comparativo. A bússola entra como comparativo da função de orientar-se por referência fixa.
 
 ### Bússola padrão e bússola de alta precisão
 
 Apareceu na aula a pergunta de onde vinha a expressão *bússola de alta precisão*, que circula entre discípulos da família. A escavação reconstruiu a linhagem do termo, e ela mostra três camadas.
 
-Si Taai Gung falava em inglês, *standard compass*. Si Gung herdou e traduziu como *bússola padrão*. Si Fu, décadas depois, recuou e cunhou *bússola de alta precisão*, atravessando a herança com a sua própria experiência de prática.
+Si Taai Gung falava em inglês, *standard compass*. Si Gung herdou e traduziu como *bússola padrão*. Si Fu cunhou *bússola de alta precisão*, atravessando a herança com a sua própria experiência de prática.
 
 Claudio explicou o que é, em barco, uma bússola padrão: a bússola a partir da qual se registram as outras bússolas da embarcação. É a mais nobre, com mais magnetismo, mais cara, com menos chance de desgaste e de confusão. As outras se calibram por ela.
 
@@ -39,7 +39,7 @@ A pesquisa autônoma do discípulo é estimulada justamente para que se entenda 
 
 ### Linha central como bússola padrão
 
-A reformulação tem uma leitura técnica que a sustenta. Si Fu propôs que se pense o braço como agulha de uma bússola normal, e a [linha central](/notes/etimologia-de-jung-zhong-4e2d/) como a bússola padrão. O braço é a bússola que orienta, volta e busca; a linha central é o norte e o sul.
+Si Fu propôs que se pense o braço como agulha de uma bússola normal, e a [linha central](/notes/etimologia-de-jung-zhong-4e2d/) como a bússola padrão. O braço é a bússola que orienta, volta e busca; a linha central é o norte e o sul.
 
 Numa bússola comum, a agulha gira; numa bússola padrão, há uma referência fixa que serve de balizador para todas as outras. No sistema, é a linha central que ocupa esse lugar.
 
@@ -81,7 +81,7 @@ O Biu Ji atende as duas pontas. De um lado, o improviso calculado: o momento em 
 
 De outro lado, o que não se escolhe. A linha central ocupada por algo que veio de fora, o cenário que muda, o teto que desaba. O Biu Ji opera nessas duas pontas com o mesmo material gestual.
 
-A categoria emergência, por isso, deve ser reaberta dentro da família. Não é sinal de Siu Nim Tau mal feito; é parte legítima do que o sistema oferece para os dois cenários, o calculado e o que cai do céu.
+A categoria emergência, por isso, deve ser reaberta dentro da família como parte legítima do que o sistema oferece para os dois cenários, o calculado e o que cai do céu, e não como sintoma de Siu Nim Tau mal feito.
 
 ### Cham 斬 e Da 打: as duas formas de retornar à linha central
 
@@ -97,14 +97,14 @@ A decupação se sustenta no próprio traço. À esquerda, o radical 彳, de pes
 
 O composto [Mo Tak](/notes/moy-mo-tak/) 武德, que Si Gung traduzia como "poder pessoal", lê-se na verdade como poder marcial. *Mo* 武 é marcial; o que vem depois é o domínio que se constitui dentro do marcial. A tradução para "poder pessoal" desloca a ênfase de modo que a tradução literal não autoriza.
 
-A diferença prática é instrutiva. No Tak, a decupação encontra os componentes alinhados, com som coerente e sentido cumulativo. No Biu, a tentativa de encontrar fogo num fragmento não-radical do ideograma exige uma evolução pré-histórica especulativa que se desconecta da transmissão. Saber distinguir os dois casos é parte do que o Chinês instrumental oferece.
+No Tak, a decupação encontra os componentes alinhados, com som coerente e sentido cumulativo. No Biu, a tentativa de encontrar fogo num fragmento não-radical do ideograma exige uma evolução pré-histórica especulativa que se desconecta da transmissão.
 
 ### Repertório, não substituição
 
 O exercício mais pobre na decupação é o da substituição: "agora não é mais isso, é aquilo". Cada nova fonte derruba a anterior, e a transmissão fica em loop de troca.
 
-A alternativa é acumular. Manter a leitura de Si Fu, manter a leitura do Hai Tong, manter o que aparece no comentário comparado, e pinçar o que serve quando precisar. Isso é repertório.
+A alternativa é acumular repertório: manter a leitura de Si Fu, manter a leitura do Hai Tong, manter o que aparece no comentário comparado, e pinçar o que serve quando precisar.
 
 ### Próxima aula: Mui Fa Jong 梅花樁
 
-A aula seguinte deve entrar no Mui Fa Jong 梅花樁, o tronco da flor de ameixa. A indicação fechou o encontro.
+A aula seguinte entra no Mui Fa Jong 梅花樁, o tronco da flor de ameixa.
