@@ -12,3 +12,5 @@ sources:
 ---
 
 Documentário híbrido com ficção dirigido por Tânia Gomes Teixeira, estreado em Portugal em 30 de abril de 2026. Acompanha Gastão Teixeira, que recolhe corpos do Rio Douro sob a Ponte D. Luís I no Porto e os devolve às famílias para os ritos de luto. A rotina real funde-se com a figura mítica de Caronte, o barqueiro que conduz os mortos no imaginário grego. Recebeu o prêmio de Melhor Longa Lusófona no DOC. Coimbra 2026.
+
+![Poster de Caronte (2026)](poster.png)
