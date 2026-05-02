@@ -14,7 +14,7 @@ sources:
     kind: "film"
 ---
 
-Thriller de ação dirigido por George Huang, coprodução França-Taiwan, com roteiro coassinado por Luc Besson. Luke Evans faz um agente da DEA que reencontra Joey (Gwei Lun-mei), motorista mercenária em Taipé, enquanto persegue o líder de um cartel. 101 minutos.
+> Thriller de ação dirigido por George Huang, coprodução França-Taiwan, com roteiro coassinado por Luc Besson. Luke Evans faz um agente da DEA que reencontra Joey (Gwei Lun-mei), motorista mercenária em Taipé, enquanto persegue o líder de um cartel. 101 minutos.
 
 Funciona como brucutu oitentista. Herói durão, perseguição de carro, vilão caricato. Divertido.
 
