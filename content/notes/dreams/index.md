@@ -14,7 +14,7 @@ sources:
     kind: "article"
 ---
 
-Drama dirigido por Michel Franco, estreado na Berlinale 2025. Acompanha Jennifer, socialite rica, em caso secreto com Fernando, bailarino mexicano e imigrante indocumentado. Segunda colaboração entre Chastain e Franco depois de Memory (2023).
+> Drama dirigido por Michel Franco, estreado na Berlinale 2025. Acompanha Jennifer, socialite rica, em caso secreto com Fernando, bailarino mexicano e imigrante indocumentado. Segunda colaboração entre Chastain e Franco depois de Memory (2023).
 
 Saí com bad vibes.
 
