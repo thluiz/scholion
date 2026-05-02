@@ -17,3 +17,5 @@ sources:
 Comédia negra de suspense dirigida por Jan Komasa, coprodução Polônia-Reino Unido. Estreou em setembro de 2025 e chegou ao Reino Unido em março de 2026. Stephen Graham e Andrea Riseborough fazem um casal que abduz Tommy (Anson Boon), criminoso de 19 anos, e tenta reabilitá-lo. Filmado em Yorkshire.
 
 Moral do filme: se for família, pode bater bastante. Bem inglês, ao que parece.
+
+![Poster de Good Boy (2025)](poster.jpg)
