@@ -14,7 +14,7 @@ sources:
     kind: "film"
 ---
 
-Comédia negra romântica dirigida por Kristoffer Borgli, distribuída pela A24. Zendaya e Robert Pattinson fazem Emma e Charlie, casal noivo cuja relação é posta à prova por uma revelação às vésperas do casamento. Estreou em abril de 2026. 105 minutos.
+> Comédia negra romântica dirigida por Kristoffer Borgli, distribuída pela A24. Zendaya e Robert Pattinson fazem Emma e Charlie, casal noivo cuja relação é posta à prova por uma revelação às vésperas do casamento. Estreou em abril de 2026. 105 minutos.
 
 O nome explica o filme. Zendaya está maravilhosa. Pattinson passa vibe almofadinha muito bem.
 
