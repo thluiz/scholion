@@ -17,3 +17,5 @@ sources:
 Comédia franco-belga dirigida por Grégoire Vigneron, com estreia em setembro de 2025. Rayane Bensetti faz Stan, gerente de construção que rouba um milhão de euros do cofre do patrão. No caminho do aeroporto descobre que foi promovido. Tem uma noite para devolver o dinheiro. Christian Clavier completa o elenco.
 
 Parece sessão da tarde feita em França. A comédia opera no registro do Leandro Hassum, leve e popular. Meio mais ou menos.
+
+![Poster de Le Million (2025)](poster.png)
