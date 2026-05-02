@@ -3,7 +3,7 @@ title: "Caronte (2026)"
 date: 2026-05-02T22:32:04+01:00
 category: movie
 summary: "Documentário híbrido de Tânia Gomes Teixeira (2026) sobre Gastão Teixeira, que recolhe corpos do Rio Douro no Porto, em paralelo à figura mítica de Caronte."
-tags: ["tania-gomes-teixeira", "sozinho", "documentario", "cinema-portugues"]
+tags: ["tania-gomes-teixeira", "documentario", "cinema-portugues"]
 has_commentary: false
 sources:
   - title: "Caronte de Tânia Gomes Teixeira estreia nas salas de cinema portuguesas a 30 de abril"
