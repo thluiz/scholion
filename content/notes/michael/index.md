@@ -17,3 +17,5 @@ sources:
 Cinebiografia de Michael Jackson dirigida por Antoine Fuqua, escrita por John Logan. Jaafar Jackson, sobrinho de Michael, faz o papel principal. Cobre da formação dos Jackson 5 nos anos 60 até a turnê Bad no fim dos 80. Estreou em abril de 2026 no festival de Berlim. 127 minutos.
 
 Funciona como videoclipes mal cortados, as partes que seriam interessantes não estão lá.
+
+![Poster de Michael (2026)](poster.png)
