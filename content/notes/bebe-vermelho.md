@@ -2,7 +2,7 @@
 title: "Bebê Vermelho 赤子"
 date: 2026-05-03T22:00:21+01:00
 summary: "Imagem clássica chinesa da pureza original: o recém-nascido ainda coberto pelo sangue do parto, antes que o desejo abra suas primeiras camadas. Aparece em Laozi e em Mêncio, atravessou o Chan."
-tags: ["bebe-vermelho", "laozi", "mencio", "filosofia-chinesa"]
+tags: ["bebe-vermelho", "laozi", "mencio", "pensamento-chines"]
 has_commentary: true
 sources:
   - title: "Tao Te Ching, cap. 55"
@@ -48,4 +48,4 @@ Para Laozi, o caminho é o retorno ao estado pré-cultural. Mêncio aponta outro
 
 Quando o budismo indiano se aclimata na China e dá origem ao Chan (séc. VI-VII), absorve uma quantidade enorme de vocabulário chinês prévio. O bebê vermelho é uma das figuras herdadas. Aparece em textos Chan posteriores como sinônimo da natureza-Buda original, ainda não obstruída por discriminações, apegos, "dez mil coisas".
 
-Por isso é comum encontrar referências ao 赤子 dentro do arcabouço Zen. A leitura é legítima por absorção, mas a fonte primária está antes, na filosofia clássica chinesa.
+Por isso é comum encontrar referências ao 赤子 dentro do arcabouço Zen. A leitura é legítima por absorção, mas a fonte primária está antes, no pensamento clássico chinês.
