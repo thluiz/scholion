@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(hugo:*)",
+      "Bash(nslookup:*)",
+      "Bash(gh run watch:*)",
+      "Bash(aws acm list-certificates:*)"
+    ]
+  }
+}
