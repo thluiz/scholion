@@ -93,7 +93,7 @@ Posição lateral pede golpe, diagonal pede corte. Frontal não acontece na prá
 
 Como contraponto à viajada do fogo no Biu, Si Fu mostrou um ideograma que se decupa bem: [Tak](/notes/etimologia-de-dak-de/) 德. Os portugueses no Japão traduziram o caractere por virtude, mas o sentido chinês é poder.
 
-A decupação se sustenta no próprio traço. À esquerda, o radical 彳, de pessoa em movimento. À direita, em cima, 十 (dez), no meio 目 (olho), embaixo 心 (coração). A leitura padrão é "dez olhos abaixam o coração": observa-se o mundo por todas as vias, e isso atualiza o coração.
+A decupação se sustenta no próprio traço. À esquerda, o radical 彳, que Si Fu identifica como humanidade. À direita, em cima, 十 (dez), no meio 目 (olho), embaixo 心 (coração). A leitura padrão é "dez olhos abaixam o coração": observa-se o mundo por todas as vias, e isso atualiza o coração.
 
 O composto Mo Tak 武德, que Si Gung traduzia como "poder pessoal", é literalmente poder marcial. *Mo* 武 é marcial; o que vem depois é o domínio constituído dentro do marcial.
 
