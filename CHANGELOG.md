@@ -5,6 +5,18 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
+## [0.5.3] — 2026-05-06
+
+### Adicionado
+
+- **`CLAUDE.md` do projeto** com regras "search-first interativo"
+  (mostrar matches do vault antes de draftar) e "source-or-silence"
+  (toda afirmação factual exige citação inline).
+- **Suíte de testes de estilo** em `tests/style/` — auditoria
+  determinística (pytest) que detecta vocabulário banido, PT-EU,
+  Wing Chun, hedges, travessões em excesso, frontmatter inválido.
+  Roda via skill `/style-test` (rápido, gratuito, sem LLM).
+
 ## [0.5.2] — 2026-04-29
 
 ### Melhorado
