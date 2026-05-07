@@ -28,7 +28,7 @@ Hugo compila 300+ markdowns em ~60 ms. A 1.000 notas continua sub-segundo. Para 
 
 - `assets/css/custom.css` — overrides de estilo (carregado depois dos estilos do tema)
 - `assets/css/schemes/scholion.css` — color scheme próprio (paleta âmbar/sépia/stone)
-- `layouts/notes/`, `layouts/fontes/`, `layouts/research/` — templates próprios por section via Hugo lookup order
+- `layouts/notes/`, `layouts/sources/`, `layouts/quotes/`, `layouts/research/` — templates próprios por section via Hugo lookup order
 - `layouts/partials/` — partials sobrescritos (head, footer, paginação)
 
 Updates do Blowfish: `git submodule update --remote themes/blowfish` + bump pra próxima tag testada. Os overrides são poucos e auditáveis, então o risco de quebra em update é baixo.
