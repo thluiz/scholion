@@ -15,4 +15,4 @@ sources:
 
 Máxima 38 das *Maximes*. A frase descreve a assimetria entre os afetos que governam a promessa e os que governam o cumprimento: ao prometer, projetamos um futuro favorável; ao cumprir, calculamos consequências.
 
-A simetria sintática (espérances/craintes) acompanha a simetria conceitual (promettons/tenons), produzindo uma das construções mais polidas de La Rochefoucauld em termos formais. A máxima reaparece, citada explicitamente, em Schopenhauer, *Aphorismen zur Lebensweisheit* (1851).
+A simetria sintática (espérances/craintes) acompanha a simetria conceitual (promettons/tenons), produzindo uma das construções mais polidas de La Rochefoucauld em termos formais. Pertence à série sobre interesse pessoal e ação (38-43), em que La Rochefoucauld articula sistematicamente a hipótese de que o motor real da conduta diverge do motor declarado.

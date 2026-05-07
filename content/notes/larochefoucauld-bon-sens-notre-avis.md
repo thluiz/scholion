@@ -15,4 +15,4 @@ sources:
 
 Máxima 347 das *Maximes*. Diagnóstico do bom senso como termo elogioso aplicado retroativamente: chamamos sensata a pessoa que concorda conosco; o bom senso é, no uso real, sinônimo do nosso juízo refletido no outro.
 
-A máxima antecipa observações posteriores sobre viés de confirmação e homofilia cognitiva. Em registro literário, foi explorada por Sainte-Beuve nas *Causeries du lundi* (1851-1862), comentando o tipo do leitor que só reconhece talento em quem o valida.
+A máxima antecipa observações posteriores em psicologia social sobre viés de confirmação e homofilia cognitiva, e foi citada como referência clássica em discussões sobre a função social do julgamento intelectual.

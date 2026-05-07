@@ -15,4 +15,4 @@ sources:
 
 Máxima 276 das *Maximes*. A imagem comparativa do vento que apaga velas e alimenta incêndios é uma das mais usadas de La Rochefoucauld em literatura sentimental francesa posterior. A tese substancial: a distância física opera como teste de intensidade, dissipando o que era apenas inclinação superficial e alimentando o que tinha consistência.
 
-A máxima foi citada por Stendhal em *De l'amour* (1822) e por Proust em *À la recherche du temps perdu* nas seções sobre Albertine.
+A análise da ausência como teste de intensidade reaparece em Stendhal, *De l'amour* (1822), e na literatura sentimental francesa do século XIX, que retomou frequentemente a imagem do vento aplicada às paixões.
