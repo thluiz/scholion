@@ -15,4 +15,4 @@ sources:
 
 Máxima 504 das *Maximes*, e a última do livro. A única que excede em muito o tamanho médio das outras (várias páginas), funcionando quase como ensaio. La Rochefoucauld dirige o argumento contra a tradição estoica que se vangloria de desprezar a morte por força própria, sem esperança de outra vida.
 
-A tese: existe diferença entre suportar a morte com firmeza (frequente) e desprezá-la (quase impossível, segundo La Rochefoucauld). A máxima foi alvo direto de Voltaire, que respondeu a ela em correspondência, e referência crítica para o capítulo "Sur la mort" das *Lettres philosophiques* (1734). Aparece também em discussões modernas sobre o problema do auto-engano em filosofia da mente.
+A tese: existe diferença entre suportar a morte com firmeza (frequente) e desprezá-la (quase impossível, segundo La Rochefoucauld). O texto inteiro funciona como crítica antecipada de uma certa pose filosófica, e foi referência para o tratamento moderno da temática em La Bruyère (*Caractères*, 1688) e Vauvenargues (*Réflexions et Maximes*, 1746).

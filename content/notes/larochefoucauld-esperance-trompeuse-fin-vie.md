@@ -15,4 +15,4 @@ sources:
 
 Máxima 168 das *Maximes*. Uma das raras passagens em que La Rochefoucauld concede valor a uma das ilusões que diagnostica. A esperança é falsa em conteúdo, mas funcional em efeito: torna agradável o caminho até a morte.
 
-A máxima permite ler La Rochefoucauld em registro menos estritamente cínico. O lúcido reconhece a função pragmática das ilusões sem aderir a elas. A frase reaparece, citada explicitamente, em Schopenhauer (*Welt als Wille und Vorstellung*, vol. II, cap. 49).
+A máxima permite ler La Rochefoucauld em registro menos estritamente cínico. O lúcido reconhece a função pragmática das ilusões sem aderir a elas. A formulação aproxima a observação seiscentista da reflexão moderna sobre as ilusões úteis, retomada por Schopenhauer em discussões sobre o consolo da esperança nas *Welt als Wille und Vorstellung* (1819).

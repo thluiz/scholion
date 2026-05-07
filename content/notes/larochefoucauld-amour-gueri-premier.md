@@ -15,4 +15,4 @@ sources:
 
 Máxima 417 das *Maximes*. Observação sobre a economia das rupturas amorosas: quem se cura primeiro o faz por inteiro; quem demora prolonga a ferida e a confunde com fidelidade.
 
-A frase aparece em correspondência de La Rochefoucauld com Madame de Sévigné e foi posteriormente trabalhada como motivo literário em Roland Barthes, *Fragments d'un discours amoureux* (1977), capítulo sobre o adieu.
+A frase pertence à série de máximas sobre os ciclos do amor (361, 369, 374, 417, 471). É uma das mais citadas em literatura sentimental francesa posterior — Stendhal em *De l'amour* (1822) trabalha o motivo da cura desigual entre os dois lados do casal.
