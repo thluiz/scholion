@@ -4,8 +4,13 @@
   weight = 10
 
 [[main]]
+  name = "Citações"
+  pageRef = "quotes"
+  weight = 12
+
+[[main]]
   name = "Fontes"
-  pageRef = "fontes"
+  pageRef = "sources"
   weight = 15
 
 [[main]]

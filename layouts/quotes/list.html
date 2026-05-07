@@ -1,0 +1,45 @@
+{{ define "main" }}
+  {{ $quotes := where (where site.RegularPages "Section" "notes") "Params.category" "quote" }}
+  {{ $sorted := $quotes.ByDate.Reverse }}
+  {{ $paginator := .Paginate $sorted 40 }}
+
+  <section class="scholion-list">
+    <header class="scholion-list-header">
+      <h1>{{ .Title }}</h1>
+      {{ with .Description }}<p class="scholion-desc">{{ . }}</p>{{ end }}
+      {{ if gt (len $sorted) 0 }}
+        {{ $latest := index $sorted 0 }}
+        <p class="scholion-count">{{ len $sorted }} citações <span class="scholion-count-sep">·</span> última: <time datetime="{{ $latest.Date.Format "2006-01-02" }}">{{ $latest.Date.Format "2 Jan 2006" }}</time></p>
+      {{ end }}
+    </header>
+
+    <ul class="scholion-grid">
+      {{ range $paginator.Pages }}
+        {{ $kind := cond (.Params.has_commentary | default false) "commentary" "gloss" }}
+        <li class="scholion-card scholion-card--{{ $kind }} scholion-card--quote" data-kind="{{ $kind }}">
+          <a href="{{ .RelPermalink }}">
+            <div class="scholion-card-body">
+              <h2 class="scholion-card-title">{{ .Title }}</h2>
+              {{ with .Params.summary }}
+                <p class="scholion-card-summary">{{ . }}</p>
+              {{ end }}
+            </div>
+            <div class="scholion-card-meta">
+              {{ with .Params.tags }}
+                <ul class="scholion-card-tags">
+                  {{ range first 3 . }}<li>#{{ . }}</li>{{ end }}
+                </ul>
+              {{ end }}
+              <div class="scholion-card-dateline">
+                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+                <span class="scholion-card-type scholion-card-type--quote" title="citação">❝</span>
+              </div>
+            </div>
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+
+    {{ partial "scholion-pagination.html" $paginator }}
+  </section>
+{{ end }}
