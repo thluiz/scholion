@@ -3,7 +3,7 @@ title: "Piscitelli e as sugar relations (Unicamp)"
 date: 2026-05-07T18:33:00+01:00
 category: note
 summary: "Antropóloga brasileira, professora da Unicamp, ligada ao Núcleo Pagu. No podcast Vox, é citada por Natânia Lopes como pesquisadora de sugar relations — relações de patrocínio que se constroem por aversão à categoria 'prostituição'."
-tags: ["adriana-piscitelli", "unicamp", "antropologia-brasileira", "sugar-relations", "genero", "prostituicao", "etudoculpa-cultura"]
+tags: ["adriana-piscitelli", "unicamp", "antropologia-brasileira", "sugar-relations", "genero", "prostituicao", "e-tudo-culpa-da-cultura"]
 has_commentary: false
 sources:
   - title: "É Tudo Culpa da Cultura #02: Amor de Puta"

@@ -3,7 +3,7 @@ title: "Janaki Abraham e a produção audiovisual do romance no casamento arranj
 date: 2026-05-07T18:43:00+01:00
 category: note
 summary: "Antropóloga, co-orientadora de Fabíola Gomes na Índia. Pesquisa como o ritual do casamento arranjado mobiliza fotógrafos e cinegrafistas para produzir, em álbum e vídeo, um romance que ainda não existe entre os noivos."
-tags: ["janaki-abraham", "antropologia-india", "casamento-arranjado", "ritual", "cultura-visual", "etudoculpa-cultura"]
+tags: ["janaki-abraham", "antropologia-india", "casamento-arranjado", "ritual", "cultura-visual", "e-tudo-culpa-da-cultura"]
 has_commentary: false
 sources:
   - title: "É Tudo Culpa da Cultura #01: Amar?"

@@ -3,7 +3,7 @@ title: "Mauss e o Ensaio sobre a Dádiva (1925)"
 date: 2026-05-07T18:31:00+01:00
 category: note
 summary: "Antropólogo francês, sobrinho de Durkheim. No Ensaio sobre a Dádiva (1925), formula a tríplice obrigação universal: dar, receber, retribuir. Citado no podcast Vox como contraponto à sabotagem da troca de Natânia Lopes."
-tags: ["marcel-mauss", "dadiva", "antropologia", "troca", "durkheim-escola", "etudoculpa-cultura"]
+tags: ["marcel-mauss", "dadiva", "antropologia", "troca", "durkheim-escola", "e-tudo-culpa-da-cultura"]
 has_commentary: false
 sources:
   - title: "É Tudo Culpa da Cultura #02: Amor de Puta"

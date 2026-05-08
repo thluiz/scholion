@@ -3,7 +3,7 @@ title: "A teoria da dádiva: dar, receber, retribuir (Mauss, 1925)"
 date: 2026-05-08T11:00:00+01:00
 category: note
 summary: "Em Essai sur le don (1925), Mauss formula a teoria da dádiva como fato social total: nas sociedades arcaicas, a troca opera por três obrigações encadeadas — dar, receber, retribuir. O circuito do dom é o que cola os indivíduos ao grupo."
-tags: ["marcel-mauss", "dadiva", "antropologia", "troca", "fato-social-total", "kula", "potlatch", "hau", "etudoculpa-cultura"]
+tags: ["marcel-mauss", "dadiva", "antropologia", "troca", "fato-social-total", "kula", "potlatch", "hau", "e-tudo-culpa-da-cultura"]
 has_commentary: false
 sources:
   - title: "Essai sur le don. Forme et raison de l'échange dans les sociétés archaïques"

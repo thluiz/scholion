@@ -3,7 +3,7 @@ title: "Natânia Lopes e a sabotagem da troca em Cabaré"
 date: 2026-05-07T18:32:00+01:00
 category: note
 summary: "Antropóloga brasileira, putativista. Em Cabaré (Editora Uruatu), formula a sabotagem da troca como princípio do trabalho da puta: ganhar o máximo dando o mínimo, em revanchismo de gênero contra a dívida histórica dos homens."
-tags: ["natania-lopes", "cabare", "antropologia-brasileira", "prostituicao", "sabotagem-da-troca", "revanchismo-de-genero", "etudoculpa-cultura"]
+tags: ["natania-lopes", "cabare", "antropologia-brasileira", "prostituicao", "sabotagem-da-troca", "revanchismo-de-genero", "e-tudo-culpa-da-cultura"]
 has_commentary: false
 sources:
   - title: "É Tudo Culpa da Cultura #02: Amor de Puta"

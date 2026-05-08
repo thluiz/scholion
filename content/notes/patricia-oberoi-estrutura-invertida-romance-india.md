@@ -3,7 +3,7 @@ title: "Patrícia Oberoi e a estrutura invertida do romance na Índia"
 date: 2026-05-07T18:40:00+01:00
 category: note
 summary: "Antropóloga indiana, professora num centro de estudos da Universidade de Delhi, com longa pesquisa sobre amor e família na sociedade indiana. Citada por Fabíola Gomes no podcast Vox pela formulação que organiza o argumento do episódio: 'na Índia a estrutura do romance é invertida'."
-tags: ["patricia-oberoi", "antropologia-india", "casamento-arranjado", "amor", "universidade-de-delhi", "etudoculpa-cultura"]
+tags: ["patricia-oberoi", "antropologia-india", "casamento-arranjado", "amor", "universidade-de-delhi", "e-tudo-culpa-da-cultura"]
 has_commentary: false
 sources:
   - title: "É Tudo Culpa da Cultura #01: Amar?"

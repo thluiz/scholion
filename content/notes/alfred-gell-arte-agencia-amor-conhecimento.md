@@ -3,7 +3,7 @@ title: "Alfred Gell, Arte e Agência, e o amor como forma de conhecimento"
 date: 2026-05-07T18:42:00+01:00
 category: note
 summary: "Antropólogo britânico. Trabalho de campo entre os Umeda (Papua Nova Guiné). Em Art and Agency (1998, póstumo), formula uma teoria antropológica da agência das coisas. Citado no podcast Vox por Fabíola Gomes como referência para definir o amor como forma de conhecimento."
-tags: ["alfred-gell", "arte-e-agencia", "agencia", "antropologia-da-arte", "umeda", "papua-nova-guine", "etudoculpa-cultura"]
+tags: ["alfred-gell", "arte-e-agencia", "agencia", "antropologia-da-arte", "umeda", "papua-nova-guine", "e-tudo-culpa-da-cultura"]
 has_commentary: false
 sources:
   - title: "É Tudo Culpa da Cultura #01: Amar?"
