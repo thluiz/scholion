@@ -1,7 +1,7 @@
 ---
 title: "Pesquisa Viva: Pequeno Tratado em Áudio de Grandes Virtudes"
 date: 2026-05-08T13:58:35+01:00
-summary: "Roteiro para o podcast Pequeno Tratado em Áudio de Grandes Virtudes — série de 5-15 episódios curtos sobre as 18 virtudes do tratado de André Comte-Sponville, cruzando o vault do Scholion (estoicos, moralistas franceses, Wilde, Pascal) com pensamento oriental e Kung Fu (德 dé, 仁 ren, Lao Tzu, Confúcio)."
+summary: "Roteiro para o podcast Pequeno Tratado em Áudio de Grandes Virtudes (EN: Pocket Compendium of the Great Virtues) — série de 5-15 episódios curtos sobre as 18 virtudes do tratado de André Comte-Sponville, cruzando o vault do Scholion (estoicos, moralistas franceses, Wilde, Pascal) com pensamento oriental e Kung Fu (德 dé, 仁 ren, Lao Tzu, Confúcio)."
 tags: ["pesquisa-viva", "comte-sponville", "virtudes", "etica", "filosofia-pratica", "podcast", "pequeno-tratado-em-audio"]
 status: "em andamento"
 toc: true
@@ -11,7 +11,9 @@ toc: true
 
 (Regras gerais em `.claude/skills/research/SKILL.md`. Específicas desta pesquisa:)
 
-- **Alias do projeto**: o podcast chama-se *Pequeno Tratado em Áudio de Grandes Virtudes* — trocadilho com o título de Comte-Sponville (*Pequeno Tratado das Grandes Virtudes*). Buscar pelo nome do podcast deve cair aqui.
+- **Nome desta série**: *Pequeno Tratado em Áudio de Grandes Virtudes* (PT) / *Pocket Compendium of the Great Virtues* (EN). O título PT é trocadilho direto com Comte-Sponville (*Pequeno Tratado das Grandes Virtudes*); o EN refaz a piada com o oxímoro vivo em inglês (*Pocket × Compendium*). Buscar pelo nome em qualquer idioma deve cair aqui.
+- **Padrão de série (umbrella)**: futuros *Pequenos Tratados* seguem a fórmula *Pequeno Tratado de X* (PT) / *Pocket Compendium of X* (EN). O "em Áudio" deste título marca o formato e adapta-se ao suporte (vídeo, texto, etc.).
+- **Crédito ao autor-pai**: cada *Pequeno Tratado* da série assume explicitamente um livro/autor de referência. Crédito ao autor-pai e à edição usada vai no episódio piloto e na descrição da web-série — neste caso, Comte-Sponville e a edição Martins Fontes 2016.
 - **Destino é roteiro de áudio**, não ensaio escrito. Cada bloco de pesquisa por virtude precisa caber em 5-15 minutos de fala — sobrevoo do argumento de Comte-Sponville, 1-2 pontes para o Scholion, 1 paralelo oriental ou Kung Fu, eventualmente uma anedota.
 - **Eixo paralelo fixo: 德 (dé / dak)**. Toda virtude do Comte-Sponville passa por uma pergunta: o que dela aparece (ou se desfaz) quando lida pela tradição chinesa de virtude como força-em-via?
 - **Fonte primária privada**: edição Martins Fontes 2016, no submódulo `fontes-privadas/pequeno-tratado-das-grandes-virtudes.{pdf,txt}`. O site público apenas referencia. Por se tratar de obra sob direito autoral, episódios e notas extraídas paráfrasem; só citações curtas literais.
