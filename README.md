@@ -97,7 +97,8 @@ scholion/
 │   └── partials/        # extend-head-uncached, favicons, footer, scholion-pagination
 ├── scripts/             # gen_git_history.py, pre-push hook
 ├── static/              # favicon.png
-└── themes/blowfish/     # submodule
+├── themes/blowfish/     # submódulo público
+└── fontes-privadas/     # submódulo privado, não entra no build
 ```
 
 ## Desenvolvimento local
@@ -162,6 +163,27 @@ git push
 ## Deploy
 
 **AWS S3 + CloudFront** (us-east-1). Push para `main` dispara build Hugo + sync S3 + invalidação CloudFront via GitHub Actions (`.github/workflows/deploy.yml`).
+
+### Submódulos no CI
+
+O `GITHUB_TOKEN` default do Actions só tem acesso ao repo do checkout. Se o workflow tenta clonar um submódulo privado (ex.: `fontes-privadas/`), o checkout falha antes do Hugo rodar.
+
+Solução adotada: `submodules: false` no checkout, e `git submodule update --init themes/blowfish` num passo seguinte para puxar só o tema (público). O submódulo privado fica de fora — o site referencia esses textos, nunca os consome no build.
+
+Se um dia um submódulo privado precisar entrar no build:
+
+1. Criar Personal Access Token (fine-grained) com leitura nos dois repos.
+2. Salvar como secret `SUBMODULE_TOKEN` no repo principal.
+3. Trocar o passo de checkout por:
+
+   ```yaml
+   - uses: actions/checkout@v4
+     with:
+       token: ${{ secrets.SUBMODULE_TOKEN }}
+       submodules: recursive
+   ```
+
+   E remover o `git submodule update --init themes/blowfish` (vira redundante).
 
 ## Histórico
 

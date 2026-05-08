@@ -5,6 +5,21 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
+## [0.5.4] — 2026-05-08
+
+### Adicionado
+
+- **Submódulo `fontes-privadas/`** apontando para repositório privado
+  `thluiz/scholion-fontes-privadas`. Hospeda fontes textuais não
+  publicadas que alimentam pesquisas; o site público apenas referencia,
+  nunca reproduz.
+
+### Mudado
+
+- **Workflow de deploy** (`submodules: false`) ignora submódulos no
+  checkout do CI. O `GITHUB_TOKEN` default não tem acesso ao repo
+  privado, e o Hugo não precisa do conteúdo para build.
+
 ## [0.5.3] — 2026-05-06
 
 ### Adicionado
