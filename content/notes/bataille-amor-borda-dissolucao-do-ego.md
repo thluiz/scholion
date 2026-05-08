@@ -3,7 +3,7 @@ title: "Bataille: o amor como borda e a dissolução do ego"
 date: 2026-05-07T18:30:00+01:00
 category: note
 summary: "Filósofo francês das questões do erotismo. No podcast Vox, Natânia Lopes invoca Bataille para definir o amor como borda — não limite — e ler o orgasmo como dissolução do ego."
-tags: ["georges-bataille", "erotismo", "amor", "filosofia-francesa", "etudoculpa-cultura"]
+tags: ["georges-bataille", "erotismo", "amor", "filosofia-francesa", "e-tudo-culpa-da-cultura"]
 has_commentary: false
 sources:
   - title: "É Tudo Culpa da Cultura #02: Amor de Puta"

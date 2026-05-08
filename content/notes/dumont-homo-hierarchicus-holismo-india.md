@@ -3,7 +3,7 @@ title: "Dumont, Homo Hierarchicus e o holismo indiano"
 date: 2026-05-07T18:41:00+01:00
 category: note
 summary: "Antropólogo francês. Em Homo Hierarchicus (1966), contrasta o holismo indiano — em que o valor recai sobre o coletivo (família, casta, sociedade) — com o individualismo moderno do Ocidente. Citado no podcast Vox como ancoragem teórica do conceito de divíduo."
-tags: ["louis-dumont", "homo-hierarchicus", "holismo", "individualismo", "antropologia-india", "castas", "etudoculpa-cultura"]
+tags: ["louis-dumont", "homo-hierarchicus", "holismo", "individualismo", "antropologia-india", "castas", "e-tudo-culpa-da-cultura"]
 has_commentary: false
 sources:
   - title: "É Tudo Culpa da Cultura #01: Amar?"

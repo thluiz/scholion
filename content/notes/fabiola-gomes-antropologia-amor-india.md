@@ -3,7 +3,7 @@ title: "Fabíola Gomes e a antropologia do amor na Índia"
 date: 2026-05-07T18:44:00+01:00
 category: note
 summary: "Antropóloga brasileira, mestre e doutora em antropologia social pela UnB. Pesquisa a Índia há mais de dez anos, com trabalho de campo sobre casamento arranjado, marriage bureaus e a tensão entre tradição holista e individualismo globalizado."
-tags: ["fabiola-gomes", "antropologia-brasileira", "unb", "antropologia-india", "casamento-arranjado", "amor", "etudoculpa-cultura"]
+tags: ["fabiola-gomes", "antropologia-brasileira", "unb", "antropologia-india", "casamento-arranjado", "amor", "e-tudo-culpa-da-cultura"]
 has_commentary: false
 sources:
   - title: "É Tudo Culpa da Cultura #01: Amar?"
