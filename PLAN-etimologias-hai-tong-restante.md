@@ -88,7 +88,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 完 (yun) — completo (S; em yuen mei 完美)
 - [x] 自 (ji) — próprio (S; em ji yin 自然)
 - [x] 興 (hing) — prosperar/animar (S; em hing 興 ânimo)
-- [ ] 嚴 (yim) — rigoroso (S; em yim sau 嚴守)
+- [x] 嚴 (yim) — rigoroso (S; em yim sau 嚴守)
 - [ ] 崇 (sung) — elevado (S; em sung go 崇高)
 - [ ] 確 (kok) — preciso (S; em jing kok chi jui 正確次序)
 - [ ] 廣 (gwong) — amplo (S; em Gwong Dung 廣東 — Cantão)
