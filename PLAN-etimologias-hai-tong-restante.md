@@ -74,7 +74,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 覦 (yu) — desejar (C; em 覬覦)
 - [x] 覬 (gei) — cobiçar (C; em 覬覦攻擊的橋樑)
 - [x] 刀 (do) — faca (L, B; em Baat Jaam Do 八斬刀)
-- [ ] 刺 (chi) — perfurar/estoquear (B; em chi saat 刺殺)
+- [x] 刺 (chi) — perfurar/estoquear (B; em chi saat 刺殺) — já existia (`etimologia-de-ci-ci-523a.md`)
 - [ ] 殺 (saat) — matar (B; em chi saat)
 - [ ] 材 (choi) — material/talento (L, B; em saam choi 三材, "ku sang"...)
 - [ ] 之 (ji) — partícula clássica (S, C, L, B; ubíqua)
