@@ -134,7 +134,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 序 (jui) — ordem (S; em chi jui 次序)
 - [x] 次 (chi) — sequência (S; em chi jui)
 - [x] 弛 (chi) — afrouxar (S; em sung chi 鬆弛)
-- [ ] 鬆 (sung) — relaxar (S; em sung chi, hing sung 輕鬆)
+- [x] 鬆 (sung) — relaxar (S; em sung chi, hing sung 輕鬆)
 - [ ] 輕 (hing) — leve (S; em hing sung)
 - [ ] 性 (sing) — natureza (C)
 - [ ] 略 (leuk) — estratégia (C; em jin leuk 戰略)
