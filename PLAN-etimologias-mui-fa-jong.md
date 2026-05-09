@@ -63,7 +63,7 @@ Decisão: pesquisar apenas se vier a existir nota de discípulo no Scholion para
 - [x] 動 (dung) — movimento; din dung 電動
 - [x] 電 (din) — eletricidade; din dung 電動
 - [x] 死 (sei) — morto; ma sei da 馬死打
-- [ ] 撲 (pok) — investir; pok foh 撲火
+- [x] 撲 (pok) — investir; pok foh 撲火
 - [ ] 火 (foh) — fogo; pok foh dang ngoh 撲火燈蛾
 - [ ] 燈 (dang) — lâmpada; dang ngoh 燈蛾
 - [ ] 蛾 (ngoh) — mariposa
