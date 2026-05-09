@@ -137,7 +137,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 鬆 (sung) — relaxar (S; em sung chi, hing sung 輕鬆)
 - [x] 輕 (hing) — leve (S; em hing sung)
 - [x] 性 (sing) — natureza (C)
-- [ ] 略 (leuk) — estratégia (C; em jin leuk 戰略)
+- [x] 略 (leuk) — estratégia (C; em jin leuk 戰略)
 - [ ] 移 (yi) — mover (C; em yi dung 移動)
 - [ ] 程 (cheng) — etapa (C; em lei cheng 里程)
 - [ ] 締 (dai) — atar (C; em jan tai 真締)
