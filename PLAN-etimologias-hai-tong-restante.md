@@ -85,7 +85,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 然 (yin) — assim (S; em ji yin 自然)
 - [x] 入 (yap) — entrar (S; em chaap yap 插入, yap mun 入門)
 - [x] 出 (chut) — sair (B)
-- [ ] 完 (yun) — completo (S; em yuen mei 完美)
+- [x] 完 (yun) — completo (S; em yuen mei 完美)
 - [ ] 自 (ji) — próprio (S; em ji yin 自然)
 - [ ] 興 (hing) — prosperar/animar (S; em hing 興 ânimo)
 - [ ] 嚴 (yim) — rigoroso (S; em yim sau 嚴守)
