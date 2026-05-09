@@ -130,7 +130,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 迪 (dik) — guiar (S; em kai dik)
 - [x] 勉 (min) — esforçar (S; em kan min lin jaap 勤勉練習)
 - [x] 勤 (kan) — diligente (S; em kan min)
-- [ ] 勢 (sai) — situação/postura (S)
+- [x] 勢 (sai) — situação/postura (S)
 - [ ] 序 (jui) — ordem (S; em chi jui 次序)
 - [ ] 次 (chi) — sequência (S; em chi jui)
 - [ ] 弛 (chi) — afrouxar (S; em sung chi 鬆弛)
