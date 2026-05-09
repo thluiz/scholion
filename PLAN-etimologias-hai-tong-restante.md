@@ -135,7 +135,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 次 (chi) — sequência (S; em chi jui)
 - [x] 弛 (chi) — afrouxar (S; em sung chi 鬆弛)
 - [x] 鬆 (sung) — relaxar (S; em sung chi, hing sung 輕鬆)
-- [ ] 輕 (hing) — leve (S; em hing sung)
+- [x] 輕 (hing) — leve (S; em hing sung)
 - [ ] 性 (sing) — natureza (C)
 - [ ] 略 (leuk) — estratégia (C; em jin leuk 戰略)
 - [ ] 移 (yi) — mover (C; em yi dung 移動)
