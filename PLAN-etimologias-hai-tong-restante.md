@@ -49,7 +49,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 轉 (juen) — girar (C; em juen ma 轉馬)
 - [x] 擊 (gik) — golpear (C; em bok gik 搏擊)
 - [x] 敵 (dik) — inimigo (C; em dik yan 敵人)
-- [ ] 戰 (jin) — batalha/combate (C, L; em jin choi 戰拳)
+- [x] 戰 (jin) — batalha/combate (C, L; em jin choi 戰拳)
 - [ ] 黐 (chi) — Chi Sau 黐手 / Chi Gwan 黐棍 (L) ★ priorizar
 - [ ] 攬 (laam) — abraçar/segurar (S; em laam geng ji jiu 攬鏡自照)
 - [ ] 鉗 (kim) — pinça (S; em yi ji kim yeung ma 二字鉗羊馬)
