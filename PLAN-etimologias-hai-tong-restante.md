@@ -33,7 +33,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 
 ## Batch 1 — Núcleo técnico marcial (28)
 
-- [ ] 力 (lik) — força (S, C, L; presente em 武力, 內力, 氣力, 霸力, 用力)
+- [x] 力 (lik) — força (S, C, L; presente em 武力, 內力, 氣力, 霸力, 用力)
 - [ ] 氣 (hei) — qi/energia respiratória (S, C; em saang hei 省氣, hei lik 氣力)
 - [ ] 演 (yin) — performar/executar (S, C, L; em yan mo 演武, yan haang 演行)
 - [ ] 習 (jaap) — praticar (S, C; em lin jaap 練習)
