@@ -78,7 +78,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 殺 (saat) — matar (B; em chi saat)
 - [x] 材 (choi) — material/talento (L, B; em saam choi 三材, "ku sang"...)
 - [x] 之 (ji) — partícula clássica (S, C, L, B; ubíqua)
-- [ ] 不 (bat) — negação (C, L, B; em bat chuen ji bei)
+- [x] 不 (bat) — negação (C, L, B; em bat chuen ji bei)
 - [ ] 有 (yau) — ter (S, L, B; em yau haau 有效)
 - [ ] 無 (mou) — não ter (S, L; em mo ying 無形)
 - [ ] 為 (wai) — fazer/ser (L)
