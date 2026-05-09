@@ -52,7 +52,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 戰 (jin) — batalha/combate (C, L; em jin choi 戰拳)
 - [x] 黐 (chi) — Chi Sau 黐手 / Chi Gwan 黐棍 (L) ★ priorizar
 - [x] 攬 (laam) — abraçar/segurar (S; em laam geng ji jiu 攬鏡自照)
-- [ ] 鉗 (kim) — pinça (S; em yi ji kim yeung ma 二字鉗羊馬)
+- [x] 鉗 (kim) — pinça (S; em yi ji kim yeung ma 二字鉗羊馬)
 - [ ] 鏡 (geng) — espelho (S; em laam geng)
 - [ ] 軀 (kui) — corpo/tronco (C; em san kui 身軀)
 - [ ] 道 (dou) — Caminho (C; em bok gik ji do 搏擊之道)
