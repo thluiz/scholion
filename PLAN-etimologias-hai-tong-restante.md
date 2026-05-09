@@ -69,7 +69,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 精 (jing) — essência/quintessência (S; em jing san)
 - [x] 總 (jung) — geral/total (S, C; em kuen jung 拳總)
 - [x] 信 (sun) — confiar (S; em sun nim 信念)
-- [ ] 誡 (gaai) — advertir/regra (S; em mo ying dik gaai sin 無形的誡線)
+- [x] 誡 (gaai) — advertir/regra (S; em mo ying dik gaai sin 無形的誡線)
 - [ ] 論 (lun) — teoria (C; em lei lun 理論)
 - [ ] 覦 (yu) — desejar (C; em 覬覦)
 - [ ] 覬 (gei) — cobiçar (C; em 覬覦攻擊的橋樑)
