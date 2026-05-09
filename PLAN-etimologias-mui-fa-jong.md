@@ -78,7 +78,7 @@ Decisão: pesquisar apenas se vier a existir nota de discípulo no Scholion para
 - [x] 地 (dei) — terra; dei jong 地樁
 - [x] 子 (ji) — sufixo nominal; dai ji 弟子, gwai ji 鬼子
 - [x] 公 (gung) — público; 公司 (companhia)
-- [ ] 古 (gu) — antigo; ku sang 古生 (nome de discípulo, mas 古 também é conceito amplo)
+- [x] 古 (gu) — antigo; ku sang 古生 (nome de discípulo, mas 古 também é conceito amplo)
 
 ## Totais
 
