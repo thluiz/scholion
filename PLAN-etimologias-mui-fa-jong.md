@@ -59,7 +59,7 @@ Decisão: pesquisar apenas se vier a existir nota de discípulo no Scholion para
 - [x] 箭 (jin) — flecha; hau jin 後箭 (postura)
 - [x] 後 (hau) — depois/atrás; hau hok 後學, hau jin 後箭
 - [x] 前 (chin) — antes/frente; chin gung 前弓
-- [ ] 打 (da) — golpear; da jong 打樁, da ji 打字
+- [x] 打 (da) — golpear; da jong 打樁, da ji 打字
 - [ ] 動 (dung) — movimento; din dung 電動
 - [ ] 電 (din) — eletricidade; din dung 電動
 - [ ] 死 (sei) — morto; ma sei da 馬死打
