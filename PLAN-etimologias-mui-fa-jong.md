@@ -61,7 +61,7 @@ Decisão: pesquisar apenas se vier a existir nota de discípulo no Scholion para
 - [x] 前 (chin) — antes/frente; chin gung 前弓
 - [x] 打 (da) — golpear; da jong 打樁, da ji 打字
 - [x] 動 (dung) — movimento; din dung 電動
-- [ ] 電 (din) — eletricidade; din dung 電動
+- [x] 電 (din) — eletricidade; din dung 電動
 - [ ] 死 (sei) — morto; ma sei da 馬死打
 - [ ] 撲 (pok) — investir; pok foh 撲火
 - [ ] 火 (foh) — fogo; pok foh dang ngoh 撲火燈蛾
