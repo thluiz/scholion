@@ -39,7 +39,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 習 (jaap) — praticar (S, C; em lin jaap 練習)
 - [x] 段 (duen) — seção/divisão (C, B; em estrutura dos kuen e Baat Jaam Do)
 - [x] 形 (ying) — forma (S, C; em san ying 身形, dui ying 對形)
-- [ ] 腰 (yiu) — cintura (C; em yiu ma 腰馬)
+- [x] 腰 (yiu) — cintura (C; em yiu ma 腰馬)
 - [ ] 腿 (toei) — perna (C)
 - [ ] 膀 (bong) — Bong Sau 膀手 (S — técnica nuclear)
 - [ ] 膊 (bok) — ombro/braço (L; em jak bok 側膊)
