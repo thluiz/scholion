@@ -133,7 +133,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 勢 (sai) — situação/postura (S)
 - [x] 序 (jui) — ordem (S; em chi jui 次序)
 - [x] 次 (chi) — sequência (S; em chi jui)
-- [ ] 弛 (chi) — afrouxar (S; em sung chi 鬆弛)
+- [x] 弛 (chi) — afrouxar (S; em sung chi 鬆弛)
 - [ ] 鬆 (sung) — relaxar (S; em sung chi, hing sung 輕鬆)
 - [ ] 輕 (hing) — leve (S; em hing sung)
 - [ ] 性 (sing) — natureza (C)
