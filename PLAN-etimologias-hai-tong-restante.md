@@ -139,7 +139,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 性 (sing) — natureza (C)
 - [x] 略 (leuk) — estratégia (C; em jin leuk 戰略)
 - [x] 移 (yi) — mover (C; em yi dung 移動)
-- [ ] 程 (cheng) — etapa (C; em lei cheng 里程)
+- [x] 程 (cheng) — etapa (C; em lei cheng 里程)
 - [ ] 締 (dai) — atar (C; em jan tai 真締)
 - [ ] 繡 (sau) — bordar (C; em fa kuen sau tui 花拳繡腿)
 - [ ] 羊 (yeung) — carneiro (S; em yi ji kim yeung 二字鉗羊馬)
