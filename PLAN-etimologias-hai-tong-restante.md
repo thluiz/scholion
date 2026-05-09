@@ -41,7 +41,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 形 (ying) — forma (S, C; em san ying 身形, dui ying 對形)
 - [x] 腰 (yiu) — cintura (C; em yiu ma 腰馬)
 - [x] 腿 (toei) — perna (C)
-- [ ] 膀 (bong) — Bong Sau 膀手 (S — técnica nuclear)
+- [x] 膀 (bong) — Bong Sau 膀手 (S — técnica nuclear)
 - [ ] 膊 (bok) — ombro/braço (L; em jak bok 側膊)
 - [ ] 柔 (yau) — suave (S; em yau sun 柔順)
 - [ ] 界 (gaai) — limite/fronteira (S, C, L; em gaai haan 界限, gaai sin 誡線/界線)
