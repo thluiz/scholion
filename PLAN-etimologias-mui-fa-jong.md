@@ -77,7 +77,7 @@ Decisão: pesquisar apenas se vier a existir nota de discípulo no Scholion para
 - [x] 大 (daai) — grande; daai si hing 大師兄, gwaan mun daai gat 關門大吉
 - [x] 地 (dei) — terra; dei jong 地樁
 - [x] 子 (ji) — sufixo nominal; dai ji 弟子, gwai ji 鬼子
-- [ ] 公 (gung) — público; 公司 (companhia)
+- [x] 公 (gung) — público; 公司 (companhia)
 - [ ] 古 (gu) — antigo; ku sang 古生 (nome de discípulo, mas 古 também é conceito amplo)
 
 ## Totais
