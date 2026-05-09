@@ -54,7 +54,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 攬 (laam) — abraçar/segurar (S; em laam geng ji jiu 攬鏡自照)
 - [x] 鉗 (kim) — pinça (S; em yi ji kim yeung ma 二字鉗羊馬)
 - [x] 鏡 (geng) — espelho (S; em laam geng)
-- [ ] 軀 (kui) — corpo/tronco (C; em san kui 身軀)
+- [x] 軀 (kui) — corpo/tronco (C; em san kui 身軀)
 - [ ] 道 (dou) — Caminho (C; em bok gik ji do 搏擊之道)
 - [ ] 霸 (ba) — hegemónico/força bruta (S; em ba lik 霸力)
 - [ ] 棍 (gwan) — bastão (L; em Luk Dim Bun Gwan 六點半棍)
