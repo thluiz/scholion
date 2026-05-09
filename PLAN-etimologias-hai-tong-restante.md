@@ -128,7 +128,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 
 - [x] 啟 (kai) — abrir/iniciar (S; em kai dik ji yan 啟迪之人)
 - [x] 迪 (dik) — guiar (S; em kai dik)
-- [ ] 勉 (min) — esforçar (S; em kan min lin jaap 勤勉練習)
+- [x] 勉 (min) — esforçar (S; em kan min lin jaap 勤勉練習)
 - [ ] 勤 (kan) — diligente (S; em kan min)
 - [ ] 勢 (sai) — situação/postura (S)
 - [ ] 序 (jui) — ordem (S; em chi jui 次序)
