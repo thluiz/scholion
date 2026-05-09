@@ -84,7 +84,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 為 (wai) — fazer/ser (L)
 - [x] 然 (yin) — assim (S; em ji yin 自然)
 - [x] 入 (yap) — entrar (S; em chaap yap 插入, yap mun 入門)
-- [ ] 出 (chut) — sair (B)
+- [x] 出 (chut) — sair (B)
 - [ ] 完 (yun) — completo (S; em yuen mei 完美)
 - [ ] 自 (ji) — próprio (S; em ji yin 自然)
 - [ ] 興 (hing) — prosperar/animar (S; em hing 興 ânimo)
