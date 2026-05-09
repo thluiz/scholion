@@ -165,7 +165,7 @@ Cada caractere com o(s) nome(s)/expressão(ões) do Hai Tong onde aparece. Subdi
 
 Estes não são nome próprio mas são vocabulário técnico relevante — recomendo avaliar mover para Batch 1.
 
-- [ ] 伏 (fuk) — **Fuk Sau 伏手** ★ técnica nuclear do Siu Nim Tau
+- [x] 伏 (fuk) — **Fuk Sau 伏手** ★ técnica nuclear do Siu Nim Tau
 - [ ] 內 (noi) — **noi lik 內力** (energia interna), **noi gung 內功**
 - [ ] 對 (dui) — **dui ying 對形, dui sau 對手** (confronto)
 - [ ] 點 (dim) — **Luk Dim 六點** (os 6 pontos do bastão)
