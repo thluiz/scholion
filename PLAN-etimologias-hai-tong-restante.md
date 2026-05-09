@@ -46,7 +46,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 柔 (yau) — suave (S; em yau sun 柔順)
 - [x] 界 (gaai) — limite/fronteira (S, C, L; em gaai haan 界限, gaai sin 誡線/界線)
 - [x] 限 (haan) — limite (S, C, L; em gaai haan)
-- [ ] 轉 (juen) — girar (C; em juen ma 轉馬)
+- [x] 轉 (juen) — girar (C; em juen ma 轉馬)
 - [ ] 擊 (gik) — golpear (C; em bok gik 搏擊)
 - [ ] 敵 (dik) — inimigo (C; em dik yan 敵人)
 - [ ] 戰 (jin) — batalha/combate (C, L; em jin choi 戰拳)
