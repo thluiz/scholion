@@ -65,7 +65,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 ## Batch 2 — Conceituais + ferramentas + lógica (28)
 
 - [x] 心 (sam) — coração/mente (S; em chim sam 潛心)
-- [ ] 神 (san) — espírito (S; em jing san jaap jung 精神集中)
+- [x] 神 (san) — espírito (S; em jing san jaap jung 精神集中)
 - [ ] 精 (jing) — essência/quintessência (S; em jing san)
 - [ ] 總 (jung) — geral/total (S, C; em kuen jung 拳總)
 - [ ] 信 (sun) — confiar (S; em sun nim 信念)
