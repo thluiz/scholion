@@ -65,7 +65,7 @@ Decisão: pesquisar apenas se vier a existir nota de discípulo no Scholion para
 - [x] 死 (sei) — morto; ma sei da 馬死打
 - [x] 撲 (pok) — investir; pok foh 撲火
 - [x] 火 (foh) — fogo; pok foh dang ngoh 撲火燈蛾
-- [ ] 燈 (dang) — lâmpada; dang ngoh 燈蛾
+- [x] 燈 (dang) — lâmpada; dang ngoh 燈蛾
 - [ ] 蛾 (ngoh) — mariposa
 - [ ] 落 (lok) — cair; yat lok jin jeung 一落千丈
 - [ ] 千 (cheen) — mil; jin jeung 千丈
