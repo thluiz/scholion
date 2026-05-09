@@ -72,7 +72,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 誡 (gaai) — advertir/regra (S; em mo ying dik gaai sin 無形的誡線)
 - [x] 論 (lun) — teoria (C; em lei lun 理論)
 - [x] 覦 (yu) — desejar (C; em 覬覦)
-- [ ] 覬 (gei) — cobiçar (C; em 覬覦攻擊的橋樑)
+- [x] 覬 (gei) — cobiçar (C; em 覬覦攻擊的橋樑)
 - [ ] 刀 (do) — faca (L, B; em Baat Jaam Do 八斬刀)
 - [ ] 刺 (chi) — perfurar/estoquear (B; em chi saat 刺殺)
 - [ ] 殺 (saat) — matar (B; em chi saat)
