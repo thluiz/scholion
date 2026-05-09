@@ -57,7 +57,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 軀 (kui) — corpo/tronco (C; em san kui 身軀)
 - [x] 道 (dou) — Caminho (C; em bok gik ji do 搏擊之道)
 - [x] 霸 (ba) — hegemónico/força bruta (S; em ba lik 霸力)
-- [ ] 棍 (gwan) — bastão (L; em Luk Dim Bun Gwan 六點半棍)
+- [x] 棍 (gwan) — bastão (L; em Luk Dim Bun Gwan 六點半棍)
 - [ ] 傳 (chuen) — transmitir (L, B; em bat chuen ji bei 不傳之秘, chan chuen 真傳)
 - [ ] 行 (haang) — andar/agir (C; em yan haang 演行, ping haang 平衡)
 - [ ] 衡 (haang) — equilíbrio (C; em ping haang 平衡)
