@@ -72,7 +72,7 @@ Decisão: pesquisar apenas se vier a existir nota de discípulo no Scholion para
 - [x] 丈 (jeung) — unidade de medida (~3.3m); 千丈
 - [x] 關 (gwaan) — fechar; gwaan mun daai gat 關門大吉
 - [x] 香 (heung) — fragrante; heung gong 香港 (Hong Kong)
-- [ ] 港 (gong) — porto; heung gong 香港
+- [x] 港 (gong) — porto; heung gong 香港
 - [ ] 元 (yuen) — moeda
 - [ ] 大 (daai) — grande; daai si hing 大師兄, gwaan mun daai gat 關門大吉
 - [ ] 地 (dei) — terra; dei jong 地樁
