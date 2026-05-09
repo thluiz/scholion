@@ -35,7 +35,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 
 - [x] 力 (lik) — força (S, C, L; presente em 武力, 內力, 氣力, 霸力, 用力)
 - [x] 氣 (hei) — qi/energia respiratória (S, C; em saang hei 省氣, hei lik 氣力)
-- [ ] 演 (yin) — performar/executar (S, C, L; em yan mo 演武, yan haang 演行)
+- [x] 演 (yin) — performar/executar (S, C, L; em yan mo 演武, yan haang 演行)
 - [ ] 習 (jaap) — praticar (S, C; em lin jaap 練習)
 - [ ] 段 (duen) — seção/divisão (C, B; em estrutura dos kuen e Baat Jaam Do)
 - [ ] 形 (ying) — forma (S, C; em san ying 身形, dui ying 對形)
