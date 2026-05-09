@@ -68,7 +68,7 @@ Decisão: pesquisar apenas se vier a existir nota de discípulo no Scholion para
 - [x] 燈 (dang) — lâmpada; dang ngoh 燈蛾
 - [x] 蛾 (ngoh) — mariposa
 - [x] 落 (lok) — cair; yat lok jin jeung 一落千丈
-- [ ] 千 (cheen) — mil; jin jeung 千丈
+- [x] 千 (cheen) — mil; jin jeung 千丈
 - [ ] 丈 (jeung) — unidade de medida (~3.3m); 千丈
 - [ ] 關 (gwaan) — fechar; gwaan mun daai gat 關門大吉
 - [ ] 香 (heung) — fragrante; heung gong 香港 (Hong Kong)
