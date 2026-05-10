@@ -101,7 +101,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 八 (baat) — oito (L, B; em Baat Jaam Do)
 - [x] 九 (gau) — nove (S; em Kowloon 九龍)
 - [x] 兩 (leung) — par (L, B; em leung sau 兩手)
-- [ ] 半 (bun) — metade (L; em Luk Dim Bun Gwan)
+- [x] 半 (bun) — metade (L; em Luk Dim Bun Gwan)
 - [ ] 時 (si) — tempo (L)
 - [ ] 新 (san) — novo (L, B)
 - [ ] 近 (gan) — próximo (S; em gan lei 近利)
