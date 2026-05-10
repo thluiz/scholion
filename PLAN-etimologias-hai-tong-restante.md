@@ -118,7 +118,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 找 (jaau) — buscar (C; em jaau cham 找尋)
 - [x] 省 (saang) — economizar (S, C; em saang hei 省氣)
 - [x] 效 (haau) — efeito (S; em yau haau 有效)
-- [ ] 基 (gei) — base (C; em gei bun 基本)
+- [x] 基 (gei) — base (C; em gei bun 基本)
 - [ ] 固 (gu) — sólido (C; em wan gu 穩固)
 - [ ] 央 (yeung) — central (C; em jung yeung 中央)
 - [ ] 才 (choi) — talento (L; em saam choi 三才 — Três Potências)
