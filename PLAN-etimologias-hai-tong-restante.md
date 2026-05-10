@@ -122,7 +122,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 固 (gu) — sólido (C; em wan gu 穩固)
 - [x] 央 (yeung) — central (C; em jung yeung 中央)
 - [x] 才 (choi) — talento (L; em saam choi 三才 — Três Potências)
-- [ ] 距 (kui) — distância (S; em kui lei)
+- [x] 距 (kui) — distância (S; em kui lei)
 
 ## Batch 4 — Postura, ritualismo, expressões (~22)
 
