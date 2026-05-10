@@ -106,7 +106,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 新 (san) — novo (L, B)
 - [x] 近 (gan) — próximo (S; em gan lei 近利)
 - [x] 集 (jaap) — reunir (S, C; em jaap jung 集中)
-- [ ] 量 (leung) — medir (C)
+- [x] 量 (leung) — medir (C)
 - [ ] 雙 (seung) — duplo/par (S; em seung sau 雙手)
 - [ ] 離 (lei) — separar/distância (S; em kui lei 距離)
 - [ ] 順 (sun) — fluente (S; em yau sun 柔順)
