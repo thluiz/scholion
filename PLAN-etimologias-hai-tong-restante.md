@@ -95,7 +95,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 
 ## Batch 3 — Operadores + numerais + cotidiano (28)
 
-- [ ] 二 (yi) — dois (S, L; em yi ji 二字)
+- [x] 二 (yi) — dois (S, L; em yi ji 二字)
 - [ ] 四 (sei) — quatro (L; em Sei Ping Daai Ma 四平大馬)
 - [ ] 六 (luk) — seis (L; em Luk Dim Bun Gwan)
 - [ ] 八 (baat) — oito (L, B; em Baat Jaam Do)
