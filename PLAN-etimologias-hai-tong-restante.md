@@ -114,7 +114,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 恬 (tim) — tranquilo (S; em tim jing)
 - [x] 唱 (cheung) — cantar (S; em saam cheung 三唱)
 - [x] 譯 (yik) — traduzir (S; em yin yik 演譯)
-- [ ] 教 (gaau) — ensinar (B)
+- [x] 教 (gaau) — ensinar (B)
 - [ ] 找 (jaau) — buscar (C; em jaau cham 找尋)
 - [ ] 省 (saang) — economizar (S, C; em saang hei 省氣)
 - [ ] 效 (haau) — efeito (S; em yau haau 有效)
