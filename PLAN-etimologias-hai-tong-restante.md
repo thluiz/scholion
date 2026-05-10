@@ -109,7 +109,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 量 (leung) — medir (C)
 - [x] 雙 (seung) — duplo/par (S; em seung sau 雙手)
 - [x] 離 (lei) — separar/distância (S; em kui lei 距離)
-- [ ] 順 (sun) — fluente (S; em yau sun 柔順)
+- [x] 順 (sun) — fluente (S; em yau sun 柔順)
 - [ ] 靜 (jing) — tranquilo (S; em tim jing 恬靜)
 - [ ] 恬 (tim) — tranquilo (S; em tim jing)
 - [ ] 唱 (cheung) — cantar (S; em saam cheung 三唱)
