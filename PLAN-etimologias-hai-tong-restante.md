@@ -104,7 +104,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 半 (bun) — metade (L; em Luk Dim Bun Gwan)
 - [x] 時 (si) — tempo (L)
 - [x] 新 (san) — novo (L, B)
-- [ ] 近 (gan) — próximo (S; em gan lei 近利)
+- [x] 近 (gan) — próximo (S; em gan lei 近利)
 - [ ] 集 (jaap) — reunir (S, C; em jaap jung 集中)
 - [ ] 量 (leung) — medir (C)
 - [ ] 雙 (seung) — duplo/par (S; em seung sau 雙手)
