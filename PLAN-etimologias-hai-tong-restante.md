@@ -99,7 +99,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 四 (sei) — quatro (L; em Sei Ping Daai Ma 四平大馬)
 - [x] 六 (luk) — seis (L; em Luk Dim Bun Gwan)
 - [x] 八 (baat) — oito (L, B; em Baat Jaam Do)
-- [ ] 九 (gau) — nove (S; em Kowloon 九龍)
+- [x] 九 (gau) — nove (S; em Kowloon 九龍)
 - [ ] 兩 (leung) — par (L, B; em leung sau 兩手)
 - [ ] 半 (bun) — metade (L; em Luk Dim Bun Gwan)
 - [ ] 時 (si) — tempo (L)
