@@ -144,7 +144,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 繡 (sau) — bordar (C; em fa kuen sau tui 花拳繡腿)
 - [x] 羊 (yeung) — carneiro (S; em yi ji kim yeung 二字鉗羊馬)
 - [x] 領 (ling) — guiar/território (C; em ling wik 領域)
-- [ ] 域 (wik) — território (C; em ling wik)
+- [x] 域 (wik) — território (C; em ling wik)
 - [ ] 階 (gaai) — degrau (C; em gaai duen 階段)
 - [ ] 文 (man) — civil/cultivado (S; em si man 斯文) — verificar se pode existir cobertura prévia
 - [ ] 板 (baan) — tábua (S; em koi hak baan sik 蓋刻板式)
