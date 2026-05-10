@@ -147,7 +147,7 @@ Pulamos por padrão (decisão de 2026-04-25): pesquisar só se houver nota de di
 - [x] 域 (wik) — território (C; em ling wik)
 - [x] 階 (gaai) — degrau (C; em gaai duen 階段)
 - [x] 文 (man) — civil/cultivado (S; em si man 斯文)
-- [ ] 板 (baan) — tábua (S; em koi hak baan sik 蓋刻板式)
+- [x] 板 (baan) — tábua (S; em koi hak baan sik 蓋刻板式)
 
 ## Totais
 
