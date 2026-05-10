@@ -8,6 +8,11 @@ sources:
 - title: Chin Woo Athletic Association — Wikipedia
   url: https://en.wikipedia.org/wiki/Chin_Woo_Athletic_Association
   kind: wiki
+- title: "Jingwu: The School that Transformed Kung Fu"
+  author: "Brian Kennedy & Elizabeth Guo"
+  year: 2010
+  publisher: "Blue Snake Books / North Atlantic Books"
+  kind: book
 ---
 
 精武 (Jing Wu / Chin Woo). O nome completo é 精武體育會 (Chin Woo Athletic Association).
