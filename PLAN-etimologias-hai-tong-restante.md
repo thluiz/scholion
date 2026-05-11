@@ -251,7 +251,7 @@ Só fazer se vier nota de discípulo correspondente.
 ### 5f. Operadores miscelâneos (~12)
 
 - [ ] 以 (yi) — partícula clássica "com/usando"
-- [ ] 促 (chuk) — **chuk kiu 促橋** (cotovelo fora de posição) — termo técnico do SNT
+- [x] 促 (chuk) — **chuk kiu 促橋** (cotovelo fora de posição) — termo técnico do SNT
 - [ ] 先 (sin) — primeiro; **sin sang 先生** (mestre)
 - [ ] 刻 (hak) — **koi hak baan sik 蓋刻板式** (gravado mecanicamente)
 - [ ] 午 (ng) — **yi bok wai ng 以膊為午** (com o ombro como meio)
