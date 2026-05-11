@@ -259,7 +259,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [x] 右 (yau) — direção (right)
 - [x] 向 (heung) — direção; **fong heung 方向**
 - [x] 工 (gung) — em **gung wui 工會** (sindicato/união)
-- [ ] 定 (ding) — em **yat ding 一定** (certamente, definidamente)
+- [x] 定 (ding) — em **yat ding 一定** (certamente, definidamente)
 - [x] 家 (ga) — em **酒家 jau ga** (restaurante); **noi gung 內** uses
 - [x] 會 (wui) — **gung wui 工會** (associação); **gei wui 機會** (oportunidade)
 - [ ] 成 (sing) — **成材 sing choi** (madeiras úteis)
