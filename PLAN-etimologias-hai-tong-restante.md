@@ -236,7 +236,7 @@ Só fazer se vier nota de discípulo correspondente.
 
 ### 5e. Idiomas e expressões fixas (~10)
 
-- [ ] 了 (liu) — **yat muk liu yin 一目了然** (ver claro de relance)
+- [x] 了 (liu) — **yat muk liu yin 一目了然** (ver claro de relance)
 - [ ] 杞 (gei) — **Gei yan yau tin 杞人憂天** ("homem de Gei se preocupa com o céu" — idiom)
 - [ ] 憂 (yau) — **Gei yan yau tin 杞人憂天**
 - [ ] 辰 (san) — **saang bat fung san 生不逢辰** ("nasci em hora inoportuna")
