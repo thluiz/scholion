@@ -226,7 +226,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [x] 食 (sik) — **yam sik 飲食** (alimentação)
 - [x] 飲 (yam) — **yam sik 飲食**
 - [x] 業 (yip) — **yam sik yip 飲食業** (indústria gastronómica); **yip gung wui 業工會**
-- [ ] 菜 (choi) — **siu choi 小菜** (pratos)
+- [x] 菜 (choi) — **siu choi 小菜** (pratos)
 - [ ] 豆 (dau) — **Dau Pei Hoi 豆皮海** (apelido cozinheiro)
 - [ ] 皮 (pei) — **Dau Pei Hoi 豆皮海**
 - [ ] 筷 (faai) — **Fai Ji 筷子** (pauzinhos)
