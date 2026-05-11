@@ -211,7 +211,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [x] 長 (cheung) — **Cheung Sa Wan 長沙灣**; também adjetivo "longo"
 - [x] 海 (hoi) — **Tin Hoi 天海** (Restaurante); também "mar"
 - [x] 街 (gaai) — **Boundary Street 界限街**
-- [ ] 巷 (hong) — **Fai Ji Hong 筷子巷** (Travessa dos Pauzinhos, Fat Saan)
+- [x] 巷 (hong) — **Fai Ji Hong 筷子巷** (Travessa dos Pauzinhos, Fat Saan)
 - [ ] 蒲 (po) — **San Po Kong 新蒲崗** (Hong Kong)
 - [ ] 崗 (gong) — **San Po Kong 新蒲崗**
 - [x] 旺 (wong) — **Mongkok 旺角** (Hotel Mongkok)
