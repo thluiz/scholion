@@ -254,7 +254,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [x] 促 (chuk) — **chuk kiu 促橋** (cotovelo fora de posição) — termo técnico do SNT
 - [x] 先 (sin) — primeiro; **sin sang 先生** (mestre)
 - [x] 刻 (hak) — **koi hak baan sik 蓋刻板式** (gravado mecanicamente)
-- [ ] 午 (ng) — **yi bok wai ng 以膊為午** (com o ombro como meio)
+- [x] 午 (ng) — **yi bok wai ng 以膊為午** (com o ombro como meio)
 - [ ] 叉 (cha) — **Wu Sau Cha 護手叉** (guarda da faca)
 - [ ] 右 (yau) — direção (right)
 - [ ] 向 (heung) — direção; **fong heung 方向**
