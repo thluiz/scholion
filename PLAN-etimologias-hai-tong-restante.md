@@ -225,7 +225,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [x] 館 (gun) — **mo gun 武館** (escola marcial); 飯館 (restaurante)
 - [x] 食 (sik) — **yam sik 飲食** (alimentação)
 - [x] 飲 (yam) — **yam sik 飲食**
-- [ ] 業 (yip) — **yam sik yip 飲食業** (indústria gastronómica); **yip gung wui 業工會**
+- [x] 業 (yip) — **yam sik yip 飲食業** (indústria gastronómica); **yip gung wui 業工會**
 - [ ] 菜 (choi) — **siu choi 小菜** (pratos)
 - [ ] 豆 (dau) — **Dau Pei Hoi 豆皮海** (apelido cozinheiro)
 - [ ] 皮 (pei) — **Dau Pei Hoi 豆皮海**
