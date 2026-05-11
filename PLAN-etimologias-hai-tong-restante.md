@@ -222,7 +222,7 @@ Só fazer se vier nota de discípulo correspondente.
 ### 5d. Cultura/gastronomia/dança popular (~10)
 
 - [x] 酒 (jau) — **酒家** (restaurante); **King Wa Restaurant 瓊華酒家**
-- [ ] 館 (gun) — **mo gun 武館** (escola marcial); 飯館 (restaurante)
+- [x] 館 (gun) — **mo gun 武館** (escola marcial); 飯館 (restaurante)
 - [ ] 食 (sik) — **yam sik 飲食** (alimentação)
 - [ ] 飲 (yam) — **yam sik 飲食**
 - [ ] 業 (yip) — **yam sik yip 飲食業** (indústria gastronómica); **yip gung wui 業工會**
