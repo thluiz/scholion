@@ -179,7 +179,7 @@ Estes não são nome próprio mas são vocabulário técnico relevante — recom
 - [x] 響 (heung) — **gwan mo leung heung 棍無兩響** (lema do bastão)
 - [x] 秘 (bei) — **bat chuen ji bei 不傳之秘** (segredo reservado)
 - [x] 目 (muk) — **yat muk liu yin 一目了然** (idiom: ver de relance)
-- [ ] 然 (já em Batch 2)
+- [x] 然 (já em Batch 2)
 
 ### 5b. Sobrenomes / nomes de mestres e discípulos (~14)
 
