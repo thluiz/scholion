@@ -268,7 +268,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [x] 船 (suen) — **Hung Suen 紅船** (Barcaças Vermelhas — atores ancestrais do Ving Tsun)
 - [x] 里 (lei) — **lei cheng 里程** (etapa/marco)
 - [x] 照 (jiu) — **laam geng ji jiu 攬鏡自照** (olhar-se ao espelho)
-- [ ] 齋 (jaai) — **Ngau Gu Jaai 樂古齋** (estabelecimento)
+- [x] 齋 (jaai) — **Ngau Gu Jaai 樂古齋** (estabelecimento)
 
 ### Totais Batch 5
 
