@@ -207,7 +207,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [x] 廣 — **Gwong Dung 廣東** (Cantão) (já em Batch 2 como "amplo")
 - [x] 東 (dung) — **Gwong Dung 廣東**; **Tai Hang Tung 大坑東**
 - [x] 沙 (sa) — **Cheung Sa Wan 長沙灣**
-- [ ] 灣 (wan) — **Cheung Sa Wan 長沙灣**
+- [x] 灣 (wan) — **Cheung Sa Wan 長沙灣**
 - [ ] 長 (cheung) — **Cheung Sa Wan 長沙灣**; também adjetivo "longo"
 - [ ] 海 (hoi) — **Tin Hoi 天海** (Restaurante); também "mar"
 - [x] 街 (gaai) — **Boundary Street 界限街**
