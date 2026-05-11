@@ -169,7 +169,7 @@ Estes não são nome próprio mas são vocabulário técnico relevante — recom
 - [x] 內 (noi) — **noi lik 內力** (energia interna), **noi gung 內功**
 - [x] 對 (dui) — **dui ying 對形, dui sau 對手** (confronto)
 - [x] 點 (dim) — **Luk Dim 六點** (os 6 pontos do bastão)
-- [ ] 姿 (ji) — **ji sai 姿勢** (postura)
+- [x] 姿 (ji) — **ji sai 姿勢** (postura)
 - [ ] 側 (jak) — **jak san 側身** (postura lateral)
 - [ ] 潛 (chim) — **chim sam 潛心** (concentração profunda)
 - [ ] 蓋 (koi) — **koi hak baan sik 蓋刻板式** (mecânico/repetitivo) e **gwaan mun daai gat 關門大吉**
