@@ -256,7 +256,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [x] 刻 (hak) — **koi hak baan sik 蓋刻板式** (gravado mecanicamente)
 - [x] 午 (ng) — **yi bok wai ng 以膊為午** (com o ombro como meio)
 - [x] 叉 (cha) — **Wu Sau Cha 護手叉** (guarda da faca)
-- [ ] 右 (yau) — direção (right)
+- [x] 右 (yau) — direção (right)
 - [ ] 向 (heung) — direção; **fong heung 方向**
 - [x] 工 (gung) — em **gung wui 工會** (sindicato/união)
 - [ ] 定 (ding) — em **yat ding 一定** (certamente, definidamente)
