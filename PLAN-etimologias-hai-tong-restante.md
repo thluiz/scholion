@@ -187,7 +187,7 @@ Só fazer se vier nota de discípulo correspondente.
 
 - [ ] 馮 (Fung) — **Fung Siu Ching 馮少青** (mestre, força dos dedos)
 - [x] 黃 (Wong) — **Wong Shun Leung 黃淳樑** (mestre Wong); **Wong Kwok Yau 黃國有**
-- [ ] 淳 (Shun) — **Wong Shun Leung 黃淳樑**
+- [x] 淳 (Shun) — **Wong Shun Leung 黃淳樑**
 - [ ] 徐 (Chui) — **Chu Shong Tin 徐尚田**; **Xú Xuàn 徐鉉** (filólogo)
 - [ ] 尚 (Shong) — **Chu Shong Tin 徐尚田**; também em **崇高 sung go**
 - [ ] 田 (Tin) — **Chu Shong Tin 徐尚田**
