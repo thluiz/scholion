@@ -205,7 +205,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [x] 國 (gwok) — **Jung Gwok 中國** (China)
 - [x] 龍 (lung) — **Kowloon 九龍** (Hong Kong)
 - [ ] 廣 — **Gwong Dung 廣東** (Cantão) (já em Batch 2 como "amplo")
-- [ ] 東 (dung) — **Gwong Dung 廣東**; **Tai Hang Tung 大坑東**
+- [x] 東 (dung) — **Gwong Dung 廣東**; **Tai Hang Tung 大坑東**
 - [ ] 沙 (sa) — **Cheung Sa Wan 長沙灣**
 - [ ] 灣 (wan) — **Cheung Sa Wan 長沙灣**
 - [ ] 長 (cheung) — **Cheung Sa Wan 長沙灣**; também adjetivo "longo"
