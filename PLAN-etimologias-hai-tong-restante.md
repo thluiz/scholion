@@ -265,7 +265,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [ ] 成 (sing) — **成材 sing choi** (madeiras úteis)
 - [x] 斯 (si) — **si man 斯文** (civil/polido)
 - [ ] 決 (kuet) — **kuet** 決 (definitivamente)
-- [ ] 船 (suen) — **Hung Suen 紅船** (Barcaças Vermelhas — atores ancestrais do Ving Tsun)
+- [x] 船 (suen) — **Hung Suen 紅船** (Barcaças Vermelhas — atores ancestrais do Ving Tsun)
 - [ ] 里 (lei) — **lei cheng 里程** (etapa/marco)
 - [ ] 照 (jiu) — **laam geng ji jiu 攬鏡自照** (olhar-se ao espelho)
 - [ ] 齋 (jaai) — **Ngau Gu Jaai 樂古齋** (estabelecimento)
