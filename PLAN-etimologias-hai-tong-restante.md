@@ -217,7 +217,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [x] 旺 (wong) — **Mongkok 旺角** (Hotel Mongkok)
 - [x] 廬 (lou) — **Lu Saan 廬山** (idiom: 廬山真面目 "verdadeira face do Monte Lu")
 - [x] 坡 (po) — **boh chaai 坡柴** (madeira de Singapura)
-- [ ] 柴 (chaai) — **boh chaai 坡柴**
+- [x] 柴 (chaai) — **boh chaai 坡柴**
 
 ### 5d. Cultura/gastronomia/dança popular (~10)
 
