@@ -246,7 +246,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [ ] 俠 (hap) — **San Mo Hap 新武俠** (revista *New Martial Hero*)
 - [ ] 星 (sing) — **Hung Sing 紅星** (em San Po Kong) — local
 - [x] 牌 (paai) — **jiu paai 招牌** (placa/marca)
-- [ ] 盤 (pun) — **hoi bun 開盤** (cerimónia da Dança do Leão); 棋盤 etc
+- [x] 盤 (pun) — **hoi bun 開盤** (cerimónia da Dança do Leão); 棋盤 etc
 
 ### 5f. Operadores miscelâneos (~12)
 
