@@ -228,7 +228,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [x] 業 (yip) — **yam sik yip 飲食業** (indústria gastronómica); **yip gung wui 業工會**
 - [x] 菜 (choi) — **siu choi 小菜** (pratos)
 - [x] 豆 (dau) — **Dau Pei Hoi 豆皮海** (apelido cozinheiro)
-- [ ] 皮 (pei) — **Dau Pei Hoi 豆皮海**
+- [x] 皮 (pei) — **Dau Pei Hoi 豆皮海**
 - [ ] 筷 (faai) — **Fai Ji 筷子** (pauzinhos)
 - [ ] 瓊 (king) — **King Wa 瓊華**
 - [x] 獅 (si) — **mo si 舞獅** (Dança do Leão)
