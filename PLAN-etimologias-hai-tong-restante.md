@@ -214,7 +214,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [ ] 巷 (hong) — **Fai Ji Hong 筷子巷** (Travessa dos Pauzinhos, Fat Saan)
 - [ ] 蒲 (po) — **San Po Kong 新蒲崗** (Hong Kong)
 - [ ] 崗 (gong) — **San Po Kong 新蒲崗**
-- [ ] 旺 (wong) — **Mongkok 旺角** (Hotel Mongkok)
+- [x] 旺 (wong) — **Mongkok 旺角** (Hotel Mongkok)
 - [ ] 廬 (lou) — **Lu Saan 廬山** (idiom: 廬山真面目 "verdadeira face do Monte Lu")
 - [ ] 坡 (po) — **boh chaai 坡柴** (madeira de Singapura)
 - [ ] 柴 (chaai) — **boh chaai 坡柴**
