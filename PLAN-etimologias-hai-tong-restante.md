@@ -230,7 +230,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [x] 豆 (dau) — **Dau Pei Hoi 豆皮海** (apelido cozinheiro)
 - [x] 皮 (pei) — **Dau Pei Hoi 豆皮海**
 - [x] 筷 (faai) — **Fai Ji 筷子** (pauzinhos)
-- [ ] 瓊 (king) — **King Wa 瓊華**
+- [x] 瓊 (king) — **King Wa 瓊華**
 - [x] 獅 (si) — **mo si 舞獅** (Dança do Leão)
 - [x] 鼓 (gu) — **mo si 舞獅** (tambor); **Gu Jai Do 鼓仔刀**
 
