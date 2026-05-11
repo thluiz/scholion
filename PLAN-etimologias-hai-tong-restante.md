@@ -194,7 +194,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [x] 梁 (Leung) — **Leung Jaan 梁贊** (jo si); **Leung Yi Tai 梁二娣**
 - [x] 贊 (Jaan) — **Leung Jaan 梁贊**
 - [x] 娣 (Tai) — **Leung Yi Tai 梁二娣**
-- [ ] 少 (Siu) — **Fung Siu Ching 馮少青**
+- [x] 少 (Siu) — **Fung Siu Ching 馮少青**
 - [ ] 青 (Ching) — **Fung Siu Ching 馮少青**; **Ip Po Ching 葉步青**
 - [x] 葉 (Ip) — **Ip Man 葉問**; vários discípulos (Ip Chun 葉準, Ip Jing 葉正, Ip Po Ching 葉步青)
 - [ ] 準 (Chun) — **Ip Chun 葉準** (filho de Ip Man)
