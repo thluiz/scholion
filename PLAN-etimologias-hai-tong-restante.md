@@ -185,7 +185,7 @@ Estes não são nome próprio mas são vocabulário técnico relevante — recom
 
 Só fazer se vier nota de discípulo correspondente.
 
-- [ ] 馮 (Fung) — **Fung Siu Ching 馮少青** (mestre, força dos dedos)
+- [x] 馮 (Fung) — **Fung Siu Ching 馮少青** (mestre, força dos dedos)
 - [x] 黃 (Wong) — **Wong Shun Leung 黃淳樑** (mestre Wong); **Wong Kwok Yau 黃國有**
 - [x] 淳 (Shun) — **Wong Shun Leung 黃淳樑**
 - [x] 徐 (Chui) — **Chu Shong Tin 徐尚田**; **Xú Xuàn 徐鉉** (filólogo)
