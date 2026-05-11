@@ -191,7 +191,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [ ] 徐 (Chui) — **Chu Shong Tin 徐尚田**; **Xú Xuàn 徐鉉** (filólogo)
 - [ ] 尚 (Shong) — **Chu Shong Tin 徐尚田**; também em **崇高 sung go**
 - [ ] 田 (Tin) — **Chu Shong Tin 徐尚田**
-- [ ] 梁 (Leung) — **Leung Jaan 梁贊** (jo si); **Leung Yi Tai 梁二娣**
+- [x] 梁 (Leung) — **Leung Jaan 梁贊** (jo si); **Leung Yi Tai 梁二娣**
 - [ ] 贊 (Jaan) — **Leung Jaan 梁贊**
 - [ ] 娣 (Tai) — **Leung Yi Tai 梁二娣**
 - [ ] 少 (Siu) — **Fung Siu Ching 馮少青**
