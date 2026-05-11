@@ -174,7 +174,7 @@ Estes não são nome próprio mas são vocabulário técnico relevante — recom
 - [x] 潛 (chim) — **chim sam 潛心** (concentração profunda)
 - [x] 蓋 (koi) — **koi hak baan sik 蓋刻板式** (mecânico/repetitivo) e **gwaan mun daai gat 關門大吉**
 - [x] 閒 (haan) — **on haan 安閒** (relaxado)
-- [ ] 字 (ji) — **yi ji 二字, da ji 打字** (caractere/datilografar)
+- [x] 字 (ji) — **yi ji 二字, da ji 打字** (caractere/datilografar)
 - [ ] 樑 (leung) — **kiu leung 橋樑** (viga; "ponte de ataque")
 - [ ] 響 (heung) — **gwan mo leung heung 棍無兩響** (lema do bastão)
 - [ ] 秘 (bei) — **bat chuen ji bei 不傳之秘** (segredo reservado)
