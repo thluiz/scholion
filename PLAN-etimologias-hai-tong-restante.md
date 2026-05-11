@@ -244,7 +244,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [x] 痾 (oh) — **痾屎馬 oh si ma** (postura ridícula)
 - [x] 屎 (si) — **痾屎馬 oh si ma**
 - [x] 俠 (hap) — **San Mo Hap 新武俠** (revista *New Martial Hero*)
-- [ ] 星 (sing) — **Hung Sing 紅星** (em San Po Kong) — local
+- [x] 星 (sing) — **Hung Sing 紅星** (em San Po Kong) — local
 - [x] 牌 (paai) — **jiu paai 招牌** (placa/marca)
 - [x] 盤 (pun) — **hoi bun 開盤** (cerimónia da Dança do Leão); 棋盤 etc
 
