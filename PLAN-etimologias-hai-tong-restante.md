@@ -192,7 +192,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [ ] 尚 (Shong) — **Chu Shong Tin 徐尚田**; também em **崇高 sung go**
 - [ ] 田 (Tin) — **Chu Shong Tin 徐尚田**
 - [x] 梁 (Leung) — **Leung Jaan 梁贊** (jo si); **Leung Yi Tai 梁二娣**
-- [ ] 贊 (Jaan) — **Leung Jaan 梁贊**
+- [x] 贊 (Jaan) — **Leung Jaan 梁贊**
 - [ ] 娣 (Tai) — **Leung Yi Tai 梁二娣**
 - [ ] 少 (Siu) — **Fung Siu Ching 馮少青**
 - [ ] 青 (Ching) — **Fung Siu Ching 馮少青**; **Ip Po Ching 葉步青**
