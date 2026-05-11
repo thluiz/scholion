@@ -258,7 +258,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [ ] 叉 (cha) — **Wu Sau Cha 護手叉** (guarda da faca)
 - [ ] 右 (yau) — direção (right)
 - [ ] 向 (heung) — direção; **fong heung 方向**
-- [ ] 工 (gung) — em **gung wui 工會** (sindicato/união)
+- [x] 工 (gung) — em **gung wui 工會** (sindicato/união)
 - [ ] 定 (ding) — em **yat ding 一定** (certamente, definidamente)
 - [ ] 家 (ga) — em **酒家 jau ga** (restaurante); **noi gung 內** uses
 - [ ] 會 (wui) — **gung wui 工會** (associação); **gei wui 機會** (oportunidade)
