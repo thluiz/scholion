@@ -240,7 +240,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [x] 杞 (gei) — **Gei yan yau tin 杞人憂天** ("homem de Gei se preocupa com o céu" — idiom)
 - [x] 憂 (yau) — **Gei yan yau tin 杞人憂天**
 - [x] 辰 (san) — **saang bat fung san 生不逢辰** ("nasci em hora inoportuna")
-- [ ] 逢 (fung) — **saang bat fung san 生不逢辰**
+- [x] 逢 (fung) — **saang bat fung san 生不逢辰**
 - [ ] 痾 (oh) — **痾屎馬 oh si ma** (postura ridícula)
 - [ ] 屎 (si) — **痾屎馬 oh si ma**
 - [ ] 俠 (hap) — **San Mo Hap 新武俠** (revista *New Martial Hero*)
