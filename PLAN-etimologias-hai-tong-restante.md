@@ -264,7 +264,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [x] 會 (wui) — **gung wui 工會** (associação); **gei wui 機會** (oportunidade)
 - [x] 成 (sing) — **成材 sing choi** (madeiras úteis)
 - [x] 斯 (si) — **si man 斯文** (civil/polido)
-- [ ] 決 (kuet) — **kuet** 決 (definitivamente)
+- [x] 決 (kuet) — **kuet** 決 (definitivamente)
 - [x] 船 (suen) — **Hung Suen 紅船** (Barcaças Vermelhas — atores ancestrais do Ving Tsun)
 - [x] 里 (lei) — **lei cheng 里程** (etapa/marco)
 - [x] 照 (jiu) — **laam geng ji jiu 攬鏡自照** (olhar-se ao espelho)
