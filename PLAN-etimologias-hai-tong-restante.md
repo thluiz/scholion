@@ -198,7 +198,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [x] 青 (Ching) — **Fung Siu Ching 馮少青**; **Ip Po Ching 葉步青**
 - [x] 葉 (Ip) — **Ip Man 葉問**; vários discípulos (Ip Chun 葉準, Ip Jing 葉正, Ip Po Ching 葉步青)
 - [x] 準 (Chun) — **Ip Chun 葉準** (filho de Ip Man)
-- [ ] 仔 (Jai) — **Gu Jai Do 鼓仔刀** (tipo de faca); diminutivo cantonês
+- [x] 仔 (Jai) — **Gu Jai Do 鼓仔刀** (tipo de faca); diminutivo cantonês
 
 ### 5c. Topônimos / nomes de lugares (~16)
 
