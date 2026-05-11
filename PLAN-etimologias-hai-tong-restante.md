@@ -173,7 +173,7 @@ Estes não são nome próprio mas são vocabulário técnico relevante — recom
 - [x] 側 (jak) — **jak san 側身** (postura lateral)
 - [x] 潛 (chim) — **chim sam 潛心** (concentração profunda)
 - [x] 蓋 (koi) — **koi hak baan sik 蓋刻板式** (mecânico/repetitivo) e **gwaan mun daai gat 關門大吉**
-- [ ] 閒 (haan) — **on haan 安閒** (relaxado)
+- [x] 閒 (haan) — **on haan 安閒** (relaxado)
 - [ ] 字 (ji) — **yi ji 二字, da ji 打字** (caractere/datilografar)
 - [ ] 樑 (leung) — **kiu leung 橋樑** (viga; "ponte de ataque")
 - [ ] 響 (heung) — **gwan mo leung heung 棍無兩響** (lema do bastão)
