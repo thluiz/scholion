@@ -241,7 +241,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [x] 憂 (yau) — **Gei yan yau tin 杞人憂天**
 - [x] 辰 (san) — **saang bat fung san 生不逢辰** ("nasci em hora inoportuna")
 - [x] 逢 (fung) — **saang bat fung san 生不逢辰**
-- [ ] 痾 (oh) — **痾屎馬 oh si ma** (postura ridícula)
+- [x] 痾 (oh) — **痾屎馬 oh si ma** (postura ridícula)
 - [ ] 屎 (si) — **痾屎馬 oh si ma**
 - [ ] 俠 (hap) — **San Mo Hap 新武俠** (revista *New Martial Hero*)
 - [ ] 星 (sing) — **Hung Sing 紅星** (em San Po Kong) — local
