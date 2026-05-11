@@ -215,7 +215,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [x] 蒲 (po) — **San Po Kong 新蒲崗** (Hong Kong)
 - [x] 崗 (gong) — **San Po Kong 新蒲崗**
 - [x] 旺 (wong) — **Mongkok 旺角** (Hotel Mongkok)
-- [ ] 廬 (lou) — **Lu Saan 廬山** (idiom: 廬山真面目 "verdadeira face do Monte Lu")
+- [x] 廬 (lou) — **Lu Saan 廬山** (idiom: 廬山真面目 "verdadeira face do Monte Lu")
 - [ ] 坡 (po) — **boh chaai 坡柴** (madeira de Singapura)
 - [ ] 柴 (chaai) — **boh chaai 坡柴**
 
