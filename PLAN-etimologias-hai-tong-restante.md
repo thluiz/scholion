@@ -176,7 +176,7 @@ Estes não são nome próprio mas são vocabulário técnico relevante — recom
 - [x] 閒 (haan) — **on haan 安閒** (relaxado)
 - [x] 字 (ji) — **yi ji 二字, da ji 打字** (caractere/datilografar)
 - [x] 樑 (leung) — **kiu leung 橋樑** (viga; "ponte de ataque")
-- [ ] 響 (heung) — **gwan mo leung heung 棍無兩響** (lema do bastão)
+- [x] 響 (heung) — **gwan mo leung heung 棍無兩響** (lema do bastão)
 - [ ] 秘 (bei) — **bat chuen ji bei 不傳之秘** (segredo reservado)
 - [ ] 目 (muk) — **yat muk liu yin 一目了然** (idiom: ver de relance)
 - [ ] 然 (já em Batch 2)
