@@ -257,7 +257,7 @@ Só fazer se vier nota de discípulo correspondente.
 - [x] 午 (ng) — **yi bok wai ng 以膊為午** (com o ombro como meio)
 - [x] 叉 (cha) — **Wu Sau Cha 護手叉** (guarda da faca)
 - [x] 右 (yau) — direção (right)
-- [ ] 向 (heung) — direção; **fong heung 方向**
+- [x] 向 (heung) — direção; **fong heung 方向**
 - [x] 工 (gung) — em **gung wui 工會** (sindicato/união)
 - [ ] 定 (ding) — em **yat ding 一定** (certamente, definidamente)
 - [x] 家 (ga) — em **酒家 jau ga** (restaurante); **noi gung 內** uses
