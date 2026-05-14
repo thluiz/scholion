@@ -11,14 +11,12 @@ Programação Inicial de Acesso do Domínio Cham Kiu 尋橋 — atualização 04
 - Após criar a nota, marcar a checkbox aqui e commitar — **um commit por nota**, sem `Co-Authored-By`.
 - Retomar do próximo caractere não marcado ao abrir nova sessão.
 
-## Já listados em outros PLANs (não recriar — fazer no plano do BJ primeiro)
+## Já processados via PLAN do BJ (concluído)
 
-Se o PLAN do Biu Ji ainda não foi executado, processar lá; os caracteres aqui apenas remetem.
-
-- 消 (siu) — também em BJ (Siu Sau) e MFJ
-- 過 (gwoh) — também em BJ (Gwoh Sau)
-- 腳 (geuk) — também em BJ e MFJ
-- 推 (toei) — também em BJ (Toei Ma)
+- [x] 消 (siu) — Siu Sau 消手 — `etimologia-de-siu-xiao-6d88.md`
+- [x] 過 (gwoh) — Gwoh Sau 過手 — `etimologia-de-gwoh-guo-904e.md`
+- [x] 腳 (geuk) — Chi Geuk 黐腳 — `etimologia-de-geuk-jiao-8173.md`
+- [x] 推 (toei) — Toei Ma 推馬 — `etimologia-de-toei-tui-63a8.md`
 
 ## Batch único — 6 ideogramas exclusivos do CK
 
