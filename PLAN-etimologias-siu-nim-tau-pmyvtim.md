@@ -42,6 +42,6 @@ Cobertura completa, inclusive em compostos:
 - [x] 接 (jip) — receber/conectar; Jip Sau 接手
 - [x] 滾 (gwan) — rolar; Gwan Sau 滾手
 - [x] 轆 (luk) — rolar/roldana; Luk Sau 轆手
-- [ ] 外 (ngoi) — fora/externo; Ngoi Mun 外門, Noi Ngoi Mun 內外門
+- [x] 外 (ngoi) — fora/externo; Ngoi Mun 外門, Noi Ngoi Mun 內外門
 
 Total: 18 etimologias a produzir.
