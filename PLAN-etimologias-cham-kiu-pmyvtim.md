@@ -20,7 +20,7 @@ Programação Inicial de Acesso do Domínio Cham Kiu 尋橋 — atualização 04
 
 ## Batch único — 6 ideogramas exclusivos do CK
 
-- [ ] 返 (faan) — voltar, retornar; Faan Sau 返手
+- [x] 返 (faan) — voltar, retornar; Faan Sau 返手
 - [ ] 左 (joh) — esquerda; Joh Ma 左馬
 - [ ] 批 (pai) — bater, cortar/fender; Pai Jaang 批踭 (cotovelada)
 - [ ] 欄 (laan) — barrar, obstruir; Laan Sau 欄手
