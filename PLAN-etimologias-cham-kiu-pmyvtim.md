@@ -25,6 +25,6 @@ Programação Inicial de Acesso do Domínio Cham Kiu 尋橋 — atualização 04
 - [x] 批 (pai) — bater, cortar/fender; Pai Jaang 批踭 (cotovelada)
 - [x] 欄 (laan) — barrar, obstruir; Laan Sau 欄手
 - [x] 撳 (gam) — pressionar (sentido cantonês); Gam Sau 撳手 — também em MFJ
-- [ ] 枕 (jam) — travesseiro; suportar/apoiar; Jam Sau 枕手
+- [x] 枕 (jam) — travesseiro; suportar/apoiar; Jam Sau 枕手
 
 Total: 6 etimologias exclusivas + 4 herdadas do PLAN do BJ.
