@@ -28,7 +28,7 @@ Cobertura completa, inclusive em compostos:
 
 ## Batch 2 — Direção e golpe (6)
 
-- [ ] 低 (dai) — baixo; Dai Waang Jeung 低橫掌 (palma horizontal baixa)
+- [x] 低 (dai) — baixo; Dai Waang Jeung 低橫掌 (palma horizontal baixa)
 - [ ] 橫 (waang) — horizontal; Go/Dai Waang Jeung 高/低橫掌
 - [ ] 直 (jik) — reto/direto; Jik Chung 直衝 (impulso reto)
 - [ ] 破 (poh) — quebrar/romper; Poh Jung Sau 破中手 (mão que rompe o centro)
