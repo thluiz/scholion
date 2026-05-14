@@ -29,7 +29,7 @@ Programação Inicial de Acesso do Domínio Mui Fa Jong 梅花樁 — atualizaç
 
 ## Batch 2 — Numerais e ações específicas (7)
 
-- [ ] 七 (jaat/cat) — sete; Dai Jaat Jit 第七節 (Sétima Seção) — verificar romanização Moy Yat "Jaat" vs jyutping cat1
+- [x] 七 (cat) — sete; Dai Jaat Jit 第七節 (Sétima Seção) — verificado: jyutping cat1; "Jaat" no PMYVTIM é convenção interna ou OCR
 - [ ] 五 (ng) — cinco; Dai Ng Jit 第五節 (Quinta Seção)
 - [ ] 掃 (so) — varrer; So Geuk 掃腳 (varrida com a perna)
 - [ ] 縮 (suk) — encolher, retrair; Suk Sau Hei Geuk 縮手起腳 (encolher a mão e levantar o pé)
