@@ -22,7 +22,7 @@ Programação Inicial de Acesso do Domínio Cham Kiu 尋橋 — atualização 04
 
 - [x] 返 (faan) — voltar, retornar; Faan Sau 返手
 - [x] 左 (joh) — esquerda; Joh Ma 左馬
-- [ ] 批 (pai) — bater, cortar/fender; Pai Jaang 批踭 (cotovelada)
+- [x] 批 (pai) — bater, cortar/fender; Pai Jaang 批踭 (cotovelada)
 - [ ] 欄 (laan) — barrar, obstruir; Laan Sau 欄手
 - [ ] 撳 (gam) — pressionar (sentido cantonês); Gam Sau 撳手 — também em MFJ
 - [ ] 枕 (jam) — travesseiro; suportar/apoiar; Jam Sau 枕手
