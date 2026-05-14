@@ -20,7 +20,7 @@ Cobertura completa, inclusive em compostos:
 ## Batch 1 — Técnicas de mão (6)
 
 - [x] 掂 (dim) — vertical/firme; Dim Jeung 掂掌 (palma vertical)
-- [ ] 包 (baau) — embrulhar/envolver; Baau Sau 包手 (mão que envolve)
+- [x] 包 (baau) — embrulhar/envolver; Baau Sau 包手 (mão que envolve)
 - [ ] 窒 (jat) — obstruir/sufocar; Jat Sau 窒手
 - [ ] 收 (sau) — recolher/retrair; Sau Kuen 收拳 (recolher o punho)
 - [ ] 拍 (paak) — bater/tapear; Paak Sau 拍手, Paak Da 拍打
