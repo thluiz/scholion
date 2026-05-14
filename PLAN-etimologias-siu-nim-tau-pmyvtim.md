@@ -24,7 +24,7 @@ Cobertura completa, inclusive em compostos:
 - [x] 窒 (jat) — obstruir/sufocar; Jat Sau 窒手
 - [x] 收 (sau) — recolher/retrair; Sau Kuen 收拳 (recolher o punho)
 - [x] 拍 (paak) — bater/tapear; Paak Sau 拍手, Paak Da 拍打
-- [ ] 耕 (gaang) — arar/lavrar; Gaang Sau 耕手
+- [x] 耕 (gaang) — arar/lavrar; Gaang Sau 耕手
 
 ## Batch 2 — Direção e golpe (6)
 
