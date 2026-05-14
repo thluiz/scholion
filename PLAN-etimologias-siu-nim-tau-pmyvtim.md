@@ -37,7 +37,7 @@ Cobertura completa, inclusive em compostos:
 
 ## Batch 3 — Estrutura programática e troca (6)
 
-- [ ] 第 (dai) — ordinal; Dai Yat Jit 第一節 (Primeira Seção)
+- [x] 第 (dai) — ordinal; Dai Yat Jit 第一節 (Primeira Seção)
 - [ ] 節 (jit) — seção/nó; Dai Yat/Yi/Saam Jit 第一/二/三節
 - [ ] 接 (jip) — receber/conectar; Jip Sau 接手
 - [ ] 滾 (gwan) — rolar; Gwan Sau 滾手
