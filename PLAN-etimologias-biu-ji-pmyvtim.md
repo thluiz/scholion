@@ -14,7 +14,7 @@ Programação Inicial de Acesso do Domínio Biu Ji 標指 — atualização 04.0
 ## Batch único — 6 ideogramas
 
 - [x] 過 (gwoh) — passar, atravessar; Gwoh Sau 過手
-- [ ] 消 (siu) — dissolver, neutralizar, dispersar; Siu Sau 消手
+- [x] 消 (siu) — dissolver, neutralizar, dispersar; Siu Sau 消手
 - [ ] 番 (faan) — virar, "vez" (turn); Faan Sau 番手
 - [ ] 推 (toei) — empurrar; Toei Ma 推馬
 - [ ] 腳 (geuk) — pé, perna; Chi Geuk 黐腳 (componente associado do Biu Ji)
