@@ -21,7 +21,7 @@ Programação Inicial de Acesso do Domínio Mui Fa Jong 梅花樁 — atualizaç
 
 - [x] 空 (hung) — vazio, oco; Da Hung Jong 打空樁 (golpear o boneco-vazio, treino sem oponente)
 - [x] 埋 (maai) — fechar, juntar (cantonês: aproximar/fechar); Maai Saang Jong 埋生樁 (boneco-vivo, com parceiro)
-- [ ] 留 (lau) — reter, manter; Mo Lau Sau 無留手 ("sem mão retida" — não segurar)
+- [x] 留 (lau) — reter, manter; Mo Lau Sau 無留手 ("sem mão retida" — não segurar)
 - [ ] 相 (seung) — mutuamente, recíproco; Sau Geuk Seung Siu 手腳相消 (mão e pé que se neutralizam mutuamente)
 - [ ] 閉 (bai) — fechar; Chi Sau Leung Bai Muk 黐手兩閉目 (Chi Sau de olhos fechados)
 - [ ] 起 (hei) — levantar; Hei Geuk 起腳 (levantar o pé), recorrente em Gwan Sau Hei Geuk, Taan Da Hei Geuk, Lap Sau Hei Geuk
