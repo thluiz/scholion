@@ -11,11 +11,11 @@ Programação Inicial de Acesso do Domínio Mui Fa Jong 梅花樁 — atualizaç
 - Após criar a nota, marcar a checkbox aqui e commitar — **um commit por nota**, sem `Co-Authored-By`.
 - Retomar do próximo caractere não marcado ao abrir nova sessão.
 
-## Já listados em outros PLANs (não recriar)
+## Já processados via PLANs anteriores (concluídos)
 
-- 腳 (geuk) — em BJ e CK
-- 消 (siu) — em BJ e CK
-- 撳 (gam) — em CK
+- [x] 腳 (geuk) — `etimologia-de-geuk-jiao-8173.md` (PLAN BJ)
+- [x] 消 (siu) — `etimologia-de-siu-xiao-6d88.md` (PLAN BJ)
+- [x] 撳 (gam) — `etimologia-de-gam-qin-64b3.md` (PLAN CK)
 
 ## Batch 1 — Estrutura e conceitos do Jong (7)
 
