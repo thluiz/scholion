@@ -18,6 +18,6 @@ Programação Inicial de Acesso do Domínio Biu Ji 標指 — atualização 04.0
 - [x] 番 (faan) — virar, "vez" (turn); Faan Sau 番手
 - [x] 推 (toei) — empurrar; Toei Ma 推馬
 - [x] 腳 (geuk) — pé, perna; Chi Geuk 黐腳 (componente associado do Biu Ji)
-- [ ] 跪 (gwai) — ajoelhar-se; Gwai Jaang 跪踭 (cotovelada com joelho/postura ajoelhada)
+- [x] 跪 (gwai) — ajoelhar-se; Gwai Jaang 跪踭 (cotovelada com joelho/postura ajoelhada)
 
 Total: 6 etimologias a produzir.
