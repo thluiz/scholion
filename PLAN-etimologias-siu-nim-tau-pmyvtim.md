@@ -30,7 +30,7 @@ Cobertura completa, inclusive em compostos:
 
 - [x] 低 (dai) — baixo; Dai Waang Jeung 低橫掌 (palma horizontal baixa)
 - [x] 橫 (waang) — horizontal; Go/Dai Waang Jeung 高/低橫掌
-- [ ] 直 (jik) — reto/direto; Jik Chung 直衝 (impulso reto)
+- [x] 直 (jik) — reto/direto; Jik Chung 直衝 (impulso reto)
 - [ ] 破 (poh) — quebrar/romper; Poh Jung Sau 破中手 (mão que rompe o centro)
 - [ ] 甩 (lat) — sacudir/desvencilhar
 - [ ] 日 (yat) — sol/dia; Yat Ji Jung Choei 日字中拳 (punho-caractere "sol" no centro)
