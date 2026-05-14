@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-05-14",
+    "subject": "fix: escapar aspas duplas no summary YAML (faan, maai)"
+  },
+  {
+    "date": "2026-05-14",
     "subject": "etimologia: 返 (faan — fǎn / faan2)"
   }
 ]
