@@ -21,7 +21,7 @@ Cobertura completa, inclusive em compostos:
 
 - [x] 掂 (dim) — vertical/firme; Dim Jeung 掂掌 (palma vertical)
 - [x] 包 (baau) — embrulhar/envolver; Baau Sau 包手 (mão que envolve)
-- [ ] 窒 (jat) — obstruir/sufocar; Jat Sau 窒手
+- [x] 窒 (jat) — obstruir/sufocar; Jat Sau 窒手
 - [ ] 收 (sau) — recolher/retrair; Sau Kuen 收拳 (recolher o punho)
 - [ ] 拍 (paak) — bater/tapear; Paak Sau 拍手, Paak Da 拍打
 - [ ] 耕 (gaang) — arar/lavrar; Gaang Sau 耕手
