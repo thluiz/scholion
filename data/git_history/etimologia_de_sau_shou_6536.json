@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-05-14",
+    "subject": "fix: escapar aspas duplas internas no summary de 收 (quebrava YAML do Hugo)"
+  },
+  {
+    "date": "2026-05-14",
     "subject": "etimologia: 收 (sau — shōu / sau1)"
   }
 ]
