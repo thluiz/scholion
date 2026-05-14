@@ -33,7 +33,7 @@ Cobertura completa, inclusive em compostos:
 - [x] 直 (jik) — reto/direto; Jik Chung 直衝 (impulso reto)
 - [x] 破 (poh) — quebrar/romper; Poh Jung Sau 破中手 (mão que rompe o centro)
 - [x] 甩 (lat) — sacudir/desvencilhar; Lat Sau Jik Chung 甩手直衝
-- [ ] 日 (yat) — sol/dia; Yat Ji Jung Choei 日字中拳 (punho-caractere "sol" no centro)
+- [x] 日 (yat) — sol/dia; Yat Ji Jung Choei 日字中拳 (punho-caractere "sol" no centro)
 
 ## Batch 3 — Estrutura programática e troca (6)
 
