@@ -25,7 +25,7 @@ Programação Inicial de Acesso do Domínio Mui Fa Jong 梅花樁 — atualizaç
 - [x] 相 (seung) — mutuamente, recíproco; Sau Geuk Seung Siu 手腳相消 (mão e pé que se neutralizam mutuamente)
 - [x] 閉 (bai) — fechar; Chi Sau Leung Bai Muk 黐手兩閉目 (Chi Sau de olhos fechados)
 - [x] 起 (hei) — levantar; Hei Geuk 起腳 (levantar o pé), recorrente em Gwan Sau Hei Geuk, Taan Da Hei Geuk, Lap Sau Hei Geuk
-- [ ] 抱 (po) — abraçar, abarcar; Po Paai Jeung 抱牌掌 (palma-abraço-de-tabuleta)
+- [x] 抱 (po) — abraçar, abarcar; Po Paai Jeung 抱牌掌 (palma-abraço-de-tabuleta)
 
 ## Batch 2 — Numerais e ações específicas (7)
 
