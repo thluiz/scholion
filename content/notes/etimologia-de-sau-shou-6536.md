@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 收 (Sau — Shōu / sau1)"
 date: '2026-05-14T12:25:28+01:00'
-summary: "Etimologia de 收 (shōu / sau1): recolher, recuperar, refrear, capturar. Shuowen: 捕也。从攴，丩聲 ('capturar; de 攴 ação-da-mão, com 丩 fonético'). Decomposição: 攴/攵 (acionar/golpear, semântico) + 丩 jiū (dois ganchos entrelaçados, fonético). Atestado já em selos Chu dos Estados Combatentes (包山楚簡 2.122), com forma seal no Shuowen, Qin (Shuihudi), e duas atestações Han Orientais (Xiping; Estela de Cao Quan). Sentido nuclear "capturar" se especializa em "colher/colheita" (收穫), "refrear" (約束) e "recolher/recuperar" (收回). MC: 流攝, 平 you 書母, fanqie 式州. OC: grupo 幽 com inicial sibilante (ɕ/ç/stʰ/h conforme reconstrutor). No Siu Nim Tau, é o ideograma de Sau Kuen 收拳 — recolher/retrair o punho, sentido ligado às acepções 5 (收回) e 11 (約束) do chardb."
+summary: "Etimologia de 收 (shōu / sau1): recolher, recuperar, refrear, capturar. Shuowen: 捕也。从攴，丩聲 ('capturar; de 攴 ação-da-mão, com 丩 fonético'). Decomposição: 攴/攵 (acionar/golpear, semântico) + 丩 jiū (dois ganchos entrelaçados, fonético). Atestado já em selos Chu dos Estados Combatentes (包山楚簡 2.122), com forma seal no Shuowen, Qin (Shuihudi), e duas atestações Han Orientais (Xiping; Estela de Cao Quan). Sentido nuclear \"capturar\" se especializa em \"colher/colheita\" (收穫), \"refrear\" (約束) e \"recolher/recuperar\" (收回). MC: 流攝, 平 you 書母, fanqie 式州. OC: grupo 幽 com inicial sibilante (ɕ/ç/stʰ/h conforme reconstrutor). No Siu Nim Tau, é o ideograma de Sau Kuen 收拳 — recolher/retrair o punho, sentido ligado às acepções 5 (收回) e 11 (約束) do chardb."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 category: etymology
