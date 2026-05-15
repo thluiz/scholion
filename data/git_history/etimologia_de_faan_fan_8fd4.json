@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-05-15",
+    "subject": "fix: aspas tipograficas no summary 返 (build Hugo)"
+  },
+  {
     "date": "2026-05-14",
     "subject": "fix: escapar aspas duplas no summary YAML (faan, maai)"
   },
