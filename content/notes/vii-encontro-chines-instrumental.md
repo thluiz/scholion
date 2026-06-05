@@ -103,5 +103,3 @@ Um dos símbolos centrais da ameixeira é a transformação. O nome Mui Fa Jong 
 A leitura proposta para o nível superior inicial do sistema: consolidar a capacidade de se transformar e, sobretudo, de transformar o que em si é fixo. O trabalho é com o que está enrijecido. "Você pode alterar, transformar e ajustar aquelas coisas que em você são fixas."
 
 O outro polo também conta: não ser volátil, não ser disperso. Consolidar a capacidade de ajuste não é dissolução permanente.
-
-(TODO criar nota: nível superior inicial do Mui Fa Jong, leitura de Si Fu sobre estabilidade e transformação)
