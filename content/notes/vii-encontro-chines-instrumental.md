@@ -23,7 +23,6 @@ Si Fu retomou um ponto já abordado em encontros anteriores: a estrutura geral d
 
 Uma forma prática de identificar os dois: dividir o ideograma ao meio verticalmente. De modo geral, o radical vai estar à esquerda e será mais estreito; o fonético vai à direita e invade um pouco o lado esquerdo. Isso não é regra absoluta. O [Fa 花](/notes/etimologia-de-fa-hua-82b1/), por exemplo, tem o radical em cima, não à esquerda. Mas, como orientação inicial, a divisão vertical funciona.
 
-Si Fu usou [Jong 樁](/notes/etimologia-de-jong-zhuang-6a01/) e [Fa 花](/notes/etimologia-de-fa-hua-82b1/) como par ilustrativo justamente porque os dois têm estruturas diferentes e deixam ver a lógica de ângulos distintos.
 
 ### Jong 樁: poste, pilar, metonímia
 
@@ -35,13 +34,9 @@ Visualmente, Jong é fácil de memorizar: é praticamente o mesmo que o ideogram
 
 ### Fa 花: quando a decupagem funciona
 
-[Fa 花](/notes/etimologia-de-fa-hua-82b1/) é o contraponto de Jong. Aqui a decupagem funciona, e dá pra ver por quê.
+[Fa 花](/notes/etimologia-de-fa-hua-82b1/) é o contraponto de Jong. O radical está em cima: 艹, o radical de grama. O componente fonético está embaixo: [化](/notes/etimologia-de-fa-hua-5316/) (*huà* em mandarim), que quer dizer troca, mudança, transformação. É o mesmo [化](/notes/etimologia-de-fa-hua-5316/) que aparece em câmbio de dinheiro.
 
-O radical está em cima: 艹, o radical de grama. O componente fonético está embaixo: [化](/notes/etimologia-de-fa-hua-5316/) (*huà* em mandarim), que quer dizer troca, mudança, transformação. É o mesmo [化](/notes/etimologia-de-fa-hua-5316/) que aparece em câmbio de dinheiro.
-
-Com esses dois componentes à vista, a leitura se sustenta diretamente: a flor é uma alteração da grama. "Ao invés de nascer grama, nasce flor." Não é especulação; o radical e o fonético dizem isso juntos.
-
-Esse é o contraste que Si Fu quis marcar: em Jong, ir fundo no fonético desconecta da superfície. Em Fa, o fonético sustenta a interpretação em vez de abrir para derivação arbitrária.
+Com esses dois componentes à vista, a leitura se sustenta: a flor é uma alteração da grama. "Ao invés de nascer grama, nasce flor."
 
 ### Caligrafia: a ordem dos traços
 
@@ -49,17 +44,17 @@ Si Fu pediu que Claudio escrevesse o radical de madeira 木 sem olhar. Claudio t
 
 A regra é de cima para baixo, da esquerda para a direita, de dentro para fora. Para 木: primeiro o traço vertical central descendo, depois o traço horizontal da esquerda para a direita, depois a diagonal esquerda de dentro para fora, depois a diagonal direita de dentro para fora.
 
-Si Fu foi direto na exigência: "Se você não tiver capacidade de repetir o que você falou dez segundos atrás, a gente vai ter que parar." A questão não era a dificuldade do conteúdo; era a atenção ao que se disse.
+Si Fu foi direto na exigência: "Se você não tiver capacidade de repetir o que você falou dez segundos atrás, a gente vai ter que parar."
 
 Como tarefa para a próxima sessão, Claudio ficou com a prática da sequência de traços de Jong 樁 e [Moi 梅](/notes/etimologia-de-moy-mei/).
 
 ### Excelência no instrumental
 
-Si Fu abriu com um exemplo: alguém que se propõe a dar aula de Kung Fu em Portugal e escreve os ideogramas mal produz o mesmo efeito que um técnico de futebol brasileiro que dá a aula toda em inglês errado, escrevendo o R ao contrário. A escrita sinaliza cultura e credibilidade.
+Si Fu abriu com um exemplo: alguém que se propõe a dar aula de Kung Fu em Portugal e escreve os ideogramas mal produz o mesmo efeito que um técnico de futebol brasileiro que dá a aula toda em inglês errado, escrevendo o R ao contrário.
 
 O total de ideogramas na língua é na casa de 50 mil. Um letrado circula com 25 a 30 mil. Para ler jornal, 6 a 7 mil. Para uso instrumental no contexto do Kung Fu, talvez muito menos, e tudo bem.
 
-"Os 10 que você souber, saiba bem. E aí esses 10 vão virar 100 muito rapidamente. Porque esses 10 vão ser radicais de mais 10, cada um." Os radicais bem fixados se multiplicam.
+"Os 10 que você souber, saiba bem. E aí esses 10 vão virar 100 muito rapidamente. Porque esses 10 vão ser radicais de mais 10, cada um."
 
 ### Moi 梅: a ameixeira
 
@@ -67,13 +62,13 @@ O total de ideogramas na língua é na casa de 50 mil. Um letrado circula com 25
 
 O que muda de 母 para 梅 é o radical de madeira: colocado ali, o composto passa a dizer árvore de ameixa.
 
-A ameixeira chinesa tem características visuais precisas. As flores brotam diretamente do tronco e dos galhos, sem folhas. A estrutura da planta não tem tronco central bem definido; é como se fosse tudo galhos. Os galhos são muito angulares, muito rígidos. As pétalas são muito redondas. Si Fu: "Você imagina assim, aquela coisa toda dura e aqui nela já sai essa coisa redondinha." Yin e Yang visível na própria planta.
+A ameixeira chinesa tem características visuais precisas. As flores brotam diretamente do tronco e dos galhos, sem folhas. A estrutura da planta não tem tronco central bem definido; é como se fosse tudo galhos. Os galhos são muito angulares, muito rígidos. As pétalas são muito redondas. Si Fu: "Você imagina assim, aquela coisa toda dura e aqui nela já sai essa coisa redondinha."
 
 ### Ameixeira, cerejeira e a confusão da maioria
 
 Si Fu tem uma comparação para a confusão entre flor de ameixeira e flor de cerejeira: é a mesma relação que existe entre "Wing Chun" (com WC) e "Ving Tsun" (com VT). A maioria das tatuagens, camisas e referências usa a cerejeira quando a referência cultural correta para o contexto do sistema é a ameixeira.
 
-A distinção que IA e fontes genéricas costumam fazer é temporal: cerejeira marca o início da primavera; ameixeira marca o final do inverno. Si Fu pesquisou isso ao vivo e perguntou: "Qual a diferença? De final do inverno e início da primavera? Nenhuma. A rigor, nenhuma." São as flores que estabelecem a transição, não o contrário.
+A distinção que IA e fontes genéricas costumam fazer é temporal: cerejeira marca o início da primavera; ameixeira marca o final do inverno. Si Fu pesquisou isso ao vivo e perguntou: "Qual a diferença? De final do inverno e início da primavera? Nenhuma. A rigor, nenhuma."
 
 A diferença visual existe e é clara: pétalas da cerejeira são pontudas, angulares. Pétalas da ameixeira são perfeitamente redondas. Si Fu mostrou imagens comparando ameixeira, cerejeira e pessegueiro: as duas últimas têm pétalas com pontas; a ameixeira, não.
 
