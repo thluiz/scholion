@@ -19,7 +19,7 @@ A recomendação é buscar em dicionários especializados de chinês. E foi expl
 
 ### Estrutura dos ideogramas: radical e fonético
 
-Si Fu retomou um ponto já abordado em encontros anteriores: a estrutura geral dos ideogramas combina um radical, que responde pela natureza do que está sendo nomeado, e um componente fonético, que carrega principalmente o som.
+Si Fu voltou à estrutura geral dos ideogramas: um radical, que responde pela natureza do que está sendo nomeado, e um componente fonético, que carrega principalmente o som.
 
 Uma forma prática de identificar os dois: dividir o ideograma ao meio verticalmente. De modo geral, o radical vai estar à esquerda e será mais estreito; o fonético vai à direita e invade um pouco o lado esquerdo. Isso não é regra absoluta. O [Fa 花](/notes/etimologia-de-fa-hua-82b1/), por exemplo, tem o radical em cima, não à esquerda. Mas, como orientação inicial, a divisão vertical funciona.
 
@@ -28,7 +28,7 @@ Uma forma prática de identificar os dois: dividir o ideograma ao meio verticalm
 
 O radical de [Jong 樁](/notes/etimologia-de-jong-zhuang-6a01/) é 木, madeira, do lado esquerdo. Não quer dizer que todo Jong seja de madeira, mas o caractere aponta nessa direção. O componente fonético à direita remete a pilão, socar arroz. Si Fu foi explícito: esse componente está ali para dar o sentido fonético, não semântico.
 
-O que Jong carrega é estabilidade e firmeza. O ideograma se estende por metonímia: quando se chama a guarda de Jong, não se está falando da posição em si, mas da característica de estabilidade que ela carrega. Como Jong tem muitas derivações de uso e muitas metonímias possíveis, a decupagem profunda do fonético não leva a lugar seguro. A chance de bater numa etimologia fantasiosa é grande.
+O que Jong carrega é estabilidade e firmeza. O ideograma se estende por metonímia: a guarda de Jong nomeia a estabilidade que a posição carrega, não a posição em si. Como Jong tem muitas derivações de uso e muitas metonímias possíveis, a decupagem profunda do fonético não leva a lugar seguro. A chance de bater numa etimologia fantasiosa é grande.
 
 Visualmente, Jong é fácil de memorizar: é praticamente o mesmo que o ideograma da primavera 春, com os dois primeiros traços abertos. A sequência de traços é diferente, o que faz a caligrafia ficar arredondada embaixo, mas batendo com o olho é muito fácil reconhecer.
 
