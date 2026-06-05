@@ -82,7 +82,7 @@ Os Han são a etnia predominante, na faixa de 92 a 94 por cento da população. 
 
 A expressão *moi fa* 梅花 em cantonês, *méi huā* em mandarim, é usada para denotar civilização ou identidade cultural chinesa, não apenas a flor em si. Si Fu tentou mostrar isso numa busca ao vivo: a expressão emerge como termo para cultura chinesa.
 
-Há uma pintura clássica da ameixeira nas quatro estações, descrita por Si Fu como análoga às quatro estações de Vivaldi: a mesma composição em quatro versões, uma por estação, com as cores da flor variando do branco ao amarelo, laranja e rosa. A tradição é trocar o quadro da parede antes de cada estação chegar. Si Pek Miguel tem as quatro versões e segue esse costume. Tanto Claudio quanto Thiago Silva buscaram a pintura durante a sessão sem encontrar a referência exata.
+Há uma pintura clássica da ameixeira nas quatro estações, descrita por Si Fu como análoga às quatro estações de Vivaldi: a mesma composição em quatro versões, uma por estação, com as cores da flor variando do branco ao amarelo, laranja e rosa. A tradição é trocar o quadro da parede antes de cada estação chegar. Si Baak Gung Miguel Hernandez tem as quatro versões e segue esse costume. Tanto Claudio quanto Thiago Silva buscaram a pintura durante a sessão sem encontrar a referência exata.
 
 O gênero 四季花, *Flores das Quatro Estações*, associa cada flor a uma estação: ameixeira ao inverno, peônia à primavera, lótus ao verão, crisântemo ao outono. A série específica que Si Pek Miguel tem em casa não foi identificada durante a sessão.
 
@@ -92,7 +92,7 @@ Termos carregam posicionamento. Si Fu usou exemplos brasileiros: "Havan" evoca a
 
 O Ving Tsun se desenvolveu em boa parte durante o processo revolucionário na China, com os praticantes politicamente engajados na tentativa de restaurar a dinastia Ming contra a dinastia Qing, de origem manchu. O sistema era parte de um projeto de resgate de identidade chinesa, quase nacionalista no sentido do período. O símbolo da China, a ameixeira, é anterior a esse projeto; o Ving Tsun o incorporou ao próprio nome do sistema.
 
-Si Gung Moy Yat insistia nessa tecla: quando se translitera um termo, não se deve transliterar de acordo com a moda ou com a maioria, porque sem perceber pode-se estar abraçando outro discurso. "Ving Tsun" (com VT) e a grafia com WC não são intercambiáveis; refletem linhagens e projetos distintos. Usar a grafia da maioria sem consciência pode criar dissonância dentro do próprio grupo.
+Si Taai Gung Moy Yat insistia nessa tecla: quando se translitera um termo, não se deve transliterar de acordo com a moda ou com a maioria, porque sem perceber pode-se estar abraçando outro discurso. "Ving Tsun" (com VT) e a grafia com WC não são intercambiáveis; refletem linhagens e projetos distintos. Usar a grafia da maioria sem consciência pode criar dissonância dentro do próprio grupo.
 
 ### Jong e Moi: estabilidade e transformação
 
