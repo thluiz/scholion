@@ -84,7 +84,7 @@ A expressão *moi fa* 梅花 em cantonês, *méi huā* em mandarim, é usada par
 
 Há uma pintura clássica da ameixeira nas quatro estações, descrita por Si Fu como análoga às quatro estações de Vivaldi: a mesma composição em quatro versões, uma por estação, com as cores da flor variando do branco ao amarelo, laranja e rosa. A tradição é trocar o quadro da parede antes de cada estação chegar. Si Pek Miguel tem as quatro versões e segue esse costume. Tanto Claudio quanto Thiago Silva buscaram a pintura durante a sessão sem encontrar a referência exata.
 
-(TODO pesquisar: quadro das quatro estações da flor de ameixeira, compartilhar no grupo)
+A tradição tem nome: é o gênero 四季花, *Flores das Quatro Estações* — rolos que associam cada flor a uma estação: ameixeira ao inverno, peônia à primavera, lótus ao verão, crisântemo ao outono. A série específica que Si Pek Miguel tem em casa não foi identificada durante a sessão.
 
 ### Contexto cultural e político do Mui Fa Jong
 
