@@ -78,9 +78,7 @@ A diferença visual existe: pétalas da cerejeira são pontudas, angulares. Pét
 
 As cinco pétalas da flor de ameixeira representam as cinco etnias que formam a nação chinesa: Han 漢, Manchu 滿, Mongol 蒙, Tibetana 藏 e a minoria muçulmana 回. O símbolo carrega um programa de unidade nacional.
 
-Os Han são a etnia predominante, na faixa de 92 a 94 por cento da população. Si Fu sinalizou que o termo "amarelo" para se referir a essa etnia é preconceituoso e foi criado nos Estados Unidos, não na China. Recomendou pesquisar num canal do YouTube que considera confiável no assunto.
-
-(Normose: [O problema dos CHINESES ou "O PERIGO AMARELO VOLTOU?"](https://www.youtube.com/watch?v=mtNYcPqK1IQ))
+Os Han são a etnia predominante, na faixa de 92 a 94 por cento da população. Si Fu sinalizou que o termo "amarelo" para se referir a essa etnia é preconceituoso e foi criado nos Estados Unidos, não na China. Recomendou pesquisar num canal do YouTube que considera confiável no assunto. Normose: [O problema dos CHINESES ou "O PERIGO AMARELO VOLTOU?"](https://www.youtube.com/watch?v=mtNYcPqK1IQ)
 
 A expressão *moi fa* 梅花 em cantonês, *méi huā* em mandarim, é usada para denotar civilização ou identidade cultural chinesa, não apenas a flor em si. Si Fu tentou mostrar isso numa busca ao vivo: a expressão emerge como termo para cultura chinesa.
 
