@@ -70,7 +70,7 @@ Si Fu tem uma comparação para a confusão entre flor de ameixeira e flor de ce
 
 A distinção que IA e fontes genéricas costumam fazer é temporal: cerejeira marca o início da primavera; ameixeira marca o final do inverno. Si Fu pesquisou isso ao vivo e perguntou: "Qual a diferença? De final do inverno e início da primavera? Nenhuma. A rigor, nenhuma."
 
-A diferença visual existe e é clara: pétalas da cerejeira são pontudas, angulares. Pétalas da ameixeira são perfeitamente redondas. Si Fu mostrou imagens comparando ameixeira, cerejeira e pessegueiro: as duas últimas têm pétalas com pontas; a ameixeira, não.
+A diferença visual existe: pétalas da cerejeira são pontudas, angulares. Pétalas da ameixeira são perfeitamente redondas. Si Fu mostrou imagens comparando ameixeira, cerejeira e pessegueiro: as duas últimas têm pétalas com pontas; a ameixeira, não.
 
 ### As cinco pétalas e as cinco etnias
 
