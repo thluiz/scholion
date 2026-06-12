@@ -75,11 +75,13 @@ function Get-PathsToCheck {
         # slug: para bundle (index.md), o slug é o diretório pai
         $slug = if ($name -eq 'index') { Split-Path $dir -Leaf } else { $name }
 
-        # Página e OG image
-        $htmlRel = "$relDir\$slug\index.html"
-        $ogRel   = "$relDir\$slug\og.webp"
-        if (Test-Path (Join-Path $publicDir $htmlRel)) { $paths.Add($htmlRel) | Out-Null }
-        if (Test-Path (Join-Path $publicDir $ogRel))   { $paths.Add($ogRel)   | Out-Null }
+        # Todos os arquivos do diretório de saída da nota (index.html, og.webp, imagens do bundle, etc.)
+        $noteOutDir = Join-Path $publicDir "$relDir\$slug"
+        if (Test-Path $noteOutDir) {
+            Get-ChildItem $noteOutDir -File | ForEach-Object {
+                $paths.Add($_.FullName.Substring($publicDir.Length + 1)) | Out-Null
+            }
+        }
 
         # Lista da seção + paginadores
         $sectionIdx = "$relDir\index.html"
