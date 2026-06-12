@@ -65,7 +65,7 @@ A proposta de Si Fu: os pontos do Luk Dim Pun Kwan não são alvos a atingir, s�
 
 Se acertar, acertou. Se o oponente saiu, fez certo e deu errado porque ele saiu. A partir do ponto marcado pelo primeiro disparo é que se desdobra o próximo.
 
-Si Fu comparou ao jab do boxe: o primeiro disparo funciona como medida para o que vem a seguir. Tentar acertar um alvo externo a qualquer custo causa desequilíbrio. Si Fu citou o Gwan Mo Leung Heung 棍無兩響 como referência de prática: ao trabalhar essa forma, fica evidente que se dispara e, a partir do ponto marcado, se dispara de novo.
+Si Fu comparou ao jab do boxe: o primeiro disparo funciona como medida para o que vem a seguir. Tentar acertar um alvo externo a qualquer custo causa desequilíbrio. Si Fu citou o Gwan Mo Leung Heung 棍無兩響 como referência de prática: praticando essa forma, dispara-se muitas vezes a partir do ponto marcado pelo disparo anterior.
 
 ### Projeções da ponta, não caminhos contínuos
 
