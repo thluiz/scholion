@@ -1,14 +1,14 @@
 [
   {
     "date": "2026-06-05",
+    "subject": "chore: inline link Normose no parágrafo"
+  },
+  {
+    "date": "2026-06-05",
     "subject": "fix: ghost-writer pass — meta-narração e negativa indireta"
   },
   {
     "date": "2026-06-05",
     "subject": "feat: converte nota para page bundle + imagem flores ameixa/pêssego/cereja"
-  },
-  {
-    "date": "2026-06-05",
-    "subject": "fix: remove 'e é clara' — preâmbulo desnecessário"
   }
 ]
