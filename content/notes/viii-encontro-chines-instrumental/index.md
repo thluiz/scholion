@@ -7,6 +7,8 @@ has_commentary: true
 sources: []
 ---
 
+![Luk Dim Pun Kwan 六點半棍: o bastão da ponta grossa à fina, os seis pontos e o meio ponto](luk-dim-pun-kwan-seis-pontos-e-meio.png)
+
 Anotações do oitavo encontro de Chinês Instrumental, conduzido por Si Fu com Claudio Teixeira e Thiago Silva. A sessão continuou com a prática de caligrafia ideográfica, aprofundou os ideogramas Quan 棍 e Dim 點, e chegou na leitura de Si Fu sobre os pontos do Luk Dim Pun Kwan 六點半棍: projeções da ponta do bastão, não áreas nem ângulos fixos.
 
 ### Gestalt e autoridade no ideograma
