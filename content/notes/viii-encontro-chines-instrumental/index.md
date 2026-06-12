@@ -47,7 +47,9 @@ Claudio mapeou a sequência fisicamente e chegou em ângulos: quatro ângulos pr
 
 Si Fu calibrou os dois: Dim não é área, não é ângulo. É ponto mesmo. Micro, como a gotinha que cai na pedra.
 
-No meio do percurso, Si Fu sinalizou o tema "den galinha" para aprofundar em sessão futura. (TODO conferir: "den galinha", tema que Si Fu indicou para retomar)
+Sobre o meio ponto, Si Fu notou que, se o ponto pleno vira um círculo, ele é a metade desse círculo. Por isso aparece desenhado como um C, a meia-lua que fecha a sequência no desenho de abertura.
+
+Ao percorrer a sequência com Claudio, Si Fu nomeou o Den, o ciscar de galinha: um movimento baixo, como o de uma galinha ciscando o chão. Ficou marcado para aprofundar numa sessão futura. (TODO conferir a grafia Hai Tong do Den Gwan)
 
 ### Bun Dim 半點 e imperceptibilidade
 
@@ -74,5 +76,7 @@ Os pontos se marcam pela ponta do bastão, não pelo risco que o bastão faz no 
 Ao executar a sequência, o que conta é onde a ponta projeta, não o trajeto entre uma posição e outra. Si Fu demonstrou: ao fazer cada técnica, o bastão não está traçando linhas. Está fazendo pontos. O percurso entre os pontos não conta como ponto.
 
 O Bun Dim 半點, o meio ponto, não se consegue contar como um ponto pleno porque não é uma projeção da ponta: é o movimento intermediário que conecta os pontos.
+
+O Bun carrega ainda o sentido de elemento intermediário. Por aí, Si Fu leu o Luk Dim Bun Gwan como bastão de seis disparos precisos e imediatos.
 
 Si Fu recomendou que Claudio pegasse o bastão e praticasse a sequência com atenção na ponta. A sequência estava um pouco esquecida; a tarefa é rememorar e observar as projeções, não os caminhos.
