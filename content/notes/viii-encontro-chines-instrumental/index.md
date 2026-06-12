@@ -1,15 +1,15 @@
 ---
 title: VIII Encontro de Chinês Instrumental
 date: '2026-06-12T10:22:00-03:00'
-summary: 'Anotações do oitavo encontro de Chinês Instrumental, conduzido por Si Fu com Claudio Teixeira e Thiago Silva. A sessão continuou com a prática de caligrafia ideográfica, aprofundou os ideogramas Quan 棍 e Dim 點, e chegou na leitura de Si Fu sobre os pontos do Luk Dim Pun Kwan 六點半棍: projeções da ponta do bastão, não áreas nem ângulos fixos.'
-tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental", "luk-dim-pun-kwan", "caligrafia", "etimologia"]
+summary: 'Anotações do oitavo encontro de Chinês Instrumental, conduzido por Si Fu com Claudio Teixeira e Thiago Silva. A sessão continuou com a prática de caligrafia ideográfica, aprofundou os ideogramas Gwan 棍 e Dim 點, e chegou na leitura de Si Fu sobre os pontos do Luk Dim Bun Gwan 六點半棍: projeções da ponta do bastão, não áreas nem ângulos fixos.'
+tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental", "luk-dim-bun-gwan", "caligrafia", "etimologia"]
 has_commentary: true
 sources: []
 ---
 
-![Luk Dim Pun Kwan 六點半棍: o bastão da ponta grossa à fina, os seis pontos e o meio ponto](luk-dim-pun-kwan-seis-pontos-e-meio.png)
+![Luk Dim Bun Gwan 六點半棍: o bastão da ponta grossa à fina, os seis pontos e o meio ponto](luk-dim-bun-gwan-seis-pontos-e-meio.png)
 
-Anotações do oitavo encontro de Chinês Instrumental, conduzido por Si Fu com Claudio Teixeira e Thiago Silva. A sessão continuou com a prática de caligrafia ideográfica, aprofundou os ideogramas Quan 棍 e Dim 點, e chegou na leitura de Si Fu sobre os pontos do Luk Dim Pun Kwan 六點半棍: projeções da ponta do bastão, não áreas nem ângulos fixos.
+Anotações do oitavo encontro de Chinês Instrumental, conduzido por Si Fu com Claudio Teixeira e Thiago Silva. A sessão continuou com a prática de caligrafia ideográfica, aprofundou os ideogramas Gwan 棍 e Dim 點, e chegou na leitura de Si Fu sobre os pontos do Luk Dim Bun Gwan 六點半棍: projeções da ponta do bastão, não áreas nem ângulos fixos.
 
 ### Gestalt e autoridade no ideograma
 
@@ -27,9 +27,9 @@ O que importa nesse estágio é trabalhar expressão: movimento com a mão, não
 
 Thiago comentou que trabalhar com quadrados maiores ajuda: dá mais espaço para variar o traço e desenvolver a consciência espacial do ideograma. Si Fu endossou e observou que a melhora na escrita de Claudio já estava visível.
 
-### Quan 棍: madeira, sol, comparação
+### Gwan 棍: madeira, sol, comparação
 
-Si Fu apresentou o ideograma Quan 棍 como o mais importante dos quatro do Luk Dim Pun Kwan 六點半棍. A composição: 木 madeira à esquerda, 日 sol à direita, e abaixo o componente de comparar, o ideograma de colocar uma coisa ao lado da outra.
+Si Fu apresentou o ideograma [Gwan 棍](/notes/etimologia-de-gwan-gun-68cd/) como o mais importante dos quatro do Luk Dim Bun Gwan 六點半棍. A composição: 木 madeira à esquerda, 日 sol à direita, e abaixo o componente de comparar, o ideograma de colocar uma coisa ao lado da outra.
 
 Claudio havia usado uma ferramenta de decupagem de software que identificou parte do ideograma como "faca". Si Fu descartou. A parte de baixo não é faca: é o componente de comparação. O componente de comparação, visto invertido, tem o contorno de uma faca, e foi isso que o software encontrou.
 
@@ -37,7 +37,7 @@ Para memorizar, Si Fu propôs uma mnemônica com as mãos: árvore, sol, e o L d
 
 ### Dim 點: gota e marcação
 
-Dim 點 não é ponto geométrico. A origem mais remota do caractere é a gota que cai repetidamente sobre uma pedra e vai fazendo um buraco. É uma indicação, uma marcação: o efeito de algo que tocou.
+[Dim 點](/notes/etimologia-de-dim-dian-9ede/) não é ponto geométrico. A origem mais remota do caractere é a gota que cai repetidamente sobre uma pedra e vai fazendo um buraco. É uma indicação, uma marcação: o efeito de algo que tocou.
 
 Si Fu foi honesto: não sabe a razão do componente "preto" no lado esquerdo do ideograma. "Eu não sei a razão desse escuro." Para o contexto do bastão, o que importa é o sentido de marca e de consequência de uma ação.
 
@@ -49,23 +49,23 @@ Si Fu calibrou os dois: Dim não é área, não é ângulo. É ponto mesmo. Micr
 
 No meio do percurso, Si Fu sinalizou o tema "den galinha" para aprofundar em sessão futura. (TODO conferir: "den galinha", tema que Si Fu indicou para retomar)
 
-### Pun Dim 半點 e imperceptibilidade
+### Bun Dim 半點 e imperceptibilidade
 
 Si Fu contou que perguntou a uma professora de chinês da PUC, sem dar contexto, o que seria "pundinho". A resposta: coisa rápida. Vapt-vupt.
 
 Si Fu foi preciso: não é rapidez. É imperceptibilidade. "Quase nada." A professora sabia que Si Fu praticava Kung Fu, mas ele propositalmente retirou o contexto para não influenciar a resposta.
 
-Pun 半 aparece também em meio-dia, meia-noite: marcações precisas de tempo. Por isso a professora pode ter associado ao tempo. Mas o sentido coloquial que ela deu foi: algo que passa quase sem ser percebido.
+[Bun 半](/notes/etimologia-de-bun-ban-534a/) aparece também em meio-dia, meia-noite: marcações precisas de tempo. Por isso a professora pode ter associado ao tempo. Mas o sentido coloquial que ela deu foi: algo que passa quase sem ser percebido.
 
 Essa conversa, segundo Si Fu, aconteceu há mais de quinze anos. "Isso não foi transmitido nem pelo Si Gung, pelo Si Taai Gung, por ninguém. É a minha leitura."
 
 ### Disparar para o próprio ombro
 
-A proposta de Si Fu: os pontos do Luk Dim Pun Kwan não são alvos a atingir, são consequências dos disparos. O primeiro disparo vai na direção do próprio ombro, não em direção ao oponente. A ideia é apontar o ombro e disparar na linha do ombro.
+A proposta de Si Fu: os pontos do Luk Dim Bun Gwan não são alvos a atingir, são consequências dos disparos. O primeiro disparo vai na direção do próprio ombro, não em direção ao oponente. A ideia é apontar o ombro e disparar na linha do ombro.
 
 Se acertar, acertou. Se o oponente saiu, fez certo e deu errado porque ele saiu. A partir do ponto marcado pelo primeiro disparo é que se desdobra o próximo.
 
-Si Fu comparou ao jab do boxe: o primeiro disparo funciona como medida para o que vem a seguir. Tentar acertar um alvo externo a qualquer custo causa desequilíbrio. Si Fu citou o Gwan Mo Leung Heung 棍無兩響 como referência de prática: praticando essa forma, dispara-se muitas vezes a partir do ponto marcado pelo disparo anterior.
+Si Fu comparou ao jab do boxe: o primeiro disparo funciona como medida para o que vem a seguir. Tentar acertar um alvo externo a qualquer custo causa desequilíbrio. Si Fu citou o [Gwan Mo Leung Heung 棍無兩響](/notes/etimologia-de-heung-xiang-97ff/) como referência de prática: praticando essa forma, dispara-se muitas vezes a partir do ponto marcado pelo disparo anterior.
 
 ### Projeções da ponta, não caminhos contínuos
 
@@ -73,6 +73,6 @@ Os pontos se marcam pela ponta do bastão, não pelo risco que o bastão faz no 
 
 Ao executar a sequência, o que conta é onde a ponta projeta, não o trajeto entre uma posição e outra. Si Fu demonstrou: ao fazer cada técnica, o bastão não está traçando linhas. Está fazendo pontos. O percurso entre os pontos não conta como ponto.
 
-O Pun Dim 半點, o meio ponto, não se consegue contar como um ponto pleno porque não é uma projeção da ponta: é o movimento intermediário que conecta os pontos.
+O Bun Dim 半點, o meio ponto, não se consegue contar como um ponto pleno porque não é uma projeção da ponta: é o movimento intermediário que conecta os pontos.
 
 Si Fu recomendou que Claudio pegasse o bastão e praticasse a sequência com atenção na ponta. A sequência estava um pouco esquecida; a tarefa é rememorar e observar as projeções, não os caminhos.
