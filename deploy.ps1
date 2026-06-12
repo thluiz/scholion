@@ -68,15 +68,21 @@ function Get-PathsToCheck {
             }
             continue
         }
-        $name   = [System.IO.Path]::GetFileNameWithoutExtension($f)
-        $dir    = [System.IO.Path]::GetDirectoryName($f) -replace '/', '\'
-        $relDir = $dir -replace '^content\\', ''   # ex: "notes", "research"
+        $name = [System.IO.Path]::GetFileNameWithoutExtension($f)
+        $dir  = [System.IO.Path]::GetDirectoryName($f) -replace '/', '\'
 
-        # slug: para bundle (index.md), o slug é o diretório pai
-        $slug = if ($name -eq 'index') { Split-Path $dir -Leaf } else { $name }
+        # Leaf:   content\notes\slug.md       → section='notes',  slug='slug'
+        # Bundle: content\notes\slug\index.md → section='notes',  slug='slug'
+        if ($name -eq 'index') {
+            $slug    = Split-Path $dir -Leaf
+            $section = ($dir -replace '^content\\', '') -replace '\\[^\\]+$', ''
+        } else {
+            $slug    = $name
+            $section = ($dir -replace '^content\\', '')
+        }
 
-        # Todos os arquivos do diretório de saída da nota (index.html, og.webp, imagens do bundle, etc.)
-        $noteOutDir = Join-Path $publicDir "$relDir\$slug"
+        # Todos os arquivos do diretório de saída da nota (index.html, og.webp, imagens, etc.)
+        $noteOutDir = Join-Path $publicDir "$section\$slug"
         if (Test-Path $noteOutDir) {
             Get-ChildItem $noteOutDir -File | ForEach-Object {
                 $paths.Add($_.FullName.Substring($publicDir.Length + 1)) | Out-Null
@@ -84,12 +90,12 @@ function Get-PathsToCheck {
         }
 
         # Lista da seção + paginadores
-        $sectionIdx = "$relDir\index.html"
+        $sectionIdx = "$section\index.html"
         if (Test-Path (Join-Path $publicDir $sectionIdx)) { $paths.Add($sectionIdx) | Out-Null }
-        $pageDir = Join-Path $publicDir "$relDir\page"
+        $pageDir = Join-Path $publicDir "$section\page"
         if (Test-Path $pageDir) {
             Get-ChildItem $pageDir -Directory | ForEach-Object {
-                $p = "$relDir\page\$($_.Name)\index.html"
+                $p = "$section\page\$($_.Name)\index.html"
                 if (Test-Path (Join-Path $publicDir $p)) { $paths.Add($p) | Out-Null }
             }
         }
