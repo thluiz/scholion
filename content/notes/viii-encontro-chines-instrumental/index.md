@@ -51,7 +51,7 @@ No meio do percurso, Si Fu sinalizou o tema "den galinha" para aprofundar em ses
 
 ### Bun Dim 半點 e imperceptibilidade
 
-Si Fu contou que perguntou a uma professora de chinês da PUC, sem dar contexto, o que seria "pundinho". A resposta: coisa rápida. Vapt-vupt.
+Si Fu contou que perguntou a uma professora de chinês da PUC, sem dar contexto, o que seria "Pun Dim". A resposta: coisa rápida. Vapt-vupt.
 
 Si Fu foi preciso: não é rapidez. É imperceptibilidade. "Quase nada." A professora sabia que Si Fu praticava Kung Fu, mas ele propositalmente retirou o contexto para não influenciar a resposta.
 
