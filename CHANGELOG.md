@@ -5,6 +5,21 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
+## [0.5.5] — 2026-06-12
+
+### Mudado
+
+- **Deploy migrado de GitHub Actions para script local** (`deploy.ps1`).
+  Build Hugo roda em ~30 s na máquina local (vs. ~9 min no CI) por
+  aproveitar o cache de imagens processadas em `resources/_gen/`.
+  Workflow de CI mantido apenas com trigger `workflow_dispatch`
+  (acionamento manual de emergência).
+- **Sync incremental com manifest SHA256** (`public-manifest.json` +
+  `last-published-commit.txt`): o script deriva via `git diff` quais
+  páginas foram afetadas (nota, OG image, seção, paginadores, tags,
+  histórico) e faz upload paralelo só dos arquivos com hash alterado.
+  Full scan automático no primeiro deploy ou com `-ForceFullSync`.
+
 ## [0.5.4] — 2026-05-08
 
 ### Adicionado

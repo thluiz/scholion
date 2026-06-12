@@ -1,6 +1,8 @@
 public/
 resources/
 .hugo_build.lock
+public-manifest.json
+last-published-commit.txt
 node_modules/
 .DS_Store
 .claude/settings.local.json
