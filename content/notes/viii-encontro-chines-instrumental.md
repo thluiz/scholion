@@ -43,7 +43,7 @@ Si Fu foi honesto: não sabe a razão do componente "preto" no lado esquerdo do 
 
 Claudio mapeou a sequência fisicamente e chegou em ângulos: quatro ângulos principais, o ângulo de disparo, um meio ângulo. Thiago trouxe a analogia com o passo: o meio ponto seria uma técnica que não se completa em si mesma, como no Jing Choy, onde dois meios de passo perfazem um passo inteiro.
 
-Si Fu calibrou os dois: Dim não é área, não é ângulo. É ponto mesmo. Micro. Como a gotinha que cai na pedra.
+Si Fu calibrou os dois: Dim não é área, não é ângulo. É ponto mesmo. Micro, como a gotinha que cai na pedra.
 
 No meio do percurso, Si Fu sinalizou o tema "den galinha" para aprofundar em sessão futura. (TODO conferir: "den galinha", tema que Si Fu indicou para retomar)
 
@@ -51,7 +51,7 @@ No meio do percurso, Si Fu sinalizou o tema "den galinha" para aprofundar em ses
 
 Si Fu contou que perguntou a uma professora de chinês da PUC, sem dar contexto, o que seria "pundinho". A resposta: coisa rápida. Vapt-vupt.
 
-Si Fu foi preciso: não é rapidez de velocidade. É imperceptibilidade. "Quase nada." A professora sabia que Si Fu praticava Kung Fu, mas ele propositalmente retirou o contexto para não influenciar a resposta.
+Si Fu foi preciso: não é rapidez. É imperceptibilidade. "Quase nada." A professora sabia que Si Fu praticava Kung Fu, mas ele propositalmente retirou o contexto para não influenciar a resposta.
 
 Pun 半 aparece também em meio-dia, meia-noite: marcações precisas de tempo. Por isso a professora pode ter associado ao tempo. Mas o sentido coloquial que ela deu foi: algo que passa quase sem ser percebido.
 
