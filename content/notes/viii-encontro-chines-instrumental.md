@@ -41,8 +41,6 @@ Si Fu foi honesto: não sabe a razão do componente "preto" no lado esquerdo do 
 
 ### Os seis pontos: o debate
 
-Claudio e Thiago apresentaram entendimentos diferentes sobre o que são os pontos do Luk Dim Pun Kwan.
-
 Claudio mapeou a sequência fisicamente e chegou em ângulos: quatro ângulos principais, o ângulo de disparo, um meio ângulo. Thiago trouxe a analogia com o passo: o meio ponto seria uma técnica que não se completa em si mesma, como no Jing Choy, onde dois meios de passo perfazem um passo inteiro.
 
 Si Fu calibrou os dois: Dim não é área, não é ângulo. É ponto mesmo. Micro. Como a gotinha que cai na pedra.
