@@ -1,14 +1,14 @@
 [
   {
     "date": "2026-06-05",
+    "subject": "chore: substitui TODO quadro por nota sobre gênero 四季花"
+  },
+  {
+    "date": "2026-06-05",
     "subject": "chore: link Normose O Perigo Amarelo no lugar do TODO"
   },
   {
     "date": "2026-06-05",
     "subject": "chore: remove TODO nível superior Mui Fa Jong"
-  },
-  {
-    "date": "2026-06-05",
-    "subject": "fix: ghost-writer pass — remove taglines e meta-narração"
   }
 ]
