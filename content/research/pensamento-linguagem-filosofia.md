@@ -17,8 +17,8 @@ Regras gerais aplicadas: ver `.claude/skills/research/SKILL.md`.
 
 ## Estado
 
-- **Em foco**: escopo recém-aberto. Aguardando o autor escolher a primeira direção a exaurir.
-- **Próximo**: a confirmar. Candidatos nas "Direções a mapear" abaixo.
+- **Em foco**: levantamento histórico (1ª versão) concluído — linha do tempo de Platão a Boroditsky. Nós verificados nesta sessão marcados ✓; provisórios, ⚠.
+- **Próximo**: o autor escolhe um nó ou era da linha do tempo para exaurir. Candidatos fortes: relatividade linguística (Whorf → Boroditsky), raiz antiga (*Crátilo*), gramática como destino (Nietzsche tardio).
 - Pesquisas-irmãs com escopo próprio: [ontologia](/research/ontologia), [wittgenstein](/research/wittgenstein), [o-que-faz-a-filosofia](/research/o-que-faz-a-filosofia), [heidegger](/research/heidegger).
 
 ## Motivação
@@ -28,6 +28,52 @@ A pesquisa nasce do cluster de citações gravado em 13/06/2026, que alinhou qua
 A pergunta de fundo é mais antiga e mais larga do que esse cluster. O pensamento depende da língua em que é pensado, ou a precede? Tudo o que existe de pensável já está predisposto pela gramática, como queria Nietzsche, ou há um pensamento sem palavras que a língua só veste depois? As duas respostas têm tradições inteiras por trás. A pesquisa mapeia as duas e o que cada uma fez com a outra.
 
 A sobreposição com as pesquisas-irmãs é real e proposital: [ontologia](/research/ontologia) já mapeou a virada gramatical (Ryle, Wittgenstein, Austin) pelo ângulo da pergunta pelo ser; aqui o ângulo é outro, a relação pensamento/língua. Quando uma direção for melhor coberta por uma irmã, linkar em vez de duplicar.
+
+## Levantamento histórico
+
+Linha do tempo do problema, de ponta a ponta. Marca ✓ = fonte verificada nesta sessão; ⚠ = reconstruído de memória, a verificar quando a direção for exaurida. Uma polaridade atravessa toda a lista: a língua molda o pensamento, ou o pensamento a precede?
+
+### Antiguidade — o problema nasce
+
+- ⚠ **Platão, *Crátilo*** (c. 360 a.C.). O diálogo arma a alternativa que organiza tudo o que vem depois: os nomes são corretos por natureza (*physei*) ou por convenção (*nomôi/thesei*)? Hermógenes defende a convenção, Crátilo a natureza, Sócrates complica os dois.
+- ⚠ **Aristóteles, *Da Interpretação* 1 (16a)**. As palavras faladas são símbolos convencionais das afecções da alma; as afecções, porém, são as mesmas para todos. Primeira formulação do universalismo: a língua varia, o pensamento por baixo é comum.
+
+### Idade Média — a gramática espelha o ser
+
+- ✓ **Modistae / gramática especulativa** (séc. XIII–XIV). Martin de Dácia e, sobretudo, Tomás de Erfurt (*De modis significandi seu grammatica speculativa*, início do séc. XIV) constroem uma teoria tripartite: *modi essendi*, *modi intelligendi*, *modi significandi*. A gramática deixa de ser arte da fala correta e vira *scientia* que revela a estrutura racional do real; sob as línguas particulares haveria uma gramática universal. Links: [Modistae](https://en.wikipedia.org/wiki/Modistae), [SEP "Thomas of Erfurt"](https://plato.stanford.edu/entries/erfurt/).
+
+### Modernidade — signos das ideias e a língua perfeita
+
+- ✓ **Locke, *Essay* livro III** (1689). A primeira investigação moderna sustentada sobre o significado: as palavras são signos das ideias na mente de quem as usa, e o geral e o universal são invenções do entendimento, não existências reais. A língua medeia, mas as ideias vêm antes. Links: [Locke, livro III (Early Modern Texts)](https://www.earlymoderntexts.com/assets/pdfs/locke1690book3.pdf).
+- ✓ **Leibniz, *characteristica universalis***. O projeto inverso: um "alfabeto do pensamento humano", uma ideografia que represente as ideias diretamente, sem passar pela língua natural. A língua perfeita como cálculo. Links: [Characteristica universalis](https://en.wikipedia.org/wiki/Characteristica_universalis).
+- ⚠ **Condillac, *Essai sur l'origine des connaissances humaines*** (1746). A língua não só exprime como reage sobre o pensamento; o método de análise é a própria língua bem-feita. (A confirmar ao exaurir.)
+- ✓ **Adam Smith** (1761). Nomear uma cor já embute metafísica, porque exige separar a qualidade da substância: [adam-smith-adjetivo-metafisica](/notes/adam-smith-adjetivo-metafisica).
+
+### Romantismo alemão — língua como visão de mundo
+
+- ⚠ **Herder, *Sobre a Origem da Linguagem*** (1772). Pensamento e linguagem nascem juntos; não há razão (*Besonnenheit*) antes da palavra. Rompe com a língua-instrumento e prepara o expressivismo.
+- ✓ **Wilhelm von Humboldt** (introdução ao Kawi, 1836). A língua é *energeia* (atividade), não *ergon* (produto); cada língua carrega uma *Weltansicht*, uma apreensão de mundo partilhada pela comunidade que a fala. É a ponte direta para a relatividade do século XX. Links: [SEP "Wilhelm von Humboldt"](https://plato.stanford.edu/entries/wilhelm-humboldt/).
+
+### Século XIX — a gramática como destino e o signo diferencial
+
+- ✓ **Nietzsche, *JGB* §20** (1886). A filosofia da gramática comum conduz, por baixo da consciência, o curso dos sistemas: [nietzsche-filosofia-da-gramatica](/notes/nietzsche-filosofia-da-gramatica).
+- ⚠ **Saussure, *Curso de Linguística Geral*** (1916, póstumo). O signo é arbitrário; *langue* × *parole*; o sentido nasce das diferenças dentro do sistema, não da referência ao mundo. Funda o estruturalismo e desloca o eixo da coisa para a relação.
+
+### Século XX — três frentes simultâneas
+
+- **Frente analítica** (a língua como limite do sentido). ⚠ Frege (sentido e referência, 1892), ⚠ Wittgenstein do *Tractatus* (1921), ✓ Carnap (1932), e o Wittgenstein tardio com Ryle e Austin. A confusão filosófica é confusão gramatical. Já mapeada por outro ângulo em [virada-gramatical-ryle-wittgenstein-austin](/notes/virada-gramatical-ryle-wittgenstein-austin) e [carnap-musicos-sem-habilidade-musical](/notes/carnap-musicos-sem-habilidade-musical).
+- ✓ **Frente relativista** (a língua molda a cognição). Boas → Sapir (anos 1920–30) → Whorf, que cunha o "princípio da relatividade linguística" a partir do estudo do hopi ("Science and Linguistics", 1940). Harry Hoijer batiza a "hipótese Sapir-Whorf" em 1954; nem Sapir nem Whorf formularam a tese sob esse nome, e Whorf nunca defendeu o determinismo estrito que lhe atribuíram depois. Links: [Britannica "Whorfian hypothesis"](https://www.britannica.com/science/Whorfian-hypothesis), [Linguistic relativity](https://en.wikipedia.org/wiki/Linguistic_relativity).
+- ⚠ **Frente psicológica** (raízes distintas que convergem). Vygotsky, *Pensamento e Linguagem* (1934): pensamento e fala têm origens genéticas separadas e se cruzam; a fala interior reorganiza o pensar. Contra a fala egocêntrica de Piaget.
+
+### Virada cognitiva — a tese oposta e o teste empírico
+
+- ⚠ **Chomsky** (*Syntactic Structures*, 1957; *Aspects*, 1965). Gramática universal, faculdade de linguagem inata. A diversidade é de superfície; a estrutura profunda é comum. Universalismo forte.
+- ⚠ **Fodor, *The Language of Thought*** (1975). O pensamento ocorre numa linguagem mental inata, o *mentalês*, prévia e independente de qualquer língua natural. A língua natural exprime o pensamento, não o constitui.
+- ⚠ **Pinker** (*The Language Instinct*, 1994; *The Stuff of Thought*, 2007). Instinto de linguagem; crítica ao relativismo forte como mito.
+- ✓ **Revival experimental — Boroditsky** (anos 2000). A relatividade volta na versão fraca e testável: falantes de kuuk thaayorre orientam-se por pontos cardeais em vez de esquerda/direita; o russo, com duas palavras para azul claro e escuro, discrimina tons mais rápido; o gênero gramatical inclina a descrição de objetos (a ponte "elegante" em alemão, "forte" em espanhol). Links: [Boroditsky, "How Language Shapes Thought" (Scientific American, 2011)](http://lera.ucsd.edu/papers/sci-am-2011.pdf).
+- ⚠ **McWhorter, *The Language Hoax*** (2014). Crítica de equilíbrio: os efeitos existem, mas são pequenos, e não autorizam a leitura forte de que a língua aprisiona o pensável.
+
+O eixo se repete em cada nó. Uns puxam para o lado de que a língua molda o pensamento (Modistae, Humboldt, Nietzsche, Saussure, Whorf, Boroditsky); outros, para o de que o pensamento a precede (Aristóteles, Locke, Leibniz, Chomsky, Fodor). As três frentes do século XX são onde a disputa fica explícita e deixa de ser metáfora.
 
 ## Perguntas em aberto
 
