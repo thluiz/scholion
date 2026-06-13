@@ -17,8 +17,8 @@ Regras gerais aplicadas: ver `.claude/skills/research/SKILL.md`.
 
 ## Estado
 
-- **Em foco**: levantamento histórico (1ª versão) concluído — linha do tempo de Platão a Boroditsky. Nós verificados nesta sessão marcados ✓; provisórios, ⚠.
-- **Próximo**: o autor escolhe um nó ou era da linha do tempo para exaurir. Candidatos fortes: relatividade linguística (Whorf → Boroditsky), raiz antiga (*Crátilo*), gramática como destino (Nietzsche tardio).
+- **Em foco**: direção 1 (raiz antiga). *Crátilo* exaurido em 1ª passagem via SEP — numeração Stephanus, teoria mimética, virada anti-naturalista, limite epistêmico e fecho anti-fluxo mapeados; leituras A/B/C e Sedley (2003) registrados. Verbatim grego pendente (Perseus fora do ar nesta sessão).
+- **Próximo**: Aristóteles, *Da Interpretação* 1 (16a), a réplica universalista que fecha a direção 1. Depois, escolher entre Modistae (direção 2) ou a frente relativista (Whorf → Boroditsky).
 - Pesquisas-irmãs com escopo próprio: [ontologia](/research/ontologia), [wittgenstein](/research/wittgenstein), [o-que-faz-a-filosofia](/research/o-que-faz-a-filosofia), [heidegger](/research/heidegger).
 
 ## Motivação
@@ -85,7 +85,26 @@ A confirmar antes de aprofundar. Cada uma será exaurida antes de passar à pró
 
 ### 1. Raiz antiga — nomes por natureza ou convenção
 
-⚠ Platão, *Crátilo*: os nomes são corretos por natureza (*physei*) ou por convenção (*thesei/nomôi*)? Aristóteles, *Da Interpretação* 1–2: as palavras são símbolos convencionais das afecções da alma, e estas, iguais para todos. Primeira formulação ocidental do problema, e já com o universalismo aristotélico contra o naturalismo cratiliano.
+#### Platão, *Crátilo* — o diálogo fundador
+
+O diálogo põe três posições. **Hermógenes** defende o convencionalismo estrito: o nome é correto só por acordo e hábito (*synthēkē*), e qualquer nome serve desde que o uso se mantenha. **Crátilo** defende o naturalismo: para cada coisa há um nome correto por natureza (*physei*), e quem erra esse nome não nomeia de fato. **Sócrates** entra como árbitro e acaba virando contra os dois. Numeração Stephanus conforme a SEP:
+
+- ✓ **383a–390e — refutação do convencionalismo.** Sócrates rebate Hermógenes pela analogia da ferramenta: se nomear fosse puro acordo arbitrário, não existiria nomear certo ou errado; mas existe.
+- ✓ **388b–390e — o nome como instrumento.** O nome (*ónoma*) é um *órganon* com função dupla: ensinar e distinguir a realidade (*didaskalikón* e *diakritikòn tês ousías*). Quem fabrica a ferramenta é o legislador dos nomes (*nomothétēs*); quem julga se ela serve é o dialético, que usa o nome como o tecelão usa a lançadeira. A hierarquia ingênua se inverte: o nomeador não é a autoridade final, e sim o usuário.
+- ✓ **390e–427d — etimologias e teoria mimética.** A seção mais longa decompõe centenas de nomes atrás de significados "encriptados". *Theós* viria de *theîn*, correr (os primeiros deuses, os astros, corriam pelo céu); *sôma*, corpo, de *sêma*, túmulo (o corpo como sepultura da alma). Nos nomes primários, já não decomponíveis, a correção seria imitação: letras e sons imitando propriedades das coisas (o *r* para o movimento, etc.). ⚠ Loci exatos de cada etimologia a confirmar no Perseus (fora do ar nesta sessão).
+- ✓ **427d–435d — a virada contra o naturalismo.** Sócrates força Crátilo a admitir que a imitação perfeita é impossível e que a convenção (*synthēkē kai éthos*) entra na correção. Um nome com letras "erradas" ainda funciona se a comunidade o usa para aquela coisa.
+- ✓ **435d–439b — o limite epistêmico.** A conclusão decisiva para esta pesquisa: o nome não é via confiável para o conhecimento. Quem quer saber o que algo é deve estudar a coisa, não o nome dela. Aprender pelas palavras é arriscado, porque quem as cunhou podia estar errado.
+- ✓ **439c–440e — o fecho contra o fluxo.** Os nomes gregos, sugere Sócrates, foram dados por gente que acreditava que tudo flui (Heráclito). Se isso fosse verdade, não haveria conhecimento estável de coisa alguma. Ele se inclina para o oposto: o conhecimento supõe formas estáveis. O naturalismo dos nomes é desarmado por uma aposta metafísica.
+
+Leitura acadêmica. ✓ A interpretação do fecho é disputada, em três campos: (A) Platão acaba endossando o convencionalismo de Hermógenes; (B) naturalismo refinado, em que a teoria mimética sobrevive com a convenção a limitá-la; (C) há um padrão natural de correção, mas ele não exige descrição nem imitação. ✓ David Sedley (*Plato's Cratylus*, 2003) sustenta a leitura naturalista: Sócrates não concede ao convencionalismo, apenas refuta a crença de Crátilo de que os nomes espelham o objeto sem erro. ⚠ Datação contestada: uns alinham o diálogo ao período do *Fédon*, outros aos tardios (*Teeteto*, *Sofista*).
+
+Links: [SEP "Plato's Cratylus"](https://plato.stanford.edu/entries/plato-cratylus/).
+
+Paralelo cross-cultural. O *Crátilo* pergunta se os nomes **são** corretos por natureza; do outro lado da Eurásia, [confucius-rectification-of-names](/notes/confucius-rectification-of-names) ordena que os nomes **sejam** retificados (正名 *zhèngmíng*, Analectos 13.3). Um é descritivo e metafísico, o outro normativo e político: para Confúcio, nome errado desencadeia fala desordenada, ritos em colapso, povo sem chão. A mesma intuição, de que a correção dos nomes sustenta a relação com o real, em dois registros.
+
+#### ⚠ Aristóteles, *Da Interpretação* 1 (16a) — a réplica universalista
+
+(A exaurir no próximo passo.) As palavras faladas seriam símbolos convencionais das afecções da alma; as afecções, porém, as mesmas para todos. A convenção fica na superfície sonora, o pensamento por baixo é comum. É a resposta que fecha a porta aberta pelo *Crátilo* e ecoa depois nos Modistas e em Locke.
 
 ### 2. Raiz romântica alemã — língua como visão de mundo
 
@@ -122,6 +141,7 @@ Recepção e radicalização da tese de Nietzsche. ⚠ *Crepúsculo dos Ídolos*
 - [borges-funes-pensar-e-esquecer](/notes/borges-funes-pensar-e-esquecer) — pensar como abstrair e generalizar; a memória total que impede o conceito.
 - [borges-tlon-metafisicos-asombro](/notes/borges-tlon-metafisicos-asombro) — Tlön e a língua sem substantivos; metafísica como literatura.
 - [ordem-dos-adjetivos-em-ingles](/notes/ordem-dos-adjetivos-em-ingles) — regra gramatical tácita que o nativo aplica sem saber explicar.
+- [confucius-rectification-of-names](/notes/confucius-rectification-of-names) — o paralelo cross-cultural do *Crátilo*: a retificação dos nomes (正名) como tarefa política, o avesso normativo da pergunta metafísica grega.
 
 ## Notas extraídas
 
