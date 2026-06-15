@@ -12,7 +12,7 @@ toc: true
 Regras gerais aplicadas: ver `.claude/skills/research/SKILL.md`.
 
 - **Distinguir as duas teses opostas** em cada autor: a língua determina ou condiciona o pensamento (relativismo, do *Crátilo* a Whorf, da gramática de Nietzsche à virada analítica) versus o pensamento é prévio e independente da língua natural (universalismo, mentalês de Fodor, gramática universal de Chomsky).
-- **Distinguir versão forte e fraca da relatividade linguística** — determinismo (a língua aprisiona o pensável) versus influência (a língua inclina hábitos cognitivos). A versão forte quase não tem defensores sérios hoje; é a fraca que a ciência cognitiva testa.
+- **Distinguir versão forte e fraca da relatividade linguística** — determinismo (a língua aprisiona o pensável) versus influência (a língua inclina hábitos cognitivos). A versão forte quase não tem defensores sérios hoje; é a fraca que a ciência cognitiva testa (crítica de equilíbrio em McWhorter, *The Language Hoax*, 2014, e Pinker, *The Stuff of Thought*, 2007).
 - Detalhes bibliográficos nas "Direções a mapear" abaixo são provisórios (reconstruídos de memória, marcados ⚠) até a direção ser exaurida e cada fonte verificada.
 
 ## Estado
