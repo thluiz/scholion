@@ -1,0 +1,26 @@
+{{/*
+  Resolve wikilinks [[slug]] e [[slug|texto]] no corpo já renderizado.
+  Hugo não tem suporte nativo a wikilinks; sem isto, [[...]] sai como texto cru.
+  - [[slug]]        → <a href="/notes/slug/">Título da nota</a>
+  - [[slug|texto]]  → <a href="/notes/slug/">texto</a>
+  Procura o alvo em /notes/ e, em fallback, em /research/.
+  Alvo inexistente vira <span class="scholion-wikilink-broken"> para ficar visível.
+  Recebe a Page como contexto (.).
+*/}}
+{{- $content := .Content -}}
+{{- range $m := (findRE `\[\[[^\]]+\]\]` $content) | uniq -}}
+  {{- $inner := strings.TrimSuffix "]]" (strings.TrimPrefix "[[" $m) -}}
+  {{- $parts := split $inner "|" -}}
+  {{- $slug := trim (index $parts 0) " " -}}
+  {{- $text := cond (gt (len $parts) 1) (trim (index $parts 1) " ") "" -}}
+  {{- $target := or (site.GetPage (printf "/notes/%s" $slug)) (site.GetPage (printf "/research/%s" $slug)) -}}
+  {{- if $target -}}
+    {{- $label := cond (ne $text "") $text $target.Title -}}
+    {{- $a := printf `<a href="%s" class="scholion-wikilink">%s</a>` $target.RelPermalink $label -}}
+    {{- $content = replace $content $m $a -}}
+  {{- else -}}
+    {{- $label := cond (ne $text "") $text $slug -}}
+    {{- $content = replace $content $m (printf `<span class="scholion-wikilink-broken" title="nota não encontrada: %s">%s</span>` $slug $label) -}}
+  {{- end -}}
+{{- end -}}
+{{ $content | safeHTML }}
