@@ -1,7 +1,7 @@
 ---
 title: "As etimologias do Crátilo de Platão"
 date: 2026-06-14T02:13:49+01:00
-summary: "Catálogo das etimologias que Sócrates propõe no Crátilo para sustentar que os nomes guardam a natureza das coisas. No conjunto, quase todas derivam de movimento e fluxo — o sinal de que a língua grega teria sido cunhada por heraclitianos."
+summary: "Catálogo das etimologias que Sócrates propõe no Crátilo para sustentar que os nomes guardam a natureza das coisas, com a contraprova da linguística histórica. No conjunto, quase todas derivam de movimento e fluxo; quase nenhuma se sustenta diante da etimologia moderna, que as expõe como etimologia popular."
 tags: ["platao", "cratilo", "etimologia", "filosofia-da-linguagem", "filosofia-antiga"]
 has_commentary: true
 sources:
@@ -14,6 +14,11 @@ sources:
   - title: "Plato's Cratylus (Stanford Encyclopedia of Philosophy)"
     url: "https://plato.stanford.edu/entries/plato-cratylus/"
     kind: wiki
+  - title: "Etymological Dictionary of Greek"
+    author: "Robert Beekes"
+    year: 2010
+    publisher: "Brill (2 vols.); cotejado com o Wiktionary inglês, que cita Beekes"
+    kind: book
 ---
 
 No miolo do [[cratilo-correcao-dos-nomes|Crátilo]], Sócrates passa páginas e páginas destrinchando palavras. O objetivo é sustentar a tese naturalista: se o nome guarda na própria forma a natureza da coisa, ele não é etiqueta arbitrária. E há um padrão que salta aos olhos. A esmagadora maioria das palavras é derivada de **movimento, corrida, fluxo** — sinal, diz Sócrates, de que quem cunhou o grego acreditava que tudo escorre, como ensinava Heráclito.
@@ -144,6 +149,20 @@ Quando se chega a nomes que não se decompõem em outros, a correção teria de 
 | ο (ômicron) | redondez |
 | φ, ψ, σ, ζ | o que sacode, ferve, treme (sopradas) |
 | δ, τ (delta, tau) | fixação, parada, repouso |
+
+### Por que essas etimologias são fantasiosas
+
+O catálogo impressiona pela quantidade, mas a linguística histórica desmancha quase tudo. Não por capricho: as derivações de Sócrates seguem o que hoje se chama etimologia popular — parte-se de um som parecido e da tese que se quer provar, e volta-se montando a ponte entre os dois. Três tipos de erro se repetem.
+
+**Primeiro, impor fluxo a palavras de herança estável.** A tese exige que o grego tenha sido cunhado por heraclitianos, então Sócrates lê movimento onde não há. *Theós* não vem de *theîn*, "correr": reconstrói-se a partir da raiz indo-europeia *\*dʰéh₁s*, ligada ao sagrado e ao ato de pôr, sem nenhuma ideia de corrida (Beekes 2010). *Areté* não é "a que sempre flui" (*aeì rhéousa*), mas pende da raiz *\*h₂erh₁-*, "ajustar, encaixar", a mesma de *ararískō*, "juntar" (Beekes 2010). O fluxo está no método de quem deriva, não nas palavras.
+
+**Segundo, chamar de estrangeiro justamente o que é mais indo-europeu.** Quando uma palavra não cede ao método, Sócrates a declara emprestada: *pŷr* (fogo) e *hýdōr* (água) seriam frígias. São o oposto disso. Estão entre as heranças indo-europeias mais seguras que se conhece. *Pŷr* vem de *\*péh₂wr̥*, cognata do inglês *fire* e do alemão *Feuer*; *hýdōr*, de *\*wódr̥*, cognata de *water* e *Wasser* (Beekes 2010). O mesmo erro atinge *astēr* (astro), que ele tira de *astrapḗ*, relâmpago, e que na verdade desce de *\*h₂stḗr*, a raiz de *star*, do latim *stella*, do sânscrito *tārā* (Beekes 2010). E atinge *ónoma* (nome), que vira "o ente de que se anda à procura" e nada mais é que a continuação do indo-europeu *\*h₁nómn̥*, cognato de *nomen*, *name*, do sânscrito *nā́man* (Beekes 2010). O radar de estrangeirismo de Sócrates aponta para o lado errado.
+
+**Terceiro, decompor o que é opaco.** Há palavras gregas sem etimologia transparente, muitas delas pré-gregas, herdadas de uma língua anterior à chegada dos falantes de grego à península. *Ánthrōpos* (homem) é o caso clássico: carece de decomposição indo-europeia convincente, e Beekes a classifica como provavelmente pré-grega (Beekes 2010). "Aquele que reexamina o que viu" (*anathrôn hà ópōpe*) é construção engenhosa sobre uma palavra que não se deixa abrir. *Sôma* (corpo) é parecido: a origem é disputada e incerta (Beekes 2010), e o elegante *sêma*, "túmulo", é etimologia órfico-pitagórica, não a fonte real.
+
+Cabe uma ressalva honesta. De quando em quando Sócrates acerta, não por método e sim por acaso. *Psyché* (alma) ele liga ao fôlego, e a palavra de fato vem de *psýchō*, "soprar, respirar", com sentido original de "sopro" (Beekes 2010). O acerto isolado não resgata o resto; mostra apenas que partir do som, às vezes, cai no alvo.
+
+Um caso vale por todos. *Zeus*, que Sócrates deriva de *di' hòn zên*, "aquele por quem se vive", não tem relação com viver: desce de *\*dyḗws*, o deus-céu indo-europeu, cognato do latim *Iuppiter* e do sânscrito *Dyaus* (Beekes 2010). A mesma derivação por "viver" reaparece séculos depois em Lactâncio, registrada já na Antiguidade como etimologia popular, o que mostra que o jogo sonoro do *Crátilo* circulava muito além do diálogo.
 
 ### O que esse catálogo prova, e o que não prova
 
