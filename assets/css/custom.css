@@ -970,6 +970,32 @@
   text-decoration-color: rgb(var(--color-primary-300));
 }
 
+/* Wikilinks internos: glifo de remissão antes do link, sublinhado herdado */
+.scholion-note-body a.scholion-wikilink::before {
+  content: "↪";
+  display: inline-block;
+  margin-right: 0.2em;
+  color: rgb(var(--color-primary-400));
+  text-decoration: none;
+  font-weight: 400;
+}
+
+.dark .scholion-note-body a.scholion-wikilink::before {
+  color: rgb(var(--color-primary-300));
+}
+
+/* Wikilink com alvo inexistente: visível e sinalizado */
+.scholion-note-body .scholion-wikilink-broken {
+  color: rgb(180, 70, 70);
+  border-bottom: 1px dashed rgba(180, 70, 70, 0.6);
+  cursor: help;
+}
+
+.dark .scholion-note-body .scholion-wikilink-broken {
+  color: rgb(220, 120, 120);
+  border-bottom-color: rgba(220, 120, 120, 0.6);
+}
+
 .scholion-note-body blockquote {
   border-left: 3px solid rgb(var(--color-primary-400));
   padding-left: 1rem;

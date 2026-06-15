@@ -1,0 +1,45 @@
+{{- /*
+  Override do índice de busca do tema: limpa a sintaxe de wikilink ([[slug|texto]] / [[slug]])
+  do conteúdo indexado, já que .Plain preserva o [[...]] literal do markdown.
+  Reduz ao texto-rótulo (ou ao slug, quando não há texto).
+*/ -}}
+{{- $stripWiki := dict -}}
+{{- $index := slice -}}
+{{ $pages := .Site.Pages }}
+{{ range .Site.Home.Translations }}
+{{ $pages = $pages | lang.Merge .Site.Pages }}
+{{ end }}
+{{- range $pages -}}
+  {{- if not .Params.excludeFromSearch -}}
+    {{- $section := .Site.GetPage "section" .Section -}}
+    {{- $content := .Plain -}}
+    {{- $content = $content | replaceRE `\[\[[^\]|]+\|([^\]]+)\]\]` `$1` -}}
+    {{- $content = $content | replaceRE `\[\[([^\]]+)\]\]` `$1` -}}
+    {{- $summary := .Summary | plainify | htmlUnescape -}}
+    {{- $summary = $summary | replaceRE `\[\[[^\]|]+\|([^\]]+)\]\]` `$1` -}}
+    {{- $summary = $summary | replaceRE `\[\[([^\]]+)\]\]` `$1` -}}
+    {{- if .Date -}}
+      {{- $index = $index | append (dict
+      "date" (.Date | time.Format (.Site.Language.Params.dateFormat | default ":date_long"))
+      "title" (.Title | emojify | safeJS)
+      "section" ($section.Title | emojify | safeJS)
+      "summary" ($summary | safeJS)
+      "content" ($content | safeJS)
+      "permalink" .RelPermalink
+      "externalUrl" .Params.externalUrl
+      "type" .Type
+      ) -}}
+    {{- else -}}
+      {{- $index = $index | append (dict
+      "title" (.Title | emojify | safeJS)
+      "section" ($section.Title | emojify | safeJS)
+      "summary" ($summary | safeJS)
+      "content" ($content | safeJS)
+      "permalink" .RelPermalink
+      "externalUrl" .Params.externalUrl
+      "type" .Type
+      ) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $index | jsonify -}}
