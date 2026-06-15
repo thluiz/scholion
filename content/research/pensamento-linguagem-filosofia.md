@@ -17,7 +17,7 @@ Regras gerais aplicadas: ver `.claude/skills/research/SKILL.md`.
 
 ## Estado
 
-- **Em foco**: direção 1 (raiz antiga). *Crátilo* exaurido em 1ª passagem via SEP — numeração Stephanus, teoria mimética, virada anti-naturalista, limite epistêmico e fecho anti-fluxo mapeados; leituras A/B/C e Sedley (2003) registrados. Verbatim grego pendente (Perseus fora do ar nesta sessão).
+- **Em foco**: direção 1 (raiz antiga). *Crátilo* exaurido em 1ª passagem via SEP — numeração Stephanus, teoria mimética, virada anti-naturalista, limite epistêmico e fecho anti-fluxo mapeados; leituras A/B/C e Sedley (2003) registrados. Verbatim grego de 435a (*ἔθος τε καὶ συνθήκη*) confirmado no Perseus (Burnet); os termos das etimologias (theós, sôma etc.) seguem pendentes.
 - **Próximo**: Aristóteles, *Da Interpretação* 1 (16a), a réplica universalista que fecha a direção 1. Depois, escolher entre Modistae (direção 2) ou a frente relativista (Whorf → Boroditsky).
 - Pesquisas-irmãs com escopo próprio: [ontologia](/research/ontologia), [wittgenstein](/research/wittgenstein), [o-que-faz-a-filosofia](/research/o-que-faz-a-filosofia), [heidegger](/research/heidegger).
 
@@ -87,12 +87,14 @@ A confirmar antes de aprofundar. Cada uma será exaurida antes de passar à pró
 
 #### Platão, *Crátilo* — o diálogo fundador
 
+Já no [[cratilo-correcao-dos-nomes|Crátilo]] de Platão se discutia se os nomes são corretos por natureza ou só por convenção. Sócrates mostra que o nome não pode ser a própria coisa. Um nome que a copiasse por inteiro deixaria de ser nome e viraria uma duplicata dela. O nome também não precisa imitá-la com perfeição, porque um nome com letras "erradas" funciona se a comunidade o usa para aquilo. No fecho do diálogo, Sócrates conclui que os nomes não dão conhecimento seguro da coisa, e que conhecê-la exige estudá-la diretamente.
+
 O diálogo põe três posições. **Hermógenes** defende o convencionalismo estrito: o nome é correto só por acordo e hábito (*synthēkē*), e qualquer nome serve desde que o uso se mantenha. **Crátilo** defende o naturalismo: para cada coisa há um nome correto por natureza (*physei*), e quem erra esse nome não nomeia de fato. **Sócrates** entra como árbitro e acaba virando contra os dois. Numeração Stephanus conforme a SEP:
 
 - ✓ **383a–390e — refutação do convencionalismo.** Sócrates rebate Hermógenes pela analogia da ferramenta: se nomear fosse puro acordo arbitrário, não existiria nomear certo ou errado; mas existe.
 - ✓ **388b–390e — o nome como instrumento.** O nome (*ónoma*) é um *órganon* com função dupla: ensinar e distinguir a realidade (*didaskalikón* e *diakritikòn tês ousías*). Quem fabrica a ferramenta é o legislador dos nomes (*nomothétēs*); quem julga se ela serve é o dialético, que usa o nome como o tecelão usa a lançadeira. A hierarquia ingênua se inverte: o nomeador não é a autoridade final, e sim o usuário.
 - ✓ **390e–427d — etimologias e teoria mimética.** A seção mais longa decompõe centenas de nomes atrás de significados "encriptados". *Theós* viria de *theîn*, correr (os primeiros deuses, os astros, corriam pelo céu); *sôma*, corpo, é lido em 400c por três trocadilhos: *sêma* como túmulo (o corpo como sepultura da alma), *sêma* como sinal (a alma se exprime pelo corpo) e o órfico *sôzetai* (o corpo como cárcere onde a alma se guarda). Nos nomes primários, já não decomponíveis, a correção seria imitação: letras e sons imitando propriedades das coisas (o *r* para o movimento, etc.). ⚠ Trechos conferidos em tradução de domínio público (Jowett 1871; a definição de 388b em Fowler 1921); grego verbatim ainda pendente de confirmação no Perseus.
-- ✓ **427d–435d — a virada contra o naturalismo.** Sócrates força Crátilo a admitir que a imitação perfeita é impossível e que a convenção (*synthēkē kai éthos*) entra na correção. Um nome com letras "erradas" ainda funciona se a comunidade o usa para aquela coisa.
+- ✓ **427d–435d — a virada contra o naturalismo.** Como a imitação perfeita é impossível, Sócrates leva Crátilo a conceder que costume e convenção (*ἔθος τε καὶ συνθήκη*, 435a) também entram na correção. Isso limita o naturalismo, sem substituí-lo pelo convencionalismo de Hermógenes (cf. a leitura de Sedley abaixo). Um nome com letras "erradas" ainda funciona se a comunidade o usa para aquela coisa.
 - ✓ **435d–439b — o limite epistêmico.** A conclusão decisiva para esta pesquisa: o nome não é via confiável para o conhecimento. Quem quer saber o que algo é deve estudar a coisa, não o nome dela. Aprender pelas palavras é arriscado, porque quem as cunhou podia estar errado.
 - ✓ **439c–440e — o fecho contra o fluxo.** Os nomes gregos, sugere Sócrates, foram dados por gente que acreditava que tudo flui (Heráclito). Se isso fosse verdade, não haveria conhecimento estável de coisa alguma. Sócrates inclina-se para o oposto: o conhecimento supõe formas estáveis. Com isso, a correção natural dos nomes passa a depender de uma tese metafísica que o diálogo não resolve.
 

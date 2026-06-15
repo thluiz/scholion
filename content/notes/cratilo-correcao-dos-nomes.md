@@ -57,7 +57,7 @@ Quando se chega a nomes que não se decompõem em outros, a correção teria de 
 
 ### A virada contra Crátilo
 
-Tendo construído o naturalismo, Sócrates passa a derrubá-lo. Se um nome fosse a imitação perfeita da coisa, deixaria de ser nome e viraria uma cópia, uma segunda coisa. Imitação perfeita é impossível, e por isso a convenção volta a ter papel. Um nome com letras "erradas" funciona mesmo assim, desde que a comunidade o use para aquilo. A convenção que Sócrates tinha posto de lado volta a contar.
+Tendo construído o naturalismo, Sócrates passa a derrubá-lo. Se um nome fosse a imitação perfeita da coisa, deixaria de ser nome e viraria uma cópia, uma segunda coisa. Imitação perfeita é impossível, e por isso costume e convenção (*ἔθος τε καὶ συνθήκη*, 435a) voltam a ter papel. Um nome com letras "erradas" funciona mesmo assim, desde que a comunidade o use para aquilo. A convenção que Sócrates tinha posto de lado volta a contar.
 
 ### O que se pode saber pelos nomes
 
