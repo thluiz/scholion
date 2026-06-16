@@ -22,6 +22,7 @@ Regras gerais aplicadas: ver `.claude/skills/research/SKILL.md`.
 - **Em foco**: direção 1 (Leibniz primário). Base da *characteristica* conferida em 1ª passagem contra a Wikipedia EN — ideografia que representa ideias e não palavras, par com o *calculus ratiocinator*, "alfabeto do pensamento humano" por combinação de signos simples. Falta verificar fontes primárias e a frase "Calculemus!" (ausente da Wikipedia).
 - **Próximo**: exaurir Leibniz primário (verificar em fonte primária ou SEP até onde o projeto chegou e onde travou). Depois, direção 3 (como um LLM funciona na prática), que é a outra frente da comparação.
 - Eixo: até onde a representação vetorial cumpre a *forma* do projeto, e onde a diferença é de grau (computacional) versus de natureza (o real não cabe no cálculo).
+- **Já extraído** (16/06/2026): direção 6 ganhou duas notas — [o teorema da incompletude de Gödel](/notes/teorema-da-incompletude-de-godel) e [a numeração de Gödel](/notes/numeracao-de-godel) — e a direção 5 ganhou fonte atestada no [Naruhodo #461](https://vox.thluiz.com/2026/03/W11/naruhodo-461-o-que-e-a-teoria-da-incompletude-de-godel) para a posição do resíduo inexprimível.
 
 ## Motivação
 
@@ -90,6 +91,7 @@ Links: [Characteristica universalis (Wikipedia)](https://en.wikipedia.org/wiki/C
 - ⚠ **Tese do grau** (faltou-lhe só poder computacional): Leibniz desenhou a representação calculável das ideias; nós a construímos. A diferença é de escala — bilhões de parâmetros versus a pena de um homem.
 - ⚠ **Tese da natureza** (o que ele queria era outra coisa): Leibniz queria signos *transparentes e dedutíveis*, em que verdade = cálculo correto. O LLM dá signos *opacos e probabilísticos*, em que "verdade" = continuação plausível. Deduzir e estimar não são o mesmo ato. A semântica distribucional é o oposto metodológico do alfabeto de primitivos.
 - ⚠ **O resíduo inexprimível** (posição do autor). Mesmo cumprida a forma, o modelo é modelo: aproximação útil, não o real. Conecta com a crítica do mapa × território e do "Deus de Spinoza" em [systems-to-describe-for-everything-is-it-possible](/notes/systems-to-describe-for-everything-is-it-possible), e com [borges-funes-pensar-e-esquecer](/notes/borges-funes-pensar-e-esquecer) (a representação total que deixa de ser pensamento).
+- ✓ **Caminho formal para o resíduo — Gödel.** No [Naruhodo #461](https://vox.thluiz.com/2026/03/W11/naruhodo-461-o-que-e-a-teoria-da-incompletude-de-godel), Altair de Souza dá um argumento formal para essa posição: a linguagem é um sistema formal, o LLM a aproxima, e por Gödel a aproximação é por definição incompleta (a quantificação é injetora, "não volta em você"; AGI como construção ideológica). Notas de apoio: [o teorema da incompletude de Gödel](/notes/teorema-da-incompletude-de-godel) e [a numeração de Gödel](/notes/numeracao-de-godel).
 
 ### 6. A herança formal — de Frege a Gödel
 
@@ -97,6 +99,7 @@ Links: [Characteristica universalis (Wikipedia)](https://en.wikipedia.org/wiki/C
 
 - ✓ **Frege, *Begriffsschrift*** (1879). A "escrita conceitual" é citada como sucessora direta do projeto leibniziano — a notação formal que realiza a parte lógica do sonho.
 - ✓ **Gödel** teria considerado a *characteristica universalis* factível. (Wikipedia; verificar a fonte e o sentido exato.)
+- ✓ **A incompletude como limite por dentro** (1931). O mesmo Gödel que achava a *characteristica* factível provou que todo sistema formal capaz de aritmética é incompleto: há verdades que ele não alcança a partir das próprias regras. O sonho dedutível encontra um teto vindo de dentro da lógica. Ver [o teorema da incompletude de Gödel](/notes/teorema-da-incompletude-de-godel) e o mecanismo em [a numeração de Gödel](/notes/numeracao-de-godel).
 - ⚠ A bifurcação: Frege → lógica formal cumpre a *dedução*; a linhagem distribucional → vetores cumpre a *representação do sentido*. Os LLMs ficam do segundo lado, e é por isso que "calculam" sem deduzir. Material direto para a direção 5.
 
 ## Notas do Scholion já relacionadas
@@ -107,4 +110,5 @@ Links: [Characteristica universalis (Wikipedia)](https://en.wikipedia.org/wiki/C
 
 ## Notas extraídas
 
-- (nenhuma ainda)
+- [o teorema da incompletude de Gödel](/notes/teorema-da-incompletude-de-godel) — o que Gödel provou em 1931, o que o teorema não diz, e a ponte com a incompletude dos LLMs (via [Naruhodo #461](https://vox.thluiz.com/2026/03/W11/naruhodo-461-o-que-e-a-teoria-da-incompletude-de-godel)).
+- [a numeração de Gödel](/notes/numeracao-de-godel) — o mecanismo que faz a matemática falar de si mesma (codificação por potências de primos), o truque por trás do teorema.
