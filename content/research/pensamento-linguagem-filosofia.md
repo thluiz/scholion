@@ -29,6 +29,10 @@ A pergunta de fundo é mais antiga e mais larga do que esse cluster. O pensament
 
 A sobreposição com as pesquisas-irmãs é real e proposital: [ontologia](/research/ontologia) já mapeou a virada gramatical (Ryle, Wittgenstein, Austin) pelo ângulo da pergunta pelo ser; aqui o ângulo é outro, a relação pensamento/língua. Quando uma direção for melhor coberta por uma irmã, linkar em vez de duplicar.
 
+## Texto em andamento
+
+Já no [[cratilo-correcao-dos-nomes|Crátilo]] de Platão se discutia se os nomes são corretos por natureza ou só por convenção. Sócrates mostra que o nome não pode ser a própria coisa. Um nome que a copiasse por inteiro deixaria de ser nome e viraria uma duplicata dela. O nome também não precisa imitá-la com perfeição, porque um nome com letras "erradas" funciona se a comunidade o usa para aquilo. No fecho do diálogo, Sócrates conclui que os nomes não dão conhecimento seguro da coisa, e que conhecê-la exige estudá-la diretamente.
+
 ## Levantamento histórico
 
 Linha do tempo do problema, de ponta a ponta. Marca ✓ = fonte verificada nesta sessão; ⚠ = reconstruído de memória, a verificar quando a direção for exaurida. Uma polaridade atravessa toda a lista: a língua molda o pensamento, ou o pensamento a precede?
@@ -86,8 +90,6 @@ A confirmar antes de aprofundar. Cada uma será exaurida antes de passar à pró
 ### 1. Raiz antiga — nomes por natureza ou convenção
 
 #### Platão, *Crátilo* — o diálogo fundador
-
-Já no [[cratilo-correcao-dos-nomes|Crátilo]] de Platão se discutia se os nomes são corretos por natureza ou só por convenção. Sócrates mostra que o nome não pode ser a própria coisa. Um nome que a copiasse por inteiro deixaria de ser nome e viraria uma duplicata dela. O nome também não precisa imitá-la com perfeição, porque um nome com letras "erradas" funciona se a comunidade o usa para aquilo. No fecho do diálogo, Sócrates conclui que os nomes não dão conhecimento seguro da coisa, e que conhecê-la exige estudá-la diretamente.
 
 O diálogo põe três posições. **Hermógenes** defende o convencionalismo estrito: o nome é correto só por acordo e hábito (*synthēkē*), e qualquer nome serve desde que o uso se mantenha. **Crátilo** defende o naturalismo: para cada coisa há um nome correto por natureza (*physei*), e quem erra esse nome não nomeia de fato. **Sócrates** entra como árbitro e acaba virando contra os dois. Numeração Stephanus conforme a SEP:
 
