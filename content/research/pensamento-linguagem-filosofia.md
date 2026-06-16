@@ -19,7 +19,7 @@ Regras gerais aplicadas: ver `.claude/skills/research/SKILL.md`.
 
 - **Em foco**: direção 1 (raiz antiga). *Crátilo* exaurido em 1ª passagem via SEP — numeração Stephanus, teoria mimética, virada anti-naturalista, limite epistêmico e fecho anti-fluxo mapeados; leituras A/B/C e Sedley (2003) registrados. Verbatim grego de 435a (*ἔθος τε καὶ συνθήκη*) confirmado no Perseus (Burnet); os termos das etimologias (theós, sôma etc.) seguem pendentes.
 - **Próximo**: Aristóteles, *Da Interpretação* 1 (16a), a réplica universalista que fecha a direção 1. Depois, escolher entre Modistae (direção 2) ou a frente relativista (Whorf → Boroditsky).
-- Pesquisas-irmãs com escopo próprio: [ontologia](/research/ontologia), [wittgenstein](/research/wittgenstein), [o-que-faz-a-filosofia](/research/o-que-faz-a-filosofia), [heidegger](/research/heidegger).
+- Pesquisas-irmãs com escopo próprio: [ontologia](/research/ontologia), [wittgenstein](/research/wittgenstein), [o-que-faz-a-filosofia](/research/o-que-faz-a-filosofia), [heidegger](/research/heidegger), [leibniz-characteristica-vetores](/research/leibniz-characteristica-vetores).
 
 ## Motivação
 
@@ -49,7 +49,7 @@ Linha do tempo do problema, de ponta a ponta. Marca ✓ = fonte verificada nesta
 ### Modernidade — signos das ideias e a língua perfeita
 
 - ✓ **Locke, *Essay* livro III** (1689). A primeira investigação moderna sustentada sobre o significado: as palavras são signos das ideias na mente de quem as usa, e o geral e o universal são invenções do entendimento, não existências reais. A língua medeia, mas as ideias vêm antes. Links: [Locke, livro III (Early Modern Texts)](https://www.earlymoderntexts.com/assets/pdfs/locke1690book3.pdf).
-- ✓ **Leibniz, *characteristica universalis***. O projeto inverso: um "alfabeto do pensamento humano", uma ideografia que represente as ideias diretamente, sem passar pela língua natural. A língua perfeita como cálculo. Links: [Characteristica universalis](https://en.wikipedia.org/wiki/Characteristica_universalis).
+- ✓ **Leibniz, *characteristica universalis***. O projeto inverso: um "alfabeto do pensamento humano", uma ideografia que represente as ideias diretamente, sem passar pela língua natural. A língua perfeita como cálculo. Aprofundado em pesquisa própria, pelo ângulo da representação vetorial dos LLMs: [leibniz-characteristica-vetores](/research/leibniz-characteristica-vetores). Links: [Characteristica universalis](https://en.wikipedia.org/wiki/Characteristica_universalis).
 - ⚠ **Condillac, *Essai sur l'origine des connaissances humaines*** (1746). A língua não só exprime como reage sobre o pensamento; o método de análise é a própria língua bem-feita. (A confirmar ao exaurir.)
 - ✓ **Adam Smith** (1761). Nomear uma cor já embute metafísica, porque exige separar a qualidade da substância: [adam-smith-adjetivo-metafisica](/notes/adam-smith-adjetivo-metafisica).
 
