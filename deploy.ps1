@@ -225,18 +225,17 @@ if ($toUpload.Count -eq 0 -and $toDelete.Count -eq 0) {
             --cache-control "public, max-age=31536000, immutable"
         if ($LASTEXITCODE -ne 0) { throw "s3 sync assets failed" }
     } else {
-        $uploadErrors = $toUpload | ForEach-Object -Parallel {
-            $s3Key = $_.Replace('\', '/')
-            $ct    = if ($_ -match '\.(html|xml|json|txt)$') {
+        $uploadErrors = foreach ($rel in $toUpload) {
+            $s3Key = $rel.Replace('\', '/')
+            $ct    = if ($rel -match '\.(html|xml|json|txt)$') {
                          "public, max-age=3600"
                      } else {
                          "public, max-age=31536000, immutable"
                      }
-            $out = & $using:AWS_EXE --profile $using:AWS_PROFILE --region $using:REGION `
-                       s3 cp (Join-Path $using:PUBLIC_DIR $_) "$using:BUCKET/$s3Key" `
-                       --cache-control $ct 2>&1
+            $out = aws s3 cp (Join-Path $PUBLIC_DIR $rel) "$BUCKET/$s3Key" `
+                       --cache-control $ct --only-show-errors 2>&1
             if ($LASTEXITCODE -ne 0) { "FAIL: $s3Key — $out" }
-        } -ThrottleLimit 16
+        }
         if ($uploadErrors) { throw "Falhas no upload:`n$($uploadErrors -join "`n")" }
 
         foreach ($rel in $toDelete) {

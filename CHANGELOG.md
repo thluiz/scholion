@@ -5,6 +5,17 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
+## [0.5.6] — 2026-07-03
+
+### Corrigido
+
+- **Upload da S3 serializado** (`deploy.ps1`). O `ForEach-Object -Parallel
+  -ThrottleLimit 16` causava falhas transitórias de deploy sob throttle da
+  S3, com `$LASTEXITCODE` lido de forma não confiável entre runspaces. O
+  upload incremental agora roda em `foreach` serial, reusando a função
+  `aws` e com `--only-show-errors`. Sem pressa de throughput aqui; a
+  robustez importa mais.
+
 ## [0.5.5] — 2026-06-12
 
 ### Mudado
