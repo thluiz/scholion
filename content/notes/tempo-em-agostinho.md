@@ -20,6 +20,6 @@ Agostinho localiza o tempo dentro do sujeito. Os "três tempos" são, no rigor, 
 
 Daí vem a definição do tempo como *distentio animi*, distensão da alma (XI.26.33). Medir o tempo é medir a impressão que as coisas em trânsito deixam na alma e que nela fica. Por isso Agostinho escreve *"in te, anime meus, tempora metior"*, é em ti, minha alma, que meço o tempo (XI.27.36). A medida está na alma, mais do que no movimento dos astros, que ele já havia recusado como medida do tempo (XI.23).
 
-O contraponto é a eternidade divina. Se no homem o tempo é distensão, em Deus não há distensão nem sucessão: todos os tempos lhe são presentes de uma vez, pela permanência de uma eternidade que não flui (XI.13).
+O contraponto é a [eternidade divina](/notes/deus-antes-de-criar-o-mundo). Se no homem o tempo é distensão, em Deus não há distensão nem sucessão: todos os tempos lhe são presentes de uma vez, pela permanência de uma eternidade que não flui (XI.13).
 
 O mesmo argumento reaparece em Borges, que o leva ao limite e [nega o tempo por inteiro](/notes/borges-tempo-substancia-rio) em *Nueva refutación del tiempo*, antes de recuar na última frase. E os [espaços feitos para suspender a percepção temporal](/research/lugares-fora-do-tempo), sem relógio nem janela e com iluminação constante, tiram da duração os seus marcos externos, o que conversa com a tese agostiniana de que a medida do tempo depende da alma.

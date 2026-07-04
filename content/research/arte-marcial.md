@@ -17,8 +17,8 @@ toc: true
 
 ## Estado
 
-- **Em foco**: Direção 2 (etimologia de "arte") — **exaurida nesta rodada**. Latim *ars/artis* ← PIE *\*h₂er-* "ajustar/juntar"; parentesco com *arma*; *ars* como calque de τέχνη; camada "arte = ofício/craft", não belas-artes.
-- **Próximo**: Direção 1 (etimologia de "marcial" — Marte/Mars → *martialis*), a pedido do autor as demais ficam mapeadas abaixo.
+- **Em foco**: Direções 1 e 2 **exauridas**. "Arte" ← latim *ars* ← PIE *\*h₂er-* "ajustar/juntar" (primo de *arma*; calque de τέχνη). "Marcial" ← *martialis* ← Marte, deus da guerra (possivelmente agrícola na origem). **Ponte encontrada**: "martial arts" (1909) traduz o japonês *bujutsu* = 武術 — os mesmos 武+術 já etimologados no vault.
+- **Próximo**: Direção 3 (a ponte PT/EN ↔ 武術/武藝) — já meio aberta pela descoberta do *bujutsu* 1909; ou Direção 4 (a tensão da pergunta, ensaio). A confirmar com o autor.
 - Pesquisas-irmãs com escopo próprio: as etimologias de [武](/notes/etimologia-de-mo-wu-6b66/), [術](/notes/etimologia-de-sut-shu-8853/), [藝](/notes/etimologia-de-ngai-yi-85dd/) já estão fechadas e verificadas em 7 fontes.
 
 ## Motivação
@@ -31,9 +31,25 @@ A pergunta do autor: "Arte Marcial — de onde vem o termo? O que há de marcial
 
 ## Direções a mapear / Leituras
 
-### 1. Etimologia de "marcial" (Marte) — *a mapear (próxima)*
+### 1. Etimologia de "marcial" (Marte) — ✓ exaurida (2026-07-05)
 
-Marte/Mars → *martialis* → "marcial". Rastrear o deus da guerra romano, o *Campus Martius*, o *mês de março* (Martius, mês de reabertura das campanhas), e como "marcial" chega às línguas modernas colado a "guerra/militar". Âncoras a consultar: OED, Lewis & Short, Ernout-Meillet, *De lingua latina* de Varrão. **Ainda não pesquisada.**
+**"Marcial" ← Marte.** O inglês *martial* aparece no fim do séc. XIV com o sentido "warlike, of or pertaining to war", do latim medieval *martialis* "of Mars or war", do latim *Mars* (genitivo *Martis*), o deus romano da guerra. No fim do séc. XV ganha o sentido "connected with military organizations" (por oposição ao civil) — o que sobrevive em *court-martial*, "conselho de guerra". ✓ *etymonline, entrada `martial`.* Diferente de "arte", que descende de uma raiz de sentido ("ajustar"), "marcial" descende de um **nome próprio**: não há conceito no fundo do étimo, há uma divindade. "Marcial" é, literalmente, "relativo a Marte".
+
+**Marte pode não ter nascido guerreiro.** O nome *Mars* (radical *\*Mawort-*, do mais antigo *Mavors*, aparentado ao osco *Mamers*) é de **origem desconhecida**. ✓ *etymonline, entrada `Mars`.* Watkins (citado pelo etymonline) glosa *\*Mawort-* como "nome de uma divindade itálica que se tornou o deus da guerra em Roma" e acrescenta: "He also had agricultural attributes, and might ultimately have been a Spring-Dionysus" — tinha atributos agrícolas, e pode em última instância ter sido um Dioniso-da-primavera. ✓ *etymonline `Mars` (Watkins).* A tradição registra Marte como protetor das colheitas e dos rebanhos antes de senhor da guerra; a passagem de deus agrícola a deus guerreiro foi fácil para os primeiros latinos porque as duas ocupações eram entrelaçadas. ⚠ *(fonte secundária: Wikipedia "Mars (mythology)" e resumos derivados — a hipótese agrícola é registrada mas contestada na indo-europeística moderna; manter como leitura tradicional, não consenso.)*
+
+**Março e o Campo de Marte.** O mês de *março* vem do latim *Martius (mensis)*, "(mês) de Marte". ✓ *etymonline `Mars`.* O *Campus Martius* ("Campo de Marte"), em Roma, era onde soldados e atletas treinavam; as festas de Marte concentravam-se em março e outubro — os meses que tradicionalmente abriam e fechavam a estação tanto da **campanha militar quanto da agrícola**. ⚠ *(fonte secundária: Wikipedia/timelessmyths; a coincidência do calendário militar-agrícola é registrada nessas fontes, a confirmar com fonte impressa — Scullard, *Festivals and Ceremonies of the Roman Republic*.)*
+
+**A ponte que fecha a cadeia — *bujutsu* 1909.** A expressão inglesa *martial arts* é datada de **1909**, definida como "a collective name for the fighting sports of Japan and the surrounding region" e **traduz o japonês *bujutsu*.** ✓ *etymonline `martial`.* Ora, *bujutsu* escreve-se **武術** — exatamente os dois caracteres já etimologados no vault: [武](/notes/etimologia-de-mo-wu-6b66/) (marcial) + [術](/notes/etimologia-de-sut-shu-8853/) (técnica/caminho). ✓ *(identidade gráfica: 武術 lê-se* bujutsu *em japonês,* wǔshù *em mandarim,* mo sut *em cantonês.)* ⚠ (minha leitura) A cadeia do termo português inverte a origem que a gente imagina: "arte marcial" (PT) ← "martial arts" (EN, 1909, via Japão) ← 武術 / *bujutsu*. O termo ocidental que hoje colamos ao kung fu chinês entrou, na verdade, traduzindo os caracteres japoneses — que são os mesmos caracteres chineses. O "marcial" (Marte, Ocidente) e o 武 (marchar com armas, China) encontram-se por cima de uma tradução do começo do séc. XX.
+
+**Duas lógicas de nomeação.** ⚠ síntese minha, sobre étimos verificados: "arte" nomeia por **sentido** (ajustar/tecer — Direção 2); "marcial" nomeia por **referência** (o deus Marte). E 武 nomeia por **gesto** (o pé 止 que avança com a alabarda 戈 — ver [武](/notes/etimologia-de-mo-wu-6b66/)). Três modos distintos de dizer "guerra/combate": um conceito, um nome divino, um movimento do corpo. A curiosidade fina: tanto "marcial" (Marte agrícola/primaveril) quanto [藝](/notes/etimologia-de-ngai-yi-85dd/) (埶, plantar) carregam, no subsolo, a agricultura — o cultivo e a guerra dividindo o mesmo calendário e a mesma raiz de gesto.
+
+Fonte(s) da Direção 1:
+
+- **etymonline — `martial`** (séc. XIV; *court-martial*; *martial law* 1530s; *martial arts* 1909 ← *bujutsu*). Links: https://www.etymonline.com/word/martial
+- **etymonline — `Mars`** (radical *\*Mawort-*, *Mavors*, osco *Mamers*; Watkins: atributos agrícolas / Spring-Dionysus; *Martius* → março). Links: https://www.etymonline.com/word/Mars
+- **Mars (mythology) — Wikipedia** (Marte agrícola antes de guerreiro; Campus Martius; festas de março/outubro). Links: https://en.wikipedia.org/wiki/Mars_(mythology)
+
+*(Pendente de reforço impresso: Ernout-Meillet e De Vaan, *Etymological Dictionary of Latin*, para o radical de* Mars*; Scullard para o calendário Campus Martius — para elevar as marcas ⚠ do lado agrícola/calendário a ✓.)*
 
 ### 2. Etimologia de "arte" — ✓ exaurida (2026-07-04)
 
@@ -72,7 +88,7 @@ Fonte(s) da Direção 2:
 
 ### 3. A ponte PT/EN ↔ 武術 / 武藝 — *a mapear*
 
-Como "martial arts" (termo inglês dos séc. XIX–XX) traduz/mapeia 武術 e 武藝, e o descompasso com o que as etimologias já feitas mostram. Cruzar com [wuxia × kung fu](/notes/wuxia-vs-kung-fu-distincao-linguistica-cinema/), [Chin Woo / 國術](/notes/chin-woo-athletic-association/), [Amiot](/notes/amiot-cong-fou-bonzes-tao-ssee/). **A confirmar antes de aprofundar.**
+Como "martial arts" (1909, via japonês *bujutsu* = 武術 — ver Direção 1) mapeia 武術 e 武藝, e o descompasso com o que as etimologias já feitas mostram. Já se sabe que o termo inglês entrou traduzindo o japonês, não o chinês diretamente; falta rastrear como "arte marcial" chega ao **português** e quando passa a designar o kung fu chinês. Cruzar com [wuxia × kung fu](/notes/wuxia-vs-kung-fu-distincao-linguistica-cinema/), [Chin Woo / 國術](/notes/chin-woo-athletic-association/), [Amiot](/notes/amiot-cong-fou-bonzes-tao-ssee/). **A confirmar antes de aprofundar.**
 
 ### 4. A tensão da pergunta — *a mapear*
 
