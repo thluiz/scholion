@@ -16,8 +16,8 @@ toc: true
 
 ## Estado
 
-- **Em foco**: Direção 1 (palavra/obra) exaurida — Ep. 20 lida por inteiro, mais Ep. 75.4, 114.1 e 108, todas verificadas. Ver abaixo.
-- **Próximo**: Direção 2 (eixo tempo). Ancorar nas três notas existentes e verificar os loci `?` (De brevitate cap. 9; Ep. 1.1 *vindica te tibi*).
+- **Em foco**: Direções 1 e 2 exauridas e verificadas. Falta a Direção 3 — a ponte entre os eixos.
+- **Próximo**: Direção 3. Decidir com o autor se a solda entre "adiar" e "falar sem fazer" tem locus único no Sêneca ou se é tese do autor (⚠ nesse caso, formulação própria).
 - Pesquisas-irmãs: [discursos-protrepticos](/research/discursos-protrepticos) — o protréptico é o discurso que converte à prática; a distância fala→ação é o problema que ele ataca. [estoicismo-lusitano](/research/estoicismo-lusitano) — a confirmar se toca o tema.
 
 ## Motivação
@@ -57,18 +57,18 @@ Loci de reforço, verificados:
 
 Nexo interno verificado: *"legem vitae accipiant, qua mores suos exigant"* (108) ecoa *"unam regulam prende et ad hanc omnem vitam tuam exaequa"* (20.3) — a mesma imagem da régua/lei única à qual a vida se iguala. A filosofia ouvida sem essa igualação é discurso, não fazer.
 
-### 2. Eixo tempo — adiar a ação é adiar a vida
+### 2. Eixo tempo — adiar a ação é adiar a vida ✓ EXAURIDA
 
-Notas já existentes e verificadas no vault:
+O eixo abre e fecha na **Epistula 1**. A carta inteira é sobre recolher o tempo, e o imperativo inicial é o gesto que fecha o intervalo entre intenção e ato:
 
+- **Ep. 1.1** ✓ ([Sen. Ep. 1](https://www.thelatinlibrary.com/sen/seneca.ep1.shtml)) — *"Ita fac, mi Lucili: vindica te tibi, et tempus quod adhuc aut auferebatur aut subripiebatur aut excidebat collige et serva"* (Faz assim, meu Lucílio: reivindica-te para ti, e o tempo que até agora ou te era tirado, ou roubado, ou escapava, recolhe-o e guarda-o).
 - [seneca-dum-differtur-vita-transcurritur](/notes/seneca-dum-differtur-vita-transcurritur) — *Ep. 1.2*: enquanto se adia, a vida passa correndo.
 - [seneca-omnia-aliena-tempus-nostrum](/notes/seneca-omnia-aliena-tempus-nostrum) — *Ep. 1.3*: só o tempo é nosso.
+
+E no *De brevitate vitae*:
+
 - [seneca-non-exiguum-temporis-multum-perdidimus](/notes/seneca-non-exiguum-temporis-multum-perdidimus) — *De brevitate vitae 1.4*: não temos pouco tempo, perdemos muito.
-
-A confirmar / a localizar:
-
-- *De brevitate vitae* sobre os *occupati* e o "viver adiado" — passagem sobre quem adia tudo para depois (cap. 9: *"omnia … in crastinum differunt"*). `?`
-- Ep. 1.1 — *"vindica te tibi"* (reivindica-te para ti) como o gesto que fecha o intervalo. `?`
+- **De brev. 9.1** ✓ ([Latin Library, De brev.](https://www.thelatinlibrary.com/sen/sen.brevita.shtml)) — *"Maximum vivendi impedimentum est exspectatio, quae pendet ex crastino, perdit hodiernum"* (o maior impedimento de viver é a expectativa, que pende do amanhã e perde o hoje). O adiamento não empurra a vida para frente — consome o presente.
 
 ### 3. A ponte entre os dois eixos
 
