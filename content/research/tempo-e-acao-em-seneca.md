@@ -16,8 +16,8 @@ toc: true
 
 ## Estado
 
-- **Em foco**: Direções 1 e 2 exauridas e verificadas. Falta a Direção 3 — a ponte entre os eixos.
-- **Próximo**: Direção 3. Decidir com o autor se a solda entre "adiar" e "falar sem fazer" tem locus único no Sêneca ou se é tese do autor (⚠ nesse caso, formulação própria).
+- **Em foco**: três direções mapeadas. Busca por locus único da ponte feita (Ep. 16, 94/95); solda plena confirmada como ⚠ tese do autor, não frase do Sêneca. Ep. 16.1 é o locus mais próximo.
+- **Próximo**: decisão do autor — começar a compor o "Texto em andamento" (marcando a ponte como formulação própria) ou extrair as notas já maduras (Ep. 20; Ep. 1.1; De brev. 9.1; Ep. 16 ainda sem nota própria).
 - Pesquisas-irmãs: [discursos-protrepticos](/research/discursos-protrepticos) — o protréptico é o discurso que converte à prática; a distância fala→ação é o problema que ele ataca. [estoicismo-lusitano](/research/estoicismo-lusitano) — a confirmar se toca o tema.
 
 ## Motivação
@@ -72,7 +72,15 @@ E no *De brevitate vitae*:
 
 ### 3. A ponte entre os dois eixos
 
-Onde exatamente Sêneca liga "adiar" e "falar sem fazer". A confirmar se há um locus único que faça a solda, ou se a ponte é do autor (⚠ nesse caso, formulação própria, marcada como tal).
+Pergunta: há um locus único no Sêneca que solde "adiar" (eixo tempo) a "falar sem fazer" (eixo palavra/obra)?
+
+Busca feita (Ep. 16, 94/95). Resultado:
+
+- **Ep. 16.1** ✓ (o mais próximo de uma solda — [Sen. Ep. 16](https://www.thelatinlibrary.com/sen/seneca.ep2.shtml)) — *"Plus operis est in eo ut proposita custodias quam ut honesta proponas. Perseverandum est et assiduo studio robur addendum"* (há mais trabalho em guardar o que propuseste do que em propor coisas honestas; é preciso perseverar e acrescentar força com estudo assíduo). Liga o intervalo *proponere* (dizer/resolver) → *custodire* (executar) à exigência temporal do estudo diário. ⚠ Mas pelo lado da **perseverança**, não da procrastinação — Sêneca não usa aqui o vocabulário do adiamento.
+- **Ep. 16.3** ✓ — *"non in verbis sed in rebus est"* (a filosofia não está nas palavras, mas nas obras); *"animum format et fabricat, vitam disponit, actiones regit"*.
+- **Ep. 94/95** ⚠ (praecepta vs. decreta) — trata da epistemologia do progresso (por que o preceito ouvido não move à ação por si, e como ajuda ao longo do tempo). Adjacente, mas teórico; nenhuma linha verbatim que feche a ponte. Não verificado a fundo.
+
+**Conclusão da busca**: Sêneca fornece os dois materiais lado a lado, mas não colapsa "adiar" e "falar sem fazer" num só termo. A solda — tratar o intervalo palavra→obra como *intervalo temporal* e portanto como tempo perdido — é ⚠ **tese do autor**, não frase atestada do Sêneca. Quando o autor compuser, marcar como formulação própria.
 
 ## Notas do Scholion já relacionadas
 
