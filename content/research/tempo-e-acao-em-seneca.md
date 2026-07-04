@@ -16,8 +16,8 @@ toc: true
 
 ## Estado
 
-- **Em foco**: montagem do mapa. Dois eixos identificados e verificados; falta o autor apontar por onde exaurir primeiro.
-- **Próximo** (a confirmar): aprofundar a Ep. 20 (facere docet) como núcleo do eixo palavra/obra, ou a Ep. 1 + De brevitate como núcleo do eixo tempo.
+- **Em foco**: Direção 1 (palavra/obra) exaurida — Ep. 20 lida por inteiro, mais Ep. 75.4, 114.1 e 108, todas verificadas. Ver abaixo.
+- **Próximo**: Direção 2 (eixo tempo). Ancorar nas três notas existentes e verificar os loci `?` (De brevitate cap. 9; Ep. 1.1 *vindica te tibi*).
 - Pesquisas-irmãs: [discursos-protrepticos](/research/discursos-protrepticos) — o protréptico é o discurso que converte à prática; a distância fala→ação é o problema que ele ataca. [estoicismo-lusitano](/research/estoicismo-lusitano) — a confirmar se toca o tema.
 
 ## Motivação
@@ -41,18 +41,21 @@ A tese que entrelaça os dois: para Sêneca, adiar a ação é adiar a vida (eix
 
 (A confirmar antes de aprofundar. Cada uma é exaurida antes de passar à próxima.)
 
-### 1. Eixo palavra/obra — a filosofia como fazer, não dizer
+### 1. Eixo palavra/obra — a filosofia como fazer, não dizer ✓ EXAURIDA
 
-Loci verificados (Latin Library / latin.it):
+Núcleo: **Epistula 20**, lida por inteiro (Latin Library, [Sen. Ep. 20](https://www.thelatinlibrary.com/sen/seneca.ep2.shtml)). O argumento corre em quatro passos:
 
-- **Ep. 20.2** ✓ — *"facere docet philosophia, non dicere, et hoc exigit, ut ad legem suam quisque vivat, ne orationi vita dissentiat"* (a filosofia ensina a fazer, não a dizer; e exige que cada um viva segundo a própria lei, para que a vida não destoe do discurso). Núcleo do eixo.
-- **Ep. 75.4** ✓ — *"quod sentimus loquamur, quod loquimur sentiamus; concordet sermo cum vita"* (falemos o que sentimos, sintamos o que falamos; que o discurso concorde com a vida).
-- **Ep. 114.1** ✓ — *"talis hominibus fuit oratio qualis vita"* (tal foi para esses homens o discurso, qual a vida) — Sêneca a apresenta como provérbio grego. ⚠ Nesta carta o ângulo é o estilo/retórica (a decadência do estilo espelha a decadência dos costumes), não diretamente a ação. Adjacência a marcar.
+- **20.1** ✓ — *"experimentum profectus tui capias non oratione nec scripto, sed animi firmitate, cupiditatum deminutione: verba rebus proba"* (toma a prova do teu progresso não pelo discurso nem pela escrita, mas pela firmeza da alma e pela redução dos desejos: prova as palavras com os fatos). O critério de progresso não é retórico — é a conduta.
+- **20.2** ✓ — *"facere docet philosophia, non dicere, et hoc exigit, ut ad legem suam quisque vivat, ne orationi vita dissentiat vel ipsa inter se vita; ut unus sit omnium actionum color"* + *"Maximum hoc est et officium sapientiae et indicium, ut verbis opera concordent, ut ipse ubique par sibi idemque sit"* (a filosofia ensina a fazer, não a dizer; exige que cada um viva segundo a própria lei, para que a vida não destoe do discurso nem de si mesma; que haja uma só cor em todas as ações. O maior dever e sinal da sabedoria é que as obras concordem com as palavras, que se seja em toda parte igual e idêntico a si). Núcleo do eixo.
+- **20.3** ✓ — *"unam semel ad quam vivas regulam prende et ad hanc omnem vitam tuam exaequa"* (toma de uma vez uma régua pela qual viver, e iguala a ela toda a tua vida).
 
-A confirmar / a localizar (marcados `?` até verificação):
+Loci de reforço, verificados:
 
-- Ep. 16, 20 e 24 sobre o *proficiens* — a passagem do saber ao fazer. `?`
-- Ep. 108 (o efeito da filosofia que se ouve mas não se pratica). `?`
+- **Ep. 75.4** ✓ ([Sen. Ep. 75](https://www.thelatinlibrary.com/sen/seneca.ep9.shtml)) — *"quod sentimus loquamur, quod loquimur sentiamus; concordet sermo cum vita"* (falemos o que sentimos, sintamos o que falamos; que o discurso concorde com a vida).
+- **Ep. 114.1** ✓ ([latin.it, Ep. 114](https://www.latin.it/autore/seneca/epistulae_morales_ad_lucilium/!19!liber_xix/114.lat)) — *"talis hominibus fuit oratio qualis vita"* (tal foi para esses homens o discurso, qual a vida); Sêneca a apresenta como provérbio grego. ⚠ Nesta carta o ângulo é o estilo/retórica (a decadência do estilo espelha a dos costumes), não diretamente a ação — adjacência, não centro.
+- **Ep. 108** ✓ (verbatim confirmado; seção exata a confirmar — [Perseus, Sen. Ep. 108](http://www.perseus.tufts.edu/hopper/text?doc=Sen.+Ep.+108&lang=original)) — *"Quidam veniunt ut audiant, non ut discant… Non id agunt, ut aliqua illo vitia deponant, ut aliquam legem vitae accipiant, qua mores suos exigant, sed ut oblectamento aurium perfruantur"* (alguns vêm para ouvir, não para aprender… não buscam depor vícios nem receber uma regra de vida pela qual corrijam os costumes, mas só fruir o deleite dos ouvidos).
+
+Nexo interno verificado: *"legem vitae accipiant, qua mores suos exigant"* (108) ecoa *"unam regulam prende et ad hanc omnem vitam tuam exaequa"* (20.3) — a mesma imagem da régua/lei única à qual a vida se iguala. A filosofia ouvida sem essa igualação é discurso, não fazer.
 
 ### 2. Eixo tempo — adiar a ação é adiar a vida
 
