@@ -13,3 +13,4 @@ __pycache__/
 
 # marcadores do commit-gate ghost-audit (locais)
 .ghost-audit/
+.crawl/
