@@ -5,6 +5,18 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
+## [0.5.7] — 2026-07-04
+
+### Adicionado
+
+- **Publicação agendada** (tarefa `\Claude\ScholionPublish`, 06:15 e 20:15).
+  Roda `deploy.ps1` via wrapper `deploy-scheduled.ps1`, que antes do build
+  faz um `git pull --ff-only` best-effort: se o pull falhar (histórico
+  divergente, sem credencial — `GIT_TERMINAL_PROMPT=0`), apenas registra
+  aviso e publica o estado local, nunca bloqueia o deploy. A tarefa é
+  iniciada por `deploy-launcher.vbs` (janela oculta, sem flash de console).
+  Saída anexada em `deploy-scheduled.log` (ignorado no git).
+
 ## [0.5.6] — 2026-07-03
 
 ### Corrigido
