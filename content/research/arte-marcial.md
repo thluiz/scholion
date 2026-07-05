@@ -17,8 +17,8 @@ toc: true
 
 ## Estado
 
-- **Em foco**: Direções 1 e 2 **exauridas**. "Arte" ← latim *ars* ← PIE *\*h₂er-* "ajustar/juntar" (primo de *arma*; calque de τέχνη). "Marcial" ← *martialis* ← Marte, deus da guerra (possivelmente agrícola na origem). **Ponte encontrada**: "martial arts" (1909) traduz o japonês *bujutsu* = 武術 — os mesmos 武+術 já etimologados no vault.
-- **Próximo**: Direção 3 (a ponte PT/EN ↔ 武術/武藝) — já meio aberta pela descoberta do *bujutsu* 1909; ou Direção 4 (a tensão da pergunta, ensaio). A confirmar com o autor.
+- **Em foco**: Direções 1, 2 e 4 **exauridas** (4 = terreno mapeado, texto pendente do autor). "Arte" ← *ars* ← PIE *\*h₂er-* "ajustar/juntar" (primo de *arma*; calque de τέχνη). "Marcial" ← *martialis* ← Marte (possivelmente agrícola na origem); "martial arts" (1909) traduz *bujutsu* = 武術. Direção 4: eixo 文/武; "Art of War" = tradução de 兵法/法; Clausewitz recusa "arte" à guerra; 武↔舞 (o "artístico" é composicional, não estético).
+- **Próximo**: (a) o autor compõe o **Texto em andamento** (ensaio da Dir. 4); ou (b) Direção 3 (como "arte marcial" chega ao português). A confirmar.
 - Pesquisas-irmãs com escopo próprio: as etimologias de [武](/notes/etimologia-de-mo-wu-6b66/), [術](/notes/etimologia-de-sut-shu-8853/), [藝](/notes/etimologia-de-ngai-yi-85dd/) já estão fechadas e verificadas em 7 fontes.
 
 ## Motivação
@@ -90,9 +90,38 @@ Fonte(s) da Direção 2:
 
 Como "martial arts" (1909, via japonês *bujutsu* = 武術 — ver Direção 1) mapeia 武術 e 武藝, e o descompasso com o que as etimologias já feitas mostram. Já se sabe que o termo inglês entrou traduzindo o japonês, não o chinês diretamente; falta rastrear como "arte marcial" chega ao **português** e quando passa a designar o kung fu chinês. Cruzar com [wuxia × kung fu](/notes/wuxia-vs-kung-fu-distincao-linguistica-cinema/), [Chin Woo / 國術](/notes/chin-woo-athletic-association/), [Amiot](/notes/amiot-cong-fou-bonzes-tao-ssee/). **A confirmar antes de aprofundar.**
 
-### 4. A tensão da pergunta — *a mapear*
+### 4. A tensão da pergunta — ✓ terreno mapeado (2026-07-05); texto pendente do autor
 
-"O que há de marcial na arte? De artístico na guerra?" — o eixo 文/武 (civil/marcial) chinês (já tratado na nota de [武](/notes/etimologia-de-mo-wu-6b66/)); a "arte da guerra" (孫子兵法 Sun Tzu, Clausewitz); a guerra como ofício (cf. [Sêneca, *vivere militare est*](/notes/seneca-vivere-militare-est/)). Ensaio conceitual, montado sobre as etimologias verificadas. **A confirmar; só o autor decide se isto vira texto.**
+*A skill proíbe fabricar texto especulativo na voz do autor. Abaixo ficam só os **materiais verificados** e os eixos; a composição do ensaio fica no slot "Texto em andamento", vazio até o autor escrever.*
+
+A pergunta tem duas metades — **"o que há de marcial na arte?"** e **"o que há de artístico na guerra?"**. Cinco âncoras sustentam as duas:
+
+**A. O eixo 文/武 (wén/wǔ — civil/marcial).** A cultura clássica chinesa ordena o mundo por esse par: [文](/notes/etimologia-de-man-wen-6587/) (letra, cultura, o pincel) *vs* [武](/notes/etimologia-de-mo-wu-6b66/) (armas, o marcial). Não é "arte × guerra": é **cultura × força**, os dois braços de um mesmo governo. ✓ *chardb, acepção 1 de 武: 與「文」相對 ("oposto a 文") — registrado na nota de 武.* ⚠ (leitura) A pergunta "marcial na arte / artístico na guerra" é, no vocabulário chinês, a pergunta por como 文 e 武 se atravessam — e o próprio 武, na glosa 止戈為武 ("parar a alabarda"), já foi lido como contendo o seu oposto.
+
+**B. "The Art of War" é artefato de tradução.** O título 孫子兵法 (*Sūnzǐ bīngfǎ*) é literalmente "os **métodos militares** de Mestre Sun": [兵](/notes/etimologia-de-bing-bing/) (arma/soldado — 斤 machado + 廾 duas mãos) + 法 (*fǎ*, método/lei). O "art" do título inglês traduz **法** (método), não 藝 nem 術. Victor H. Mair traduz mais literalmente como *Soldierly Methods*. ✓ *Wikipedia "The Art of War"; Mair, "Soldierly Methods", Sino-Platonic Papers 178.* ⚠ (leitura) A frase que mais firmemente casa "arte" e "guerra" no Ocidente repousa sobre traduzir "método/lei" por "arte" — o "artístico na guerra" é, em parte, um efeito de tradutor.
+
+**C. Clausewitz recusa "arte" para a guerra.** Em *Vom Kriege*, Livro II cap. 3 ("Art or Science of War"), conclui: "war is neither an art nor a science in the real signification"; e "war belongs not to the province of arts and sciences, but to the province of social life. It is a conflict of great interests which is settled by bloodshed" — mais próxima do comércio e da política que da arte ou da ciência. ✓ *Clausewitz, On War, Bk II ch. 3, trad. Graham 1873 (clausewitzstudies.org).* ⚠ (leitura) O cânone estratégico ocidental resistiu a chamar a guerra de "arte"; o termo "arte marcial" faz exatamente o que Clausewitz recusava.
+
+**D. Onde o "artístico" entra de verdade: 武 ↔ 舞 (marcial ↔ dança).** A nota de [武](/notes/etimologia-de-mo-wu-6b66/) registra (chardb, acepção 10) que 武 era usado de forma intercambiável com [舞](/notes/etimologia-de-mo-wu-821e/) (dançar) — homofonia (*mou*) e sobreposição semântica entre combate coreografado e dança ritual. ✓ *chardb, acepção 10, na nota de 武.* Somado à Direção 2 (arte = *ajustar/tecer*, não beleza) e à Direção 1 (武 = *gesto* do corpo): o "artístico" da arte marcial não é estético, é **composicional** — sequência ordenada de movimentos, como a dança e como o tecer de τέχνη.
+
+**E. A guerra como ofício da vida (o movimento inverso).** [Sêneca, *vivere militare est*](/notes/seneca-vivere-militare-est/): a vida figurada como serviço militar permanente. ✓ *Sêneca, Ep. 96.5.* Casa com [功夫](/notes/rascunho-sobre-o-que-e-kung-fu/) = amadurecimento pelo trabalho: a disciplina marcial como metáfora de toda disciplina sustentada. ⚠ (leitura) Aqui a direção se inverte — não "o que há de arte na guerra", mas o que há de marcial em toda arte/ofício levado a sério.
+
+**Eixos para o ensaio (a confirmar com o autor):**
+
+1. *Marcial na arte*: arte = ajuste/tecer/gesto ordenado (Dir. 2 + D) → o marcial é uma arte no sentido de **composição de movimento**, não de belo.
+2. *Artístico na guerra*: "arte da guerra" é tradução de 法/método (B) + recusa de Clausewitz (C) → o "artístico" da guerra é, no rigor, **método e social**, não estética.
+3. O par 文/武 (A) e a inversão de Sêneca (E) como moldura.
+
+**Fontes da Direção 4:**
+
+- **Clausewitz, *On War*, Bk II ch. 3** (Graham 1873). Links: https://clausewitzstudies.org/readings/OnWar1873/BK2ch03.html
+- **The Art of War — Wikipedia** (兵法 = "military methods"; história do título). Links: https://en.wikipedia.org/wiki/The_Art_of_War
+- **V. H. Mair, "Soldierly Methods"** (Sino-Platonic Papers 178). Links: https://sino-platonic.org/complete/spp178_art_of_war.pdf
+- Internas: [武](/notes/etimologia-de-mo-wu-6b66/), [文](/notes/etimologia-de-man-wen-6587/), [兵](/notes/etimologia-de-bing-bing/), [舞](/notes/etimologia-de-mo-wu-821e/), [Sêneca](/notes/seneca-vivere-militare-est/), [功夫](/notes/rascunho-sobre-o-que-e-kung-fu/).
+
+## Texto em andamento
+
+*(Vazio. Este é o slot do ensaio da Direção 4 — só o autor compõe. Os materiais verificados estão acima.)*
 
 ## Notas do Scholion já relacionadas
 
