@@ -17,7 +17,7 @@ sources:
 ### Decomposição literal
 
 - 甩 *lat1 / shuǎi*: soltar, desprender-se, desvencilhar ([etimologia de 甩](/notes/etimologia-de-lat-shuai-7529/))
-- 手 *sau2 / shǒu*: mão
+- 手 *sau2 / shǒu*: mão ([etimologia de 手](/notes/etimologia-de-sau-shou-624b/))
 - 直 *zik6 / zhí*: reto, em linha reta ([etimologia de 直](/notes/etimologia-de-jik-zhi-76f4/))
 - 衝 *cung1 / chōng*: irromper, avançar, chocar ([etimologia de 衝](/notes/etimologia-de-chung-chong-885d/))
 
