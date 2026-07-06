@@ -142,6 +142,20 @@ Destilando as seis lentes da 2b num conceito. O núcleo de "arte" é estável, e
 
 *(Candidata a virar nota própria — "O que é arte" — se o autor quiser. Complementa a nota já extraída [por-que-o-ocidente-chamou-o-combate-de-arte](/notes/por-que-o-ocidente-chamou-o-combate-de-arte/), que trata do gesto histórico do séc. XVI; esta trataria do conceito.)*
 
+### 2d. Os limites da arte — podemos fazer qualquer coisa com arte? (2026-07-07)
+
+A resposta depende de qual "arte", e cada acepção corta em lugar diferente.
+
+**Sentido largo (τέχνη): quase tudo, mas com pedágio.** A arte não tem domínio próprio — os gregos tinham τέχνη para medicina, navegação, generalato, retórica, agricultura, equitação. Não há "a arte", há *as artes*, uma por ofício. Mas Platão põe o teste: no *Górgias*, retórica e culinária **não** são τέχνη, são *empeiria* (traquejo), porque não dão conta das causas e miram só o prazer. ✓ *(Górgias 462-465.)* ⚠ (leitura) O critério de corte não é nobre × vil, é **o que se sabe explicar (λόγος, visando um bem) × o que só se pega no jeito**. Nem tudo que se repete vira arte.
+
+**Limite aristotélico, do outro lado.** τέχνη é sobre o **contingente** (o que pode ser de outro modo) e sobre **produzir** (*poiesis*). ✓ *(EN VI.)* ⚠ (leitura) Logo, escapam da arte: o necessário (é ἐπιστήμη, ciência, não arte) e o agir-como-fim-em-si (é *praxis*/φρόνησις, não arte). Não por baixeza, mas por não serem produção do que poderia sair diferente.
+
+**Sentido moderno (belas-artes): quase nada.** Desde 1746 (Batteux/Kristeller), "arte" evoca as belas-artes; nesse registro, pintura sim, planilha não. ✓
+
+**A virada do kung fu.** ⚠ (leitura) O [rascunho sobre o que é Kung Fu](/notes/rascunho-sobre-o-que-e-kung-fu/) já traz a intuição: o padeiro, a avó no ponto do arroz, o programador que refatora — todos "têm Kung Fu". Mas ali a pergunta muda: não "isto é uma arte?" (*poiesis*, obra externa), e sim "há maestria cultivada nisto?" — e o produto é *quem faz*. Isso é *praxis*, não *poiesis*. 功夫 responde "podemos fazer qualquer coisa com arte?" deslocando a régua: qualquer coisa pode virar **caminho de formação do praticante**, mesmo sem produzir obra.
+
+**Os três cortes, lado a lado** (⚠ síntese minha): no sentido τέχνη, quase tudo admite arte, *desde que haja razão das causas e um bem* (senão é traquejo); no sentido belas-artes, quase nada; no sentido 功夫, qualquer coisa — mas aí a régua deixa de ser a obra e passa a ser o praticante.
+
 ### 3. A ponte PT/EN ↔ 武術 / 武藝 — ✓ origem do termo (2026-07-06); rota até o PT ainda a mapear
 
 **O termo nasce ocidental e europeu — e primeiro se aplica à Europa, não à Ásia.** "Martial arts" = "artes de Marte" (Direção 1); foi usado para os **sistemas de combate da própria Europa** — esgrima, luta, armas — já por volta de **1550s**, muito antes de designar qualquer coisa asiática. ⚠ *(atribuição a John Clements / historiografia HEMA, via Wikipedia "Martial arts"; não é atestação de dicionário — a confirmar em corpus.)* Formas irmãs renascentistas: italiano *arte dell'armizzare*, alemão *Fechtkunst* ("arte da esgrima"), francês *l'art des armes*, inglês "science of defence / of arms". ⚠ *(fontes HEMA secundárias.)* No séc. XVII a expressão inglesa "martial art" já corre com o sentido de "military skill / arte da guerra". ⚠ *(mashedradish; a confirmar em OED.)* Ao fundo, a linhagem culta: *ars militaris* latino e a *Dell'arte della guerra* de Maquiavel (1521). ⚠ *(título/data a verificar em fonte primária.)*
