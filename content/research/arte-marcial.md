@@ -123,6 +123,25 @@ Fonte(s) da camada 2b:
 - **Kant, *Crítica do Juízo* §43** (arte bela × *Handwerk*; produção pela liberdade; gênio). Links: http://timothyquigley.net/vcs/kant-aesth_sum4.pdf
 - **Collingwood, *The Principles of Art* (1938)** / **Stanford, "Collingwood's Aesthetics"** (art proper × craft; "art falsely so called"). Links: https://plato.stanford.edu/entries/collingwood-aesthetics/
 
+### 2c. Conceito de trabalho — o que é arte (2026-07-06)
+
+Destilando as seis lentes da 2b num conceito. O núcleo de "arte" é estável, e **não é beleza**:
+
+| Lente | Fonte | Arte é… |
+|---|---|---|
+| Étimo | *ars* ← *\*h₂er-* "ajustar"; τέχνη ← *\*teḱs-* "tecer" | compor partes numa ordem |
+| Distinção socrática | Platão, *Górgias* | saber que dá razão das causas, contra o mero traquejo (*empeiria*) |
+| Produção regrada | Aristóteles, *EN* VI | capacidade racional de produzir (*poiesis*) sobre o contingente |
+| Ofício | Hugo de São Vítor | disciplina ensinável, liberal ou mecânica |
+| Corte moderno | Kristeller / Batteux (1746) | (só aqui) beleza e prazer por fim — acepção tardia |
+| Estética | Kant / Collingwood | arte bela (gênio, expressão) já *distinta* do ofício/craft |
+
+**Definição de trabalho** (⚠ formulação minha, sobre os anchors ✓ da 2b): *arte, no sentido antigo e etimologicamente primário, é uma capacidade sistemática e ensinável de produzir ou compor segundo regras e razões — um saber-fazer com λόγος. Não é a produção de beleza; a beleza (belas-artes) é uma especialização tardia da palavra, do séc. XVIII.*
+
+⚠ (leitura) O que isso faz com "arte marcial": ela vive no sentido antigo (τέχνη/ofício), e chega a forçar Aristóteles. Como [功夫](/notes/rascunho-sobre-o-que-e-kung-fu/), seu produto não é externo (o golpe), é quem pratica — isso é *praxis*, não *poiesis*. A arte marcial fica no vão entre fazer e agir.
+
+*(Candidata a virar nota própria — "O que é arte" — se o autor quiser. Complementa a nota já extraída [por-que-o-ocidente-chamou-o-combate-de-arte](/notes/por-que-o-ocidente-chamou-o-combate-de-arte/), que trata do gesto histórico do séc. XVI; esta trataria do conceito.)*
+
 ### 3. A ponte PT/EN ↔ 武術 / 武藝 — ✓ origem do termo (2026-07-06); rota até o PT ainda a mapear
 
 **O termo nasce ocidental e europeu — e primeiro se aplica à Europa, não à Ásia.** "Martial arts" = "artes de Marte" (Direção 1); foi usado para os **sistemas de combate da própria Europa** — esgrima, luta, armas — já por volta de **1550s**, muito antes de designar qualquer coisa asiática. ⚠ *(atribuição a John Clements / historiografia HEMA, via Wikipedia "Martial arts"; não é atestação de dicionário — a confirmar em corpus.)* Formas irmãs renascentistas: italiano *arte dell'armizzare*, alemão *Fechtkunst* ("arte da esgrima"), francês *l'art des armes*, inglês "science of defence / of arms". ⚠ *(fontes HEMA secundárias.)* No séc. XVII a expressão inglesa "martial art" já corre com o sentido de "military skill / arte da guerra". ⚠ *(mashedradish; a confirmar em OED.)* Ao fundo, a linhagem culta: *ars militaris* latino e a *Dell'arte della guerra* de Maquiavel (1521). ⚠ *(título/data a verificar em fonte primária.)*
