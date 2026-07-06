@@ -18,7 +18,8 @@ toc: true
 ## Estado
 
 - **Em foco**: Direções 1, 2 (+ camada conceitual **2b**) e 4 **exauridas** (4 = terreno mapeado, texto pendente do autor). "Arte" ← *ars* ← PIE *\*h₂er-* "ajustar/juntar" (primo de *arma*; calque de τέχνη). "Marcial" ← *martialis* ← Marte; "martial arts" (1909) traduz *bujutsu* = 武術. **2b (conceitos de arte)**: seis conceitos — Platão (τέχνη × *empeiria*/mero jeito, *Górgias*); Aristóteles (τέχνη = capacidade racional de produzir sobre o contingente, *poiesis* vs *praxis*, EN VI); Hugo de S. Vítor (arte marcial = *ars mechanica*, *armatura* é a 2ª); Kristeller/Batteux (belas-artes são invenção de 1746); Kant (arte bela × *Handwerk*); Collingwood (art proper × craft, "falsely so called"). Arte marcial cai no ofício/craft, não nas belas-artes — daí o descompasso do termo. Direção 4: eixo 文/武; "Art of War" = tradução de 兵法/法; Clausewitz recusa "arte" à guerra; 武↔舞.
-- **Próximo**: (a) o autor compõe o **Texto em andamento** (ensaio da Dir. 4); ou (b) Direção 3 (como "arte marcial" chega ao português). A confirmar.
+- **Origem do termo (Dir. 3)**: "martial arts" = "artes de Marte" aplicou-se primeiro ao **combate europeu** (~1550s, esgrima/armas), não ao asiático; só chega ao Leste Asiático via Japão (*bujutsu*, ~1909-1920) e cola no kung fu chinês com Bruce Lee (1960-70). Rota até o **PT-BR** ainda não verificada.
+- **Próximo**: (a) o autor compõe o **Texto em andamento** (ensaio da Dir. 4); ou (b) rastrear a entrada de "arte marcial" no português (resto da Dir. 3). A confirmar.
 - Pesquisas-irmãs com escopo próprio: as etimologias de [武](/notes/etimologia-de-mo-wu-6b66/), [術](/notes/etimologia-de-sut-shu-8853/), [藝](/notes/etimologia-de-ngai-yi-85dd/) já estão fechadas e verificadas em 7 fontes.
 
 ## Motivação
@@ -121,9 +122,23 @@ Fonte(s) da camada 2b:
 - **Kant, *Crítica do Juízo* §43** (arte bela × *Handwerk*; produção pela liberdade; gênio). Links: http://timothyquigley.net/vcs/kant-aesth_sum4.pdf
 - **Collingwood, *The Principles of Art* (1938)** / **Stanford, "Collingwood's Aesthetics"** (art proper × craft; "art falsely so called"). Links: https://plato.stanford.edu/entries/collingwood-aesthetics/
 
-### 3. A ponte PT/EN ↔ 武術 / 武藝 — *a mapear*
+### 3. A ponte PT/EN ↔ 武術 / 武藝 — ✓ origem do termo (2026-07-06); rota até o PT ainda a mapear
 
-Como "martial arts" (1909, via japonês *bujutsu* = 武術 — ver Direção 1) mapeia 武術 e 武藝, e o descompasso com o que as etimologias já feitas mostram. Já se sabe que o termo inglês entrou traduzindo o japonês, não o chinês diretamente; falta rastrear como "arte marcial" chega ao **português** e quando passa a designar o kung fu chinês. Cruzar com [wuxia × kung fu](/notes/wuxia-vs-kung-fu-distincao-linguistica-cinema/), [Chin Woo / 國術](/notes/chin-woo-athletic-association/), [Amiot](/notes/amiot-cong-fou-bonzes-tao-ssee/). **A confirmar antes de aprofundar.**
+**O termo nasce ocidental e europeu — e primeiro se aplica à Europa, não à Ásia.** "Martial arts" = "artes de Marte" (Direção 1); foi usado para os **sistemas de combate da própria Europa** — esgrima, luta, armas — já por volta de **1550s**, muito antes de designar qualquer coisa asiática. ⚠ *(atribuição a John Clements / historiografia HEMA, via Wikipedia "Martial arts"; não é atestação de dicionário — a confirmar em corpus.)* Formas irmãs renascentistas: italiano *arte dell'armizzare*, alemão *Fechtkunst* ("arte da esgrima"), francês *l'art des armes*, inglês "science of defence / of arms". ⚠ *(fontes HEMA secundárias.)* No séc. XVII a expressão inglesa "martial art" já corre com o sentido de "military skill / arte da guerra". ⚠ *(mashedradish; a confirmar em OED.)* Ao fundo, a linhagem culta: *ars militaris* latino e a *Dell'arte della guerra* de Maquiavel (1521). ⚠ *(título/data a verificar em fonte primária.)*
+
+**A aplicação a sistemas do Leste Asiático é do começo do séc. XX, e via Japão.** O sentido moderno — nome coletivo para os sistemas de luta do Extremo Oriente — data de c. **1909** (etymonline: "collective name for the fighting sports of Japan", traduzindo *bujutsu* 武術). ✓ *etymonline `martial`.* A primeira atestação do OED seria de **1920** (dicionário japonês-inglês de Takenobu); E. J. Harrison, *The Fighting Spirit of Japan* (1913), é às vezes creditado como o primeiro a aplicar o termo ao *jūjutsu*/*budō*. ⚠ *(relatos secundários de OED e blogs de etimologia; a confirmar.)* Antes dos anos 1970, para o chinês dizia-se "martial science" ou "Chinese boxing". ✓ *Wikipedia "Martial arts".*
+
+**Só nos anos 1960-70 "arte marcial" cola no kung fu chinês.** A popularização do termo no sentido que hoje usamos — asiático, sobretudo chinês — vem dos filmes de Hong Kong e de Bruce Lee. ✓ *Wikipedia "Martial arts".* Cruza com [wuxia × kung fu](/notes/wuxia-vs-kung-fu-distincao-linguistica-cinema/) e [Chin Woo / 國術](/notes/chin-woo-athletic-association/): na China os termos correntes eram 武術/國術, e "kung fu" (功夫) nem era marcial (ver [Amiot](/notes/amiot-cong-fou-bonzes-tao-ssee/) e [rascunho](/notes/rascunho-sobre-o-que-e-kung-fu/)).
+
+**Sequência (a confirmar):** *ars militaris* / *arte della guerra* (séc. XVI) → "martial arts" p/ combate europeu (~1550s) → sentido "military skill" (séc. XVII) → aplicação ao Japão (*bujutsu*, ~1909-1920) → popularização asiática/chinesa (Bruce Lee, 1960-70) → "arte marcial" no PT-BR (**rota não verificada**).
+
+**A rota até o português ainda não foi rastreada.** Quando e por quê "arte marcial" entra no PT-BR, e se calca o inglês, o francês ou o italiano — **não verificado**. Próximo passo desta direção.
+
+Fonte(s) da Direção 3:
+
+- **etymonline — `martial`** ("martial arts" 1909 ← *bujutsu*). Links: https://www.etymonline.com/word/martial
+- **Martial arts — Wikipedia** (1550s, combate europeu, Clements; "martial science"/"Chinese boxing"; Bruce Lee anos 1960-70). Links: https://en.wikipedia.org/wiki/Martial_arts
+- **"Martial vs. marshal" — mashedradish** (sentido "military skill" séc. XVII; Harrison 1913; OED 1920). Links: https://mashedradish.com/2024/12/08/martial-marshal-martial-law-origins/
 
 ### 4. A tensão da pergunta — ✓ terreno mapeado (2026-07-05); texto pendente do autor
 
