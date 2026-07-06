@@ -17,7 +17,7 @@ toc: true
 
 ## Estado
 
-- **Em foco**: Direções 1, 2 (+ camada conceitual **2b**) e 4 **exauridas** (4 = terreno mapeado, texto pendente do autor). "Arte" ← *ars* ← PIE *\*h₂er-* "ajustar/juntar" (primo de *arma*; calque de τέχνη). "Marcial" ← *martialis* ← Marte; "martial arts" (1909) traduz *bujutsu* = 武術. **2b (conceitos de arte)**: arte = τέχνη (Aristóteles, EN VI: capacidade racional de produzir sobre o contingente, *poiesis* vs *praxis*); arte marcial = *ars mechanica* (Hugo de S. Vítor, *armatura* é a 2ª); belas-artes são invenção de 1746 (Kristeller/Batteux) — daí o descompasso do termo. Direção 4: eixo 文/武; "Art of War" = tradução de 兵法/法; Clausewitz recusa "arte" à guerra; 武↔舞.
+- **Em foco**: Direções 1, 2 (+ camada conceitual **2b**) e 4 **exauridas** (4 = terreno mapeado, texto pendente do autor). "Arte" ← *ars* ← PIE *\*h₂er-* "ajustar/juntar" (primo de *arma*; calque de τέχνη). "Marcial" ← *martialis* ← Marte; "martial arts" (1909) traduz *bujutsu* = 武術. **2b (conceitos de arte)**: seis conceitos — Platão (τέχνη × *empeiria*/mero jeito, *Górgias*); Aristóteles (τέχνη = capacidade racional de produzir sobre o contingente, *poiesis* vs *praxis*, EN VI); Hugo de S. Vítor (arte marcial = *ars mechanica*, *armatura* é a 2ª); Kristeller/Batteux (belas-artes são invenção de 1746); Kant (arte bela × *Handwerk*); Collingwood (art proper × craft, "falsely so called"). Arte marcial cai no ofício/craft, não nas belas-artes — daí o descompasso do termo. Direção 4: eixo 文/武; "Art of War" = tradução de 兵法/法; Clausewitz recusa "arte" à guerra; 武↔舞.
 - **Próximo**: (a) o autor compõe o **Texto em andamento** (ensaio da Dir. 4); ou (b) Direção 3 (como "arte marcial" chega ao português). A confirmar.
 - Pesquisas-irmãs com escopo próprio: as etimologias de [武](/notes/etimologia-de-mo-wu-6b66/), [術](/notes/etimologia-de-sut-shu-8853/), [藝](/notes/etimologia-de-ngai-yi-85dd/) já estão fechadas e verificadas em 7 fontes.
 
@@ -96,13 +96,20 @@ Sai da etimologia e entra no conceito: o que a tradição filosófica entendeu p
 
 **As "belas-artes" são invenção do séc. XVIII.** Kristeller, "The Modern System of the Arts" (*Journal of the History of Ideas*, 1951-52): o sistema das *fine arts* não existia antes do séc. XVIII. O passo decisivo é de Charles Batteux, *Les beaux-arts réduits à un même principe* (1746): música, poesia, pintura, escultura e dança — separadas das artes mecânicas, tendo o **prazer** por fim. ✓ *Kristeller (1951); Batteux (1746).* ⚠ (tese contestada — alguns veem o sistema das artes imitativas já esboçado na Antiguidade.) ⚠ (leitura) Antes de 1746, "arte" incluía naturalmente a arte marcial (era uma *ars mechanica*); depois, "arte" passou a evocar as belas-artes, e a arte marcial ficou **órfã do termo** — que só volta a colar nela em 1909, via 武術/*bujutsu* (Direção 1). O descompasso que a pergunta do autor sente é histórico: usamos "arte" num sentido pré-1746 sem saber.
 
-**Síntese — três conceitos de "arte" que atravessam "arte marcial"** (⚠ minha organização, sobre fontes verificadas):
+**Platão: arte (τέχνη) × mero jeito (ἐμπειρία).** No *Górgias* (462b-465e), Sócrates nega que a retórica seja uma τέχνη: é uma *empeiria* (ἐμπειρία — rotina, jeito adquirido por experiência), um ramo da **bajulação** (κολακεία), assim como a culinária está para a medicina. O critério: a retórica "isn't a craft, but a knack, because it has no account of the nature of whatever things it applies… unable to state the cause of each thing" (465a). ✓ *Platão, Górgias 462-465, trad. Zeyl/Jowett.* Uma τέχνη dá **razão** (λόγος) das causas e visa o bem; um mero jeito visa o prazer, às cegas. ⚠ (leitura) É o teste que separa arte marcial de mera briga: há λόγος — explicação de por que funciona, orientada a um bem (saúde, formação) — ou só eficácia cega? É exatamente a distinção entre [術](/notes/etimologia-de-sut-shu-8853/) (caminho codificado, com razão) e o esbórnio, e o que faz do [功夫](/notes/rascunho-sobre-o-que-e-kung-fu/) formação e não pancadaria.
+
+**A virada estética — Kant e Collingwood: arte × ofício.** Kant, *Crítica do Juízo* (§43-44): só se deve chamar arte "a production through freedom, i.e., through a power of choice that bases its acts on reason"; a **arte bela** (*schöne Kunst*) distingue-se do **ofício** (*Handwerk*) e da arte mercenária, é obra do **gênio** e não visa fim externo. ✓ *Kant, KU §43.* Collingwood, *The Principles of Art* (1938): "art proper" é **expressão de emoção**, sem fim predeterminado; opõe-se ao *craft* (ofício, relação meio-fim, resultado planejado). O que se chama "arte" mas é ofício, magia ou entretenimento é "**art falsely so called**". ✓ *Collingwood (1938); Stanford, "Collingwood's Aesthetics".* ⚠ (leitura) Pelos dois cortes modernos, arte marcial cai do lado do **ofício/craft** — tem fim determinado (a eficácia), é meio-para-fim. Chamá-la "arte" seria, para Collingwood, "arte falsamente dita" — a menos que se localize nela uma dimensão genuinamente expressiva. Onde ela roça a *schöne Kunst* de Kant é no registro da demonstração (演武 *yan mo*), quando liberada do fim de combate — e aí reencontra 武↔舞.
+
+**Síntese — seis conceitos de "arte" que atravessam "arte marcial"** (⚠ minha organização, sobre fontes verificadas):
 
 | Conceito | Fonte | O que faz com "arte marcial" |
 |---|---|---|
+| arte × mero jeito (τέχνη × *empeiria*) | Platão, *Górgias* | é τέχνη só se dá razão das causas e visa um bem — senão é briga |
 | arte = τέχνη (produzir sobre o contingente, *poiesis*) | Aristóteles, EN VI | é técnica racional do combate — mas o 功夫 a empurra para *praxis* |
 | arte = *ars mechanica* (ofício do corpo) | Hugo de S. Vítor | *armatura* é a 2ª arte mecânica; ofício, não belas-artes |
 | arte ≠ belas-artes (cisão de 1746) | Kristeller / Batteux | "arte" em "arte marcial" é o sentido antigo, anterior à cisão |
+| arte bela × ofício (*Handwerk*) | Kant, KU §43 | cai no ofício; roça a arte bela só na demonstração (演武) |
+| "art proper" × craft | Collingwood (1938) | é *craft* (meio-fim); "arte" aqui seria "falsely so called" |
 
 Fonte(s) da camada 2b:
 
@@ -110,6 +117,9 @@ Fonte(s) da camada 2b:
 - **Stanford Encyclopedia — "Episteme and Techne"**. Links: https://plato.stanford.edu/entries/episteme-techne/
 - **Mechanical arts (artes mechanicae) — Hugo de São Vítor**. Links: https://en.wikipedia.org/wiki/Mechanical_arts
 - **Kristeller, "The Modern System of the Arts" (1951)** / **Batteux, *Les beaux-arts réduits à un même principe* (1746)**. Links: https://jeffsearle.blogspot.com/2017/09/kristellers-modern-system-of-arts.html
+- **Platão, *Górgias* 462-465** (τέχνη × *empeiria*; retórica como bajulação). Links: http://bingdev.binghamton.edu/ascholtz/clas381a/plato_gorgias_text.htm
+- **Kant, *Crítica do Juízo* §43** (arte bela × *Handwerk*; produção pela liberdade; gênio). Links: http://timothyquigley.net/vcs/kant-aesth_sum4.pdf
+- **Collingwood, *The Principles of Art* (1938)** / **Stanford, "Collingwood's Aesthetics"** (art proper × craft; "art falsely so called"). Links: https://plato.stanford.edu/entries/collingwood-aesthetics/
 
 ### 3. A ponte PT/EN ↔ 武術 / 武藝 — *a mapear*
 
