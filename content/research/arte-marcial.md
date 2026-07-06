@@ -213,4 +213,4 @@ Fonte(s) desta seção:
 
 ## Notas extraídas
 
-- (nenhuma ainda)
+- [por-que-o-ocidente-chamou-o-combate-de-arte](/notes/por-que-o-ocidente-chamou-o-combate-de-arte/) — por que o séc. XVI europeu chamou o combate de "arte/scientia" (Marozzo, Agrippa, Noble Science of Defence): arte = sistema/τέχνη com razão, contra a briga; e o lance contra a hierarquia clássica (liberais × mecânicas). Extraída da Direção 2b + Texto em andamento.
