@@ -19,7 +19,8 @@ toc: true
 
 - **Em foco**: Direções 1, 2 (+ camada conceitual **2b**) e 4 **exauridas** (4 = terreno mapeado, texto pendente do autor). "Arte" ← *ars* ← PIE *\*h₂er-* "ajustar/juntar" (primo de *arma*; calque de τέχνη). "Marcial" ← *martialis* ← Marte; "martial arts" (1909) traduz *bujutsu* = 武術. **2b (conceitos de arte)**: seis conceitos — Platão (τέχνη × *empeiria*/mero jeito, *Górgias*); Aristóteles (τέχνη = capacidade racional de produzir sobre o contingente, *poiesis* vs *praxis*, EN VI); Hugo de S. Vítor (arte marcial = *ars mechanica*, *armatura* é a 2ª); Kristeller/Batteux (belas-artes são invenção de 1746); Kant (arte bela × *Handwerk*); Collingwood (art proper × craft, "falsely so called"). Arte marcial cai no ofício/craft, não nas belas-artes — daí o descompasso do termo. Direção 4: eixo 文/武; "Art of War" = tradução de 兵法/法; Clausewitz recusa "arte" à guerra; 武↔舞.
 - **Origem do termo (Dir. 3)**: "martial arts" = "artes de Marte" aplicou-se primeiro ao **combate europeu** (~1550s, esgrima/armas), não ao asiático; só chega ao Leste Asiático via Japão (*bujutsu*, ~1909-1920) e cola no kung fu chinês com Bruce Lee (1960-70). Rota até o **PT-BR** ainda não verificada.
-- **Próximo**: (a) o autor compõe o **Texto em andamento** (ensaio da Dir. 4); ou (b) rastrear a entrada de "arte marcial" no português (resto da Dir. 3). A confirmar.
+- **Texto em andamento**: pontos salvos sobre *por que o séc. XVI escolheu "arte"* para o combate europeu (Marozzo 1536 *Arte delle Armi*; Agrippa 1553 geometriza; "Noble Science of Defence", 1540). Tese: "arte" ali = **sistema/método**, não beleza — τέχνη com λόγος contra a briga (*empeiria*), convergindo com 術/藝. Aguarda composição na voz do autor.
+- **Próximo**: (a) o autor compõe o ensaio a partir dos pontos salvos; ou (b) rastrear a entrada de "arte marcial" no português (resto da Dir. 3). A confirmar.
 - Pesquisas-irmãs com escopo próprio: as etimologias de [武](/notes/etimologia-de-mo-wu-6b66/), [術](/notes/etimologia-de-sut-shu-8853/), [藝](/notes/etimologia-de-ngai-yi-85dd/) já estão fechadas e verificadas em 7 fontes.
 
 ## Motivação
@@ -171,7 +172,33 @@ A pergunta tem duas metades — **"o que há de marcial na arte?"** e **"o que h
 
 ## Texto em andamento
 
-*(Vazio. Este é o slot do ensaio da Direção 4 — só o autor compõe. Os materiais verificados estão acima.)*
+*(Pontos salvos a pedido do autor — matéria-prima para o ensaio, não prosa final. A composição na voz do autor fica por conta dele.)*
+
+### O que há de "arte" em "arte marcial" — por que o séc. XVI escolheu essa palavra
+
+A pergunta não é sobre o orientalismo tardio (isso é a Direção 3, já sabido): é *dentro* do Ocidente. Por que os europeus do séc. XVI chamaram o combate de **arte**? A resposta está no gesto deles — no que faziam ao usar a palavra.
+
+**1. Os títulos denunciam a escolha.** Não é acidente de vocabulário; é programa impresso na capa:
+
+- Achille Marozzo, ***Opera Nova dell'Arte delle Armi*** (Bolonha, 1536) — "arte das armas". ✓ *Wikipedia "Achille Marozzo"; Wiktenauer.*
+- Camillo Agrippa, ***Trattato di scientia d'arme con un dialogo di filosofia*** (Roma, 1553) — "ciência das armas, com um diálogo de filosofia". ✓ *Wikipedia "Camillo Agrippa".*
+- Inglaterra: os **Masters of the Noble Science of Defence**, guilda com carta patente de Henrique VIII (**1540**), monopólio de ensino e ranks (Free Scholar, Provost, Master). ✓ *Wikipedia "Masters of Defence".*
+
+⚠ (leitura) *Arte* e *scientia* aparecem como quase-sinônimos: os dois nomeiam a mesma coisa — um **corpo sistemático de princípios**, ensinável, com autoridade. Não "belas-artes" (isso é 1746, Direção 2b), mas *ars/τέχνη* no sentido antigo.
+
+**2. O que faziam para merecer a palavra.** Agrippa não usa "arte" como enfeite: ele **geometriza** o combate — reduz as guardas tradicionais a quatro, aplica geometria euclidiana, chega a reduzir o corpo humano a símbolos matemáticos, "reconstruindo a arte a partir de seus princípios". ✓ *Wikipedia "Camillo Agrippa"; Journal of the Northern Renaissance (2015).* Marozzo cataloga sistematicamente cada arma, com teoria, sequências e as regras do duelo. ✓ O combate deixa de ser instinto e vira **disciplina com regra** — é isso que autoriza o nome "arte".
+
+**3. Por que "arte" e não outra palavra — e aqui a camada 2b converge.** Chamar o combate de *arte* era uma afirmação precisa: *isto tem λόγος*. É a distinção de Platão (*Górgias*) entre **τέχνη** (arte, que dá razão das causas) e **empeiria** (mero jeito, briga por rotina). ⚠ (leitura) O mestre renascentista que geometriza a esgrima está fazendo exatamente o que Sócrates exigia de uma τέχνη — dar conta das causas — contra a pancadaria como *empeiria*. E é a τέχνη de Aristóteles (EN VI): capacidade racional de produzir um efeito sobre o contingente (o adversário que reage).
+
+**4. Era também um lance de dignidade.** ⚠ (leitura, a reforçar com fonte que o afirme diretamente) Ao enxertar **geometria** — uma arte *liberal* do quadrivium — sobre a esgrima — uma arte *mecânica*, a *armatura* de Hugo de São Vítor (2b) —, os mestres puxavam o ofício das armas para cima, para perto das artes liberais; e o institucionalizavam (guildas, licenças, tratados impressos, ranks). "Arte" carregava, junto, três coisas: **método**, **ensinabilidade** e **dignidade**.
+
+**5. Síntese do argumento** (⚠ formulação minha, sobre fatos verificados): o que há de "arte" em "arte marcial" nunca foi beleza. Foi **sistema** — combate elevado a corpo de princípios transmissível, contra a briga. O séc. XVI escolheu "arte/scientia" para dizer isso. E é a mesma coisa que os étimos chineses já diziam do outro lado do mundo: [術](/notes/etimologia-de-sut-shu-8853/) (o caminho codificado dentro de um domínio) e [藝](/notes/etimologia-de-ngai-yi-85dd/) (a capacidade cultivada com regra). Duas civilizações, a mesma decisão: chamar de "arte" o gesto de combate *quando ele vira método*.
+
+Fonte(s) desta seção:
+
+- **Achille Marozzo, *Opera Nova* (1536)** — Wikipedia / Wiktenauer. Links: https://en.wikipedia.org/wiki/Achille_Marozzo · https://wiktenauer.com/wiki/Opera_Nova_(Achille_Marozzo)
+- **Camillo Agrippa, *Trattato di scientia d'arme* (1553)** — Wikipedia; "The Number of Motion", *Journal of the Northern Renaissance* (2015). Links: https://en.wikipedia.org/wiki/Camillo_Agrippa · https://jnr2.hcommons.org/2015/3575/
+- **Masters of Defence (carta de 1540, "Noble Science of Defence")** — Wikipedia. Links: https://en.wikipedia.org/wiki/Masters_of_Defence
 
 ## Notas do Scholion já relacionadas
 
