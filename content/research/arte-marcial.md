@@ -17,7 +17,7 @@ toc: true
 
 ## Estado
 
-- **Em foco**: Direções 1, 2 e 4 **exauridas** (4 = terreno mapeado, texto pendente do autor). "Arte" ← *ars* ← PIE *\*h₂er-* "ajustar/juntar" (primo de *arma*; calque de τέχνη). "Marcial" ← *martialis* ← Marte (possivelmente agrícola na origem); "martial arts" (1909) traduz *bujutsu* = 武術. Direção 4: eixo 文/武; "Art of War" = tradução de 兵法/法; Clausewitz recusa "arte" à guerra; 武↔舞 (o "artístico" é composicional, não estético).
+- **Em foco**: Direções 1, 2 (+ camada conceitual **2b**) e 4 **exauridas** (4 = terreno mapeado, texto pendente do autor). "Arte" ← *ars* ← PIE *\*h₂er-* "ajustar/juntar" (primo de *arma*; calque de τέχνη). "Marcial" ← *martialis* ← Marte; "martial arts" (1909) traduz *bujutsu* = 武術. **2b (conceitos de arte)**: arte = τέχνη (Aristóteles, EN VI: capacidade racional de produzir sobre o contingente, *poiesis* vs *praxis*); arte marcial = *ars mechanica* (Hugo de S. Vítor, *armatura* é a 2ª); belas-artes são invenção de 1746 (Kristeller/Batteux) — daí o descompasso do termo. Direção 4: eixo 文/武; "Art of War" = tradução de 兵法/法; Clausewitz recusa "arte" à guerra; 武↔舞.
 - **Próximo**: (a) o autor compõe o **Texto em andamento** (ensaio da Dir. 4); ou (b) Direção 3 (como "arte marcial" chega ao português). A confirmar.
 - Pesquisas-irmãs com escopo próprio: as etimologias de [武](/notes/etimologia-de-mo-wu-6b66/), [術](/notes/etimologia-de-sut-shu-8853/), [藝](/notes/etimologia-de-ngai-yi-85dd/) já estão fechadas e verificadas em 7 fontes.
 
@@ -85,6 +85,31 @@ Fonte(s) da Direção 2:
 - **Artes liberales / serviles** (distinção liberal×mecânica). Links: https://ptta.pl/pef/haslaen/a/artes.pdf · https://ojs.unito.it/index.php/COL/article/download/5502/4935/16916
 
 *(Pendente de reforço com fonte impressa: Ernout-Meillet, *Dictionnaire étymologique de la langue latine*, e Chantraine para τέχνη — para elevar as marcas ⚠ a ✓ com citação de página.)*
+
+### 2b. Camada conceitual — o que é "arte" (aprofundamento, 2026-07-06)
+
+Sai da etimologia e entra no conceito: o que a tradição filosófica entendeu por "arte", e o que cada conceito faz com "arte marcial".
+
+**Aristóteles: arte = τέχνη, capacidade racional de produzir.** *Ética a Nicômaco*, Livro VI (c. 1140a): "Art is identical with a state of capacity to make, involving a true course of reasoning" (ἕξις μετὰ λόγου ἀληθοῦς ποιητική — disposição produtiva acompanhada de razão verdadeira). E: "All art is concerned with coming into being… how something may come into being which is capable of either being or not being, and whose origin is in the maker and not in the thing made." ✓ *Aristóteles, EN VI.4, trad. Ross (classics.mit.edu); Stanford Encyclopedia, "Episteme and Techne".* Três traços: (1) arte é do **contingente** — do que pode ser de outro modo — não do necessário (ἐπιστήμη); (2) arte é **poiesis** (fazer com produto fora do agente), distinta da **praxis** (agir cujo fim é o próprio agir, domínio da φρόνησις); (3) a origem da obra está no **produtor**, não na coisa produzida. ⚠ (leitura) Como τέχνη, a arte marcial é capacidade racional de produzir um efeito sobre o contingente — o oponente que reage, o golpe que pode ou não acontecer. Mas o [功夫](/notes/rascunho-sobre-o-que-e-kung-fu/) puxa para o outro polo: seu fim não é produto externo, é a transformação de quem pratica — mais perto de *praxis* que de *poiesis*. A arte marcial fica no vão exato entre fazer e agir.
+
+**A arte marcial é, literalmente, uma arte mecânica.** Hugo de São Vítor, *Didascalicon* (anos 1120), fixa as sete *artes mechanicae* em paralelo às sete liberais: *lanificium* (têxtil), **_armatura_ (armamento)**, *navigatio*, *agricultura*, *venatio* (caça), *medicina*, *theatrica*. A *armatura* é a **segunda** da lista. ✓ *Hugo de São Vítor, Didascalicon II; PL 176, col. 760; Wikipedia "Mechanical arts".* ⚠ (algumas leituras estendem *armatura* a toda arte de equipar/construir — armas, muros, ferramentas —, a confirmar em Hugo, Did. II.20-27.) Já no séc. XII a "arte das armas" é catalogada como arte — mas arte **mecânica**, do corpo e da mão, ao lado da tecelagem e da caça, não das artes liberais. ⚠ (leitura) O lado latino confirma o que [術](/notes/etimologia-de-sut-shu-8853/) e [藝](/notes/etimologia-de-ngai-yi-85dd/) mostram pelo chinês: arte marcial pertence ao registro do **ofício**, não das belas-artes. E há a rima fina — *armatura* (armas) e *agricultura* (arado) na mesma lista, como Marte guerreiro e Marte agrícola na Direção 1.
+
+**As "belas-artes" são invenção do séc. XVIII.** Kristeller, "The Modern System of the Arts" (*Journal of the History of Ideas*, 1951-52): o sistema das *fine arts* não existia antes do séc. XVIII. O passo decisivo é de Charles Batteux, *Les beaux-arts réduits à un même principe* (1746): música, poesia, pintura, escultura e dança — separadas das artes mecânicas, tendo o **prazer** por fim. ✓ *Kristeller (1951); Batteux (1746).* ⚠ (tese contestada — alguns veem o sistema das artes imitativas já esboçado na Antiguidade.) ⚠ (leitura) Antes de 1746, "arte" incluía naturalmente a arte marcial (era uma *ars mechanica*); depois, "arte" passou a evocar as belas-artes, e a arte marcial ficou **órfã do termo** — que só volta a colar nela em 1909, via 武術/*bujutsu* (Direção 1). O descompasso que a pergunta do autor sente é histórico: usamos "arte" num sentido pré-1746 sem saber.
+
+**Síntese — três conceitos de "arte" que atravessam "arte marcial"** (⚠ minha organização, sobre fontes verificadas):
+
+| Conceito | Fonte | O que faz com "arte marcial" |
+|---|---|---|
+| arte = τέχνη (produzir sobre o contingente, *poiesis*) | Aristóteles, EN VI | é técnica racional do combate — mas o 功夫 a empurra para *praxis* |
+| arte = *ars mechanica* (ofício do corpo) | Hugo de S. Vítor | *armatura* é a 2ª arte mecânica; ofício, não belas-artes |
+| arte ≠ belas-artes (cisão de 1746) | Kristeller / Batteux | "arte" em "arte marcial" é o sentido antigo, anterior à cisão |
+
+Fonte(s) da camada 2b:
+
+- **Aristóteles, *Ética a Nicômaco* VI.4** (trad. Ross). Links: https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html
+- **Stanford Encyclopedia — "Episteme and Techne"**. Links: https://plato.stanford.edu/entries/episteme-techne/
+- **Mechanical arts (artes mechanicae) — Hugo de São Vítor**. Links: https://en.wikipedia.org/wiki/Mechanical_arts
+- **Kristeller, "The Modern System of the Arts" (1951)** / **Batteux, *Les beaux-arts réduits à un même principe* (1746)**. Links: https://jeffsearle.blogspot.com/2017/09/kristellers-modern-system-of-arts.html
 
 ### 3. A ponte PT/EN ↔ 武術 / 武藝 — *a mapear*
 
