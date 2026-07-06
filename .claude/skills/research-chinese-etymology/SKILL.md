@@ -29,13 +29,15 @@ Apenas após confirmação de que não existe (ou que deve atualizar), proceder 
 
 ## Fontes e como acessar
 
-Processar cada caractere por TODAS as fontes abaixo. Usar Agent com subagents em paralelo quando possível.
+Processar cada caractere por TODAS as fontes abaixo.
+
+**Serialização obrigatória** (memória `feedback_etimologia_serial_e_completa`): processar os caracteres **um de cada vez**, nunca subagents paralelos por caractere — caracteres em paralelo batem nos mesmos sites simultaneamente, o que configura abuso. Dentro de um mesmo caractere, fontes de **sites distintos** podem ser consultadas em paralelo; fetches ao **mesmo site** (os dois scripts xiaoxue, por exemplo) rodam em sequência.
 
 ### 1. MDBG — definições e pronúncias (WebFetch)
 
 - URL: `https://www.mdbg.net/chinese/dictionary?wdqb=CHAR`
 - Extrair: definições inglesas, pinyin, jyutping
-- Fonte rápida e fiável para significados modernos
+- Fonte rápida e confiável para significados modernos
 
 ### 2. chardb Academia Sinica — definições chinesas (WebFetch)
 
@@ -170,7 +172,7 @@ Formas atestadas: Oracle N · Bronze N · Seal N
 - Leitura cantonesa: confirmar jyutping entre MDBG, cantonese.org e shangguyin
 ```
 
-IMPORTANTE: as divergências ficam DENTRO da secção de cada caractere (como `####` subsecção), não numa secção global separada. Isto centraliza a leitura — o leitor vê tudo sobre um caractere sem ter de saltar para o fim do documento.
+IMPORTANTE: as divergências ficam DENTRO da seção de cada caractere (como `####` subseção), não numa seção global separada. Isso centraliza a leitura — o leitor vê tudo sobre um caractere sem ter de saltar para o fim do documento.
 
 ## Regras de tradução obrigatórias
 
@@ -220,29 +222,29 @@ A observação positiva que sempre pode ser feita com segurança: "ausente do *S
   - `fetch-xiaoxue-yanbian.mjs CHAR` — xiaoxue yanbian
   - `fetch-xiaoxue-shangguyin.mjs CHAR` — xiaoxue shangguyin
 - Executar via Bash: `node E:/scholion/.claude/skills/research-chinese-etymology/fetch-*.mjs CHAR`
-- Os 3 scripts podem rodar em paralelo para o mesmo caractere
+- Para o mesmo caractere: hanziyuan pode rodar em paralelo com um dos xiaoxue; os dois xiaoxue (yanbian e shangguyin, mesmo site) rodam em sequência entre si
 - **Se Playwright não estiver disponível**: avisar e continuar com fontes WebFetch-only (MDBG, chardb, cantonese.org, shuowen.org), sinalizando no output quais fontes ficaram pendentes
 
 ## Estratégia de execução
 
 1. **Extrair** caracteres de `$ARGUMENTS`.
-2. **Verificação prévia**: para cada caractere, checar se já existe nota (ver secção acima). Se existir, perguntar ao autor antes de prosseguir.
+2. **Verificação prévia**: para cada caractere, checar se já existe nota (ver seção acima). Se existir, perguntar ao autor antes de prosseguir.
 3. **Coletar contexto kung fu** (a menos que invocada por outra skill que já passe o contexto): perguntar ao autor de qual nome kung fu o caractere vem e qual a pessoa. Aceitar "nenhum" para registro filológico sem vínculo.
-4. **Pesquisar** (apenas para caracteres sem nota ou que devem ser atualizados): para cada caractere, lançar buscas em paralelo (Agent subagents ou tool calls paralelos):
-   - WebFetch: MDBG, chardb, cantonese.org, shuowen.org (4 em paralelo)
-   - Playwright: hanziyuan, xiaoxue yanbian, xiaoxue shangguyin (podem ser paralelos se infra permitir)
+4. **Pesquisar** (apenas para caracteres sem nota ou que devem ser atualizados): **um caractere de cada vez** (ver "Serialização obrigatória" acima). Para o caractere em curso:
+   - WebFetch: MDBG, chardb, cantonese.org, shuowen.org (4 sites distintos — podem ser paralelos)
+   - Playwright: hanziyuan em paralelo com **um** dos xiaoxue; yanbian e shangguyin (mesmo site) em sequência entre si
 5. **Formatar** output por caractere no formato acima.
 6. **Cruzar fontes** e listar divergências.
 7. **Preview**: montar a nota completa (frontmatter + corpo) e mostrar ao autor antes de gravar. Aguardar aprovação explícita.
-8. **Salvar** após aprovação (ver secção "Salvamento da nota" abaixo).
+8. **Salvar** após aprovação (ver seção "Salvamento da nota" abaixo).
 
 ## Salvamento da nota
 
 Após preview aprovado pelo autor, gravar em `E:/scholion/content/notes/<slug>.md`:
 
 1. **Timestamp real** — capturar via `Bash`: `date +"%Y-%m-%dT%H:%M:%S%:z"`. Nunca inventar hora.
-2. **Write** o ficheiro completo (frontmatter + corpo).
-3. **Verificar** com `Glob` ou `Read` que o ficheiro existe — só então confirmar ao autor com path resultante.
+2. **Write** o arquivo completo (frontmatter + corpo).
+3. **Verificar** com `Glob` ou `Read` que o arquivo existe — só então confirmar ao autor com path resultante.
 4. **Não comitar automaticamente** — esta skill apenas grava. Commit fica a cargo do autor (ou da skill orquestradora, ex: `/kung-fu-name-etymology`).
 
 ### Slug
