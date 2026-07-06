@@ -162,10 +162,11 @@ Nome kung fu de <Pessoa Real>.
 - Se a nota individual do caractere ainda não existir, criá-la primeiro via `research-chinese-etymology` (seguindo a convenção `etimologia-de-<cant>-<pinyin>-<hex>.md`).
 
 ### Commit
-- Um commit por fluxo: a nota do discípulo + eventuais notas individuais novas.
+- Um commit por fluxo: a nota do discípulo + eventuais notas individuais novas. (Exceção consciente à regra geral de um commit por nota — `feedback_commit_por_nota` — porque as notas de etimologia individuais nascem como dependência da nota do discípulo neste fluxo.)
 - Mensagem: `note: etimologia de <ideogramas> <Romanização>`.
 - **Sem `Co-Authored-By Claude`**.
 - Build check: `cd E:/scholion && hugo --quiet` antes de comitar.
+- O hook global `ghost-audit` audita as notas staged no commit. Se bloquear (verdict red), resolver os findings — nunca gravar o marcador `.ghost-audit/*.ok` só para furar o bloqueio sem o autor decidir.
 
 ### Preview
 - Preview antes de escrever. Aguardar confirmação do usuário.
