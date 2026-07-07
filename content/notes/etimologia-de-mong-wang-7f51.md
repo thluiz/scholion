@@ -50,10 +50,10 @@ Formas atestadas: 甲骨文 (5), 金文 (5), 說文解字的篆字 (1).
 
 #### Shuowen Jiezi completo
 
-(shuowen.org retornou apenas a listagem das primeiras entradas do dicionário; texto verbatim obtido via 小學堂 e CUHK, não idênticos.)
+(shuowen.org retornou apenas a listagem das primeiras entradas do dicionário; texto verbatim obtido via 小學堂 e CUHK, não idênticos — a tabela do 小學堂 e a CUHK grafam 从冖, a citação do 小學堂 grafa 从冂. Abaixo, a versão com 从冖.)
 
-**說文**: 网，庖犧所結繩以漁。从冂，下象网交文。凡网之屬皆从网。【今經典變隸作䍏。】〔文紡切〕罔，网或从亡。網，网或从糸。𠕃，古文网。𦉯，籀文网。
-(A rede: aquilo com que 庖犧 atava cordas para pescar. Vem de 冂; abaixo, representa o padrão entrecruzado da rede. Todo caractere da classe de 网 segue 网. [Nos clássicos atuais, a forma clerical mudou para 䍏.] [fanqie: 文紡.] 罔 é uma forma alternativa de 网 com 亡. 網 é uma forma alternativa de 网 com 糸. 𠕃 é a forma antiga de 网. 𦉯 é a forma 籀文 de 网.)
+**說文**: 网，庖犧所結繩以漁。从冖，下象网交文。凡网之屬皆从网。【今經典變隸作䍏。】〔文紡切〕罔，网或从亡。網，网或从糸。𠕃，古文网。𦉯，籀文网。
+(A rede: aquilo com que 庖犧 atava cordas para pescar. Vem de 冖; abaixo, representa o padrão entrecruzado da rede. Todo caractere da classe de 网 segue 网. [Nos clássicos atuais, a forma clerical mudou para 䍏.] [fanqie: 文紡.] 罔 é uma forma alternativa de 网 com 亡. 網 é uma forma alternativa de 网 com 糸. 𠕃 é a forma antiga de 网. 𦉯 é a forma 籀文 de 网.)
 
 **段注 Duan Yucai**: (não obtido — shuowen.org retornou listagem; zdic.net retornou HTTP 404)
 
