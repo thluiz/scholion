@@ -80,7 +80,7 @@ A nota 諭或作喻 confirma explicitamente que 喻 é variante gráfica de 諭,
 | Eastern Han 東漢 | Clerical 隸書 | 熹·論語·里仁 (Xī — Lúnyǔ — Lǐrén — Estela Xiping dos *Analectos*, capítulo Lǐrén) |
 | Cao Wei 曹魏 | Clerical 隸書 | 魏受禪表 (Wèi shòushàn biǎo — Memorial da Abdicação Wei) |
 
-**Shuowen (xiaoxue)**: (ausente — caractere não tem entrada própria, ver secção acima)
+**Shuowen (xiaoxue)**: (ausente — caractere não tem entrada própria, ver seção acima)
 
 Apenas duas atestações clericais — consistente com criação/separação tardia entre 喻 e 諭.
 
@@ -104,7 +104,7 @@ Apenas duas atestações clericais — consistente com criação/separação tar
 
 #### Divergências entre fontes
 
-**Caractere primário — 諭 (Shuowen) vs 喻 (uso moderno)**: O Shuowen regista apenas 諭 (com 言); 喻 (com 口) é listado como variante gráfica (或作). No uso moderno, os dois caracteres especializaram-se semanticamente: 諭 concentra o sentido "informar autoritariamente" (imperial/administrativo), 喻 concentra "explicar por analogia/metáfora" (didático/retórico). Esta bifurcação consolida-se no chinês medieval. No composto *ji yue* 借喻 (tomar por analogia) do Hai Tong, 喻 é o caractere apropriado — sentido analógico, não administrativo.
+**Caractere primário — 諭 (Shuowen) vs 喻 (uso moderno)**: O Shuowen registra apenas 諭 (com 言); 喻 (com 口) é listado como variante gráfica (或作). No uso moderno, os dois caracteres especializaram-se semanticamente: 諭 concentra o sentido "informar autoritariamente" (imperial/administrativo), 喻 concentra "explicar por analogia/metáfora" (didático/retórico). Esta bifurcação consolida-se no chinês medieval. No composto *ji yue* 借喻 (tomar por analogia) do Hai Tong, 喻 é o caractere apropriado — sentido analógico, não administrativo.
 
 **Componentes 口 vs 言**: A substituição gráfica 言→口 (vistas também em 詠/咏) não é rara — sugere alternância de ênfase entre "fala estruturada/formal" (言) e "boca/ato oral simples" (口). No caso de 喻, a escolha de 口 reforça a dimensão oral/pedagógica: mostrar algo através da boca com analogias, sem formalismo do "informe" (諭).
 
@@ -112,6 +112,6 @@ Apenas duas atestações clericais — consistente com criação/separação tar
 
 **Etimologia semântica — "informar o acessível"**: A glosa 段注 凡曉諭人者，皆舉其所易明也 ("todo esclarecer alguém consiste em apresentar o que lhe é facilmente compreensível") captura a raiz da semântica: 喻 é "explicar através do que é mais fácil [de compreender]" — fundamento da função metafórica. A metáfora (比喻 bǐyù) é exatamente isto: mapear o difícil no fácil. Esta é a etimologia operativa para o uso de 喻 em *ji yue ji nam cham* 借喻指南針 ("tomar a bússola como analogia") — apresentar o invisível (princípio do jung sin) através do acessível (agulha magnética).
 
-**Atestação tardia do caractere**: hanziyuan não tem entrada dedicada (cobertura via 諭); xiaoxue tem apenas duas atestações, ambas Eastern Han-Wei (熹·論語, 魏受禪表). Consistente com a diferenciação gráfica 諭/喻 como fenómeno Han tardio-Wei, não anterior.
+**Atestação tardia do caractere**: hanziyuan não tem entrada dedicada (cobertura via 諭); xiaoxue tem apenas duas atestações, ambas Eastern Han-Wei (熹·論語, 魏受禪表). Consistente com a diferenciação gráfica 諭/喻 como fenômeno Han tardio-Wei, não anterior.
 
-**Grupo rímico — 侯 (hóu) / 魚 (yú) em Han**: Old Chinese (pré-Han) classifica 喻 no grupo 侯; Han Oriental regista migração para 魚. Esta mudança é consistente com reorganização dos grupos rímicos durante a Han, conforme documentado pelo xiaoxue.
+**Grupo rímico — 侯 (hóu) / 魚 (yú) em Han**: Old Chinese (pré-Han) classifica 喻 no grupo 侯; Han Oriental registra migração para 魚. Esta mudança é consistente com reorganização dos grupos rímicos durante a Han, conforme documentado pelo xiaoxue.
