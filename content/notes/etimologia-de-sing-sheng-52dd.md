@@ -83,7 +83,7 @@ Formas atestadas (hanziyuan): Oracle 0 · Bronze 0 · Seal 1 (S10378) · Liushut
 
 **說文**: 勝，任也。从力，朕聲。識蒸切。 ("Shèng: suportar, aguentar. Composto de 力 (força, semântico) com 朕 (fonético). Fanqie: 識蒸.")
 
-**段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido para este caractere): 任者，𠈃也。𠈃者，當也。凡能舉之，能克之皆曰勝。本無二義二音，而俗強分平去。从力朕聲。識蒸切。六部。亦去聲。 ("'Aguentar' é 𠈃 [antiga forma de 保 bǎo — proteger, garantir]; 𠈃 é 當 [dāng — estar à altura de, corresponder]. Tudo o que se pode levantar e tudo o que se pode vencer chama-se 勝. Originalmente não havia dois sentidos nem duas leituras; a divisão entre 平聲 [tom nivelado] e 去聲 [tom decrescente] é imposição popular. Composto de 力 e 朕 (fonético). Fanqie 識蒸. 6ª secção de rima. Também em 去聲.")
+**段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido para este caractere): 任者，𠈃也。𠈃者，當也。凡能舉之，能克之皆曰勝。本無二義二音，而俗強分平去。从力朕聲。識蒸切。六部。亦去聲。 ("'Aguentar' é 𠈃 [antiga forma de 保 bǎo — proteger, garantir]; 𠈃 é 當 [dāng — estar à altura de, corresponder]. Tudo o que se pode levantar e tudo o que se pode vencer chama-se 勝. Originalmente não havia dois sentidos nem duas leituras; a divisão entre 平聲 [tom nivelado] e 去聲 [tom decrescente] é imposição popular. Composto de 力 e 朕 (fonético). Fanqie 識蒸. 6ª seção de rima. Também em 去聲.")
 
 ### Evolução de formas (xiaoxue yanbian)
 
