@@ -72,7 +72,7 @@ Formas atestadas: Oracle 0 · Bronze 42 · Seal 1 · Liushutong 12.
 
 ### Shuowen Jiezi completo (shuowen.org)
 
-**說文**: 升也。从彳𢛳聲。 ("Ascender. Componente semântico 彳, componente fonético 𢛳.") Volume 2 (卷二), secção do radical 彳. Fanqie: 多則切.
+**說文**: 升也。从彳𢛳聲。 ("Ascender. Componente semântico 彳, componente fonético 𢛳.") Volume 2 (卷二), seção do radical 彳. Fanqie: 多則切.
 
 **段注 Duan Yucai**: 𦫵也 — Duan esclarece que 𦫵 deve ser lido como 登 (ascender/obter), conectando 德 ao sentido de "ascender/obter". Referências ao *Gongyang zhuan* (公羊傳), notas sobre uso em poesia Tang, observações dialetais sobre uso na língua de Qi (齊).
 
