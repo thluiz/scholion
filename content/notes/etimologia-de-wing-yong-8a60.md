@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 詠 (Wing — Yǒng / wing6)"
 date: '2026-04-24T12:21:50+01:00'
-summary: "Análise etimológica de 詠 (Yǒng / wing6), 'cantar, entoar, recitar de modo prolongado'. Shuowen: 歌也 ('cantar'). Composto fonossemântico: 言 (palavra/fala) + 永 (fonético e semanticamente presente, 'longo, prolongado'). Variante gráfica 咏 (com 口 em vez de 言) registada no Shuowen. 段注 de Duan Yucai cita o Yàodiǎn: 歌永言 ('cantar é prolongar a palavra') e o Yuèjì: 長言之也 ('é dizer em forma alongada'). Primeiro caractere de Ving Tsun (詠春, 'Primavera Entoada'). Sete fontes consultadas."
+summary: "Análise etimológica de 詠 (Yǒng / wing6), 'cantar, entoar, recitar de modo prolongado'. Shuowen: 歌也 ('cantar'). Composto fonossemântico: 言 (palavra/fala) + 永 (fonético e semanticamente presente, 'longo, prolongado'). Variante gráfica 咏 (com 口 em vez de 言) registrada no Shuowen. 段注 de Duan Yucai cita o Yàodiǎn: 歌永言 ('cantar é prolongar a palavra') e o Yuèjì: 長言之也 ('é dizer em forma alongada'). Primeiro caractere de Ving Tsun (詠春, 'Primavera Entoada'). Sete fontes consultadas."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 category: etymology
@@ -44,7 +44,7 @@ Variante gráfica: 咏 (U+548F) — forma simplificada e variante antiga atestad
 1. 歌唱；曼聲長吟 (cantar; entoar longa e melodiosamente)
 2. 用詩詞等抒寫 (expressar através de poesia/verso)
 3. 詩詞 (poesia; verso)
-4. 詩體名 (nome de um género poético)
+4. 詩體名 (nome de um gênero poético)
 5. 歌頌 (louvar; eulogizar)
 6. 鳥鳴 (canto dos pássaros)
 
@@ -72,7 +72,7 @@ A etimologia é particularmente transparente: cantar é literalmente "fala prolo
 | Período | Script | Fonte/Artefato |
 |---------|--------|----------------|
 | Early Western Zhou 西周早期 | Bronze 金文 | 咏作日戊尊 (Yǒng zuò rì Wù zūn — vaso ritual zun) |
-| Han | Seal 篆書 | 說文·言部 (Shuōwén, secção 言) |
+| Han | Seal 篆書 | 說文·言部 (Shuōwén, seção 言) |
 | Han | Seal 篆書 (variant) | 說文或體 (Shuōwén variante 咏 com 口) |
 | Eastern Han 東漢 | Clerical 隸書 | 北海相景君銘 (Běihǎi xiàng Jǐngjūn míng — inscrição do ministro Jingjun de Beihai) |
 | Eastern Han 東漢 | Clerical 隸書 | 禮器碑 (Lǐqì bēi — Estela dos Instrumentos Rituais) |
@@ -104,7 +104,7 @@ Notavelmente, a atestação mais antiga (Zhou inicial) é já a variante com 口
 
 **Grupo rímico arcaico — 10 (段注) vs 陽 (xiaoxue)**: 段玉裁 atribui a 詠 o grupo 10; os reconstrucionistas modernos unanimemente colocam em 陽. As duas classificações referem substancialmente o mesmo campo rímico arcaico (vogais nasais posteriores); divergem apenas na nomenclatura, como já visto em 勁 (grupo 11 vs 耕).
 
-**Variante 咏 / 詠 — qual é a primária**: O Shuowen lista 詠 como primária e 咏 como variante 或體 ("forma alternativa"). Mas a única atestação pré-Han do xiaoxue é 咏作日戊尊 (bronze Zhou inicial), que usa a forma 咏. Isto sugere que, historicamente, a forma com 口 pode ter sido anterior, e a forma com 言 (詠) foi padronização posterior. hanziyuan também regista 咏 como simplificação — na verdade, "simplificação" é termo impreciso: 咏 é uma das duas formas originais co-existentes.
+**Variante 咏 / 詠 — qual é a primária**: O Shuowen lista 詠 como primária e 咏 como variante 或體 ("forma alternativa"). Mas a única atestação pré-Han do xiaoxue é 咏作日戊尊 (bronze Zhou inicial), que usa a forma 咏. Isto sugere que, historicamente, a forma com 口 pode ter sido anterior, e a forma com 言 (詠) foi padronização posterior. hanziyuan também registra 咏 como simplificação — na verdade, "simplificação" é termo impreciso: 咏 é uma das duas formas originais co-existentes.
 
 **Etimologia transparente**: Diferente de muitos caracteres em que o fonético é foneticamente opaco (ex: 樁, 舂 vs zhuāng), aqui 永 é simultaneamente fonético e semanticamente ativo — "longo/prolongado" é componente do significado de "cantar" no próprio Shuowen. Esta convergência (诗 "cantar = prolongar a palavra") torna o caractere um caso didático de composição fonossemântica com semântica participativa.
 
