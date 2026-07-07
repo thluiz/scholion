@@ -68,7 +68,7 @@ Atestação (xiaoxue): bronze Zhou tardio (簡簋蓋), stone drum Spring-Autumn/
 
 簡，竹爲之。牘，木爲之。牒札其通語也。釋器曰：簡謂之畢。學記云呻其佔畢是也。等者，齊簡也。編者，次簡也。
 
-Tradução: "簡 é feito de bambu. 牘 é feito de madeira. 牒 e 札 são termos genéricos [para ambos]. O *Shìqì* [secção do *Ěryǎ*] diz: '簡 também é chamado 畢.' O *Xuéjì* [Liji, Registo da Aprendizagem] diz: '呻其佔畢' [recitar ruidosamente as tabuinhas] é isto. 等 é 'tiras igualadas/alinhadas'; 編 é 'tiras ordenadas/encadeadas'."
+Tradução: "簡 é feito de bambu. 牘 é feito de madeira. 牒 e 札 são termos genéricos [para ambos]. O *Shìqì* [seção do *Ěryǎ*] diz: '簡 também é chamado 畢.' O *Xuéjì* [Liji, Registo da Aprendizagem] diz: '呻其佔畢' [recitar ruidosamente as tabuinhas] é isto. 等 é 'tiras igualadas/alinhadas'; 編 é 'tiras ordenadas/encadeadas'."
 
 A distinção material é importante: 簡 (bambu) / 牘 (madeira) / 牒-札 (genéricos). Antes do papel, a tira de bambu era o suporte principal da escrita administrativa e filosófica. Os "bambus de Guodian" (郭店楚簡), "Shuihudi" (睡虎地秦簡) etc. citados no xiaoxue yanbian são exatamente coleções de 簡 escavados.
 
