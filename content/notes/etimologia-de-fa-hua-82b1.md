@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 花 (Fa — Huā / faa1)"
 date: '2026-04-24T12:53:16+01:00'
-summary: "Análise etimológica de 花 (Huā / faa1), 'flor; florir'. 花 não consta do Shuowen Jiezi original — é forma popular pós-Han, cuja entrada está sob 華 (forma clássica). 段注 de Duan Yucai regista explicitamente: 俗作花。其字起於北朝 ('a forma popular é 花; o carácter surge nas Dinastias do Norte', séc. V–VI). Composição de 花: 艸 (planta) + 化 (fonético, huà). Sem atestação pré-Han. No Hai Tong, aparece em Mui Fa Jong 梅花樁 (estacas da flor de ameixa). Sete fontes consultadas."
+summary: "Análise etimológica de 花 (Huā / faa1), 'flor; florir'. 花 não consta do Shuowen Jiezi original — é forma popular pós-Han, cuja entrada está sob 華 (forma clássica). 段注 de Duan Yucai registra explicitamente: 俗作花。其字起於北朝 ('a forma popular é 花; o carácter surge nas Dinastias do Norte', séc. V–VI). Composição de 花: 艸 (planta) + 化 (fonético, huà). Sem atestação pré-Han. No Hai Tong, aparece em Mui Fa Jong 梅花樁 (estacas da flor de ameixa). Sete fontes consultadas."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 category: etymology
@@ -70,9 +70,9 @@ Forma clássica relacionada: 華 (U+83EF)
 Componentes: 艸/艹 cǎo (planta) + 化 huà (fonético, "transformar")
 Significado original: flor
 Shuowen (hanziyuan): (vazio — hanziyuan não fornece entrada Shuowen para 花)
-Formas atestadas: (não registadas em oracle/bronze/seal no hanziyuan — caractere pós-Han)
+Formas atestadas: (não registradas em oracle/bronze/seal no hanziyuan — caractere pós-Han)
 
-hanziyuan regista três codepoints relacionados (花 82B1, 蘤 8624, 菕 83D5), todos referindo ao mesmo lexema.
+hanziyuan registra três codepoints relacionados (花 82B1, 蘤 8624, 菕 83D5), todos referindo ao mesmo lexema.
 
 #### Shuowen Jiezi (via zdic.net — 花 não consta, entrada sob 華)
 
@@ -114,10 +114,10 @@ A ausência total de reconstruções em Old Chinese pré-Han é consistente com 
 
 **Ausência em fontes paleográficas**: hanziyuan registra origem, mas sem formas oracle/bronze/seal; xiaoxue yanbian retorna zero; xiaoxue shangguyin retorna vazio para Old Chinese. Todas as fontes convergem em confirmar a origem pós-Han de 花. Esta é uma das raras situações onde várias fontes concordam completamente sobre a ausência de dados.
 
-**Mudança de grupo rímico entre Western Han e Eastern Han**: O xiaoxue regista 花 no grupo 魚 (yú) durante o Han Ocidental e no grupo 歌 (gē) durante o Han Oriental. Esta mudança reflete a reorganização do sistema rímico durante a transição entre as duas Han e o facto de 花 ser leitura derivada de 華 (que migrou entre estes grupos).
+**Mudança de grupo rímico entre Western Han e Eastern Han**: O xiaoxue registra 花 no grupo 魚 (yú) durante o Han Ocidental e no grupo 歌 (gē) durante o Han Oriental. Esta mudança reflete a reorganização do sistema rímico durante a transição entre as duas Han e o fato de 花 ser leitura derivada de 華 (que migrou entre estes grupos).
 
 **Composição fonossemântica transparente**: 艸 (planta) + 化 (huà, "transformar/florir"). A fonética 化 → 花 é regular no Middle Chinese (huà → huā por mudança tonal 去→平). 化 é também semanticamente ativo — "transformar" conecta-se à flor como momento de mudança da planta. Esta transparência fonossemântica é típica de caracteres pós-Han criados para aliviar ambiguidade gráfica do 華 clássico.
 
 **Atestação semântica rica (20 acepções)**: Apesar da origem tardia, 花 acumulou vastíssima polissemia desde Tang — botânica, ornamentacional, figurativa (mulher, pináculo, essência), verbal (gastar), patológica (varíola). A riqueza reflete o uso central do carácter na literatura poética e no vocabulário quotidiano chinês medieval-moderno.
 
-**Leitura "wěi" mencionada no MDBG**: MDBG regista "also pr. [wei3]" como leitura alternativa — provavelmente dialetal ou arcaica associada à variante 蘤. Não é leitura do mandarim padrão.
+**Leitura "wěi" mencionada no MDBG**: MDBG registra "also pr. [wei3]" como leitura alternativa — provavelmente dialetal ou arcaica associada à variante 蘤. Não é leitura do mandarim padrão.
