@@ -70,7 +70,7 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 0 · Liushutong 0 — ausência t
 
 ### Evolução de formas (xiaoxue yanbian)
 
-O xiaoxue não regista formas históricas para 勣 (0 formas no corpus de evolução de caracteres). Caractere ausente de osso oracular, bronze, selo e clerical. A forma canónica 績 (fiar) é que tem tradição epigráfica.
+O xiaoxue não registra formas históricas para 勣 (0 formas no corpus de evolução de caracteres). Caractere ausente de osso oracular, bronze, selo e clerical. A forma canónica 績 (fiar) é que tem tradição epigráfica.
 
 ### Fonologia (xiaoxue shangguyin)
 
@@ -94,7 +94,7 @@ O xiaoxue não regista formas históricas para 勣 (0 formas no corpus de evolu�
 - **Consenso como variante de 績**: todas as fontes (MDBG, CantoDict, chardb, hanziyuan) convergem — 勣 é variante gráfica de 績. Sem divergência interpretativa.
 - **Deslocamento de radical semântico**: a forma canónica 績 tem 糸 (fio, seda) como radical semântico — origem no sentido de "fiar, tecer continuamente" (Shuowen: 緝也). A variante 勣 substitui 糸 por 力 (força), deslocando a metáfora: o mérito não é mais o fio tecido, mas o esforço/força empregada. Esta reanálise do radical é significativa.
 - **Tom no mandarim**: chardb lista ㄐㄧˋ (jì, tom 4); xiaoxue lista ㄐㄧ (jī, tom 1). MDBG e CantoDict dão jì (tom 4). A divergência do xiaoxue pode refletir reconstrução a partir do 入聲 medieval (tom de entrada) sem normalização moderna.
-- **Fanqie 則歷切**: todas as fontes que registam fonologia convergem neste fanqie — iniciais 精 (ts-), rima 錫 (xī), entrando (入聲), grau IV. Reconstrução OC: ts- + -iek.
+- **Fanqie 則歷切**: todas as fontes que registram fonologia convergem neste fanqie — iniciais 精 (ts-), rima 錫 (xī), entrando (入聲), grau IV. Reconstrução OC: ts- + -iek.
 - **Reconstrução OC lacunar**: apenas Wang Li (xiaoxue) oferece reconstrução arcaica; Karlgren, Dong Tonghe, Zhou Fagao, Li Fanggui e Zhengzhang não constam — o caractere não é suficientemente antigo para merecer reconstrução sistemática.
 - **Sentido "fiar" preservado no CantoDict**: entre as fontes, apenas o CantoDict preserva o sentido de "fiar (cânhamo etc.)" como def. 1 — resquício do sentido original de 績 (緝也, fiar continuamente). chardb, MDBG e hanziyuan dão apenas o sentido derivado de "mérito, realização".
 </content>
