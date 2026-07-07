@@ -79,7 +79,7 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 0 · Liushutong 0 — ausência c
 
 ### Evolução de formas (xiaoxue yanbian)
 
-O xiaoxue não regista formas históricas para 鑰 (0 formas no corpus de evolução de caracteres). Caractere ausente de osso oracular, bronze, selo e clerical. Atestação epigráfica muito tardia — provavelmente Tang ou posterior.
+O xiaoxue não registra formas históricas para 鑰 (0 formas no corpus de evolução de caracteres). Caractere ausente de osso oracular, bronze, selo e clerical. Atestação epigráfica muito tardia — provavelmente Tang ou posterior.
 
 ### Fonologia (xiaoxue shangguyin)
 
@@ -99,11 +99,11 @@ O xiaoxue não regista formas históricas para 鑰 (0 formas no corpus de evolu�
 
 ### Divergências entre fontes
 
-- **Ausência no Shuowen**: 鑰 não tem entrada no Shuowen original nem no 說文新附. Caractere pós-Han, provavelmente Tang ou posterior. O 𨳲 (def. 1 no chardb) é a forma filologicamente registada para o ferrolho de porta.
+- **Ausência no Shuowen**: 鑰 não tem entrada no Shuowen original nem no 說文新附. Caractere pós-Han, provavelmente Tang ou posterior. O 𨳲 (def. 1 no chardb) é a forma filologicamente registrada para o ferrolho de porta.
 - **Silêncio arqueológico**: hanziyuan registra 0 em todos os corpora (oracle, bronze, seal, liushutong). xiaoxue registra 0 formas. Caractere inteiramente pós-imperial na documentação epigráfica disponível.
 - **Polifonia yào / yuè**: as duas leituras correspondem a dois períodos fonológicos. 以灼切 (chinês medieval) conduz a yào (tom 4) ou yuè (tom 4, conforme dialeto). yào é dominante no mandarim continental; yuè aparece em leituras de Taiwan e em textos literários.
 - **Reconstrução OC lacunar**: apenas Wang Li oferece reconstrução (*ʎ·ǐauk, grupo 藥). Karlgren, Dong Tonghe, Zhou Fagao, Li Fanggui e Zhengzhang não reconstroem — característico de caracteres tardios.
-- **Simplificação por substituição fonética**: 龠 (25 traços, muito complexo) foi substituído por 月 (4 traços) no chinês simplificado (钥). Ambos têm leitura yuè — foi uma substituição fonética pura, não semântica. Sears regista esta regra (A287).
+- **Simplificação por substituição fonética**: 龠 (25 traços, muito complexo) foi substituído por 月 (4 traços) no chinês simplificado (钥). Ambos têm leitura yuè — foi uma substituição fonética pura, não semântica. Sears registra esta regra (A287).
 - **Metáfora 要害 (ponto crucial)**: chardb def. 7 preserva uso metafórico — a chave como ponto crucial, "elo de acesso". Preservado no chinês moderno (关键 guānjiàn — literalmente "barra-chave", origem do uso figurado).
 - **Conexão com 龠 (flauta)**: a escolha de 龠 como fonético é curiosa — 龠 é uma flauta-de-pan ritual, instrumento de sopro com tubos de bambu. A associação gráfica metafórica: a chave também é um tubo alongado de metal. Etimologia folclórica, mas a coincidência sonoro-pictórica é sugestiva.
 - **Arco semântico**: ferrolho (def. 1) → fechadura (def. 2) → chave (def. 3) → trancar (def. 4) → entrar/guardar (def. 5-6) → ponto crucial (def. 7) → sobrenome (def. 8). Arco coerente do objeto para o verbo e para a metonímia abstrata.
