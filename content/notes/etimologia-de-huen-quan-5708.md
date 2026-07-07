@@ -76,7 +76,7 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 1 · atestação Warring States e
 
 Tradução: "(圈) é 'cerca para criar animais.' 畜 deve ser 嘼, substituído por erro de transcrição. 閑 é 闌 [cerca, grade]. A seção 牛 diz: '牢 e 閑 são o cercado para criar bovinos e equinos.' Portanto, 牢 e 圈 são termos intercambiáveis. De 囗, com 卷 como fonético. Consultando o *Gōngyáng Zhuàn*, ano 11 do duque Wén: '楚子伐圈 — o Conde de Chu atacou 圈 [lugar].' O comentário fonético diz: '圈, no Shuowen escreve-se 𡈕.' E o *Jíyùn*, rima 25 Yuan, diz: '圈 e 𡈕 são o mesmo — cerca para criar animais.' O *Lèipiān* lista 圈 e 𡈕 separadamente, ambos com o mesmo significado. Suspeito que o Shuowen original escrevia 𡈕, sendo alterado pelos pós-homens. Fanqie: 渠篆切. Grupo rímico 14."
 
-Esta é outra intervenção textual característica de 段玉裁: a forma recebida do Shuowen (圈) pode ser substituição tardia do original (𡈕). Convergência com casos de 派 e outros onde Duan identifica interpolações.
+Esta é outra intervenção textual caractereística de 段玉裁: a forma recebida do Shuowen (圈) pode ser substituição tardia do original (𡈕). Convergência com casos de 派 e outros onde Duan identifica interpolações.
 
 #### Evolução de formas ([xiaoxue yanbian](https://xiaoxue.iis.sinica.edu.tw/yanbian?char=圈))
 
@@ -125,4 +125,4 @@ Isto é tonogênese clássica documentada — o lexema raiz produz leituras dife
 
 **Ausência pré-Warring States**: hanziyuan e xiaoxue convergem em zero oracle bones e zero bronzes. Primeira atestação é bambu Chu Warring States (包2.254). Consistente com origem tardia num vocabulário pastoril/pecuário que só se fixou no registo escrito tardiamente.
 
-**Composição fonossemântica — 卷 como fonético e semântico**: 卷 (juǎn, "enrolar") é não só fonético mas também semanticamente ativo — 卷 evoca curvatura/enrolamento, o que conecta ao sentido "circular" de 圈. Esta convergência fonossemântica é característica das fontes Han tardias (semelhante ao que se vê em 詠=言+永).
+**Composição fonossemântica — 卷 como fonético e semântico**: 卷 (juǎn, "enrolar") é não só fonético mas também semanticamente ativo — 卷 evoca curvatura/enrolamento, o que conecta ao sentido "circular" de 圈. Esta convergência fonossemântica é caractereística das fontes Han tardias (semelhante ao que se vê em 詠=言+永).
