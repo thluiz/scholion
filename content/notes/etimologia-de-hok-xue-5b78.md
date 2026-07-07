@@ -45,7 +45,7 @@ Aparece no Hai Tong de Moy Yat em hau hok 後學 (autorrefêrencia humilde do di
 **chardb [Academia Sinica](https://chardb.iis.sinica.edu.tw/search.jsp?stype=1&q=學)**:
 1. 學習；接受教育 (estudar; receber educação)
 2. 知覺；覺悟 (consciência; iluminação/despertar)
-3. 講學；互相討論 (discurso académico; discussão mútua)
+3. 講學；互相討論 (discurso acadêmico; discussão mútua)
 4. 注釋；箋疏 (anotação; comentário exegético)
 5. 模仿 (imitar) ★
 6. 學校 (escola)
@@ -94,7 +94,7 @@ Tradução: "斆 e 覺 são **曡韵** [aliteração rímica — método de glos
 | Late Warring States, Jin 戰國晚期·晉 | Bronze 金文 | 中山王鼎 (Zhōngshān wáng dǐng — vaso *ding* do Rei de Zhongshan) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 郭.老乙.3 (Guōdiàn *Lǎozǐ yǐ* 3 — Guodian *Laozi* B) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 郭.尊.5 (Guōdiàn *Zūn dé yì* 5 — *Honra a Virtude e a Equidade*) |
-| Han | Seal 篆書 | 說文‧教部 (Shuōwén, secção 教) |
+| Han | Seal 篆書 | 說文‧教部 (Shuōwén, seção 教) |
 | Han | Seal 篆書 | 說文篆文 (Shuōwén zhuànwén — forma de selo de 學) |
 | Qin 秦 | Clerical 隸書 | 睡虎地簡16.112 (Shuìhǔdì jiǎn 16.112) |
 | Western Han 西漢 | Clerical 隸書 | 老子甲59 (Lǎozǐ jiǎ 59 — Mawangdui Laozi A) |
@@ -142,9 +142,9 @@ A imagem pictográfica é então: **mãos adultas sustentando símbolos transmit
 
 **Sentido "覺悟" (despertar/iluminar-se) — Shuowen**: O Shuowen define 學 como 覺悟 (despertar do entendimento). Esta é leitura forte: aprender não é acumular dados mas **ser despertado** para o que estava velado. 段玉裁 cita o *Xueji* (《學記》, capítulo do *Liji* dedicado ao aprender): 學然後知不足 ("apenas após estudar é que se conhece a própria insuficiência"). Aprender é, primariamente, **descobrir o que ainda não se sabe** — gesto auto-reflexivo. O sentido moderno de "aprender uma matéria/disciplina" é derivado.
 
-**Acepção 5 — 模仿 (imitar)**: chardb regista 學 = "imitar". Esta é leitura crucial para o vocabulário marcial chinês: 學拳 (aprender punho) = **imitar movimentos transmitidos**. O aprender marcial não é aquisição de conceitos mas **reprodução fiel do gesto do mestre**. Etimologicamente coerente: a criança no joelho do adulto reproduz os símbolos. Esta é a tonalidade que distingue 學 de 知 (saber/conhecer abstratamente) e de 思 (pensar/refletir).
+**Acepção 5 — 模仿 (imitar)**: chardb registra 學 = "imitar". Esta é leitura crucial para o vocabulário marcial chinês: 學拳 (aprender punho) = **imitar movimentos transmitidos**. O aprender marcial não é aquisição de conceitos mas **reprodução fiel do gesto do mestre**. Etimologicamente coerente: a criança no joelho do adulto reproduz os símbolos. Esta é a tonalidade que distingue 學 de 知 (saber/conhecer abstratamente) e de 思 (pensar/refletir).
 
-**Acepção 13 — "ensinar" (uso clássico, hoje obsoleto)**: chardb regista que 學 também significava "ensinar" em chinês clássico — preservando a unidade primitiva 教/學. Este uso desapareceu no chinês moderno mas confirma a tese filológica.
+**Acepção 13 — "ensinar" (uso clássico, hoje obsoleto)**: chardb registra que 學 também significava "ensinar" em chinês clássico — preservando a unidade primitiva 教/學. Este uso desapareceu no chinês moderno mas confirma a tese filológica.
 
 **Atestação Shang abundante — 4 oracle bones + bronzes**: 學/教 era termo Shang em uso constante, frequentemente em contextos cultuais e administrativos. O 大盂鼎 (Western Zhou early — vaso ritual de Yu) tem inscrição filosófica importante mencionando o aprender. 學 sempre foi caractere central no vocabulário institucional chinês.
 
