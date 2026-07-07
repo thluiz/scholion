@@ -62,7 +62,7 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 0 · Liushutong 0.
 
 ### Shuowen Jiezi completo (shuowen.org)
 
-**說文**: (não retornou dados — 崎 não consta como entrada própria no *Shuowen Jiezi*. O *Shuowen* regista a forma arcaica 㩻, definida como "㩻，䧢也。从危支聲。去其切" — "㩻: desigual/inclinado; de 危 *wēi* com 支 *zhī* como fonético; fanqie 去其".)
+**說文**: (não retornou dados — 崎 não consta como entrada própria no *Shuowen Jiezi*. O *Shuowen* registra a forma arcaica 㩻, definida como "㩻，䧢也。从危支聲。去其切" — "㩻: desigual/inclinado; de 危 *wēi* com 支 *zhī* como fonético; fanqie 去其".)
 
 **段注 Duan Yucai**: (não retornou dados — ausente no *Shuowen*, não há comentário direto de Duan sobre 崎.)
 
@@ -96,7 +96,7 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 0 · Liushutong 0.
 - **Presença no Shuowen**: hanziyuan e shuowen.org não retornam entrada para 崎 (0 formas de selo). Kangxi e CUHK reconduzem ao étimo 㩻/𢼨 (de 危+攴/支), afirmando "今文作崎" — 崎 é grafia pós-Shuowen substituindo 㩻 arcaico.
 - **Decomposição fonética**: hanziyuan lê 崎 como 山 + fonético 奇. Tradição Shuowen (Kangxi) reconstrói a raiz antiga como 危 + fonético 攴 (em 𢼨) ou 支 (em 㩻). Duas famílias diferentes: moderna parte de 奇, clássica parte de 危.
 - **Significado primário**: MDBG/CantoDict reduzem a "mountainous"; chardb abre o leque (inclinação, insegurança, topônimo). Kangxi/CUHK dão 險也 (perigoso/escarpado) como núcleo clássico; Yupian desloca para 崎嶇, 山路不平 — o eixo moderno.
-- **Leituras**: shangguyin regista 去奇 (inicial 溪, rima 支) e 渠希 como variante. chardb amplia com qi3, yi1, ci2, ci3 — ecos dialetais ou leituras variantes não documentadas em outras fontes.
+- **Leituras**: shangguyin registra 去奇 (inicial 溪, rima 支) e 渠希 como variante. chardb amplia com qi3, yi1, ci2, ci3 — ecos dialetais ou leituras variantes não documentadas em outras fontes.
 - **Cantonês**: CantoDict dá kei1 padrão; CUHK distingue kei¹ para sentido comum (崎嶇) e kei⁴ para topônimos como 長崎 (Nagasaki).
 - **Oracle/Bronze/Seal**: hanziyuan 0 em todas as fases antigas; xiaoxue 1 clerical Han Oriental. Consenso: caractere tardio.
 - **Tom no xiaoxue**: ficha grafa pinyin "qǐ" (tom 3) mas zhuyin "ㄑㄧˊ" (tom 2). Discrepância interna; todas outras fontes convergem em qí tom 2.
