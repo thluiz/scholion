@@ -79,7 +79,7 @@ Esta é correção filológica importante — 段玉裁 verifica que "carne" (�
 
 | Período | Script | Fonte/Artefato |
 |---------|--------|----------------|
-| Han | Seal 篆書 | 說文‧手部 (Shuōwén, secção 手) |
+| Han | Seal 篆書 | 說文‧手部 (Shuōwén, seção 手) |
 
 **Apenas uma forma listada** — atestação extremamente magra, comparável aos caracteres mais tardios do vocabulário técnico (cf. 技, 術 com igualmente atestação Han pobre).
 
@@ -120,7 +120,7 @@ Esta é correção filológica importante — 段玉裁 verifica que "carne" (�
 
 **Componente fonético 臿 com reforço semântico**: 臿 (chā) significa "almofariz/pá com pilão" — instrumento de inserção/percussão. Como em 技 (扌+支 — mão+galho-com-mão), 插 (扌+臿 — mão+pá-com-pilão) tem **redundância semântica entre componente semântico e fonético**: ambos remetem para o gesto manual de inserir/cravar. Esta dupla codificação é coerente com o sentido "espetar para dentro".
 
-**Acepção 3 — 栽植 (plantar)**: chardb regista que 插 também significa "plantar mudas" — gesto de **inserir muda no solo**. Esta acepção é coerente com o sentido nuclear: plantar é uma forma especial de inserção. Compostos modernos como 插秧 (chā yāng — plantar arroz, tradicionalmente em terra alagada) preservam este uso.
+**Acepção 3 — 栽植 (plantar)**: chardb registra que 插 também significa "plantar mudas" — gesto de **inserir muda no solo**. Esta acepção é coerente com o sentido nuclear: plantar é uma forma especial de inserção. Compostos modernos como 插秧 (chā yāng — plantar arroz, tradicionalmente em terra alagada) preservam este uso.
 
 **Acepção 5 — variante de 鍤 (pá/enxada)**: Por extensão ferramental, 插 também designa o instrumento de inserção (pá, enxada). 鍤 (chā) é cunhagem posterior com 金 (metal) para fixar especificamente este sentido instrumental.
 
