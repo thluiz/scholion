@@ -66,13 +66,13 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 1
 
 (技)巧也。工部曰。巧者、技也。二篆爲轉注。古多叚伎爲技能字。人部曰。伎、與也。从手。支聲。渠綺切。十六部。
 
-Tradução: "(技) é perícia. A secção 工 [trabalho/artesanato] diz: '巧 [destreza] é 技 [técnica].' Os dois caracteres em escrita-selo formam 轉注 [glosa mútua/recursiva]. Na antiguidade, frequentemente emprestava-se 伎 para [significar] habilidade técnica. A secção 人 diz: '伎 significa dar/oferecer.' De 手; 支 fonético. Fanqie: 渠綺切. Grupo rímico 16."
+Tradução: "(技) é perícia. A seção 工 [trabalho/artesanato] diz: '巧 [destreza] é 技 [técnica].' Os dois caracteres em escrita-selo formam 轉注 [glosa mútua/recursiva]. Na antiguidade, frequentemente emprestava-se 伎 para [significar] habilidade técnica. A seção 人 diz: '伎 significa dar/oferecer.' De 手; 支 fonético. Fanqie: 渠綺切. Grupo rímico 16."
 
 #### Evolução de formas ([xiaoxue yanbian](https://xiaoxue.iis.sinica.edu.tw/yanbian?char=技))
 
 | Período | Script | Fonte/Artefato |
 |---------|--------|----------------|
-| Han | Seal 篆書 | 說文‧手部 (Shuōwén, secção 手) |
+| Han | Seal 篆書 | 說文‧手部 (Shuōwén, seção 手) |
 | Han 漢 | Clerical 隸書 | 漢印徵 (Hàn yìn zhēng — selos Han documentados) |
 
 **Shuowen (xiaoxue inline)**: 《說文》：「技，巧也。从手，支聲。」
@@ -99,7 +99,7 @@ Tradução: "(技) é perícia. A secção 工 [trabalho/artesanato] diz: '巧 [
 
 **Atestação só Han — sem oracle, sem bronze, sem Warring States**: 技 é caractere notavelmente tardio. xiaoxue só lista duas formas, ambas Han: o selo do Shuowen e os selos 漢印徵. Nem sequer aparece em bambu Warring States, ao contrário de 術 (atestado a partir do Qin tardio). Esta evidência sugere que **技 surge na escrita estabilizada Han**, possivelmente como variante gráfica de 伎 (que tinha precedência clássica para o sentido "habilidade").
 
-**轉注 — glosa mútua entre 技 e 巧**: 段玉裁 nota que 技 e 巧 funcionam como glossas circulares (轉注 zhuǎn zhù — categoria das *Liushu* [Seis Tipos] do princípio de formação dos caracteres). Shuowen secção 工: 巧者、技也. Shuowen secção 手: 技，巧也. Não há etimologia base — são pares lexicais que se definem mutuamente. Implicação: 技 não tem origem semântica autónoma rastreável em significado mais primário; é técnica entendida como destreza, e destreza entendida como técnica.
+**轉注 — glosa mútua entre 技 e 巧**: 段玉裁 nota que 技 e 巧 funcionam como glossas circulares (轉注 zhuǎn zhù — categoria das *Liushu* [Seis Tipos] do princípio de formação dos caracteres). Shuowen seção 工: 巧者、技也. Shuowen seção 手: 技，巧也. Não há etimologia base — são pares lexicais que se definem mutuamente. Implicação: 技 não tem origem semântica autónoma rastreável em significado mais primário; é técnica entendida como destreza, e destreza entendida como técnica.
 
 **Equivalência clássica 技 ↔ 伎**: 段玉裁 documenta que na antiguidade 伎 (人 + 支 — pessoa-talentosa) era frequentemente emprestado para 技. 伎 e 技 partilham o componente fonético 支 e divergem só no determinador semântico (人/扌). São casal lexical com funções alternantes. 伎 sobreviveu no chinês moderno em contextos com conotação ambivalente — 伎倆 (jì liǎng — artifício); 技 ficou com o sentido neutro/positivo de "técnica".
 
