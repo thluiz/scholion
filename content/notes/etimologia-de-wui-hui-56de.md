@@ -36,7 +36,7 @@ Variantes: 囘 (forma guwen do Shuowen) · 迴 (com 辶) · 廻 · 逥 · 囬
 
 #### Definições
 
-**MDBG**: to circle; to go back; to turn around; to answer; to return; to revolve; grupo étnico Hui (muçulmanos chineses); classificador de tempos; classificador de atos de peça ou secções/capítulos de livro clássico
+**MDBG**: to circle; to go back; to turn around; to answer; to return; to revolve; grupo étnico Hui (muçulmanos chineses); classificador de tempos; classificador de atos de peça ou seções/capítulos de livro clássico
 
 **CantoDict**: wui4 (tom 4, baixo ascendente)
 
@@ -74,7 +74,7 @@ Formas atestadas (xiaoxue): oracle bones Shang (4 atestações — 甲903, 甲33
 
 (回)轉也。淵，回水也。故顏回字子淵。毛詩傳曰：回，邪也。言回爲𠆎之假借也。又曰：回，違也。亦謂假借也。𠆎，衺也。見交部。从囗，中象回轉之形。中當作口。外爲大囗，内爲小口，皆回轉之形也。如天體在外左旋，日月五星在内右旋是也。户恢切。十五部。(囘)古文。古文象一气回轉之形。
 
-Tradução: "(回) é 'girar' [轉]. 淵 é 'água que gira'; por isso Yán Huí [discípulo de Confúcio] tem o nome de cortesia 子淵 [Filho do Remoinho]. O comentário de Máo Hēng ao *Shījīng* diz: '回 é iníquo [邪].' Isto é, 回 é empréstimo fonético para 𠆎. Também diz: '回 é contrariar [違].' Também é empréstimo. 𠆎 é 'oblíquo'. Ver secção 交. De 囗, com o interior representando a forma do girar. '中' deveria ser '口'. O externo é o grande 囗, o interno é o pequeno 口 — ambos são formas do girar. Como o céu/corpo celeste gira no exterior para a esquerda, o sol-lua-cinco planetas giram no interior para a direita. Fanqie: 戶恢切. Grupo rímico 15. (囘) é a forma antiga [guwen]. A forma antiga representa um único sopro [氣] girando."
+Tradução: "(回) é 'girar' [轉]. 淵 é 'água que gira'; por isso Yán Huí [discípulo de Confúcio] tem o nome de cortesia 子淵 [Filho do Remoinho]. O comentário de Máo Hēng ao *Shījīng* diz: '回 é iníquo [邪].' Isto é, 回 é empréstimo fonético para 𠆎. Também diz: '回 é contrariar [違].' Também é empréstimo. 𠆎 é 'oblíquo'. Ver seção 交. De 囗, com o interior representando a forma do girar. '中' deveria ser '口'. O externo é o grande 囗, o interno é o pequeno 口 — ambos são formas do girar. Como o céu/corpo celeste gira no exterior para a esquerda, o sol-lua-cinco planetas giram no interior para a direita. Fanqie: 戶恢切. Grupo rímico 15. (囘) é a forma antiga [guwen]. A forma antiga representa um único sopro [氣] girando."
 
 A interpretação de 段玉裁 do pictograma como **representação cosmológica do giro duplo** (macrocósmico + microcósmico, em direções opostas) é particularmente rica. O caractere visualiza a rotação celeste hierárquica, com o invólucro maior (céu) girando num sentido e os astros interiores girando no sentido oposto. Esta leitura conecta o caractere 回 à astrologia Han.
 
@@ -90,7 +90,7 @@ A interpretação de 段玉裁 do pictograma como **representação cosmológica
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 新甲3.294 / 零.334 |
 | Warring States, Qin 戰國·秦 | Curse text 詛楚文 | 詛楚文 (Zǔ Chǔ wén — Texto da Maldição contra Chu) |
 | — | Ancient script 古文 | 說文古文 — forma 囘 |
-| Han | Seal 篆書 | 說文·囗部 (Shuōwén, secção 囗) |
+| Han | Seal 篆書 | 說文·囗部 (Shuōwén, seção 囗) |
 | Qin 秦 | Clerical 隸書 | 睡虎地簡18.149 |
 | Western Han 西漢 | Clerical 隸書 | 春秋事語83 (Chūnqiū shìyǔ 83) |
 | Eastern Han 東漢 | Clerical 隸書 | 熹·詩·校記 (Xī — Shī — Jiàojì) |
@@ -123,7 +123,7 @@ Quatro atestações Shang + bronze Zhou + bambu Warring States confirmam antigui
 
 **Correção textual — 中 → 口**: 段玉裁 aponta: 中當作口 ("中 deveria ser 口"). O Shuowen recebido escreve 中 象回轉形 ("o interior representa a forma do girar"); Duan corrige para 口, indicando que o componente interno é o pictograma de 口 (pequena boca/recinto), não o carácter abstrato 中 (centro). Correção filológica menor mas precisa.
 
-**Empréstimos fonéticos documentados**: 段注 regista que 回 funcionava em textos antigos como empréstimo para 𠆎 (oblíquo/iníquo) e para 違 (contrariar). As acepções 4, 5, 6 do chardb (violar, confundir, iníquo) vêm deste uso homofónico, não do sentido literal "girar". Polissemia por paronomásia.
+**Empréstimos fonéticos documentados**: 段注 registra que 回 funcionava em textos antigos como empréstimo para 𠆎 (oblíquo/iníquo) e para 違 (contrariar). As acepções 4, 5, 6 do chardb (violar, confundir, iníquo) vêm deste uso homofónico, não do sentido literal "girar". Polissemia por paronomásia.
 
 **Duas formas no Shuowen — 回 (corrente) / 囘 (guwen)**: A forma guwen 囘 é descrita como "representação de um sopro [氣] girando". Sugere analogia antiga: o giro de 回 era conceitualizado como movimento pneumático (espiral de ar/vapor). Esta imagem conecta 回 à terminologia cosmológica chinesa tradicional (qi em espiral).
 
