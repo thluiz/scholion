@@ -59,7 +59,7 @@ Formas atestadas: Oracle 12 · Bronze 0 · Seal 1 · Liushutong adicionais
 
 (鬥)㒳士相對，兵杖在後，象鬥之形。按此非許語也。許之分部次弟，自云據形系聯。𠃨𠩀在前部，故受之以鬥。然則當云爭也。兩𠃨相對象形，謂兩人手持相對也。乃云兩士相對，兵杖在後，與前部説自相戾，且文從兩手，非兩士也。
 
-Tradução: "(鬥) 'dois homens opostos, armas atrás, pictograma da forma de lutar.' [Duan comenta:] Note-se que esta não é formulação de Xu [Shen]. Xu divide em seções por associação formal, como ele próprio declara; 𠃨 e 𠩀 estão nas seções anteriores, daí a continuação com 鬥. Nesse caso, deveria dizer-se 爭也 ['contender']. 兩𠃨相對象形 — 'duas mãos opostas, pictograma' — significa 'duas pessoas segurando-se mutuamente'. Mas [a formulação recebida] diz 'dois homens opostos, armas atrás', o que contradiz a própria exposição das seções anteriores, e além disso o carácter compõe-se de **duas mãos, não de dois homens [armados]**."
+Tradução: "(鬥) 'dois homens opostos, armas atrás, pictograma da forma de lutar.' [Duan comenta:] Note-se que esta não é formulação de Xu [Shen]. Xu divide em seções por associação formal, como ele próprio declara; 𠃨 e 𠩀 estão nas seções anteriores, daí a continuação com 鬥. Nesse caso, deveria dizer-se 爭也 ['contender']. 兩𠃨相對象形 — 'duas mãos opostas, pictograma' — significa 'duas pessoas segurando-se mutuamente'. Mas [a formulação recebida] diz 'dois homens opostos, armas atrás', o que contradiz a própria exposição das seções anteriores, e além disso o caractere compõe-se de **duas mãos, não de dois homens [armados]**."
 
 Duan Yucai, portanto, rejeita a definição recebida do Shuowen como interpolação tardia não-autêntica. A correção proposta: 鬥 é "contender" (爭), composto de duas mãos opostas — não de dois soldados armados.
 
@@ -98,7 +98,7 @@ A convergência entre 段玉裁 (base filológica) e Luo Zhenyu (base epigráfic
 
 **Leitura Shuowen "dois homens armados" refutada por Duan e Luo**: Esta é a divergência central do caractere, e particularmente notável porque envolve três posições:
 1. Shuowen recebido (Han): 兩士相對，兵杖在後 — "dois guerreiros opostos, armas atrás"
-2. 段注 (Qing): rejeição filológica — o carácter é 兩手 (duas mãos), não 兩士 (dois homens); deveria dizer-se 爭 ("contender"), não 鬥 com armas
+2. 段注 (Qing): rejeição filológica — o caractere é 兩手 (duas mãos), não 兩士 (dois homens); deveria dizer-se 爭 ("contender"), não 鬥 com armas
 3. Luo Zhenyu (séc. XX, base epigráfica): confirmação de Duan pela evidência oracular — as formas pré-Qin mostram dois homens agarrando-se, sem qualquer arma visível
 
 A formulação recebida do Shuowen é provavelmente interpolação ou expansão especulativa; a forma primária é confronto corporal puro.
