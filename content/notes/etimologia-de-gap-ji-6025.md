@@ -77,7 +77,7 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 1 · atestação Qin-Han
 
 褊者、衣小也。故凡窄陿謂之褊。釋言曰。褊、急也。从心。及聲。居立切。七部。
 
-Tradução: "(㤂) é 褊. 褊 é roupa apertada. Por isso todo estreito/comprimido se chama 褊. O *Shìyán* [secção do *Ěryǎ*] diz: '褊 é urgente [急].' De 心, com 及 como fonético. Fanqie: 居立切. Grupo rímico 7."
+Tradução: "(㤂) é 褊. 褊 é roupa apertada. Por isso todo estreito/comprimido se chama 褊. O *Shìyán* [seção do *Ěryǎ*] diz: '褊 é urgente [急].' De 心, com 及 como fonético. Fanqie: 居立切. Grupo rímico 7."
 
 Esta é a etimologia canónica: a urgência é metáfora corporal/sensorial — o sentido de "apertado, comprimido" (como roupa justa) aplicado ao estado mental/temporal. A pressão interna (心) que não tem espaço é o que se chama 急.
 
@@ -85,7 +85,7 @@ Esta é a etimologia canónica: a urgência é metáfora corporal/sensorial — 
 
 | Período | Script | Fonte/Artefato |
 |---------|--------|----------------|
-| Han | Seal 篆書 | 說文·心部 (Shuōwén, secção 心) — forma 㤂 |
+| Han | Seal 篆書 | 說文·心部 (Shuōwén, seção 心) — forma 㤂 |
 | Qin 秦 | Clerical 隸書 | 睡虎地簡12.54 (Shuìhǔdì jiǎn 12.54) |
 | Western Han 西漢 | Clerical 隸書 | 相馬經1上 (Xiàngmǎ jīng 1 — "Clássico da Fisiognomonia Equina") |
 | Western Han 西漢 | Clerical 隸書 | 居延簡甲642A (Jūyán jiǎn jiǎ 642A) |
@@ -97,7 +97,7 @@ Esta é a etimologia canónica: a urgência é metáfora corporal/sensorial — 
 **Relação / comentário (xiaoxue)**:
 - 邵瑛《羣經正字》：「今經典作急，隸變。」 ("Shào Yīng no *Qúnjīng zhèngzì*: 'Nos clássicos atuais escreve-se 急; [isto é] mudança clerical.'")
 
-A observação de Shao Ying confirma: a forma corrente 急 resulta de 隸變 (simplificação clerical da Han), substituindo a forma original 㤂 do Shuowen. Mesmo fenómeno visto em 春 (萅→春), 退 (𢓴→退) e 穩 (variantes).
+A observação de Shao Ying confirma: a forma corrente 急 resulta de 隸變 (simplificação clerical da Han), substituindo a forma original 㤂 do Shuowen. Mesmo fenômeno visto em 春 (萅→春), 退 (𢓴→退) e 穩 (variantes).
 
 #### Fonologia ([xiaoxue shangguyin](https://xiaoxue.iis.sinica.edu.tw/shangguyin?char=急))
 
@@ -119,7 +119,7 @@ A observação de Shao Ying confirma: a forma corrente 急 resulta de 隸變 (si
 
 #### Divergências entre fontes
 
-**Forma Shuowen 㤂 vs forma corrente 急**: Como em vários outros casos (萅/春, 𢓴/退), a forma que o Shuowen regista como primária (㤂) foi substituída pela forma simplificada clerical (急). Shao Ying documenta explicitamente a mudança (隸變). A peça superior de 急 (彐/勹) é evolução cursiva de 及 — composição fonossemântica preservada mas opaca visualmente.
+**Forma Shuowen 㤂 vs forma corrente 急**: Como em vários outros casos (萅/春, 𢓴/退), a forma que o Shuowen registra como primária (㤂) foi substituída pela forma simplificada clerical (急). Shao Ying documenta explicitamente a mudança (隸變). A peça superior de 急 (彐/勹) é evolução cursiva de 及 — composição fonossemântica preservada mas opaca visualmente.
 
 **Etimologia semântica via 褊 — "apertado" → "urgente"**: O Shuowen não define 急 como "rápido" ou "urgente" diretamente, mas via 褊 ("apertado"). 段玉裁 traça a cadeia: 褊 é originalmente "roupa apertada" → todo estreito/comprimido → estado mental de pressão → urgência temporal. Esta é etimologia corporal — a pressão espacial mapeada na pressão temporal/emocional.
 
