@@ -39,7 +39,7 @@ sources:
 **CantoDict**: ngaa4.
 
 **chardb Academia Sinica**:
-1. 大牙；臼齒。 (dente molar; dente do siso/molar)
+1. 大牙；臼齒。 (dente posterior grande; molar)
 2. 泛指牙齒。 (designação geral para dentes)
 3. 咬；嚙。 (morder; roer)
 4. 特指象牙。 (em especial, marfim)
