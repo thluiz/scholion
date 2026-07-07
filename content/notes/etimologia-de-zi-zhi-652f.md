@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 支 (Zi — Zhī / zi1)"
-date: '2026-07-06T12:25:04+01:00'
-summary: 'O caractere de mão segurando meio bambu, radical Kangxi nº 65. O Shuowen o lê como 去竹之枝 (o galho retirado do bambu), base do posterior 枝; a paleografia confirma o pictograma de mão e ramo, e o hanziyuan registra 本义 erguer.'
+date: '2026-07-07T19:38:06+01:00'
+summary: 'O caractere 支, radical Kangxi nº 65. O Shuowen o define como “ramo de bambu retirado”, analisando a forma como mão segurando meio bambu; as fontes modernas registram a especialização posterior em “ramo; divisão; sustentar; pagar” e usos classificadores.'
 toc: true
 tags: ["china", "linguagem", "etimologia", "ideogramas", "radicais"]
 category: etymology
@@ -34,48 +34,48 @@ sources:
 
 #### Definições
 
-**MDBG**: apoiar; sustentar; erguer; levantar; ramo; divisão; sacar dinheiro (do banco); classificador para objetos em forma de haste (canetas, armas), para divisões do exército e para canções ou composições. Como nome próprio: sobrenome Zhi.
+**MDBG**: to support / to sustain / to erect / to raise / branch / division / to draw money / classifier for rods such as pens and guns, for army divisions and for songs or compositions
 
-**CantoDict**: zi1 {zhī} (tom 1, alto). Acepções CCY: (substantivo) garrafa; (verbo) pagar. Acepções CC: apoiar, sustentar, erguer, levantar, ramo, divisão, sacar dinheiro, classificador para hastes, divisões do exército e composições; e sobrenome Zhi. Confirmado pela CUHK (zi1).
+**CantoDict**: zi1.
 
 **chardb Academia Sinica**:
-1. 去竹的枝 (o galho retirado do bambu)
-2. 枝條 (ramo, vergôntea)
-3. 四肢。後作「肢」 (os quatro membros; depois grafado 肢)
-4. 分支；支派 (ramificação; ramo, facção): ①宗族支系 (ramo de uma linhagem clânica) ②支脈 (ramificação de um veio/cadeia) ③支流 (afluente) ④支隊 (destacamento)
-5. 分；分散 (dividir; dispersar)
-6. 排遣 (afastar; dar escoamento a)
-7. 付出；供給 (despender; prover, fornecer)
-8. 支持；維持 (apoiar; manter, sustentar)
-9. 拒，抵抗 (recusar; resistir, opor-se)
-10. 支撐 (escorar, amparar)
-11. 度量；計算 (medir; calcular)
-12. 支吾；搪塞 (responder evasivamente; esquivar-se)
-13. 人體脈絡的順節部份 (a parte articulada/nodal dos meridianos do corpo humano)
-14. 地支的簡稱 (abreviação de 地支, os Ramos Terrestres)
-15. 古代軍事術語。指地形對彼我雙方出兵均不利 (termo militar antigo: terreno desfavorável ao envio de tropas para ambos os lados)
-16. 量詞 (classificador): ①用於計杆狀物品 (para objetos em forma de haste) ②用於計隊伍等 (para tropas etc.) ③用以計歌曲、樂曲等 (para canções e peças musicais) ④用於計棉紗的細度 (para a finura do fio de algodão) ⑤用於計電燈的光度，即電的功率的瓦數 (para a potência luminosa de lâmpadas, i.e. os watts de potência elétrica) ⑥古代用於計證券等。相當於「半」 (antigamente, para títulos/valores; equivalente a "metade")
-17. 梔子。後作「栀」 (a gardênia; depois grafado 栀)
-18. 姓 (sobrenome)
-19. ［支註］絮語不清 (［支註 zhīzhù］ tagarelar de modo confuso e indistinto)
-20. ［令支］①春秋時山戎屬國 (［令支 Língzhī］ ① Estado vassalo dos Shanrong no período Chunqiu) ②古縣名，西漢置 (② antigo nome de distrito, instituído no Han Ocidental)
-21. ，古文支 (forma em escrita antiga [古文] de 支 — o caractere-cabeça não veio no dump)
-22. 「丈」之異體 (variante de 丈)
+1. 去竹的枝。 (ramo retirado do bambu)
+2. 枝條。 (galho; ramo)
+3. 四肢。後作「肢」。 (os quatro membros; depois escrito 「肢」)
+4. 分支；支派。①宗族支系。②支脈。③支流。④支隊。 (ramificação; ramo secundário. ① linhagem colateral de clã. ② ramificação de veia ou cadeia. ③ afluente. ④ destacamento)
+5. 分；分散。 (dividir; dispersar)
+6. 排遣。 (distrair; afugentar)
+7. 付出；供給。 (pagar; fornecer)
+8. 支持；維持。 (sustentar; manter)
+9. 拒，抵抗。 (recusar; resistir)
+10. 支撐。 (escorar; apoiar)
+11. 度量；計算。 (medir; calcular)
+12. 支吾；搪塞。 (hesitar evasivamente; dar respostas evasivas)
+13. 人體脈絡的順節部份。 (parte nodal regular dos vasos/canais do corpo humano)
+14. 地支的簡稱。 (abreviação de 地支)
+15. 古代軍事術語。指地形對彼我雙方出兵均不利。 (termo militar antigo: terreno desfavorável ao avanço de ambas as partes)
+16. 量詞。①用於計杆狀物品。②用於計隊伍等。③用以計歌曲、樂曲等。④用於計棉紗的細度。⑤用於計電燈的光度，即電的功率的瓦數。⑥古代用於計證券等。相當於「半」。 (classificador. ① para objetos em forma de haste. ② para tropas etc. ③ para canções e peças musicais etc. ④ para a finura do fio de algodão. ⑤ para a luminosidade de lâmpadas elétricas, isto é, a potência em watts. ⑥ antigamente para títulos e semelhantes; equivalente a 「半」)
+17. 梔子。後作「栀」。 (gardênia; depois escrito 「栀」)
+18. 姓。 (sobrenome)
+19. ［支註］絮語不清。 (em 「支註」: fala confusa e prolixa)
+20. ［令支］①春秋時山戎屬國。②古縣名，西漢置。 (em 「令支」: ① estado dependente dos Shanrong no período Chunqiu. ② antigo nome de condado, estabelecido no Han Ocidental)
+21. ，古文支。 ((não obtido — o caractere anterior não veio legível no dump); forma em chinês antigo de 支)
+22. 「丈」之異體。 (variante de 「丈」)
 
 #### Decomposição e formas antigas (hanziyuan)
 
-Componentes: 从手持半竹 (mão segurando meio bambu); o hanziyuan decompõe 支 = 又 (mão) + 个 (ramo), glosando-o como "hand-grabbing-branch".
-Significado original: 本义 "to lift up" (erguer, levantar), hoje "branch" (ramo).
-Acepções inglesas (hanziyuan): disperse, pay; support; branch (registradas na entrada da variante 𠦙; a entrada principal E08154 não trouxe glosas inglesas).
-Frequência de uso: 509 (na entrada da variante 𠦙; a entrada principal não trouxe frequência).
-Formas atestadas no hanziyuan: Oráculo 0; Bronze 0; Selo (說文) 1 (S02206); Liushutong (六書通) 7. As atestações pré-Han constam da tabela do 小學堂 abaixo.
+Componentes: Component 支 zhī; from (rem- 十 shí) from; (rem- 个 gè) and right-hand 又 yòu; (name- hand-grabbing-branch 支 zhī).
+Significado original: Meaning (orig) to lift up, now meaning branch.
+Acepções inglesas: (não obtido — campo “English senses” vazio para E08154; E09550 traz “disperse, pay; support; branch” para a forma 𠦙)
+Frequência de uso: (não obtido — campo “Importance by frequency” vazio para E08154)
+Formas atestadas: hanziyuan registra ausência de formas conhecidas em Oráculo (甲骨文) e Bronze (金文) para 支; para Selo (篆字), mostra 1 forma em 说文解字的篆字; para 六书通, 7 formas. Registra também a etimologia variante E09550 𠦙20999 → 支652F, com “Older traditional characters 旧繁体字/异体字: 𣏃”.
 
 #### Shuowen Jiezi completo
 
-(shuowen.org retornou apenas a listagem das primeiras entradas do dicionário; texto verbatim obtido via 小學堂, CUHK e hanziyuan, convergentes salvo a forma do 古文.)
+(shuowen.org retornou apenas a listagem das primeiras entradas do dicionário; texto verbatim obtido via 小學堂 e CUHK, com diferença na cauda: 小學堂 inclui a linha da forma antiga 𠦙, e a CUHK inclui o fanqie 〔章移切〕 e a menção a 𢺶 como 古文支.)
 
-**說文**: 支，去竹之枝也。从手持半竹。凡支之屬皆从支。〔章移切〕𠦙，古文支。
-(支 é o galho retirado do bambu. Compõe-se de uma mão [手] que segura meio bambu [半竹]. Todo caractere da classe de 支 segue 支. [fanqie 章移切.] 𠦙 é a forma em escrita antiga [古文] de 支.)
+**說文**: 支，去竹之枝也。从手持半竹。凡支之屬皆从支。
+(Ramo é o ramo retirado do bambu. Vem de mão segurando meio bambu. Todo caractere da classe de 支 segue 支.)
 
 **段注 Duan Yucai**: (não obtido — shuowen.org retornou listagem; zdic.net retornou HTTP 404)
 
@@ -83,43 +83,42 @@ Formas atestadas no hanziyuan: Oráculo 0; Bronze 0; Selo (說文) 1 (S02206); L
 
 | Período | Script | Fonte / Artefato |
 |---|---|---|
-| — | Escrita antiga (古文) | 說文古文 (guwen citado no Shuowen) |
-| Qin | Clerical (隸書) | 睡虎地簡·法25 (Shuihudi) |
-| Han Ocidental | Clerical (隸書) | 縱橫家書151 (Zonghengjia shu); 居延簡甲19A (Juyan); 武威簡·服傳6 (Wuwei) |
-| Han | Selo pequeno (小篆) | 說文·支部 (Shuowen, seção 支) |
-| Han | Selos (印) | 漢印徵 (coletânea de selos Han) |
-| Han Oriental | Clerical (隸書) | 熹平石經·易·坤文言 (Clássicos em Pedra de Xiping, Yijing); 尹宙碑 Yǐn Zhòu bēi |
+| Han | Forma antiga do Shuowen | 說文古文 |
+| Han | Selo pequeno (小篆) | 說文‧支部 (Shuowen, seção 支) |
+| Qin | Clerical (隸書) | 睡.法25(隸) |
+| Han Ocidental | Clerical (隸書) | 縱橫家書151(隸); 居延簡甲19A(隸); 武威簡.服傳6(隸) |
+| Han | Selo (印) | 漢印徵 |
+| Han Oriental | Clerical (隸書) | 熹.易.坤文言(隸); 尹宙碑(隸) |
 
-**Shuowen (xiaoxue)**: 《說文》："支，去竹之枝也。从手持半竹。𠦙，古文支。"
+**Shuowen (xiaoxue)**: 支，去竹之枝也。从手持半竹。𠦙，古文支。
 
 **Comentários de estudiosos**:
-- CUHK (形義通解, 略說): 篆文如手持半竹，本義為去竹之枝。(A grafia em selo parece uma mão segurando meio bambu; o sentido original é "o galho retirado do bambu".)
-- 林義光《文源》: 即枝之古文，別生條也。(É o 古文 de 枝 "ramo"; um broto que nasce à parte.)
+- 林義光《文源》: 即枝之古文，別生條也。(É a forma antiga de 枝; ramo que nasce separadamente.)
+- CUHK (略說): 篆文如手持半竹，本義為去竹之枝。(A forma em selo é como mão segurando meio bambu; o sentido original é o ramo retirado do bambu.)
+- CUHK (詳解): 篆文如手持半竹，本義為去竹之枝，後寫作「枝」，參見「枝」。(A forma em selo é como mão segurando meio bambu; o sentido original é o ramo retirado do bambu; depois passou a escrever-se 「枝」; ver 「枝」.)
 
 #### Fonologia (xiaoxue shangguyin)
 
 **中古音 Middle Chinese (Guangyun)**:
-- 攝 Division: 止 (Zhi) · 韻 Rhyme: 支 (Zhi) · 聲 Tone: 平 (level) · 母 Initial: 章 (tsy-)
+- 攝 Division: 止 · 韻 Rhyme: 支 · 聲 Tone: 平 · 母 Initial: 章
 - 反切 Fanqie: 章移 · 等 Grade: 三 (III) · 開合 Open/Closed: 開 (open) · 清濁: 全清 (totalmente surda)
 
-**上古音 Old Chinese** (grupo de rima 支 Zhi / 佳 Jia, conforme o sistema):
-- 高本漢 Karlgren: ȶi̯ĕɡ (韻部 não indicado)
-- 王力 Wang Li: ȶǐe (韻部 支)
-- 董同龢 Dong Tonghe: cjeɡ (韻部 佳)
-- 周法高 Zhou Fagao: tjieɣ (韻部 支)
-- 李方桂 Li Fanggui: krjig (韻部 佳)
+**上古音 Old Chinese**:
+- 高本漢 Karlgren: ȶ i̯ĕɡ
+- 王力 Wang Li: ȶ ǐe
+- 董同龢 Dong Tonghe: c jeɡ
+- 周法高 Zhou Fagao: t jieɣ
+- 李方桂 Li Fanggui: k rjig
 - 鄭張尚芳 Zhengzhang Shangfang: (não retornou dados — ausente da tabela do 小學堂)
 
 **國語 Mandarin IPA**: tʂʅ
 
 #### Divergências entre fontes
 
-**Leitura do grafismo.** O *Shuowen* lê 支 como 去竹之枝 ("o galho retirado do bambu"), analisado como 从手持半竹 (mão segurando meio bambu) — o caractere é a base do posterior 枝 "ramo". A CUHK (略說 e 詳解) e 林義光 (《文源》) convergem com essa leitura: pictograma de mão e ramo, 古文 de 枝. O hanziyuan diverge no 本义, registrando "to lift up" (erguer) como sentido original, com "ramo" apenas como acepção atual.
+**Shuowen.** 小學堂 registra: 「支，去竹之枝也。从手持半竹。𠦙，古文支。」 A CUHK registra: 「支，去竹之枝也。从手持半竹。凡支之屬皆从支。〔章移切〕𢺶，古文支。」 Portanto, não são textos verbatim idênticos no dump: uma fonte traz a cauda 凡支之屬皆从支 e o fanqie, e a outra explicita a linha da forma antiga como 𠦙，古文支.
 
-**Forma do 古文.** As fontes discordam na grafia da forma antiga: 小學堂 e chardb apontam 𠦙; a CUHK grafa 𢺶. São duas tradições (ou variantes de codificação) da mesma forma arcaica. A acepção 21 do chardb perdeu o caractere-cabeça no dump.
+**Forma antiga.** 小學堂 yanbian traz 說文古文 e o Shuowen com 𠦙，古文支. A CUHK, no campo 《說文》, registra 𢺶 como 古文支. O hanziyuan também registra a etimologia variante E09550 𠦙20999 → 支652F e “Older traditional characters 旧繁体字/异体字: 𣏃”.
 
-**Shuowen e 段注.** O texto do *Shuowen* foi confirmado por três fontes (小學堂, CUHK e hanziyuan), convergentes salvo a forma do 古文. O comentário de 段玉裁 não foi obtido: shuowen.org retornou só a listagem inicial do dicionário e o fallback zdic.net deu 404.
+**Sentido original.** O hanziyuan registra “Original meaning 本义: Meaning (orig) to lift up, now meaning branch.” A CUHK (略說, 詳解) e o Shuowen registram como 本義 “去竹之枝”. As fontes, portanto, divergem na formulação do significado original.
 
-**Leitura cantonesa.** O MDBG não exibiu jyutping para 支; cantonese.org e a CUHK convergem em zi1, consistente com o 中古音 (inicial 章, tom 平 → tom 1 cantonês).
-
-**Reconstruções do 上古音.** Os sistemas divergem no grupo de rima: 王力 e 周法高 colocam 支 em 支 (Zhi); 董同龢 e 李方桂 em 佳 (Jia); 高本漢 não indica 韻部. A coluna de 鄭張尚芳 (Zhengzhang Shangfang) não retornou na tabela do 小學堂.
+**Leitura cantonesa.** CantoDict e a CUHK registram zi1. O MDBG não exibiu jyutping.
