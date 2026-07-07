@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 斤 (Gan — Jīn / gan1)"
-date: '2026-07-06T12:31:29+01:00'
-summary: "O pictograma de um machado de cabo curvo, radical Kangxi nº 69. O Shuowen lê 斤 como 斫木也 'cortar madeira'; a paleografia confirma a forma de machado de lenhador, sendo o sentido de unidade de peso (catty) um empréstimo fonético."
+date: '2026-07-07T19:27:34+01:00'
+summary: 'O pictograma de um machado de cabo curvo, radical Kangxi nº 69. O Shuowen define 斤 como 斫木也 ''instrumento de cortar madeira''; nas fontes modernas, o caractere também serve como unidade de peso.'
 toc: true
 tags: ["china", "linguagem", "etimologia", "ideogramas", "radicais"]
 category: etymology
@@ -34,82 +34,82 @@ sources:
 
 #### Definições
 
-**MDBG**: catty (unidade de peso); (RPC) peso equivalente a 500 g; (Taiwan) peso equivalente a 600 g; (Hong Kong, Malásia, Singapura) peso pouco acima de 604 g. Antigamente, 兩 (liǎng, "tael") equivalia a 1⁄16 de um 斤 (catty).
+**MDBG**: catty / (PRC) weight equal to 500 g / (Tw) weight equal to 600 g / (HK, Malaysia, Singapore) slightly over 604 g
 
-**CantoDict**: gan1 {jīn}. Registra também a variante de leitura gan3 (ver CUHK). Confirmado pela CUHK.
+**CantoDict**: gan1 {jīn}; catty; weight equal to 0.5 kg; (Tw) weight equal to 0.6 kg
 
 **chardb Academia Sinica**:
-1. 古代砍物工具，一般用以砍木，與斧相似，比斧小而刃橫 (ferramenta antiga para cortar coisas, em geral usada para cortar madeira, semelhante ao machado 斧 mas menor e com o gume transversal)
-2. 古代一種似鋤但比鋤小的農具 (antiga ferramenta agrícola parecida com a enxada, porém menor)
-3. 砍；削 (cortar; aparar)
-4. 量詞。重量單位之一。舊制一斤多為十六兩 (classificador; uma das unidades de peso; no sistema antigo, um 斤 equivalia em geral a dezesseis 兩)
-5. 加在某些以重量計算的物名後，作該物的總稱 (posposto ao nome de certas coisas medidas por peso, serve como designação geral daquela coisa)
-6. 姓 (sobrenome)
-7. ［斤斤］明察 (na forma reduplicada 斤斤: observar com minúcia)
+1. 古代砍物工具，一般用以砍木，與斧相似，比斧小而刃橫。 (ferramenta antiga para cortar coisas, geralmente usada para cortar madeira; semelhante ao machado, menor que o machado e com a lâmina transversal)
+2. 古代一種似鋤但比鋤小的農具。 (antigo instrumento agrícola semelhante a uma enxada, mas menor)
+3. 砍；削。 (cortar; aparar)
+4. 量詞。重量單位之一。舊制一斤多為十六兩。後市制一斤為十兩，等於公制重量五百克。 (classificador. Uma das unidades de peso. No sistema antigo, um jīn era em geral dezesseis liǎng. Depois, no sistema de mercado, um jīn passou a ser dez liǎng, equivalente a quinhentos gramas no sistema métrico)
+5. 加在某些以重量計算的物名後，作該物的總稱。 (acrescentado após nomes de certas coisas calculadas por peso, como designação geral desse tipo de item)
+6. 姓。 (sobrenome)
+7. ［斤斤］明察。 ([jīnjīn] discernimento claro)
 
 #### Decomposição e formas antigas (hanziyuan)
 
-Componentes: pictograma simples (machado), não decomponível.
-Significado original: machado (本义: hatchet-ax).
-Acepções inglesas: (não obtido — campo "English senses" retornou vazio).
+Componentes: 斤.
+Significado original: Meaning hatchet. (本义: machado.)
+Acepções inglesas: (não obtido — campo “English senses” veio vazio)
 Frequência de uso: 1915.
-Formas atestadas: Oráculo (甲骨文) 2; Bronze (金文) 2; Selo (篆字) 1; Liushutong (六書通) 4. As atestações epigráficas constam da tabela do 小學堂 abaixo.
+Formas atestadas: Oracle characters 甲骨文 (2); Bronze characters 金文 (2); Seal characters 说文解字的篆字 (1); Liushutong characters 六书通的字 (4).
 
 #### Shuowen Jiezi completo
 
-(texto verbatim obtido via 小學堂 e CUHK, convergentes.)
+(shuowen.org retornou apenas a listagem das primeiras entradas do dicionário; texto verbatim obtido via 小學堂 e CUHK, não idênticas.)
 
 **說文**: 斤，斫木也。象形。凡斤之屬皆从斤。〔舉欣切〕
-(斤 é cortar madeira. É pictograma. Todo caractere da classe de 斤 segue 斤. [fanqie: 舉欣切])
+(斤: instrumento de cortar madeira. Pictograma. Todo caractere da classe de 斤 segue 斤. [fanqie: 舉欣切])
 
-**段注 Duan Yucai**: 凡用斫物者皆曰斧。斫木之斧，則謂之斤。橫者象斧頭，直者象柄。
-(Toda [ferramenta] usada para cortar coisas chama-se 斧 [machado]. O machado que corta madeira é chamado de 斤. O traço horizontal representa a cabeça do machado; o vertical, o cabo.) [comentário obtido via 小學堂/CUHK; a listagem de shuowen.org e o zdic.net não foram consultados aqui.]
+**段注 Duan Yucai**: (não obtido — shuowen.org retornou listagem; zdic.net retornou HTTP 404)
 
 #### Evolução de formas (xiaoxue yanbian)
 
 | Período | Script | Fonte / Artefato |
 |---|---|---|
-| Shang | Oráculo (甲骨文) | 前8.7.1 (甲) |
-| Shang | Bronze (金文) | 征人鼎 Zhēngrén dǐng |
-| Reinos Combatentes (inicial) — Qi | Bronze (金文) | 仕斤徒戈 Shìjīn tú gē |
-| Han | Selo pequeno (小篆) | 說文‧斤部 (Shuowen, seção 斤) |
-| Qin | Selo pequeno (小篆) | 廿六年詔十六斤權 (peso/padrão do decreto do 26º ano) |
-| Qin | Clerical (隸書) | 睡.效6 (Shuihudi) |
-| Han Ocidental | Clerical (隸書) | 一號墓竹簡295 (bambu, tumba nº 1); 居延簡甲2540A (Juyan) |
-| Han Oriental | Clerical (隸書) | 永初鍾 Yǒngchū zhōng |
-| Wei (Cao Wei) | Clerical (隸書) | 魏中尚方尉斗 Wèi zhōngshàngfāng wèidǒu |
+| Shang | Oráculo (甲骨文) | 前8.7.1(甲) |
+| Zhou Ocidental (inicial) | Bronze (金文) | 征人鼎(金) |
+| Reinos Combatentes (inicial) — Qi | Bronze (金文) | 仕斤徒戈(金) |
+| Han | Selo pequeno (小篆) | 說文‧斤部 |
+| Qin | Selo pequeno (篆) | 廿六年詔十六斤權(篆) |
+| Qin | Clerical (隸書) | 睡.效6(隸) |
+| Han Ocidental | Clerical (隸書) | 一号墓竹簡295(隸) |
+| Han Ocidental | Clerical (隸書) | 居延簡甲2540A(隸) |
+| Han Oriental | Clerical (隸書) | 永初鍾(隸) |
+| Cao Wei | Clerical (隸書) | 魏中尚方尉斗(隸) |
 
 **Shuowen (xiaoxue)**: 斤，斫木也。象形。
 
 **Comentários de estudiosos**:
-- 徐鍇繫傳 (Xu Kai): 斫木斧也。(É o machado de cortar madeira.)
-- 段玉裁注 (Duan Yucai): 横者象斧頭，直者象柄，其下象所斫木。(O traço horizontal representa a cabeça do machado, o vertical o cabo, e o que está embaixo representa a madeira a ser cortada.)
+- 小學堂: 徐鍇繫傳：“斫木斧也。”段玉裁注：“横者象斧頭，直者象柄，其下象所斫木。”
+- CUHK (略說): 甲金文象曲柄斧，本義是伐木用的斧頭。 (As formas em oráculo e bronze representam um machado de cabo curvo; o sentido original é um machado usado para cortar madeira.)
+- CUHK (詳解): 甲金文象曲柄斧，本義是伐木用的斧頭。甲骨文的「斤」由曲柄斧的柯柄及銳利如箭矢的刀刃組成，「斤」的本義是斧，金文把斧刃與斧柄分開書寫，象形意味漸失。後來從「斤」的字的「斤」旁仍保留斧頭之義，如「析」、「折」、「斫」、「斲」。度量衡中表示斤兩的「斤」只是假借的用法。 (As formas em oráculo e bronze representam um machado de cabo curvo; o sentido original é um machado usado para cortar madeira. No oráculo, 「斤」 é composto pelo cabo do machado de cabo curvo e por uma lâmina afiada como ponta de flecha; o sentido original de 「斤」 é machado. No bronze, a lâmina e o cabo passam a ser escritos separadamente, e o caráter pictográfico se enfraquece gradualmente. Mais tarde, nos caracteres formados com o componente 「斤」, esse lado 「斤」 ainda preserva o sentido de machado, como em 「析」、「折」、「斫」、「斲」. Em pesos e medidas, o 「斤」 de 斤兩 é apenas uso por empréstimo fonético.)
 
 #### Fonologia (xiaoxue shangguyin)
 
 **中古音 Middle Chinese (Guangyun)**:
-- 攝 Division: 臻 (Zhen) · 韻 Rhyme: 欣 (Xin) · 聲 Tone: 平 (level) · 母 Initial: 見 (j-/g-)
+- 攝 Division: 臻 (Zhen) · 韻 Rhyme: 欣 (Xin) · 聲 Tone: 平 (level) · 母 Initial: 見 (k-)
 - 反切 Fanqie: 舉欣 · 等 Grade: 三 (III) · 開合 Open/Closed: 開 (open) · 清濁: 全清 (totalmente surda)
-- (Leitura secundária no Guangyun: 反切 fanqie 居焮, 聲 tone 去 departing, mesma inicial 見 e rima 焮 — base do cantonês gan3.)
 
 **上古音 Old Chinese** (grupo de rima 文 Wen):
-- 高本漢 Karlgren: ki̯ən (备註: sem indicação de 韻部 na tabela)
-- 王力 Wang Li: kiən
-- 董同龢 Dong Tonghe: kjə̆n
-- 周法高 Zhou Fagao: kjən
-- 李方桂 Li Fanggui: kjən
+- 高本漢 Karlgren: k i̯ən
+- 王力 Wang Li: k iən
+- 董同龢 Dong Tonghe: k jə̆n
+- 周法高 Zhou Fagao: k jən
+- 李方桂 Li Fanggui: k jən
 - 鄭張尚芳 Zhengzhang Shangfang: (não retornou dados — ausente da tabela do 小學堂)
 
 **國語 Mandarin IPA**: tɕin
 
 #### Divergências entre fontes
 
-**Leitura do grafismo.** O *Shuowen* glosa 斤 pela função — 斫木也 ("cortar madeira") — e classifica-o como 象形 (pictograma). A paleografia (略說/詳解 da CUHK e o "original meaning" do hanziyuan) precisa a imagem: um machado de cabo curvo (曲柄斧), cujo gume aparece no oráculo como lâmina afiada semelhante a uma ponta de flecha. As duas leituras convergem — ferramenta de corte —, divergindo apenas no grau de detalhe da forma.
+**Sentido principal moderno.** MDBG e CantoDict registram 斤 principalmente como unidade de peso (“catty”), com valores regionais modernos; o chardb abre pelas acepções antigas de instrumento de corte e só depois traz o uso metrológico na acepção 4.
 
-**Sentido de peso como empréstimo.** A CUHK assinala que o uso de 斤 como unidade de medida (斤兩) é 假借 (empréstimo fonético), estranho ao sentido original de machado. O hanziyuan reforça a cisão ao tratar 觔 (composto de 角 "chifre" + 力 "força") como variante de 斤 justamente na acepção de catty. O sentido gráfico primário (machado) e o sentido métrico (catty) não têm relação semântica direta.
+**Leitura do grafismo.** O Shuowen define 斤 como “斫木也。象形”, isto é, instrumento de cortar madeira e pictograma. O hanziyuan registra “Original meaning 本义: Meaning hatchet.” A CUHK (略說 e 詳解) especifica que as formas em 甲骨/金文 representam um “曲柄斧”, e detalha na 詳解 a composição entre cabo curvo e lâmina.
 
-**段注.** Diferentemente do padrão em que 段玉裁 não é obtido, aqui o comentário veio verbatim através do 小學堂 e da CUHK, convergentes: distingue 斧 (machado genérico) de 斤 (machado de cortar madeira) e lê os traços como cabeça, cabo e madeira. shuowen.org e zdic.net não foram consultados nesta coleta.
+**Shuowen.** A CUHK traz “斤，斫木也。象形。凡斤之屬皆从斤。〔舉欣切〕”; o 小學堂 yanbian traz apenas “斤，斫木也。象形。” — omitindo a cauda “凡斤之屬皆从斤” e o fanqie “〔舉欣切〕”.
 
-**Leitura cantonesa e a variante gan3.** cantonese.org e a CUHK convergem em gan1, consistente com o 中古音 (inicial 見 j-/g-, tom 平 level → tom 1 cantonês). A CUHK registra ainda a異讀 (leitura variante) gan3, usada em 斤斤計較, correspondente à segunda entrada do *Guangyun* (反切 居焮, tom 去 departing).
+**Leitura cantonesa.** CantoDict registra gan1 para 斤; a CUHK registra gan1 como leitura principal e gan3 como leitura variante usada em “斤斤計較”.
 
-**Reconstruções do 上古音.** Todos os cinco sistemas tabelados (Karlgren, Wang Li, Dong Tonghe, Zhou Fagao, Li Fanggui) reconstroem inicial *k-* no grupo de rima 文 (Wen); a coluna de 鄭張尚芳 (Zhengzhang Shangfang) não retornou na tabela do 小學堂. A tabela do 小學堂 registra ainda, para os 兩漢 (dinastias Han), a rima 真 (Zhen), sem reconstrução fonética associada.
+**中古音.** O 小學堂 shangguyin registra uma entrada principal de 廣韻 com 平聲、欣韻、舉欣切, e a CUHK registra duas entradas de 《廣韻》: 112 舉欣 e 397 居焮, correspondentes respectivamente a 平 e 去.
