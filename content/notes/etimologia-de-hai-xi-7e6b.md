@@ -116,6 +116,6 @@ A polêmica reflete a multiplicidade de leituras que co-existiam no Middle Chine
 
 **Semântica primária — "fibras grosseiras" vs "atar"**: O Shuowen define 繫 primeiramente como 繫𦃇 (fibras de qualidade inferior). A acepção "atar/ligar" (acepção 2 do chardb) é derivada — fibras grosseiras eram usadas como cordas para atar. O uso moderno privilegia totalmente a acepção derivada; o sentido primário de "fibras" está esquecido.
 
-**Ausência em oracle/bronze**: hanziyuan, xiaoxue unanimes. 繫 é caractere de formação Han a partir de raiz lexical anterior. Ausência de atestação pré-Han consistente com categoria de vocabulário artesanal-administrativo que só entra no registo formal tardiamente.
+**Ausência em oracle/bronze**: hanziyuan, xiaoxue unânimes. 繫 é caractere de formação Han a partir de raiz lexical anterior. Ausência de atestação pré-Han consistente com categoria de vocabulário artesanal-administrativo que só entra no registo formal tardiamente.
 
 **Grupos rímicos — 佳 / 支 — divergência**: Dong Tonghe e Li Fanggui colocam no grupo 佳; Zhou Fagao no grupo 支. Como em 派, divergência estrutural entre classificações vizinhas. Wang Li e Karlgren não listados para este caractere.
