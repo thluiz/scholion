@@ -74,7 +74,7 @@ A etimologia semântica é visualmente direta: o caractere representa o ato de *
 |---------|--------|----------------|
 | Shang 商 | Oracle bone 甲骨文 | 乙4568 (Yǐ 4568) |
 | Spring-Autumn 春秋 | Bronze 金文 | 拍敦 (Pāi duì) |
-| Han | Seal 篆書 | 說文·糸部 (Shuōwén, secção 糸) |
+| Han | Seal 篆書 | 說文·糸部 (Shuōwén, seção 糸) |
 | Western Han 西漢 | Clerical 隸書 | 老子乙前84下 (Lǎozǐ yǐ qián 84 xià) |
 | Western Han 西漢 | Clerical 隸書 | 孫臏15 (Sūn Bìn 15) |
 | Western Han 西漢 | Clerical 隸書 | 老子甲後192 (Lǎozǐ jiǎ hòu 192) |
