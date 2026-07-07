@@ -60,7 +60,7 @@ Composto fonossemântico (形聲):
 - 艸/艹 cǎo (erva, planta) — semântico
 - 氾 fàn (transbordar) — fonético
 
-Hanziyuan regista duas entradas separadas que partilham a mesma forma gráfica simplificada:
+Hanziyuan registra duas entradas separadas que partilham a mesma forma gráfica simplificada:
 - E01499: 范 U+8303 — forma original (nome de planta, abelha, sobrenome).
 - E01505: 範 U+7BC4 — composto com 車 (carro) + 笵/𨊠軓 fàn (fonético), sentido original "range, form" (limites do carro → limite, padrão).
 
@@ -120,8 +120,8 @@ Total: 10 formas. Ausência em osso oracular e bronze da primeira fase; primeira
 - **Sentido original disputado — planta vs. abelha**: Shuowen define 范 como 艸也 (planta), sentido que o xiaoxue e chardb (def. 1) seguem. Hanziyuan diverge: "(orig) a bee (now) range or form" — abelha como sentido original. O chardb lista ambos: def. 1 (planta) + def. 2 (abelha, com variante 蕃). A divergência tem tradição — trata-se de hipóteses etimológicas distintas sem resolução clara.
 - **Fusão com 範 na simplificação**: todas as fontes convergem: 范 e 範 eram historicamente caracteres distintos (范 planta/abelha/sobrenome; 範 molde/padrão, derivado do sentido dos limites do carro). Na simplificação moderna foram fundidos em 范. CantoDict, MDBG e hanziyuan refletem a fusão; chardb preserva a distinção (def. 4 e def. 7).
 - **Ausência em osso e bronze antigo**: tanto hanziyuan (0+0) quanto xiaoxue (0+0) confirmam — 范 não aparece em escrita oracular nem em bronze do Zhou Ocidental. Primeira atestação: selos e cerâmica dos Warring States (Qi, Yan, Jin).
-- **Múltiplos topónimos e estados**: xiaoxue regista formas dos estados Qi 齊, Yan 燕, Jin 晉 — 范 circulava como sobrenome e topónimo em vários estados dos Warring States. chardb def. 3 (nome de condado) confirma.
+- **Múltiplos topônimos e estados**: xiaoxue registra formas dos estados Qi 齊, Yan 燕, Jin 晉 — 范 circulava como sobrenome e topônimo em vários estados dos Warring States. chardb def. 3 (nome de condado) confirma.
 - **Uso como sobrenome**: fortemente atestado no chardb (def. 6) e CantoDict (Fan Zhongyan, Fan Li — figuras clássicas). Provavelmente derivado de nome de linhagem territorial.
-- **Sentido técnico 軓 (peça de carruagem)**: chardb def. 5 regista 通「軓」(variante de 軓, frente da barra transversal) — empréstimo fonético raro, ausente das demais fontes.
+- **Sentido técnico 軓 (peça de carruagem)**: chardb def. 5 registra 通「軓」(variante de 軓, frente da barra transversal) — empréstimo fonético raro, ausente das demais fontes.
 - **Consenso fonológico OC**: todos os cinco sistemas reconstroem *b- (ou *bʰ-) + -jwam/-i̯wăm/-jamx, grupo 談 (tán). Inicial labial sonora, rima nasal com glide palatal.
 - **Leitura Faang vs Faan**: em cantonês standard, jyutping faan6 (tom 6, baixo abaixo). A romanização "Faang" usada no nome kung fu reflete variação de escola ou convenção específica da linhagem Moy Yat — o padrão jyutping é faan6.
