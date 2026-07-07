@@ -56,7 +56,7 @@ Variantes: 拏 (U+62CF, forma original no Shuowen) · 挐 (U+6310) · 㧱
 11. 介詞 (preposição: ① introduz ferramentas/métodos, equivalente a "com"; ② introduz objetos de ação, equivalente a "pegar")
 12. 「拏」之異體 (variante gráfica de 拏)
 
-A acepção 10 — 中國武術和中醫按摩術的術語 — regista explicitamente o uso técnico de 拿 em artes marciais e massagem chinesa (tuina 推拿 usa precisamente este caractere).
+A acepção 10 — 中國武術和中醫按摩術的術語 — registra explicitamente o uso técnico de 拿 em artes marciais e massagem chinesa (tuina 推拿 usa precisamente este caractere).
 
 #### Decomposição e formas antigas ([hanziyuan](https://hanziyuan.net/#拏))
 
@@ -65,7 +65,7 @@ Significado original: segurar, puxar
 Shuowen (hanziyuan, sob 拏): 牽引也從手奴聲 (Puxar/arrastar. De 手, com 奴 como fonético.)
 Formas atestadas: Oracle 0 · Bronze várias (sob variantes 叉) · Seal 1
 
-hanziyuan regista três codepoints relacionados (拏 62CF, 挐 6310, 拿 62FF), todos referindo ao mesmo lexema.
+hanziyuan registra três codepoints relacionados (拏 62CF, 挐 6310, 拿 62FF), todos referindo ao mesmo lexema.
 
 #### Shuowen Jiezi completo (entrada sob 拏, via zdic.net)
 
@@ -88,7 +88,7 @@ Observa que edições anteriores confundiam 挐 com 拏 — ambos caracteres par
 | Late Shang 商代晚期 | Bronze 金文 | 叉鼎 (Chā dǐng — três atestações) |
 | Late Shang 商代晚期 | Bronze 金文 | 叉器 (Chā qì) |
 | Late Shang 商代晚期 | Bronze 金文 | 叉卣 (Chā yǒu) |
-| Han | Seal 篆書 | 說文·手部 (Shuōwén, secção 手) |
+| Han | Seal 篆書 | 說文·手部 (Shuōwén, seção 手) |
 
 **Nota**: as atestações "叉" são leituras epigráficas de 拏 — o caractere 叉 (chā, "forquilha") em bronzes Shang é lido por alguns paleógrafos como precursor de 拏. A conexão semântica é pelo gesto de segurar com os dedos em forma de garfo.
 
@@ -123,7 +123,7 @@ Observa que edições anteriores confundiam 挐 com 拏 — ambos caracteres par
 
 **Glosa primária — 牽引也 (Shuowen) vs 持也 (段注)**: O Shuowen recebido diz 牽引也 ("puxar/arrastar"). 段玉裁 corrige para 持也 ("segurar/reter"). A correção é significativa: 牽引 enfatiza o movimento de puxar para si, enquanto 持 enfatiza a posse estática da coisa na mão. Para o uso marcial (na jong em Ving Tsun — "tomar/pegar a estaca"), a leitura 持 é mais apropriada — o gesto é apreender e manter, não apenas arrastar.
 
-**Distinção 挐/拏 — Xu Hao e variação tonal**: Xu Hao observa que 挐 e 拏 são o mesmo lexema, distinguidos apenas por "pesagem fonética" (聲之輕重). 段玉裁 formaliza: nú para "agarrar" vs nǘ para "conectar/emaranhar". Esta distinção tonal regular é outra instância da tonogénese característica do chinês medieval — o mesmo lexema raiz gerando dois usos por mudança tonal fonológica.
+**Distinção 挐/拏 — Xu Hao e variação tonal**: Xu Hao observa que 挐 e 拏 são o mesmo lexema, distinguidos apenas por "pesagem fonética" (聲之輕重). 段玉裁 formaliza: nú para "agarrar" vs nǘ para "conectar/emaranhar". Esta distinção tonal regular é outra instância da tonogênese característica do chinês medieval — o mesmo lexema raiz gerando dois usos por mudança tonal fonológica.
 
 **Atestação semântica em 推拿 (tuina)**: A acepção 10 documenta o uso técnico em arte marcial e massagem: 推拿 (empurrar-pegar) é terminologia estabelecida. No Ving Tsun, 拿 em na jong 拿樁 conserva este valor técnico — tomar a estaca é ato marcial codificado, não mera ação de pegar.
 
