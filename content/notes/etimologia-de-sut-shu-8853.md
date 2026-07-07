@@ -77,7 +77,7 @@ Simplificação: 術 → 术 (assume a forma do componente fonético antigo).
 
 Tradução: "(術) é caminho dentro da cidade. 邑 [yì] significa país/cidade-estado. Estendido [por extensão metafórica] para [significar] **técnica/arte** (技術). De 行; 朮 fonético. Fanqie: 食聿切. Grupo rímico 15."
 
-A glosa de 段玉裁 documenta explicitamente a transição semântica: do **caminho urbano concreto** para a **técnica/arte abstracta**. Uma técnica é "o caminho a percorrer dentro de um domínio".
+A glosa de 段玉裁 documenta explicitamente a transição semântica: do **caminho urbano concreto** para a **técnica/arte abstrata**. Uma técnica é "o caminho a percorrer dentro de um domínio".
 
 #### Evolução de formas ([xiaoxue yanbian](https://xiaoxue.iis.sinica.edu.tw/yanbian?char=術))
 
