@@ -113,7 +113,7 @@ Formas antigas: 𢒠 (古文 ancient) e 籀文 (zhòuwén, com crina 髦 explíc
 ### Divergências entre fontes
 
 - **Contagens**: hanziyuan 84 Oracle · 65 Bronze · 1 Seal · 47 Liushutong. xiaoxue 35 formas curadas com proveniência explícita. Sem contradição — granularidades distintas.
-- **Significado primário**: Shuowen abre com 怒也。武也 (leitura associativa/etimológica); MDBG/chardb/hanziyuan registam o significado concreto "cavalo". 段注 reforça via 釋名 a ligação ao 大司馬 (cargo marcial).
+- **Significado primário**: Shuowen abre com 怒也。武也 (leitura associativa/etimológica); MDBG/chardb/hanziyuan registram o significado concreto "cavalo". 段注 reforça via 釋名 a ligação ao 大司馬 (cargo marcial).
 - **Decomposição**: unanimidade — 馬 é pictograma íntegro.
 - **Acepções exclusivas**: peça de xadrez, abreviação de Malásia, 馬虎 (descuidado) — ausentes do Shuowen.
 - **段注**: expande com (a) técnica glossográfica 疊韻為訓, (b) testemunho do *Shìmíng*, (c) distinção 古文/籀文 na representação gráfica da crina (彡).
