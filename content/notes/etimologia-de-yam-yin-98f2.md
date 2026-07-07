@@ -96,7 +96,7 @@ A simplificação do componente: 酓 → 食 — provavelmente erro de transmiss
 
 #### Divergências entre fontes
 
-- **㱃 → 飲 — substituição grafica**: a forma original (Shuowen) 㱃 (com 欠 + 酓) era pictogramicamente mais transparente — "boceja para vasilha de vinho" = beber. A forma moderna 飲 (com 食 + 欠) substituiu 酓 por 食 — provavelmente confusão paleográfica posterior, mas semanticamente coerente (substância comestível + boca aberta).
+- **㱃 → 飲 — substituição gráfica**: a forma original (Shuowen) 㱃 (com 欠 + 酓) era pictogramicamente mais transparente — "boceja para vasilha de vinho" = beber. A forma moderna 飲 (com 食 + 欠) substituiu 酓 por 食 — provavelmente confusão paleográfica posterior, mas semanticamente coerente (substância comestível + boca aberta).
 - **Atestação Oracle massiva**: xiaoxue confirma 7 atestações Oracle Shang + múltiplas Bronze. Caractere antiquíssimo, central ao vocabulário ritual e cotidiano.
 - **Reconstruções OC**: convergência alta. Inicial laringal *ʔ-/*0- (zero ou aspirada) em todos os 5 sistemas; rhyme 侵 *qīn* unânime.
 - **Cantonês**: jam2 (tom 2 alto subindo) preserva o 上聲 全清 do Guangyun. Glosa cultural rica em cantonês — *jam* é não só "beber" mas também *jam cha* 飲茶 (tomar chá de manhã, refeição cantonesa cerimonial) e *jam jau* 飲酒 (beber álcool em festas/rituais).
