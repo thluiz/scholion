@@ -55,12 +55,12 @@ Notas hanziyuan: "aquele que fala / o que faz o falar"
 Inglês: elder brother
 Exemplo de uso: 兄弟 xiōng dì (irmãos)
 Frequência: 737 (uso muito frequente)
-Shuowen (hanziyuan): 長也從儿從口凡兄之屬皆從兄 (Crescer/mais velho. De 儿 [pessoa] e 口 [boca]. Todos os caracteres da secção 兄 seguem 兄.)
+Shuowen (hanziyuan): 長也從儿從口凡兄之屬皆從兄 (Crescer/mais velho. De 儿 [pessoa] e 口 [boca]. Todos os caracteres da seção 兄 seguem 兄.)
 Formas atestadas: Oracle 115 · Bronze muitos · Seal 1
 
 #### Shuowen Jiezi completo (via zdic.net)
 
-**說文**: 長也。从儿从口。凡兄之屬皆从兄。許榮切。 (Crescer; mais velho. De 儿 e 口. Todos os caracteres da secção 兄 seguem 兄. Fanqie: 許榮切.)
+**說文**: 長也。从儿从口。凡兄之屬皆从兄。許榮切。 (Crescer; mais velho. De 儿 e 口. Todos os caracteres da seção 兄 seguem 兄. Fanqie: 許榮切.)
 
 **段注 Duan Yucai** (texto completo via zdic.net):
 
@@ -93,7 +93,7 @@ Tradução parcial (passagens centrais):
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 包2.138反 (Bāoshān 2.138 verso) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 包2.102 (Bāoshān 2.102) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 包2.133 (Bāoshān 2.133) |
-| Han | Seal 篆書 | 說文‧兄部 (Shuōwén, secção 兄) |
+| Han | Seal 篆書 | 說文‧兄部 (Shuōwén, seção 兄) |
 | Qin 秦 | Clerical 隸書 | 睡.封93 (Shuihudi *Feng* 93) |
 | Western Han 西漢 | Clerical 隸書 | 老子甲後191 (Lǎozǐ jiǎ hòu 191 — Mawangdui Laozi A verso) |
 | Western Han 西漢 | Clerical 隸書 | 武威簡.士相見11 (Wǔwēi jiǎn, *Shì xiāng jiàn* 11) |
@@ -127,7 +127,7 @@ Tradução parcial (passagens centrais):
 
 **Sentido original — "aumentar/crescer", não "irmão mais velho"**: A grande tese de 段玉裁 nesta entrada é a inversão tipicamente assumida. Hanziyuan e o senso comum dizem que o sentido original de 兄 é "irmão mais velho" e que outros sentidos são derivados. **段玉裁 mostra exatamente o contrário**: o sentido nuclear é **aumentar, crescer** (益, 滋長, 茲). Cita múltiplas passagens do *Shijing* (《詩經》) onde 兄 = 茲 (aumentar): *Xiao Ya* 兄也永歎; *Da Ya* 倉兄塡兮, 職兄斯引, 職兄斯弘; *Xiao Ya* 僕夫兄瘁; *Da Ya* 亂兄斯削. O sentido fraternal é **derivado**: o nascido antes é "o que cresceu mais" → daí 兄.
 
-**Crítica de 段玉裁 aos "rasos" (淺人)**: Duan formula em tom polémico — chama "淺人" (pessoas rasas/superficiais) os que assumem que o sentido fraternal é primário, dizendo que **invertem mestre e secundário** (主從倒置). Argumenta retorquindo: "se tal fosse o caso, o sentido original de 弟 seria 'homem nascido depois'? — claramente absurdo, pois o sentido original de 弟 é 'cordão enrolando objeto'." A simetria etimológica 兄/弟 é uma das marcas da glose: **ambos são pictogramas de coisas concretas (兄 = pessoa-falando-aumentando; 弟 = cordão-enrolando)** que foram aplicados secundariamente à relação fraternal por similaridade conceptual.
+**Crítica de 段玉裁 aos "rasos" (淺人)**: Duan formula em tom polêmico — chama "淺人" (pessoas rasas/superficiais) os que assumem que o sentido fraternal é primário, dizendo que **invertem mestre e secundário** (主從倒置). Argumenta retorquindo: "se tal fosse o caso, o sentido original de 弟 seria 'homem nascido depois'? — claramente absurdo, pois o sentido original de 弟 é 'cordão enrolando objeto'." A simetria etimológica 兄/弟 é uma das marcas da glose: **ambos são pictogramas de coisas concretas (兄 = pessoa-falando-aumentando; 弟 = cordão-enrolando)** que foram aplicados secundariamente à relação fraternal por similaridade conceptual.
 
 **兄 ↔ 況 (kuàng) são doublet**: 段玉裁 documenta cuidadosamente que 況 era originalmente apenas **兄**, e que pessoas comuns acrescentaram 水 (água) para distinguir, depois corrompendo para 况. As acepções "increase" (增益) e "moreover" (且) que hoje estão fixadas em 況 eram funções nativas do 兄 antigo. O *Erya* (《爾雅》), o *Mao Zhuan* (《毛傳》), o *Wei Zhao* sobre o *Guoyu* — todos atestam 況 = 益 (aumentar). 兄 é a forma original; 況 é variante gráfica posterior.
 
@@ -137,6 +137,6 @@ Tradução parcial (passagens centrais):
 
 **Atestação massiva: 115 oracle bones**: tanto hanziyuan como xiaoxue confirmam atestação ricamente Shang. 兄 era termo em uso constante nos rituais ancestrais Shang (cf. inscrição "剌作兄日辛卣" — "Là feito para o irmão [no] dia Xin", tipo cultual ancestral). A frequência epigráfica reflete centralidade do termo no vocabulário cultual e parental Shang-Zhou. Atestação contínua até Han, Eastern Han, Wei-Jin sem variação estrutural significativa.
 
-**Inicial cantonesa h- vs mandarim x-**: O cantonês moderno preserva a inicial Middle Chinese 曉母 x- como h- (hing1). Mandarim tornou-se ɕ- antes de vogais agudas. Este é fenómeno regular de palatalização do mandarim — cantonês é mais conservador.
+**Inicial cantonesa h- vs mandarim x-**: O cantonês moderno preserva a inicial Middle Chinese 曉母 x- como h- (hing1). Mandarim tornou-se ɕ- antes de vogais agudas. Este é fenômeno regular de palatalização do mandarim — cantonês é mais conservador.
 
 **Frequência 737 (hanziyuan) — alta**: 兄 é caractere de uso muito frequente, mais que 弟 (542). Reflexo da centralidade fraternal e da pluralidade de usos derivados (兄弟, 兄長, 大師兄 etc).
