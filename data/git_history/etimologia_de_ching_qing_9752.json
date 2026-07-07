@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-08",
+    "subject": "fix: registra radical Kangxi 174 e grafia 靑 na nota de 青"
+  },
+  {
     "date": "2026-07-07",
     "subject": "fix: lexico PT-BR (PT-EU) em etimologia-de-ching-qing-9752"
   },
