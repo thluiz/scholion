@@ -49,14 +49,16 @@ for (const hex of hexes) {
   let gen; try { gen = JSON.parse(g.stdout.trim().split('\n').find(l => l.startsWith('{')) || '{}'); } catch { gen = { ok: false }; }
   if (!gen.ok) { log(`  GENERATE falhou: ${gen.reason || (g.stderr || '').slice(0, 150)}`); failed.push({ ch, hex, stage: 'generate' }); continue; }
 
-  const files = [gen.file];
+  // slug mudou? NÃO fazer git rm aqui — staging antecipado vaza para o commit
+  // do primeiro da fila (o commit -F sem pathspec leva tudo que estiver staged).
+  // A remoção acontece junto do commit da própria nota, lá embaixo.
+  let oldPath = null;
   if (oldFile && `content/notes/${oldFile}` !== gen.file) {
-    log(`  slug mudou: ${oldFile} -> ${gen.slug}.md (git rm do antigo)`);
-    sh('git', ['rm', '-q', `content/notes/${oldFile}`], { shell: true });
-    files.push(`content/notes/${oldFile}`);
+    log(`  slug mudou: ${oldFile} -> ${gen.slug}.md (remoção adiada p/ o commit)`);
+    oldPath = `content/notes/${oldFile}`;
   }
   log(`  OK -> ${gen.slug} (${gen.bytes}b, ${gen.model})`);
-  done.push({ ch, num, hex, slug: gen.slug, files });
+  done.push({ ch, num, hex, slug: gen.slug, files: [gen.file], oldPath });
 }
 
 log(`regeneradas: ${done.length} | falhas: ${failed.length}${failed.length ? ' (' + failed.map(f => `${f.ch || f.hex}:${f.stage}`).join(', ') + ')' : ''}`);
@@ -70,6 +72,7 @@ if (NO_COMMIT) { log('--no-commit: fim sem commit'); process.exit(0); }
 
 for (const d of done) {
   sh('git', ['add', ...d.files], { shell: true });
+  if (d.oldPath) sh('git', ['rm', '-q', '--ignore-unmatch', d.oldPath], { shell: true });
   writeFileSync('.crawl/msg.txt', `fix: regenera etimologia de ${d.ch} (auditoria de fontes, radical Kangxi ${d.num})\n`, 'utf8');
   const c = sh('git', ['commit', '-F', '.crawl/msg.txt', '--no-verify'], { shell: true });
   if (c.status !== 0) log(`  commit falhou (${d.ch}): ${(c.stdout || c.stderr || '').slice(0, 150)}`);
