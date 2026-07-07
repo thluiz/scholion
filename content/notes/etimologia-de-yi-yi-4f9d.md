@@ -81,7 +81,7 @@ Formas atestadas (hanziyuan): Oracle 3 (J18935–J18937) · Bronze 1 (B12302) ·
 
 **說文**: 依，倚也。从人，衣聲。於稀切。 ("Yī: apoiar-se, encostar-se. Composto de 人 (pessoa, semântico) com 衣 (fonético). Fanqie: 於稀.")
 
-**段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido para este caractere): (依)倚也。从人衣聲。於稀切。十五部。 ("[依] 'apoiar-se'. Composto de 人 e 衣 (fonético). Fanqie 於稀. 15ª secção de rima.")
+**段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido para este caractere): (依)倚也。从人衣聲。於稀切。十五部。 ("[依] 'apoiar-se'. Composto de 人 e 衣 (fonético). Fanqie 於稀. 15ª seção de rima.")
 
 Nota: Duan dedica tratamento mínimo a 依 — provavelmente porque o caractere é transparente fonossemanticamente e o sentido "apoiar-se" é bem atestado. Não há controvérsia exegética que justifique comentário extenso.
 
