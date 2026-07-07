@@ -143,7 +143,7 @@ Total: 17 formas. Atestação contínua desde o Shang até o Han Oriental.
 - **Relação 單/蟬 (cigarra)**: Sears nota que 單 é a grafia original de 蟬 (chán, cigarra) — 蟬 acrescenta 虫 (insecto) para especializar. A leitura chán de 單 em 單于 (Chányú, título Xiongnu) preserva este valor fonético.
 - **Relação 單/獸/狩/戰 (caça, combate)**: Luó Zhènyù estabelece que 單 é componente semântico em 獸 (besta/caça), 狩 (caçar) e 戰 (combater) — todos remetem a uma arma ou instrumento usado na caça/guerra. Interpretação arqueológica que fortalece a leitura pictográfica como arma.
 - **Relação 單/干 (escudo)**: Dīng Shān propõe 單/干 como 古今字 (caracteres antigos/modernos da mesma coisa). 干 é pictograma claro de escudo; esta identificação sugere que 單 começou como escudo/arma.
-- **Polifonia dramática**: chardb regista 7 leituras distintas: dān, chán, shàn, dàn, dǎn, zhàn, tán. Cada leitura corresponde a um empréstimo fonético ou uso especializado. Fanqie canônico 都寒切 = dān.
+- **Polifonia dramática**: chardb registra 7 leituras distintas: dān, chán, shàn, dàn, dǎn, zhàn, tán. Cada leitura corresponde a um empréstimo fonético ou uso especializado. Fanqie canônico 都寒切 = dān.
 - **Arco semântico imenso (22 acepções)**: grande → sozinho/único → ímpar → simples → fino/frágil → lista → só (advérbio) → cama monástica → variante de vários caracteres (殫, 繟, 憚, 戰). Caractere profundamente emprestado.
 - **Atestação robusta**: hanziyuan 4 oracles + 13 bronzes; xiaoxue 4 oracles + 3 bronzes. Contagens bronze divergem, oracles convergem.
 - **Consenso fonológico OC**: *t- + -an/-ɑn, grupo 元 (yuán). Convergência total dos cinco sistemas. Inicial dental voiceless, rima aberta baixa.
