@@ -77,7 +77,7 @@ Duan Yucai prossegue documentando extensivamente o uso de 搏 nos clássicos (Zh
 | Late Western Zhou 西周晚期 | Bronze 金文 | 不𡢁簋蓋 (Bù X guǐ gài — tampa de tigela ritual) |
 | Late Spring-Autumn or early Warring States, Qin 春秋晚期或戰國早期·秦 | Stone drum 石鼓文 | 石鼓文·鑾車 (Shí gǔ wén — Luán chē) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 包2.133 (Bāoshān 2.133) |
-| Han | Seal 篆書 | 說文·手部 (Shuōwén, secção 手) |
+| Han | Seal 篆書 | 說文·手部 (Shuōwén, seção 手) |
 | Western Han 西漢 | Clerical 隸書 | 老子甲36 (Lǎozǐ jiǎ 36) |
 | Cao Wei 曹魏 | Clerical 隸書 | 魏封孔羨碑 (Wèi fēng Kǒng Xiàn bēi — estela da investidura de Kong Xian da Wei) |
 
@@ -113,6 +113,6 @@ Esta observação epigráfica de Rong Geng é importante: em atestação bronze 
 
 **Sobreposição 搏 / 捕 — mesma palavra, duas grafias**: 段玉裁 observa explicitamente 古捕盜字作搏 ("antigamente, a palavra 'capturar ladrões' escrevia-se 搏"). 搏 e 捕 são cognatos fonológicos — ambos derivam de raiz antiga *pa(k)- com componente fonético 尃/甫. A divisão em dois grafemas distintos (搏 "agarrar, lutar corpo-a-corpo" vs 捕 "capturar, prender") é padronização pós-Han; antes, o mesmo lexema admitia ambas as grafias.
 
-**Leituras bó e bú — tonogénese**: O Guangyun regista dois fanqie para 搏: 方遇切 (去聲, leitura fù/bú) e 匹各切/布莫切 (入聲, leitura bó). A distribuição moderna conservou apenas bó. A leitura em 去聲 está associada à acepção 10 (通傅, "aderir") — uso derivado que seguiu seu próprio caminho tonal.
+**Leituras bó e bú — tonogênese**: O Guangyun registra dois fanqie para 搏: 方遇切 (去聲, leitura fù/bú) e 匹各切/布莫切 (入聲, leitura bó). A distribuição moderna conservou apenas bó. A leitura em 去聲 está associada à acepção 10 (通傅, "aderir") — uso derivado que seguiu seu próprio caminho tonal.
 
 **Atestação zero em oracle bones**: Diferente de 攻 (24 oracle bones) ou 中 (34), 搏 tem zero atestações oraculares. A primeira atestação é bronze Zhou tardio. Isto é consistente com a hipótese de Rong Geng de que a grafia estabilizou-se tardiamente — os oracle bones usavam outros grafemas (marcial-pictográficos) para o mesmo lexema.
