@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 式 (Sik — Shì / sik1)"
 date: '2026-04-24T12:14:50+01:00'
-summary: "Análise etimológica de 式 (Shì / sik1), 'norma, modelo, forma, cerimónia'. Shuowen: 法也 ('lei, norma'). Composto fonossemântico: 工 (esquadro/régua) + 弋 (fonético, yì — estaca). 段注 de Duan Yucai distingue no Zhouli três termos aparentados: 灋 (lei geral), 則 (regra), 式 (medida/norma específica, particularmente de despesa financeira — 用財之節度). Em Ving Tsun, o termo aparece em jiu sik 招式 (técnica) e é nuclear ao vocabulário técnico do sistema. Sete fontes consultadas."
+summary: "Análise etimológica de 式 (Shì / sik1), 'norma, modelo, forma, cerimônia'. Shuowen: 法也 ('lei, norma'). Composto fonossemântico: 工 (esquadro/régua) + 弋 (fonético, yì — estaca). 段注 de Duan Yucai distingue no Zhouli três termos aparentados: 灋 (lei geral), 則 (regra), 式 (medida/norma específica, particularmente de despesa financeira — 用財之節度). Em Ving Tsun, o termo aparece em jiu sik 招式 (técnica) e é nuclear ao vocabulário técnico do sistema. Sete fontes consultadas."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 category: etymology
@@ -44,7 +44,7 @@ sources:
 3. 規格；樣式 (padrão; estilo)
 4. 效法；仿效 (imitar; emular)
 5. 用 (usar)
-6. 儀式；典禮 (cerimónia; ritual)
+6. 儀式；典禮 (cerimônia; ritual)
 7. 自然科學中表明某種規律的一組符號 (nas ciências naturais, conjunto de símbolos que expressa uma lei — fórmula)
 8. 一種語法範籌，表示說話者對所說事情的主觀態度 (categoria gramatical: modo — atitude subjetiva do falante)
 9. 古代車廂前面用來扶手的橫木 (na antiguidade, barra horizontal de apoio na frente do carro)
@@ -74,7 +74,7 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 1 (S03468) · Liushutong 4
 
 Tradução: "(式) é lei/norma. Na seção 𢊁, 法 é escrito 灋. 灋 é 㓝 [punição/lei penal]. Por extensão, 式 também significa 'usar'. Note-se que o Zhouli distingue três termos: 八灋 [oito leis], 八則 [oito regras] e 九式 [nove normas]. O comentário diz: 則 também é lei [法]. 式 refere-se à **medida/regulação da despesa financeira** (用財之節度). De 工, com 弋 fonético. Fanqie: 賞職切. Grupo rímico 1."
 
-Esta distinção terminológica do Zhouli é importante: 式 não é lei geral (灋) nem regra abstrata (則), mas **norma prática de medida/proporção**, especialmente em contexto administrativo-económico.
+Esta distinção terminológica do Zhouli é importante: 式 não é lei geral (灋) nem regra abstrata (則), mas **norma prática de medida/proporção**, especialmente em contexto administrativo-econômico.
 
 #### Evolução de formas ([xiaoxue yanbian](https://xiaoxue.iis.sinica.edu.tw/yanbian?char=式))
 
