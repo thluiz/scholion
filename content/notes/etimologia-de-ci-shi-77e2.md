@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 矢 (Ci — Shǐ / ci2)"
-date: '2026-07-06T14:05:42+01:00'
-summary: 'O pictograma de uma flecha, radical Kangxi nº 111. O Shuowen lê 矢 como 弓弩矢也 "a flecha de arco e besta", derivada de 入 com a forma da ponta, do encaixe e das penas; a paleografia lê pictograma puro de flecha, originalmente homógrafo de 寅.'
+date: '2026-07-07T19:25:39+01:00'
+summary: 'O pictograma de uma flecha, radical Kangxi nº 111. O Shuowen define 矢 como ''flecha de arco e besta'' e descreve graficamente ponta, encaixe e penas; a paleografia o lê como forma de flecha.'
 toc: true
 tags: ["china", "linguagem", "etimologia", "ideogramas", "radicais"]
 category: etymology
@@ -34,41 +34,40 @@ sources:
 
 #### Definições
 
-**MDBG**: shǐ — flecha; dardo; reto; jurar; fazer voto; variante antiga de 屎 (fezes).
+**MDBG**: arrow / dart / straight / to vow / to swear / old variant of 屎
 
-**CantoDict**: ci2 (tom 2, ascendente) nas acepções de flecha; registra também a leitura si2 na acepção 屎 (fezes). Convergente com a CUHK.
+**CantoDict**: ci2 {shǐ} — arrow; dart; straight; to vow; to swear; old variant of 屎. Também registra 矢 como stool; feces; ear wax; nasal mucus.
 
 **chardb Academia Sinica**:
-1. 箭。以竹為箭，以木為矢。 (flecha; com bambu faz-se o 箭, com madeira faz-se o 矢)
-2. 古代投壺用的籌碼。 (na antiguidade, as fichas/varetas usadas no jogo de tóuhú 投壺)
+1. 箭。以竹為箭，以木為矢。 (flecha. Com bambu faz-se 箭; com madeira faz-se 矢)
+2. 古代投壺用的籌碼。 (ficha usada no antigo jogo/ritual de投壺)
 3. 正直；端正。 (reto; correto)
-4. 約誓。 (jurar; fazer pacto/juramento)
-5. 施行。 (pôr em prática; executar)
-6. 陳述；陳列。 (expor; dispor em fileira)
-7. 乖戾；違背。 (desviante; contrariar, transgredir)
-8. 藏。 (esconder; guardar)
-9. 幾何學名詞。弧弦之半徑。 (termo de geometria; o 半徑 [semidiâmetro] de arco 弧 e corda 弦)
-10. 量詞。一支為一矢。 (classificador; uma unidade [支] corresponde a um 矢)
-11. 通「屎」。糞便。 (equivale a 屎; excremento, fezes)
-12. 通「兕」。獸名。 (equivale a 兕; nome de animal/besta)
-13. 通「弛」。毀壞。 (equivale a 弛; arruinar, danificar)
+4. 約誓。 (jurar; fazer juramento)
+5. 施行。 (executar; pôr em prática)
+6. 陳述；陳列。 (declarar; dispor em fileira)
+7. 乖戾；違背。 (desviado; contrário)
+8. 藏。 (guardar; armazenar)
+9. 幾何學名詞。弧弦之半徑。 (termo de geometria: metade do diâmetro da corda de um arco)
+10. 量詞。一支為一矢。 (classificador: uma haste/unidade conta como uma 矢)
+11. 通「屎」。糞便。 (por empréstimo, “屎”: fezes)
+12. 通「兕」。獸名。 (por empréstimo, “兕”: nome de animal)
+13. 通「弛」。毀壞。 (por empréstimo, “弛”: danificar; destruir)
 14. 姓。 (sobrenome)
 
 #### Decomposição e formas antigas (hanziyuan)
 
-Componentes: pictograma simples, não decomponível (name: arrow 矢 shǐ; nota de decomposição: "an arrow").
-Significado original: flecha (本义: arrow).
+Componentes: 矢 (name- arrow 矢 shǐ).
+Significado original: Meaning arrow.
 Acepções inglesas: arrow, dart; vow, swear.
-Exemplo de uso: 眾矢之的 zhòng shǐ zhī dì ("alvo de ataque público").
-Frequência de uso (importância): 2325.
-Formas atestadas (hanziyuan): 18 oráculo (甲骨文), 13 bronze (金文), 1 selo (篆), 2 Liushutong (六書通). As atestações epigráficas detalhadas constam da tabela do 小學堂 abaixo.
+Frequência de uso: 2325.
+Formas atestadas: Oracle characters 甲骨文 (18) · Bronze characters 金文 (13) · Seal characters 说文解字的篆字 (1) · Liushutong characters 六书通的字 (2).
 
 #### Shuowen Jiezi completo
 
-(Texto verbatim obtido via CUHK e 小學堂, convergentes; hanziyuan traz o mesmo texto sem pontuação e com 從.)
+(shuowen.org retornou apenas a listagem das primeiras entradas do dicionário; texto verbatim obtido via 小學堂 e CUHK, com diferença de cauda e fanqie.)
 
 **說文**: 矢，弓弩矢也。从入，象鏑栝羽之形。古者夷牟初作矢。凡矢之屬皆从矢。〔式視切〕
-(矢 é a flecha [projétil] do arco [弓] e da besta [弩]. Segue [从] 入 [entrar], representando a forma da ponta [鏑], do encaixe/nock [栝] e das penas [羽]. Na antiguidade, Yí Móu [夷牟] foi o primeiro a fazer flechas. Todo caractere da classe de 矢 segue 矢. [fanqie 式視切].)
+(Flecha: flecha de arco e besta. “Segue 入”, e representa a forma da ponta, do encaixe e das penas. Antigamente, Yímóu foi o primeiro a fazer flechas. Todo caractere da classe de 矢 segue 矢. [fanqie: 式視切])
 
 **段注 Duan Yucai**: (não obtido — shuowen.org retornou listagem; zdic.net retornou HTTP 404)
 
@@ -76,48 +75,52 @@ Formas atestadas (hanziyuan): 18 oráculo (甲骨文), 13 bronze (金文), 1 sel
 
 | Período | Script | Fonte / Artefato |
 |---|---|---|
-| Shang | Oráculo (甲骨文) | 甲3117 |
-| Zhou Ocidental (inicial) | Bronze (金文) | 矢伯隻作父癸卣 Shǐbó Huò zuò fù Guǐ yǒu |
-| Zhou Ocidental (médio) | Bronze (金文) | 簋 guǐ; 十五年趞曹鼎 Shíwǔnián Quècáo dǐng |
-| Primavera e Outono (tardio) / Reinos Combatentes (inicial) — Qin | Tambores de Pedra (石鼓文) | 石鼓文·鑾車 (Luánchē) |
-| Reinos Combatentes — Chu | Bambu (簡) | 曾56 (Zeng) |
-| Han | Selo pequeno (小篆) | 說文·矢部 (Shuowen, seção 矢) |
-| Qin | Clerical (隸書) | 睡虎地·封診式25 (Shuihudi) |
-| Han Ocidental | Clerical (隸書) | 老子甲25; 相馬經28上; 武威簡·燕禮51 (Wuwei) |
-| Cao Wei | Clerical (隸書) | 魏上尊號奏 |
-| Jin Ocidental | Clerical (隸書) | 徐夫人菅洛碑 |
+| Shang | Oráculo (甲骨文) | 甲3117(甲) |
+| Zhou Ocidental (inicial) | Bronze (金文) | 矢伯隻作父癸卣(金) |
+| Zhou Ocidental (médio) | Bronze (金文) | 簋(金) |
+| Zhou Ocidental (médio) | Bronze (金文) | 十五年趞曹鼎(金) |
+| Primavera e Outonos (tardio) ou Reinos Combatentes (inicial) — Qin | Inscrição em pedra | 石鼓文.鑾車 |
+| Reinos Combatentes — Chu | Bambu / seda | 曾56 |
+| Han | Selo pequeno (小篆) | 說文‧矢部 |
+| Qin | Clerical (隸書) | 睡.封25(隸) |
+| Han Ocidental | Clerical (隸書) | 老子甲25(隸) |
+| Han Ocidental | Clerical (隸書) | 相馬經28上(隸) |
+| Han Ocidental | Clerical (隸書) | 武威簡.燕禮51(隸) |
+| Cao Wei | Clerical (隸書) | 魏上尊號奏(隸) |
+| Jin Ocidental | Clerical (隸書) | 徐夫人菅洛碑(隸) |
 
-**Shuowen (xiaoxue)**: 《說文》：矢，弓弩矢也。从入，象鏑栝羽之形。古者夷牟初作矢。
+**Shuowen (xiaoxue)**: 矢，弓弩矢也。从入，象鏑栝羽之形。古者夷牟初作矢。
 
 **Comentários de estudiosos**:
-- 小學堂 (饒炯部首訂): 篆形上象鏑，中直象幹，下象栝，旁出象羽。說解云「从入」者誤矣。 (Na forma do selo, o alto representa a ponta [鏑]; o traço central, a haste [幹]; embaixo, o encaixe [栝]; as saliências laterais, as penas [羽]. Dizer no comentário que "segue 入" é um erro.)
-- CUHK (略說): 「矢」象箭矢之形。 (O caractere 矢 representa a forma de uma flecha.)
-- CUHK (詳解, síntese): a grafia antiga exibe com clareza a ponta (鏑), o encaixe (栝) e as penas (羽); as formas de oráculo, bronze e bambu de Chu às vezes aparecem invertidas. O sentido original é "flecha". 寅 tomou emprestado o grafismo de 矢 para exprimir seu sentido, de modo que os dois eram originalmente homógrafos; depois 寅 recebeu um 口 no meio e ambos se separaram (ver 寅). No oráculo, 矢 também vale "dispor/enfileirar" (《爾雅·釋詁》：矢，陳也); nos 睡虎地秦簡 e no 《史記·廉頗藺相如列傳》 (三遺矢), 矢 aparece em empréstimo por 屎.
+- 小學堂: 饒炯部首訂：“篆形上象鏑，中直象幹，下象栝，旁出象羽。說解云‘从入’者誤矣。” (Ráo Jiǒng, em 部首訂: “Na forma de pequeno selo, a parte superior representa a ponta; o traço reto central representa a haste; a parte inferior representa o encaixe; os traços laterais salientes representam as penas. A explicação que diz ‘从入’ está errada.”)
+- 小學堂 / CUHK: 古文字「矢」象箭矢之形，箭的鏑、栝、羽均清晰可見。甲金文、戰國竹簡或將字體倒置。 (Os grafismos antigos de 「矢」 representam a forma de uma flecha; ponta, encaixe e penas são claramente visíveis. Em 甲骨文 e 金文, e nos bambus dos Reinos Combatentes, a forma pode aparecer invertida.)
+- CUHK 略說: 「矢」象箭矢之形。 (“矢” representa a forma de uma flecha.)
+- CUHK 詳解: 按「矢」並不從「入」，而許慎提到的「夷牟」相傳是黃帝的臣子，負責造矢，《世本．作篇》：「揮作弓，夷牟作矢。」 (Nota-se que 「矢」 não segue realmente 「入」; quanto a 「夷牟」 mencionado por Xu Shen, a tradição o toma como ministro do Imperador Amarelo encarregado de fazer flechas; no *Shiben*, “Huī fez o arco; Yímóu fez as flechas.”)
 
 #### Fonologia (xiaoxue shangguyin)
 
 **中古音 Middle Chinese (Guangyun)**:
-- 攝 Division: 止 (Zhi) · 韻 Rhyme: 旨 (Zhi; 脂/旨 na CUHK) · 聲 Tone: 上 (rising) · 母 Initial: 書 (sh-)
+- 攝 Division: 止 (Zhi) · 韻 Rhyme: 旨 (Zhi) · 聲 Tone: 上 (rising) · 母 Initial: 書 (sh-)
 - 反切 Fanqie: 式視 · 等 Grade: 三 (III) · 開合 Open/Closed: 開 (open) · 清濁: 全清 (totalmente surda)
 
-**上古音 Old Chinese** (grupo de rima 脂 Zhi; grupos Han: 西漢 脂, 東漢 脂):
-- 高本漢 Karlgren: ɕi̯ər (sem 韻部 explícito na tabela)
-- 王力 Wang Li: ɕǐei
-- 董同龢 Dong Tonghe: ɕjed
-- 周法高 Zhou Fagao: stʰjier
-- 李方桂 Li Fanggui: sthjidx
+**上古音 Old Chinese** (grupo de rima 脂 Zhi):
+- 高本漢 Karlgren: ɕ i̯ər
+- 王力 Wang Li: ɕ ǐei
+- 董同龢 Dong Tonghe: ɕ jed
+- 周法高 Zhou Fagao: stʰ jier
+- 李方桂 Li Fanggui: sth jidx
 - 鄭張尚芳 Zhengzhang Shangfang: (não retornou dados — ausente da tabela do 小學堂)
 
 **國語 Mandarin IPA**: ʂʅ
 
 #### Divergências entre fontes
 
-**Leitura do grafismo e o 从入.** O *Shuowen* analisa 矢 como 从入 ("segue 入"), lendo a forma da ponta (鏑), do encaixe (栝) e das penas (羽). Tanto 饒炯 (部首訂) quanto a CUHK rejeitam essa análise: 饒炯 chama o "从入" de erro, e a CUHK afirma que 矢 並不從入. A paleografia lê o caractere como pictograma puro de flecha, sem o componente 入.
+**Leitura do grafismo.** O *Shuowen* diz “从入”, enquanto o 小學堂 cita 饒炯 para dizer explicitamente: “說解云‘从入’者誤矣.” A CUHK, em 略說 e 詳解, descreve o caractere como forma de flecha, com ponta, encaixe e penas visíveis, e também afirma: “按「矢」並不從「入」”.
 
-**矢 e 寅.** A CUHK sustenta que 寅 tomou emprestado o grafismo de 矢, de modo que os dois eram originalmente homógrafos, separando-se só quando 寅 recebeu um 口 no meio. O *Shuowen* não registra essa relação; é leitura paleográfica moderna.
+**Texto do Shuowen.** A CUHK registra o texto com a cauda completa e o fanqie: “凡矢之屬皆从矢。〔式視切〕”. O 小學堂 yanbian registra o mesmo texto até “古者夷牟初作矢。” e omite essa cauda na seção exibida. O hanziyuan traz o texto corrido sem pontuação: “弓弩矢也從入象鏑栝羽之形古者夷牟初作矢凡矢之屬皆從矢”.
 
-**矢 通 屎.** Há convergência de que 矢 serve de empréstimo para 屎 (fezes): o MDBG marca "old variant of 屎", o chardb traz a acepção 11 (通「屎」。糞便。), o CantoDict registra a acepção de fezes, e a CUHK dá a leitura cantonesa distinta si2 para esse uso. Na acepção de flecha, a leitura cantonesa é ci2; para 屎, si2.
+**Leitura cantonesa.** O CantoDict registra ci2 para o item lexical “arrow / dart / straight / to vow / to swear / old variant of 屎”. A CUHK registra ci2 e também si2, esta última marcada como “同「屎」”.
 
-**Shuowen e 段注.** O texto do *Shuowen* foi confirmado por duas fontes independentes (CUHK e 小學堂); a versão do 小學堂 é truncada (omite a cláusula 凡矢之屬皆从矢 e o fanqie 式視切) e a do hanziyuan vem sem pontuação e com 從, mas são convergentes em substância. O comentário de 段玉裁 não foi obtido: shuowen.org retornou só a listagem e o fallback zdic.net deu 404.
+**Sentidos de ‘fezes’.** O MDBG registra “old variant of 屎”. O chardb traz “通「屎」。糞便。” como acepção 11. O CantoDict abre com uma entrada em inglês “stool / feces / ear wax / nasal mucus” e outra entrada “arrow / dart / straight / to vow / to swear / old variant of 屎”. A CUHK registra “excrement, shit” no campo de sentido em inglês e separa a leitura si2 com nota “同「屎」”.
 
-**Reconstruções do 上古音.** Cinco sistemas (Karlgren, Wang Li, Dong Tonghe, Zhou Fagao, Li Fanggui) situam o caractere no grupo de rima 脂 (Zhi) — exceto Karlgren, cuja coluna de 韻部 vem em branco na tabela. A coluna de 鄭張尚芳 (Zhengzhang Shangfang) não retornou na tabela do 小學堂.
+**Reconstruções do 上古音.** O 小學堂 fornece cinco sistemas segmentados em 聲母 e 韻母; a coluna de 鄭張尚芳 (Zhengzhang Shangfang) não retornou na tabela.
