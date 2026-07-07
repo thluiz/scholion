@@ -56,7 +56,7 @@ Decomposição: 竹 (semântico) + 快 (fonético, com substrato semântico posi
 
 A história está documentada em Lu Rong 陸容 (séc. XV), *Shuyuan Zaji* 菽園雜記: "民間俗諱，各處有之，而吳中為甚。如舟行諱住、諱翻，以箸為快兒，幡布為抹布" ("As superstições populares existem em todo lugar, mas em Wuzhong [Jiangsu] são especialmente fortes. Nos barcos, evita-se '住' [parar] e '翻' [virar] — daí chamam 箸 [pauzinho] de 快兒 [rapidinho], e 幡布 [bandeira] de 抹布 [pano de limpeza]").
 
-A trajetória é etnograficamente notável: tabu fonético oral → adoção popular do termo substituto (快兒) → criação grafica especializada (筷) → adoção generalizada para todos os usos.
+A trajetória é etnograficamente notável: tabu fonético oral → adoção popular do termo substituto (快兒) → criação gráfica especializada (筷) → adoção generalizada para todos os usos.
 
 #### Evolução de formas (xiaoxue yanbian)
 
@@ -64,7 +64,7 @@ A trajetória é etnograficamente notável: tabu fonético oral → adoção pop
 
 #### Fonologia (xiaoxue shangguyin)
 
-**中古音 Middle Chinese (Guangyun)**: (não retornou dados — ausente do Guangyun como entrada independente, dado que a fixação grafica é Ming).
+**中古音 Middle Chinese (Guangyun)**: (não retornou dados — ausente do Guangyun como entrada independente, dado que a fixação gráfica é Ming).
 
 **上古音 Old Chinese**: (não retornou dados — ausente das tabelas de reconstrução OC).
 
@@ -74,7 +74,7 @@ Herdada do fonético 快: 中古音 苦夬 *kǔ-guài* (Guangyun, 蟹攝去聲),
 
 #### Divergências entre fontes
 
-- **Caractere Ming — tabu fonético**: a história de 筷 é um dos casos mais documentados de **criação grafica por tabu**. O caractere antigo 箸 (zhù) coexiste com 筷 (kuài) — em mandarim moderno, ambos significam pauzinho, com 筷 dominante na fala (筷子 kuàizi) e 箸 mantido em registros literários/clássicos. Em japonês, o caractere antigo 箸 (はし *hashi*) prevaleceu — a substituição Ming foi específica da cultura sinótica continental e não atravessou para o léxico japonês.
+- **Caractere Ming — tabu fonético**: a história de 筷 é um dos casos mais documentados de **criação gráfica por tabu**. O caractere antigo 箸 (zhù) coexiste com 筷 (kuài) — em mandarim moderno, ambos significam pauzinho, com 筷 dominante na fala (筷子 kuàizi) e 箸 mantido em registros literários/clássicos. Em japonês, o caractere antigo 箸 (はし *hashi*) prevaleceu — a substituição Ming foi específica da cultura sinótica continental e não atravessou para o léxico japonês.
 - **Atestação ausente do corpus pré-Ming**: xiaoxue e Shuowen confirmam — 筷 não tem atestação no corpus epigráfico pré-Tang/Song catalogado. É criação genuinamente tardia.
 - **Cantonês**: faai3 (tom 3 médio descendente) reflete a leitura cantonesa de 快 (kuài → faai). A pronúncia se estabilizou no léxico cantonês moderno.
 - **Aplicação ao contexto — Fai Ji 筷子 e Fai Ji Hong 筷子巷**:
