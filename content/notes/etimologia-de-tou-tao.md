@@ -68,7 +68,7 @@ Sentidos ingleses: case, cover, wrapper, envelope.
 Exemplo de uso: 套房 tào fáng (suíte de dois cômodos).
 Formas atestadas: Oracle 0 · Bronze 0 · Seal 0 · Liushutong 0 — ausência total de atestação arqueológica.
 
-CUHK regista variante gráfica antiga: 𡘷 (U+2163F), também composta de 大 + 長.
+CUHK registra variante gráfica antiga: 𡘷 (U+2163F), também composta de 大 + 長.
 
 ### Shuowen Jiezi completo (shuowen.org)
 
@@ -78,11 +78,11 @@ CUHK regista variante gráfica antiga: 𡘷 (U+2163F), também composta de 大 +
 
 ### Evolução de formas (xiaoxue yanbian)
 
-O xiaoxue não regista formas históricas para 套 (0 resultados no corpus de evolução de caracteres). Ausência confirmada em osso oracular, bronze, selo e clerical.
+O xiaoxue não registra formas históricas para 套 (0 resultados no corpus de evolução de caracteres). Ausência confirmada em osso oracular, bronze, selo e clerical.
 
 ### Fonologia (xiaoxue shangguyin)
 
-Xiaoxue shangguyin regista apenas a leitura **tǎo** (上聲 rising tone). Dados para tào (去聲 departing tone) não constam no sistema de reconstrução sistemática.
+Xiaoxue shangguyin registra apenas a leitura **tǎo** (上聲 rising tone). Dados para tào (去聲 departing tone) não constam no sistema de reconstrução sistemática.
 
 **中古音 Chinês Medieval (Guangyun 廣韻) — leitura tǎo**:
 - 攝 Division: 效 (xiào) · 韻 Rhyme: 晧 (hào) · 聲 Tone: 上 (rising) · 母 Initial: 透 (tòu, dental aspirada surda)
@@ -109,7 +109,7 @@ Ausência consistente — caractere medieval, posterior ao horizonte de reconstr
 ### Divergências entre fontes
 
 - **Ausência arqueológica consensual**: hanziyuan (0 formas em todos os scripts), xiaoxue yanbian (0 resultados), shuowen.org (sem entrada) e CUHK convergem — 套 é caractere posterior ao Shuowen Jiezi. Primeira atestação sistemática no 集韻 Jiyun (dinastia Song).
-- **Leituras tǎo vs tào**: xiaoxue shangguyin só regista a leitura 上聲 (tǎo) no Guangyun. MDBG, hanziyuan, CantoDict e chardb dão tào como leitura principal moderna. As duas entradas do 集韻 (402.4.5 e 588.2.1) sugerem que tào já foi registrado em dicionários Song, mas a reconstrução fonológica sistemática do xiaoxue cobre apenas a leitura 上聲.
+- **Leituras tǎo vs tào**: xiaoxue shangguyin só registra a leitura 上聲 (tǎo) no Guangyun. MDBG, hanziyuan, CantoDict e chardb dão tào como leitura principal moderna. As duas entradas do 集韻 (402.4.5 e 588.2.1) sugerem que tào já foi registrado em dicionários Song, mas a reconstrução fonológica sistemática do xiaoxue cobre apenas a leitura 上聲.
 - **Definição primária divergente**: chardb lista como def.1 "長；長大" (longo; crescer longo) — sentido etimológico derivado do componente 長. Hanziyuan aponta "original meaning: to cover" — sentido funcional que dominou historicamente. CUHK concilia: a composição 大 + 長 representa visualmente uma cobertura alongada que se ajusta sobre algo maior.
 - **Decomposição fonética questionável**: hanziyuan marca 镸/長 como "related phonetic", mas foneticamente tào (透母晧韻) e zhǎng (知母陽韻) não compartilham série fonética clara em Old Chinese. A decomposição pode ser predominantemente ideográfica (grande + longo = estender sobre) mais do que fonossemântica pura. CUHK reforça a leitura ideográfica.
 - **Leitura cantonesa uniforme**: MDBG não oferece jyutping, mas cantonese.org dá tou3 e CUHK dá t'ou³ — valores equivalentes (tou3 em jyutping moderno = t'ou tom 3 na notação Yale antiga). Consenso.
