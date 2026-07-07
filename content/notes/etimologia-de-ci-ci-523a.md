@@ -52,10 +52,10 @@ sources:
 8. 草木的芒刺 (espinhos de plantas e ervas)
 9. 柄 (cabo, punho)
 10. 偵察；探詢 (espionar; inquirir)
-11. 采錄；書寫 (recolher e registar; escrever)
+11. 采錄；書寫 (recolher e registrar; escrever)
 12. 指責；譏諷 (censurar; satirizar)
 13. 名帖 (cartão de visita; nominativo)
-14. 古代一種公文文體名 (nome de um género de documento oficial antigo)
+14. 古代一種公文文體名 (nome de um gênero de documento oficial antigo)
 15. 圍棋的一種戰術 (uma tática do jogo go / weiqi)
 16. 姓 (sobrenome)
 
@@ -83,7 +83,7 @@ Formas atestadas (todas em escrita 隸 *li*, clerical, salvo o selo do *Shuowen*
 
 | Período | Script | Fonte / Artefato | Forma |
 |---|---|---|---|
-| — | 小篆 *xiaozhuan* (selo pequeno) | 說文‧刀部 (*Shuowen*, secção do radical 刀 *dao* "faca") | forma de selo padrão |
+| — | 小篆 *xiaozhuan* (selo pequeno) | 說文‧刀部 (*Shuowen*, seção do radical 刀 *dao* "faca") | forma de selo padrão |
 | 秦 Qin (séc. III a.C.) | 隸 *li* (clerical) | 睡虎地簡 38.124 (*tiras de bambu de Shuihudi*) | atestação clerical mais antiga |
 | 西漢 Han Ocidental | 隸 *li* | 老子乙 195上 (*manuscrito Laozi B*) | — |
 | 西漢 Han Ocidental | 隸 *li* | 武威簡‧士相見 16 (*tiras de Wuwei, "Encontro entre Cavalheiros"*) | — |
@@ -119,8 +119,8 @@ Formas atestadas (todas em escrita 隸 *li*, clerical, salvo o selo do *Shuowen*
 
 - **Significado primário**: o *Shuowen* abre com 君殺大夫曰刺 ("matar grande oficial pelo soberano"), mas o próprio Xu Shen rebate em seguida com 刺，直傷也 ("é ferida direta"); o 段注 explicita que 直傷 é o sentido raiz e 君殺大夫 é uso especializado das crónicas das *Primaveras e Outonos*. MDBG e hanziyuan resumem como "stab; prick; pierce", o que coincide com 直傷, não com a glosa palaciana.
 - **Decomposição**: hanziyuan apresenta 朿 como **fonético** ("related phonetic fire-drill"), enquanto o *Shuowen* explicita o estatuto duplo — 從刀從朿，朿亦聲 (semântico *e* fonético, *huiyi-xingsheng*). A versão de Sears omite o componente semântico e a glosa "fire-drill" é interpretação dele, não do *Shuowen* (que descreve 朿 como espinho de planta).
-- **Acepções exclusivas do chardb**: MDBG cobre apenas thorn/stab/onomatopaico; chardb adiciona doze sentidos clássicos ausentes nos modernos — bordar (繡), impelir barco (撐船), cabo (柄), cartão de visita (名帖), género documental (公文文體) e tática do go (圍棋戰術). Todos estes ressoam com os usos arrolados no 段注.
+- **Acepções exclusivas do chardb**: MDBG cobre apenas thorn/stab/onomatopaico; chardb adiciona doze sentidos clássicos ausentes nos modernos — bordar (繡), impelir barco (撐船), cabo (柄), cartão de visita (名帖), gênero documental (公文文體) e tática do go (圍棋戰術). Todos estes ressoam com os usos arrolados no 段注.
 - **Atestações**: hanziyuan reporta 0 Oracle, 0 Bronze, 1 Seal — xiaoxue confirma a ausência epigráfica em Oracle e Bronze e enriquece o registo pós-Qin com 7 atestações em escrita clerical (Shuihudi, Laozi B, Wuwei, selos Han, estelas Han Oriental e Sun Wu). 刺 é, portanto, atestado tarde: forma de selo no *Shuowen* + corpus clerical de Qin/Han, sem testemunho oracular ou em bronze.
 - **Variante gráfica**: o comentário de Gu Aiji documenta 㓨 (variante substituindo 朿 por 夾) e cita o *Zuo Zhuan* — divergência ortográfica relevante para leitura de textos pré-Qin.
 - **Fonologia**: convergência sólida entre as cinco reconstruções para uma sibilante surda aspirada (*tsʰ-) com vogal anterior alta + coda velar sonora; Wang Li discrepa ao reconstruir oclusiva *tʰ-, possivelmente refletindo agrupamento por séries de classe e não por classe inicial. Zhengzhang Shangfang ausente da tabela xiaoxue para este caractere.
-- **Cantonês**: CantoDict regista ci3 (tom 3, médio); coerente com o tom 去 *qu* (departing) do *Guangyun* e com a inicial 清 (clear/aspirated) — o jyutping ci3 é a evolução regular esperada.
+- **Cantonês**: CantoDict registra ci3 (tom 3, médio); coerente com o tom 去 *qu* (departing) do *Guangyun* e com a inicial 清 (clear/aspirated) — o jyutping ci3 é a evolução regular esperada.
