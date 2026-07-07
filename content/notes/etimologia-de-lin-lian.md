@@ -105,9 +105,9 @@ Total: 4 formas. Nenhuma atestação em osso oracular, bronze ou Warring States 
 
 - **Sentido original — semente vs. planta inteira**: Shuowen é explícito: 芙蕖之實也 — 蓮 é especificamente o FRUTO/SEMENTE do lótus, não a planta inteira (que seria 芙蕖 em termos clássicos ou 荷 em uso comum). O chardb def. 1 preserva esta distinção: "semente de 荷, depois também designa a planta inteira". MDBG, CantoDict e hanziyuan colapsam: "lotus" sem distinção. Divergência importante — o sentido específico original perdeu-se no uso moderno.
 - **Leitura "flor que conecta" é interpretação folclórica**: apesar de tentador ler 蓮 como "planta que conecta" (por causa do componente 連 — conectar), isto não tem suporte etimológico. Shuowen e hanziyuan deixam claro: 連 é puramente fonético. A interpretação semântica é reinterpretação budista tardia.
-- **Uso budista**: chardb def. 2 regista 蓮 como metonímia budista para a Terra Pura (淨土). O assento de lótus (蓮臺), o trono de lótus de Buda, a imagem canônica: o lótus emerge puro do lodo como símbolo da liberação. Ausente do MDBG.
-- **Topónimo Han**: chardb def. 3 regista 蓮勺 — condado Han abolido no Sui. Registro onomástico raro.
+- **Uso budista**: chardb def. 2 registra 蓮 como metonímia budista para a Terra Pura (淨土). O assento de lótus (蓮臺), o trono de lótus de Buda, a imagem canônica: o lótus emerge puro do lodo como símbolo da liberação. Ausente do MDBG.
+- **Topónimo Han**: chardb def. 3 registra 蓮勺 — condado Han abolido no Sui. Registro onomástico raro.
 - **Ausência pré-imperial**: tanto hanziyuan (0+0+1) quanto xiaoxue (4 formas, começando no pequeno selo) confirmam que 蓮 é formação pós-Warring States. Pode ter sido separado graficamente de 連 (com o radical 艹 acrescentado) justamente para distinguir o uso botânico da conjunção "conectar".
-- **Duas leituras tonais**: chardb regista lián (tom 2, principal) e liǎn (tom 3, secundária). Xiaoxue dá apenas lián. Provável variação dialetal.
+- **Duas leituras tonais**: chardb registra lián (tom 2, principal) e liǎn (tom 3, secundária). Xiaoxue dá apenas lián. Provável variação dialetal.
 - **Consenso fonológico OC**: todos os cinco sistemas reconstroem *l- + -ian (com leves variantes), grupo 元 (yuán). Inicial lateral, rima nasal. Sem controvérsia.
 - **Simbolismo**: para além do sentido botânico, 蓮 carrega a simbologia confuciana (Zhou Dunyi, 《愛蓮說》: "o lótus emerge do lodo sem ser contaminado") e budista (pureza, iluminação). Associação que justifica o uso em nomes kung fu.
