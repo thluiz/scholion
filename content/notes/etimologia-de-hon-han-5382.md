@@ -34,9 +34,9 @@ sources:
 
 #### Definições
 
-**MDBG**: factory / yard / depot / workhouse / works / (industrial) plant; "cliff" radical in Chinese characters (Kangxi radical 27), occurring in 原, 历, 压 etc; name of "cliff" 厂 radical in simplified Chinese characters (Kangxi radical 27); variant of 廠｜厂.
+**MDBG**: duas entradas para 厂 — chǎng: factory / yard / depot / workhouse / works / (industrial) plant (forma tradicional 廠); hǎn: "cliff" radical in Chinese characters (Kangxi radical 27), occurring in 原, 历, 压 etc. Entradas afins: 厂字旁 chǎngzìpáng (name of "cliff" 厂 radical in simplified Chinese characters) e 厰 chǎng (variant of 廠｜厂).
 
-**CantoDict**: hon3; name of "cliff" 厂 radical in simplified Chinese characters (Kangxi radical 27).
+**CantoDict**: sem entrada isolada para 厂; a leitura aparece em 厂字旁 hon3 zi6 pong4 {chǎng zì páng} — name of "cliff" 厂 radical in simplified Chinese characters (Kangxi radical 27).
 
 **chardb Academia Sinica**:
 1. 山崖。 (penhasco de montanha)
