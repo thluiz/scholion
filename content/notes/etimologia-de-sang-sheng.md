@@ -152,9 +152,9 @@ Total: 16 formas. Atestado continuamente desde o Shang até o Han Oriental.
 ### Divergências entre fontes
 
 - **Consenso pictográfico total**: todas as fontes convergem — 生 é pictograma do broto emergindo do solo. Shuowen, Duan Yucai, hanziyuan e xiaoxue concordam: parte superior é 屮 (broto), parte inferior é 土 (terra). Sem divergência.
-- **Dois jyutpings**: CantoDict regista saang1 (leitura vernacular, mais comum) e sang1 (leitura literária). Em nomes kung fu a leitura Sang sugere a variante literária.
+- **Dois jyutpings**: CantoDict registra saang1 (leitura vernacular, mais comum) e sang1 (leitura literária). Em nomes kung fu a leitura Sang sugere a variante literária.
 - **Shuowen "avançar" vs chardb "brotar"**: o Shuowen define 進也 ("avançar") como sentido primário; o chardb (def. 1) dá 長出；生長 ("brotar, crescer"). A diferença é subtil — 進 (avançar) capta o sentido abstrato do movimento ascendente da vida, enquanto 長出 capta o concreto do broto. Arco contínuo, não divergência.
-- **Contagem de formas oracle**: hanziyuan regista 52 formas em osso (J15323–J15374); xiaoxue regista apenas 2 (甲200, 粹1131). Divergência típica de corpora — hanziyuan inclui variantes e duplicatas, xiaoxue filtra.
+- **Contagem de formas oracle**: hanziyuan registra 52 formas em osso (J15323–J15374); xiaoxue registra apenas 2 (甲200, 粹1131). Divergência típica de corpora — hanziyuan inclui variantes e duplicatas, xiaoxue filtra.
 - **Contagem de formas bronze**: hanziyuan 42 (B09291–B09332); xiaoxue 6. Mesma dinâmica.
 - **Polifuncionalidade**: 41 acepções no chardb incluem uso como: substantivo (vida, ser vivo), verbo (nascer, produzir, viver), adjetivo (cru, fresco, desconhecido), advérbio de grau (muito), sufixo adjetival, e variante/empréstimo para 甥 (sobrinho), 牲 (animal sacrificial), 眚 (doença), 姓 (sobrenome), 性 (natureza). Caractere-chave do léxico chinês.
 - **Relação com 性**: o sentido "natureza essencial/inata" (def. 36) foi posteriormente separado graficamente para 性 (com radical 心, coração) — 生 é o étimo de 性. Base da tradição filosófica 人性 (natureza humana).
