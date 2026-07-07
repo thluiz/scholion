@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-07-07",
+    "subject": "fix: separa as entradas do MDBG/CantoDict fundidas na nota de 厂"
+  },
+  {
+    "date": "2026-07-07",
     "subject": "fix: regenera etimologia de 厂 (auditoria de fontes, radical Kangxi 27)"
   },
   {
