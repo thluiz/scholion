@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 真 (Jan — Zhēn / zan1)"
 date: '2026-04-24T20:29:06+01:00'
-summary: "Análise etimológica de 真 (Zhēn / zan1), 'verdadeiro, autêntico'. Shuowen: 僊人變形而登天也 ('o imortal que muda de forma e ascende ao céu') — etimologia taoista. Componentes: 𠤎 (forma alterada, homem invertido) + 目 (olho) + 𠃊 (ocultar) + 八 (base/suporte). 段注 de Duan Yucai é uma das mais extensas do Shuowen, conectando 真 a todo o campo semântico da 'plenitude' (稹, 鎭, 填, 愼). Forma clássica alternativa: 眞. No Hai Tong, aparece em jan jing 真正 (verdadeiro). Sete fontes consultadas."
+summary: "Análise etimológica de 真 (Zhēn / zan1), 'verdadeiro, autêntico'. Shuowen: 僊人變形而登天也 ('o imortal que muda de forma e ascende ao céu') — etimologia taoísta. Componentes: 𠤎 (forma alterada, homem invertido) + 目 (olho) + 𠃊 (ocultar) + 八 (base/suporte). 段注 de Duan Yucai é uma das mais extensas do Shuowen, conectando 真 a todo o campo semântico da 'plenitude' (稹, 鎭, 填, 愼). Forma clássica alternativa: 眞. No Hai Tong, aparece em jan jing 真正 (verdadeiro). Sete fontes consultadas."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 category: etymology
@@ -42,7 +42,7 @@ Forma guwen: 𠤛
 **CantoDict**: zan1 (tom 1, alto nível)
 
 **chardb [Academia Sinica](https://chardb.iis.sinica.edu.tw/search.jsp?stype=1&q=真)**:
-1. 道教中的仙人或得道者 (imortal taoista; aquele que atingiu o Caminho)
+1. 道教中的仙人或得道者 (imortal taoísta; aquele que atingiu o Caminho)
 2. 精；純 (refinado; puro)
 3. 原始；本來的 (original; inerente)
 4. 本性；本質 (natureza/essência fundamental)
@@ -80,9 +80,9 @@ Duan Yucai escreve sobre 真 um dos comentários mais extensos do Shuowen Jiezi 
 
 3. **愼=誠 (paronímia)**: "O caractere 愼 é hoje glossado como 'cauteloso' [謹], mas na antiguidade é glossado como 'sincero' [誠]. Citações do Xiǎoyǎ e Dàyǎ do Shijing confirmam: '愼 é 誠.' 愼 significa 'sincero' porque se compõe com 真 — a pessoa tem de ser sincera antes de ser reverente; sem sinceridade, não há reverência possível. Reverência é o segundo sentido de 愼; sinceridade é o primeiro."
 
-4. **Composição pictográfica**: "De 匕 [forma invertida de 人], 目, 𠃊. Muda de forma [變形], por isso com 匕 [invertido]. A ênfase em 目 [olho] — livros taoistas dizem: 'No caminho do cultivo da vida, orelhas e olhos vêm primeiro. Olhos e ouvidos são os degraus para buscar o 真 [真].' Wei Zhao diz: '[O imortal] Wòquán tem olhos quadrados.' 𠃊 é 匿 [esconder], pronunciado como 隱; os imortais podem esconder a forma. 八 é a base do selo. O que o transporta — 八 é forma reduzida de 丌 [suporte], a base inferior. *Bàopǔzǐ* diz: 'Os que cavalgam [蹻] podem percorrer o mundo.' Há três caminhos do cavalgar: dragão, qi, pulley-wheel. 眞 é composto semântico [會意] de quatro elementos. Fanqie: 側鄰切. Grupo rímico 12."
+4. **Composição pictográfica**: "De 匕 [forma invertida de 人], 目, 𠃊. Muda de forma [變形], por isso com 匕 [invertido]. A ênfase em 目 [olho] — livros taoístas dizem: 'No caminho do cultivo da vida, orelhas e olhos vêm primeiro. Olhos e ouvidos são os degraus para buscar o 真 [真].' Wei Zhao diz: '[O imortal] Wòquán tem olhos quadrados.' 𠃊 é 匿 [esconder], pronunciado como 隱; os imortais podem esconder a forma. 八 é a base do selo. O que o transporta — 八 é forma reduzida de 丌 [suporte], a base inferior. *Bàopǔzǐ* diz: 'Os que cavalgam [蹻] podem percorrer o mundo.' Há três caminhos do cavalgar: dragão, qi, pulley-wheel. 眞 é composto semântico [會意] de quatro elementos. Fanqie: 側鄰切. Grupo rímico 12."
 
-Esta nota mostra que 真 é, no pensamento Shuowen/段注, um caractere intimamente ligado à tradição taoista: a 'verdade' é a 'realidade plena' do imortal que transcende transformação. 段玉裁 conecta 真 a toda uma família lexical da 'plenitude/substancialidade' (充實), fazendo deste um dos pilares semânticos do léxico filosófico chinês.
+Esta nota mostra que 真 é, no pensamento Shuowen/段注, um caractere intimamente ligado à tradição taoísta: a 'verdade' é a 'realidade plena' do imortal que transcende transformação. 段玉裁 conecta 真 a toda uma família lexical da 'plenitude/substancialidade' (充實), fazendo deste um dos pilares semânticos do léxico filosófico chinês.
 
 #### Evolução de formas ([xiaoxue yanbian](https://xiaoxue.iis.sinica.edu.tw/yanbian?char=真))
 
@@ -121,7 +121,7 @@ Esta nota mostra que 真 é, no pensamento Shuowen/段注, um caractere intimame
 
 #### Divergências entre fontes
 
-**Etimologia taoista Shuowen vs sentido clássico pré-taoista**: O Shuowen oferece etimologia taoista (imortal ascendendo ao céu). 段玉裁 nota explicitamente que **os clássicos pré-filosóficos não usam 真** — só 誠實 ("sinceridade-substância"). 真 é vocábulo filosófico-taoista que entra no léxico tardiamente. Esta é observação filológica importante: 真 como "verdade" é conceito pós-clássico.
+**Etimologia taoísta Shuowen vs sentido clássico pré-taoísta**: O Shuowen oferece etimologia taoísta (imortal ascendendo ao céu). 段玉裁 nota explicitamente que **os clássicos pré-filosóficos não usam 真** — só 誠實 ("sinceridade-substância"). 真 é vocábulo filosófico-taoísta que entra no léxico tardiamente. Esta é observação filológica importante: 真 como "verdade" é conceito pós-clássico.
 
 **Família lexical da 'plenitude' — 真 como fonético**: 段玉裁 lista 15 caracteres que têm 真 como fonético: 稹 (colheita abundante), 鎭 (pressionar com peso), 瞋 (olhar fixamente), 塡 (preencher), 愼 (sincero), 顚 (topo da cabeça), 槇 (topo da árvore) etc. Todos carregam sentido de 'plenitude/substância'. 真 é, portanto, âncora fonossemântica de um campo lexical vasto.
 
@@ -129,12 +129,12 @@ Esta nota mostra que 真 é, no pensamento Shuowen/段注, um caractere intimame
 
 **Composição semântica elaborada — 變形而登天**: A análise Shuowen é rara em profundidade descritiva:
 - 𠤎 (匕, forma invertida) — a mudança de forma (metamorfose)
-- 目 — os olhos, degraus do cultivo taoista
+- 目 — os olhos, degraus do cultivo taoísta
 - 𠃊 (som 隱) — a capacidade de esconder-se
 - 八 (base/丌) — o veículo que transporta (蹻 do Bàopǔzǐ)
 
-Esta é leitura claramente taoista — o caractere 真 enquanto retrato de um imortal em ascensão.
+Esta é leitura claramente taoísta — o caractere 真 enquanto retrato de um imortal em ascensão.
 
-**Jan jing 真正 no Hai Tong**: No Hai Tong, 真正 ("verdadeiro") aparece como "真正 [jan jing] significado de Biu Ji é tomar a bússola como comparativo". 真 aqui tem sentido "autêntico/não-iludido" — o sentido comum pós-taoista.
+**Jan jing 真正 no Hai Tong**: No Hai Tong, 真正 ("verdadeiro") aparece como "真正 [jan jing] significado de Biu Ji é tomar a bússola como comparativo". 真 aqui tem sentido "autêntico/não-iludido" — o sentido comum pós-taoísta.
 
 **Convergência fonológica 真部**: Os cinco sistemas unanimemente em 真 — grupo rímico batizado por 真 como caractere representante. Forte estabilidade desde OC.
