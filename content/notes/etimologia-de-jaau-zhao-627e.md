@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 找 (Jaau — Zhǎo / zaau2)"
 date: '2026-05-10T23:24:31+01:00'
-summary: "Etimologia de 找 (jaau / zhǎo / zaau2): buscar, procurar, encontrar, dar troco. Composto fonossemântico de 扌 (mão) + 戈 (gē, lança). Caractere tardio — ausente do Shuowen, do Guangyun, e do corpus epigráfico clássico. Fixação grafica provavelmente Ming-Qing. Aparece em jaau cham 找尋 (procurar-buscar) no Hai Tong por Moy Yat — termo do vocabulário pedagógico para a atitude investigativa do praticante."
+summary: "Etimologia de 找 (jaau / zhǎo / zaau2): buscar, procurar, encontrar, dar troco. Composto fonossemântico de 扌 (mão) + 戈 (gē, lança). Caractere tardio — ausente do Shuowen, do Guangyun, e do corpus epigráfico clássico. Fixação gráfica provavelmente Ming-Qing. Aparece em jaau cham 找尋 (procurar-buscar) no Hai Tong por Moy Yat — termo do vocabulário pedagógico para a atitude investigativa do praticante."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 category: etymology
@@ -65,7 +65,7 @@ Atestação mais antiga datável: requer estudo de corpus vernacular Ming-Qing (
 
 #### Divergências entre fontes
 
-- **Caractere tardio**: 找 está ausente do *Shuowen* (Han, c. 121 EC), do *Guangyun* (Song, 1008 EC) e do corpus epigráfico pré-Han catalogado pela Academia Sinica. Sua função semântica ("buscar, procurar") era veiculada por outros caracteres na antiguidade (爪, 招, 抓, 尋, 求, 探). A fixação grafica de 找 com a função moderna provavelmente é Ming-Qing — período de expansão da escrita vernacular onde caracteres novos foram criados ou semanticamente especializados para o léxico coloquial.
+- **Caractere tardio**: 找 está ausente do *Shuowen* (Han, c. 121 EC), do *Guangyun* (Song, 1008 EC) e do corpus epigráfico pré-Han catalogado pela Academia Sinica. Sua função semântica ("buscar, procurar") era veiculada por outros caracteres na antiguidade (爪, 招, 抓, 尋, 求, 探). A fixação gráfica de 找 com a função moderna provavelmente é Ming-Qing — período de expansão da escrita vernacular onde caracteres novos foram criados ou semanticamente especializados para o léxico coloquial.
 - **Etimologia gráfica**: 扌 (mão) + 戈 (lança/alabarda). A combinação sugere "mão estendida com instrumento" — busca ativa, talvez tateando ou investigando. O componente 戈 é mais frequentemente semântico (não puramente fonético) em compostos com 扌, indicando ação ofensiva ou de busca.
 - **Acepção "dar troco"**: além do sentido nuclear "buscar/procurar", 找 desenvolveu acepção econômica especializada — "dar troco" (找錢 *zhǎo qián*). A relação semântica: ao receber pagamento maior que o preço, o vendedor *busca* (找) a diferença para devolver. Esta acepção é exclusiva do 找 moderno; em chinês clássico, "troco" era expresso de outras formas.
 - **Cantonês**: zaau2 (tom 2 alto subindo). Sem registro no Guangyun, a leitura cantonesa moderna provavelmente reflete reanálise pelo sistema fonológico cantonês posterior ao Song. Forma estável no cantonês moderno.
