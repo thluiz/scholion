@@ -81,7 +81,7 @@ Formas atestadas: Oracle 25 · Bronze ?
 
 教行於上，則化成於下。賈生曰：此五學者旣成於上，則百姓黎民化輯於下矣。老子曰：我無爲而民自化。从匕人，上匕之而下從匕謂之化。化篆不入人部而入匕部者，不主謂匕於人者，主謂匕人者也。今以化爲變匕字矣。匕亦聲。呼跨切。十七部。
 
-Tradução: "**Quando o ensino acontece em cima [教行於上], a transformação completa-se embaixo [化成於下]**. Jia Sheng [Jia Yi, séc. II a.C.] disse: 'Estes cinco aprendizados, uma vez completados em cima, fazem o povo e a multidão transformarem-se e harmonizarem-se embaixo.' **Laozi disse: 我無爲而民自化** ('Eu não-faço, e o povo transforma-se por si'). De 匕 [pessoa invertida] e 人 [pessoa em pé]; **transformar acima [上匕之] e seguir abaixo [下從匕] chama-se 化** [transformar-se]. O caractere 化 não foi colocado na secção 人 [pessoa] mas na secção 匕 [pessoa invertida] — porque o foco não está em **inverter pessoa [匕於人者]** mas em **inverter [como ato] pessoas [匕人者]** [verbo aplicado às pessoas]. Hoje usa-se 化 para significar 變匕 [transformar/inverter]. 匕 também é fonético. Fanqie: 呼跨切. Grupo rímico 17."
+Tradução: "**Quando o ensino acontece em cima [教行於上], a transformação completa-se embaixo [化成於下]**. Jia Sheng [Jia Yi, séc. II a.C.] disse: 'Estes cinco aprendizados, uma vez completados em cima, fazem o povo e a multidão transformarem-se e harmonizarem-se embaixo.' **Laozi disse: 我無爲而民自化** ('Eu não-faço, e o povo transforma-se por si'). De 匕 [pessoa invertida] e 人 [pessoa em pé]; **transformar acima [上匕之] e seguir abaixo [下從匕] chama-se 化** [transformar-se]. O caractere 化 não foi colocado na seção 人 [pessoa] mas na seção 匕 [pessoa invertida] — porque o foco não está em **inverter pessoa [匕於人者]** mas em **inverter [como ato] pessoas [匕人者]** [verbo aplicado às pessoas]. Hoje usa-se 化 para significar 變匕 [transformar/inverter]. 匕 também é fonético. Fanqie: 呼跨切. Grupo rímico 17."
 
 Esta entrada é uma das mais filosoficamente densas do Shuowen. 段玉裁 cita explicitamente o **Laozi** ("我無爲而民自化") — texto fundador do Daoísmo — para mostrar que 化 carrega o conceito de **transformação como efeito do não-agir**: o sábio em cima ensina (ou não-ensina) e o povo embaixo transforma-se sozinho.
 
@@ -97,7 +97,7 @@ Esta entrada é uma das mais filosoficamente densas do Shuowen. 段玉裁 cita e
 | Late Warring States, Jin 戰國晚期·晉 | Bronze 金文 | 七年侖氏戈 (Qī nián Lún shì gē — alabarda do clã Lun do sétimo ano) |
 | Warring States, Jin 戰國·晉 | Coin 貨幣 | 貨系0456 (Huò xì 0456) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 郭.老甲.6 (Guōdiàn *Lǎozǐ jiǎ* 6 — Guodian *Laozi* A) |
-| Han | Seal 篆書 | 說文‧𠤎部 (Shuōwén, secção 𠤎) |
+| Han | Seal 篆書 | 說文‧𠤎部 (Shuōwén, seção 𠤎) |
 | Qin 秦 | Seal 篆書 | 泰山刻石 (Tàishān kèshí — Inscrição do Monte Tai) |
 | Western Han 西漢 | Clerical 隸書 | 老子甲42 (Lǎozǐ jiǎ 42 — Mawangdui Laozi A) |
 | Western Han 西漢 | Clerical 隸書 | 孫子53 (Sūnzǐ 53 — bambu *Sun Bin Bingfa*) |
@@ -122,7 +122,7 @@ Esta entrada é uma das mais filosoficamente densas do Shuowen. 段玉裁 cita e
 - 王力 Wang Li: k / oai (歌部 gē)
 - 董同龢 Dong Tonghe: x / ua (歌部 gē)
 - 周法高 Zhou Fagao: x / rwa (歌部 gē)
-- 李方桂 Li Fanggui: hw / rarh (歌部 gē) — nota: 聲母據「上古聲母」一節應為 hngw- (a inicial deveria ser hngw- segundo a secção dedicada às iniciais Old Chinese)
+- 李方桂 Li Fanggui: hw / rarh (歌部 gē) — nota: 聲母據「上古聲母」一節應為 hngw- (a inicial deveria ser hngw- segundo a seção dedicada às iniciais Old Chinese)
 - 鄭張尚芳 Zhengzhang Shangfang: (não retornou dados — ausente da tabela xiaoxue)
 
 **Han**: Western Han — 歌 · Eastern Han — 歌
