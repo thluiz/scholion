@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 止 (Zi — Zhǐ / zi2)"
-date: '2026-07-06T12:44:41+01:00'
-summary: "O pictograma do pé (planta do pé), radical Kangxi nº 77. O Shuowen lê 止 como 下基也 'a base inferior', com etimologia botânica (broto que ganha raiz); a paleografia lê forma do pé humano, sendo 止 o grafismo original de 趾."
+date: '2026-07-07T19:38:31+01:00'
+summary: 'O pictograma de pé, radical Kangxi nº 77. O Shuowen lê 止 como 下基也 ''base inferior'', associando-o a 艸木出有址; a paleografia da CUHK e do hanziyuan lê a forma como pé/palma do pé.'
 toc: true
 tags: ["china", "linguagem", "etimologia", "ideogramas", "radicais"]
 category: etymology
@@ -28,54 +28,54 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 77 (止, pé / planta do pé). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 77 (止, parar). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **止** — U+6B62 · 部首 radical: 止 (nº 77) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄓˇ · 拼音 pinyin: zhǐ / jyutping: zi2
 
 #### Definições
 
-**MDBG**: to stop; to prohibit; until; only (parar; proibir; até; apenas). HSK 6.
+**MDBG**: to stop / to prohibit / until / only
 
-**CantoDict**: zi2 {zhǐ} — to stop; to prohibit; until; only (parar; proibir; até; apenas).
+**CantoDict**: zi2. Confirmado pela CUHK.
 
 **chardb Academia Sinica**:
-1. 足；腳 (pé; perna/pé)
-2. 至，臨 (chegar, aproximar-se)
-3. 停止 (parar; cessar)
-4. 靜止 (ficar imóvel; repouso)
-5. 處所；居處 (lugar; residência)
-6. 居住 (habitar; morar)
-7. 停留；逗留 (deter-se; permanecer)
-8. 留住；拘留 (reter; deter/prender)
-9. 聚集 (reunir-se; juntar)
-10. 禁止；阻攔 (proibir; barrar)
-11. 除滅；醫治 (eliminar; curar)
-12. 減省 (reduzir; economizar)
-13. 容止，禮貌 (o porte, as maneiras; cortesia)
-14. 樂器，擊柷的槌子 (instrumento musical: o macete com que se percute o zhù)
-15. 副詞。相當於「僅」、「只」 (advérbio: equivalente a "apenas", "só")
-16. 助詞 (partícula gramatical)
-17. 地基 (alicerce; fundação)
-18. 水中的小洲 (pequena ilhota no meio da água)
-19. 通「之」。①作指示代詞。②往 (usado por 之: ① como pronome demonstrativo; ② ir)
-20. 通「豸」。無腳的蟲 (usado por 豸: inseto sem patas)
-21. 姓 (sobrenome)
-22. 用於語尾，以加強語氣 (usado no fim da frase, para reforçar o tom)
+1. 足；腳。 (pé; perna)
+2. 至，臨。 (chegar; aproximar-se)
+3. 停止。 (parar)
+4. 靜止。 (ficar imóvel)
+5. 處所；居處。 (lugar; residência)
+6. 居住。 (residir)
+7. 停留；逗留。 (permanecer; demorar-se)
+8. 留住；拘留。 (reter; deter)
+9. 聚集。 (reunir-se)
+10. 禁止；阻攔。 (proibir; barrar)
+11. 除滅；醫治。 (eliminar; tratar)
+12. 減省。 (reduzir; poupar)
+13. 容止，禮貌。 (porte, maneiras)
+14. 樂器，擊柷的槌子。 (instrumento musical, o malho para golpear o 柷)
+15. 副詞。相當於「僅」、「只」。 (advérbio: equivalente a "somente", "apenas")
+16. 助詞。 (partícula)
+17. 地基。 (alicerce)
+18. 水中的小洲。 (ilhota na água)
+19. 通「之」。①作指示代詞。②往。 (empréstimo por 「之」: ① como pronome demonstrativo ② ir para)
+20. 通「豸」。無腳的蟲。 (empréstimo por 「豸」: inseto/animal sem patas)
+21. 姓。 (sobrenome)
+22. 用於語尾，以加強語氣。 (usado no fim da frase para reforçar o tom)
 
 #### Decomposição e formas antigas (hanziyuan)
 
-Componentes: 龰 (止) — pictograma do pé voltado para a frente (name- foot-forward), com a nota de decomposição "a foot moving forward" (um pé em movimento à frente).
-Significado original: pé (本义: meaning a foot).
+Componentes: 龰止 (name- foot-forward 龰止 zhǐ).
+Significado original: Meaning a foot (本义: Meaning a foot).
 Acepções inglesas: stop, halt, desist; detain.
 Frequência de uso: 564.
-Formas atestadas: o fetch do hanziyuan lista 甲骨文 Oráculo (13), 金文 Bronze (1), 篆字 Selo do Shuowen (1) e 六書通 Liushutong (5); as atestações epigráficas detalhadas constam da tabela do 小學堂 abaixo.
+Formas atestadas: Oracle characters 甲骨文 (13) · Bronze characters 金文 (1) · Seal characters 说文解字的篆字 (1) · Liushutong characters 六书通的字 (5).
 
 #### Shuowen Jiezi completo
 
-(texto verbatim obtido via 小學堂 e CUHK, convergentes; hanziyuan reproduz o mesmo texto sem pontuação.)
+(shuowen.org retornou apenas a listagem das primeiras entradas do dicionário; texto verbatim obtido via 小學堂 e CUHK, não idênticas.)
 
-**說文**: 止，下基也。象艸木出有址，故以止爲足。凡止之屬皆从止。〔諸市切〕
-(止 é 下基 — "a base inferior", "o fundamento". Representa o broto de plantas e árvores ao sair [do solo], que tem raiz [址]; por isso 止 é tomado como "pé". Todo caractere da classe de 止 segue 止. [fanqie: 諸市切])
+**說文**: 止，下基也。象艸木出有址，故以止爲足。凡止之屬皆从止。
+(Base inferior. Representa plantas e árvores surgindo com um local de base; por isso 止 é tomado como "pé". Todo caractere da classe de 止 segue 止.)
 
 **段注 Duan Yucai**: (não obtido — shuowen.org retornou listagem; zdic.net retornou HTTP 404)
 
@@ -83,45 +83,44 @@ Formas atestadas: o fetch do hanziyuan lista 甲骨文 Oráculo (13), 金文 Bro
 
 | Período | Script | Fonte / Artefato |
 |---|---|---|
-| Shang | Oráculo (甲骨文) | 甲2744; 甲600 |
-| Shang | Bronze (金文) | 亞止鼎 Yà Zhǐ dǐng (Shang tardio) |
-| Zhou Ocidental (tardio) | Bronze (金文) | 琱生簋 Diāoshēng guǐ |
+| Shang | Oráculo (甲骨文) | 甲2744(甲); 甲600(甲) |
+| Shang tardio | Bronze (金文) | 亞止鼎 |
+| Zhou Ocidental (tardio) | Bronze (金文) | 琱生簋 |
 | Reinos Combatentes — Qi | Cerâmica | 陶彙3.769 |
 | Reinos Combatentes — Jin | Selo (璽) | 璽彙0895 |
-| Reinos Combatentes — Chu | Bambu / seda | 天卜; 郭.語1.105 (Guodian); 郭.語3.53 (Guodian) |
-| Han | Selo pequeno (小篆) | 說文‧止部 (Shuowen, seção 止) |
-| Qin | Clerical (隸書) | 睡.為23 (Shuihudi) |
-| Han Ocidental | Clerical (隸書) | 居延簡甲11 (Juyan) |
-| Han Oriental | Clerical (隸書) | 夏承碑 Xiàchéng bēi; 曹全碑 Cáoquán bēi |
+| Reinos Combatentes — Chu | Bambu / seda | 天卜; 郭.語1.105; 郭.語3.53 |
+| Han | Selo pequeno (小篆) | 說文‧止部 |
+| Qin | Clerical (隸書) | 睡.為23(隸) |
+| Han Ocidental | Clerical (隸書) | 居延簡甲11(隸) |
+| Han Oriental | Clerical (隸書) | 夏承碑(隸); 曹全碑(隸) |
 
 **Shuowen (xiaoxue)**: 止，下基也。象艸木出有址，故以止為足。
 
 **Comentários de estudiosos**:
-- 徐灝注箋 (Xu Hao): 凡从止之字，其義皆為足趾。許以為象艸木出有址，殆非也。(Todo caractere que segue 止 tem por sentido "pé/dedo do pé". A explicação de Xu Shen — que representa o broto de plantas que ganha raiz — está provavelmente errada.) Cita o 父丁卣 (Fù Dīng yǒu), cuja pegada tem a forma 止, retratando exatamente o dedo/pé; os três dedos seguem a mesma convenção da mão, que também raramente excede três.
-- CUHK (略說): 「止」字在甲骨文及金文中皆象「足」之形，即指人的腳掌。(No oráculo e no bronze, 止 retrata a forma do "pé", isto é, a planta do pé humano.) 止 é o grafismo original (初文) de 趾; foi depois tomado por empréstimo para "parar/deter".
+- 徐灝注箋: 凡从止之字，其義皆為足趾。許以為象艸木出有址，殆非也。考阮氏《鐘鼎款識．父丁卣》有足跡，文作止，正象足趾之形……三趾者，與手之列多略不過三同例。(Todo caractere com o componente 止 tem sentido ligado aos dedos do pé. Xu Shen o tomou como imagem de plantas e árvores surgindo com base, o que provavelmente não é correto. Examinando o 《鐘鼎款識．父丁卣》 de Ruan, há uma pegada escrita como 止, que representa exatamente a forma dos dedos do pé... Quanto aos três dedos, é o mesmo caso da mão, cuja fileira frequentemente é simplificada e não passa de três.)
 
 #### Fonologia (xiaoxue shangguyin)
 
 **中古音 Middle Chinese (Guangyun)**:
 - 攝 Division: 止 (Zhi) · 韻 Rhyme: 止 (Zhi) · 聲 Tone: 上 (rising) · 母 Initial: 章 (zh-)
-- 反切 Fanqie: 諸市 · 等 Grade: 三 (III) · 開合 Open/Closed: 開 (open) · 清濁: 全清 (totalmente surda) · 部位: 齒 (dental/sibilante)
+- 反切 Fanqie: 諸市 · 等 Grade: 三 (III) · 開合 Open/Closed: 開 (open) · 清濁: 全清 (totalmente surda)
 
 **上古音 Old Chinese** (grupo de rima 之 Zhi):
-- 高本漢 Karlgren: ȶi̯əɡ
-- 王力 Wang Li: ȶǐə
-- 董同龢 Dong Tonghe: ȶjəɡ
-- 周法高 Zhou Fagao: tjiəɣ
-- 李方桂 Li Fanggui: tjəgx
+- 高本漢 Karlgren: ȶ i̯əɡ
+- 王力 Wang Li: ȶ ǐə
+- 董同龢 Dong Tonghe: ȶ jəɡ
+- 周法高 Zhou Fagao: t jiəɣ
+- 李方桂 Li Fanggui: t jəgx
 - 鄭張尚芳 Zhengzhang Shangfang: (não retornou dados — ausente da tabela do 小學堂)
 
 **國語 Mandarin IPA**: tʂʅ
 
 #### Divergências entre fontes
 
-**Leitura do grafismo.** O *Shuowen* lê 止 como 下基也 ("a base inferior") e propõe uma etimologia botânica — o caractere representaria o broto de plantas e árvores ao brotar com raiz (址), donde derivaria o sentido de "pé". A paleografia rejeita essa leitura: o 略說 da CUHK e a nota de decomposição do hanziyuan leem 止 como pictograma da planta do pé humano, sendo 止 o grafismo original (初文) de 趾 ("dedo do pé/pé"), depois tomado por empréstimo para "parar". Xu Hao (徐灝注箋), citado pelo 小學堂, é explícito: a glosa botânica de Xu Shen "está provavelmente errada" (殆非也), pois todo caractere com 止 tem sentido de pé/dedo — e aponta a pegada gravada no 父丁卣 como prova da forma do pé.
+**Leitura do grafismo.** O *Shuowen* interpreta 止 como 下基也, "base inferior", e o explica por 象艸木出有址. A CUHK (略說, 詳解) e o hanziyuan registram o caractere como pictograma de pé/palma do pé; a 詳解 da CUHK acrescenta que 止 é o 初文 de 趾 e que o uso "parar" é posterior por empréstimo.
 
-**Shuowen e 段注.** O texto do *Shuowen* foi confirmado verbatim por duas fontes independentes (小學堂 e CUHK), idênticas, e o hanziyuan reproduz o mesmo texto sem pontuação. O comentário de 段玉裁 não foi obtido: shuowen.org retornou só a listagem inicial do dicionário e o fallback zdic.net deu 404.
+**Shuowen e 段注.** O texto do *Shuowen* foi obtido por duas vias, mas não é idêntico caractere a caractere: a CUHK traz 「止，下基也。象艸木出有址，故以止爲足。凡止之屬皆从止。〔諸市切〕」, enquanto o 小學堂 registra apenas 「止，下基也。象艸木出有址，故以止為足。」, sem a cauda 凡止之屬皆从止 e sem o fanqie. O comentário de 段玉裁 não foi obtido: shuowen.org retornou só a listagem inicial do dicionário e o fallback zdic.net deu 404.
 
-**Leitura cantonesa.** MDBG não exibiu jyutping; cantonese.org (zi2) e a CUHK (zi2) convergem, consistente com o 中古音 (inicial 章 zh-, tom 上 ascendente → tom 2 cantonês).
+**Leitura cantonesa.** O MDBG não exibiu jyutping; cantonese.org e a CUHK registram zi2.
 
-**Reconstruções do 上古音.** Cinco sistemas (Karlgren, Wang Li, Dong Tonghe, Zhou Fagao, Li Fanggui) situam 止 no grupo de rima 之 (Zhi), todos com inicial dental/africada surda (ȶ- / t-); a coluna de 鄭張尚芳 (Zhengzhang Shangfang) não retornou na tabela do 小學堂.
+**Reconstruções do 上古音.** O 小學堂 traz cinco sistemas (Karlgren, Wang Li, Dong Tonghe, Zhou Fagao, Li Fanggui), todos no grupo de rima 之 nos quatro últimos; a linha de 鄭張尚芳 (Zhengzhang Shangfang) não retornou na tabela do 小學堂.
