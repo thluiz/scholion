@@ -75,7 +75,7 @@ A etimologia 三口相同是爲合 ("três bocas em acordo é 合") é paronomá
 | Middle Warring States, Qi 戰國中期·齊 | Bronze 金文 | 陳侯因敦 (Chén hóu Yīn duì) |
 | Late Warring States, Jin 戰國晚期·晉 | Bronze 金文 | 長合鼎 (Cháng Hé dǐng) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 包2.83, 包2.166, 包2.210 (Bāoshān) |
-| Han | Seal 篆書 | 說文·亼部 (Shuōwén, secção 亼) |
+| Han | Seal 篆書 | 說文·亼部 (Shuōwén, seção 亼) |
 | Qin 秦 | Clerical 隸書 | 睡·封72 (Shuìhǔdì Fēng 72) |
 
 **Shuowen (xiaoxue)**: (inferido) 《說文》：「合，亼口也。从亼从口。」
@@ -104,10 +104,10 @@ A etimologia 三口相同是爲合 ("três bocas em acordo é 合") é paronomá
 
 **Estrutura — 三口相同 (三+口=合) vs 十口相傳 (十+口=古)**: 段玉裁 apresenta o par sistemático: 合 é "três bocas em acordo" (convergência espacial/instantânea); 古 é "dez bocas transmitindo" (transmissão temporal/geracional). Esta dualidade revela a cosmologia letrada: o acordo sincrónico faz 合, a transmissão diacrónica faz 古 (antigo = oralmente herdado). Base etimológica ressonante para o sentido de 合作 (cooperação = acordo em ação).
 
-**Múltiplas leituras hé/gě**: hé (entering tone, para "unir/fechar") e gě (usado para medida antiga de grãos) são leituras especializadas. O Guangyun regista hé como principal. gě aparece em 合子 (gězǐ, medida de capacidade) e é preservação de leitura mais arcaica em uso técnico.
+**Múltiplas leituras hé/gě**: hé (entering tone, para "unir/fechar") e gě (usado para medida antiga de grãos) são leituras especializadas. O Guangyun registra hé como principal. gě aparece em 合子 (gězǐ, medida de capacidade) e é preservação de leitura mais arcaica em uso técnico.
 
 **Convergência fonológica 緝部**: Os cinco sistemas Old Chinese unanimemente colocam 合 no grupo 緝 (jí). Mesmo grupo rímico de 急 (gap) — o que explica por que ambos os caracteres partilham parte da sonoridade arcaica (oclusiva final -p).
 
 **Atestação oracular abundante**: 3 oracle bones Shang + múltiplos bronzes Zhou. 合 é do léxico central desde os primórdios. O gesto de "convergir/fechar" é semanticamente fundacional no vocabulário chinês arcaico.
 
-**合/盍/郃 como sinónimos**: 段注 cita lista de sinónimos do *Ěryǎ*: 㪉, 郃, 盍, 翕, 仇, 偶, 妃, 匹, 會, 合 — todos significam "unir/convergir". A riqueza sinonímica indica a centralidade semântica do campo. Em Ving Tsun, hap jok 合作 (cooperação) conecta-se a este nexo amplo.
+**合/盍/郃 como sinônimos**: 段注 cita lista de sinônimos do *Ěryǎ*: 㪉, 郃, 盍, 翕, 仇, 偶, 妃, 匹, 會, 合 — todos significam "unir/convergir". A riqueza sinonímica indica a centralidade semântica do campo. Em Ving Tsun, hap jok 合作 (cooperação) conecta-se a este nexo amplo.
