@@ -76,7 +76,7 @@ Formas atestadas (hanziyuan): Oracle 1 (J14054) · Bronze 2 (B08511–B08512) ·
 
 **說文**: 舞，樂也。用足相背。从舛；無聲。𦐀，古文舞从羽、亡。文撫切。 ("Wǔ: música/alegria. Os pés opõem-se mutuamente. Composto de 舛 (dois pés opostos) com 無 como fonético. 𦐀 é a forma arcaica de 舞, composta de 羽 (pluma) e 亡. Fanqie: 文撫.")
 
-**段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido para este caractere): 樂也。用足相背。說从舛之意。从舛𣞤聲。文撫切。五部。按諸書多作儛。 ("'Música/alegria. Os pés opõem-se mutuamente' — explica o sentido de 舛. Composto de 舛; 𣞤 [variante gráfica de 無] é fonético. Fanqie 文撫. Pertence à 5ª secção de rima. Observo que em diversas obras aparece frequentemente a forma 儛.")
+**段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido para este caractere): 樂也。用足相背。說从舛之意。从舛𣞤聲。文撫切。五部。按諸書多作儛。 ("'Música/alegria. Os pés opõem-se mutuamente' — explica o sentido de 舛. Composto de 舛; 𣞤 [variante gráfica de 無] é fonético. Fanqie 文撫. Pertence à 5ª seção de rima. Observo que em diversas obras aparece frequentemente a forma 儛.")
 
 ### Evolução de formas (xiaoxue yanbian)
 
