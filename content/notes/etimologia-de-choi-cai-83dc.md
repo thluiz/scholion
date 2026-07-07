@@ -84,7 +84,7 @@ A nota de 段玉裁 sobre o uso antigo de 采 (colher) no lugar de 菜 (legume) 
 
 #### Divergências entre fontes
 
-- **菜 e 采 — bifurcação semântica**: 段注 documenta que na antiguidade 采 (colher) servia tanto para o verbo "colher" quanto para o substantivo "legume colhido". A criação de 菜 (com 艸 explícito) é especialização semântica para o substantivo, deixando 采 com o verbo. Padrão típico de bifurcação grafica.
+- **菜 e 采 — bifurcação semântica**: 段注 documenta que na antiguidade 采 (colher) servia tanto para o verbo "colher" quanto para o substantivo "legume colhido". A criação de 菜 (com 艸 explícito) é especialização semântica para o substantivo, deixando 采 com o verbo. Padrão típico de bifurcação gráfica.
 - **Polissemia gastronômica moderna**: a partir do significado nuclear "planta comestível", 菜 expandiu-se semanticamente:
   - **Vegetal cru**: 蔬菜 (shū cài, verdura).
   - **Prato cozinhado**: 一道菜 (yī dào cài, "um prato"); 點菜 (diǎn cài, pedir pratos).
