@@ -47,19 +47,19 @@ Sentidos estabelecidos: 1. árvore; 2. madeira/lenho; 3. material em geral (cont
 Componentes: 木 é pictograma unitário — tronco central (丨) com galhos no topo e raízes na base
 Notas de decomposição hanziyuan: "a tree, with branches at top and roots at bottom - wood"
 Significado original: árvore ou madeira
-Shuowen (hanziyuan): 冒也冒地而生東方之行從屮下象其根凡木之屬皆從木 (Brotar/emergir — que emerge do solo. É a fase leste. Compõe-se de 屮 [rebento], com [o traço] inferior representando as raízes. Todos os caracteres da secção 木 seguem 木.)
+Shuowen (hanziyuan): 冒也冒地而生東方之行從屮下象其根凡木之屬皆從木 (Brotar/emergir — que emerge do solo. É a fase leste. Compõe-se de 屮 [rebento], com [o traço] inferior representando as raízes. Todos os caracteres da seção 木 seguem 木.)
 Citação adicional do Shuowen: 徐鍇曰：屮者，木始甲坼，萬物皆始於微，故木從屮 ("Xú Kǎi: 屮 [chè] é 'o momento em que o rebento furta a casca da semente'. Todas as coisas começam pelo microscópico; por isso 木 compõe-se de 屮.")
 Formas atestadas: Oracle 1 · Bronze 8 · Seal 1 · atestação abundante em bambu
 
 #### Shuowen Jiezi completo (via zdic.net)
 
-**說文**: 冒也。冒地而生。東方之行。从屮，下象其根。凡木之屬皆从木。莫卜切。 (Brotar [冒]. Emerge do solo. É a fase/elemento do leste. De 屮 [rebento], com o traço inferior representando as raízes. Todos os caracteres da secção 木 seguem 木. Fanqie: 莫卜切.)
+**說文**: 冒也。冒地而生。東方之行。从屮，下象其根。凡木之屬皆从木。莫卜切。 (Brotar [冒]. Emerge do solo. É a fase/elemento do leste. De 屮 [rebento], com o traço inferior representando as raízes. Todos os caracteres da seção 木 seguem 木. Fanqie: 莫卜切.)
 
 **段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido):
 
 (木)冒也。以曡韵爲訓。冃部曰：冒，冢而前也。冒地而生，東方之行。从屮，下象上出。巾象下垂。莫卜切。三部。凡木之屬皆从木。
 
-Tradução: "(木) é 'brotar' [冒]. Explicado por rima reduplicada [疊韵: 木/冒 rimam]. A secção 冃 diz: '冒 é cobrir e avançar.' 'Emerge do solo, é a fase leste.' De 屮, com o [traço] inferior representando o que emerge para cima. 巾 [o traço inferior] representa o que desce [as raízes]. Fanqie: 莫卜切. Grupo rímico 3. Todos os caracteres da secção 木 seguem 木."
+Tradução: "(木) é 'brotar' [冒]. Explicado por rima reduplicada [疊韵: 木/冒 rimam]. A seção 冃 diz: '冒 é cobrir e avançar.' 'Emerge do solo, é a fase leste.' De 屮, com o [traço] inferior representando o que emerge para cima. 巾 [o traço inferior] representa o que desce [as raízes]. Fanqie: 莫卜切. Grupo rímico 3. Todos os caracteres da seção 木 seguem 木."
 
 A explicação paronímica 木=冒 ancora a definição — *mù* e *mào* rimam no Old Chinese, sendo a paronomásia uma das chaves do pensamento lexicográfico chinês clássico.
 
@@ -74,7 +74,7 @@ A explicação paronímica 木=冒 ancora a definição — *mù* e *mào* rimam
 | Warring States, Qi 戰國·齊 | Pottery 陶文 | 山東011 (Shāndōng 11) |
 | Warring States, Qi 戰國·齊 | Pottery 陶文 | 陶彙9.47 (Táo huì 9.47) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 包2.250 (Bāoshān 2.250) |
-| Han | Seal 篆書 | 說文·木部 (Shuōwén, secção 木) |
+| Han | Seal 篆書 | 說文·木部 (Shuōwén, seção 木) |
 | Qin 秦 | Clerical 隸書 | 睡虎地簡10.4 (Shuìhǔdì jiǎn 10.4) |
 | Western Han 西漢 | Clerical 隸書 | 老子甲84 (Lǎozǐ jiǎ 84) |
 | Western Han 西漢 | Clerical 隸書 | 一號墓竹簡292 (Yīhàomù zhújiǎn 292 — bambu da Tumba nº 1 de Mawangdui) |
