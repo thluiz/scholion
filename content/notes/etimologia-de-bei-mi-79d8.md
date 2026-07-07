@@ -80,7 +80,7 @@ A glosa do Shuowen é compacta mas semanticamente densa: 祕 é o sagrado — o 
 
 #### Divergências entre fontes
 
-- **祕 vs. 秘 — radical 示 vs. 禾**: a forma etimologicamente correta é 祕 (com 礻/示, "sinal divino/altar"). A forma moderna 秘 (com 禾, "cereal") é resultado de erro de cópia ou confusão grafica estabilizada — possivelmente pela proximidade visual entre 礻 e 禾, ou por substrato cultural posterior. O sentido "segredo" não tem relação semântica com 禾 (cereal); está fundado em 示 (sagrado/divino).
+- **祕 vs. 秘 — radical 示 vs. 禾**: a forma etimologicamente correta é 祕 (com 礻/示, "sinal divino/altar"). A forma moderna 秘 (com 禾, "cereal") é resultado de erro de cópia ou confusão gráfica estabilizada — possivelmente pela proximidade visual entre 礻 e 禾, ou por substrato cultural posterior. O sentido "segredo" não tem relação semântica com 禾 (cereal); está fundado em 示 (sagrado/divino).
 - **A semântica do sagrado-oculto**: a etimologia de 祕 esclarece a lógica cultural do "segredo" no chinês clássico. O segredo não é simplesmente "informação retida"; é "domínio sagrado a que só os qualificados têm acesso". O *bat chuen ji bei* não é "informação que o mestre esconde" — é "saber que pertence ao domínio sagrado da linhagem, transmitido apenas a quem se qualifica para recebê-lo".
 - **Atestação tardia**: 秘 (com 禾) não tem atestação no corpus epigráfico catalogado pela xiaoxue. Forma popular estabilizada Song-Yuan. A forma 祕 é a etimologicamente válida.
 - **Reconstruções OC**: convergência alta. Inicial *p- (oclusiva labial surda) em todos os 5 sistemas; rhyme 脂 *zhī* unânime.
