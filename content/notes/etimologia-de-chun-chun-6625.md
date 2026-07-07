@@ -73,7 +73,7 @@ Formas atestadas: Oracle 59 · Bronze (variadas) · Seal 1 · atestação massiv
 
 (萅)推也。此於雙聲求之。鄉飲酒義曰：東方者春，春之爲言蠢也。尚書大傳曰：春，出也，萬物之出也。从日艸屯。日艸屯者，得時艸生也。屯字象艸木之初生。屯亦聲。會意兼形聲。此七字依韵會，今二徐本皆亂以鍇語。昌純切。十三部。
 
-Tradução: "(萅) é 'empurrar/impelir' [推]. Busca-se isto pela aliteração [雙聲, ambas oclusivas retroflexas/palatais em chūn/chuī]. O *Xiāng Yǐnjiǔ Yì* [Significado do Banquete Rural, Liji] diz: 'O leste é a primavera; 春 em sentido é o mesmo que 蠢 [insetos despertando]' [paronomásia: chūn/chǔn, ambos mesmo fonético]. O *Shàngshū Dàzhuàn* [Grande Comentário do Livro dos Documentos] diz: '春 é sair [出] — é o sair de todas as coisas.' De 日, 艸, 屯. '日艸屯' — com o tempo favorável, as plantas crescem. O caractere 屯 [zhūn] representa pictograficamente o rebento inicial de plantas/árvores. 屯 é também o fonético. Composto semântico que também é fonossemântico [會意兼形聲]. Estas sete palavras [suprimidas] seguem o *Yùnhuì*; nas actuais duas edições Xu, estão corrompidas com a glosa de Xú Kǎi. Fanqie: 昌純切. Grupo rímico 13. A forma 籒文 [zhouwen] é distinta [com imagem]."
+Tradução: "(萅) é 'empurrar/impelir' [推]. Busca-se isto pela aliteração [雙聲, ambas oclusivas retroflexas/palatais em chūn/chuī]. O *Xiāng Yǐnjiǔ Yì* [Significado do Banquete Rural, Liji] diz: 'O leste é a primavera; 春 em sentido é o mesmo que 蠢 [insetos despertando]' [paronomásia: chūn/chǔn, ambos mesmo fonético]. O *Shàngshū Dàzhuàn* [Grande Comentário do Livro dos Documentos] diz: '春 é sair [出] — é o sair de todas as coisas.' De 日, 艸, 屯. '日艸屯' — com o tempo favorável, as plantas crescem. O caractere 屯 [zhūn] representa pictograficamente o rebento inicial de plantas/árvores. 屯 é também o fonético. Composto semântico que também é fonossemântico [會意兼形聲]. Estas sete palavras [suprimidas] seguem o *Yùnhuì*; nas atuais duas edições Xu, estão corrompidas com a glosa de Xú Kǎi. Fanqie: 昌純切. Grupo rímico 13. A forma 籒文 [zhouwen] é distinta [com imagem]."
 
 #### Evolução de formas ([xiaoxue yanbian](https://xiaoxue.iis.sinica.edu.tw/yanbian?char=春))
 
@@ -86,7 +86,7 @@ Tradução: "(萅) é 'empurrar/impelir' [推]. Busca-se isto pela aliteração 
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 包2.240 / 包2.200 / 包2.203 (Bāoshān) |
 | Warring States, Chu 戰國·楚 | Silk 帛書 | 帛丙3.1 (Bó bǐng 3.1) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 郭·六.25 / 郭·語1.40,41 / 郭·語3.20 (Guōdiàn — Liù, Yǔ) |
-| Han | Seal 篆書 | 說文·艸部 (Shuōwén, secção 艸) |
+| Han | Seal 篆書 | 說文·艸部 (Shuōwén, seção 艸) |
 | Western Han 西漢 | Clerical 隸書 | 老子乙前85下 (Lǎozǐ yǐ qián 85 xià) |
 | Eastern Han 東漢 | Clerical 隸書 | 孔龢碑 (Kǒng Hé bēi — estela de Kong He) |
 
@@ -116,14 +116,14 @@ Tradução: "(萅) é 'empurrar/impelir' [推]. Busca-se isto pela aliteração 
 
 #### Divergências entre fontes
 
-**Forma Shuowen 萅 vs forma corrente 春**: O Shuowen regista a entrada sob 萅 (com 艸 acima); a forma atual 春 resulta de alteração no script clerical da Han (隸變, lìbiàn). Shào Yīng documenta explicitamente esta reforma (隷變作春). A evolução 艸+屯+日 → 𡗗+日 (onde 𡗗 é o resultado fundido opaco) é uma das simplificações mais afectadas pela reforma clerical.
+**Forma Shuowen 萅 vs forma corrente 春**: O Shuowen registra a entrada sob 萅 (com 艸 acima); a forma atual 春 resulta de alteração no script clerical da Han (隸變, lìbiàn). Shào Yīng documenta explicitamente esta reforma (隷變作春). A evolução 艸+屯+日 → 𡗗+日 (onde 𡗗 é o resultado fundido opaco) é uma das simplificações mais afectadas pela reforma clerical.
 
 **Paronomásia 春=蠢 (段注 via Liji)**: Esta é uma das etimologias paronímicas clássicas do pensamento chinês. 春 (chūn, primavera) e 蠢 (chǔn, insetos despertando, bestas movimentando-se) partilham fonético 屯 e pertencem à mesma família rímica. O *Liji* usa esta aliteração para explicar a essência da estação: primavera é "o despertar agitado" dos seres. Esta leitura está embebida na tradição lexicográfica — não é invenção Han, mas transmissão ritual pré-Han.
 
 **Atestação massiva (59 oracle bones + abundantes bronzes e bambus)**: Diferente de caracteres como 派 ou 樁 (atestação tardia/inexistente), 春 está presente desde os oracle bones Shang. Isto confirma o caractere como parte do vocabulário calendárico-ritualístico mais antigo — a noção de "primavera" era conceito escrito desde o início da escrita chinesa.
 
-**Grupo rímico arcaico — 文 (Zhou) vs 真 (Han)**: Pré-Qin (Wang Li, Dong Tonghe, Zhou Fagao, Li Fanggui) unanimemente colocam no grupo 文 (wén). Na Han, o xiaoxue regista migração para o grupo 真 (zhēn). Esta é uma mudança diacrónica documentada — 文/真 são grupos vizinhos que se fundem parcialmente durante a Han.
+**Grupo rímico arcaico — 文 (Zhou) vs 真 (Han)**: Pré-Qin (Wang Li, Dong Tonghe, Zhou Fagao, Li Fanggui) unanimemente colocam no grupo 文 (wén). Na Han, o xiaoxue registra migração para o grupo 真 (zhēn). Esta é uma mudança diacrónica documentada — 文/真 são grupos vizinhos que se fundem parcialmente durante a Han.
 
-**Leitura secundária chǔn — distinta ou idêntica?**: chardb regista chun1 e chun3; hanziyuan aceita chǔn como secundária. A leitura chǔn parece ser paronímia com 蠢 (que tem leitura independente chǔn) — uso semi-literário que preserva a ligação paronímica do *Liji*. Não é leitura fonologicamente derivada, mas espelho gráfico.
+**Leitura secundária chǔn — distinta ou idêntica?**: chardb registra chun1 e chun3; hanziyuan aceita chǔn como secundária. A leitura chǔn parece ser paronímia com 蠢 (que tem leitura independente chǔn) — uso semi-literário que preserva a ligação paronímica do *Liji*. Não é leitura fonologicamente derivada, mas espelho gráfico.
 
 **Dialeto cantonês — 春 como "ovas"**: A acepção 8 do chardb (廣東稱禽魚卵為春) é dialetal e historicamente distinta — muito provavelmente representa um lexema diferente homógrafo com 春 "primavera", sem conexão etimológica direta.
