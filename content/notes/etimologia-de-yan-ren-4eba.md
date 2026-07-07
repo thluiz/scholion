@@ -52,7 +52,7 @@ sources:
 
 Pictograma unitário — perfil humano com dois traços representando braços/pernas laterais.
 
-Atestação massiva (xiaoxue): caracter fundacional do léxico, presente em todas as camadas da escrita chinesa desde os oracle bones. Listagem individual omitida por ser excessivamente abundante.
+Atestação massiva (xiaoxue): caractere fundacional do léxico, presente em todas as camadas da escrita chinesa desde os oracle bones. Listagem individual omitida por ser excessivamente abundante.
 
 #### Shuowen Jiezi completo (via zdic.net)
 
@@ -90,7 +90,7 @@ Atestação absolutamente massiva. 人 tem mais atestações que qualquer outro 
 
 **人 = 仁 em botânica (段注)**: Nota filológica curiosa: em textos clássicos pré-Tang, 人 era usado para "caroço/semente de fruta" (杏人 "caroço de alperce", 桃人 "caroço de pêssego"). As edições medievais, influenciadas pela filosofia neoconfucionista, "corrigiram" esta grafia para 仁 (virtude). 段玉裁 critica esta intervenção como corrupção textual.
 
-**Convergência fonológica 真部**: Os cinco sistemas unanimes em 真 (zhēn). Mesmo grupo de 真 (jan), 身 (san), 進 (jun), 春 (chun). Campo fonológico arcaico do léxico antropológico-direcional.
+**Convergência fonológica 真部**: Os cinco sistemas unânimes em 真 (zhēn). Mesmo grupo de 真 (jan), 身 (san), 進 (jun), 春 (chun). Campo fonológico arcaico do léxico antropológico-direcional.
 
 **Atestação máxima**: 人 é dos caracteres mais atestados da escrita chinesa — presente em todas as camadas (oracle, bronze, bambu, seal, clerical).
 
@@ -99,4 +99,4 @@ Atestação absolutamente massiva. 人 tem mais atestações que qualquer outro 
 - Muk Yan Jong 木人樁 (boneco de madeira = "pessoa-de-madeira")
 - 人 é usado abundantemente no texto para "pessoa, praticante, dai ji".
 
-Em Muk Yan Jong, 人 marca a dimensão pictórica do instrumento — o boneco é uma pessoa figurada (daí Moy Yat enfatiza a semelhança antropomórfica na definição do carácter).
+Em Muk Yan Jong, 人 marca a dimensão pictórica do instrumento — o boneco é uma pessoa figurada (daí Moy Yat enfatiza a semelhança antropomórfica na definição do caractere).
