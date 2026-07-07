@@ -89,7 +89,7 @@ Esta é uma das exegeses mais ricas do Shuowen — 段玉裁 traça a cadeia sem
 |---------|--------|----------------|
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 郭.五.39 (Guōdiàn *Wǔxíng* 39 — *As Cinco Virtudes*) |
 | Warring States, Qin 戰國·秦 | Pottery 陶文 | 陶彙9.92 (Táo huì 9.92) |
-| Han | Seal 篆書 | 說文‧糸部 (Shuōwén, secção 糸) |
+| Han | Seal 篆書 | 說文‧糸部 (Shuōwén, seção 糸) |
 | Western Han 西漢 | Clerical 隸書 | 老子乙前16下 (Lǎozǐ yǐ qián 16 xià — Mawangdui Laozi B verso) |
 | Western Han 西漢 | Clerical 隸書 | 武威簡.服傳57 (Wǔwēi jiǎn, *Fú zhuàn* 57) |
 | Western Han 西漢 | Clerical 隸書 | 侍其繇墓木方 (Shì Qí Yáo mù mùfāng — tabuleta de madeira do túmulo de Shi Qiyao) |
