@@ -71,7 +71,7 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 1 (S08159) · Liushutong 0
 
 Tradução: "(派) é 'água que se ramifica.' O *Wúdū fù* [Rapsódia da capital Wu] diz: '百川派別 — cem rios ramificam-se.' O comentário de Liu Kui cita o *Zìshuō* [Explicação dos caracteres]: 'Quando a água se separa em correntes, chama-se 派.' De 水, de 𠂢. 𠂢 é também o fonético. Fanqie: 匹賣切. Grupo rímico 16. Observe-se que o *Zhòngjīng yīnyì* [Pronúncias e significados dos múltiplos clássicos] cita duas vezes o Shuowen: '𠂢 é a água que corre de viés e se ramifica' — para explicar 派. O *Yùnhuì* [Coletânea de rimas] diz: '派 originalmente escreve-se 𠂢; formado por 永 invertido. Cita Xú Kǎi: os contemporâneos acrescentaram 水 formando 派.' Com base nisto, o texto original do Shuowen tinha 𠂢 sem 派. Nas edições atuais de Xú Kǎi e Xú Xuàn, a entrada 派 na seção 水 deve ser eliminada."
 
-Esta é uma intervenção filológica radical — 段玉裁 defende que 派 **nem deveria constar do Shuowen**, sendo adição pós-Han. O carácter original da "ramificação aquática" seria simplesmente 𠂢.
+Esta é uma intervenção filológica radical — 段玉裁 defende que 派 **nem deveria constar do Shuowen**, sendo adição pós-Han. O caractere original da "ramificação aquática" seria simplesmente 𠂢.
 
 #### Evolução de formas ([xiaoxue yanbian](https://xiaoxue.iis.sinica.edu.tw/yanbian?char=派))
 
