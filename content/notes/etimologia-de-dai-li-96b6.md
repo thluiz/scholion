@@ -51,7 +51,7 @@ sources:
 Componentes: from square-hand ⺕ yòu and (rem+ two-dot-ice 冫 bīng whip-or-brush) and hand-brush-paper 聿 yù.
 Significado original: Meaning subservient, Kàng xì radical 171.
 Acepções inglesas: (não obtido — o registro E03593 não traz English senses; o E09044 traz os sentidos para 隸96B8 → 隶96B6: subservient; servant; KangXi radical 171)
-Frequência de uso: 1526.
+Frequência de uso: (sem ranking na fonte para 隶 — E03593 traz o sentinela 99999; o registro E09044, de 隸96B8 remetido a 隶, traz 1526).
 Formas atestadas: o hanziyuan registra, para 隶96B6, ausência de formas conhecidas em Oráculo (甲骨文) e Bronze (金文), 1 forma em Seal characters 说文解字的篆字; o 小學堂 detalha as atestações epigráficas abaixo.
 
 #### Shuowen Jiezi completo
