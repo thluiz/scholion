@@ -30,7 +30,7 @@ sources:
 
 ### 門
 
-**門** — U+9580 · 部首 radical: 門 (mén — caractere é ele próprio chave de secção Shuowen e radical Kangxi 169) · 總筆畫 strokes: 8 · 注音 zhuyin: ㄇㄣˊ · 拼音 pinyin: mén · jyutping: mun4
+**門** — U+9580 · 部首 radical: 門 (mén — caractere é ele próprio chave de seção Shuowen e radical Kangxi 169) · 總筆畫 strokes: 8 · 注音 zhuyin: ㄇㄣˊ · 拼音 pinyin: mén · jyutping: mun4
 
 Simplificado: 门 (U+95E8). Variante arcaica: 𨳇.
 
@@ -42,7 +42,7 @@ Aparece centralmente no Hai Tong de Moy Yat e no vocabulário institucional do d
 
 **CantoDict**: mun4 (tom 4, baixo descendente)
 
-**chardb [Academia Sinica](https://chardb.iis.sinica.edu.tw/search.jsp?stype=1&q=門)**: (não retornou ficha individual — sendo 門 chave de secção Shuowen, a busca devolve apenas listagem de variantes)
+**chardb [Academia Sinica](https://chardb.iis.sinica.edu.tw/search.jsp?stype=1&q=門)**: (não retornou ficha individual — sendo 門 chave de seção Shuowen, a busca devolve apenas listagem de variantes)
 
 #### Decomposição e formas antigas ([hanziyuan](https://hanziyuan.net/#門))
 
@@ -52,19 +52,19 @@ Notas hanziyuan: "um portão; de 門; de 鬥 [lutar] em 鬧 [barulho]"
 Inglês: gate, door, entrance, opening
 Exemplo de uso: 大門 dà mén (portão grande)
 Frequência: 150 (uso muito frequente — top 200)
-Shuowen (hanziyuan): 聞也從二戶象形凡門之屬皆從門 (Ouvir. De dois 戶. Pictograma. Todos os caracteres da secção 門 seguem 門.)
+Shuowen (hanziyuan): 聞也從二戶象形凡門之屬皆從門 (Ouvir. De dois 戶. Pictograma. Todos os caracteres da seção 門 seguem 門.)
 Simplificação: 門 → 门 (regra B077, escrita cursiva).
 Formas atestadas: Oracle 32 · Bronze 18 · Seal 1 · Liushutong 26
 
 #### Shuowen Jiezi completo (via zdic.net)
 
-**說文**: 聞也。从二戶。象形。凡門之屬皆从門。莫奔切。 (Ouvir. De dois 戶 [meio-portão]. Pictograma. Todos os caracteres da secção 門 seguem 門. Fanqie: 莫奔切.)
+**說文**: 聞也。从二戶。象形。凡門之屬皆从門。莫奔切。 (Ouvir. De dois 戶 [meio-portão]. Pictograma. Todos os caracteres da seção 門 seguem 門. Fanqie: 莫奔切.)
 
 **段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido):
 
 (門)聞也。以㬪韵爲訓。聞者，謂外可聞於內，內可聞於外也。从二戶。象形。此如鬥从二丮，不必有反丮字也。莫奔切。十三部。凡門之屬皆从門。
 
-Tradução: "(門) é ouvir. **Glosa por aliteração-rímica** [㬪韵爲訓 — homofonia parcial entre 門 mén e 聞 wén]. *Ouvir* aqui significa: o de fora pode ser ouvido pelo de dentro, e o de dentro pode ser ouvido pelo de fora. De dois 戶. Pictograma. Isto é como 鬥 [lutar] que vem de dois 丮 [mãos] — não é necessário que exista o caractere 丮 invertido. Fanqie: 莫奔切. Grupo rímico 13. Todos os caracteres da secção 門 seguem 門."
+Tradução: "(門) é ouvir. **Glosa por aliteração-rímica** [㬪韵爲訓 — homofonia parcial entre 門 mén e 聞 wén]. *Ouvir* aqui significa: o de fora pode ser ouvido pelo de dentro, e o de dentro pode ser ouvido pelo de fora. De dois 戶. Pictograma. Isto é como 鬥 [lutar] que vem de dois 丮 [mãos] — não é necessário que exista o caractere 丮 invertido. Fanqie: 莫奔切. Grupo rímico 13. Todos os caracteres da seção 門 seguem 門."
 
 #### Evolução de formas ([xiaoxue yanbian](https://xiaoxue.iis.sinica.edu.tw/yanbian?char=門))
 
@@ -75,7 +75,7 @@ Tradução: "(門) é ouvir. **Glosa por aliteração-rímica** [㬪韵爲訓 �
 | Western Zhou middle 西周中期 | Bronze 金文 | 曶鼎 (Hū dǐng — vaso *ding* de Hu) |
 | Warring States, Qi 戰國·齊 | Pottery 陶文 | 陶彙3.336 (Táo huì 3.336) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 上(1).孔.4 (Shàngbó *Kǒngzǐ shīlùn* 4 — Bambus de Shanghai, *Discursos de Confúcio sobre as Odes*) |
-| Han | Seal 篆書 | 說文‧門部 (Shuōwén, secção 門) |
+| Han | Seal 篆書 | 說文‧門部 (Shuōwén, seção 門) |
 | Qin 秦 | Clerical 隸書 | 睡虎地簡20.197 (Shuìhǔdì jiǎn 20.197) |
 | Western Han 西漢 | Clerical 隸書 | 古地圖 (Gǔ dìtú — Mapa Antigo, Mawangdui) |
 | Eastern Han 東漢 | Clerical 隸書 | 魯峻碑 (Lǔ Jùn bēi — Estela de Lu Jun) |
