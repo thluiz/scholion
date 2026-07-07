@@ -131,7 +131,7 @@ Esta análise de Wang Yun é interessante: as duas variantes do Shuowen especial
 
 #### Divergências entre fontes
 
-**Três formas documentadas no Shuowen — 速, 遬, 𧫣**: O Shuowen registra a forma 速 (com 辵) como primária, e adicionalmente 遬 (籒文, com 欶) e 𧫣 (古文, com 欶+言). Esta multiplicidade gráfica para um único lexema é característica da tradição Shuowen, que preserva formas zhouwen/guwen para rastrear etimologia anterior à padronização seal Qin-Han. Wang Yun argumenta que as três formas especializam-se semanticamente: 速 para caminhar, 𧫣 para falar, 遬 para formas ritualizadas.
+**Três formas documentadas no Shuowen — 速, 遬, 𧫣**: O Shuowen registra a forma 速 (com 辵) como primária, e adicionalmente 遬 (籒文, com 欶) e 𧫣 (古文, com 欶+言). Esta multiplicidade gráfica para um único lexema é caractereística da tradição Shuowen, que preserva formas zhouwen/guwen para rastrear etimologia anterior à padronização seal Qin-Han. Wang Yun argumenta que as três formas especializam-se semanticamente: 速 para caminhar, 𧫣 para falar, 遬 para formas ritualizadas.
 
 **Empréstimo 速/遬 → 肅**: O 段注 registra o uso de 速 (ou 遬) como empréstimo para 肅 (sù, "solene/reverente"). No Liji *Yùzǎo*, diante do venerado (所尊者), caminha-se 遬 — que o comentário explica como 肅. Esta conexão é importante culturalmente: a rapidez ritualística do súdito diante do superior não é pressa, mas solenidade. A homofonia sù/sù permite o duplo sentido.
 
