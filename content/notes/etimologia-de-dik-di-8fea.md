@@ -65,7 +65,7 @@ Shuowen (hanziyuan): 道也從辵由聲 ("é caminho; do 辵, fonético 由").
 
 **段注 Duan Yucai** (paráfrase via zdic.net): 道也。見釋詁。按道兼道路、引導二訓。方言。由迪正也。迪道曡韵。从辵。由聲。徒歷切。古音在三部 ("道. Cf. *Erya — Shīgǔ*. *Dào* abrange dois sentidos: 'estrada' e 'guiar'. *Fangyan* (dicionário dialetal): '由迪 é correção mútua'. 迪 e 道 formam par de rima (㬪韵). Do 辵, fonético 由. Fanqie 徒歷. Som antigo na 3ª divisão de rima.")
 
-A glose estabelece a equivalência *迪 = 道*. Os dois caracteres significam "caminho" — mas com nuances: 道 é o caminho como *substrato* (a Via taoista, o curso filosófico); 迪 é o caminho como *ato* (caminhar, guiar). A diferença é semelhante à do par português "caminho/caminhar".
+A glose estabelece a equivalência *迪 = 道*. Os dois caracteres significam "caminho" — mas com nuances: 道 é o caminho como *substrato* (a Via taoísta, o curso filosófico); 迪 é o caminho como *ato* (caminhar, guiar). A diferença é semelhante à do par português "caminho/caminhar".
 
 #### Evolução de formas (xiaoxue yanbian)
 
