@@ -124,4 +124,4 @@ Formas atestadas: Oracle 0 (Sears) · Bronze 13 · Seal 1 · Liushutong 16.
 - **Tom em Mandarin vs. Middle Chinese**: a entrada principal do Guangyun é 上聲 (tom 3, ascendente) com inicial 匣 (sonora total). A regra histórica converte 上 全濁 → 去 em Mandarin moderno; daí o quarto tom hòu atual.
 - **Significado primário**: hanziyuan dá "afterward"; o Shuowen e a leitura clássica privilegiam o sentido temporal-aspectual de "tardar/lentidão" — o sentido espacial e temporal "atrás/depois" deriva por extensão.
 - **Simplificação**: 後 → 后 é empréstimo fonético, não evolução gráfica. O caractere 后 (originalmente "soberano") foi reaproveitado por homofonia em hou4. Essa fusão apaga a distinção etimológica clássica entre os dois caracteres.
-- **Leitura cantonesa**: hau6 (tom 6 baixo nivelado) preserva a sonora muddy 全濁 do Guangyun, característica geral dos correlatos 上→去 em cantonês com tons altos/baixos divididos por origem da inicial.
+- **Leitura cantonesa**: hau6 (tom 6 baixo nivelado) preserva a sonora muddy 全濁 do Guangyun, caractereística geral dos correlatos 上→去 em cantonês com tons altos/baixos divididos por origem da inicial.
