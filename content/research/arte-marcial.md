@@ -161,7 +161,7 @@ A resposta depende de qual "arte", e cada acepção corta em lugar diferente.
 
 Se toda arte "visa um bem" (2d), qual bem? A resposta é técnica, não vaga, e tem duas camadas.
 
-**O bem é o fim próprio de cada arte.** Aristóteles, *EN* I.1 (1094a): "toda arte e toda investigação visam algum bem", e o bem de cada uma é o seu fim característico — da medicina, a saúde; da construção naval, o barco; da estratégia, a vitória; da administração, a riqueza. ✓ Há hierarquia: fins subordinados servem a fins arquitetônicos, até o bem humano (a política). ✓
+**O bem é o fim próprio de cada arte.** Aristóteles, *EN* I.1 (1094a): "toda arte e toda investigação visam algum bem", e o bem de cada uma é o seu fim característico — da medicina, a saúde; da construção naval, o barco; da estratégia, a vitória; da administração, a riqueza. ✓ Há hierarquia: fins subordinados servem a fins arquitetônicos, até o bem humano (a política). ✓ Esse "fim" é a **causa final** das quatro de Aristóteles — ver [As quatro causas de Aristóteles, dos textos ao telos](/notes/quatro-causas-de-aristoteles-dos-textos-ao-telos/); levada da técnica à vida, ela vira [a causa final que só os outros descobrem](/notes/causa-final-que-so-os-outros-descobrem/).
 
 **O bem é o bem do objeto, não do praticante.** Platão, *República* I (341-342): a medicina busca o bem do corpo, não do médico; a equitação, o do cavalo; o piloto, o dos marinheiros. ✓ Este é o critério que separa τέχνη de *empeiria*: a arte serve à coisa sobre a qual trabalha; o traquejo serve ao ganho de quem o exerce ou ao prazer da plateia.
 
