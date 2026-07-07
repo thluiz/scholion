@@ -91,7 +91,7 @@ Fanqie: 吐內切. Grupo rímico medieval: 齊微韻 (Qíwēi). Grupo medieval: 
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 上(1)·孔.3 (Shànghǎi 1 — Kǒng 3) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 上(2)·昔.1 (Shànghǎi 2 — Xī 1) |
 | — | Ancient script 古文 | 說文古文 (Shuōwén gǔwén) |
-| Han | Seal 篆書 | 說文·彳部 (Shuōwén, secção 彳) — forma 𢓴 |
+| Han | Seal 篆書 | 說文·彳部 (Shuōwén, seção 彳) — forma 𢓴 |
 | — | Seal variant 篆書或體 | 說文或體 (Shuōwén variante) |
 | Western Han 西漢 | Clerical 隸書 | 老子甲後323 (Lǎozǐ jiǎ hòu 323) |
 | Eastern Han 東漢 | Clerical 隸書 | 夏承碑 (Xià Chéng bēi) |
@@ -103,10 +103,10 @@ Fanqie: 吐內切. Grupo rímico medieval: 齊微韻 (Qíwēi). Grupo medieval: 
 **Shuowen (xiaoxue)**: 《說文》：「𢓴，卻也。一曰行遲也。从彳，从日，从夂。」 ("𢓴 é recuar. Outra leitura: caminhar devagar. De 彳, de 日, de 夂.")
 
 **Relação / comentário (xiaoxue)**:
-- 《玉篇·彳部》：「𢓴，古退字。」 ("O *Yùpiān*, secção 彳: '𢓴 é a forma antiga de 退.'")
+- 《玉篇·彳部》：「𢓴，古退字。」 ("O *Yùpiān*, seção 彳: '𢓴 é a forma antiga de 退.'")
 - 《集韻·隊韻》：「𢓴，隸作退。」 ("O *Jíyùn*, rima 隊: '𢓴 no script clerical escreve-se 退.'")
 
-A padronização 𢓴 → 退 é fenómeno do script clerical Han (隸變, lìbiàn) — semelhante ao que ocorreu com 萅 → 春.
+A padronização 𢓴 → 退 é fenômeno do script clerical Han (隸變, lìbiàn) — semelhante ao que ocorreu com 萅 → 春.
 
 #### Fonologia ([xiaoxue shangguyin](https://xiaoxue.iis.sinica.edu.tw/shangguyin?char=退))
 
@@ -128,7 +128,7 @@ A padronização 𢓴 → 退 é fenómeno do script clerical Han (隸變, lìbi
 
 #### Divergências entre fontes
 
-**Forma Shuowen 𢓴 (com 彳) vs forma corrente 退 (com 辵/辶)**: O Shuowen regista 𢓴 como forma primária e considera 退 (com 辵) como forma antiga (古文). O uso popular e clerical inverteu esta relação — a forma com 辵 tornou-se corrente. 段玉裁 aceita o facto: 今字多用古文。不用小篆 ("os caracteres actuais usam em maioria a forma antiga; não usam a forma zhuànshū"). Esta inversão é paralela ao caso de 線/綫 (mesma inversão documentada por Duan para aquele par), confirmando que a tradição Shuowen distinguia "primárias" que nem sempre correspondiam ao uso real.
+**Forma Shuowen 𢓴 (com 彳) vs forma corrente 退 (com 辵/辶)**: O Shuowen registra 𢓴 como forma primária e considera 退 (com 辵) como forma antiga (古文). O uso popular e clerical inverteu esta relação — a forma com 辵 tornou-se corrente. 段玉裁 aceita o fato: 今字多用古文。不用小篆 ("os caracteres atuais usam em maioria a forma antiga; não usam a forma zhuànshū"). Esta inversão é paralela ao caso de 線/綫 (mesma inversão documentada por Duan para aquele par), confirmando que a tradição Shuowen distinguia "primárias" que nem sempre correspondiam ao uso real.
 
 **Duas glosas primárias — "recuar" vs "caminhar lento"**: O Shuowen oferece duas leituras: 卻也 (recuar) e 一曰行遲也 (caminhar devagar). hanziyuan dá explicitamente a evolução: 本义: Meaning (orig) slow (now) meaning to retreat ("sentido original: lento; sentido atual: recuar"). Isto indica que o sentido original era "caminhar lento" (ato deliberado), e o sentido de "recuar" é extensão contextual — caminhar lento em direção contrária. Esta é estrutura semântica refinada: 退 não é "fugir" (走) mas "desengajar-se deliberadamente".
 
