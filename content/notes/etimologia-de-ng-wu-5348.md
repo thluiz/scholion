@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 午 (Ng — Wǔ / ng5)"
 date: '2026-05-11T16:29:36+01:00'
-summary: "Etimologia de 午 (ng / wǔ / ng5): 7º Ramo Terrestre (11h–13h, meio-dia; mês solar 5º; ano do Cavalo); meio (de algo); ponto cardeal antigo: sul (180°). Pictograma puro segundo paleografia moderna. Análise Shuowen: 'oposição cósmica — no 5º mês o qi yin se opõe ao yang, sai cobrindo a terra' (啎也). Guo Moruo (paleógrafo moderno): a forma Oracle é pictograma de corda/rédea — provavelmente arnês de cavalo (馭馬之轡), daí a associação com 'cavalo' no ciclo dos 12 Ramos. A análise Shuowen ('pilão' 杵) é erro tardio por confusão grafica. Atestação massiva em oracle Shang. Aparece em yi bok wai ng 以膊為午 ('com o ombro como meio'), expressão técnica posicional citada no Hai Tong por Moy Yat."
+summary: "Etimologia de 午 (ng / wǔ / ng5): 7º Ramo Terrestre (11h–13h, meio-dia; mês solar 5º; ano do Cavalo); meio (de algo); ponto cardeal antigo: sul (180°). Pictograma puro segundo paleografia moderna. Análise Shuowen: 'oposição cósmica — no 5º mês o qi yin se opõe ao yang, sai cobrindo a terra' (啎也). Guo Moruo (paleógrafo moderno): a forma Oracle é pictograma de corda/rédea — provavelmente arnês de cavalo (馭馬之轡), daí a associação com 'cavalo' no ciclo dos 12 Ramos. A análise Shuowen ('pilão' 杵) é erro tardio por confusão gráfica. Atestação massiva em oracle Shang. Aparece em yi bok wai ng 以膊為午 ('com o ombro como meio'), expressão técnica posicional citada no Hai Tong por Moy Yat."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 category: etymology
