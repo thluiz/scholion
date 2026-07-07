@@ -56,7 +56,7 @@ Atestação massiva desde Shang — um dos caracteres mais antigos e estáveis.
 
 #### Shuowen Jiezi completo (via zdic.net)
 
-**說文**: 三，天地人之道也。从三數。凡三之屬皆从三。蘇甘切。 (Três é o caminho [道] de Céu, Terra e Humanidade. Compõe-se de três números. Todos os caracteres da secção 三 seguem 三. Fanqie: 蘇甘切.)
+**說文**: 三，天地人之道也。从三數。凡三之屬皆从三。蘇甘切。 (Três é o caminho [道] de Céu, Terra e Humanidade. Compõe-se de três números. Todos os caracteres da seção 三 seguem 三. Fanqie: 蘇甘切.)
 
 **段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido):
 
