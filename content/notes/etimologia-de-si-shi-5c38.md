@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 尸 (Si — Shī / si1)"
-date: '2026-07-06T11:56:25+01:00'
-summary: 'O radical Kangxi nº 44. O Shuowen lê 尸 como 陳也 "dispor" e 象臥之形 "a forma de deitado"; a paleografia lê pessoa sentada de joelhos dobrados, e o sentido de cadáver (屍) surge por empréstimo posterior.'
+date: '2026-07-07T19:35:22+01:00'
+summary: 'O radical Kangxi nº 44, glosado no Shuowen como 陳也 e explicado graficamente como 象臥之形; as fontes modernas divergem entre “corpo/cadáver” e a pessoa viva que representa o morto em ritos.'
 toc: true
 tags: ["china", "linguagem", "etimologia", "ideogramas", "radicais"]
 category: etymology
@@ -34,37 +34,36 @@ sources:
 
 #### Definições
 
-**MDBG**: (forma presa) cadáver; (literário) pessoa que representa o falecido (durante as cerimônias fúnebres); (literário) expor um cadáver (após execução); variante de 屍｜尸.
+**MDBG**: (bound form) corpse; (literary) person representing the deceased (during burial ceremonies) / (literary) to put a corpse on display (after execution) / variant of 屍｜尸.
 
-**CantoDict**: si1 (tom 1, alto/nível). Confirmado pela CUHK.
+**CantoDict**: si1.
 
 **chardb Academia Sinica**:
-1. 陳；陳列。 (dispor; expor em fileira)
-2. 古代祭祀時代表死人受祭的活人(一般以臣下或死者的晚輩充任)。 (na antiguidade, durante os sacrifícios, o vivo que representava o morto para receber as oferendas [geralmente um subordinado ou um parente mais novo do falecido])
-3. 神主；神像。 (a tabuleta do espírito; a imagem sacra)
-4. 主，主體。 (o principal; o corpo principal)
-5. 主持；執掌。 (presidir; ter a seu cargo)
-6. 喻坐享祿位，不幹實事。 (figurado: usufruir de cargo e emolumentos sem realizar trabalho efetivo)
-7. 尸體。 (o cadáver)
-8. 陳列尸體以示眾。 (expor o cadáver à vista pública)
-9. 舒展。 (estender; distender)
+1. 陳；陳列。 (dispor; pôr em exposição)
+2. 古代祭祀時代表死人受祭的活人(一般以臣下或死者的晚輩充任)。 (pessoa viva que, em rituais da Antiguidade, representava o morto para receber o sacrifício; em geral um subordinado ou um descendente mais jovem do falecido)
+3. 神主；神像。 (tabuleta espiritual; imagem divina)
+4. 主，主體。 (senhor; sujeito principal)
+5. 主持；執掌。 (presidir; administrar)
+6. 喻坐享祿位，不幹實事。 (por metáfora, ocupar cargo e usufruir estipêndio sem fazer trabalho real)
+7. 尸體。 (cadáver)
+8. 陳列尸體以示眾。 (expor um cadáver ao público)
+9. 舒展。 (estender-se; distender-se)
 10. 姓。 (sobrenome)
 
 #### Decomposição e formas antigas (hanziyuan)
 
-Componentes: pictograma simples de pessoa agachada (person squatting 尸 shī), não decomponível.
-Significado original: 本义 "a body" (um corpo).
-Acepções inglesas: (não obtido — campo vazio no hanziyuan)
-Exemplo de uso: 尸体 shī tǐ (carcass).
-Frequência de uso: 99999 (muito alta).
-Formas atestadas (contagem hanziyuan): Oráculo (甲骨文) 4; Bronze (金文) 27; Selo do Shuowen (篆) 1; Liushutong (六書通) 1. As atestações epigráficas constam da tabela do 小學堂 abaixo.
+Componentes: Component 尸; C529 尸<屍> simp 尸.
+Significado original: Meaning a body.
+Acepções inglesas: (não obtido — campo "English senses" veio vazio)
+Frequência de uso: (sem ranking na fonte).
+Formas atestadas: Oracle characters 甲骨文 (4); Bronze characters 金文 (27); Seal characters 说文解字的篆字 (1); Liushutong characters 六书通的字 (1).
 
 #### Shuowen Jiezi completo
 
-(Texto verbatim convergente em três fontes: CUHK, 小學堂 e hanziyuan, idênticas salvo pontuação.)
+(shuowen.org retornou apenas a listagem das primeiras entradas do dicionário; texto verbatim obtido via 小學堂 e CUHK, não idênticos.)
 
 **說文**: 尸，陳也。象臥之形。凡尸之屬皆从尸。〔式脂切〕
-(尸 é 陳 — "dispor", "expor". Representa a forma de [alguém] deitado. Todo caractere da classe de 尸 segue 尸. [fanqie: 式脂切])
+(Cadáver/尸 é 陳也, “dispor; pôr em exposição”. Representa a forma de alguém deitado. Todo caractere da classe de 尸 segue 尸. [fanqie: 式脂切])
 
 **段注 Duan Yucai**: (não obtido — shuowen.org retornou listagem; zdic.net retornou HTTP 404)
 
@@ -72,48 +71,43 @@ Formas atestadas (contagem hanziyuan): Oráculo (甲骨文) 4; Bronze (金文) 2
 
 | Período | Script | Fonte / Artefato |
 |---|---|---|
-| Shang | Oráculo (甲骨文) | 鐵35.2; 前7.30.2; 粹1187; 乙405 |
-| Shang (tardio) | Bronze (金文) | 尸作父己卣 Shī zuò Fù Jǐ yǒu |
-| Zhou Ocidental (inicial) | Bronze (金文) | 大盂鼎 Dà Yú dǐng |
-| Zhou Ocidental (médio) | Bronze (金文) | 彔卣 Lù yǒu; 史墻盤 Shǐ Qiáng pán |
-| Zhou Ocidental (tardio) | Bronze (金文) | 簋 guǐ; 豐兮夷簋 Fēngxī Yí guǐ |
-| Han | Selo pequeno (小篆) | 說文‧尸部 (Shuowen, seção 尸) |
-| Qin | Clerical (隸書) | 睡虎地.日甲112 (Shuihudi) |
-| Han Ocidental | Clerical (隸書) | 老子甲後184; 武威簡.有司1 (Wuwei) |
-| Han Oriental | Clerical (隸書) | 熹平石經.易.文言 (Clássicos em Pedra de Xiping); 徐勝買地券 Xú Shèng mǎidì quàn |
+| Shang | Oráculo (甲骨文) | 鐵35.2(甲); 前7.30.2(甲); 粹1187(甲); 乙405(甲) |
+| Shang (tardio) | Bronze (金文) | 尸作父己卣(金) |
+| Zhou Ocidental (inicial) | Bronze (金文) | 大盂鼎(金) |
+| Zhou Ocidental (médio) | Bronze (金文) | 彔卣(金); 史墻盤(金) |
+| Zhou Ocidental (tardio) | Bronze (金文) | 簋(金); 豐兮夷簋(金) |
+| Han | Selo pequeno (小篆) | 說文‧尸部 |
+| Qin | Clerical (隸書) | 睡.日甲112(隸) |
+| Han Ocidental | Clerical (隸書) | 老子甲後184(隸); 武威簡.有司1(隸) |
+| Han Oriental | Clerical (隸書) | 熹.易.文言(隸); 徐勝買地券(隸) |
 
 **Shuowen (xiaoxue)**: 尸，陳也。象卧之形。
 
 **Comentários de estudiosos**:
-- CUHK (略說): 甲金文象人屈膝坐下之形。本義是坐。《論語．鄉黨》：「寢不尸」，即睡覺時不坐。 (A escrita oracular e em bronze representa a forma de uma pessoa sentada com os joelhos dobrados. O sentido original é "sentar-se". *Analectos*, Xiangdang: "寢不尸" — ao dormir, não se senta.)
-- 容庚《金文編》案 (Rong Geng, *Jinwen bian*): 金文「象屈膝之形。後叚夷為尸，而尸之意晦。祭祀之尸，其陳之祭，有似于尸，故亦以尸名之。」 (No bronze, representa a forma de [pessoa] de joelhos dobrados. Depois 夷 foi emprestado por 尸, e o sentido de 尸 obscureceu. O 尸 do sacrifício, disposto no rito, assemelhava-se ao 尸 [deitado], por isso também se chamou 尸.)
+- 容庚《金文編》案：金文“象屈膝之形。後叚夷為尸，而尸之意晦。祭祀之尸，其陳之祭，有似于尸，故亦以尸名之。” (Nos bronzes, “representa a forma de alguém com os joelhos dobrados. Depois, 夷 foi tomado emprestado por 尸, e o sentido de 尸 ficou obscurecido. O 尸 dos ritos sacrificiais, por ser exposto no sacrifício, tinha semelhança com 尸; por isso também recebeu o nome 尸.”)
 
 #### Fonologia (xiaoxue shangguyin)
 
 **中古音 Middle Chinese (Guangyun)**:
-- 攝 Division: 止 (Zhi) · 韻 Rhyme: 之 (Zhi) [脂] · 聲 Tone: 平 (level) · 母 Initial: 書 (sh-)
-- 反切 Fanqie: 式之 · 等 Grade: 三 (III) · 開合 Open/Closed: 開 (open) · 清濁: 全清 (totalmente surda)
+- 攝 Division: 止 (Zhi) · 韻 Rhyme: 之（脂） (Zhi [Zhi]) · 聲 Tone: 平 (level) · 母 Initial: 書 (sh-)
+- 反切 Fanqie: 式之（脂） · 等 Grade: 三 (III) · 開合 Open/Closed: 開 (open) · 清濁: 全清 (totalmente surda)
 
 **上古音 Old Chinese** (grupo de rima 脂 Zhi):
-- 高本漢 Karlgren: ɕi̯ər
-- 王力 Wang Li: ɕǐei
-- 董同龢 Dong Tonghe: çjed
-- 周法高 Zhou Fagao: stʰjier
-- 李方桂 Li Fanggui: hrjid
+- 高本漢 Karlgren: ɕ i̯ər
+- 王力 Wang Li: ɕ ǐei
+- 董同龢 Dong Tonghe: ç jed
+- 周法高 Zhou Fagao: stʰ jier
+- 李方桂 Li Fanggui: h rjid
 - 鄭張尚芳 Zhengzhang Shangfang: (não retornou dados — ausente da tabela do 小學堂)
 
 **國語 Mandarin IPA**: ʂʅ
 
 #### Divergências entre fontes
 
-**Leitura do grafismo.** Três leituras divergem. O *Shuowen* glosa 尸 como 陳也 ("dispor") e 象臥之形 ("a forma de [alguém] deitado"). A paleografia (CUHK 略說 e 容庚, *Jinwen bian*) lê pessoa sentada de joelhos dobrados (屈膝坐), com sentido original "sentar-se" — a CUHK detalha ainda três hipóteses para a postura: pessoa sentada em posição elevada (李孝定), sentada no chão de joelhos dobrados (沈培) ou de cócoras (徐中舒). Já o hanziyuan registra o 本义 como "a body" (um corpo). O 尸 ritual — o vivo que representava o morto no sacrifício — motivava a postura sentada, e daí o nome passou a designar o próprio cargo.
+**Sentido principal moderno.** MDBG e CantoDict registram 尸 como “corpse”; o hanziyuan traz “Original meaning 本义: Meaning a body.” Já o chardb e a CUHK registram também sentidos rituais e administrativos: “古代祭祀時代表死人受祭的活人”, “神主；神像”, “主持；執掌”, além do uso metafórico em “尸位素餐”.
 
-**尸 e 屍.** As fontes convergem em que 尸 designava originalmente uma pessoa; o sentido de cadáver era escrito por empréstimo de 尸, e só depois se acrescentou 死 como fonético para formar 屍, especializado em "corpo morto" (CUHK, hanziyuan). O MDBG lista 尸 como variante de 屍｜尸.
+**Leitura do grafismo.** O Shuowen, em 小學堂 e CUHK, diz “象臥之形”, enquanto a CUHK (略說/詳解) descreve o grafismo como figura humana sentada ou agachada: “甲金文象人屈膝坐下之形”, com três análises citadas no 詳解 (“象人高坐”, “象人屈膝坐在地上”, “象人蹲踞”). O comentário de 容庚 em 小學堂 também lê o bronze como “象屈膝之形”.
 
-**Empréstimo por 夷.** Na escrita oracular e no bronze, 尸 é usado como 通假 por 夷 (nome de povo/região; "bárbaros do leste"), conforme CUHK — 《合集》6459「正(征)尸(夷)」 e o 㝬鐘「南尸(夷)、東尸(夷)」.
+**Shuowen.** A CUHK registra o texto com a cauda e o fanqie — “尸，陳也。象臥之形。凡尸之屬皆从尸。〔式脂切〕”; o 小學堂 yanbian traz apenas “尸，陳也。象卧之形。” O hanziyuan reproduz “陳也象臥之形凡尸之屬皆從尸”, sem pontuação e sem o fanqie.
 
-**Shuowen e 段注.** O texto do *Shuowen* foi confirmado verbatim por três fontes (CUHK, 小學堂, hanziyuan), idênticas salvo pontuação. O comentário de 段玉裁 não foi obtido.
-
-**Leitura cantonesa.** O MDBG não exibiu jyutping (só shī); cantonese.org e a CUHK convergem em si1, consistente com o 中古音 (inicial 書 sh-, tom 平 nível → tom 1 cantonês).
-
-**Reconstruções do 上古音.** Quatro sistemas (Wang Li, Dong Tonghe, Zhou Fagao, Li Fanggui) mais Karlgren, no grupo de rima 脂 (Zhi); a coluna de 鄭張尚芳 (Zhengzhang Shangfang) não retornou na tabela do 小學堂.
+**Relação com 屍.** MDBG diz “variant of 屍｜尸”; o hanziyuan marca “Variant rule: C529 尸<屍>” e distingue “尸 (a person) / 屍 <a dead body> TW”; a CUHK afirma explicitamente: “今人一般以為「尸」乃「屍」的簡體字，可以補充的是，「尸」本為繁體字，屍體的「屍」古借「尸」來表示，後來才加「死」為聲符分化出「屍」專門表示遺體。參見「屍」。”
