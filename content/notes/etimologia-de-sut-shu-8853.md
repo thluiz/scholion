@@ -84,7 +84,7 @@ A glosa de 段玉裁 documenta explicitamente a transição semântica: do **cam
 | Período | Script | Fonte/Artefato |
 |---------|--------|----------------|
 | Warring States, Qin 戰國·秦 | Bronze 金文 | 十鐘 (Shízhōng — Dez Sinos) |
-| Han | Seal 篆書 | 說文‧行部 (Shuōwén, secção 行) |
+| Han | Seal 篆書 | 說文‧行部 (Shuōwén, seção 行) |
 | Qin 秦 | Clerical 隸書 | 睡虎地簡37.101 (Shuìhǔdì jiǎn 37.101 — bambu Qin de Shuihudi) |
 | Western Han 西漢 | Clerical 隸書 | 老子甲後400 (Lǎozǐ jiǎ hòu 400 — manuscrito A do *Laozi* de Mawangdui, verso) |
 | Western Han 西漢 | Clerical 隸書 | 縱橫家書52 (Zònghéngjiā shū 52 — *Livro dos Estrategistas Verticais e Horizontais*) |
