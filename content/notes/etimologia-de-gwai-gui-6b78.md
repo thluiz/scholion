@@ -139,4 +139,4 @@ A complexidade triplica a densidade semântica: a imagem Zhou é da esposa paran
 
 **Convergência fonológica 微部**: Os cinco sistemas Old Chinese convergem no grupo 微 (wēi). Mesmo grupo rímico de 退 (toei) — coerente, pois 歸 e 退 são pares diretionais complementares (retornar / recuar).
 
-**Forma zhouwen 㱕 simplificada**: A forma antiga 㱕 é uma "redução" (省) — contém 止 mas perde partes de 婦 e 𠂤. Mostra que a complexidade gráfica de 歸 é fenómeno Qin-Han tardio; formas zhouwen preservam versão mais enxuta.
+**Forma zhouwen 㱕 simplificada**: A forma antiga 㱕 é uma "redução" (省) — contém 止 mas perde partes de 婦 e 𠂤. Mostra que a complexidade gráfica de 歸 é fenômeno Qin-Han tardio; formas zhouwen preservam versão mais enxuta.
