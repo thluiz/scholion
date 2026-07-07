@@ -81,7 +81,7 @@ Esta nota filológica documenta importante alternância diacrónica: 聯 (grafia
 | Middle Western Zhou 西周中期 | Bronze 金文 | 作鬲 (Zuò lì) |
 | Warring States, Jin 戰國·晉 | Seal 璽印 | 璽彙2389 |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 包2.265 (Bāoshān) |
-| Han | Seal 篆書 | 說文·耳部 (Shuōwén, secção 耳) |
+| Han | Seal 篆書 | 說文·耳部 (Shuōwén, seção 耳) |
 | Han | Seal impression 漢印 | 漢印徵 |
 
 **Shuowen (xiaoxue)**: (inferido) 《說文》：「聯，連也。从耳，耳連於頰也；从絲，絲連不絕也。」
