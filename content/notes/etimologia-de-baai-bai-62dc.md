@@ -94,7 +94,7 @@ O 拜 genérico refere-se especificamente ao 空首.
 | Middle Spring-Autumn 春秋中期 | Bronze 金文 | 與兵壺 (Yǔ bīng hú) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 包2.272 (Bāoshān) |
 | — | Ancient script 古文 | 說文古文 — forma 𣬓 |
-| Han | Seal 篆書 | 說文·手部 (Shuōwén, secção 手) |
+| Han | Seal 篆書 | 說文·手部 (Shuōwén, seção 手) |
 | — | Seal variant 篆書或體 | 說文或體 |
 | Qin 秦 | Clerical 隸書 | 睡虎地簡18.154 |
 | Western Han 西漢 | Clerical 隸書 | 居延簡甲86A |
@@ -127,7 +127,7 @@ A abundância de atestações em bronze Zhou (22+) indica que 拜 é vocábulo c
 
 **Interpretação do pictograma — duas mãos (Yang Xiong) vs mão+ervas (hanziyuan)**: O Shuowen cita Yang Xiong (揚雄, séc. I AEC): 拜从兩手下 ("拜 compõe-se de duas mãos para baixo"). hanziyuan oferece leitura alternativa: mão (扌) + 𠦪 (ervas/raízes), interpretando-o como "mão trazendo presente (ervas) na visita". As duas leituras são plausíveis para os bronzes Zhou — o caracter exibe formas variadas que permitem ambas as análises. A leitura de Yang Xiong é mais consistente com o sentido cerimonial (gesto com as mãos); a de hanziyuan é mais material (gesto prático de trazer presente).
 
-**Formas múltiplas no Shuowen — 𢳎 / 拜 / 𣬓**: O Shuowen regista pelo menos três formas: 𢳎 (entrada principal), 拜 (forma citada de Yang Xiong), 𣬓 (forma guwen). As variantes 拝, 𢱭, 𢷎 aparecem em fontes posteriores. Esta multiplicidade gráfica para um único ritual sugere vocabulário ritual central com grande variação regional/dialetal pré-Qin.
+**Formas múltiplas no Shuowen — 𢳎 / 拜 / 𣬓**: O Shuowen registra pelo menos três formas: 𢳎 (entrada principal), 拜 (forma citada de Yang Xiong), 𣬓 (forma guwen). As variantes 拝, 𢱭, 𢷎 aparecem em fontes posteriores. Esta multiplicidade gráfica para um único ritual sugere vocabulário ritual central com grande variação regional/dialetal pré-Qin.
 
 **Atestação abundante em bronzes Zhou**: 22 atestações em bronzes Zhou médio-tardio (作周公簋, 靜簋, 頌鼎, 頌壺 etc.) — o contexto típico destes vasos rituais inclui fórmulas de comemoração onde "reverenciar o Rei/Ancestrais" (拜) é registo canónico. 拜 é vocábulo obrigatório das inscrições ritualísticas Zhou.
 
