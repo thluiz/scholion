@@ -105,6 +105,6 @@ Total: 2 formas. Nenhuma forma em osso oracular, nenhuma em bronze listada no xi
 - **Decomposição fonética**: Sears (hanziyuan) é explícito em distinguir 𧸇 (yù) de 𧷵 (mài) — são componentes graficamente próximos mas etimologicamente distintos. A nomenclatura tradicional diz "從見賣聲" (de 見 com 賣 fonético), mas tanto o Shuowen quanto hanziyuan convergem em que o componente real é a variante 𧸇.
 - **Leitura de "encontro cerimonial"**: o chardb (def. 2) lista explicitamente 以禮相見 (encontrar-se formalmente, com ritual); esta leitura dá suporte ao uso clássico do caractere em textos como o Zuo Zhuan e o Zhouli. Hanziyuan e shuowen.org dão apenas 見也 (ver), sem este matiz cerimonial.
 - **Formas arqueológicas escassas**: 0 oracles (ambos hanziyuan e xiaoxue), bronze divergente (1 em hanziyuan / 0 em xiaoxue), apenas 1 selo e 1 clerical. Carater raro do ponto de vista epigráfico.
-- **Leitura homófona com 瞷**: chardb (def. 5) regista 同「瞷」，目赤，向遠處看 — sentido marginal de "olhos vermelhos; olhar ao longe", homofonia/paronímia com 瞷 (jiàn/xián). Sentido ausente de todas as outras fontes.
+- **Leitura homófona com 瞷**: chardb (def. 5) registra 同「瞷」，目赤，向遠處看 — sentido marginal de "olhos vermelhos; olhar ao longe", homofonia/paronímia com 瞷 (jiàn/xián). Sentido ausente de todas as outras fontes.
 </content>
 </invoke>
