@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 借 (Je — Jiè / ze3)"
 date: '2026-04-24T20:02:22+01:00'
-summary: "Análise etimológica de 借 (Jiè / ze3), 'tomar emprestado, lançar mão de'. Shuowen: 假也 ('tomar/assumir por empréstimo'). Composto fonossemântico: 人 (pessoa) + 昔 (fonético, xī). 段注 de Duan Yucai regista que 借 é dos 19 caracteres que Xu Xuan adicionou ao Shuowen para coerência com o próprio sistema de Xu Shen (six-书假借, onde 假借 é categoria principal). Duan também observa: 古多用藉爲借 ('na antiguidade usava-se frequentemente 藉 no lugar de 借') — os dois caracteres são variantes gráficas. No Hai Tong, aparece em ji yue 借喻 (tomar por analogia). Sete fontes consultadas."
+summary: "Análise etimológica de 借 (Jiè / ze3), 'tomar emprestado, lançar mão de'. Shuowen: 假也 ('tomar/assumir por empréstimo'). Composto fonossemântico: 人 (pessoa) + 昔 (fonético, xī). 段注 de Duan Yucai registra que 借 é dos 19 caracteres que Xu Xuan adicionou ao Shuowen para coerência com o próprio sistema de Xu Shen (six-书假借, onde 假借 é categoria principal). Duan também observa: 古多用藉爲借 ('na antiguidade usava-se frequentemente 藉 no lugar de 借') — os dois caracteres são variantes gráficas. No Hai Tong, aparece em ji yue 借喻 (tomar por analogia). Sete fontes consultadas."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 category: etymology
@@ -64,7 +64,7 @@ Formas atestadas documentadas pelo xiaoxue: Oracle 0 · Bronze 0 · atestação 
 
 (借)假也。从人昔聲。資昔切。古音在五部。按小徐本無此字，張次立乃依大徐增之，故曰資昔切，而不曰資昔反也。大徐依注義序例偏㫄所有而補正文者十九字，借其一也。序曰：六書六曰假借。又部叚下曰：借也。此處當有借篆可知矣。爾雅音義釋鳥唶唶下曰：說文云：借字也。按云當作之，唶乃諎之或體，今許書諎下無叚諎之訓，豈通作借而遂刪之與。聞疑載疑，孰理而董之矣。古多用藉爲借，如言藉令卽假令也。
 
-Tradução: "(借) é 'emprestar/tomar por empréstimo' [假]. De 人, com 昔 como fonético. Fanqie: 資昔切. Em som antigo, pertence ao grupo rímico 5. Observe-se que na edição de Xú Kǎi (小徐本) este caractere não consta; Zhāng Cìlì adicionou-o seguindo a edição de Xú Xuàn (大徐). Por isso se regista '資昔切' e não '資昔反'. Xú Xuàn, seguindo as notas, prefácio e exemplos de Xu Shen, adicionou 19 caracteres ao texto principal — 借 é um deles. O prefácio diz: 'Sexta categoria dos 六書 [seis escritas]: 假借 [empréstimo].' A entrada 叚 diz: 'é 借.' Portanto, é claro que deveria existir o selo 借 [na edição original]. O *Ěryǎ yīnyì*, secção 'Aves', sob 唶唶, diz: 'O Shuowen diz que é caractere 借.' Observa-se que 云 deveria ser 之; 唶 é variante de 諎. Na presente edição do *Xǔ shū* [Shuowen], não há glosa '叚' sob 諎 — terá sido usado genericamente como 借 e depois eliminado? Ouve-se a dúvida, regista-se a dúvida; quem poderá examinar e restituir? Na antiguidade, usava-se frequentemente 藉 por 借 — como em '藉令' que é o mesmo que '假令' [suponha-se]."
+Tradução: "(借) é 'emprestar/tomar por empréstimo' [假]. De 人, com 昔 como fonético. Fanqie: 資昔切. Em som antigo, pertence ao grupo rímico 5. Observe-se que na edição de Xú Kǎi (小徐本) este caractere não consta; Zhāng Cìlì adicionou-o seguindo a edição de Xú Xuàn (大徐). Por isso se registra '資昔切' e não '資昔反'. Xú Xuàn, seguindo as notas, prefácio e exemplos de Xu Shen, adicionou 19 caracteres ao texto principal — 借 é um deles. O prefácio diz: 'Sexta categoria dos 六書 [seis escritas]: 假借 [empréstimo].' A entrada 叚 diz: 'é 借.' Portanto, é claro que deveria existir o selo 借 [na edição original]. O *Ěryǎ yīnyì*, seção 'Aves', sob 唶唶, diz: 'O Shuowen diz que é caractere 借.' Observa-se que 云 deveria ser 之; 唶 é variante de 諎. Na presente edição do *Xǔ shū* [Shuowen], não há glosa '叚' sob 諎 — terá sido usado genericamente como 借 e depois eliminado? Ouve-se a dúvida, registra-se a dúvida; quem poderá examinar e restituir? Na antiguidade, usava-se frequentemente 藉 por 借 — como em '藉令' que é o mesmo que '假令' [suponha-se]."
 
 Esta é nota filológica particularmente rica: 段玉裁 documenta que 借 foi dos 19 caracteres **acrescentados** ao Shuowen por Xú Xuàn (徐鉉, 916–991) — parte das adições editoriais Song ao texto original. Ainda assim, Duan argumenta que o caractere deveria constar no original, pois 假借 é uma das 六書 (seis categorias da escrita) mencionadas no prefácio do próprio Xu Shen.
 
@@ -73,7 +73,7 @@ Esta é nota filológica particularmente rica: 段玉裁 documenta que 借 foi d
 | Período | Script | Fonte/Artefato |
 |---------|--------|----------------|
 | Warring States, Yan 戰國·燕 | Seal impression 璽印 | 璽彙2805 (Xǐ huì 2805) |
-| Han | Seal 篆書 | 說文·人部 (Shuōwén, secção 人) |
+| Han | Seal 篆書 | 說文·人部 (Shuōwén, seção 人) |
 | Eastern Han 東漢 | Clerical 隸書 | 武梁祠畫象題字 (Wǔliáng cí huàxiàng tízì — inscrições do santuário de Wuliang) |
 
 **Shuowen (xiaoxue)**: 《說文》：「借，假也。从人，昔聲。」 ("借 é emprestar. De 人, com 昔 como fonético.")
@@ -99,7 +99,7 @@ Atestação escassa em paleografia pré-Han é consistente com a hipótese de Du
 
 #### Divergências entre fontes
 
-**Caractere adicionado por Xú Xuàn (um dos "十九字")**: Como 段玉裁 regista, 借 é um dos 19 caracteres adicionados ao Shuowen por Xú Xuàn (séc. X), não constantes do manuscrito original de Xu Shen (séc. II). Esta é informação filológica relevante — análise crítica deve tratar 借 como recomposição Song a partir do léxico pré-existente, não como tradição Shuowen primária. Situação paralela à de 派 (que Duan suspeita ser também adição tardia).
+**Caractere adicionado por Xú Xuàn (um dos "十九字")**: Como 段玉裁 registra, 借 é um dos 19 caracteres adicionados ao Shuowen por Xú Xuàn (séc. X), não constantes do manuscrito original de Xu Shen (séc. II). Esta é informação filológica relevante — análise crítica deve tratar 借 como recomposição Song a partir do léxico pré-existente, não como tradição Shuowen primária. Situação paralela à de 派 (que Duan suspeita ser também adição tardia).
 
 **Relação 借 / 藉 — variantes do mesmo lexema**: 段玉裁 é explícito: 古多用藉爲借 ("na antiguidade usava-se frequentemente 藉 por 借"). Os dois caracteres são variantes gráficas para o mesmo lexema "emprestar/tomar de". 借 (com 人) especializou-se no sentido concreto de "pedir/tomar"; 藉 (com 艸) preservou-se para sentidos mais abstratos de "apoiar-se em, fundamentar em". Esta bifurcação gráfica é particularmente nítida em Han-Tang.
 
