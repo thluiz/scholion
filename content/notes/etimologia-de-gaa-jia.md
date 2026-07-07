@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 嘉 (Gaa — Jiā / gaa1)"
 date: '2026-04-23T00:05:21+01:00'
-summary: "Análise etimológica de 嘉 (Jiā / gaa1), 'excelente, auspicioso, elogiar'. Composto fonossemântico: 壴 (tambor ritual) + 加 (fonético). Shuowen: 美也 ('belo, bom'). Duan Yucai: '壴 é o tambor ritual preparado; por isso 嘉 tem 壴' — conexão com cerimónias festivas. Um dos 五禮 (cinco ritos), que cobre festas, casamentos, celebrações. Sete fontes consultadas."
+summary: "Análise etimológica de 嘉 (Jiā / gaa1), 'excelente, auspicioso, elogiar'. Composto fonossemântico: 壴 (tambor ritual) + 加 (fonético). Shuowen: 美也 ('belo, bom'). Duan Yucai: '壴 é o tambor ritual preparado; por isso 嘉 tem 壴' — conexão com cerimônias festivas. Um dos 五禮 (cinco ritos), que cobre festas, casamentos, celebrações. Sete fontes consultadas."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 has_commentary: false
@@ -46,7 +46,7 @@ category: etymology
 2. 幸福；吉祥 (felicidade; auspicioso)
 3. 讚揚，表彰 (louvar; comendar)
 4. 樂；歡娛 (alegria; entretenimento)
-5. 古代五禮之一。包括冠、婚、賀慶、饗宴等的禮儀 (um dos cinco ritos clássicos — 五禮: inclui cerimónias de maioridade (冠), casamento (婚), celebrações (賀慶), banquetes (饗宴))
+5. 古代五禮之一。包括冠、婚、賀慶、饗宴等的禮儀 (um dos cinco ritos clássicos — 五禮: inclui cerimônias de maioridade (冠), casamento (婚), celebrações (賀慶), banquetes (饗宴))
 6. 姓 (sobrenome)
 
 Leitura: jiā (ㄐㄧㄚ).
@@ -108,8 +108,8 @@ Total: 14 formas. Ausência em osso oracular; primeira atestação: bronze Prima
 
 ### Divergências entre fontes
 
-- **Consenso pictográfico-fonético**: Shuowen, Duan Yucai, hanziyuan, chardb convergem — 嘉 = 壴 (tambor ritual) + 加 (fonético). Duan Yucai fornece a leitura semântica: o tambor ritual está "disposto/arranjado" (陳樂), conectando 嘉 ao contexto de cerimónia festiva. Sem divergência interpretativa.
-- **Sentido original "alegre" vs "belo"**: Shuowen dá 美 (belo); hanziyuan registra "joyful" (alegre) como sentido original. chardb hierarquiza: def. 1 美 (belo), def. 2 幸福 (feliz, auspicioso), def. 4 樂 (alegria). A semântica de 嘉 pertence a um campo continuo: belo-bom-auspicioso-alegre.
+- **Consenso pictográfico-fonético**: Shuowen, Duan Yucai, hanziyuan, chardb convergem — 嘉 = 壴 (tambor ritual) + 加 (fonético). Duan Yucai fornece a leitura semântica: o tambor ritual está "disposto/arranjado" (陳樂), conectando 嘉 ao contexto de cerimônia festiva. Sem divergência interpretativa.
+- **Sentido original "alegre" vs "belo"**: Shuowen dá 美 (belo); hanziyuan registra "joyful" (alegre) como sentido original. chardb hierarquiza: def. 1 美 (belo), def. 2 幸福 (feliz, auspicioso), def. 4 樂 (alegria). A semântica de 嘉 pertence a um campo contínuo: belo-bom-auspicioso-alegre.
 - **五禮 (Cinco Ritos)**: chardb def. 5 situa 嘉 como um dos 五禮 do ritual confuciano — 吉禮 (ritos de bênção), 凶禮 (ritos fúnebres), 軍禮 (ritos militares), 賓禮 (ritos de hospitalidade), 嘉禮 (ritos auspiciosos — maioridade 冠, casamento 婚, celebrações 賀慶, banquetes 饗宴). Uma das cinco categorias rituais do Zhouli. Registro ritualístico ausente do MDBG e CantoDict.
 - **Ausência em osso oracular**: hanziyuan e xiaoxue convergem em 0 oracles. Primeira atestação: bronze Primavera-Outono. Caractere de formação Zhou-tardio/Chunqiu.
 - **Presença em bronzes nomeados**: 嘉賓鐘 (sino dos convidados honrados) — a inscrição do próprio bronze contém 嘉. Atestação epigráfica expressiva do uso como substantivo (convidado).
