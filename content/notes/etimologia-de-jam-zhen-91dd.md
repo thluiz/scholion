@@ -67,13 +67,13 @@ A substituição 鍼 → 針 (com 十 no lugar de 咸) é simplificação gráfi
 
 所㠯縫也。縫者、以鍼紩衣也。竹部箴下曰。綴衣箴也。以竹爲之、僅可聯綴衣。以金爲之、乃可縫衣。从金。咸聲。職深切。七部。今俗作針。
 
-Tradução: "(鍼) é 'instrumento para coser'. Coser [縫] é 'usar rǎn [agulha] para unir roupa'. A secção 竹, sob 箴, diz: '箴 é binding de roupa.' Feito de bambu, só serve para unir; feito de metal, pode coser propriamente. De 金, com 咸 como fonético. Fanqie: 職深切. Grupo rímico 7. Hoje a forma popular escreve-se 針."
+Tradução: "(鍼) é 'instrumento para coser'. Coser [縫] é 'usar rǎn [agulha] para unir roupa'. A seção 竹, sob 箴, diz: '箴 é binding de roupa.' Feito de bambu, só serve para unir; feito de metal, pode coser propriamente. De 金, com 咸 como fonético. Fanqie: 職深切. Grupo rímico 7. Hoje a forma popular escreve-se 針."
 
 A distinção 箴 (bambu, binding rudimentar) / 鍼 (metal, costura propriamente dita) é categorização material importante preservada pelo 段注.
 
 #### Evolução de formas ([xiaoxue yanbian](https://xiaoxue.iis.sinica.edu.tw/yanbian?char=針))
 
-A busca por 針 no xiaoxue retornou **zero resultados** — consistente com o facto de 針 ser forma popular pós-Han (similar ao caso de 花/華). A paleografia está sob 鍼.
+A busca por 針 no xiaoxue retornou **zero resultados** — consistente com o fato de 針 ser forma popular pós-Han (similar ao caso de 花/華). A paleografia está sob 鍼.
 
 #### Fonologia ([xiaoxue shangguyin](https://xiaoxue.iis.sinica.edu.tw/shangguyin?char=針))
 
@@ -105,7 +105,7 @@ A escassez de reconstruções Old Chinese (só Wang Li) reflete a natureza tardi
 
 Esta taxonomia material é explícita no 段注 e reflete a organização artesanal Han. A acupuntura usa 鍼 (针) em textos clássicos — nunca 箴.
 
-**Ausência no Shuowen original**: Como 花 e outros, 針 é caractere não registado no Shuowen. A ausência em xiaoxue yanbian (zero resultados) confirma: 針 é grafia popular não atestada em paleografia pré-Han.
+**Ausência no Shuowen original**: Como 花 e outros, 針 é caractere não registrado no Shuowen. A ausência em xiaoxue yanbian (zero resultados) confirma: 針 é grafia popular não atestada em paleografia pré-Han.
 
 **Ji nam cham 指南針 — "agulha que aponta o sul"**: O composto chinês para "bússola" inverte a polaridade semântica em relação ao português. O termo ocidental "compasso/bússola" vem da circunferência descrita; o chinês foca no *apontar-ao-sul* (指南) da agulha (針). Culturalmente, isto reflete o sistema cardinal chinês centrado no sul (associado ao imperador, ao Yang, ao verão) — ver nota de 南.
 
