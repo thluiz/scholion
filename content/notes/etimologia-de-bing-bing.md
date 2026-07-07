@@ -125,9 +125,9 @@ Total: 22 formas. Atestado continuamente desde o Shang até o Cao Wei.
 
 - **Consenso composicional**: todas as fontes convergem — 兵 é 廾 (duas mãos) + 斤 (machado), ideograma. Shuowen, hanziyuan, chardb, xiaoxue, Yang Shuda — todos concordam.
 - **Radical alternativo**: chardb lista 八 (bā, oito) como radical no Kangxi; hanziyuan e outras análises veem 冂 ou 廾 como componente funcional. Convenções de indexação divergem; não é divergência etimológica.
-- **Sentido original — arma vs. soldado**: Shuowen define como 械也 ("arma, instrumento de guerra"); hanziyuan regista "soldier" (soldado) como sentido original. chardb def. 1 (arma) + def. 2 (soldado) reconcilia: arma é primário, soldado é metonímia derivada (o portador da arma). Divergência menor, reflete tradições lexicográficas.
+- **Sentido original — arma vs. soldado**: Shuowen define como 械也 ("arma, instrumento de guerra"); hanziyuan registra "soldier" (soldado) como sentido original. chardb def. 1 (arma) + def. 2 (soldado) reconcilia: arma é primário, soldado é metonímia derivada (o portador da arma). Divergência menor, reflete tradições lexicográficas.
 - **Forma antiga 𠈯 com 干 (escudo)**: Shuowen preserva variante 𠈯 — 人 (pessoa) + 廾 + 干 (escudo). Yang Shuda nota a equivalência: segurar escudo é como segurar machado; ambos são armas. Atesta a variação do instrumento no ideograma original.
-- **Mudança de rima OC entre Han Ocidental e Oriental**: xiaoxue regista 陽 no Han Ocidental e 耕 no Han Oriental — transição interessante, sugere deslocação fonológica no próprio período Han.
+- **Mudança de rima OC entre Han Ocidental e Oriental**: xiaoxue registra 陽 no Han Ocidental e 耕 no Han Oriental — transição interessante, sugere deslocação fonológica no próprio período Han.
 - **Contagem de formas oracle**: hanziyuan 3; xiaoxue 2 (佚729, 後2.29.6). Convergência razoável.
 - **Metonímias**: o arco semântico 兵 cobre arma (def. 1) → soldado/exército (def. 2) → assuntos militares (def. 3) → combate/guerra (def. 4-5) → dano/calamidade (def. 6-7) → defesa (def. 8) → morto em batalha (def. 9). Semântica da guerra inteira, do instrumento ao cadáver.
 - **Gíria cantonense**: CantoDict preserva uso contemporâneo — 兵 como "homem que serve uma mulher devotamente" (semântica derivada do sentido militar: soldado obediente). Uso vivo.
