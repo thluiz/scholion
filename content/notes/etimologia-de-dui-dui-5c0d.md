@@ -89,7 +89,7 @@ A passagem é historicamente notável: o Imperador Wen dos Han teria editado o c
 #### Divergências entre fontes
 
 - **A imagem da resposta como sino**: a passagem de 段注 citando o *Liji* — "o bom respondedor é como sino tocado: golpe grande soa grande; golpe pequeno soa pequeno" — é fundamental. *Dui* nomeia a resposta proporcional, ajustada à pergunta. Não é fala arbitrária, é fala medida (寸, medida) que vibra na proporção do impacto recebido (丵, mato denso = pluralidade de estímulos).
-- **A reforma do Imperador Wen Han**: a história do edito imperial substituindo 口 por 士 é etnograficamente significativa, mas filologicamente duvidosa (segundo Zhao Mingcheng). A forma com 士 já existia em bronzes pré-Han. A narrativa Han pode ser construção retrospectiva sobre forma já existente — racionalização moral de variação grafica.
+- **A reforma do Imperador Wen Han**: a história do edito imperial substituindo 口 por 士 é etnograficamente significativa, mas filologicamente duvidosa (segundo Zhao Mingcheng). A forma com 士 já existia em bronzes pré-Han. A narrativa Han pode ser construção retrospectiva sobre forma já existente — racionalização moral de variação gráfica.
 - **Atestação Oracle**: xiaoxue confirma 2 atestações Oracle Shang. Caractere antigo, com uso ritual-administrativo desde o início (resposta formal a perguntas reais).
 - **Reconstruções OC**: convergência razoável. Inicial *t- (oclusiva dental surda) em todos os 5 sistemas. Mesma divergência das finais que em 內 (*-d / *-r / *-i / *-b) — refletindo o problema teórico do tom 去聲 final OC.
 - **Cantonês**: deoi3 (tom 3 médio descendente) preserva o 去聲 全清 do Guangyun. Forma estável.
