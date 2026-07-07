@@ -81,7 +81,7 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 1 (S08813) · Liushutong 5.
 | Período | Script | Fonte/Artefato | Forma |
 |---------|--------|----------------|-------|
 | Estados Combatentes (475–221 a.C.) | Selo (*xǐ* 璽) | Catálogo 璽彙 n.º 1824 | forma de selo pré-Qin |
-| Han (séc. II–I a.C.) | Pequeno selo (*xiǎozhuàn* 小篆) | *Shuowen Jiezi*, 手部 (secção do radical mão) | forma canónica do selo Qin |
+| Han (séc. II–I a.C.) | Pequeno selo (*xiǎozhuàn* 小篆) | *Shuowen Jiezi*, 手部 (seção do radical mão) | forma canónica do selo Qin |
 | Dinastia Xin (*Xīn Mǎng* 新莽, 9–23 d.C.) | Clerical (*lìshū* 隸書) | Sino *Xīn Zhōng Shàngfāng zhōng* 新中尚方鍾 (sino imperial da Oficina Superior, era Xin) | uso epigráfico imperial |
 | Dinastia Xin | Clerical | Gongo de cavalaria *Xīn hóu qí zhēng* 新侯騎鉦 (gongo militar do marquês da era Xin) | uso militar-ritual |
 | Han Oriental (séc. II d.C.) | Clerical | Estela *Kǒng Hé bēi* 孔龢碑 (estela de Kǒng Hé) | forma clerical madura |
