@@ -73,7 +73,7 @@ Simplificação: 劲 (U+52B2) — regra R13 substitui 巠 por 𢀖 simplificado
 |---------|--------|----------------|
 | Warring States, Jin 戰國·晉 | Seal impression 璽印 | 璽彙0843 (Xǐ huì 843) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚系簡帛 | 包2.42 (Bāoshān 2.42) |
-| Han | Seal 篆書 | 說文·力部 (Shuōwén, secção 力) |
+| Han | Seal 篆書 | 說文·力部 (Shuōwén, seção 力) |
 | Western Han 西漢 | Clerical 隸書 | 縱橫家書272 (Zònghéngjiā shū 272) |
 | Western Han 西漢 | Clerical 隸書 | 孫臏8 (Sūn Bìn 8 — Livro do Estrategista Sun Bin) |
 | Han | Seal impression 漢印 | 漢印徵 (Hàn yìn zhēng) |
@@ -99,9 +99,9 @@ Simplificação: 劲 (U+52B2) — regra R13 substitui 巠 por 𢀖 simplificado
 
 #### Divergências entre fontes
 
-**Leitura primária — jìn vs jìng**: O hanziyuan lista *jìn* como pronúncia principal e não apresenta outras; o MDBG separa as duas leituras com sentidos distintos (*jìn* nominal — "força, energia"; *jìng* adjetival — "forte, robusto"); o chardb dá ambas com primazia a *jing4*. A tabela shangguyin do Guangyun só regista *jìng* (去聲, 居正切), o que sugere que *jìn* é leitura mais tardia ou dialetal. O cantonês conserva a distinção: ging3 (formal/literária) vs ging6 (coloquial/enfática).
+**Leitura primária — jìn vs jìng**: O hanziyuan lista *jìn* como pronúncia principal e não apresenta outras; o MDBG separa as duas leituras com sentidos distintos (*jìn* nominal — "força, energia"; *jìng* adjetival — "forte, robusto"); o chardb dá ambas com primazia a *jing4*. A tabela shangguyin do Guangyun só registra *jìng* (去聲, 居正切), o que sugere que *jìn* é leitura mais tardia ou dialetal. O cantonês conserva a distinção: ging3 (formal/literária) vs ging6 (coloquial/enfática).
 
-**Ausência epigráfica pré-Warring States**: O hanziyuan regista 0 oracle bones e 0 bronzes. O xiaoxue confirma: a primeira forma atestada é de 戰國·晉 (selo 璽彙0843). 勁 é caractere relativamente tardio, documentado apenas a partir dos Estados Combatentes. Isto é consistente com a estrutura fonossemântica transparente (力 + 巠) típica de criações lexicais posteriores.
+**Ausência epigráfica pré-Warring States**: O hanziyuan registra 0 oracle bones e 0 bronzes. O xiaoxue confirma: a primeira forma atestada é de 戰國·晉 (selo 璽彙0843). 勁 é caractere relativamente tardio, documentado apenas a partir dos Estados Combatentes. Isto é consistente com a estrutura fonossemântica transparente (力 + 巠) típica de criações lexicais posteriores.
 
 **Significado original "strong" vs "vigoroso/saudável"**: O Shuowen define como 彊 ("forte, robusto"), mas o 段注 cita o Guangyun que corrige/completa: 健 ("vigoroso, com saúde"). A distinção é significativa — 彊 enfatiza resistência/dureza estrutural, 健 enfatiza vitalidade/saúde dinâmica. O par de glosas revela que o campo semântico abrange tanto a firmeza estática quanto o vigor em movimento.
 
