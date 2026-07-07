@@ -57,7 +57,7 @@ A leitura paleográfica: 岡 representa o cume da montanha como **linha tensiona
 
 #### Evolução de formas (xiaoxue yanbian)
 
-**Ausente da tabela xiaoxue yanbian** — sem atestações epigráficas pré-modernas. Caractere de fixação grafica tardia (variante popular de 岡 que se autonomizou).
+**Ausente da tabela xiaoxue yanbian** — sem atestações epigráficas pré-modernas. Caractere de fixação gráfica tardia (variante popular de 岡 que se autonomizou).
 
 #### Fonologia (xiaoxue shangguyin)
 
