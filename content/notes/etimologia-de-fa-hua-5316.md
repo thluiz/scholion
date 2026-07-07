@@ -52,7 +52,7 @@ Aparece no Hai Tong de Moy Yat em **fa ging 化境** (domínio de transformaçã
 9. 死 (morrer — eufemismo)
 10. 消化；消融 (digestão; dissolução)
 11. 燒 (queimar)
-12. 募化；乞討 (solicitar donativos; mendigar — uso budista/taoista)
+12. 募化；乞討 (solicitar donativos; mendigar — uso budista/taoísta)
 13. 道觀的別名 (nome alternativo para templo taoísta)
 14. 行為過分無禮 (comportamento excessivamente rude)
 15. 「化學」的簡稱 (abreviação de 化學 — química)
