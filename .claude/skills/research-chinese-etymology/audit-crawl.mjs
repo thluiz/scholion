@@ -12,6 +12,14 @@ if (!existsSync(raw)) { console.log(JSON.stringify({ hex, ok: false, reason: 'du
 
 let text = readFileSync(raw, 'utf8');
 
+// hanziyuan: cortar a cauda institucional da página (artigos, news, vídeos,
+// biografia do Richard Sears, doações, contribuidores) — nada disso é dado do
+// caractere e custa milhares de tokens por chamada.
+text = text.replace(
+  /(## hanziyuan\.net[\s\S]*?)\n\s*(?:Chinese character and etymology research|News 新闻|About Uncle Hanzi)[\s\S]*?(?=\n## |$)/,
+  '$1\n',
+);
+
 // linhas de chrome/boilerplate a descartar (match exato após trim)
 const CHROME = new Set([
   'This website uses cookies to ensure you get the best experience on our website. Learn more',
@@ -30,6 +38,12 @@ const CHROME_RE = [
   /^Tip: Need to type pinyin/i, /^© \d{4}\s+MDBG/i,
   /^每日一字Apps/, /^首頁 \|/, /^中央研究院 版權所有/, /版權所有/,
   /^More information about this dictionary/i,
+  // hanziyuan: IDs de imagens de formas antigas (J05524, B19514, S10661, L18500…)
+  // — as CONTAGENS ficam nos headers "Oracle characters 甲骨文 (28)"; os IDs são ruído
+  /^\s*[JBSL]\d{4,6}\s*$/,
+  // hanziyuan: boilerplate do topo (doações, estatísticas do site, instruções de busca)
+  /^Please donate/, /^我从1994年开始/, /^Input single Chinese character/i,
+  /^输入单个汉字/, /^\s*\d{1,3},000\+\s*$/,
 ];
 
 const isChrome = l => {
