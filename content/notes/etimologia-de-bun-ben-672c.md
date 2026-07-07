@@ -104,4 +104,4 @@ Atestação desde Zhou em múltiplas fontes. Caractere estável.
 
 **Bun nang 本能 no Hai Tong**: No composto 本能 ("capacidade-raiz" = instinto) do Hai Tong Biu Ji, 本 ativa o sentido "aquilo que é raiz/originário". A expressão 本能的反應 ("reação instintiva") descreve o retorno automático ao jung sin — reação que brota da camada mais funda do corpo treinado, não da deliberação. 本能 captura precisamente isto: a capacidade raiz, inerente, pré-reflexiva.
 
-**Convergência fonológica 文部**: Cinco sistemas unanimes em 文 (wén). Mesmo grupo de 穩 (wan), 春 (chun). Campo fonológico coerente.
+**Convergência fonológica 文部**: Cinco sistemas unânimes em 文 (wén). Mesmo grupo de 穩 (wan), 春 (chun). Campo fonológico coerente.
