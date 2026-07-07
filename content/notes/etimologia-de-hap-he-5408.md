@@ -100,7 +100,7 @@ A etimologia 三口相同是爲合 ("três bocas em acordo é 合") é paronomá
 
 #### Divergências entre fontes
 
-**Correção filológica do 段注 — 亼 vs 合 na glosa**: O Shuowen recebido escreve 合口也 ("合 é boca"). 段玉裁 corrige: 各本亼作合，誤 ("nas edições 亼 foi escrito como 合; é erro"). A glosa correta é 亼口也 ("亼 e 口"), explicando a composição do carácter. Esta correção menor preserva a coerência estrutural do Shuowen.
+**Correção filológica do 段注 — 亼 vs 合 na glosa**: O Shuowen recebido escreve 合口也 ("合 é boca"). 段玉裁 corrige: 各本亼作合，誤 ("nas edições 亼 foi escrito como 合; é erro"). A glosa correta é 亼口也 ("亼 e 口"), explicando a composição do caractere. Esta correção menor preserva a coerência estrutural do Shuowen.
 
 **Estrutura — 三口相同 (三+口=合) vs 十口相傳 (十+口=古)**: 段玉裁 apresenta o par sistemático: 合 é "três bocas em acordo" (convergência espacial/instantânea); 古 é "dez bocas transmitindo" (transmissão temporal/geracional). Esta dualidade revela a cosmologia letrada: o acordo sincrónico faz 合, a transmissão diacrónica faz 古 (antigo = oralmente herdado). Base etimológica ressonante para o sentido de 合作 (cooperação = acordo em ação).
 
