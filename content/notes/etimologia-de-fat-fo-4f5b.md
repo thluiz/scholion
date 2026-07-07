@@ -72,7 +72,7 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 1 · atestação Han
 
 仿佛也。依玉篇，與全書例合。按髟部有髴，解云：髴，若似也。卽佛之或字。从人弗聲。𢾭勿切。十五部。
 
-Tradução: "(佛) é 仿佛 ['vagamente semelhante']. Seguindo o *Yùpiān*, alinha-se com os exemplos do texto completo. Observe-se que a secção 髟 tem 髴, cuja entrada diz: '髴 é semelhar-se.' [髴] é simplesmente variante gráfica de 佛. De 人, com 弗 como fonético. Fanqie: 𢾭勿切. Grupo rímico 15."
+Tradução: "(佛) é 仿佛 ['vagamente semelhante']. Seguindo o *Yùpiān*, alinha-se com os exemplos do texto completo. Observe-se que a seção 髟 tem 髴, cuja entrada diz: '髴 é semelhar-se.' [髴] é simplesmente variante gráfica de 佛. De 人, com 弗 como fonético. Fanqie: 𢾭勿切. Grupo rímico 15."
 
 A observação crucial: **o sentido original Shuowen não é 'Buda' mas 'vagamente semelhante'** — 仿佛. O uso do caractere para transliterar "Buddha" é secundário e pós-Han.
 
@@ -80,7 +80,7 @@ A observação crucial: **o sentido original Shuowen não é 'Buda' mas 'vagamen
 
 | Período | Script | Fonte/Artefato |
 |---------|--------|----------------|
-| Han | Seal 篆書 | 說文·人部 (Shuōwén, secção 人) |
+| Han | Seal 篆書 | 說文·人部 (Shuōwén, seção 人) |
 | Han | Seal impression 漢印 | 漢印徵 (Hàn yìn zhēng) |
 
 **Shuowen (xiaoxue)**: 《說文》：「佛，見不審也。从人，弗聲。」 ("佛 é ver sem discernir claramente. De 人, com 弗 como fonético.")
