@@ -20,7 +20,8 @@ toc: true
 - **Em foco**: Direções 1, 2 (+ camada conceitual **2b**) e 4 **exauridas** (4 = terreno mapeado, texto pendente do autor). "Arte" ← *ars* ← PIE *\*h₂er-* "ajustar/juntar" (primo de *arma*; calque de τέχνη). "Marcial" ← *martialis* ← Marte; "martial arts" (1909) traduz *bujutsu* = 武術. **2b (conceitos de arte)**: seis conceitos — Platão (τέχνη × *empeiria*/mero jeito, *Górgias*); Aristóteles (τέχνη = capacidade racional de produzir sobre o contingente, *poiesis* vs *praxis*, EN VI); Hugo de S. Vítor (arte marcial = *ars mechanica*, *armatura* é a 2ª); Kristeller/Batteux (belas-artes são invenção de 1746); Kant (arte bela × *Handwerk*); Collingwood (art proper × craft, "falsely so called"). Arte marcial cai no ofício/craft, não nas belas-artes — daí o descompasso do termo. Direção 4: eixo 文/武; "Art of War" = tradução de 兵法/法; Clausewitz recusa "arte" à guerra; 武↔舞.
 - **Origem do termo (Dir. 3)**: "martial arts" = "artes de Marte" aplicou-se primeiro ao **combate europeu** (~1550s, esgrima/armas), não ao asiático; só chega ao Leste Asiático via Japão (*bujutsu*, ~1909-1920) e cola no kung fu chinês com Bruce Lee (1960-70). Rota até o **PT-BR** ainda não verificada.
 - **Texto em andamento**: pontos salvos sobre *por que o séc. XVI escolheu "arte"* para o combate europeu (Marozzo 1536 *Arte delle Armi*; Agrippa 1553 geometriza; "Noble Science of Defence", 1540). Tese: "arte" ali = **sistema/método**, não beleza — τέχνη com λόγος contra a briga (*empeiria*), convergindo com 術/藝. Aguarda composição na voz do autor.
-- **Próximo**: (a) o autor compõe o ensaio a partir dos pontos salvos; ou (b) rastrear a entrada de "arte marcial" no português (resto da Dir. 3). A confirmar.
+- **Conceito de arte (2b→2e)**: seis conceitos (2b) → definição de trabalho (2c) → limites/"podemos fazer qualquer coisa com arte?" (2d) → "que bem? o fim da arte" (2e). **Decisão editorial**: no texto final, os três fins da arte marcial (eficácia, formação 功夫, cessação 止戈為武) entram como **conclusão**, sem eleger um.
+- **Próximo**: (a) o autor compõe o ensaio, fechando com os três fins (2e); (b) extrair nota "O que é arte" (2c) e/ou "os fins da arte marcial" (2e); ou (c) rastrear a entrada de "arte marcial" no português (resto da Dir. 3). A confirmar.
 - Pesquisas-irmãs com escopo próprio: as etimologias de [武](/notes/etimologia-de-mo-wu-6b66/), [術](/notes/etimologia-de-sut-shu-8853/), [藝](/notes/etimologia-de-ngai-yi-85dd/) já estão fechadas e verificadas em 7 fontes.
 
 ## Motivação
@@ -155,6 +156,29 @@ A resposta depende de qual "arte", e cada acepção corta em lugar diferente.
 **A virada do kung fu.** ⚠ (leitura) O [rascunho sobre o que é Kung Fu](/notes/rascunho-sobre-o-que-e-kung-fu/) já traz a intuição: o padeiro, a avó no ponto do arroz, o programador que refatora — todos "têm Kung Fu". Mas ali a pergunta muda: não "isto é uma arte?" (*poiesis*, obra externa), e sim "há maestria cultivada nisto?" — e o produto é *quem faz*. Isso é *praxis*, não *poiesis*. 功夫 responde "podemos fazer qualquer coisa com arte?" deslocando a régua: qualquer coisa pode virar **caminho de formação do praticante**, mesmo sem produzir obra.
 
 **Os três cortes, lado a lado** (⚠ síntese minha): no sentido τέχνη, quase tudo admite arte, *desde que haja razão das causas e um bem* (senão é traquejo); no sentido belas-artes, quase nada; no sentido 功夫, qualquer coisa — mas aí a régua deixa de ser a obra e passa a ser o praticante.
+
+### 2e. Que bem? — o fim da arte (2026-07-07)
+
+Se toda arte "visa um bem" (2d), qual bem? A resposta é técnica, não vaga, e tem duas camadas.
+
+**O bem é o fim próprio de cada arte.** Aristóteles, *EN* I.1 (1094a): "toda arte e toda investigação visam algum bem", e o bem de cada uma é o seu fim característico — da medicina, a saúde; da construção naval, o barco; da estratégia, a vitória; da administração, a riqueza. ✓ Há hierarquia: fins subordinados servem a fins arquitetônicos, até o bem humano (a política). ✓
+
+**O bem é o bem do objeto, não do praticante.** Platão, *República* I (341-342): a medicina busca o bem do corpo, não do médico; a equitação, o do cavalo; o piloto, o dos marinheiros. ✓ Este é o critério que separa τέχνη de *empeiria*: a arte serve à coisa sobre a qual trabalha; o traquejo serve ao ganho de quem o exerce ou ao prazer da plateia.
+
+**Armadilha — o bem é interno, não moral.** ⚠ (leitura, tema clássico) O bem de uma arte é o seu acerto técnico, não bondade: o bem da espada é um bom corte, o do veneno é um veneno eficaz. Platão registra o fio de dois gumes (quem melhor sabe guardar sabe melhor roubar, *Rep.* I). "Visar um bem" orienta a arte ao fim genuíno do seu campo, contra a bajulação — não a santifica. Responde *bem para quê*, não *bem no sentido do justo*.
+
+**Na arte marcial — três fins, todos válidos** (decisão do autor: não escolher um; apresentar os três):
+
+1. **Eficácia / vitória** — o "estratégia → vitória" de Aristóteles. O objeto é o combate; o bem é vencer.
+2. **A formação do praticante** — 功夫 ([kung fu](/notes/rascunho-sobre-o-que-e-kung-fu/)), *praxis*. O objeto servido é o próprio agente; o bem é a transformação de quem pratica. Inverte Platão: a arte serve a si mesmo.
+3. **A cessação da violência** — 止戈為武 ("parar a alabarda é 武"), a glosa do Rei Zhuang de Chu na [nota de 武](/notes/etimologia-de-mo-wu-6b66/). O bem seria a paz, não a luta.
+
+**Decisão editorial (autor, 2026-07-07):** os três fins são válidos; no **texto final** entram como **conclusão** — apresentar eficácia, formação e cessação como os três fins possíveis da arte marcial, sem eleger um. É onde os fios da pesquisa se encontram (武, 功夫, τέχνη).
+
+Fonte(s) da 2e:
+
+- **Aristóteles, *Ética a Nicômaco* I.1 (1094a)** (toda arte visa um fim; hierarquia de fins). Links: https://classics.mit.edu/Aristotle/nicomachaen.1.i.html
+- **Platão, *República* I (341-342)** (a arte serve o bem do objeto, não do praticante). Links: https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=1
 
 ### 3. A ponte PT/EN ↔ 武術 / 武藝 — ✓ origem do termo (2026-07-06); rota até o PT ainda a mapear
 
