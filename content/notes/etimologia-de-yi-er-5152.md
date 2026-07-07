@@ -119,7 +119,7 @@ Tradução: "(兒) é bebê. A seção 子 diz: '孺 é criança de peito; crian
 
 **Han**: Eastern Han — 支 · Western Han — (não retornou dados — ausente da tabela)
 
-**國語 Mandarin IPA**: ɚ (ér) — vogal retroflexa, característica da fala do norte
+**國語 Mandarin IPA**: ɚ (ér) — vogal retroflexa, caractereística da fala do norte
 
 #### Divergências entre fontes
 
