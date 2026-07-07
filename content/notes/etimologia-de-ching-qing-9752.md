@@ -53,7 +53,7 @@ A análise Shuowen é cosmológica (madeira→fogo→cor azul-esverdeada do Lest
 
 **孔廣居 Kong Guangju, *Yi Yi*** (xiaoxue): 丹，青類也。故青从丹，生聲。木生火之說，未免太鑿 ("丹 é da categoria de 青 [ambos são pigmentos minerais]. Daí 青 é do 丹, com 生 como fonético. A explicação 'madeira gera fogo' [Shuowen] é exegese forçada/excessiva.")
 
-A divergência é metodológica importante: o Shuowen propõe leitura **cosmológica-numerológica** (青 reflete a teoria dos cinco elementos Wu Xing: madeira ao Leste, gera fogo ao Sul, etc.). Kong Guangju (Qing) propõe leitura **paleográfica simples**: 丹 (cinábrio, pigmento mineral) é semântico-categorial (青 é pigmento como 丹); 生 é fonético (oc *sheng* aproxima-se de oc *qing*). A análise moderna favorece Kong: o Shuowen muitas vezes racionaliza pós-facto formas pictográficas usando cosmologia Han, gerando exegese "太鑿" (excessivamente forçada).
+A divergência é metodológica importante: o Shuowen propõe leitura **cosmológica-numerológica** (青 reflete a teoria dos cinco elementos Wu Xing: madeira ao Leste, gera fogo ao Sul, etc.). Kong Guangju (Qing) propõe leitura **paleográfica simples**: 丹 (cinábrio, pigmento mineral) é semântico-categorial (青 é pigmento como 丹); 生 é fonético (oc *sheng* aproxima-se de oc *qing*). A análise moderna favorece Kong: o Shuowen muitas vezes racionaliza pós-fato formas pictográficas usando cosmologia Han, gerando exegese "太鑿" (excessivamente forçada).
 
 #### Evolução de formas (xiaoxue yanbian)
 
