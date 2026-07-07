@@ -96,7 +96,7 @@ Formas atestadas: Oracle characters 甲骨文 (14); Bronze characters 金文 (3)
 
 #### Divergências entre fontes
 
-**Leitura cantonesa.** CantoDict registra mak6. A CUHK registra duas leituras cantonêsas, maak6 e mak6, marcando mak6 com exemplos de uso como 麥秋, 大麥, 小麥, 燕麥.
+**Leitura cantonesa.** CantoDict registra mak6. A CUHK registra duas leituras cantonesas, maak6 e mak6, marcando mak6 com exemplos de uso como 麥秋, 大麥, 小麥, 燕麥.
 
 **Shuowen.** A CUHK traz o texto com a cauda completa 「凡麥之屬皆从麥。【臣鉉等曰：夊，足也。周受瑞麥來麰如行來，故从夊。】〔莫獲切〕」. O 小學堂 yanbian traz apenas 「麥，芒穀。秋穜厚薶，故謂之麥。麥，金也。金王而生，火王而死。从來，有穗者。从夕。」, omitindo a cauda 凡...皆从..., o comentário 臣鉉等曰..., e o fanqie; além disso, escreve 从夕 onde a CUHK escreve 从夊.
 
