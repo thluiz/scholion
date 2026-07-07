@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 花 (Fa — Huā / faa1)"
 date: '2026-04-24T12:53:16+01:00'
-summary: "Análise etimológica de 花 (Huā / faa1), 'flor; florir'. 花 não consta do Shuowen Jiezi original — é forma popular pós-Han, cuja entrada está sob 華 (forma clássica). 段注 de Duan Yucai registra explicitamente: 俗作花。其字起於北朝 ('a forma popular é 花; o carácter surge nas Dinastias do Norte', séc. V–VI). Composição de 花: 艸 (planta) + 化 (fonético, huà). Sem atestação pré-Han. No Hai Tong, aparece em Mui Fa Jong 梅花樁 (estacas da flor de ameixa). Sete fontes consultadas."
+summary: "Análise etimológica de 花 (Huā / faa1), 'flor; florir'. 花 não consta do Shuowen Jiezi original — é forma popular pós-Han, cuja entrada está sob 華 (forma clássica). 段注 de Duan Yucai registra explicitamente: 俗作花。其字起於北朝 ('a forma popular é 花; o caractere surge nas Dinastias do Norte', séc. V–VI). Composição de 花: 艸 (planta) + 化 (fonético, huà). Sem atestação pré-Han. No Hai Tong, aparece em Mui Fa Jong 梅花樁 (estacas da flor de ameixa). Sete fontes consultadas."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 category: etymology
@@ -35,7 +35,7 @@ sources:
 Variantes: 芲 · 蘤 (U+8624) · 菕 (U+83D5)
 Forma clássica relacionada: 華 (U+83EF)
 
-**Nota essencial**: 花 é forma popular tardia (Dinastias do Norte, séc. V–VI). O carácter clássico é 華 — a maioria da análise filológica refere-se a 華, não a 花.
+**Nota essencial**: 花 é forma popular tardia (Dinastias do Norte, séc. V–VI). O caractere clássico é 華 — a maioria da análise filológica refere-se a 華, não a 花.
 
 #### Definições
 
@@ -80,7 +80,7 @@ hanziyuan registra três codepoints relacionados (花 82B1, 蘤 8624, 菕 83D5),
 
 **段注 Duan Yucai** (paráfrase via zdic.net — relativo à entrada 華):
 
-俗作花。其字起於北朝。 ("A forma popular é 花. O carácter surge nas Dinastias do Norte [北朝, séc. IV–VI].")
+俗作花。其字起於北朝。 ("A forma popular é 花. O caractere surge nas Dinastias do Norte [北朝, séc. IV–VI].")
 
 Este é o registo explícito de 段玉裁 sobre a origem tardia de 花. A forma clássica é 華 (huā/huá — atualmente "esplendoroso, florido"), que consta do Shuowen original. 花 é substituição gráfica que se popularizou nas Dinastias do Norte, tornando-se dominante na era Tang e permanecendo até hoje para o sentido específico "flor", enquanto 華 especializou-se nos sentidos figurados "esplendor, florido".
 
@@ -118,6 +118,6 @@ A ausência total de reconstruções em Old Chinese pré-Han é consistente com 
 
 **Composição fonossemântica transparente**: 艸 (planta) + 化 (huà, "transformar/florir"). A fonética 化 → 花 é regular no Middle Chinese (huà → huā por mudança tonal 去→平). 化 é também semanticamente ativo — "transformar" conecta-se à flor como momento de mudança da planta. Esta transparência fonossemântica é típica de caracteres pós-Han criados para aliviar ambiguidade gráfica do 華 clássico.
 
-**Atestação semântica rica (20 acepções)**: Apesar da origem tardia, 花 acumulou vastíssima polissemia desde Tang — botânica, ornamentacional, figurativa (mulher, pináculo, essência), verbal (gastar), patológica (varíola). A riqueza reflete o uso central do carácter na literatura poética e no vocabulário quotidiano chinês medieval-moderno.
+**Atestação semântica rica (20 acepções)**: Apesar da origem tardia, 花 acumulou vastíssima polissemia desde Tang — botânica, ornamentacional, figurativa (mulher, pináculo, essência), verbal (gastar), patológica (varíola). A riqueza reflete o uso central do caractere na literatura poética e no vocabulário quotidiano chinês medieval-moderno.
 
 **Leitura "wěi" mencionada no MDBG**: MDBG registra "also pr. [wei3]" como leitura alternativa — provavelmente dialetal ou arcaica associada à variante 蘤. Não é leitura do mandarim padrão.
