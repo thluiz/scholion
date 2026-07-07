@@ -39,7 +39,7 @@ sources:
 **CantoDict**: cai4. A CUHK registra cai4.
 
 **chardb Academia Sinica**:
-1. 禾麥吐穗上平整。引申為凡齊等之義。 (espigas de milho/painço e trigo/cevada que, ao brotar, ficam niveladas no alto; por extensão, todos os sentidos de igualdade e nivelamento)
+1. 禾麥吐穗上平整。引申為凡齊等之義。 (cereais e trigo que, ao deitarem espiga, ficam nivelados no alto; por extensão, todos os sentidos de igualdade e nivelamento)
 2. 整齊。 (arrumado; ordenado)
 3. 平。①平等。②高低一樣。 (plano; ① igual ② da mesma altura)
 4. 一致。 (uniforme; concordante)
