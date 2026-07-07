@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-07-07",
+    "subject": "fix: regenera etimologia de 斗 (auditoria de fontes, radical Kangxi 68)"
+  },
+  {
+    "date": "2026-07-07",
     "subject": "Ajustando referencias"
   }
 ]
