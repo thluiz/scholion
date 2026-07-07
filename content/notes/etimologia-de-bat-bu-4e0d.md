@@ -94,5 +94,5 @@ A glose registra a operação de empréstimo gráfico (假借 *jiǎjiè*): o pic
   
   O Hai Tong usa 不 — negação simples e direta.
 - **Múltiplas leituras**: chardb registra leituras *bù*, *fǒu*, *fōu*, *fū*. As leituras secundárias aparecem em compostos arcaicos. *bù* é a forma padrão moderna.
-- **Cantonês**: bat1 (tom 1 alto entrante) preserva características do 不 medieval. A divergência entre Mandarin (bù, sílaba aberta) e Cantonês (bat, com final consonantal -t) reflete reorganização fonológica histórica — Mandarin perdeu o final consoantal, Cantonês preservou.
+- **Cantonês**: bat1 (tom 1 alto entrante) preserva caractereísticas do 不 medieval. A divergência entre Mandarin (bù, sílaba aberta) e Cantonês (bat, com final consonantal -t) reflete reorganização fonológica histórica — Mandarin perdeu o final consoantal, Cantonês preservou.
 - **Aplicação ao Sistema Ving Tsun**: 不 estrutura grandes números das máximas e fórmulas do *Hai Tong*. *bat chuen ji bei* 不傳之秘 ("segredo não transmitido") é uma das máximas chave — designa o conhecimento que *não* circula em palavras, que só se transmite pela presença prolongada na linhagem. A etimologia "pássaro que voa alto e não desce" é particularmente sugestiva: o conhecimento *não-transmitido-em-palavras* é como o pássaro que se eleva e não retorna ao chão da exposição racional.
