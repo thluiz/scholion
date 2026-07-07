@@ -97,7 +97,7 @@ A análise é notável: 用 é conceitualizado como 'aquilo-que-se-executa-quand
 
 #### Divergências entre fontes
 
-**Etimologia ritual-divinatória — 卜中 = acerto adivinhatório**: A análise Shuowen atribuída a Wèi Hóng é elegante: 用 é 'o que se pode pôr em prática quando a adivinhação confirma'. Isto revela a origem prática do termo na administração ritual Shang — o que se "usa" (用) é o que os ossos oraculares autorizam usar. Esta etimologia é confirmada pela abundante atestação do carácter em oracle bones, onde 用 frequentemente marca o resultado autorizado da adivinhação.
+**Etimologia ritual-divinatória — 卜中 = acerto adivinhatório**: A análise Shuowen atribuída a Wèi Hóng é elegante: 用 é 'o que se pode pôr em prática quando a adivinhação confirma'. Isto revela a origem prática do termo na administração ritual Shang — o que se "usa" (用) é o que os ossos oraculares autorizam usar. Esta etimologia é confirmada pela abundante atestação do caractere em oracle bones, onde 用 frequentemente marca o resultado autorizado da adivinhação.
 
 **Reconstruções Old Chinese divergentes**: Karlgren (d-), Dong Tonghe (d-), Wang Li (ʎ-), Zhou Fagao e Li Fanggui (r-). A inicial de 用 em Old Chinese é controversa — oscilando entre oclusiva dental (d/ʎ) e líquida (r). Isto reflete a natureza da inicial 以母 (yǐ-mǔ) do Middle Chinese, que como em 喻 (yue), tem múltiplas reconstruções OC plausíveis.
 
