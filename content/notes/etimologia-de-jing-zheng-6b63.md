@@ -63,7 +63,7 @@ Atestação epigráfica abundante — oracle bones Shang, bronzes Zhou, bambu Ch
 
 #### Shuowen Jiezi completo (via zdic.net)
 
-**說文**: 是也。从止，一以止。凡正之属皆从正。之盛切。 (É correto. De 止, com 一 para detê-lo. Todos os caracteres da secção 正 seguem 正. Fanqie: 之盛切.)
+**說文**: 是也。从止，一以止。凡正之属皆从正。之盛切。 (É correto. De 止, com 一 para detê-lo. Todos os caracteres da seção 正 seguem 正. Fanqie: 之盛切.)
 
 **段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido):
 
@@ -104,7 +104,7 @@ A busca xiaoxue retornou abundantes atestações desde Shang — não listados i
 
 **Etimologia semântica — 止+一 como "deter-no-alvo"**: A análise Shuowen+段注 é particularmente limpa: 止 (pé) + 一 (linha/alvo) = deter-se na linha correta. Jiang Yuan generaliza: o 一 em 正 funciona como linha de referência para deter o movimento, análogo a 乍 (detém a fuga) e 母 (detém o mal). Esta é etimologia estrutural-moral.
 
-**Tonogénese zhèng/zhēng**: O Guangyun regista dois fanqie:
+**Tonogênese zhèng/zhēng**: O Guangyun registra dois fanqie:
 - zhèng (去聲, 之盛切) — principal, "reto/correto"
 - zhēng (平聲, 之盈切) — especializado para "primeiro mês do ano" (正月)
 
