@@ -74,7 +74,7 @@ Formas atestadas: Oracle 49 · Bronze 10 · Seal 1 · Liushutong 14
 
 (兒)孺子也。子部曰：孺，乳子也。乳子，乳下子也。襍記謂之嬰兒，女部謂之嫛婗。兒孺雙聲。引伸爲凡幼小之偁。从儿，象小兒頭𦥓未合。謂篆體𠚒也。囟者，頭會匘葢也。小兒初生，匘葢未合，故象其形。汝移切。十六部。
 
-Tradução: "(兒) é bebê. A secção 子 diz: '孺 é criança de peito; criança de peito é a criança que ainda mama.' O *Záji* (《襍記》) chama-lhe 嬰兒 (yīng ér — recém-nascido); a secção 女 chama-lhe 嫛婗 (yī ní). **兒 e 孺 são 雙聲** [aliterantes — partilham a mesma inicial Old Chinese]. Por extensão, designa qualquer coisa pequena/jovem. De 儿; representa a fontanela [𦥓] do bebê ainda não fechada — refere-se à forma do selo [𠚒]. 囟 [xìn] é a tampa do crânio que une o cérebro. Quando a criança nasce, a tampa do crânio ainda não está fechada, e por isso o caractere imita esta forma. Fanqie: 汝移切. Grupo rímico 16."
+Tradução: "(兒) é bebê. A seção 子 diz: '孺 é criança de peito; criança de peito é a criança que ainda mama.' O *Záji* (《襍記》) chama-lhe 嬰兒 (yīng ér — recém-nascido); a seção 女 chama-lhe 嫛婗 (yī ní). **兒 e 孺 são 雙聲** [aliterantes — partilham a mesma inicial Old Chinese]. Por extensão, designa qualquer coisa pequena/jovem. De 儿; representa a fontanela [𦥓] do bebê ainda não fechada — refere-se à forma do selo [𠚒]. 囟 [xìn] é a tampa do crânio que une o cérebro. Quando a criança nasce, a tampa do crânio ainda não está fechada, e por isso o caractere imita esta forma. Fanqie: 汝移切. Grupo rímico 16."
 
 #### Evolução de formas ([xiaoxue yanbian](https://xiaoxue.iis.sinica.edu.tw/yanbian?char=兒))
 
@@ -90,7 +90,7 @@ Tradução: "(兒) é bebê. A secção 子 diz: '孺 é criança de peito; cria
 | Spring/Autumn late 春秋晚期 | Bronze 金文 | 余贎兒鐘 (Yú Wàn Ér zhōng — sino de Yu Wan Er) |
 | Late Warring States, Chu 戰國晚期·楚 | Bronze 金文 | 昜兒鼎 (Yáng Ér dǐng — vaso *ding* de Yang-Er) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 郭.語4.27 (Guōdiàn *Yu* 4.27) |
-| Han | Seal 篆書 | 說文‧儿部 (Shuōwén, secção 儿) |
+| Han | Seal 篆書 | 說文‧儿部 (Shuōwén, seção 儿) |
 | Qin 秦 | Clerical 隸書 | 睡虎地簡12.50 (Shuìhǔdì jiǎn 12.50) |
 | Western Han 西漢 | Clerical 隸書 | 老子乙225上 (Lǎozǐ yǐ 225 shang — Mawangdui Laozi B verso) |
 | Han 漢 | Clerical 隸書 | 漢印徵 (Hàn yìn zhēng — selos Han) |
@@ -131,11 +131,11 @@ Tradução: "(兒) é bebê. A secção 子 diz: '孺 é criança de peito; cria
 
 A interpretação de 李孝定 é provavelmente mais consistente com as formas oracle e bronze, que mostram a "abertura" no topo como dois apêndices simétricos (consistente com penteado), não como uma única depressão (consistente com fontanela). O Shuowen aplica a interpretação biológica à forma de selo, já estilizada — leitura justa para o selo, mas potencialmente projeção retroativa sobre o pictograma original.
 
-**兒 e 孺 são 雙聲 (aliterantes)**: 段玉裁 documenta o vínculo etimológico-fonológico entre 兒 (ér) e 孺 (rú — bebê de peito). Em 上古音, ambos têm inicial ȵ/n-. **雙聲** ("dois sons iguais") significa que partilham a mesma inicial — fenómeno comum em raízes lexicais relacionadas. Implicação: 兒 e 孺 podem ser cognatos ou doublet de uma única raiz fonológica antiga para "criança".
+**兒 e 孺 são 雙聲 (aliterantes)**: 段玉裁 documenta o vínculo etimológico-fonológico entre 兒 (ér) e 孺 (rú — bebê de peito). Em 上古音, ambos têm inicial ȵ/n-. **雙聲** ("dois sons iguais") significa que partilham a mesma inicial — fenômeno comum em raízes lexicais relacionadas. Implicação: 兒 e 孺 podem ser cognatos ou doublet de uma única raiz fonológica antiga para "criança".
 
 **Pronúncia ér vs ní — divergência semântica**: 兒 tem duas leituras: **ér** (uso comum: criança, sufixo) e **ní** (em sobrenome, em 倪 / 児 / 郳). Hanziyuan nota explicitamente: "no contexto em que se pronuncia 兒 ní, não é simplificado" — ou seja, a simplificação 儿 só vale para a leitura ér, mantendo-se 兒 cheio para ní. xiaoxue lista o fanqie alternativo 五稽切 para a leitura ní.
 
-**兒 como sufixo retroflexo (兒化 érhuà) — fenómeno mandarim**: No mandarim moderno, 兒 funciona como sufixo nominal **não-silábico** que adiciona a coda retroflexa /-r/ à palavra anterior: 花兒 huār (flor), 玩兒 wánr (brincar), 哪兒 nǎr (onde). Este uso é específico do mandarim do norte e **não existe em cantonês** — por isso o jyutping mostra sempre a leitura silábica completa ji4. Trata-se de gramaticalização tardia do termo "criança" como diminutivo afetivo, depois fonologizado.
+**兒 como sufixo retroflexo (兒化 érhuà) — fenômeno mandarim**: No mandarim moderno, 兒 funciona como sufixo nominal **não-silábico** que adiciona a coda retroflexa /-r/ à palavra anterior: 花兒 huār (flor), 玩兒 wánr (brincar), 哪兒 nǎr (onde). Este uso é específico do mandarim do norte e **não existe em cantonês** — por isso o jyutping mostra sempre a leitura silábica completa ji4. Trata-se de gramaticalização tardia do termo "criança" como diminutivo afetivo, depois fonologizado.
 
 **Acepção 3 — sufixo afetivo ou desprezivo**: O chardb explicita o duplo valor: 尊長對幼輩的稱呼。也用作輕蔑之稱 ("tratamento do mais velho ao mais novo; também usado como termo desprezivo"). 兒 pode ser:
 - **Afetivo**: 徒兒 (pupilo, "criança/filho"), 女兒 (filha), 嬰兒 (bebê).
@@ -153,4 +153,4 @@ A escolha entre estes registros marca o tipo de relação que o mestre quer enfa
 
 **Atestação massiva: 49 oracle bones**: tanto hanziyuan como xiaoxue confirmam atestação Shang abundante. 兒 era termo Shang em uso constante, frequentemente como nome próprio ou referência genérica a "criança/jovem" em contextos rituais. A inscrição "小臣兒卣" (Late Shang) atesta uso como nome ou epíteto de pequeno-funcionário.
 
-**Mandarim ér (ɚ vogal retroflexa)**: No Mandarim moderno, 兒 evoluiu para a única vogal retroflexa do sistema (ɚ) — fenómeno único na fonologia chinesa. Esta vocalização extrema ocorreu na história do mandarim do norte. Cantonês conservou a leitura silábica completa ji4, sem perda da consoante.
+**Mandarim ér (ɚ vogal retroflexa)**: No Mandarim moderno, 兒 evoluiu para a única vogal retroflexa do sistema (ɚ) — fenômeno único na fonologia chinesa. Esta vocalização extrema ocorreu na história do mandarim do norte. Cantonês conservou a leitura silábica completa ji4, sem perda da consoante.
