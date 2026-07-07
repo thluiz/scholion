@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 殳 (Syu — Shū / syu4)"
-date: '2026-07-06T12:48:33+01:00'
-summary: 'Arma de haste antiga, radical Kangxi nº 79. O Shuowen lê 殳 como 以杸殊人也 — instrumento com que se golpeia/afasta alguém; a paleografia (甲金文) lê mão segurando ferramenta de percussão.'
+date: '2026-07-07T19:36:44+01:00'
+summary: 'O radical Kangxi nº 79, nome de uma arma antiga de bambu ou madeira. O Shuowen define 殳 como instrumento para ferir pessoas; a paleografia o lê como mão segurando ferramenta de golpe.'
 toc: true
 tags: ["china", "linguagem", "etimologia", "ideogramas", "radicais"]
 category: etymology
@@ -28,84 +28,77 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 79 (殳, arma de haste antiga). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 79 (殳, arma). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **殳** — U+6BB3 · 部首 radical: 殳 (nº 79) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄕㄨ · 拼音 pinyin: shū / jyutping: syu4
 
 #### Definições
 
-**MDBG**: sobrenome Shu; arma antiga tipo bastão feita de bambu ou madeira; radical "arma" nos caracteres chineses (radical Kangxi nº 79), presente em 段, 毅, 殺 etc.
+**MDBG**: surname Shu; ancient staff-like weapon made of bamboo or wood; "weapon" radical in Chinese characters (Kangxi radical 79), occurring in 段, 毅, 殺 etc.
 
-**CantoDict**: o verbete próprio de 殳 não consta; a entrada disponível é o composto 殳書 (syu4 syu1), "um tipo antigo de caligrafia usada em inscrições sobre armas". A leitura syu4 para 殳 isolado é confirmada pela CUHK.
+**CantoDict**: syu4 (tom 4). 
 
-**chardb Academia Sinica** (讀音 não registrado; 部首 veio em branco na página):
-1. 古代兵器名。以竹、木製成，一端有棱。 (nome de arma antiga; feita de bambu ou madeira, com arestas numa das extremidades)
-2. 戟柄。 (o cabo da alabarda 戟)
-3. 古代船尾用以控制行向的工具。 (instrumento antigo, na popa do barco, usado para controlar a direção)
+**chardb Academia Sinica**:
+1. 古代兵器名。以竹、木製成，一端有棱。 (nome de arma antiga; feita de bambu ou madeira, com uma extremidade facetada)
+2. 戟柄。 (haste de alabarda)
+3. 古代船尾用以控制行向的工具。 (instrumento usado na popa, na Antiguidade, para controlar a direção)
 4. 姓。 (sobrenome)
-
-**CUHK**: 粵 syu4 · 普 shū · n. long pole; Shu style; surname (haste longa; estilo Shu; sobrenome).
 
 #### Decomposição e formas antigas (hanziyuan)
 
-Componentes (segundo hanziyuan): 從 又 (mão direita) + 𠘧 (shū) + 几 (jǐ) — a nota de decomposição do próprio hanziyuan é confusa ("a non descript tool 𠘧").
-Significado original (本义, campo verbatim de hanziyuan): "On right hand side, it usually makes a character into a verb." (não é uma glosa pictográfica; é uma nota funcional sobre o componente à direita.)
+Componentes: from right-hand 又 yòu and (rem- 𠘧 shū) and (not- 几 jǐ).
+Significado original: Meaning On right hand side, it usually makes a character into a verb.
 Acepções inglesas: name of old weapon; kill; rad. 79.
-Exemplo de uso: 殳姓 shū xìng (sobrenome).
-Frequência de uso: 3573 (CUHK: 頻序 A/B 3097/5422; 頻次 A 97).
-Formas atestadas (hanziyuan): Oráculo 甲骨文 3 (J06609, J06610, J06611); Bronze 金文 1 (B04475); Selo 篆字 1 (S02237); Liushutong 0.
+Frequência de uso: 3573.
+Formas atestadas: Oracle characters 甲骨文 (3); Bronze characters 金文 (1); Seal characters 说文解字的篆字 (1).
 
 #### Shuowen Jiezi completo
 
-(Texto verbatim obtido via CUHK, com 反切; 小學堂 e hanziyuan convergem no corpo do texto, com uma divergência no elemento fonético — ver seção final.)
+(shuowen.org retornou apenas a listagem das primeiras entradas do dicionário; texto verbatim obtido via 小學堂, CUHK e hanziyuan, com diferença na cauda: 小學堂 e CUHK trazem 凡殳之屬皆从殳 e o fanqie 〔市朱切〕; hanziyuan omite essa cauda e não separa a pontuação.)
 
 **說文**: 殳，以杸殊人也。《禮》：殳以積竹，八觚，長丈二尺，建於兵車，車旅賁以先驅。从又，𠘧聲。凡殳之屬皆从殳。〔市朱切〕
-(殳 é aquilo com que se golpeia/afasta [殊] alguém por meio de um 杸 [maça]. Segundo os Ritos [禮]: o 殳 faz-se de bambu emaçado [積竹], com oito arestas [八觚], com um 丈 e dois 尺 de comprimento, montado no carro de guerra; os 旅賁 [guardas] do carro usam-no para ir à frente, na vanguarda. Compõe-se de 又 [mão], com 𠘧 como elemento fonético. Todo caractere da classe de 殳 segue 殳. [fanqie 市朱切].)
+(殳: com 杸, ferir pessoas. O *Li* diz: "O 殳 é feito de bambu acumulado, com oito arestas, comprimento de um zhang e dois chi, erguido no carro de guerra; as tropas do carro o ostentam para avançar à frente." Vem de 又, com 𠘧 como elemento fonético. Todo caractere da classe de 殳 segue 殳.)
 
-**段注 Duan Yucai**: (obtido via CUHK — 形義通解) 段玉裁改為「以杖殊人也。」注云：「以杖殊人者，謂之以杖隔遠之。」 (段玉裁 emenda para 「以杖殊人也」 — "afastar/ferir alguém com um bastão 杖"; anota: "ferir alguém com um bastão significa mantê-lo à distância com o bastão".)
+**段注 Duan Yucai**: (não obtido — shuowen.org retornou listagem; zdic.net retornou HTTP 404)
 
 #### Evolução de formas (xiaoxue yanbian)
 
 | Período | Script | Fonte / Artefato |
 |---|---|---|
-| Shang | Oráculo (甲骨文) | 乙8520 |
-| Zhou Ocidental (médio) | Bronze (金文) | 十五年趞曹鼎 Shíwǔnián Jué Cáo dǐng |
-| Reinos Combatentes (inicial) — Chu | Bronze (金文) | 曾侯殳 Zēnghóu Shū |
-| Han | Selo pequeno (小篆) | 說文‧殳部 (Shuowen, seção 殳) |
-| Qin | Clerical (隸書) | 睡虎地簡53.23 (Shuihudi); 睡虎地簡25.45 (Shuihudi) |
+| Shang | Oráculo (甲骨文) | 乙8520(甲) |
+| Zhou Ocidental (médio) | Bronze (金文) | 十五年趞曹鼎(金) |
+| Reinos Combatentes (inicial) — Chu | Bronze (金文) | 曾侯殳(金) |
+| Han | Selo pequeno (小篆) | 說文‧殳部 |
+| Qin | Clerical (隸書) | 睡虎地簡53.23(隸) |
+| Qin | Clerical (隸書) | 睡虎地簡25.45(隸) |
 
-**Shuowen (xiaoxue)**: 殳，以杸殊人也。《禮》：殳以積竹，八觚，長丈二尺，建於兵車，車旅賁以先驅。从又，几聲。
+**Shuowen (xiaoxue)**: 殳，以杸殊人也。《禮》：‘殳以積竹，八觚，長丈二尺，建於兵車，車旅賁以先驅。’从又，几聲。
 
 **Comentários de estudiosos**:
-- 小學堂 (相關解說) — 林義光《文源》: 古（殳）象手持殳形，亦象手有所持以治物。故从殳之字與又、攴同意。 (A forma antiga de 殳 representa a mão segurando um 殳; também representa a mão segurando algo para trabalhar/tratar coisas. Por isso os caracteres com 殳 têm o mesmo sentido de 又 e 攴.)
-- CUHK (形義通解) — 甲金文「殳」會手持捶擊工具之意，本義是一種古兵器，以竹或木製成，頂端有棱。 (Nos oráculos e bronzes, 殳 exprime a ideia de mão segurando uma ferramenta de percussão; o sentido original é o de uma arma antiga, feita de bambu ou madeira, com arestas no topo.) A CUHK acrescenta que, após a descoberta no túmulo do Marquês Yi de Zeng [曾侯乙] de um 殳 com a inscrição 「曾侯郕之用殳」, verificou-se que havia 殳 com e sem lâmina, contra a ideia antiga de que teria arestas mas não gume.
+- 林義光《文源》: 古（殳）象手持殳形，亦象手有所持以治物。故从殳之字與又、攴同意。(Antigamente, 殳 figurava a forma de uma mão segurando um 殳; também figurava uma mão portando algo para tratar de coisas. Por isso, os caracteres derivados de 殳 têm sentido afim a 又 e 攴.)
 
 #### Fonologia (xiaoxue shangguyin)
 
 **中古音 Middle Chinese (Guangyun)**:
-- 攝 Division: 遇 (Yu) · 韻 Rhyme: 虞 (Yu) · 聲 Tone: 平 (level) · 母 Initial: 禪 (zh-)
+- 攝 Division: 遇 (Yu) · 韻 Rhyme: 虞 (Yu) · 聲 Tone: 平 (level) · 母 Initial: 禪 (sh-)
 - 反切 Fanqie: 市朱 · 等 Grade: 三 (III) · 開合 Open/Closed: 合 (closed) · 清濁: 全濁 (sonora plena)
 
 **上古音 Old Chinese** (grupo de rima 侯 Hou):
-- 高本漢 Karlgren: ȡi̯u (韻部 veio em branco na tabela)
-- 王力 Wang Li: ʑǐwɔ
-- 董同龢 Dong Tonghe: ʑjuɡ
-- 周法高 Zhou Fagao: djew
-- 李方桂 Li Fanggui: djug
+- 高本漢 Karlgren: ȡ i̯u
+- 王力 Wang Li: ʑ ǐwɔ
+- 董同龢 Dong Tonghe: ʑ juɡ
+- 周法高 Zhou Fagao: d jew
+- 李方桂 Li Fanggui: d jug
 - 鄭張尚芳 Zhengzhang Shangfang: (não retornou dados — ausente da tabela do 小學堂)
 
 **國語 Mandarin IPA**: ʂu
 
 #### Divergências entre fontes
 
-**Leitura do grafismo.** O *Shuowen* dá uma glosa funcional/militar — 以杸殊人也 ("instrumento com que se golpeia/afasta alguém"), reforçada pela citação dos 禮 (o 殳 de bambu emaçado, oito arestas, montado no carro de guerra). A paleografia (甲金文 da CUHK; 林義光 no 小學堂) lê o caractere como mão segurando uma ferramenta de percussão/arma. As duas leituras convergem mais do que divergem: ambas apontam para arma de haste.
+**Leitura do grafismo.** A CUHK registra, em 略說 e 詳解, que 甲骨文 e 金文 mostram mão segurando ferramenta de golpe, e que o sentido original é uma arma antiga de bambu ou madeira, com a extremidade facetada. O hanziyuan registra como “Original meaning” a observação “On right hand side, it usually makes a character into a verb”, além de listar “name of old weapon; kill; rad. 79” como English senses.
 
-**Shuowen e o elemento fonético.** Divergência textual no fecho da entrada: a CUHK transcreve 从又，𠘧聲 (com 反切 市朱切); o 小學堂 e o hanziyuan transcrevem 从又，几聲. O hanziyuan decompõe o caractere como 又 + 𠘧 + 几. Fica em aberto se o elemento fonético é 𠘧 ou 几.
+**Shuowen.** 小學堂 e CUHK registram o texto do *Shuowen* com a cauda 凡殳之屬皆从殳 e o fanqie 〔市朱切〕. O hanziyuan traz o mesmo corpo textual em linha corrida, mas omite essa cauda final e não separa a pontuação. Há ainda diferença entre 小學堂 e CUHK no último elemento da análise gráfica: 小學堂 traz 从又，几聲, enquanto a CUHK traz 从又，𠘧聲.
 
-**段注.** Ao contrário do padrão (shuowen.org só retorna listagem, zdic.net dá 404), o comentário de 段玉裁 foi carregado indiretamente pela CUHK (formação 形義通解): 段玉裁 troca 杸 por 杖 (bastão) — 「以杖殊人也」 — e glosa 殊 como manter alguém à distância com o bastão.
+**Leitura cantonesa.** O CantoDict registra duas leituras, syu4 e syu1, na entrada “殳書〔-书〕”, com a glosa “an ancient type of handwriting used for inscriptions on weapons”. A CUHK registra syu4 para 殳, com a nota “一種兵器;姓氏”.
 
-**Leitura cantonesa.** O MDBG não exibiu jyutping; o CantoDict só traz o composto 殳書 (syu4 syu1); a CUHK confirma syu4 para 殳 isolado — consistente com o 中古音 (inicial 禪, 全濁 sonora plena; tom 平 nível → tom 4 cantonês, yang level).
-
-**Reconstruções do 上古音.** Quatro sistemas (Wang Li, Dong Tonghe, Zhou Fagao, Li Fanggui) situam o caractere no grupo de rima 侯 (Hou); Karlgren aparece sem 韻部 registrado na tabela; a coluna de 鄭張尚芳 (Zhengzhang Shangfang) não retornou.
-
-**Acepções.** O chardb traz quatro acepções, incluindo duas ausentes de MDBG/CUHK — 戟柄 ("cabo de alabarda") e o instrumento de popa para controlar a direção do barco; a CUHK acrescenta "long pole; Shu style; surname".
+**Definições lexicais.** O MDBG separa duas entradas: uma como sobrenome e outra como arma antiga / radical “weapon”. O chardb lista quatro acepções: arma antiga, haste de alabarda, instrumento de popa para direção e sobrenome.
