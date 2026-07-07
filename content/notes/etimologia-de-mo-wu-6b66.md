@@ -87,7 +87,7 @@ Duan Yucai discute variantes textuais e análise etimológica. Observa que "莊"
 | Warring States, Jin 戰國·晉 | Bronze 金文 | 三晉51 (Sānjìn 51) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 包2.169 (Bāoshān 2.169) |
 | Warring States, Qin 戰國·秦 | Pottery 陶文 | 陶彙7.5 (Táo huì 7.5) |
-| Han | Seal 篆書 | 說文‧戈部 (Shuōwén, secção 戈) |
+| Han | Seal 篆書 | 說文‧戈部 (Shuōwén, seção 戈) |
 | Qin 秦 | Clerical 隸書 | 繹山碑 (Yìshān bēi — Estela do Monte Yi) |
 | Qin 秦 | Clerical 隸書 | 睡.日乙241 (Shuihudi *Rishu yi* 241 — bambu Qin Shuihudi, *Almanaque B*) |
 | Western Han 西漢 | Clerical 隸書 | 老子乙208上 (Laozi yi 208 shang — manuscrito B do Laozi de Mawangdui) |
@@ -123,7 +123,7 @@ Duan Yucai discute variantes textuais e análise etimológica. Observa que "莊"
 
 **Etimologia ideológica vs análise epigráfica — 止戈為武**: O adágio mais famoso sobre 武 é o do Rei Zhuang de Chu (楚莊王) preservado pelo Shuowen: 止戈為武 ("parar a alabarda constitui 武"). É leitura paretimológica e politicamente eloquente — o "verdadeiro" valor marcial seria a contenção da violência, não seu exercício. 于省吾 (Yu Xingwu, séc. XX) corrige no comentário do xiaoxue: nas formas oracle e bronze, 止 não significa "parar" (sentido derivado tardio) mas é simplesmente o pictograma do **pé/pegada/passo** — sinaliza marcha, não cessação. O sentido original é então **marchar com armas, demonstração de força militar** (征伐示威), exatamente o oposto da glosa pacificadora. A leitura do Rei Zhuang é acrescentada pela tradição filosófica, não emerge da grafia.
 
-**Radical Kangxi (止) vs Shuowen (戈)**: Shuowen e o xiaoxue confirmam classificação sob **戈部** (secção da alabarda). Dicionários modernos (Kangxi e chardb) listam sob **止部**. A divergência reflete princípios de classificação distintos: Shuowen prioriza o componente semanticamente "ativo" (a arma); Kangxi prioriza o componente visualmente proeminente em cima. Para análise etimológica, 戈部 é mais informativo — coloca 武 entre os caracteres da família das armas.
+**Radical Kangxi (止) vs Shuowen (戈)**: Shuowen e o xiaoxue confirmam classificação sob **戈部** (seção da alabarda). Dicionários modernos (Kangxi e chardb) listam sob **止部**. A divergência reflete princípios de classificação distintos: Shuowen prioriza o componente semanticamente "ativo" (a arma); Kangxi prioriza o componente visualmente proeminente em cima. Para análise etimológica, 戈部 é mais informativo — coloca 武 entre os caracteres da família das armas.
 
 **Acepção 9 — meio passo**: 古以六尺為步，半步為武 ("antigamente seis 尺 [chǐ] formavam um 步 [bù]; meio 步 chamava-se 武"). Esta acepção é tecnicamente notável: 武 funcionou como unidade de medida linear correspondendo a meio passo. A ligação com 步 (que tem nota etimológica em [`/notes/etimologia-de-bo-bu-6b65/`](/notes/etimologia-de-bo-bu-6b65/)) é direta — 步 é o passo medido completo, 武 é a passada militar curta (uma perna avançada com a arma). Este uso métrico explicita a derivação do sentido marcial: 武 era originalmente o gesto motor do guerreiro avançando.
 
