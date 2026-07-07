@@ -52,7 +52,7 @@ Análise paleográfica (Li Xiaoding via Hanyu Da Zidian): nos oracles, a forma �
 
 **段注 Duan Yucai** (paráfrase via zdic.net): 就也。从戊。丁聲。氏征切。十一部。(𢦩)古文成。从午。 ("'É 就 [jiù, completar/realizar]'. Do 戊, fonético 丁. Fanqie 氏征. 11ª divisão de rima. 𢦩 é a forma antiga de 成, do 午.")
 
-**漢語大字典 Hanyu Da Zidian** (citando Li Xiaoding) (xiaoxue): 甲骨文成字從戌從丁，或從戌從丨，李孝定疑丨為丁之訛變 ("O caractere 成 no oracle é do 戌 [xū, 11º Ramo Terrestre, dia 戌] + 丁 [dīng, fonético]; ou do 戌 + 丨. Li Xiaoding suspeita que o 丨 é deturpação grafica de 丁.")
+**漢語大字典 Hanyu Da Zidian** (citando Li Xiaoding) (xiaoxue): 甲骨文成字從戌從丁，或從戌從丨，李孝定疑丨為丁之訛變 ("O caractere 成 no oracle é do 戌 [xū, 11º Ramo Terrestre, dia 戌] + 丁 [dīng, fonético]; ou do 戌 + 丨. Li Xiaoding suspeita que o 丨 é deturpação gráfica de 丁.")
 
 A análise estabelece: 成 é composto fonossemântico antigo de função-significado "completar/realizar". O componente 戊 (machado, instrumento de finalização) e o fonético 丁 (também associável com pregar/fixar) convergem semanticamente para a ideia de "finalizar com força, completar definitivamente". A polissemia moderna (completar, tornar-se, OK!, um décimo) deriva diretamente desse núcleo.
 
@@ -94,7 +94,7 @@ A análise estabelece: 成 é composto fonossemântico antigo de função-signif
 
 #### Divergências entre fontes
 
-- **Forma antiga 𢦩 (com 午)**: o Shuowen registra forma antiga (古文) 𢦩 com componente 午 (no lugar de 丁). Esta variação grafica reflete a interambiabilidade no período Zhou entre componentes que tinham OC próximos.
+- **Forma antiga 𢦩 (com 午)**: o Shuowen registra forma antiga (古文) 𢦩 com componente 午 (no lugar de 丁). Esta variação gráfica reflete a interambiabilidade no período Zhou entre componentes que tinham OC próximos.
 - **Análise paleográfica Li Xiaoding**: a forma Oracle usa 戌 (não 戊 como no seal Shuowen). A correção paleográfica é importante — 戊 e 戌 são caracteres distintos (mesmo radical 戈 lança, mas com diferentes Ramos Terrestres associados). O Shuowen, baseado em forma seal, leu 戊; a paleografia Oracle mostra 戌 original.
 - **Atestação Oracle massiva**: xiaoxue confirma 2 atestações Oracle Shang. Caractere antiquíssimo e ubíquo (entre os mais frequentes do vocabulário cotidiano).
 - **Reconstruções OC**: convergência total. Inicial *ȡ-/*ʑ-/*d- (oclusiva/africada palatal sonora) em todos os 5 sistemas; rhyme 耕 *gēng* unânime.
