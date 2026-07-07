@@ -125,7 +125,7 @@ Formas atestadas: Oracle 22 · Bronze 0 · Seal 0 · Liushutong 11
 
 ### Divergências entre fontes
 
-**Contagens de formas antigas — hanziyuan vs xiaoxue**: O hanziyuan lista 22 Oracle, 0 Bronze, 0 Seal. O xiaoxue yanbian encontra 14 formas: 2 Oracle (Shang), 4 Bronze (Late Shang a Spring & Autumn), 1 Warring States Chu, 1 Shuowen, 4 Han clerical, 1 Han seal print, 1 Cao Wei clerical. A divergência é notável: o hanziyuan tem 22 Oracle mas 0 Bronze, enquanto o xiaoxue tem menos Oracle mas identifica 4 Bronze que o hanziyuan não regista. As fontes usam corpora diferentes.
+**Contagens de formas antigas — hanziyuan vs xiaoxue**: O hanziyuan lista 22 Oracle, 0 Bronze, 0 Seal. O xiaoxue yanbian encontra 14 formas: 2 Oracle (Shang), 4 Bronze (Late Shang a Spring & Autumn), 1 Warring States Chu, 1 Shuowen, 4 Han clerical, 1 Han seal print, 1 Cao Wei clerical. A divergência é notável: o hanziyuan tem 22 Oracle mas 0 Bronze, enquanto o xiaoxue tem menos Oracle mas identifica 4 Bronze que o hanziyuan não registra. As fontes usam corpora diferentes.
 
 **Significado primário — desenredar vs. medir vs. buscar**: O Shuowen dá como sentido primário 繹理 "desenredar e pôr em ordem" (não "buscar"). A medida de 8 chǐ (八尺) aparece como sentido secundário no Shuowen. O chardb def.1 lista primeiro a unidade de medida. O MDBG e CantoDict listam "to search" como sentido principal — o mais moderno. O hanziyuan diz "to measure, to search." A 段注 esclarece: o sentido original é têxtil (puxar o fio do novelo para desembaraçar), e "longo" é extensão; "buscar" é derivação posterior.
 
@@ -211,7 +211,7 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 1 (S04348) · Liushutong 8
 
 ### Divergências entre fontes
 
-**Contagens de formas antigas**: O hanziyuan regista 0 Oracle, 0 Bronze, 1 Seal, 8 Liushutong. O xiaoxue yanbian encontra 5 formas: 1 Warring States Qin (bamboo slip), 1 Shuowen Seal, 1 Qin clerical (Shuihudi 睡虎地), 2 Eastern Han clerical. Concordam em 0 Oracle/Bronze — 橋 é um caractere tardio, sem atestação pré-Warring States.
+**Contagens de formas antigas**: O hanziyuan registra 0 Oracle, 0 Bronze, 1 Seal, 8 Liushutong. O xiaoxue yanbian encontra 5 formas: 1 Warring States Qin (bamboo slip), 1 Shuowen Seal, 1 Qin clerical (Shuihudi 睡虎地), 2 Eastern Han clerical. Concordam em 0 Oracle/Bronze — 橋 é um caractere tardio, sem atestação pré-Warring States.
 
 **段注 e a tipologia das pontes**: Duan Yucai distingue três tipos: 杠 gàng (tronco único), 橋 (troncos emparelhados), e 橋 grande (formando rampa/encosta). Também liga 橋 ao poço (井橋 "well-bridge", o mecanismo de contrapeso para tirar água). Estas acepções técnicas correspondem às def.6 (桔槔 well-sweep) e def.8 (牛貫鼻木 nose peg for cattle) do chardb, que são extensões do conceito de "travessa" — todas ausentes do MDBG.
 
