@@ -93,7 +93,7 @@ Formas atestadas (hanziyuan): Oracle 0 · Bronze 4 (B02191–B02194) · Seal 0 �
 
 **說文**: 達，行不相遇也。从辵，羍聲。《詩》曰：'挑兮達兮。' 达，達或从大。或曰迭。徒葛切。 ("Dá: caminhar sem se encontrar. Composto de 辵 (caminhar, semântico) e 羍 (fonético). O *Shijing* diz: 'tiāo xī dá xī' [*Zhèng fēng*, poema *Zǐjīn*]. 达 é variante de 達 com 大 [em lugar de 羍]. Alguns dizem [que equivale a] 迭 [dié — alternar]. Fanqie: 徒葛.")
 
-**段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido para este caractere): 行不相遇也。此與水部滑、泰字音義皆同。讀如撻。今俗說不相遇尙有此言。乃古言也。讀徒葛切。訓通達者、今言也。从辵。羍聲。十五部。詩曰。挑兮𨔶兮。鄭風文。 ("'Caminhar sem se encontrar.' Som e sentido convergem aqui com 滑 [huá — escorregadio] e 泰 [tài — amplo] da secção 水. Lê-se como 撻 [tà]. No uso popular atual 'não se encontrar' ainda se diz assim — é uso antigo. Fanqie 徒葛. A glosa 'penetrar, alcançar' [通達] é uso moderno. Composto de 辵; 羍 é fonético; 15ª secção de rima. O *Shijing* diz 'tiāo xī tà xī' — texto do *Zhèng fēng*.")
+**段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido para este caractere): 行不相遇也。此與水部滑、泰字音義皆同。讀如撻。今俗說不相遇尙有此言。乃古言也。讀徒葛切。訓通達者、今言也。从辵。羍聲。十五部。詩曰。挑兮𨔶兮。鄭風文。 ("'Caminhar sem se encontrar.' Som e sentido convergem aqui com 滑 [huá — escorregadio] e 泰 [tài — amplo] da seção 水. Lê-se como 撻 [tà]. No uso popular atual 'não se encontrar' ainda se diz assim — é uso antigo. Fanqie 徒葛. A glosa 'penetrar, alcançar' [通達] é uso moderno. Composto de 辵; 羍 é fonético; 15ª seção de rima. O *Shijing* diz 'tiāo xī tà xī' — texto do *Zhèng fēng*.")
 
 ### Evolução de formas (xiaoxue yanbian)
 
