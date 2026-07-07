@@ -75,7 +75,7 @@ Formas atestadas: Oracle 2 · Bronze 15 · Seal 1 · Liushutong 4.
 
 **說文**: 惟初太始，道立於一，造分天地，化成萬物。凡一之屬皆从一。 ("No Grande Início, o Dao se estabeleceu no Um; criou e dividiu Céu e Terra, transformou-e-completou as dez mil coisas. Todos os caracteres da categoria 一 seguem 一.") Fanqie: 於悉切.
 
-Forma antiga registada: 弌 (古文一 — ancient-script form).
+Forma antiga registrada: 弌 (古文一 — ancient-script form).
 
 **段注 Duan Yucai**: 一 dentro dos Seis Scripts é 指事 (*zhǐshì* — ideograma indicativo para matéria abstrata). Cita o *Hanshu*: 元元本本，數始於一 ("na raiz das raízes, o número começa no um"). Sobre 弌/弍/弎 (formas arcaicas com 弋): classifica como 古文奇字 ("odd graphs of the ancient script") — variantes ornadas do numeral simples. Antigo som: grupo rímico 12 do sistema de Duan.
 
@@ -119,6 +119,6 @@ Forma antiga registada: 弌 (古文一 — ancient-script form).
 
 - **Rhyme group OC — 質 vs 脂**: Wang Li, Zhou Fagao, Han colocam em 質; Dong Tonghe, Li Fanggui em 脂. Karlgren sem rótulo. Divergência clássica: 質 é a rima entrante terminada em *-t* ligada à nivelada 脂.
 - **Significado primário — numérico vs cosmológico**: MDBG/chardb def.1 tratam como numeral. Shuowen/段注 lêem como 指事 com primeira leitura cosmológica (a Unidade). 漢語大字典 confirma: origem é símbolo primitivo de contagem; leitura cosmológica é sobreposição do Shuowen.
-- **Variante 弌**: hanziyuan não lista; Shuowen/xiaoxue/chardb registam como 古文奇字 (variante ornada com 弋). Duan dedica longo comentário à questão.
+- **Variante 弌**: hanziyuan não lista; Shuowen/xiaoxue/chardb registram como 古文奇字 (variante ornada com 弋). Duan dedica longo comentário à questão.
 - **Decomposição**: unanimidade — não decomponível. hanziyuan: "Not applicable". 段注: pertence aos 指事 (abstrato). Xu Hao propõe dupla classificação 指事 + 象事.
 - **Leituras cantonesa**: jat1 padrão, yao1 para soletração. Consenso entre MDBG, CantoDict e cantonese.org.
