@@ -96,7 +96,7 @@ Formas atestadas: o hanziyuan registra 0 formas de Oráculo, 0 de Bronze e 0 de 
 
 **Sentido original.** A CUHK registra 「爿」 como forma inicial de 「牀」, com sentido original de 「牀」. O hanziyuan registra “Original meaning 本义: Meaning bead or table”. O MDBG e o chardb registram usos como radical, “piece of wood” / 劈木而成的木片, e classificador dialetal.
 
-**Leituras.** O MDBG registra duas entradas: 丬 qiáng e 爿 pán. A CUHK registra, para 爿, as leituras cantonêsas baan6 e coeng4; em coeng4, anota “部首;劈木而成的木片”, e em baan6, “方言用字，用作量詞;整體中的部分”. O hanziyuan registra “Main pronunciation 主要发音: qiáng” para 爿 e “Other pronunciations 其它发音: Not exists.” O campo de 普通話 na CUHK aparece como “pn  qing”. 
+**Leituras.** O MDBG registra duas entradas: 丬 qiáng e 爿 pán. A CUHK registra, para 爿, as leituras cantonesas baan6 e coeng4; em coeng4, anota “部首;劈木而成的木片”, e em baan6, “方言用字，用作量詞;整體中的部分”. O hanziyuan registra “Main pronunciation 主要发音: qiáng” para 爿 e “Other pronunciations 其它发音: Not exists.” O campo de 普通話 na CUHK aparece como “pn  qing”. 
 
 **Formas antigas.** O hanziyuan registra ausência de formas conhecidas de Oráculo, Bronze e Seal para 爿. O 小學堂 yanbian, por sua vez, lista duas formas de Oráculo: 乙2772(甲) e 菁11.18(甲).
 
