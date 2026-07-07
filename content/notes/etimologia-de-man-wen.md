@@ -36,7 +36,7 @@ category: etymology
 
 **問** — U+554F · 部首 radical: 口 (boca) · 總筆畫 strokes: 11 · 注音 zhuyin: ㄨㄣˋ · 拼音 pinyin: wèn / jyutping: man6
 
-É o Man do [Man Sau](/tags/man-sao/) 問手 e do nome kung fu [Moy Lo Man 梅老問](/notes/moy-lo-man/) de Rafael Romanizio Maciel. O segundo caractere, [手](/notes/etimologia-de-sau-shou/), tem nota própria.
+É o Man do [Man Sau](/tags/man-sao/) 問手 e do nome kung fu [Moy Lo Man 梅老問](/notes/moy-lo-man/) de Rafael Romanizio Maciel. O segundo caractere, [手](/notes/etimologia-de-sau-shou-624b/), tem nota própria.
 
 ### Definições
 

@@ -36,7 +36,7 @@ category: etymology
 
 **攤** — U+6524 · 部首 radical: 手 (hand) · 總筆畫 strokes: 22 · 注音 zhuyin: ㄊㄢ / ㄋㄢˊ · 拼音 pinyin: tān (também nán) / jyutping: taan1
 
-É o Tan do [Tan Sau](/tags/tan-sao/) 攤手. O segundo caractere, [手](/notes/etimologia-de-sau-shou/), tem nota própria.
+É o Tan do [Tan Sau](/tags/tan-sao/) 攤手. O segundo caractere, [手](/notes/etimologia-de-sau-shou-624b/), tem nota própria.
 
 ### Definições
 

@@ -3,7 +3,7 @@ title: "Etimologia de 手 (Sau — Shǒu / sau2)"
 date: '2026-06-16T14:25:33+01:00'
 summary: "O pictograma da mão aberta de cinco dedos, radical Kangxi nº 64. O Shuowen glosa 手 como 拳 'punho'; a paleografia mostra a mão estendida. Como radical, vira 扌."
 toc: true
-tags: ["china", "linguagem", "etimologia", "ideogramas", "radicais"]
+tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas", "radicais"]
 category: etymology
 has_commentary: false
 sources:
@@ -26,9 +26,12 @@ sources:
 - title: 漢語多功能字庫 (CUHK)
   url: https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/
   kind: wiki
+- title: 說文解字 (shuowen.org)
+  url: https://www.shuowen.org
+  kind: wiki
 ---
 
-É o radical Kangxi nº 64 (手, mão); o chardb lista 1.470 caracteres que o contêm como componente. Como radical à esquerda, assume a forma 扌 (três traços); no topo, às vezes 龵. Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 64 (手, mão); o chardb lista 1.470 caracteres que o contêm como componente. Como radical à esquerda, assume a forma 扌 (três traços); no topo, às vezes 龵. No Ving Tsun, aparece como segundo caractere em muitos nomes de técnicas: Tan Sau 攤手, Fook Sau 伏手, Bong Sau 膀手, Gaan Sau 耕手, entre outros. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **手** — U+624B · 部首 radical: 手 (nº 64) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄕㄡˇ · 拼音 pinyin: shǒu / jyutping: sau2
 
@@ -68,12 +71,12 @@ Frequência de uso: 143 (muito alta).
 
 #### Shuowen Jiezi completo
 
-(shuowen.org retornou apenas a listagem inicial; texto obtido via hanziyuan, CUHK e 小學堂, convergentes.)
+(o texto do Shuowen converge entre hanziyuan, CUHK e 小學堂; o 段注 abaixo foi obtido via shuowen.org.)
 
 **說文**: 手，拳也。象形。凡手之屬皆从手。
 (手 é 拳 — "o punho", a mão. Pictograma. Todo caractere da classe de 手 segue 手.) Forma antiga (古文): 𠂿.
 
-**段注 Duan Yucai**: (não obtido — shuowen.org retornou listagem; zdic.net retornou HTTP 404)
+**段注 Duan Yucai**: 今人舒之爲手，卷之爲拳，其實一也。故以手與拳二篆互訓。象指掌及𢯲也。 (O que os modernos chamam de "mão" é ela estendida; enrolada, chama-se "punho". Na essência são a mesma coisa. Por isso as duas entradas em selo, 手 e 拳, definem-se uma pela outra. O pictograma mostra os dedos, a palma e o pulso.)
 
 #### Evolução de formas (xiaoxue yanbian)
 
