@@ -100,7 +100,7 @@ Tradução: "(宗) é templo onde se reverencia o ancestral. **宗 e 尊 [zūn �
 | Warring States, Jin 戰國·晉 | Coin 貨幣 | 貨系0216 (Huò xì 0216) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 郭.六.28 (Guōdiàn *Liu De* 28 — *As Seis Virtudes*) |
 | Spring/Autumn-Warring States, Qin | Stone drum 石鼓文 | 石9下 (Stone Drum 9 verso) |
-| Han | Seal 篆書 | 說文‧宀部 (Shuōwén, secção 宀) |
+| Han | Seal 篆書 | 說文‧宀部 (Shuōwén, seção 宀) |
 | Qin 秦 | Clerical 隸書 | 睡.為25 (Shuìhǔdì *Wéi* 25) |
 | Western Han 西漢 | Clerical 隸書 | 老子甲74 (Lǎozǐ jiǎ 74 — Mawangdui Laozi A) |
 | Western Han 西漢 | Clerical 隸書 | 武威簡.服傳6 (Wǔwēi jiǎn, *Fú zhuàn* 6) |
