@@ -108,12 +108,12 @@ Esta é etimologia antropométrica notável: 度 incorpora a mão porque todas a
 
 **Etimologia antropométrica — medidas baseadas no corpo**: A análise 段注 é particularmente rica: 度 compõe-se com 又 (mão) porque todas as unidades antigas (分, 寸, 尺, 丈, 引) derivavam de partes do corpo humano — 寸 (polegada, do pulso), 咫 (8 polegadas, mão feminina), 仭 (envergadura do braço estendido). Isto revela a antropologia das medidas chinesas antigas, análoga a tradições indo-europeias.
 
-**Múltiplas leituras — tonogénese**:
+**Múltiplas leituras — tonogênese**:
 - *dù* (去聲, fanqie 徒故): "medida, grau, passar tempo" — sentido nominal/pervasivo
 - *duó* (入聲, fanqie 徒各): "estimar, avaliar" — sentido verbal ativo (o ato de medir)
 - *zhái*: leitura dialetal rara
 
-Tonogénese nominal/verbal padrão do chinês medieval.
+Tonogênese nominal/verbal padrão do chinês medieval.
 
 **Convergência 魚部**: Todos os cinco sistemas unanimes no grupo 魚 (yú). Mesmo grupo de 作 (jok), 拿 (na), 傅 (fu), 借 (je).
 
