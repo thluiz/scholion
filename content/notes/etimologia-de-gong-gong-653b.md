@@ -60,7 +60,7 @@ Componentes: 攵/攴 pū (ação da mão, pictograma de mão segurando vara/mart
 Significado original: atacar
 Shuowen (hanziyuan): 繫也從攴工聲
 
-**Nota**: hanziyuan regista 繫也 ("atar/ligar"), mas o Shuowen padrão e xiaoxue registam 擊也 ("golpear"). A leitura 繫 é erro de transcrição de 擊 (caracteres graficamente próximos) no hanziyuan. Ver divergências.
+**Nota**: hanziyuan registra 繫也 ("atar/ligar"), mas o Shuowen padrão e xiaoxue registram 擊也 ("golpear"). A leitura 繫 é erro de transcrição de 擊 (caracteres graficamente próximos) no hanziyuan. Ver divergências.
 
 Formas atestadas: Oracle 24 · Bronze (várias) · Seal 1 · atestação massiva em Warring States
 
@@ -87,7 +87,7 @@ A cadeia semântica é transparente: golpear (攻) → golpear repetidamente par
 | Warring States, Yan 戰國·燕 | Seal impression 璽印 | 璽彙4.93 / 4.97 |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 包2.111 / 包2.116 (Bāoshān) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 郭·成.10 (Guōdiàn — Chéng 10) |
-| Han | Seal 篆書 | 說文·攴部 (Shuōwén, secção 攴) |
+| Han | Seal 篆書 | 說文·攴部 (Shuōwén, seção 攴) |
 | Qin 秦 | Clerical 隸書 | 睡虎地簡13.56 (Shuìhǔdì jiǎn 13.56) |
 | Western Han 西漢 | Clerical 隸書 | 春秋事語71 (Chūnqiū shìyǔ 71) |
 | Eastern Han 東漢 | Clerical 隸書 | 武梁祠畫象題字 (Wǔliáng cí huàxiàng tízì) |
@@ -116,12 +116,12 @@ A cadeia semântica é transparente: golpear (攻) → golpear repetidamente par
 
 #### Divergências entre fontes
 
-**Glosa primária — 擊也 (Shuowen) vs 繫也 (hanziyuan)**: O Shuowen, chardb e xiaoxue unanimemente registam 擊也 ("golpear"). hanziyuan regista 繫也 ("atar"), que contradiz toda a tradição lexicográfica. 擊 e 繫 são caracteres graficamente semelhantes em escrita antiga, e esta é quase certamente erratum de transcrição na base hanziyuan, não variante textual real. A leitura correta é 擊也.
+**Glosa primária — 擊也 (Shuowen) vs 繫也 (hanziyuan)**: O Shuowen, chardb e xiaoxue unanimemente registram 擊也 ("golpear"). hanziyuan registra 繫也 ("atar"), que contradiz toda a tradição lexicográfica. 擊 e 繫 são caracteres graficamente semelhantes em escrita antiga, e esta é quase certamente erratum de transcrição na base hanziyuan, não variante textual real. A leitura correta é 擊也.
 
 **Extensão semântica "atacar" → "trabalhar matéria"**: A cadeia documentada pelo 段注 via *Kǎogōngjì* é central para compreender o caractere: os três compostos 攻木/攻皮/攻金 não significam "atacar madeira/couro/metal" mas "trabalhar" esses materiais. Esta extensão é tão antiga quanto o próprio uso atestado — o *Kǎogōngjì* é texto Zhou tardio. Daí as acepções 7 (加工 processar), 8 (開採 extrair), 9 (砍伐 cortar) do chardb. Em domínios de transmissão técnica, esta polissemia é ativa — aprender uma arte é "attacking it" no sentido de submetê-la ao trabalho disciplinado.
 
 **Variante 敔 (Wu State)**: A atestação 攻敔王光戈 (bronze de Wu tardio) usa a grafia 攻敔 onde 敔 está em posição onde esperaríamos 吳 (nome do estado). Trata-se de convenção grafológica específica das inscrições reais de Wu, não divergência lexical.
 
-**Extensão "estudar" (acepção 10)**: O sentido "dedicar-se, estudar intensamente" (專心從事；致力研究) é derivação tardia mas já clássica — o Lunyu usa 攻乎異端 ("dedicar-se a heterodoxias"). Esta é a fonte do uso moderno de 攻 em contextos académicos (攻讀 gōng dú, "estudar para obter grau").
+**Extensão "estudar" (acepção 10)**: O sentido "dedicar-se, estudar intensamente" (專心從事；致力研究) é derivação tardia mas já clássica — o Lunyu usa 攻乎異端 ("dedicar-se a heterodoxias"). Esta é a fonte do uso moderno de 攻 em contextos acadêmicos (攻讀 gōng dú, "estudar para obter grau").
 
 **Atestação massiva**: 24 oracle bones + muitos bronzes + abundante bambu Warring States — consistente com vocábulo central do léxico guerra/artesanato pré-Qin. Diferente de caracteres como 樁 (tardio) ou 派 (forjado), 攻 é vocábulo primário antigo.
