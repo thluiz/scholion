@@ -202,9 +202,9 @@ Nota: variante 唸 (U+5538) existe para o sentido de "recitar" (口 mouth + 念 
 
 ### Divergências entre fontes
 
-**Contagens de formas antigas**: O hanziyuan lista 0 Oracle, 12 Bronze. O xiaoxue yanbian encontra 14 formas, incluindo 1 Oracle (Fú 福 2, Shang) que o hanziyuan não regista, e 4-5 Bronze. O xiaoxue atesta 念 já em Oracle — mais antigo do que o hanziyuan indica.
+**Contagens de formas antigas**: O hanziyuan lista 0 Oracle, 12 Bronze. O xiaoxue yanbian encontra 14 formas, incluindo 1 Oracle (Fú 福 2, Shang) que o hanziyuan não registra, e 4-5 Bronze. O xiaoxue atesta 念 já em Oracle — mais antigo do que o hanziyuan indica.
 
-**常思 vs. recitar vs. lembrar**: O Shuowen define 念 como 常思 "pensar constantemente" — um estado mental duradouro, não momentâneo. O chardb def.5 e o MDBG listam "recitar" como sentido separado, que em Taiwan corresponde ao caractere distinto 唸. O chardb def.7 regista o uso budista (法相宗 Yogācāra): 念 como uma das cinco 別境 "funções mentais específicas", designando 記憶 "memória/mindfulness" (skt. smṛti). Este sentido técnico não aparece nas outras fontes.
+**常思 vs. recitar vs. lembrar**: O Shuowen define 念 como 常思 "pensar constantemente" — um estado mental duradouro, não momentâneo. O chardb def.5 e o MDBG listam "recitar" como sentido separado, que em Taiwan corresponde ao caractere distinto 唸. O chardb def.7 registra o uso budista (法相宗 Yogācāra): 念 como uma das cinco 別境 "funções mentais específicas", designando 記憶 "memória/mindfulness" (skt. smṛti). Este sentido técnico não aparece nas outras fontes.
 
 **段注 e 念茲在茲**: Duan Yucai cita o 夏書 (Book of Xia, via Zuǒzhuàn): 「念茲在茲。釋茲在茲。名言茲在茲。允出茲在茲。惟帝念功。」 — "Pensa nisto, está nisto. Explica isto, está nisto. Fala disto, está nisto. Procede verdadeiramente disto, está nisto. Só o Imperador pensa sobre o mérito." Uma das mais antigas atestações literárias de 念 como pensamento contínuo e presente.
 
@@ -291,10 +291,10 @@ Formas atestadas: Oracle 0 · Bronze 1 (B13617) · Seal 1 (S06361) · Liushutong
 
 **Contagens de formas antigas**: O hanziyuan lista 0 Oracle, 1 Bronze, 1 Seal. O xiaoxue yanbian encontra 9 formas: 1 Bronze (Spring & Autumn), 2 Warring States, 1 Shuowen, 1 Qin clerical, 2 Eastern Han clerical, 1 Western Han, 1 Sun Wu. Concordam em 0 Oracle — 頭 é relativamente tardio, a primeira atestação sendo Bronze do período Spring & Autumn.
 
-**段注 e a relação 頭↔首 como 轉注**: Duan Yucai identifica a relação 頭↔首 como exemplo do princípio 轉注 zhuǎnzhù ("comentário mútuo"), um dos seis princípios de formação de caracteres do Shuowen: 首 diz "頭" e 頭 diz "首" — são sinónimos que se definem mutuamente. Este é um dos raros exemplos claros de 轉注 na tradição filológica.
+**段注 e a relação 頭↔首 como 轉注**: Duan Yucai identifica a relação 頭↔首 como exemplo do princípio 轉注 zhuǎnzhù ("comentário mútuo"), um dos seis princípios de formação de caracteres do Shuowen: 首 diz "頭" e 頭 diz "首" — são sinônimos que se definem mutuamente. Este é um dos raros exemplos claros de 轉注 na tradição filológica.
 
 **頁 como radical de cabeça**: Duan Yucai explica que 頁 (modernamente "página") era originalmente o pictograma de uma pessoa com a cabeça enfatizada (𩠐), razão pela qual tantos caracteres ligados à cabeça usam este radical. A 段注 corrige edições que confundem 𦣻 (forma seal) com 𩠐 (forma Han), notando que Xǔ Shèn usava a forma seal como canónica.
 
-**Mudança de rima entre Old Chinese e Han**: O shangguyin regista que 頭 pertence ao 侯部 no Old Chinese (pré-Qin), mas muda para 魚部 nos dois Han. Esta migração de rima sugere uma mudança vocálica durante o período Han.
+**Mudança de rima entre Old Chinese e Han**: O shangguyin registra que 頭 pertence ao 侯部 no Old Chinese (pré-Qin), mas muda para 魚部 nos dois Han. Esta migração de rima sugere uma mudança vocálica durante o período Han.
 
 **Fonético 豆 e a leitura**: 豆 dòu (ritual vessel/bean) como fonético de 頭 tóu parece distante no mandarim moderno, mas no Old Chinese ambos partilhavam o mesmo grupo de rima 侯部 com iniciais dentais (*d-), confirmando a relação fonética original.
