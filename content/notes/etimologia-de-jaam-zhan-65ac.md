@@ -57,7 +57,7 @@ Significado original: cortar
 Shuowen (hanziyuan): 截也從車從斤斬法車裂也 (Cortar. De 車 e de 斤. A execução por 斬 é o despedaçamento por quadrigas.)
 Formas atestadas: Oracle 0 · Bronze 0 · Seal 1 (S10788) · Liushutong 4
 
-hanziyuan regista 0 bronzes, mas o xiaoxue lista 伯簋 (Bó guǐ) como atestação de bronze do Zhou médio. Ver divergências.
+hanziyuan registra 0 bronzes, mas o xiaoxue lista 伯簋 (Bó guǐ) como atestação de bronze do Zhou médio. Ver divergências.
 
 #### Shuowen Jiezi completo (via zdic.net)
 
@@ -75,7 +75,7 @@ Tradução: "(斬) é cortar [𢧵]. 𢧵 é o mesmo que 𣃔 [decepar]. O comen
 |---------|--------|----------------|
 | Middle Western Zhou 西周中期 | Bronze 金文 | 伯簋 (Bó guǐ — tigela ritual do conde) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 曾155 (Zēng 155 — Zeng Hou Yi, tumba do Marquês Yi de Zeng) |
-| Han | Seal 篆書 | 說文·車部 (Shuōwén, secção 車) |
+| Han | Seal 篆書 | 說文·車部 (Shuōwén, seção 車) |
 | Qin 秦 | Clerical 隸書 | 睡虎地簡16.117 (Shuìhǔdì jiǎn 16.117) |
 | Western Han 西漢 | Clerical 隸書 | 相馬經5上 (Xiàngmǎ jīng 5 — "Clássico da Fisiognomonia Equina") |
 | Western Han 西漢 | Clerical 隸書 | 大通上孫家寨漢簡 (Dàtōng Shàngsūnjiāzhài Hàn jiǎn) |
@@ -85,7 +85,7 @@ Tradução: "(斬) é cortar [𢧵]. 𢧵 é o mesmo que 𣃔 [decepar]. O comen
 
 **Relação / comentário (xiaoxue)**:
 - 段玉裁注：「从車之意，蓋古用車裂，後人乃法車裂之意而用鈇鉞，故字亦从車。斤者，鈇鉞之類也。」
-- 林義光《文源》：「按：車裂不謂之斬。斬，伐木也。《考工記．輪人》：『斬三材。』从斤从車，謂斬木為車。」 ("Lin Yiguang no 文源 [Fonte da Escrita]: 'Nota: o despedaçamento por quadrigas não se chama 斬. 斬 é abater madeira. O Kǎogōngjì, secção do Carroceiro [輪人], diz: 斬三材 [cortar os três materiais]. De 斤 e 車 — significa cortar madeira para fazer carros.'")
+- 林義光《文源》：「按：車裂不謂之斬。斬，伐木也。《考工記．輪人》：『斬三材。』从斤从車，謂斬木為車。」 ("Lin Yiguang no 文源 [Fonte da Escrita]: 'Nota: o despedaçamento por quadrigas não se chama 斬. 斬 é abater madeira. O Kǎogōngjì, seção do Carroceiro [輪人], diz: 斬三材 [cortar os três materiais]. De 斤 e 車 — significa cortar madeira para fazer carros.'")
 
 #### Fonologia ([xiaoxue shangguyin](https://xiaoxue.iis.sinica.edu.tw/shangguyin?char=斬))
 
@@ -105,8 +105,8 @@ Tradução: "(斬) é cortar [𢧵]. 𢧵 é o mesmo que 𣃔 [decepar]. O comen
 
 #### Divergências entre fontes
 
-**Etimologia do 車 na composição — pena capital vs fabrico de carros**: Esta é a divergência mais notável e está explicitamente registada no xiaoxue. O Shuowen (e 段注) explica 車 como memória da antiga pena 車裂 (despedaçamento por quadrigas). Lin Yiguang (林義光) no *文源* refuta: 車裂 não se chama 斬. 斬 significa abater madeira, e o 車 na grafia remete à finalidade — cortar madeira para construir carros (citando o Kǎogōngjì). As duas leituras convergem no sentido básico "cortar", mas divergem radicalmente quanto ao referente cultural do componente 車 (prática jurídica vs prática artesanal).
+**Etimologia do 車 na composição — pena capital vs fabrico de carros**: Esta é a divergência mais notável e está explicitamente registrada no xiaoxue. O Shuowen (e 段注) explica 車 como memória da antiga pena 車裂 (despedaçamento por quadrigas). Lin Yiguang (林義光) no *文源* refuta: 車裂 não se chama 斬. 斬 significa abater madeira, e o 車 na grafia remete à finalidade — cortar madeira para construir carros (citando o Kǎogōngjì). As duas leituras convergem no sentido básico "cortar", mas divergem radicalmente quanto ao referente cultural do componente 車 (prática jurídica vs prática artesanal).
 
-**Atestação em bronzes — 0 (hanziyuan) vs 1 (xiaoxue)**: hanziyuan não regista bronzes; o xiaoxue lista 伯簋 (Zhou médio). Provavelmente o carácter no 伯簋 é lido como 斬 por alguns paleógrafos e como outro grafema por hanziyuan. A leitura do xiaoxue é consistente com a hipótese de Lin Yiguang — se 斬 era abater madeira para fazer carros, o contexto ritualístico/artesanal do bronze é plausível.
+**Atestação em bronzes — 0 (hanziyuan) vs 1 (xiaoxue)**: hanziyuan não registra bronzes; o xiaoxue lista 伯簋 (Zhou médio). Provavelmente o carácter no 伯簋 é lido como 斬 por alguns paleógrafos e como outro grafema por hanziyuan. A leitura do xiaoxue é consistente com a hipótese de Lin Yiguang — se 斬 era abater madeira para fazer carros, o contexto ritualístico/artesanal do bronze é plausível.
 
-**Leituras zhǎn/zhàn**: chardb lista zhan3 E zhan4. MDBG, cantonese.org e o Guangyun registam apenas a leitura em 上聲 (zhǎn/zaam2). A segunda leitura (zhàn) aparece associada à acepção 6 ("piscar"), que o Guangyun não cobre — é uso tardio/dialetal.
+**Leituras zhǎn/zhàn**: chardb lista zhan3 E zhan4. MDBG, cantonese.org e o Guangyun registram apenas a leitura em 上聲 (zhǎn/zaam2). A segunda leitura (zhàn) aparece associada à acepção 6 ("piscar"), que o Guangyun não cobre — é uso tardio/dialetal.
