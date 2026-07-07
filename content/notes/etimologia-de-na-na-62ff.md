@@ -123,7 +123,7 @@ Observa que edições anteriores confundiam 挐 com 拏 — ambos caracteres par
 
 **Glosa primária — 牽引也 (Shuowen) vs 持也 (段注)**: O Shuowen recebido diz 牽引也 ("puxar/arrastar"). 段玉裁 corrige para 持也 ("segurar/reter"). A correção é significativa: 牽引 enfatiza o movimento de puxar para si, enquanto 持 enfatiza a posse estática da coisa na mão. Para o uso marcial (na jong em Ving Tsun — "tomar/pegar a estaca"), a leitura 持 é mais apropriada — o gesto é apreender e manter, não apenas arrastar.
 
-**Distinção 挐/拏 — Xu Hao e variação tonal**: Xu Hao observa que 挐 e 拏 são o mesmo lexema, distinguidos apenas por "pesagem fonética" (聲之輕重). 段玉裁 formaliza: nú para "agarrar" vs nǘ para "conectar/emaranhar". Esta distinção tonal regular é outra instância da tonogênese característica do chinês medieval — o mesmo lexema raiz gerando dois usos por mudança tonal fonológica.
+**Distinção 挐/拏 — Xu Hao e variação tonal**: Xu Hao observa que 挐 e 拏 são o mesmo lexema, distinguidos apenas por "pesagem fonética" (聲之輕重). 段玉裁 formaliza: nú para "agarrar" vs nǘ para "conectar/emaranhar". Esta distinção tonal regular é outra instância da tonogênese caractereística do chinês medieval — o mesmo lexema raiz gerando dois usos por mudança tonal fonológica.
 
 **Atestação semântica em 推拿 (tuina)**: A acepção 10 documenta o uso técnico em arte marcial e massagem: 推拿 (empurrar-pegar) é terminologia estabelecida. No Ving Tsun, 拿 em na jong 拿樁 conserva este valor técnico — tomar a estaca é ato marcial codificado, não mera ação de pegar.
 
