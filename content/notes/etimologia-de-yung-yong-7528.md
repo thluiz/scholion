@@ -54,7 +54,7 @@ Atestação (xiaoxue): abundante oracle bones Shang (甲2324, 鐵116.1, 後1.15.
 
 #### Shuowen Jiezi completo (via zdic.net)
 
-**說文**: 可施行也。从卜从中。衞宏說。凡用之屬皆从用。𤰆，古文用。余訟切。 (Aquilo que se pode executar/aplicar. De 卜 [adivinhação] e de 中 [centro/acertar]. Explicação de Wèi Hóng. Todos os caracteres da secção 用 seguem 用. 𤰆 é a forma antiga. Fanqie: 余訟切.)
+**說文**: 可施行也。从卜从中。衞宏說。凡用之屬皆从用。𤰆，古文用。余訟切。 (Aquilo que se pode executar/aplicar. De 卜 [adivinhação] e de 中 [centro/acertar]. Explicação de Wèi Hóng. Todos os caracteres da seção 用 seguem 用. 𤰆 é a forma antiga. Fanqie: 余訟切.)
 
 **段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido):
 
