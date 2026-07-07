@@ -72,7 +72,7 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 1 (S03468) · Liushutong 4
 
 (式)法也。𢊁部法作灋。灋、㓝也。引伸之義爲式、用也。按周禮八灋八則九式異其文。注曰。則亦法也。式謂用財之節度。从工。弋聲。賞職切。一部。
 
-Tradução: "(式) é lei/norma. Na secção 𢊁, 法 é escrito 灋. 灋 é 㓝 [punição/lei penal]. Por extensão, 式 também significa 'usar'. Note-se que o Zhouli distingue três termos: 八灋 [oito leis], 八則 [oito regras] e 九式 [nove normas]. O comentário diz: 則 também é lei [法]. 式 refere-se à **medida/regulação da despesa financeira** (用財之節度). De 工, com 弋 fonético. Fanqie: 賞職切. Grupo rímico 1."
+Tradução: "(式) é lei/norma. Na seção 𢊁, 法 é escrito 灋. 灋 é 㓝 [punição/lei penal]. Por extensão, 式 também significa 'usar'. Note-se que o Zhouli distingue três termos: 八灋 [oito leis], 八則 [oito regras] e 九式 [nove normas]. O comentário diz: 則 também é lei [法]. 式 refere-se à **medida/regulação da despesa financeira** (用財之節度). De 工, com 弋 fonético. Fanqie: 賞職切. Grupo rímico 1."
 
 Esta distinção terminológica do Zhouli é importante: 式 não é lei geral (灋) nem regra abstrata (則), mas **norma prática de medida/proporção**, especialmente em contexto administrativo-económico.
 
@@ -81,7 +81,7 @@ Esta distinção terminológica do Zhouli é importante: 式 não é lei geral (
 | Período | Script | Fonte/Artefato |
 |---------|--------|----------------|
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 上(1)·䊷.8 (Shànghǎi 1 — X 8) |
-| Han | Seal 篆書 | 說文·工部 (Shuōwén, secção 工) |
+| Han | Seal 篆書 | 說文·工部 (Shuōwén, seção 工) |
 | Qin 秦 | Clerical 隸書 | 睡·秦66 (Shuìhǔdì Qín 66) |
 | Western Han 西漢 | Clerical 隸書 | 老子甲61 (Lǎozǐ jiǎ 61) |
 | Western Han 西漢 | Clerical 隸書 | 天文雜占2.4 (Tiānwén zázhàn 2.4 — miscelâneas astrológicas) |
@@ -116,4 +116,4 @@ Esta distinção terminológica do Zhouli é importante: 式 não é lei geral (
 
 **Distinção 灋 / 則 / 式 do Zhouli**: O 段注 de 式 preserva um diagnóstico terminológico raro — no sistema do Zhouli, 式 é especificamente "regulação de despesa". Esta é a chave para compreender por que 式 evolui para significar "padrão de execução" (modelo a seguir com medida adequada), e daí para "técnica formal" (jiu sik 招式) em domínios de transmissão técnica como artes marciais: cada 式 é uma porção codificada de norma executiva, não uma lei abstrata.
 
-**Leitura secundária tè**: chardb regista a leitura tè (acepção 16, intercambiável com 慝 "maldade"). hanziyuan confirma tè como secundária. Esta leitura não aparece no Guangyun, sendo empréstimo gráfico tardio sem base fonológica Middle Chinese distinta.
+**Leitura secundária tè**: chardb registra a leitura tè (acepção 16, intercambiável com 慝 "maldade"). hanziyuan confirma tè como secundária. Esta leitura não aparece no Guangyun, sendo empréstimo gráfico tardio sem base fonológica Middle Chinese distinta.
