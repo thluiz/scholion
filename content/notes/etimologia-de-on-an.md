@@ -77,9 +77,9 @@ Formas atestadas: Oracle 16 · Bronze 15 · Seal 1 · Liushutong 48.
 
 ### Shuowen Jiezi completo (shuowen.org)
 
-**說文**: 靜也。从女在宀下。 ("Tranquilo. Compõe-se de 女 mulher sob 宀 telhado.") Volume 7 (卷七), secção do radical 宀. Fanqie: 烏寒切.
+**說文**: 靜也。从女在宀下。 ("Tranquilo. Compõe-se de 女 mulher sob 宀 telhado.") Volume 7 (卷七), seção do radical 宀. Fanqie: 烏寒切.
 
-**段注 Duan Yucai**: Corrige "靜也" para "竫也" (竫 = "composto/assentado"), argumentando que o sentido original está na entrada de 竫 na secção 立部, definida como "亭安". Observa que "靜" na secção 青部 significa "審" (examinar), sentido distinto. Cita o *Fangyan*, que define 安 como pacífico/tranquilo. Nota também que 安 funciona como partícula gramatical.
+**段注 Duan Yucai**: Corrige "靜也" para "竫也" (竫 = "composto/assentado"), argumentando que o sentido original está na entrada de 竫 na seção 立部, definida como "亭安". Observa que "靜" na seção 青部 significa "審" (examinar), sentido distinto. Cita o *Fangyan*, que define 安 como pacífico/tranquilo. Nota também que 安 funciona como partícula gramatical.
 
 ### Evolução de formas (xiaoxue yanbian)
 
@@ -122,7 +122,7 @@ Formas atestadas: Oracle 16 · Bronze 15 · Seal 1 · Liushutong 48.
 
 ### Divergências entre fontes
 
-- **Glossa Shuowen — 靜 vs 竫**: texto transmitido dá "靜也"; Duan emenda para "竫也" (assentado), separando o "examinar" (審) da secção 青部. xiaoxue segue Duan.
+- **Glossa Shuowen — 靜 vs 竫**: texto transmitido dá "靜也"; Duan emenda para "竫也" (assentado), separando o "examinar" (審) da seção 青部. xiaoxue segue Duan.
 - **Acepções**: chardb cataloga 25, incluindo pronome interrogativo, advérbio, conjunção, preposição, partícula — muito além do núcleo semântico de MDBG/CantoDict.
 - **Inicial OC**: Wang Li atribui "0", Li Fanggui "·", os demais reconstroem oclusiva glotal ʔ. Divergência de notação, não de reconstrução.
 - **Vogal OC**: Karlgren/Dong Tonghe preferem ɑ posterior; Wang Li/Zhou Fagao/Li Fanggui preferem a central/anterior.
