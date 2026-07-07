@@ -60,7 +60,7 @@ Adverbial/particle usage in modern Chinese: o sentido gramatical moderno (de, pa
 
 Componentes: 白 bái (branco) + 勺 sháo (concha, fonético)
 
-**Nota importante**: o radical moderno é 白 (branco, seguindo Kangxi). Mas no Shuowen a entrada é sob 旳 (com 日 sol, não 白), na secção 日部. O carácter corrente 的 substituiu 旳 na fase pós-Han. Isto explica a discrepância entre chardb (radical 白) e Shuowen (entrada sob 日+勺聲).
+**Nota importante**: o radical moderno é 白 (branco, seguindo Kangxi). Mas no Shuowen a entrada é sob 旳 (com 日 sol, não 白), na seção 日部. O carácter corrente 的 substituiu 旳 na fase pós-Han. Isto explica a discrepância entre chardb (radical 白) e Shuowen (entrada sob 日+勺聲).
 
 #### Shuowen Jiezi completo (via zdic.net — entrada sob 旳)
 
@@ -98,7 +98,7 @@ Atestação tardia (Han em diante). Caractere que se estabiliza na era Han.
 
 #### Divergências entre fontes
 
-**Forma clássica 旳 (com 日) vs moderna 的 (com 白)**: Esta é a divergência central. O Shuowen regista 旳 (com 日 "sol"); o carácter corrente 的 (com 白 "branco") é substituição popular pós-Han, motivada pela associação semântica com "branco-brilhante-alvo". 段玉裁 regista a substituição: 俗字作的 ("a forma popular é 的").
+**Forma clássica 旳 (com 日) vs moderna 的 (com 白)**: Esta é a divergência central. O Shuowen registra 旳 (com 日 "sol"); o carácter corrente 的 (com 白 "branco") é substituição popular pós-Han, motivada pela associação semântica com "branco-brilhante-alvo". 段玉裁 registra a substituição: 俗字作的 ("a forma popular é 的").
 
 **Pluralidade extrema de funções modernas**: 的 é o caractere mais frequente do chinês moderno — em uso predominantemente gramatical (partícula) que surge tardiamente (Song-Ming). A gramaticalização segue a cadeia: "brilhante" → "definido" → "aquele específico" → "o específico que modifica" → partícula modificadora de substantivo. Este percurso semântico é emblema da gramaticalização no chinês.
 
