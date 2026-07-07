@@ -115,7 +115,7 @@ Esta é etimologia antropométrica notável: 度 incorpora a mão porque todas a
 
 Tonogênese nominal/verbal padrão do chinês medieval.
 
-**Convergência 魚部**: Todos os cinco sistemas unanimes no grupo 魚 (yú). Mesmo grupo de 作 (jok), 拿 (na), 傅 (fu), 借 (je).
+**Convergência 魚部**: Todos os cinco sistemas unânimes no grupo 魚 (yú). Mesmo grupo de 作 (jok), 拿 (na), 傅 (fu), 借 (je).
 
 **Gok do 角度 no Hai Tong**: No composto 角度 ("ângulo-grau"), 度 ativa o sentido "grau/medida numérica" (acepção 8). Em 法度 ("norma, regulamentação"), 度 ativa o sentido "lei/padrão" (acepção 2). Ambos os sentidos coexistem no texto do Hai Tong.
 
