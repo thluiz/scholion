@@ -60,18 +60,18 @@ Notas hanziyuan: "fio enrolado em volta de uma bobina; provavelmente algo que os
 Inglês: young brother; junior; eu (pronome humilde)
 Exemplo de uso: 兄弟 xiōng dì (irmãos)
 Frequência: 542 (uso comum)
-Shuowen (hanziyuan): 韋束之次弟也從古字之象凡弟之屬皆從弟 (A ordem do couro enrolando objeto. Da imagem do caractere antigo. Todos os caracteres da secção 弟 seguem 弟.)
+Shuowen (hanziyuan): 韋束之次弟也從古字之象凡弟之屬皆從弟 (A ordem do couro enrolando objeto. Da imagem do caractere antigo. Todos os caracteres da seção 弟 seguem 弟.)
 Formas atestadas (hanziyuan): Oracle 0 · Bronze 13 · Seal 1 — **xiaoxue corrige: 4 oracle bones existem** (ver abaixo).
 
 #### Shuowen Jiezi completo (via zdic.net)
 
-**說文**: 韋束之次弟也。从古字之象。凡弟之屬皆从弟。𠂖，古文弟从古文韋省，丿聲。特計切。 (A ordem [次第] do couro [韋] enrolando objeto. Da imagem do caractere antigo. Todos os caracteres da secção 弟 seguem 弟. 𠂖 [forma 古文] é variante de 弟, derivada da forma antiga de 韋 abreviada, com 丿 fonético. Fanqie: 特計切.)
+**說文**: 韋束之次弟也。从古字之象。凡弟之屬皆从弟。𠂖，古文弟从古文韋省，丿聲。特計切。 (A ordem [次第] do couro [韋] enrolando objeto. Da imagem do caractere antigo. Todos os caracteres da seção 弟 seguem 弟. 𠂖 [forma 古文] é variante de 弟, derivada da forma antiga de 韋 abreviada, com 丿 fonético. Fanqie: 特計切.)
 
 **段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido):
 
 以韋束物。如輈五束、衡三束之類。束之不一則有次弟也。引伸之爲凡次弟之弟、爲兄弟之弟、爲豈弟之弟。詩正義引說文有第字。从古文之象。文各本作字。今正。說文小篆有从古文之像似者凡三。曰弟、曰革、曰民。皆各像其古文爲之。特計切。十五部。凡弟之屬皆从弟。(𠂖)古文弟。从古文韋省。古文韋見韋部。丿聲。丿、右戾也。房密匹蔑二切。
 
-Tradução: "Couro enrolando objeto, como nas múltiplas voltas de [tira de couro] ao redor de [veículos] — *輈五束* [vara da carroça com cinco voltas], *衡三束* [travessa com três voltas] e similares. Quando se enrola repetidamente, surge a noção de **ordem/sucessão** [次弟]. Por extensão: [1] sequência geral; [2] irmão mais novo (兄弟之弟); [3] respeito filial (豈弟之弟). O *Shi Zhengyi* [Comentário Justo das Odes] cita o Shuowen com o caractere 第. [...] No selo pequeno do Shuowen, três caracteres derivam da imagem do antigo 古文: 弟, 革, 民 — cada um modelado sobre a sua forma antiga. Fanqie: 特計切. Grupo rímico 15. Todos os caracteres da secção 弟 seguem 弟. (𠂖) é o 古文 [forma antiga] de 弟. Deriva de 韋 [couro] abreviado; 丿 fonético. 丿 é desvio para a direita. Fanqie de 𠂖: 房密 ou 匹蔑."
+Tradução: "Couro enrolando objeto, como nas múltiplas voltas de [tira de couro] ao redor de [veículos] — *輈五束* [vara da carroça com cinco voltas], *衡三束* [travessa com três voltas] e similares. Quando se enrola repetidamente, surge a noção de **ordem/sucessão** [次弟]. Por extensão: [1] sequência geral; [2] irmão mais novo (兄弟之弟); [3] respeito filial (豈弟之弟). O *Shi Zhengyi* [Comentário Justo das Odes] cita o Shuowen com o caractere 第. [...] No selo pequeno do Shuowen, três caracteres derivam da imagem do antigo 古文: 弟, 革, 民 — cada um modelado sobre a sua forma antiga. Fanqie: 特計切. Grupo rímico 15. Todos os caracteres da seção 弟 seguem 弟. (𠂖) é o 古文 [forma antiga] de 弟. Deriva de 韋 [couro] abreviado; 丿 fonético. 丿 é desvio para a direita. Fanqie de 𠂖: 房密 ou 匹蔑."
 
 #### Evolução de formas ([xiaoxue yanbian](https://xiaoxue.iis.sinica.edu.tw/yanbian?char=弟))
 
@@ -92,7 +92,7 @@ Tradução: "Couro enrolando objeto, como nas múltiplas voltas de [tira de cour
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 郭.語1.56 (Guōdiàn *Yu* 1.56) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 郭.六.16 (Guōdiàn *Liu De* — *As Seis Virtudes*, 16) |
 | Han | Variant 古文 | 說文古文 (Shuōwén gǔwén — variante 𠂖) |
-| Han | Seal 篆書 | 說文‧弟部 (Shuōwén, secção 弟) |
+| Han | Seal 篆書 | 說文‧弟部 (Shuōwén, seção 弟) |
 | Qin 秦 | Clerical 隸書 | 睡虎地簡28.6 (Shuìhǔdì jiǎn 28.6) |
 | Western Han 西漢 | Clerical 隸書 | 老子甲後250 (Lǎozǐ jiǎ hòu 250 — Mawangdui Laozi A verso) |
 | Western Han 西漢 | Clerical 隸書 | 春秋事語7 (*Chūnqiū shì yǔ* 7 — Mawangdui *Tradições de Primavera-Outono*) |
@@ -142,7 +142,7 @@ A unidade etimológica 弟/第/悌 forma uma **família lexical** baseada na no�
 
 **弟 ↔ 悌 — separação fraternal-afetiva**: Da mesma forma, 悌 (acrescentando 心 — coração) lexicalizou o sentido afetivo "respeito do mais novo pelo mais velho", uma das virtudes confucionistas centrais (孝弟/孝悌). 弟 fica com o uso descritivo (irmão); 悌 fica com o uso normativo (virtude do respeito). 豈弟 (kǎi tì) é expressão clássica que preserva a forma antiga.
 
-**Pronúncias múltiplas dì/tì/tuǐ**: As três pronúncias correspondem a divergências semânticas: 弟 em 兄弟 = dì (irmão); 弟 em 豈弟/孝弟 = tì (respeito filial); 弟 em 弟靡 (raro — "enfraquecido") = tuǐ. Separação fonológica para distinguir uso descritivo, normativo e idiomático — fenómeno comum em palavras com larga gama semântica clássica.
+**Pronúncias múltiplas dì/tì/tuǐ**: As três pronúncias correspondem a divergências semânticas: 弟 em 兄弟 = dì (irmão); 弟 em 豈弟/孝弟 = tì (respeito filial); 弟 em 弟靡 (raro — "enfraquecido") = tuǐ. Separação fonológica para distinguir uso descritivo, normativo e idiomático — fenômeno comum em palavras com larga gama semântica clássica.
 
 **Forma 古文 𠂖**: O Shuowen registra a variante 古文 𠂖, formada com 韋 (couro) abreviado + 丿 fonético. Confirma a etimologia "cordão de couro enrolando objeto" — 韋 é literalmente "couro processado". A forma de selo pequeno (𠂖) preserva graficamente o ato de enrolar.
 
