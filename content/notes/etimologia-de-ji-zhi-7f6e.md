@@ -101,4 +101,4 @@ Atestação consolidada Han.
 
 **Wai ji 位置 no Hai Tong**: O composto 位置 ("posição-colocar" = localização) aparece no Hai Tong Biu Ji nas "diferentes posições (位置) em que retornar ao jung sin". 置 ativa aqui o sentido tardio "colocar/estabelecer" (acepção 4) — lugar definido e fixado.
 
-**Convergência 之部**: Cinco sistemas unanimes em 之 (zhī). Grupo rímico amplo que inclui muitos caracteres frequentes.
+**Convergência 之部**: Cinco sistemas unânimes em 之 (zhī). Grupo rímico amplo que inclui muitos caracteres frequentes.
