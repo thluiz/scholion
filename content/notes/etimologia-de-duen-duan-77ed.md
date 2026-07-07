@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 短 (Duen — Duǎn / dyun2)"
 date: '2026-04-24T12:57:52+01:00'
-summary: "Análise etimológica de 短 (Duǎn / dyun2), 'curto, breve'. Shuowen: 有所長短，以矢為正 ('há comprido e curto; a flecha serve de padrão'). Composto fonossemântico: 矢 (flecha) + 豆 (fonético, dòu — vaso ritual). 段注 de Duan Yucai explica: para aferir o comprido-e-curto de algo, usa-se a flecha como padrão direto — 矢者、其中正也 ('a flecha é o que está reto e correto no meio'). Wang Yun regista: 短、豆雙聲 ('短 e 豆 partilham aliteração'). No Hai Tong, aparece em duen kiu 短橋 (braço-ponte curto). Sete fontes consultadas."
+summary: "Análise etimológica de 短 (Duǎn / dyun2), 'curto, breve'. Shuowen: 有所長短，以矢為正 ('há comprido e curto; a flecha serve de padrão'). Composto fonossemântico: 矢 (flecha) + 豆 (fonético, dòu — vaso ritual). 段注 de Duan Yucai explica: para aferir o comprido-e-curto de algo, usa-se a flecha como padrão direto — 矢者、其中正也 ('a flecha é o que está reto e correto no meio'). Wang Yun registra: 短、豆雙聲 ('短 e 豆 partilham aliteração'). No Hai Tong, aparece em duen kiu 短橋 (braço-ponte curto). Sete fontes consultadas."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 category: etymology
@@ -76,7 +76,7 @@ Duan Yucai articula uma dupla linha:
 
 | Período | Script | Fonte/Artefato |
 |---------|--------|----------------|
-| Han | Seal 篆書 | 說文·矢部 (Shuōwén, secção 矢) |
+| Han | Seal 篆書 | 說文·矢部 (Shuōwén, seção 矢) |
 | Qin 秦 | Clerical 隸書 | 睡虎地簡15.98 (Shuìhǔdì jiǎn 15.98) |
 | Western Han 西漢 | Clerical 隸書 | 老子乙前42下 (Lǎozǐ yǐ qián 42 xià) |
 | Eastern Han 東漢 | Clerical 隸書 | 熹·公羊·僖十年 (Xī — Gōngyáng — Xī 10) |
