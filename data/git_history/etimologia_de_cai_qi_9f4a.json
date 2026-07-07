@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-07-07",
+    "subject": "fix: corrige traducao anacronica de 禾麥 na nota de 齊"
+  },
+  {
+    "date": "2026-07-07",
     "subject": "feat: etimologia de 齊 (radical Kangxi 210)"
   }
 ]

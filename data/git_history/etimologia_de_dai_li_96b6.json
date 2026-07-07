@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-07-07",
+    "subject": "fix: corrige frequencia de 隶 (valor era de 隸/E09044, nao do proprio 隶)"
+  },
+  {
+    "date": "2026-07-07",
     "subject": "feat: etimologia de 隶 (radical Kangxi 171)"
   }
 ]
