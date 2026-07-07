@@ -49,7 +49,7 @@ Simplificado: 实 (U+5B9E)
 6. 充實，使加強 (enriquecer; reforçar)
 7. 堅實；堅強 (sólido; firme)
 8. 果實；種子 (fruto; semente; frutificar)
-9. 事實 (facto; realidade)
+9. 事實 (fato; realidade)
 10. 純樸的品質 (caráter simples e honesto)
 
 #### Decomposição e formas antigas (hanziyuan)
