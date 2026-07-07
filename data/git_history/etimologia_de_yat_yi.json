@@ -1,14 +1,14 @@
 [
   {
+    "date": "2026-07-07",
+    "subject": "fix: lexico PT-BR (PT-EU) em etimologia-de-yat-yi"
+  },
+  {
     "date": "2026-04-23",
     "subject": "feat: linka nomes de discípulo nas notas de etimologia"
   },
   {
     "date": "2026-04-23",
     "subject": "feat: categorias etymology (📜) e disciple (🙇) para notas de etimologia e discípulos"
-  },
-  {
-    "date": "2026-04-22",
-    "subject": "note: etimologia de 一 (Yat — Yī / jat1)"
   }
 ]
