@@ -116,7 +116,7 @@ Tradução: "(萅) é 'empurrar/impelir' [推]. Busca-se isto pela aliteração 
 
 #### Divergências entre fontes
 
-**Forma Shuowen 萅 vs forma corrente 春**: O Shuowen registra a entrada sob 萅 (com 艸 acima); a forma atual 春 resulta de alteração no script clerical da Han (隸變, lìbiàn). Shào Yīng documenta explicitamente esta reforma (隷變作春). A evolução 艸+屯+日 → 𡗗+日 (onde 𡗗 é o resultado fundido opaco) é uma das simplificações mais afectadas pela reforma clerical.
+**Forma Shuowen 萅 vs forma corrente 春**: O Shuowen registra a entrada sob 萅 (com 艸 acima); a forma atual 春 resulta de alteração no script clerical da Han (隸變, lìbiàn). Shào Yīng documenta explicitamente esta reforma (隷變作春). A evolução 艸+屯+日 → 𡗗+日 (onde 𡗗 é o resultado fundido opaco) é uma das simplificações mais afetadas pela reforma clerical.
 
 **Paronomásia 春=蠢 (段注 via Liji)**: Esta é uma das etimologias paronímicas clássicas do pensamento chinês. 春 (chūn, primavera) e 蠢 (chǔn, insetos despertando, bestas movimentando-se) partilham fonético 屯 e pertencem à mesma família rímica. O *Liji* usa esta aliteração para explicar a essência da estação: primavera é "o despertar agitado" dos seres. Esta leitura está embebida na tradição lexicográfica — não é invenção Han, mas transmissão ritual pré-Han.
 
