@@ -28,11 +28,11 @@ sources:
   kind: wiki
 ---
 
-É o ching presente nos nomes de **Fung Siu Ching 馮少青** (mestre da linhagem Gulao de Leung Jaan, séc. XIX–XX) e **Ip Po Ching 葉步青** (filho mais velho de Ip Man), citados no contexto do *Hai Tong* por Grão-Mestre Moy Yat. Ver também a [Etimologia de 馮](/notes/etimologia-de-fung-feng-99ae/), a [Etimologia de 少](/notes/etimologia-de-siu-shao-5c11.md/), e a [Etimologia de 葉](/notes/etimologia-de-ip-ye-8449/). 青 é categoria cromática chinesa fundamental — cor cosmológica do Leste e da primavera.
+É o ching presente nos nomes de **Fung Siu Ching 馮少青** (mestre da linhagem Gulao de Leung Jaan, séc. XIX–XX) e **Ip Po Ching 葉步青** (filho mais velho de Ip Man), citados no contexto do *Hai Tong* por Grão-Mestre Moy Yat. Ver também a [Etimologia de 馮](/notes/etimologia-de-fung-feng-99ae/), a [Etimologia de 少](/notes/etimologia-de-siu-shao-5c11.md/), e a [Etimologia de 葉](/notes/etimologia-de-ip-ye-8449/). 青 é categoria cromática chinesa fundamental — cor cosmológica do Leste e da primavera. É também o radical Kangxi nº 174, grafado no dicionário Kangxi na forma 靑 — o MDBG registra 靑 como variante de 青; o chardb, como 同「青」. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 ### 青
 
-**青** — U+9752 · 部首 radical: 青 (é o próprio radical) · 總筆畫 strokes: 8 · 注音 zhuyin: ㄑㄧㄥ · 拼音 pinyin: qīng / jyutping: cing1 / ceng1
+**青** — U+9752 · 部首 radical: 青 (é o próprio radical, nº 174; forma Kangxi 靑, U+9751) · 總筆畫 strokes: 8 · 注音 zhuyin: ㄑㄧㄥ · 拼音 pinyin: qīng / jyutping: cing1 / ceng1
 
 #### Definições
 
