@@ -44,7 +44,7 @@ Aparece no Hai Tong de Moy Yat em jung si 宗師 (mestre fundador da linhagem) e
 1. 祖廟，祭祀祖先的地方 (templo ancestral, lugar onde se cultuam os antepassados)
 2. 祖先；祖宗 (antepassados; antecedentes)
 3. 同一祖先的家族 (família descendente do mesmo ancestral)
-4. 宗子，即嫡長子 (filho legítimo primogénito — herdeiro do culto)
+4. 宗子，即嫡長子 (filho legítimo primogênito — herdeiro do culto)
 5. 神廟，祭社稷之神的地方 (templo dos deuses do solo e do grão)
 6. 尊祭之神 (divindade reverenciada no culto)
 7. 祭祀名 (nome de rito sacrificial)
