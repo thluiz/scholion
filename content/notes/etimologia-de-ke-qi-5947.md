@@ -79,7 +79,7 @@ Formas atestadas (hanziyuan): Oracle 0 · Bronze 0 · Seal 1 (S03504) · Liushut
 
 **說文**: 異也。一曰不耦。从大从可。渠羈切。 ("Diferente. Alternativamente: 'não pareado' (不耦). Composto de 大 e 可. Fanqie: 渠羈.")
 
-**段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido para este caractere): 異也。不羣之謂。一曰不耦。奇耦字當作此。今作偶、俗。按二義相因。从大。从可。會意。可亦聲。古音在十七部。今音前義渠羈切。後義居宜切。 ("'Diferente'. Significa 'não pertencer ao grupo' (不羣). Alternativamente: 'não pareado' (不耦). O caractere 奇耦 ['par/ímpar'] deveria propriamente ser este [奇]; hoje se escreve 偶 — forma coloquial. Considere-se: os dois sentidos derivam um do outro. De 大 e 可 — ideograma composto (會意); 可 também é fonético. No som arcaico pertence à 17ª secção de rima. No som moderno: para o sentido anterior [estranho], fanqie 渠羈; para o posterior [ímpar], 居宜.")
+**段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido para este caractere): 異也。不羣之謂。一曰不耦。奇耦字當作此。今作偶、俗。按二義相因。从大。从可。會意。可亦聲。古音在十七部。今音前義渠羈切。後義居宜切。 ("'Diferente'. Significa 'não pertencer ao grupo' (不羣). Alternativamente: 'não pareado' (不耦). O caractere 奇耦 ['par/ímpar'] deveria propriamente ser este [奇]; hoje se escreve 偶 — forma coloquial. Considere-se: os dois sentidos derivam um do outro. De 大 e 可 — ideograma composto (會意); 可 também é fonético. No som arcaico pertence à 17ª seção de rima. No som moderno: para o sentido anterior [estranho], fanqie 渠羈; para o posterior [ímpar], 居宜.")
 
 Nota de Xu Hao (徐灝) citando Dai Dong (戴侗) no *Liùshū gù* (六書故): 奇，从立，可省聲。一足立也。別作踦。奇，古踦字。 ("奇: composto de 立 (pessoa em pé), com 可 como fonético abreviado. [Representa] alguém em pé sobre um só pé. Também escrito 踦 [jǐ/qī — manquitolar, apoiar-se em um pé]. 奇 é a forma antiga de 踦.")
 
