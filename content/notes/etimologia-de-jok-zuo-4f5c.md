@@ -80,7 +80,7 @@ Fanqie: 則洛切. Grupo rímico 5.
 | Warring States, Chu 戰國·楚 | Divination 天策 | 天策 (Tiān cè) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 包2.168 (Bāoshān) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 新零.472 (Xīn líng 472) |
-| Han | Seal 篆書 | 說文·人部 (Shuōwén, secção 人) |
+| Han | Seal 篆書 | 說文·人部 (Shuōwén, seção 人) |
 | Qin 秦 | Clerical 隸書 | 睡虎地簡8.2 |
 
 **Shuowen (xiaoxue)**: (inferido) 《說文》：「作，起也。从人从乍。」
@@ -112,7 +112,7 @@ Atestação abundante confirma vocábulo central do léxico desde Shang.
 
 **Polissemia documentada por múltiplas glosas clássicas**: O 段注 cita quatro tradições comentaristas que glosam 作 diferentemente (起 erguer, 爲 fazer, 始 começar, 生 produzir). A diversidade reflete a centralidade do vocábulo — 作 cobre todo o campo do "iniciar-agir" sem especialização estrita.
 
-**Múltiplos fanqie — 臧祚 / 則箇 / 則落**: O Guangyun regista três fanqie possíveis, para leituras tonais distintas. zuò (去聲, "fazer") é dominante; zuō (入聲, "oficina/obra") é secundário. A bifurcação tonal é tonogénese padrão — verbo agentivo vs substantivo concreto.
+**Múltiplos fanqie — 臧祚 / 則箇 / 則落**: O Guangyun registra três fanqie possíveis, para leituras tonais distintas. zuò (去聲, "fazer") é dominante; zuō (入聲, "oficina/obra") é secundário. A bifurcação tonal é tonogênese padrão — verbo agentivo vs substantivo concreto.
 
 **Convergência fonológica 魚部**: Wang Li, Dong Tonghe, Zhou Fagao, Li Fanggui unanimemente colocam 作 no grupo 魚. Mesmo grupo de 拿 (na), 借 (je), 傅 (fu) — confirmando redes etimológicas por proximidade fonológica em Old Chinese.
 
