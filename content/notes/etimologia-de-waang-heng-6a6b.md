@@ -71,7 +71,7 @@ sources:
 
 #### Decomposição e formas antigas (hanziyuan)
 
-Componentes: **木** (madeira — semântico, ferramenta/material da viga transversal) + **黃** (*huáng*, "amarelo" — fonético; em OC reconstroi-se com inicial labiovelar *gw-, série fonética que dá 黃, 橫, 廣, 璜).
+Componentes: **木** (madeira — semântico, ferramenta/material da viga transversal) + **黃** (*huáng*, "amarelo" — fonético; em OC reconstrói-se com inicial labiovelar *gw-, série fonética que dá 黃, 橫, 廣, 璜).
 Significado original (Sears): *across, as in a cross beam* — através, como uma viga transversal.
 Exemplo de uso: 橫跨 héng kuà (estender-se sobre, transpor).
 Frequência (Sears): 1254.
