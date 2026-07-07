@@ -74,7 +74,7 @@ Formas atestadas (hanziyuan): Oracle 1 (J21070) · Bronze 15 (B13961–B13975) �
 
 ### Shuowen Jiezi completo (via zdic.net)
 
-**說文**: 司，臣司事於外者。从反后。凡司之屬皆从司。息茲切。 ("Sī: o oficial que administra assuntos no exterior. Composto do espelhamento (反, inversão) de 后. Todos os caracteres da secção 司 compõem-se com 司. Fanqie: 息茲.")
+**說文**: 司，臣司事於外者。从反后。凡司之屬皆从司。息茲切。 ("Sī: o oficial que administra assuntos no exterior. Composto do espelhamento (反, inversão) de 后. Todos os caracteres da seção 司 compõem-se com 司. Fanqie: 息茲.")
 
 **段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido para este caractere): 外對君而，君在內也，臣宣力四方在外，故从反后。鄭風，邦之司直。傳曰：司，主也。凡主其事必伺察恐後，故古別無伺字，司卽伺字。 ("'Exterior' contrasta com 君 [soberano], que está 'dentro'; os oficiais exercem força nas quatro direções, estando 'fora' — por isso [司] compõe-se com o espelhamento de 后. No *Shijing·Zhèngfēng* está: 邦之司直 ['o juiz do reino']. O *Comentário* explica: 司 é 主 [zhǔ — ser o senhor de, governar]. Todo aquele que governa um assunto deve vigiar e examinar com receio de falhar — por isso na antiguidade não havia caractere 伺 [sì — espiar] separado; 司 já era o caractere 伺.")
 
