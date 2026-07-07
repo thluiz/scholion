@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 風 (Fong — Fēng / fung1)"
 date: '2026-04-22T23:43:26+01:00'
-summary: "Análise etimológica de 風 (Fēng / fung1), 'vento'. Shuowen cataloga os 八風 (oito ventos das direções) e explica o caractere pela crença etiológica: 風動蟲生 ('o vento move-se e os insectos nascem'). Composto fonossemântico: 虫 (insecto) + 凡 (fonético; também lido como vela/barco). Nos ossos oraculares, 風 era escrito como 鳳 (fénix) ou 凡. Sete fontes consultadas."
+summary: "Análise etimológica de 風 (Fēng / fung1), 'vento'. Shuowen cataloga os 八風 (oito ventos das direções) e explica o caractere pela crença etiológica: 風動蟲生 ('o vento move-se e os insetos nascem'). Composto fonossemântico: 虫 (inseto) + 凡 (fonético; também lido como vela/barco). Nos ossos oraculares, 風 era escrito como 鳳 (fênix) ou 凡. Sete fontes consultadas."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 has_commentary: false
@@ -67,11 +67,11 @@ Leituras: fēng (principal), fèng (secundária — transmitir, ensinar), fěng 
 ### Decomposição e formas antigas (hanziyuan)
 
 Composto fonossemântico (形聲):
-- 虫 chóng (insecto) — semântico [Shuowen: a associação com insecto vem da cosmologia Han — o vento move-se e os insectos nascem]
+- 虫 chóng (inseto) — semântico [Shuowen: a associação com inseto vem da cosmologia Han — o vento move-se e os insetos nascem]
 - 凡 fán (vela, barco; "sail") — fonético
 
 Nota etimológica (Sears): "the original snake was a two headed snake indicating the rainbow 虹 hóng" — o 虫 original seria serpente bicéfala (cognata com 虹 arco-íris).
-Nos ossos oraculares, 風 era grafado como 鳳 (fèng — fénix) ou 凡 (fán) — o caractere moderno é derivado.
+Nos ossos oraculares, 風 era grafado como 鳳 (fèng — fênix) ou 凡 (fán) — o caractere moderno é derivado.
 
 Significado original (hanziyuan): "wind" (vento).
 Sentidos em inglês: "wind; air; manners, atmosphere".
@@ -83,7 +83,7 @@ Formas atestadas: Oracle 1 (J28057) · Bronze 0 · Seal 1 (S10079) · Liushutong
 
 ### Shuowen Jiezi completo (shuowen.org)
 
-**說文**: 風，八風也。東方曰明庶風；東南曰清明風；南方曰景風；西南曰涼風；西方曰閶闔風；西北曰不周風；北方曰廣莫風；東北曰融風。風動蟲生，故蟲八日而化。从虫，凡聲。凬，古文風。 ("Fēng: os oito ventos. Leste chama-se Míngshù ('claridade-populaça') Fēng; sudeste chama-se Qīngmíng ('luminoso-claro') Fēng; sul chama-se Jǐng ('brilho') Fēng; sudoeste chama-se Liáng ('frescor') Fēng; oeste chama-se Chānghé ('portão-celestial') Fēng; noroeste chama-se Bùzhōu ('incompleto') Fēng; norte chama-se Guǎngmò ('vastidão-deserta') Fēng; nordeste chama-se Róng ('fundição') Fēng. O vento move-se e os insectos nascem; por isso os insectos em oito dias se transformam. De 虫 [insecto] com 凡 como fonético. 凬 é a forma antiga.")
+**說文**: 風，八風也。東方曰明庶風；東南曰清明風；南方曰景風；西南曰涼風；西方曰閶闔風；西北曰不周風；北方曰廣莫風；東北曰融風。風動蟲生，故蟲八日而化。从虫，凡聲。凬，古文風。 ("Fēng: os oito ventos. Leste chama-se Míngshù ('claridade-populaça') Fēng; sudeste chama-se Qīngmíng ('luminoso-claro') Fēng; sul chama-se Jǐng ('brilho') Fēng; sudoeste chama-se Liáng ('frescor') Fēng; oeste chama-se Chānghé ('portão-celestial') Fēng; noroeste chama-se Bùzhōu ('incompleto') Fēng; norte chama-se Guǎngmò ('vastidão-deserta') Fēng; nordeste chama-se Róng ('fundição') Fēng. O vento move-se e os insetos nascem; por isso os insetos em oito dias se transformam. De 虫 [inseto] com 凡 como fonético. 凬 é a forma antiga.")
 
 **段注 Duan Yucai**: (não retornou dados diretamente da shuowen.org. Nota: a tradição dos 八風 é de origem cosmológica Han, associando cada um dos oito ventos direcionais a um mês/estação e a um aspecto do qi.)
 
@@ -104,7 +104,7 @@ Total: 11 formas. Atestação desde o Shang até o Han Oriental.
 
 **說文**: 「風，八風也。[...] 風動蟲生，故蟲八日而化。从虫，凡聲。凬，古文風。」
 
-**相關解說 — 《漢語大字典》按**: 「甲文以『凡』或以『鳳』為『風』。」 (*Hànyǔ Dà Zìdiǎn*: "Nos ossos oraculares, 凡 ou 鳳 [fénix] serviam como 風 [vento].")
+**相關解說 — 《漢語大字典》按**: 「甲文以『凡』或以『鳳』為『風』。」 (*Hànyǔ Dà Zìdiǎn*: "Nos ossos oraculares, 凡 ou 鳳 [fênix] serviam como 風 [vento].")
 
 ### Fonologia (xiaoxue shangguyin)
 
@@ -126,8 +126,8 @@ Total: 11 formas. Atestação desde o Shang até o Han Oriental.
 
 ### Divergências entre fontes
 
-- **Origem do caractere — vento ou fénix?**: o xiaoxue preserva a nota decisiva do *Hànyǔ Dà Zìdiǎn*: nos ossos oraculares, 鳳 (fèng, fénix) ou 凡 (fán, vela) serviam para escrever 風 (fēng, vento). Ou seja, o caractere moderno 風 é uma derivação pós-Shang: a fénix (rei das aves) era associada ao vento como seu portador cosmológico. Hanziyuan nota a homofonia 風/鳳 ( fanqie alternativo 方鳳) e lista 1 forma oracular (J28057) — provavelmente a forma-fénix.
-- **虫 como insecto ou serpente**: Shuowen explica 虫 pela etiologia cosmológica (o vento gera insectos). Hanziyuan oferece leitura alternativa: "a serpente original era bicéfala, indicando o arco-íris 虹". Duas tradições interpretativas — a naturalista Han (insectos como efeito do vento) e a mitológica (serpente-arco-íris associada ao vento).
+- **Origem do caractere — vento ou fênix?**: o xiaoxue preserva a nota decisiva do *Hànyǔ Dà Zìdiǎn*: nos ossos oraculares, 鳳 (fèng, fênix) ou 凡 (fán, vela) serviam para escrever 風 (fēng, vento). Ou seja, o caractere moderno 風 é uma derivação pós-Shang: a fênix (rei das aves) era associada ao vento como seu portador cosmológico. Hanziyuan nota a homofonia 風/鳳 ( fanqie alternativo 方鳳) e lista 1 forma oracular (J28057) — provavelmente a forma-fênix.
+- **虫 como inseto ou serpente**: Shuowen explica 虫 pela etiologia cosmológica (o vento gera insetos). Hanziyuan oferece leitura alternativa: "a serpente original era bicéfala, indicando o arco-íris 虹". Duas tradições interpretativas — a naturalista Han (insetos como efeito do vento) e a mitológica (serpente-arco-íris associada ao vento).
 - **Oito ventos**: Shuowen cataloga sistematicamente os 八風 por direção, cada um com nome cosmológico (明庶, 清明, 景, 涼, 閶闔, 不周, 廣莫, 融). Sistema presente apenas em Shuowen/xiaoxue — ausente do MDBG, CantoDict, hanziyuan. Registro clássico da cosmologia direcional chinesa.
 - **Arco semântico expansivo**: 20 acepções no chardb cobrem eixos meteorológico (vento, ar, tempestade), cultural (costumes, estilo, educação moral, canções populares do Shijing), informacional (notícia, rumor), patológico (doença do vento, loucura), zoológico (cio, fuga), ornamental (plumas), social (multidão, sobrenome), lúdico (brincadeira). Caractere rico em metonímias.
 - **Loucura = 瘋**: chardb def. 15 registra que o sentido de "loucura" foi separado graficamente para 瘋 (adicionando 疒, "doença"). Exemplo típico de especialização gráfica por radical.
