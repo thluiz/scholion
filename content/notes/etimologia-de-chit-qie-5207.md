@@ -83,13 +83,13 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 1
 
 (切)刌也。二字雙聲同義。古文禮刌肺。今文刌爲切。引伸爲迫切。又爲一切。俗讀七計切。師古曰。一切者、權時之事。如以刀切物。苟取整齊。不顧長短縱橫。故言一切。从刀。七聲。千結切。十二部。
 
-Tradução: "(切) é 刌 [cǔn — cortar]. **Os dois caracteres [切, 刌] são 雙聲 [aliterantes] e 同義 [sinónimos].** O *Guwen Li* (《古文禮》, *Ritos em escrita guwen*) tem 刌肺 [cortar pulmão]; o *Jinwen* (《今文》, versão moderna) [usa] 刌 como 切. **Por extensão, [significa] 迫切** [pò qiè — urgente]. **Também 一切** [yī qiè — tudo, conjunto]. A leitura popular [para 一切] é 七計切 [com tom 4: qiè]. Yan Shigu disse: '一切 é assunto de circunstância — como cortar coisa com faca, **busca-se apenas a regularidade [整齊], sem atentar para comprimento ou orientação** [不顧長短縱橫]. Por isso se diz 一切 [tudo de uma vez].' De 刀; 七 fonético. Fanqie: 千結切. Grupo rímico 12."
+Tradução: "(切) é 刌 [cǔn — cortar]. **Os dois caracteres [切, 刌] são 雙聲 [aliterantes] e 同義 [sinônimos].** O *Guwen Li* (《古文禮》, *Ritos em escrita guwen*) tem 刌肺 [cortar pulmão]; o *Jinwen* (《今文》, versão moderna) [usa] 刌 como 切. **Por extensão, [significa] 迫切** [pò qiè — urgente]. **Também 一切** [yī qiè — tudo, conjunto]. A leitura popular [para 一切] é 七計切 [com tom 4: qiè]. Yan Shigu disse: '一切 é assunto de circunstância — como cortar coisa com faca, **busca-se apenas a regularidade [整齊], sem atentar para comprimento ou orientação** [不顧長短縱橫]. Por isso se diz 一切 [tudo de uma vez].' De 刀; 七 fonético. Fanqie: 千結切. Grupo rímico 12."
 
 #### Evolução de formas ([xiaoxue yanbian](https://xiaoxue.iis.sinica.edu.tw/yanbian?char=切))
 
 | Período | Script | Fonte/Artefato |
 |---------|--------|----------------|
-| Han | Seal 篆書 | 說文‧刀部 (Shuōwén, secção 刀) |
+| Han | Seal 篆書 | 說文‧刀部 (Shuōwén, seção 刀) |
 | Western Han 西漢 | Clerical 隸書 | 武威簡.有司12 (Wǔwēi jiǎn, *Yǒusī* 12 — bambu Wuwei, *Funcionários*) |
 
 **Apenas duas formas listadas** — atestação magra. xiaoxue confirma 切 como caractere de uso Han em diante.
@@ -123,7 +123,7 @@ Tradução: "(切) é 刌 [cǔn — cortar]. **Os dois caracteres [切, 刌] sã
 
 **七 era originalmente o pictograma de corte — descoberta filológica**: 丁山 (séc. XX) propõe revisão importante: nas formas oracle e bronze, 七 (qī) **não era o numeral "sete"** mas o pictograma de **corte transversal** (當中切斷形). O numeral "sete" inicialmente partilhava grafia com 十 (= "10" hoje, mas com semântica de "completude" no Shang). Quando 七 foi reapropriado para o numeral "sete" (apropriação fonológica), o sentido original "corte" precisou de marcador semântico — daí 切 = 七 (corte transversal) + 刀 (faca). **切 é, em essência, "corte com corte" — duplicação semântica para fixar o sentido contra o uso numérico de 七**.
 
-**切 ↔ 刌 雙聲**: 段玉裁 documenta a equivalência 切/刌 (cǔn): 二字雙聲同義 ("os dois caracteres são aliterantes e sinónimos"). 刌 é forma antiga (古文) preservada no *Guwen Li* (《古文禮》); 切 é forma moderna (今文). Ambos descendem da mesma raiz fonológica /tsʰ-/ ~ /ts-/ com semântica "cortar".
+**切 ↔ 刌 雙聲**: 段玉裁 documenta a equivalência 切/刌 (cǔn): 二字雙聲同義 ("os dois caracteres são aliterantes e sinônimos"). 刌 é forma antiga (古文) preservada no *Guwen Li* (《古文禮》); 切 é forma moderna (今文). Ambos descendem da mesma raiz fonológica /tsʰ-/ ~ /ts-/ com semântica "cortar".
 
 **Cadeia semântica via 段玉裁**:
 1. **刌** (cortar) — sentido original concreto (carne, marfim, osso).
