@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 本 (Bun — Běn / bun2)"
 date: '2026-04-25T00:17:57+01:00'
-summary: "Análise etimológica de 本 (Běn / bun2), 'raiz; origem; fundamento'. Shuowen: 木下曰本 ('a parte inferior da árvore chama-se 本'). Composto semântico-indicativo: 木 (árvore) + 一 (traço horizontal abaixo, marcando a raiz). 段注 de Duan Yucai: 一，記其處也 ('o 一 regista a posição'). Pictograma zhǐshì (指示) clássico — indicação posicional. Por extensão: origem, fundamento, o que é próprio. No Hai Tong, aparece em bun nang 本能 ('instinto' — reação original/raiz do corpo). Sete fontes consultadas."
+summary: "Análise etimológica de 本 (Běn / bun2), 'raiz; origem; fundamento'. Shuowen: 木下曰本 ('a parte inferior da árvore chama-se 本'). Composto semântico-indicativo: 木 (árvore) + 一 (traço horizontal abaixo, marcando a raiz). 段注 de Duan Yucai: 一，記其處也 ('o 一 registra a posição'). Pictograma zhǐshì (指示) clássico — indicação posicional. Por extensão: origem, fundamento, o que é próprio. No Hai Tong, aparece em bun nang 本能 ('instinto' — reação original/raiz do corpo). Sete fontes consultadas."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 category: etymology
@@ -66,7 +66,7 @@ Atestação (xiaoxue): bronzes Zhou, bambu Warring States, seal Shuowen.
 
 一，記其處也。本末朱皆同義。
 
-Tradução: "O 一 [nos caracteres 本 e 末] regista a posição. 本 [raiz], 末 [topo], 朱 [centro do tronco, vermelho] têm o mesmo princípio [de formação gráfica]."
+Tradução: "O 一 [nos caracteres 本 e 末] registra a posição. 本 [raiz], 末 [topo], 朱 [centro do tronco, vermelho] têm o mesmo princípio [de formação gráfica]."
 
 段玉裁 identifica os três caracteres como exemplos paradigmáticos da categoria 指示 (indicativa) dos 六書: a marca 一 em posições distintas no mesmo pictograma base (木) gera distinções semânticas posicionais. 本 (raiz, embaixo) / 末 (topo, em cima) / 朱 (tronco central, 朱 é o "vermelho do tronco cortado") formam trio sistemático.
 
