@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 南 (Naam — Nán / naam4)"
 date: '2026-04-24T20:06:37+01:00'
-summary: "Análise etimológica de 南 (Nán / naam4), 'sul; direção sul'. Shuowen: 艸木至南方，有枝任也 ('plantas e árvores ao chegar ao sul, os ramos carregam [frutos]'). Composto: 𣎵 (variante de 巿/木) + 𢆉 (fonético). 段注 de Duan Yucai cita o Hànlǜlìzhì: 大陽者南方 ('o grande Yang é o sul'); explica que a estação equivalente é o verão, quando as plantas frutificam. Forma guwen registada: 𡴖. Atestado em oracle bones Shang — termo direcional antigo. No Hai Tong, aparece em ji nam cham 指南針 ('agulha apontando o sul' — bússola). Sete fontes consultadas."
+summary: "Análise etimológica de 南 (Nán / naam4), 'sul; direção sul'. Shuowen: 艸木至南方，有枝任也 ('plantas e árvores ao chegar ao sul, os ramos carregam [frutos]'). Composto: 𣎵 (variante de 巿/木) + 𢆉 (fonético). 段注 de Duan Yucai cita o Hànlǜlìzhì: 大陽者南方 ('o grande Yang é o sul'); explica que a estação equivalente é o verão, quando as plantas frutificam. Forma guwen registrada: 𡴖. Atestado em oracle bones Shang — termo direcional antigo. No Hai Tong, aparece em ji nam cham 指南針 ('agulha apontando o sul' — bússola). Sete fontes consultadas."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 category: etymology
@@ -110,7 +110,7 @@ A atestação oracular massiva (pelo menos 6 atestações Shang) confirma 南 co
 
 **Caracter pictograma — plantas/árvores vs "sul" abstrato**: O Shuowen e 段注 oferecem explicação cosmológica ("plantas carregando no sul-verão"), mas a análise paleográfica moderna tende a ler o pictograma oracular como instrumento musical suspenso (uma campainha ou cetro de bronze) ou recipiente ritual — a etimologia Shuowen é reanálise Han tardia, não leitura oracular primária. Esta é divergência típica entre tradição filológica chinesa e paleografia moderna.
 
-**Intercambialidade 南/男 em textos antigos**: 段玉裁 regista 古南男二字相假借 ("南 e 男 eram mutuamente emprestados na antiguidade"). Os dois caracteres compartilham inicial, vogal e grupo rímico 侵 — homofonia praticamente total em Old Chinese. A distribuição moderna (南 "sul", 男 "macho") é padronização pós-Han.
+**Intercambialidade 南/男 em textos antigos**: 段玉裁 registra 古南男二字相假借 ("南 e 男 eram mutuamente emprestados na antiguidade"). Os dois caracteres compartilham inicial, vogal e grupo rímico 侵 — homofonia praticamente total em Old Chinese. A distribuição moderna (南 "sul", 男 "macho") é padronização pós-Han.
 
 **Leitura *nā* budista (acepção 7)**: A leitura 南 como *nā* em 南無 (*nāmó*) é transliteração do sânscrito *Namas* (saudação, refúgio). Esta é leitura paralela ao caso de 佛 (transliteração de *Buddha*) — ambos integrados ao chinês pela via budista. As grafias alternativas (南膜, 那謨, 南摩, 納慕 etc.) mostram a variabilidade da transliteração antes da padronização.
 
