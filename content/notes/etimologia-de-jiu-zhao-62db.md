@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 招 (Jiu — Zhāo / ziu1)"
 date: '2026-04-24T12:17:06+01:00'
-summary: "Análise etimológica de 招 (Zhāo / ziu1), 'chamar com a mão, acenar, convocar'. Shuowen: 手呼也 ('chamar com a mão'). Composto fonossemântico: 手 (mão) + 召 (fonético, zhào — chamar). 段注 de Duan Yucai distingue: 呼 é chamar com expiração (boca), 招 é chamar com a mão — mas cita a Ode 'Páo Yǒu Kǔ Yè' que estende: 招招 pode ser chamar tanto com mão como com voz. A acepção 11 do chardb regista o uso marcial: 一種武術動作。引申為手段、計策 ('um movimento marcial; por extensão, estratagema'). No Hai Tong, aparece em jiu sik 招式 (técnica). Sete fontes consultadas."
+summary: "Análise etimológica de 招 (Zhāo / ziu1), 'chamar com a mão, acenar, convocar'. Shuowen: 手呼也 ('chamar com a mão'). Composto fonossemântico: 手 (mão) + 召 (fonético, zhào — chamar). 段注 de Duan Yucai distingue: 呼 é chamar com expiração (boca), 招 é chamar com a mão — mas cita a Ode 'Páo Yǒu Kǔ Yè' que estende: 招招 pode ser chamar tanto com mão como com voz. A acepção 11 do chardb registra o uso marcial: 一種武術動作。引申為手段、計策 ('um movimento marcial; por extensão, estratagema'). No Hai Tong, aparece em jiu sik 招式 (técnica). Sete fontes consultadas."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 category: etymology
@@ -78,7 +78,7 @@ Tradução: "(招) é chamar com a mão [手𧦝]. 𧦝 nas várias edições es
 
 | Período | Script | Fonte/Artefato |
 |---------|--------|----------------|
-| Han | Seal 篆書 | 說文·手部 (Shuōwén, secção 手) |
+| Han | Seal 篆書 | 說文·手部 (Shuōwén, seção 手) |
 | Western Han 西漢 | Clerical 隸書 | 縱橫家書214 (Zònghéngjiā shū 214) |
 | Eastern Han 東漢 | Clerical 隸書 | 鮮于璜碑 (Xiānyú Huáng bēi — estela de Xianyu Huang) |
 | Eastern Han 東漢 | Clerical 隸書 | 夏承碑 (Xià Chéng bēi — estela de Xia Cheng) |
@@ -103,10 +103,10 @@ Tradução: "(招) é chamar com a mão [手𧦝]. 𧦝 nas várias edições es
 
 #### Divergências entre fontes
 
-**Atestação em bronzes — 0 (xiaoxue) vs 2 (hanziyuan)**: hanziyuan regista 2 bronzes (B16386, B16387); o xiaoxue não lista nenhum bronze. Esta é a inversa da divergência vista em 斬 e 守. Provavelmente os espécimes hanziyuan são leituras disputadas — 招 tem componentes (手 + 召) que podem ser lidos como outros grafemas em bronzes Shang-Zhou. Sem atestação oracular, a grafia estabilizou-se no Warring States/Han.
+**Atestação em bronzes — 0 (xiaoxue) vs 2 (hanziyuan)**: hanziyuan registra 2 bronzes (B16386, B16387); o xiaoxue não lista nenhum bronze. Esta é a inversa da divergência vista em 斬 e 守. Provavelmente os espécimes hanziyuan são leituras disputadas — 招 tem componentes (手 + 召) que podem ser lidos como outros grafemas em bronzes Shang-Zhou. Sem atestação oracular, a grafia estabilizou-se no Warring States/Han.
 
 **Glosa Shuowen "手呼也" — variação textual 𧦝/呼**: O 段注 corrige explicitamente: 𧦝各本作呼，今正 ("nas várias edições escreve-se 呼; corrigimos aqui [para 𧦝]"). Duan defende que 呼 (exalar) não é apropriado para a leitura original, sendo 𧦝 (convocar) mais preciso — chamar com mão, não com boca. Depois, porém, cita as Odes para estender o uso a ambos (mão e voz). A correção textual não afeta o significado central ("convocar"), mas reforça que a mão é o modo primário.
 
-**Leituras adicionais qiáo e sháo**: chardb e hanziyuan registam três leituras — zhāo (principal), qiáo, sháo. O Guangyun só regista zhāo (止遙切). As leituras secundárias aparecem associadas às acepções 13 (通昭 — qiáo, "manifesto") e 16 (通韶 — sháo, peça musical), ambas por empréstimo gráfico. São leituras parasitárias, não fonologicamente derivadas do núcleo.
+**Leituras adicionais qiáo e sháo**: chardb e hanziyuan registram três leituras — zhāo (principal), qiáo, sháo. O Guangyun só registra zhāo (止遙切). As leituras secundárias aparecem associadas às acepções 13 (通昭 — qiáo, "manifesto") e 16 (通韶 — sháo, peça musical), ambas por empréstimo gráfico. São leituras parasitárias, não fonologicamente derivadas do núcleo.
 
 **Uso marcial de 招 como "técnica/golpe"**: A acepção 11 do chardb — 一種武術動作。引申為手段、計策 — documenta que o sentido de "movimento marcial" é extensão tardia, não original. O caminho semântico: chamar/acenar com a mão → gesto codificado → gesto marcial codificado → técnica/golpe → estratagema. Esta cadeia esclarece por que em artes marciais chinesas as "técnicas" são chamadas 招 (gestos de convocação/acenar) e não 式 (normas/modelos) exclusivamente — embora ambas se combinem em 招式.
