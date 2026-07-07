@@ -13,6 +13,8 @@ sources:
 
 **00:28:50** — Penso, logo existo — e a depressão como perda da causa eficiente
 
-Aplicada ao comportamento humano, a causa eficiente é o próprio comportamento — o carpinteiro que põe o cérebro em movimento. Numa ponte com o cogito cartesiano, os hosts argumentam que o pensamento gera existência e a existência gera movimento: você só sabe que é você mesmo porque age no mundo. Daí uma releitura da depressão: nomeada como redução de atividade, ela faz a pessoa deixar de agir e, portanto, de se reconhecer, porque o reconhecimento de si só ocorre em movimento. Perdida a causa eficiente, instala-se um ciclo de inatividade que, em última análise, leva à morte.
+Aplicada ao comportamento humano, a causa eficiente é o próprio comportamento — o carpinteiro que põe o cérebro em movimento. Numa ponte com o cogito cartesiano, os hosts argumentam que o pensamento gera existência e a existência gera movimento: você só sabe que é você mesmo porque age no mundo. Daí uma releitura da depressão: nomeada como redução de atividade, ela faz a pessoa deixar de agir e, portanto, de se reconhecer, porque o reconhecimento de si só ocorre em movimento. Perdida a causa eficiente, instala-se um ciclo de inatividade que leva à morte.
 
 Ver também [Je me révolte, donc nous sommes](/notes/camus-je-me-revolte-donc-nous-sommes/): outra reformulação do *cogito* cartesiano, na qual Camus funda a certeza não no eu, mas na revolta que descobre o nós.
+
+A causa eficiente é uma das [quatro causas de Aristóteles](/notes/quatro-causas-de-aristoteles/).

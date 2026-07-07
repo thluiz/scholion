@@ -14,3 +14,5 @@ sources:
 **00:34:55** — O futuro do conhecimento — e usar os dois pés para andar
 
 O encerramento retoma o quadro Escola de Atenas, de Rafael. Aristóteles aponta para baixo enquanto Platão aponta para cima, para o céu e para Deus, de onde viria a grande causa única de tudo; o gesto de Aristóteles é o convite a olhar para o chão e usar os dois pés para andar — a defesa das múltiplas causas do mundo sensível. Os hosts fecham propondo as quatro causas como o futuro da construção do conhecimento, ferramenta de integração entre as áreas, mas ressalvam: uma técnica útil, e não uma verdade absoluta.
+
+Ver as [quatro causas de Aristóteles](/notes/quatro-causas-de-aristoteles/).
