@@ -138,7 +138,7 @@ Tradução: "斆 e 覺 são **曡韵** [aliteração rímica — método de glos
 - **爻** (yáo) — "linhas / símbolos do Yijing", representando o conteúdo simbólico transmitido. hanziyuan: "indicates what is written".
 - **子** (zǐ) — "criança", recipiente da transmissão.
 
-A imagem pictográfica é então: **mãos adultas sustentando símbolos transmitidos para a criança**. Esta é a conceção primária do "aprender" no chinês antigo — não absorção solitária mas relação intergeracional concreta.
+A imagem pictográfica é então: **mãos adultas sustentando símbolos transmitidos para a criança**. Esta é a concepção primária do "aprender" no chinês antigo — não absorção solitária mas relação intergeracional concreta.
 
 **Sentido "覺悟" (despertar/iluminar-se) — Shuowen**: O Shuowen define 學 como 覺悟 (despertar do entendimento). Esta é leitura forte: aprender não é acumular dados mas **ser despertado** para o que estava velado. 段玉裁 cita o *Xueji* (《學記》, capítulo do *Liji* dedicado ao aprender): 學然後知不足 ("apenas após estudar é que se conhece a própria insuficiência"). Aprender é, primariamente, **descobrir o que ainda não se sabe** — gesto auto-reflexivo. O sentido moderno de "aprender uma matéria/disciplina" é derivado.
 
