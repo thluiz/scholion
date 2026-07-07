@@ -105,4 +105,4 @@ A coexistência de duas grafias para o mesmo lexema, com radicais distintos mas 
 
 **Paralelo com 冚**: ambos [冚](/notes/etimologia-de-gam-kan-519a/) e 踭 são caracteres técnicos do léxico marcial cantonês de circulação predominantemente regional. 冚 é exclusivamente dialetal, sem ancestral gráfico clássico; 踭 tem ancestral via 㬹 no Kangxi. Em ambos, o vocabulário marcial do Ving Tsun preserva camadas linguísticas do cantonês vernacular fora do mandarim padrão.
 
-**Relação com caracteres clássicos sinónimos**: Em chinês clássico, "cotovelo" é 肘 (zhǒu); "calcanhar" é 踵 (zhǒng) ou 跟 (gēn). 踭/㬹 é grafia regional para um lexema cantonês/hakka sem equivalente clássico direto — não evolução interna do mandarim mas inovação gráfica para um morfema do sul.
+**Relação com caracteres clássicos sinônimos**: Em chinês clássico, "cotovelo" é 肘 (zhǒu); "calcanhar" é 踵 (zhǒng) ou 跟 (gēn). 踭/㬹 é grafia regional para um lexema cantonês/hakka sem equivalente clássico direto — não evolução interna do mandarim mas inovação gráfica para um morfema do sul.
