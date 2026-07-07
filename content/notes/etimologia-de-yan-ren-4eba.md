@@ -56,7 +56,7 @@ Atestação massiva (xiaoxue): caracter fundacional do léxico, presente em toda
 
 #### Shuowen Jiezi completo (via zdic.net)
 
-**說文**: 天地之性最貴者也。此籒文。象臂脛之形。凡人之屬皆从人。如鄰切。 (O mais nobre entre os seres de Céu e Terra. Esta é a forma zhouwen. Pictograma da forma de braços e pernas. Todos os caracteres da secção 人 seguem 人. Fanqie: 如鄰切.)
+**說文**: 天地之性最貴者也。此籒文。象臂脛之形。凡人之屬皆从人。如鄰切。 (O mais nobre entre os seres de Céu e Terra. Esta é a forma zhouwen. Pictograma da forma de braços e pernas. Todos os caracteres da seção 人 seguem 人. Fanqie: 如鄰切.)
 
 **段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido):
 
