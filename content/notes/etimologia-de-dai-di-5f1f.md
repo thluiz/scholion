@@ -49,7 +49,7 @@ Caractere central do vocabulário de discipulado e fraternidade no Hai Tong de M
 6. 後 (depois; em seguida)
 7. 通「第」 (intercambiável com 第: conjunção hipotética; advérbio "apesar"; mansões aristocráticas)
 8. 姓 (sobrenome)
-9. 同「悌」 (= 悌: respeito filial pelos mais velhos; carácter afável)
+9. 同「悌」 (= 悌: respeito filial pelos mais velhos; caractere afável)
 10. ［弟靡］頹唐，柔順 (em 弟靡 dì mí: enfraquecido, dócil)
 
 #### Decomposição e formas antigas ([hanziyuan](https://hanziyuan.net/#弟))
