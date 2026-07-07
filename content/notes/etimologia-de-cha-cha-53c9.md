@@ -63,7 +63,7 @@ A análise é compacta e transparente: 叉 é pictograma do **gesto manual de cr
 |---------|--------|----------------|-------|
 | Han Oriental | seal | 說文‧又部 (Shuowen, seção 又) | seal pequeno |
 
-Apenas 1 atestação registrada pelo xiaoxue (Shuowen seal). Caractere de fixação grafica relativamente tardia, embora o gesto e o objeto sejam antiquíssimos.
+Apenas 1 atestação registrada pelo xiaoxue (Shuowen seal). Caractere de fixação gráfica relativamente tardia, embora o gesto e o objeto sejam antiquíssimos.
 
 **Shuowen (xiaoxue)**: 叉，手指相錯也。从又，象叉之形 (texto completo).
 
