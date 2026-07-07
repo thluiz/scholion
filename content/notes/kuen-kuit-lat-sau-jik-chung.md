@@ -1,7 +1,7 @@
 ---
 title: 'Kuen Kuit: 甩手直衝 (Lat Sau Jik Chung)'
 date: 2026-07-06T20:46:03+01:00
-summary: 'Kuen Kuit do Ving Tsun situado por Si Gung no Programa de Mestrado (PMYVTIM 2017, SNT §F3.2.1.3), no Siu Nim Tau. Lê-se Lat Sau Jik Chung (Cantonês) ou Shuǎi Shǒu Zhí Chōng (Mandarim). Leitura corrente: quando a mão se solta, o impulso reto avança. Livre do contato, o gesto vai à frente sem intervalo.'
+summary: 'Kuen Kuit do Ving Tsun. Si Gung o colocou como corolário do Luk Sau no final do Siu Nim Tau. Lê-se Lat Sau Jik Chung (Cantonês) ou Shuǎi Shǒu Zhí Chōng (Mandarim). Leitura corrente: quando a mão se solta, o impulso reto avança. Livre do contato, o gesto vai à frente sem intervalo.'
 tags: ["china", "linguagem", "kung-fu", "ving-tsun", "kuen-kuit", "ideogramas"]
 has_commentary: true
 sources:
@@ -12,7 +12,7 @@ sources:
   kind: wiki
 ---
 
-**甩手直衝** (*Lat Sau Jik Chung* em Cantonês; *Shuǎi Shǒu Zhí Chōng* em Mandarim) é um dos Kuen Kuit (拳訣, "fórmulas de punho") do Ving Tsun. Si Gung situou-o no Programa de Mestrado do Clã Moy Jo Lei Ou (PMYVTIM 2017, SNT §F3.2.1.3), no Siu Nim Tau, ligado ao Luk Sau 轆手 e ao Chi Sau 黐手: no rolar das mãos, quando uma porta se abre e a mão se solta, o impulso reto entra.
+**甩手直衝** (*Lat Sau Jik Chung* em Cantonês; *Shuǎi Shǒu Zhí Chōng* em Mandarim) é um dos Kuen Kuit (拳訣) do Ving Tsun. Si Gung situou-o do Siu Nim Tau, ligado ao Luk Sau 轆手 e ao Chi Sau 黐手: no rolar das mãos, quando uma porta se abre e a mão se solta, o impulso reto entra.
 
 ### Decomposição literal
 
@@ -27,4 +27,8 @@ sources:
 
 ### No sistema
 
-No Luk Sau e no Chi Sau o princípio é operacional. Enquanto há contato, as mãos rolam e se controlam. Quando uma porta se abre, quando o adversário retira a mão ou perde o encosto, é aí que 甩手直衝 opera: a mão livre avança reto pela abertura, e o que preenche o vazio deixado pelo contato é o próprio ataque. Complementa o [打手即消手](/notes/kuen-kuit-da-sau-jik-siu-sau/): lá, atacar e dispersar são o mesmo gesto; aqui, soltar e avançar não têm intervalo entre si.
+No Luk Sau e no Chi Sau o princípio é operacional. Enquanto há contato, as mãos rolam e se controlam. Quando uma porta se abre ou perde o contato a mão livre avança reto pela abertura. O que preenche o vazio deixado pelo contato é o próprio ataque. 
+
+Complementa o [打手即消手](/notes/kuen-kuit-da-sau-jik-siu-sau/): lá, atacar e dispersar são o mesmo gesto; aqui, soltar e avançar não têm intervalo entre si.
+
+Si Baak Anderson Maia destacou que ele rima com [Kuen Mo Lai Yeung 拳無禮讓](https://silva.thluiz.com/posts/kuen-mo-lai-yeung-gwan-mo-leung-heung/).
