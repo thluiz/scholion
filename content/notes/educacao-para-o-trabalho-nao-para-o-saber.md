@@ -14,3 +14,5 @@ sources:
 **00:19:56** — Educação para o trabalho, não para o saber
 
 A crítica central do episódio à educação moderna. Enquanto método, as quatro causas organizam o pensamento e testam explicações razoáveis para os fenômenos; mas quando a educação passa a ser orientada para o trabalho, e não para o saber, ela se torna contraproducente. Cada curso fica preso a algumas causas — a engenharia às causas material e formal, por exemplo — e o conhecimento se fragmenta em disciplinas curriculares. No método aristotélico não há currículo: você estuda o que for necessário para resolver as causas de um problema.
+
+Ver também [Non scholae sed vitae discimus](/notes/non-scholae-sed-vitae-discimus-inversao/): a mesma crítica é o que Sêneca de fato escreveu — *non vitae sed scholae discimus*, aprendemos para a escola e não para a vida.
