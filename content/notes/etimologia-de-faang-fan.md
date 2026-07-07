@@ -71,7 +71,7 @@ Shuowen (hanziyuan): 艸也從艸氾聲 ("planta; de 艸 com 氾 como fonético"
 Regras aplicadas (Sears): A061 范[範] — "borrowed-for-sound" (empréstimo fonético): 范 (planta, abelha) emprestou a grafia a 範 (padrão) na simplificação.
 Formas atestadas: Oracle 0 · Bronze 0 · Seal 1 (S00733) · Liushutong 16.
 
-Para a forma tradicional 範 (Shuowen: 範軷也從車范省聲讀與犯同 — "cerimónia de oferenda ao espírito do caminho; de 車 com 范 [reduzido] como fonético; pronuncia-se como 犯"): Oracle 0 · Bronze 0 · Seal 1 · Liushutong 2.
+Para a forma tradicional 範 (Shuowen: 範軷也從車范省聲讀與犯同 — "cerimônia de oferenda ao espírito do caminho; de 車 com 范 [reduzido] como fonético; pronuncia-se como 犯"): Oracle 0 · Bronze 0 · Seal 1 · Liushutong 2.
 
 ### Shuowen Jiezi completo (shuowen.org)
 
@@ -79,7 +79,7 @@ Para a forma tradicional 範 (Shuowen: 範軷也從車范省聲讀與犯同 — 
 
 **段注 Duan Yucai**: (não retornou dados — shuowen.org não foi acessado diretamente para este caractere; o xiaoxue preserva o Shuowen básico, sem comentário do Duan).
 
-Entrada relacionada para 範: 「範軷也。从車，笵省聲。讀與犯同。」 ("Fàn: cerimónia de libação antes de viagem (軷). De 車 [carro] com 笵 [reduzido] como fonético. Lê-se como 犯.")
+Entrada relacionada para 範: 「範軷也。从車，笵省聲。讀與犯同。」 ("Fàn: cerimônia de libação antes de viagem (軷). De 車 [carro] com 笵 [reduzido] como fonético. Lê-se como 犯.")
 
 ### Evolução de formas (xiaoxue yanbian)
 
