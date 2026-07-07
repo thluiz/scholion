@@ -69,7 +69,7 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 1 (S08159) · Liushutong 0
 
 (派)別水也。吳都賦。百川派別。劉逵注引字說曰。水別流爲派。从水𠂢。𠂢亦聲。匹賣切。十六部。按衆經音義兩引說文𠂢、水之衺流別也以釋派。韵會曰。派本作𠂢。从反永。引鍇云今人又增水作派。據此、則說文本有𠂢無派。今鍇、鉉本水部派字當刪。
 
-Tradução: "(派) é 'água que se ramifica.' O *Wúdū fù* [Rapsódia da capital Wu] diz: '百川派別 — cem rios ramificam-se.' O comentário de Liu Kui cita o *Zìshuō* [Explicação dos caracteres]: 'Quando a água se separa em correntes, chama-se 派.' De 水, de 𠂢. 𠂢 é também o fonético. Fanqie: 匹賣切. Grupo rímico 16. Observe-se que o *Zhòngjīng yīnyì* [Pronúncias e significados dos múltiplos clássicos] cita duas vezes o Shuowen: '𠂢 é a água que corre de viés e se ramifica' — para explicar 派. O *Yùnhuì* [Coletânea de rimas] diz: '派 originalmente escreve-se 𠂢; formado por 永 invertido. Cita Xú Kǎi: os contemporâneos acrescentaram 水 formando 派.' Com base nisto, o texto original do Shuowen tinha 𠂢 sem 派. Nas edições actuais de Xú Kǎi e Xú Xuàn, a entrada 派 na secção 水 deve ser eliminada."
+Tradução: "(派) é 'água que se ramifica.' O *Wúdū fù* [Rapsódia da capital Wu] diz: '百川派別 — cem rios ramificam-se.' O comentário de Liu Kui cita o *Zìshuō* [Explicação dos caracteres]: 'Quando a água se separa em correntes, chama-se 派.' De 水, de 𠂢. 𠂢 é também o fonético. Fanqie: 匹賣切. Grupo rímico 16. Observe-se que o *Zhòngjīng yīnyì* [Pronúncias e significados dos múltiplos clássicos] cita duas vezes o Shuowen: '𠂢 é a água que corre de viés e se ramifica' — para explicar 派. O *Yùnhuì* [Coletânea de rimas] diz: '派 originalmente escreve-se 𠂢; formado por 永 invertido. Cita Xú Kǎi: os contemporâneos acrescentaram 水 formando 派.' Com base nisto, o texto original do Shuowen tinha 𠂢 sem 派. Nas edições atuais de Xú Kǎi e Xú Xuàn, a entrada 派 na seção 水 deve ser eliminada."
 
 Esta é uma intervenção filológica radical — 段玉裁 defende que 派 **nem deveria constar do Shuowen**, sendo adição pós-Han. O carácter original da "ramificação aquática" seria simplesmente 𠂢.
 
@@ -77,7 +77,7 @@ Esta é uma intervenção filológica radical — 段玉裁 defende que 派 **ne
 
 | Período | Script | Fonte/Artefato |
 |---------|--------|----------------|
-| Han | Seal 篆書 | 說文·水部 (Shuōwén, secção 水) |
+| Han | Seal 篆書 | 說文·水部 (Shuōwén, seção 水) |
 
 Atestação epigráfica mínima — apenas o selo do Shuowen. Consistente com a hipótese de Duan de que o caractere é adição tardia.
 
@@ -101,9 +101,9 @@ Atestação epigráfica mínima — apenas o selo do Shuowen. Consistente com a 
 
 #### Divergências entre fontes
 
-**Existência no Shuowen original — defendida (texto recebido) vs negada (段注)**: O texto do Shuowen que chegou até nós (via edições Xu Xuan/Xu Kai) inclui a entrada 派. Mas 段玉裁 argumenta, com base no *Yunhui* e no *Zhongjing yinyi*, que o caractere original era apenas 𠂢 e que 派 é adição pós-Han. A recomendação explícita do 段注 — "今鍇、鉉本水部派字當刪" ("nas edições actuais deve-se eliminar a entrada 派") — é das mais radicais do seu comentário. Este é um caso onde o comentário filológico contradiz o texto base.
+**Existência no Shuowen original — defendida (texto recebido) vs negada (段注)**: O texto do Shuowen que chegou até nós (via edições Xu Xuan/Xu Kai) inclui a entrada 派. Mas 段玉裁 argumenta, com base no *Yunhui* e no *Zhongjing yinyi*, que o caractere original era apenas 𠂢 e que 派 é adição pós-Han. A recomendação explícita do 段注 — "今鍇、鉉本水部派字當刪" ("nas edições atuais deve-se eliminar a entrada 派") — é das mais radicais do seu comentário. Este é um caso onde o comentário filológico contradiz o texto base.
 
-**Fanqie — 匹賣切 (Shuowen) vs 匹卦切 (Guangyun)**: zdic regista 匹賣切; xiaoxue Guangyun regista 匹卦. Ambos convergem em inicial 滂 (pʰ-) e rima 蟹攝 (xiè shè), mas diferem no caractere inferior do fanqie. Variantes menores entre edições.
+**Fanqie — 匹賣切 (Shuowen) vs 匹卦切 (Guangyun)**: zdic registra 匹賣切; xiaoxue Guangyun registra 匹卦. Ambos convergem em inicial 滂 (pʰ-) e rima 蟹攝 (xiè shè), mas diferem no caractere inferior do fanqie. Variantes menores entre edições.
 
 **Grupo rímico arcaico — 支 (zhī) vs 佳 (jiā)**: Wang Li e Zhou Fagao colocam 派 no grupo 支; Dong Tonghe e Li Fanggui no grupo 佳. Os grupos 支/佳 são relacionados (partilham núcleo -e/-eɡ) mas distintos quanto a *glide* medial. É divergência estrutural, não mera nomenclatura.
 
