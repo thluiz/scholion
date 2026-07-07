@@ -93,7 +93,7 @@ Atestação massiva e estável desde Shang (oracle bones), bronzes, bambu. Carac
 
 **Cosmologia tripartite — 三才 (Céu, Terra, Humanidade)**: A definição Shuowen coloca 三 no centro da cosmologia chinesa. A tríade 天地人 é estrutura permanente do pensamento filosófico-religioso chinês — presente no *Yìjīng*, no taoismo, no confucionismo. O número três adquire centralidade cósmica que transcende a mera contagem numérica.
 
-**Convergência fonológica 侵部**: Cinco sistemas unanimes em 侵 (qīn). Mesmo grupo de 南 (naam). Campo fonológico arcaico da nasal final -m.
+**Convergência fonológica 侵部**: Cinco sistemas unânimes em 侵 (qīn). Mesmo grupo de 南 (naam). Campo fonológico arcaico da nasal final -m.
 
 **Saam Baai Fat 三拜佛 no Hai Tong**: No composto 三拜佛 ("três reverências ao Buda"), 三 é contagem literal. No Hai Tong, Moy Yat menciona que algumas ramificações do Ving Tsun interpretam os jiu sik finais do Biu Ji como 三拜佛 (três reverências rituais), mas esclarece que o significado real de Biu Ji é outro (借喻指南針, "tomar a bússola como comparativo").
 
