@@ -82,7 +82,7 @@ Formas atestadas (hanziyuan): Oracle 0 · Bronze 3 (B01382–B01384) · Seal 1 (
 
 **說文** (sob o lemma 咊, forma arcaica): 咊，相譍也。从口，禾聲。戶戈切。 ("Hé [咊]: corresponder-se mutuamente. Composto de 口 (boca, semântico) com 禾 (fonético). Fanqie: 戶戈.")
 
-**段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido para este caractere): (和)相應也。从口。禾聲。古唱和字不讀去聲。戶戈切。十七部。 ("[和] 'corresponder-se'. Composto de 口 (boca, semântico) com 禾 (fonético). Na antiguidade o caractere 和 no sentido de 'cantar em resposta' (唱和) NÃO era lido em 去聲 [tom decrescente] — a distinção tonal hè (去聲) é inovação posterior. Fanqie 戶戈. 17ª secção de rima.")
+**段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido para este caractere): (和)相應也。从口。禾聲。古唱和字不讀去聲。戶戈切。十七部。 ("[和] 'corresponder-se'. Composto de 口 (boca, semântico) com 禾 (fonético). Na antiguidade o caractere 和 no sentido de 'cantar em resposta' (唱和) NÃO era lido em 去聲 [tom decrescente] — a distinção tonal hè (去聲) é inovação posterior. Fanqie 戶戈. 17ª seção de rima.")
 
 ### Evolução de formas (xiaoxue yanbian)
 
