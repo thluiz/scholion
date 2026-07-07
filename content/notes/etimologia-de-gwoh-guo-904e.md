@@ -69,7 +69,7 @@ sources:
 
 #### Decomposição e formas antigas (hanziyuan)
 
-Componentes: **辶/辵** (*chuò*, caminhar, eixo do movimento — semântico) + **咼** (*guō*, "osso retorcido / boca torta" — fonético; em OC reconstroi-se com inicial labiovelar kw-, série 咼/過/禍/鍋).
+Componentes: **辶/辵** (*chuò*, caminhar, eixo do movimento — semântico) + **咼** (*guō*, "osso retorcido / boca torta" — fonético; em OC reconstrói-se com inicial labiovelar kw-, série 咼/過/禍/鍋).
 Significado original (Sears): *pass through* — passar através.
 Exemplo de uso: 過去 guò qù (passar; passado).
 Frequência (Sears): 54 (entre as mais altas — palavra de uso constante).
