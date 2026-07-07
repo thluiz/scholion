@@ -101,7 +101,7 @@ Atestação consolidada Han em diante.
 
 #### Divergências entre fontes
 
-**Múltiplas leituras — tonogénese elaborada**: 數 tem ao menos 5 leituras históricas:
+**Múltiplas leituras — tonogênese elaborada**: 數 tem ao menos 5 leituras históricas:
 - shǔ (上聲, "contar" — verbo)
 - shù (去聲, "número" — substantivo)
 - shuò (入聲, "repetidamente")
