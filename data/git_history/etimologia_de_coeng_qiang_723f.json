@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-07-07",
+    "subject": "fix: regenera etimologia de 爿 (auditoria de fontes, radical Kangxi 90)"
+  },
+  {
+    "date": "2026-07-07",
+    "subject": "fix: regenera etimologia de 白 (auditoria de fontes, radical Kangxi 106)"
+  },
+  {
     "date": "2026-07-06",
     "subject": "historicos"
   }
