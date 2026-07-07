@@ -99,7 +99,7 @@ Tradução: "(𨑡) é caminhar a pé. *Yijing*, *Bi* (賁), primeira linha fort
 | Warring States middle, Chu 戰國中期·楚 | Bronze 金文 | 鄂君啟車節 (È Jūn Qǐ chē jié — Selo de Trânsito do Senhor Qi de È) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 包2.226 (Bāoshān 2.226) |
 | Warring States, Qin 戰國·秦 | Official seal 官印 | 官印0006 (Guān yìn 0006) |
-| Han | Seal 篆書 | 說文‧辵部 (Shuōwén, secção 辵) |
+| Han | Seal 篆書 | 說文‧辵部 (Shuōwén, seção 辵) |
 | Qin 秦 | Clerical 隸書 | 睡虎地簡11.20 (Shuìhǔdì jiǎn 11.20) |
 | Western Han 西漢 | Clerical 隸書 | 老子甲24 (Lǎozǐ jiǎ 24 — Mawangdui Laozi A) |
 | Eastern Han 東漢 | Clerical 隸書 | 孔龢碑 (Kǒng Hé bēi — Estela de Kong He) |
