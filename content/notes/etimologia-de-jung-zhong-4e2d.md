@@ -65,7 +65,7 @@ sources:
 22. 滿；充滿 (cheio; completamente preenchido)
 23. 中舉；通過科舉 (aprovar nos exames imperiais)
 24. 同「仲」 (mesmo que 仲 — segundo/meio)
-25. 古文字形變異 (variantes gráficas arcaicas registadas)
+25. 古文字形變異 (variantes gráficas arcaicas registradas)
 
 #### Decomposição e formas antigas ([hanziyuan](https://hanziyuan.net/#中))
 
@@ -74,7 +74,7 @@ Variante antiga: 𠁩 (U+20069)
 Significado original: centro
 Shuowen (hanziyuan): 和也從口｜上下通 (Harmonia. De 口, com 丨 atravessando de cima a baixo.)
 
-**Nota sobre a leitura hanziyuan**: hanziyuan regista 和也 ("harmonia"), mas o Shuowen padrão (e o 段注) regista 內也 ("o interior"). Ver divergências abaixo.
+**Nota sobre a leitura hanziyuan**: hanziyuan registra 和也 ("harmonia"), mas o Shuowen padrão (e o 段注) registra 內也 ("o interior"). Ver divergências abaixo.
 
 Decomposição alternativa do hanziyuan:
 - Originalmente pictograma de lançadeira/liço de tear (综 zōng)
@@ -109,7 +109,7 @@ Formas atestadas: Oracle 34 · Bronze 70 · Seal 1 · Liushutong 31
 | Warring States, Qin 戰國·秦 | Bell inscription 鐘銘 | 十鐘 (Shí zhōng) |
 | — | Ancient script 古文 | 說文古文 (Shuōwén gǔwén) |
 | — | Zhouwen 籀文 | 說文籀文 (Shuōwén zhòuwén) |
-| Han | Seal 篆書 | 說文·丨部 (Shuōwén, secção 丨) |
+| Han | Seal 篆書 | 說文·丨部 (Shuōwén, seção 丨) |
 | Qin 秦 | Clerical 隸書 | 睡·秦197 (Shuìhǔdì Qín 197) |
 | Qin 秦 | Clerical 隸書 | 五十二病方247 (Wǔshí'èr bìngfāng 247 — "52 Prescrições") |
 | Western Han 西漢 | Clerical 隸書 | 定縣竹簡139 (Dìngxiàn zhújiǎn 139) |
@@ -138,12 +138,12 @@ Formas atestadas: Oracle 34 · Bronze 70 · Seal 1 · Liushutong 31
 
 #### Divergências entre fontes
 
-**Glosa primária — 和也 "harmonia" vs 內也 "interior"**: O hanziyuan apresenta 和也從口｜上下通. O Shuowen padrão (via zdic) e o xiaoxue registam 內也. 段玉裁 explicita e refuta a leitura 和也: 俗本和也，非是。當作內也 ("as versões vulgares dizem 和; é erro; deve ser 內"). A variante de hanziyuan deriva de uma tradição textual contaminada. A leitura crítica consolidada desde Duan Yucai é 內也.
+**Glosa primária — 和也 "harmonia" vs 內也 "interior"**: O hanziyuan apresenta 和也從口｜上下通. O Shuowen padrão (via zdic) e o xiaoxue registram 內也. 段玉裁 explicita e refuta a leitura 和也: 俗本和也，非是。當作內也 ("as versões vulgares dizem 和; é erro; deve ser 內"). A variante de hanziyuan deriva de uma tradição textual contaminada. A leitura crítica consolidada desde Duan Yucai é 內也.
 
-**Pictograma — lançadeira de tear vs linha através de quadrado**: O hanziyuan regista duas interpretações: (1) originalmente pictograma de lançadeira/liço de tear (综 zōng), (2) leitura posterior como linha atravessando um quadrado que indica centro. As 34 formas em oracle bones mostram variantes com elementos laterais (frequentemente interpretados como faixas/estandartes flutuando), compatíveis com uma origem em instrumento/objeto cerimonial vertical, não com o "quadrado" geométrico que a simplificação tardia sugere.
+**Pictograma — lançadeira de tear vs linha através de quadrado**: O hanziyuan registra duas interpretações: (1) originalmente pictograma de lançadeira/liço de tear (综 zōng), (2) leitura posterior como linha atravessando um quadrado que indica centro. As 34 formas em oracle bones mostram variantes com elementos laterais (frequentemente interpretados como faixas/estandartes flutuando), compatíveis com uma origem em instrumento/objeto cerimonial vertical, não com o "quadrado" geométrico que a simplificação tardia sugere.
 
-**Classificação do radical**: chardb atribui 丨 (traço vertical). O Shuowen original classifica sob 丨部 (secção 丨, confirmado na referência "說文·丨部" do xiaoxue). Ambas convergem.
+**Classificação do radical**: chardb atribui 丨 (traço vertical). O Shuowen original classifica sob 丨部 (seção 丨, confirmado na referência "說文·丨部" do xiaoxue). Ambas convergem.
 
-**Leituras zhōng/zhòng e tonogénese**: zhōng (平聲, nível) é a leitura nominal ("centro"); zhòng (去聲, descendente) é derivada por transcategoria verbal ("acertar o centro → acertar"). O Guangyun regista os dois fanqie (陟弓 / 陟仲), evidenciando que a distinção já era sistemática no Tang. Esta é a tonogénese clássica chinesa — derivação verbo/aspecto por mudança de tom, sem afixo visível.
+**Leituras zhōng/zhòng e tonogênese**: zhōng (平聲, nível) é a leitura nominal ("centro"); zhòng (去聲, descendente) é derivada por transcategoria verbal ("acertar o centro → acertar"). O Guangyun registra os dois fanqie (陟弓 / 陟仲), evidenciando que a distinção já era sistemática no Tang. Esta é a tonogênese clássica chinesa — derivação verbo/aspecto por mudança de tom, sem afixo visível.
 
 **Grupo rímico arcaico — 冬 vs 中**: Wang Li coloca 中 no grupo 冬 (dōng); Dong Tonghe, Zhou Fagao e Li Fanggui criam um grupo distinto 中 (zhōng). As duas classificações referem-se substancialmente ao mesmo campo rímico arcaico; a divergência é nomenclatural (que caractere serve de nome do grupo) e não fonológica.
