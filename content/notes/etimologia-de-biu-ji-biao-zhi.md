@@ -119,7 +119,7 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 1 (S04129) · Liushutong 2
 
 **Significado primário — ponta vs. marca**: O Shuowen e chardb def.1 concordam no sentido primário: 木杪末 "pontas finas dos galhos" — o topo da árvore. O MDBG e CantoDict listam "mark/sign" como sentido principal, que é extensão semântica. O hanziyuan lista "meaning a sign" como significado original, divergindo do Shuowen. A 段注 de Duan Yucai esclarece a cadeia: a ponta está no topo (最上), por isso 標 passa a significar "destacar, sinalizar" (標舉), e daí "marca" (標志). A raiz é a ponta, não a marca.
 
-**Contagens de formas antigas**: O hanziyuan regista 0 Oracle, 0 Bronze, 1 Seal. O xiaoxue yanbian encontra 3 formas: 2 em bamboo slips do período Warring States (estado de Chu 楚) + 1 Seal do Shuowen. O xiaoxue é mais preciso — atesta que 標 já existia em escrita Chu antes da unificação Qin, dado que o hanziyuan omite.
+**Contagens de formas antigas**: O hanziyuan registra 0 Oracle, 0 Bronze, 1 Seal. O xiaoxue yanbian encontra 3 formas: 2 em bamboo slips do período Warring States (estado de Chu 楚) + 1 Seal do Shuowen. O xiaoxue é mais preciso — atesta que 標 já existia em escrita Chu antes da unificação Qin, dado que o hanziyuan omite.
 
 **段注 e a equivalência 標=表=剽**: Duan Yucai argumenta que 標, 表 e 剽 são a mesma palavra (「表剽皆同標」), todas significando "marca sutil" (微識). Isto não aparece em nenhuma outra fonte consultada e é uma contribuição filológica específica da 段注.
 
@@ -202,7 +202,7 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 1 (S08815) · Liushutong 6
 
 ### Divergências entre fontes
 
-**Contagens de formas antigas**: O hanziyuan regista 0 Oracle, 0 Bronze, 1 Seal, 6 Liushutong. O xiaoxue yanbian encontra 6 formas históricas: 1 Warring States Chu, 1 Shuowen Seal, 2 Qin clerical (incluindo o Shuihudi 睡虎地), 2 Eastern Han clerical. O xiaoxue é mais granular e historicamente preciso.
+**Contagens de formas antigas**: O hanziyuan registra 0 Oracle, 0 Bronze, 1 Seal, 6 Liushutong. O xiaoxue yanbian encontra 6 formas históricas: 1 Warring States Chu, 1 Shuowen Seal, 2 Qin clerical (incluindo o Shuihudi 睡虎地), 2 Eastern Han clerical. O xiaoxue é mais granular e historicamente preciso.
 
 **段注 e os nomes dos cinco dedos**: A 段注 de 指 preserva a nomenclatura clássica completa — 巨指/巨擘 (polegar), 食指/啑鹽指 (indicador, "dedo de beliscar sal"), 將指 (médio, "dedo comandante"), 無名指 (anelar), 小指 (mínimo). O termo 啑鹽指 para o indicador é particularmente raro.
 
