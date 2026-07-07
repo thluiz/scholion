@@ -71,7 +71,7 @@ Formas atestadas: Oracle 1 (J02172) · Bronze 1 (B01334) · Seal 1 (S00940) · L
 
 **說文**: 訊也。从口門聲。(Inquirir. De 口 [boca] com 門 como fonético.)
 
-**段注 Duan Yucai**: 訊也。言部曰。訊、問也。引伸爲禮之聘問。从口。門聲。亾運切。十三部。("Inquirir." A secção 言 [fala] diz: "訊 significa perguntar/interrogar." Por extensão semântica, refere-se ao ritual 聘問 [a visita diplomática cerimonial de inquirição]. De 口 [boca], com 門 como fonético. Fanqie: 亾運切. Pertence ao grupo rímico 13.)
+**段注 Duan Yucai**: 訊也。言部曰。訊、問也。引伸爲禮之聘問。从口。門聲。亾運切。十三部。("Inquirir." A seção 言 [fala] diz: "訊 significa perguntar/interrogar." Por extensão semântica, refere-se ao ritual 聘問 [a visita diplomática cerimonial de inquirição]. De 口 [boca], com 門 como fonético. Fanqie: 亾運切. Pertence ao grupo rímico 13.)
 
 ### Evolução de formas (xiaoxue yanbian)
 
@@ -115,5 +115,5 @@ Formas atestadas: Oracle 1 (J02172) · Bronze 1 (B01334) · Seal 1 (S00940) · L
 - **Jyutping**: MDBG não retornou jyutping; CantoDict confirma **man6**. Consistente com MC (微母合三問去 → man6 em cantonês).
 - **Reconstrução Zhengzhang**: xiaoxue shangguyin não retorna entrada de Zhengzhang para este caractere. A reconstrução padrão *muns* / *mɯns* precisaria de outra fonte se necessária.
 - **Vocalismo Old Chinese**: os 5 sistemas convergem em inicial *m-* e coda *-ən*; divergem no medial — Karlgren *-i̯w-*, Wang Li *-ǐw-*, Dong Tonghe *-ju-*, Zhou Fagao *-jw-*, Li Fanggui *-j-* + *-h* final marcando tom departing (só Li codifica tom segmentalmente).
-- **Contagem de formas**: xiaoxue regista 9 formas (1 oracle, 4 bronze/Warring States, 1 seal, 3 clerical) contra 1+1+1 de hanziyuan. Xiaoxue individualiza artefatos Qi e Jin que hanziyuan agrega.
+- **Contagem de formas**: xiaoxue registra 9 formas (1 oracle, 4 bronze/Warring States, 1 seal, 3 clerical) contra 1+1+1 de hanziyuan. Xiaoxue individualiza artefatos Qi e Jin que hanziyuan agrega.
 - **Sentidos exclusivos do chardb**: def. 9 (餽贈, oferecer presentes), def. 10 (慰問, visitar), def. 7 (um dos 四診 da MTC), def. 11 (dote de noivado), def. 12 (empréstimo para 聞). Não aparecem em MDBG.
