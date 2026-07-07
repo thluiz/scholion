@@ -86,7 +86,7 @@ Apenas 2 formas. Caractere tardio — sem atestação em oracle, bronze ou pré-
 
 - **Cantonês gap3 vs gaap3**: CantoDict registra gap3 como padrão; em compostos gaap3. chardb lista ge1 (leitura literária influenciada pelo mandarim). A variação gap3/gaap3 corresponde à mesma vogal com diferentes convenções Jyutping.
 - **shuowen.org**: não retornou verbete específico para 段注.
-- **Oracle/Bronze**: nenhuma fonte regista. Consenso: caractere tardio, primeira atestação no selo Shuowen e clerical Han Ocidental.
+- **Oracle/Bronze**: nenhuma fonte registra. Consenso: caractere tardio, primeira atestação no selo Shuowen e clerical Han Ocidental.
 - **Coda -p preservada em cantonês**: a reconstrução OC *kəp (緝部, com coda -p) preservou-se diretamente no cantonês gap3 (tom entering com coda final).
 - **Consenso OC**: 4 sistemas convergem em 緝 · k · əp.
 - **Simbólica do fonético 合**: "união" (duas bocas juntas) pode ter ressonância — pombo-correio como ave de retorno/união; pombo como símbolo de paz.
