@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 小 (Siu — Xiǎo / siu2)"
-date: '2026-07-06T11:52:27+01:00'
-summary: 'O pictograma de coisas miúdas, radical Kangxi nº 42. O Shuowen lê 小 como 物之微也 (a miudeza das coisas), composto de 八 e 丨; a paleografia lê três pontos de areia ou poeira, um só caractere com 少 antes da cisão.'
+date: '2026-07-07T19:36:05+01:00'
+summary: 'O radical Kangxi nº 42, ''pequeno''. O Shuowen o define como 物之微也 ''o diminuto das coisas''; as leituras paleográficas registradas veem três pontos marcando pequenez ou grãos de areia.'
 toc: true
 tags: ["china", "linguagem", "etimologia", "ideogramas", "radicais"]
 category: etymology
@@ -28,45 +28,45 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 42 (小, pequeno). Como componente no topo, assume por vezes a forma ⺌. Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 42 (小, pequeno). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **小** — U+5C0F · 部首 radical: 小 (nº 42) · 總筆畫 strokes: 3 · 注音 zhuyin: ㄒㄧㄠˇ · 拼音 pinyin: xiǎo / jyutping: siu2
 
 #### Definições
 
-**MDBG**: pequeno; minúsculo; pouco; jovem. (HSK 1). O MDBG não exibiu jyutping.
+**MDBG**: small / tiny / few / young
 
-**CantoDict**: siu2 (tom 2, ascendente). Registra também uma acepção de gíria (linguagem chula). Confirmado pela CUHK.
+**CantoDict**: siu2. A CUHK registra siu2.
 
 **chardb Academia Sinica**:
-1. 細；微。與「大」相對。(fino; tênue. Oposto de 「大」 [grande].)
-2. 狹隘；不足。(estreito; insuficiente.)
-3. 輕視。(desprezar; ter em pouca conta.)
-4. 年幼的人。(pessoa de pouca idade; criança.)
-5. 低微。(humilde; de baixa condição.)
-6. 妾，小老婆。(concubina; segunda esposa.)
-7. 短暫。(breve; efêmero.)
-8. 將近。(quase; perto de.)
-9. 謙詞。稱自己或與己有關的人或事物。(termo de modéstia; designa a si próprio ou a pessoas e coisas ligadas a si.)
-10. 表示對小輩的愛稱。(termo carinhoso para os mais novos.)
-11. 副詞。表示程度，相當於「稍微」、「略微」。(advérbio de grau; equivale a "um pouco", "levemente".)
-12. 通「少」。(usado no lugar de 「少」 [poucos; menos].)
-13. 姓。(sobrenome.)
+1. 細；微。與「大」相對。 (fino; diminuto. Em oposição a 「大」)
+2. 狹隘；不足。 (estreito; insuficiente)
+3. 輕視。 (desprezar)
+4. 年幼的人。 (pessoa jovem)
+5. 低微。 (baixo; humilde)
+6. 妾，小老婆。 (concubina; esposa secundária)
+7. 短暫。 (breve; passageiro)
+8. 將近。 (quase; prestes a)
+9. 謙詞。稱自己或與己有關的人或事物。 (termo modesto: designa a si mesmo ou pessoas/coisas ligadas a si)
+10. 表示對小輩的愛稱。 (indica tratamento afetuoso para os mais novos)
+11. 副詞。表示程度，相當於「稍微」、「略微」。 (advérbio: indica grau, equivalente a 「稍微」, 「略微」)
+12. 通「少」。 (emprestado por 「少」)
+13. 姓。 (sobrenome)
 
 #### Decomposição e formas antigas (hanziyuan)
 
-Componentes: pictograma simples (a partir de três pontos — "from three dots"); não decomponível. Ver 少.
-Significado original: 本义 "small pieces" (partículas pequenas; coisas miúdas).
+Componentes: 小 (name- three-strokes-small 小 xiǎo).
+Significado original: Meaning small pieces.
 Acepções inglesas: small, tiny, insignificant.
-Frequência de uso: 70.
-Formas atestadas: o hanziyuan lista 19 formas de oráculo, 69 de bronze, 1 de selo (Shuowen) e 12 do Liushutong; as atestações epigráficas detalhadas constam da tabela do 小學堂 abaixo.
+Frequência de uso: 70 (muito alta).
+Formas atestadas: Oracle characters 甲骨文 (19) · Bronze characters 金文 (69) · Seal characters 说文解字的篆字 (1) · Liushutong characters 六书通的字 (12)
 
 #### Shuowen Jiezi completo
 
-(Texto verbatim convergente entre CUHK e hanziyuan; o 小學堂 cita uma versão mais curta, sem a cláusula final.)
+(shuowen.org retornou apenas a listagem das primeiras entradas do dicionário; texto verbatim obtido via 小學堂 e CUHK, com diferença de cauda e do fanqie.)
 
 **說文**: 小，物之微也。从八、丨，見而分之。凡小之屬皆从小。〔私兆切〕
-(小 é a miudeza das coisas. Compõe-se de 八 [dividir] e 丨; vê-se [o objeto] e divide-se. Todo caractere da classe de 小 segue 小. [fanqie 私兆切].)
+(小 é o diminuto das coisas. Vem de 八 e 丨; vê-se aí a sua separação. Todo caractere da classe de 小 segue 小. [fanqie: 私兆切])
 
 **段注 Duan Yucai**: (não obtido — shuowen.org retornou listagem; zdic.net retornou HTTP 404)
 
@@ -74,21 +74,22 @@ Formas atestadas: o hanziyuan lista 19 formas de oráculo, 69 de bronze, 1 de se
 
 | Período | Script | Fonte / Artefato |
 |---|---|---|
-| Shang | Oráculo (甲骨文) | 甲630; 後2.9.13; 林1.26.4 |
-| Zhou Ocidental (inicial) | Bronze (金文) | 大盂鼎 Dà Yú dǐng |
-| Zhou Ocidental (tardio) | Bronze (金文) | 散氏盤 Sàn shì pán |
-| Reinos Combatentes — Qin | (não especificado na tabela) | 珍秦 |
-| Reinos Combatentes — Qin | Cerâmica (陶文) | 陶彙5.71 |
-| Han | Selo pequeno (小篆) | 說文‧小部 (Shuowen, seção 小) |
-| Qin | Clerical (隸書) | 睡虎地簡25.43 (Shuihudi) |
-| Han Ocidental | Clerical (隸書) | 老子甲53 |
-| Han Oriental | Clerical (隸書) | 熹平石經·易·解 (Clássicos em Pedra de Xiping, Yijing, hexagrama Xie) |
+| Shang | Oráculo (甲骨文) | 甲630(甲); 後2.9.13(甲); 林1.26.4(甲) |
+| Zhou Ocidental (inicial) | Bronze (金文) | 大盂鼎 |
+| Zhou Ocidental (tardio) | Bronze (金文) | 散氏盤 |
+| Reinos Combatentes — Qin | Escrita Qin | 珍秦; 陶彙5.71 |
+| Han | Selo pequeno (小篆) | 說文‧小部 |
+| Qin | Clerical (隸書) | 睡虎地簡25.43(隸) |
+| Han Ocidental | Clerical (隸書) | 老子甲53(隸) |
+| Han Oriental | Clerical (隸書) | 熹.易.解(隸) |
 
 **Shuowen (xiaoxue)**: 小，物之微也。从八，丨見而分之。
 
 **Comentários de estudiosos**:
-- 商承祚《殷虛文字類編》: 卜辭作三點，示微小之意，與古金文同。(Nas inscrições oraculares escreve-se com três pontos, indicando o sentido de "miúdo", igual ao dos bronzes antigos.)
-- 《漢語大字典》(按): 甲骨文「小」像塵沙小物狀，與少本為一字，後分化為二字。(No oráculo, 小 tem a forma de poeira, areia e objetos miúdos; era originalmente um só caractere com 少, depois divididos em dois.)
+- 小學堂: 商承祚《殷虛文字類編》：“卜辭作三點，示微小之意，與古金文同。”《漢語大字典》按：“甲骨文‘小’像塵沙小物狀，與少本為一字，後分化為二字。”
+- CUHK (略說): 「小」的構形初義有兩種看法，一，以三小點表示物之微小(商承祚、于省吾)；二，「小」是「沙」的初文，以細小的沙粒表示微小(馬敍倫)。「小」與「少」乃一字之分化，參見「少」。
+- CUHK (詳解): 「小」的構形初義有兩種看法，一，以三小點表示物之微小(商承祚、于省吾)；二，「小」是「沙」的初文，以細小的沙粒表示微小(馬敍倫)。「小」與「少」乃一字之分化，參見「少」。
+- CUHK (詳解): 甲骨文表示小，《粹》1004「小雨」。又用作紀時，「小食」表示午後，「小采」表示黃昏時分。金文表示小，嬴霝德鼎：「嬴霝德乍(作)小鼎」。金文多見「小子」一詞，指未成年的貴族子弟，又指低級職官。「小臣」指王公下屬之官吏，又指低級官吏。
 
 #### Fonologia (xiaoxue shangguyin)
 
@@ -97,21 +98,21 @@ Formas atestadas: o hanziyuan lista 19 formas de oráculo, 69 de bronze, 1 de se
 - 反切 Fanqie: 私兆 · 等 Grade: 三 (III) · 開合 Open/Closed: 開 (open) · 清濁: 全清 (totalmente surda)
 
 **上古音 Old Chinese** (grupo de rima 宵 Xiao):
-- 高本漢 Karlgren: si̯oɡ (韻部 em branco na tabela; reconstrução 聲母 s + 韻母 i̯oɡ)
-- 王力 Wang Li: sǐau
-- 董同龢 Dong Tonghe: sjɔɡ
-- 周法高 Zhou Fagao: sjiaw
-- 李方桂 Li Fanggui: sjagwx
+- 高本漢 Karlgren: s i̯oɡ
+- 王力 Wang Li: s ǐau
+- 董同龢 Dong Tonghe: s jɔɡ
+- 周法高 Zhou Fagao: s jiaw
+- 李方桂 Li Fanggui: s jagwx
 - 鄭張尚芳 Zhengzhang Shangfang: (não retornou dados — ausente da tabela do 小學堂)
 
 **國語 Mandarin IPA**: ɕiau
 
 #### Divergências entre fontes
 
-**Leitura do grafismo.** A CUHK registra duas hipóteses para a forma original: (1) três pontos representando a miudeza dos objetos (商承祚, 于省吾); (2) 小 como forma primitiva de 沙, isto é, grãos finos de areia figurando o "pequeno" (馬敍倫). O *Shuowen* lê o caractere morfologicamente — 物之微也, de 八 (dividir) e 丨, "vê-se e divide-se" —, glosa que já enquadra 小 no sistema de radicais. Todas as fontes registram que 小 e 少 eram um só caractere, cindido depois em dois (一字之分化); o 漢語大字典 acrescenta que a forma do oráculo lembra poeira e objetos miúdos.
+**Leitura do grafismo.** A CUHK (略說 / 詳解) registra duas explicações para a construção: três pequenos pontos indicando pequenez, ou o caráter como forma inicial de 「沙」, com grãos finos de areia indicando pequenez. O 小學堂 registra formulação próxima, mas não idêntica: 商承祚 diz “卜辭作三點，示微小之意”，e 《漢語大字典》按 diz que o 甲骨文 “像塵沙小物狀”， acrescentando que 小 e 少 eram originalmente um só caráter depois diferenciados.
 
-**Shuowen e 段注.** O texto do *Shuowen* foi confirmado por duas fontes independentes (CUHK e hanziyuan), convergentes; o 小學堂 traz uma citação mais curta (sem 凡小之屬皆从小). O comentário de 段玉裁 não foi obtido.
+**Shuowen.** A CUHK traz o texto com a cauda completa e o fanqie — “凡小之屬皆从小。〔私兆切〕”. O 小學堂 yanbian traz apenas “小，物之微也。从八，丨見而分之。” sem a cauda “凡小之屬皆从小” nem o fanqie.
 
-**Leitura cantonesa.** O MDBG não exibiu jyutping; cantonese.org e a CUHK convergem em siu2, consistente com o 中古音 (inicial 心 s-, tom 上 ascendente → tom 2 cantonês).
+**Leitura cantonesa.** CantoDict registra siu2, e a CUHK registra siu2. O MDBG não exibiu jyutping.
 
-**Reconstruções do 上古音.** Quatro sistemas (Wang Li, Dong Tonghe, Zhou Fagao, Li Fanggui) mais Karlgren, todos no grupo de rima 宵 (Xiao) — a coluna 韻部 de Karlgren aparece em branco, embora sua reconstrução (s + i̯oɡ) siga o mesmo molde; a coluna de 鄭張尚芳 (Zhengzhang Shangfang) não retornou na tabela do 小學堂.
+**Reconstruções do 上古音.** O 小學堂 agrupa Wang Li, Dong Tonghe, Zhou Fagao e Li Fanggui em 宵, enquanto Karlgren aparece sem 韻部 preenchido na tabela. A coluna de 鄭張尚芳 (Zhengzhang Shangfang) não retornou na tabela do 小學堂.
