@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 毋 (Mou — Wú / mou4)"
-date: '2026-07-06T12:52:15+01:00'
-summary: 'O caractere de proibição, radical Kangxi nº 80. O Shuowen lê 毋 como 止之也 "detê-lo", de 女 com quem a viola; a paleografia (容庚, Hanyu Da Zidian) lê 毋 e 母 como um só caractere, diferenciado depois por um traço acrescentado.'
+date: '2026-07-07T19:32:32+01:00'
+summary: 'O radical Kangxi nº 80, com sentido de proibição/negação. O Shuowen o define como 止之也; fontes paleográficas registram empréstimo gráfico de 母 e posterior diferenciação.'
 toc: true
 tags: ["china", "linguagem", "etimologia", "ideogramas", "radicais"]
 category: etymology
@@ -28,85 +28,82 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 80 (毋, não; proibir). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 80 (毋, não / não faça). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **毋** — U+6BCB · 部首 radical: 毋 (nº 80) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄨˊ · 拼音 pinyin: wú / jyutping: mou4
 
 #### Definições
 
-**MDBG**: wú — (literário) não / não faça / não ter / ninguém. Wú — sobrenome Wu.
+**MDBG**: surname Wu; (literary) no / don't / to not have / nobody
 
-**CantoDict**: mou4 (tom 4). Confirmado pela CUHK (粵拼 mou4).
+**CantoDict**: mou4 (tom 4). 
 
 **chardb Academia Sinica**:
-1. 副詞。①表示禁止或勸阻，相當於「別」、「不要」。②表示否定，相當於「不」。 (advérbio. ① exprime proibição ou dissuasão, equivalente a 「別」, 「不要」 ["não faça"]. ② exprime negação, equivalente a 「不」 ["não"])
+1. 副詞。①表示禁止或勸阻，相當於「別」、「不要」。②表示否定，相當於「不」。 (advérbio. ① indica proibição ou dissuasão, equivalente a 「別」, 「不要」. ② indica negação, equivalente a 「不」)
 2. 助詞。用於句首。 (partícula. usada no início da frase)
-3. 代詞。相當於「沒有人」或「沒有誰」。 (pronome. equivalente a 「沒有人」 ou 「沒有誰」 ["ninguém"])
-4. 同「無」。沒有。與「有」相對。 (o mesmo que 「無」. não ter. em oposição a 「有」 ["ter"])
+3. 代詞。相當於「沒有人」或「沒有誰」。 (pronome. equivalente a 「沒有人」 ou 「沒有誰」)
+4. 同「無」。沒有。與「有」相對。 (igual a 「無」. não ter; opõe-se a 「有」)
 5. 姓。 (sobrenome)
-6. ［毋追］也作「牟追」、「毋頧」。古代的一種黑色帽子。 ([毋追] também escrito 「牟追」, 「毋頧」. um tipo de chapéu preto da antiguidade)
+6. ［毋追］也作「牟追」、「毋頧」。古代的一種黑色帽子。 (［毋追］ também escrito 「牟追」, 「毋頧」. um tipo de chapéu preto da Antiguidade)
 
 #### Decomposição e formas antigas (hanziyuan)
 
-Componentes: hanziyuan analisa 毋 a partir de 女 (mulher) e o relaciona a 毌 (guàn); glosa a forma como "seios cobertos que não podem ser tocados" (from woman 母).
-Significado original: 本义 "não / do not".
-Acepções inglesas: (não obtido — campo "English senses" vazio no hanziyuan).
-Frequência de uso: (não obtido — campo "Importance by frequency" vazio no hanziyuan).
-Formas atestadas: hanziyuan lista 0 oráculo, 1 bronze (B17164), 1 selo do Shuowen (S09368) e 26 formas do 六書通 (Liushutong); as demais atestações constam da tabela do 小學堂 abaixo.
+Componentes: 毋; (not- 毌 guàn); (name- bound-breasts-stop 毋 wú).
+Significado original: Meaning do not.
+Acepções inglesas: (não obtido — campo “English senses” sem conteúdo)
+Formas atestadas: 甲骨文 (0); 金文 (1); 說文解字的篆字 (1); 六书通的字 (26).
 
 #### Shuowen Jiezi completo
 
-(texto verbatim via CUHK, a fonte mais completa; 小學堂 e hanziyuan convergem com variações menores, registradas em "Divergências".)
+(shuowen.org retornou apenas a listagem das primeiras entradas do dicionário; texto verbatim obtido via 小學堂 e CUHK, divergentes.)
 
 **說文**: 毋，止之也。从女，有奸之者。凡毋之屬皆从毋。〔武扶切〕
-(毋 é "detê-lo / impedi-lo". De 女 [mulher], havendo quem a viole. Todo caractere da classe de 毋 segue 毋. Fanqie 武扶切.)
+(毋 é “impedir isso”. Vem de 女; há quem a viole. Todo caractere da classe de 毋 segue 毋. [fanqie: 武扶切])
 
-**段注 Duan Yucai**: (via 小學堂, 相關解說) 段玉裁改為「止之詞也。从女、一，女有姦之者，一禁止之，令勿姦也。」 (Duan Yucai emenda para: "palavra de interdição. De 女 [mulher] e 一 [um traço]; havendo quem cometa adultério com a mulher, o traço 一 o interdita, ordenando que não haja adultério.")
+**段注 Duan Yucai**: (não obtido — shuowen.org retornou listagem; zdic.net retornou HTTP 404)
 
 #### Evolução de formas (xiaoxue yanbian)
 
 | Período | Script | Fonte / Artefato |
 |---|---|---|
-| Zhou Ocidental (médio) | Bronze (金文) | 方鼎 fāng dǐng |
-| Reinos Combatentes — Chu | Bambu (楚簡) | 包2.210; 包2.197 (Baoshan) |
-| Reinos Combatentes — Qin | (script não marcado no dump) | 十鐘 Shízhōng |
+| Zhou Ocidental (médio) | Bronze (金文) | 方鼎 |
+| Reinos Combatentes — Chu | Bambu / seda | 包2.210 |
+| Reinos Combatentes — Chu | Bambu / seda | 包2.197 |
+| Reinos Combatentes — Qin | Bronze (金文) | 十鐘 |
 | Han | Selo pequeno (小篆) | 說文‧毋部 (Shuowen, seção 毋) |
 | Qin | Clerical (隸書) | 睡虎地簡10.4 (Shuihudi) |
-| Han Ocidental | Clerical (隸書) | 相馬經8上 (Xiàngmǎ jīng); 定縣竹簡8 (Dingxian) |
-| Han Oriental | Clerical (隸書) | 孔宙碑陰 Kǒngzhòu bēiyīn; 熹平石經·論語·子罕 (Clássicos em Pedra de Xiping, Lunyu·Zihan) |
+| Han Ocidental | Clerical (隸書) | 相馬經8上 |
+| Han Ocidental | Clerical (隸書) | 定縣竹簡8 |
+| Han Oriental | Clerical (隸書) | 孔宙碑陰 |
+| Han Oriental | Clerical (隸書) | 熹.論語.子罕 |
 
-**Shuowen (xiaoxue)**: 《說文》：「毋，止之也。从女，有奸之者。」
+**Shuowen (xiaoxue)**: 毋，止之也。从女，有奸之者。
 
 **Comentários de estudiosos**:
-- 小學堂 (相關解說), 容庚《金文編》: 「毋與母為一字。」 (Rong Geng, Jinwen Bian: "毋 e 母 são um só caractere.")
-- 《漢語大字典》按: 「毋、母古本一字，後分化為禁止之詞，乃加一畫以別之。」 (Hanyu Da Zidian, nota: "毋 e 母 eram originalmente um só caractere; depois diferenciou-se como palavra de proibição, acrescentando-se um traço para distingui-lo.")
+- 小學堂: 段玉裁改為“止之詞也。从女、一，女有姦之者，一禁止之，令勿姦也。”容庚《金文編》：“毋與母為一字。”《漢語大字典》按：“毋、母古本一字，後分化為禁止之詞，乃加一畫以別之。” (Duan Yucai altera para “止之詞也。从女、一，女有姦之者，一禁止之，令勿姦也。” Rong Geng, em *Jinwen bian*, diz: “毋 e 母 são um só caractere.” O *Hanyu da zidian* anota: “毋 e 母 eram originalmente um só caractere; depois se diferenciaram para a palavra de proibição, acrescentando-se um traço para distingui-la.”)
 
 #### Fonologia (xiaoxue shangguyin)
 
 **中古音 Middle Chinese (Guangyun)**:
-- 攝 Division: 遇 (Yu) · 韻 Rhyme: 虞 (Yu) · 聲 Tone: 平 (level) · 母 Initial: 微 (segundo 小學堂; CUHK registra 明 — ver "Divergências")
+- 攝 Division: 遇 (Yu) · 韻 Rhyme: 虞 (Yu) · 聲 Tone: 平 (level) · 母 Initial: 微 (m-)
 - 反切 Fanqie: 武夫 · 等 Grade: 三 (III) · 開合 Open/Closed: 合 (closed) · 清濁: 次濁 (sonorante)
 
 **上古音 Old Chinese** (grupo de rima 魚 Yu):
-- 高本漢 Karlgren: mi̯wo
-- 王力 Wang Li: mǐwa
-- 董同龢 Dong Tonghe: mjuaɡ
-- 周法高 Zhou Fagao: mjwaɣ
-- 李方桂 Li Fanggui: mjag
+- 高本漢 Karlgren: m i̯wo
+- 王力 Wang Li: m ǐwa
+- 董同龢 Dong Tonghe: m juaɡ
+- 周法高 Zhou Fagao: m jwaɣ
+- 李方桂 Li Fanggui: m jag
 - 鄭張尚芳 Zhengzhang Shangfang: (não retornou dados — ausente da tabela do 小學堂)
 
 **國語 Mandarin IPA**: u
 
 #### Divergências entre fontes
 
-**Leitura do grafismo.** O *Shuowen* lê 毋 como 止之也 ("detê-lo"), 从女 com 有奸之者 ("havendo quem a viole") — glosa Han moralizante, a mulher vigiada/interditada; o próprio hanziyuan ecoa isso com "seios cobertos que não podem ser tocados". A paleografia (容庚 no 金文編, o 按 do 漢語大字典) lê de outro modo: 毋 e 母 eram um só caractere, diferenciado só depois por um traço acrescentado (乃加一畫以別之). São duas leituras concorrentes, não convergentes.
+**Shuowen.** 小學堂 registra “毋，止之也。从女，有奸之者。”; a CUHK registra “毋，止之也。从女，有奸之者。凡毋之屬皆从毋。〔武扶切〕”. Portanto, as fontes não são idênticas: a versão da CUHK inclui a cauda 凡毋之屬皆从毋 e o fanqie 武扶切, ausentes na transcrição exibida pelo 小學堂.
 
-**Texto do Shuowen.** As três fontes trazem variantes: a CUHK dá o texto completo 毋，止之也。从女，有奸之者。凡毋之屬皆从毋。〔武扶切〕; o 小學堂 cita forma abreviada, sem a cláusula 凡毋之屬皆从毋; e o hanziyuan escreve o mesmo texto substituindo 毋 por 母 na cláusula final (凡母之屬皆從母) e usando 從 por 从. A grafia 奸 (CUHK) alterna com 姦 (Duan Yucai / 小學堂).
+**Leitura paleográfica / relação com 母.** A CUHK (形義通解) registra: “甲金文「毋」借「母」字來表示，參見「母」。” O hanziyuan registra “from woman 母” e “with covered breasts which can not be touched”. O 小學堂 registra ainda: “毋與母為一字” e “毋、母古本一字，後分化為禁止之詞，乃加一畫以別之。” São formulações diferentes entre as fontes sobre a relação gráfica e histórica entre 毋 e 母.
 
-**段注.** Ao contrário do caso típico, o comentário de 段玉裁 foi obtido — via o bloco 相關解說 do 小學堂. Duan emenda 止之也 para 止之詞也 e reanalisa a composição como 从女、一 (mulher + o traço 一 que interdita), acrescentando o elemento 一 ausente do texto recebido.
+**Leitura cantonesa.** CantoDict e a CUHK registram mou4. O MDBG não exibiu jyutping.
 
-**中古音 — inicial.** As duas fontes divergem no 母 (inicial): o 小學堂 (廣韻) registra 微母, a CUHK registra 明母; ambas concordam em 次濁 (sonorante), 遇攝, 虞韻, 平聲, 合口, 三等. Os fanqie convergem: 武夫 (Guangyun) / 武扶切 (Shuowen).
-
-**Leitura cantonesa.** O MDBG não exibiu jyutping; cantonese.org e a CUHK convergem em mou4, consistente com o 中古音 (inicial labial 次濁, tom 平).
-
-**Reconstruções do 上古音.** Cinco sistemas (Karlgren, Wang Li, Dong Tonghe, Zhou Fagao, Li Fanggui), todos com inicial m- e no grupo de rima 魚 (Yu); a coluna de 鄭張尚芳 (Zhengzhang Shangfang) não retornou na tabela do 小學堂.
+**Reconstruções do 上古音.** O 小學堂 registra cinco sistemas (Karlgren, Wang Li, Dong Tonghe, Zhou Fagao, Li Fanggui), todos no grupo de rima 魚 (Yu); a coluna de 鄭張尚芳 (Zhengzhang Shangfang) não retornou na tabela do 小學堂.
