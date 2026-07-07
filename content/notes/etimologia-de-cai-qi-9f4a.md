@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 齊 (Cai — Qí / cai4)"
 date: '2026-07-07T15:59:03+01:00'
-summary: 'O pictograma de espigas niveladas, radical Kangxi nº 210. O Shuowen define 齊 como禾麥吐穗上平也; a paleografia lê forma de grãos/espigas de altura uniforme.'
+summary: 'O pictograma de espigas niveladas, radical Kangxi nº 210. O Shuowen define 齊 como 禾麥吐穗上平也; a paleografia lê forma de grãos/espigas de altura uniforme.'
 toc: true
 tags: ["china", "linguagem", "etimologia", "ideogramas", "radicais"]
 category: etymology
@@ -39,7 +39,7 @@ sources:
 **CantoDict**: cai4. A CUHK registra cai4.
 
 **chardb Academia Sinica**:
-1. 禾麥吐穗上平整。引申為凡齊等之義。 (cereais e trigo que, ao deitarem espiga, ficam nivelados no alto; por extensão, todos os sentidos de igualdade e nivelamento)
+1. 禾麥吐穗上平整。引申為凡齊等之義。 (cereais e trigo que, quando a espiga desponta, ficam nivelados no alto; por extensão, todos os sentidos de igualdade e nivelamento)
 2. 整齊。 (arrumado; ordenado)
 3. 平。①平等。②高低一樣。 (plano; ① igual ② da mesma altura)
 4. 一致。 (uniforme; concordante)
@@ -89,7 +89,7 @@ Formas atestadas: 甲骨文 (5) · 金文 (29) · 說文解字的篆字 (1) · �
 (shuowen.org retornou apenas a listagem das primeiras entradas do dicionário; texto verbatim obtido via 小學堂 e CUHK, com diferença de cauda e fanqie.)
 
 **說文**: 齊，禾麥吐穗上平也。象形。凡齊之屬皆从齊。【徐鍇曰：生而齊者，莫若禾麥，二，地也，兩傍在低處也。】〔徂兮切〕
-(齊 é “禾麥吐穗上平也” — os cereais, ao deitarem espiga, ficam nivelados no alto. É um pictograma. Todo caractere da classe de 齊 segue 齊. Xu Kai disse: entre as coisas que nascem niveladas, nada se compara a禾麥; 二 é a terra, e os dois lados ficam nas partes baixas.)
+(齊 é “禾麥吐穗上平也” — os cereais, quando a espiga desponta, ficam nivelados no alto. É um pictograma. Todo caractere da classe de 齊 segue 齊. Xu Kai disse: entre as coisas que nascem niveladas, nada se compara a 禾麥; 二 é a terra, e os dois lados ficam nas partes baixas.)
 
 **段注 Duan Yucai**: (não obtido — shuowen.org retornou listagem; zdic.net retornou HTTP 404)
 
