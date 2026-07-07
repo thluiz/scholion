@@ -303,7 +303,7 @@ Formato: nº · radical (variantes / forma simplificada) · pinyin · glosa.
 | 171 | 隶 | lì | escravo, alcançar |
 | 172 | 隹 | zhuī | ave de cauda curta |
 | 173 | 雨 | yǔ | chuva |
-| 174 | 靑 (青) | qīng | azul-verde |
+| 174 | 青 (靑) | qīng | azul-verde |
 | 175 | 非 | fēi | errado, não |
 
 **9 traços**
