@@ -95,7 +95,7 @@ Tradução: "(同) é reunir/juntar. De 𠔼 [cobertura] e 口 [boca]. **As boca
 | Warring States, Qi 戰國·齊 | Pottery 陶文 | 陶彙3.368 (Táo huì 3.368) |
 | Late Warring States, Jin 戰國晚期·晉 | Bronze 金文 | 中山王壺 (Zhōngshān wáng hú — vaso *hu* do Rei de Zhongshan) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 包2.126 (Bāoshān 2.126) |
-| Han | Seal 篆書 | 說文‧𠔼部 (Shuōwén, secção 𠔼) |
+| Han | Seal 篆書 | 說文‧𠔼部 (Shuōwén, seção 𠔼) |
 | Qin 秦 | Clerical 隸書 | 睡虎地簡23.17 (Shuìhǔdì jiǎn 23.17) |
 | Western Han 西漢 | Clerical 隸書 | 老子甲38 (Lǎozǐ jiǎ 38 — Mawangdui Laozi A) |
 | Western Han 西漢 | Clerical 隸書 | 西陲簡39.3 (Xīchuí jiǎn 39.3 — bambu de Xichui) |
@@ -131,7 +131,7 @@ Tradução: "(同) é reunir/juntar. De 𠔼 [cobertura] e 口 [boca]. **As boca
 
 **Sentido original — co-presença, não mesmidade abstracta**: O Shuowen e 段玉裁 são consistentes em apresentar o sentido nuclear como **合會 (reunir/juntar)** — co-presença concreta, não "ser idêntico" no sentido lógico moderno. O sentido "idêntico, igual" (相同, 一樣) é derivado: as coisas que estão juntas tornam-se "iguais" no contexto da reunião. **同 = estar na mesma situação/lugar/tempo** → "ser idêntico". Esta é leitura importante para a interpretação de 同門 (tung mun): não é "discípulos idênticos" mas "discípulos que estão na mesma porta/escola" — co-presença institucional.
 
-**Acepção 2 — um dos 六禮 (Seis Ritos) Zhou**: O chardb regista que 同 era o nome de um dos Seis Rituais aristocráticos Zhou — especificamente o ritual em que **os senhores feudais visitavam coletivamente o imperador**. Esta é atestação institucional importante: 同 nasce do vocabulário cerimonial Zhou. O sentido "co-presença ritual" precede e funda os sentidos derivados ("idêntico", "junto").
+**Acepção 2 — um dos 六禮 (Seis Ritos) Zhou**: O chardb registra que 同 era o nome de um dos Seis Rituais aristocráticos Zhou — especificamente o ritual em que **os senhores feudais visitavam coletivamente o imperador**. Esta é atestação institucional importante: 同 nasce do vocabulário cerimonial Zhou. O sentido "co-presença ritual" precede e funda os sentidos derivados ("idêntico", "junto").
 
 **Acepção 10 — vaso ritual 同**: 同 também era nome de um tipo de vaso de oferenda ritual (do tipo 爵). Os ministros do Shuowen ([臣鉉等]) notam: 同爵名也，周書曰太𠈃？受同嚌故從口 ("同 é nome de vaso 爵; o *Zhoushu* diz 'o Grande Tutor recebe o 同 [vaso] ao provar [嚌]'; daí vem de 口"). A forma 凡 + 口 pode então ter representado **boca recebendo de vaso ritual** — ato cerimonial coletivo.
 
