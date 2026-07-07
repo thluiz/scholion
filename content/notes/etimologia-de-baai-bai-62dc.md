@@ -36,7 +36,7 @@ Variantes arcaicas: 𢳎 (forma Shuowen primária) · 拝 · 𢱭 · 𢷎 · �
 
 #### Definições
 
-**MDBG**: to bow to; to pay one's respects; (forma ligada) extender cumprimentos em ocasião específica; fazer visita de cortesia; (forma ligada) (de monarca) nomear alguém por cerimónia; reconhecer alguém como (mestre, padrinho etc); (usado antes de verbos para indicar polidez)
+**MDBG**: to bow to; to pay one's respects; (forma ligada) estender cumprimentos em ocasião específica; fazer visita de cortesia; (forma ligada) (de monarca) nomear alguém por cerimônia; reconhecer alguém como (mestre, padrinho etc); (usado antes de verbos para indicar polidez)
 
 **CantoDict**: baai3 (tom 3)
 
@@ -49,7 +49,7 @@ Variantes arcaicas: 𢳎 (forma Shuowen primária) · 拝 · 𢱭 · 𢷎 · �
 6. (敬)受 (respeitosamente receber)
 7. 上，奉 (oferecer; apresentar)
 8. 敬詞。恭敬地 (partícula honorífica; reverentemente)
-9. 通過一定儀式結成某種關係 (estabelecer uma relação por cerimónia)
+9. 通過一定儀式結成某種關係 (estabelecer uma relação por cerimônia)
 10. 植物名 (nome de uma planta)
 11. 通「拔」。拔掉 (intercambiável com 拔 — arrancar)
 12. 姓 (sobrenome)
@@ -125,7 +125,7 @@ A abundância de atestações em bronze Zhou (22+) indica que 拜 é vocábulo c
 
 **Glosa Shuowen 首至地也 vs correção 段注 首至手也**: Esta é a divergência central e tem implicação ritualística. O Shuowen recebido diz "cabeça até o solo" (首至地也), que corresponde especificamente ao 稽首 (reverência de máximo respeito). 段玉裁 argumenta que o sentido genérico de 拜 deveria ser "cabeça até a mão" (首至手也), referente ao 空首 — o gesto onde a cabeça se inclina até encontrar as mãos unidas, sem tocar o solo. A distinção 稽首 / 頓首 / 空首 é preservada no *Zhouli* como três graus de reverência.
 
-**Interpretação do pictograma — duas mãos (Yang Xiong) vs mão+ervas (hanziyuan)**: O Shuowen cita Yang Xiong (揚雄, séc. I AEC): 拜从兩手下 ("拜 compõe-se de duas mãos para baixo"). hanziyuan oferece leitura alternativa: mão (扌) + 𠦪 (ervas/raízes), interpretando-o como "mão trazendo presente (ervas) na visita". As duas leituras são plausíveis para os bronzes Zhou — o caracter exibe formas variadas que permitem ambas as análises. A leitura de Yang Xiong é mais consistente com o sentido cerimonial (gesto com as mãos); a de hanziyuan é mais material (gesto prático de trazer presente).
+**Interpretação do pictograma — duas mãos (Yang Xiong) vs mão+ervas (hanziyuan)**: O Shuowen cita Yang Xiong (揚雄, séc. I AEC): 拜从兩手下 ("拜 compõe-se de duas mãos para baixo"). hanziyuan oferece leitura alternativa: mão (扌) + 𠦪 (ervas/raízes), interpretando-o como "mão trazendo presente (ervas) na visita". As duas leituras são plausíveis para os bronzes Zhou — o caractere exibe formas variadas que permitem ambas as análises. A leitura de Yang Xiong é mais consistente com o sentido cerimonial (gesto com as mãos); a de hanziyuan é mais material (gesto prático de trazer presente).
 
 **Formas múltiplas no Shuowen — 𢳎 / 拜 / 𣬓**: O Shuowen registra pelo menos três formas: 𢳎 (entrada principal), 拜 (forma citada de Yang Xiong), 𣬓 (forma guwen). As variantes 拝, 𢱭, 𢷎 aparecem em fontes posteriores. Esta multiplicidade gráfica para um único ritual sugere vocabulário ritual central com grande variação regional/dialetal pré-Qin.
 
