@@ -60,7 +60,7 @@ A glosa do Shuowen é mínima e direta — 點 é literalmente "pequena marca pr
 |---------|--------|----------------|-------|
 | Han Oriental | seal | 說文‧黑部 (Shuowen, seção 黑) | seal pequeno |
 
-xiaoxue só registra a atestação no próprio *Shuowen*. Caractere relativamente tardio na escrita atestada — antes do Han, a função era veiculada por outros caracteres (玷 *diàn*, mácula em jade; 滴 *dī*, gota). A especialização grafica de 點 (com 黑, preto) para "ponto/marca" estabiliza-se no Han.
+xiaoxue só registra a atestação no próprio *Shuowen*. Caractere relativamente tardio na escrita atestada — antes do Han, a função era veiculada por outros caracteres (玷 *diàn*, mácula em jade; 滴 *dī*, gota). A especialização gráfica de 點 (com 黑, preto) para "ponto/marca" estabiliza-se no Han.
 
 **Shuowen (xiaoxue)**: 點，小黑也。从黑，占聲 ("點 é uma pequena [marca] preta; do 黑, fonético 占").
 
