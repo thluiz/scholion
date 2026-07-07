@@ -55,7 +55,7 @@ Composto (análise convencional):
 
 Significado convencional: "big" (grande), extensão para "grande padrão" via identificação com 斐.
 
-Shuowen (hanziyuan): (não retornou dados — hanziyuan não tem entrada para 奜; Shuowen não regista 奜 como entrada independente).
+Shuowen (hanziyuan): (não retornou dados — hanziyuan não tem entrada para 奜; Shuowen não registra 奜 como entrada independente).
 Formas atestadas (hanziyuan): 0 etimologias, 0 formas — caractere completamente ausente do corpus hanziyuan.net.
 
 ### Shuowen Jiezi completo (shuowen.org)
@@ -94,10 +94,10 @@ Total: 2 formas. Ausência em osso oracular, selo, clerical. Atestação epigrá
 ### Divergências entre fontes
 
 - **Ausência no Shuowen**: 奜 é caractere raro, não consta como entrada no Shuowen original nem no 說文新附. Shuowen.org e hanziyuan não têm dados. Apenas chardb e xiaoxue preservam registo filológico.
-- **Atestação epigráfica pré-imperial**: xiaoxue regista 2 formas — 𢼄鼎 (bronze Zhou Ocidental médio) e 貨系501 (Warring States Jin). Isto contradiz a ideia de que 奜 seria formação tardia: o caractere existia no Zhou mas ficou de fora do Shuowen, talvez por ser regional ou onomástico.
-- **Hanziyuan completamente silencioso**: 0 etimologias, 0 formas. Divergência importante com xiaoxue, que regista 2 formas. Evidência de que a atestação é tão escassa que hanziyuan não a encontrou.
+- **Atestação epigráfica pré-imperial**: xiaoxue registra 2 formas — 𢼄鼎 (bronze Zhou Ocidental médio) e 貨系501 (Warring States Jin). Isto contradiz a ideia de que 奜 seria formação tardia: o caractere existia no Zhou mas ficou de fora do Shuowen, talvez por ser regional ou onomástico.
+- **Hanziyuan completamente silencioso**: 0 etimologias, 0 formas. Divergência importante com xiaoxue, que registra 2 formas. Evidência de que a atestação é tão escassa que hanziyuan não a encontrou.
 - **Ausência de reconstrução OC**: nenhum dos cinco sistemas de chinês arcaico oferece reconstrução. A fonologia medieval (敷尾切, grupo 微) é plausível por analogia com 斐/菲, mas não reconstruída formalmente.
-- **Identificação com 斐**: chardb def. 2 regista explicitamente 同「斐」 — o caractere funciona como variante gráfica de 斐 (elegante, padrão literário). Quando usado como sobrenome, 奜 = 斐. A paronímia fonológica (ambos *pʰ-jwər, grupo 微) sustenta a identificação.
+- **Identificação com 斐**: chardb def. 2 registra explicitamente 同「斐」 — o caractere funciona como variante gráfica de 斐 (elegante, padrão literário). Quando usado como sobrenome, 奜 = 斐. A paronímia fonológica (ambos *pʰ-jwər, grupo 微) sustenta a identificação.
 - **Sentido primário — "grande"**: chardb def. 1 é 大 (grande). Esta é a leitura distinta de 斐 — a análise composicional 大+非 sugere um caractere que reforça o "grande" com o marcador fonético 非. Uso raro, mas claro.
 - **Sentido no nome kung fu**: leitura combinada — grande/vasto (def. 1) + elegante (def. 2 via identificação com 斐). Grandeza com padrão, vastidão refinada.
 - **Paronímia com 菲 e 斐**: os três caracteres (奜, 菲, 斐) partilham fonologia OC no grupo 微 com inicial *pʰ-, sendo cognatos fonéticos. Distinguem-se pelo radical: 奜 (大 — grande), 菲 (艸 — erva), 斐 (文 — padrão). Três direções semânticas a partir da mesma raiz fonética 非.
