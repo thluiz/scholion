@@ -61,7 +61,7 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 1 (S04414)
 
 **Nota**: 樁 é um caractere **新附** (xīnfù, "nova adição"). Não consta do Shuowen Jiezi original de Xu Shen (許慎, séc. II d.C.), mas foi adicionado por Xu Xuan (徐鉉, 916–991) na sua edição Song. Por isso **não existe 段玉裁注 para este caractere** — o comentário de Duan Yucai se aplica apenas aos caracteres do Shuowen original.
 
-Fanqie adicionais registados:
+Fanqie adicionais registrados:
 - 都江切 (do Tangyun 唐韻)
 - 株江切 (do Jiyun 集韻)
 - 啄江切 (do Shuowen xinfu)
@@ -70,7 +70,7 @@ Fanqie adicionais registados:
 
 | Período | Script | Fonte/Artefato |
 |---------|--------|----------------|
-| Han | Seal 篆書 | 說文·木部 (Shuōwén, secção 木) |
+| Han | Seal 篆書 | 說文·木部 (Shuōwén, seção 木) |
 
 Apenas uma forma atestada — a entrada do Shuowen xinfu. Não há atestação em oracle bone, bronze ou outras escritas pré-Han, consistente com a criação tardia do caractere.
 
@@ -98,8 +98,8 @@ A escassez de reconstruções em Old Chinese (só Wang Li) é consistente com a 
 
 **Fonético 舂 (chōng) para leitura zhuāng**: O Shuowen xinfu analisa 樁 como 从木舂聲 — 舂 (chōng, "pilar arroz no pilão") como elemento fonético. A relação fonética *chōng → zhuāng* é opaca em mandarim moderno, mas plausível em Old Chinese: ambos os caracteres pertencem ao grupo rímico 東 (dōng) em Wang Li, e a inicial (t- ~ ʈ-) aponta para série retroflexa/coronal partilhada. A forma simplificada 桩 abandona a fonética original e adota 庄 (zhuāng), explícito — evidenciando que a escolha fonética original ficou obscura.
 
-**Leitura secundária chōng**: O chardb lista zhuang1 E chong1 como pinyin; a acepção 5 ("擊；刺" — golpear/cravar) é associada a esta leitura. MDBG, CantoDict e o Guangyun (todas consultadas) só registam *zhuāng*/zong1. A leitura *chōng* parece ser preservação do valor fonético original de 舂, mantida em compostos específicos mas apagada no uso comum.
+**Leitura secundária chōng**: O chardb lista zhuang1 E chong1 como pinyin; a acepção 5 ("擊；刺" — golpear/cravar) é associada a esta leitura. MDBG, CantoDict e o Guangyun (todas consultadas) só registram *zhuāng*/zong1. A leitura *chōng* parece ser preservação do valor fonético original de 舂, mantida em compostos específicos mas apagada no uso comum.
 
 **Caractere 新附 e ausência de 段注**: Este é um ponto importante. 段玉裁 (1735–1815) comentou apenas os caracteres do Shuowen original de Xu Shen, não os 新附 adicionados por Xu Xuan. Por isso 樁 carece do aparato crítico filológico completo de que desfrutam caracteres como 拳 ou 手. A análise fica dependente das definições posteriores (Guangyun, Jiyun) e dos usos atestados na literatura medieval em diante.
 
-**Semântica "estaca" → "estável/imóvel"**: O chardb regista uma extensão metafórica documentada na terminologia de jogo: 坐樁 ("sentar-se na estaca") e 做樁 ("fazer estaca") designam a posição da banca. A acepção 3 explicita o sentido: 意取穩定不動 ("o sentido é tomar como estável e imóvel"). O núcleo semântico do caractere — estaca cravada no solo — gera por metáfora os usos secundários ligados à estabilidade.
+**Semântica "estaca" → "estável/imóvel"**: O chardb registra uma extensão metafórica documentada na terminologia de jogo: 坐樁 ("sentar-se na estaca") e 做樁 ("fazer estaca") designam a posição da banca. A acepção 3 explicita o sentido: 意取穩定不動 ("o sentido é tomar como estável e imóvel"). O núcleo semântico do caractere — estaca cravada no solo — gera por metáfora os usos secundários ligados à estabilidade.
