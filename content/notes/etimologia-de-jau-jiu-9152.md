@@ -90,7 +90,7 @@ A glosa do Shuowen — 就 (jiù, "aproximar") — é fonologicamente paronímic
 
 #### Divergências entre fontes
 
-- **酉 → 酒 — bifurcação**: caso clássico de bifurcação grafica. 酉 (yǒu) começa como pictograma do vaso de vinho — atestado em Oracle Shang. Quando 酉 foi emprestado para o sistema dos 12 ramos terrestres (sendo o 10º ramo, associado ao mês de setembro lunar e ao galo do zodíaco), criou-se 酒 (com 水 explícito) para preservar o sentido original "vinho". Padrão típico do chinês.
+- **酉 → 酒 — bifurcação**: caso clássico de bifurcação gráfica. 酉 (yǒu) começa como pictograma do vaso de vinho — atestado em Oracle Shang. Quando 酉 foi emprestado para o sistema dos 12 ramos terrestres (sendo o 10º ramo, associado ao mês de setembro lunar e ao galo do zodíaco), criou-se 酒 (com 水 explícito) para preservar o sentido original "vinho". Padrão típico do chinês.
 - **A tradição mítica do inventor**: 段注 documenta as duas atribuições da invenção do vinho: 儀狄 (Yidi, na corte de Yu, ~2200 AEC) e 杜康 (Du Kang, identificado com Shao Kang, da dinastia Xia). A passagem do *Zhanguo Ce* citada — Yu prova o vinho e considera-o tão bom que afasta Yidi (preocupado com a corrupção que viria de bebida prazerosa demais) — é parábola moral fundadora da ambivalência chinesa frente ao álcool.
 - **就 como glosa homofônica**: a glosa "酒 é 就 [aproximar]" é homofonia paronímica — *jiǔ* e *jiù* são fonologicamente próximos. Mas é também glosa semântica profunda: o vinho aproxima o que estava distante, dissolve barreiras. A definição complementar — "aproxima o bem e o mal da natureza humana" — é antropologicamente sofisticada.
 - **Atestação Oracle**: xiaoxue confirma 2 atestações Oracle Shang (forma 酉). Caractere ritual antiquíssimo.
