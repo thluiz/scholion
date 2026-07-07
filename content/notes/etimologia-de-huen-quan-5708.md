@@ -44,7 +44,7 @@ sources:
 **chardb [Academia Sinica](https://chardb.iis.sinica.edu.tw/search.jsp?stype=1&q=圈)**:
 1. 養牲畜、禽獸的有柵欄的地方 (lugar cercado para criar gado/aves)
 2. 都邑；城邑 (cidade; vila cercada)
-3. 春秋時地名 (topónimo do período Primavera-Outono)
+3. 春秋時地名 (topônimo do período Primavera-Outono)
 4. 姓 (sobrenome)
 5. 把禽獸關在柵欄裡 (encurralar animais)
 6. 關閉；拘禁；收管；關住 (fechar; confinar; administrar; trancar)
@@ -74,7 +74,7 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 1 · atestação Warring States e
 
 (圈)養畜之閑也。畜當作嘼，轉寫改之耳。閑，闌也。牛部曰：牢，閑，養牛馬圈也。是牢與圈得通偁也。从囗卷聲。考公羊傳文十一年：楚子伐圈。音義云：圈，說文作𡈕。而集韵卄五願云圈𡈕二同，養畜閑也。類篇圈𡈕分出，皆云養畜閑也。疑說文本作𡈕，後人改之耳。渠篆切。十四部。
 
-Tradução: "(圈) é 'cerca para criar animais.' 畜 deve ser 嘼, substituído por erro de transcrição. 閑 é 闌 [cerca, grade]. A secção 牛 diz: '牢 e 閑 são o cercado para criar bovinos e equinos.' Portanto, 牢 e 圈 são termos intercambiáveis. De 囗, com 卷 como fonético. Consultando o *Gōngyáng Zhuàn*, ano 11 do duque Wén: '楚子伐圈 — o Conde de Chu atacou 圈 [lugar].' O comentário fonético diz: '圈, no Shuowen escreve-se 𡈕.' E o *Jíyùn*, rima 25 Yuan, diz: '圈 e 𡈕 são o mesmo — cerca para criar animais.' O *Lèipiān* lista 圈 e 𡈕 separadamente, ambos com o mesmo significado. Suspeito que o Shuowen original escrevia 𡈕, sendo alterado pelos pós-homens. Fanqie: 渠篆切. Grupo rímico 14."
+Tradução: "(圈) é 'cerca para criar animais.' 畜 deve ser 嘼, substituído por erro de transcrição. 閑 é 闌 [cerca, grade]. A seção 牛 diz: '牢 e 閑 são o cercado para criar bovinos e equinos.' Portanto, 牢 e 圈 são termos intercambiáveis. De 囗, com 卷 como fonético. Consultando o *Gōngyáng Zhuàn*, ano 11 do duque Wén: '楚子伐圈 — o Conde de Chu atacou 圈 [lugar].' O comentário fonético diz: '圈, no Shuowen escreve-se 𡈕.' E o *Jíyùn*, rima 25 Yuan, diz: '圈 e 𡈕 são o mesmo — cerca para criar animais.' O *Lèipiān* lista 圈 e 𡈕 separadamente, ambos com o mesmo significado. Suspeito que o Shuowen original escrevia 𡈕, sendo alterado pelos pós-homens. Fanqie: 渠篆切. Grupo rímico 14."
 
 Esta é outra intervenção textual característica de 段玉裁: a forma recebida do Shuowen (圈) pode ser substituição tardia do original (𡈕). Convergência com casos de 派 e outros onde Duan identifica interpolações.
 
@@ -83,7 +83,7 @@ Esta é outra intervenção textual característica de 段玉裁: a forma recebi
 | Período | Script | Fonte/Artefato |
 |---------|--------|----------------|
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 包2.254 (Bāoshān 2.254) |
-| Han | Seal 篆書 | 說文·囗部 (Shuōwén, secção 囗) |
+| Han | Seal 篆書 | 說文·囗部 (Shuōwén, seção 囗) |
 | Qin 秦 | Clerical 隸書 | 睡·日甲23背 (Shuìhǔdì Rì jiǎ 23 verso) |
 | Western Han 西漢 | Clerical 隸書 | 一號墓竹簡309 (Yīhàomù zhújiǎn 309 — Mawangdui Tumba 1) |
 | Western Han 西漢 | Clerical 隸書 | 銀雀山簡·王兵 (Yínquèshān jiǎn — Wáng bīng) |
@@ -109,13 +109,13 @@ Esta é outra intervenção textual característica de 段玉裁: a forma recebi
 
 #### Divergências entre fontes
 
-**Múltiplas leituras — tonogénese e especialização semântica**: 圈 apresenta quatro leituras em mandarim moderno (quān, juàn, juān, quán, juǎn), cada uma associada a acepção específica:
+**Múltiplas leituras — tonogênese e especialização semântica**: 圈 apresenta quatro leituras em mandarim moderno (quān, juàn, juān, quán, juǎn), cada uma associada a acepção específica:
 - *quān* — círculo, voltar, rodear (sentido genérico)
 - *juàn* — curral, redil (sentido concreto original)
 - *juān* — encurralar (verbo causativo)
 - *quán* — curvar/dobrar (sentido derivado)
 
-Isto é tonogénese clássica documentada — o lexema raiz produz leituras diferenciadas para agir verbal/nominal, concreto/abstrato. O Guangyun regista vários fanqie (求晚, 臼万, 其卷), confirmando a sistematização antiga das distinções.
+Isto é tonogênese clássica documentada — o lexema raiz produz leituras diferenciadas para agir verbal/nominal, concreto/abstrato. O Guangyun registra vários fanqie (求晚, 臼万, 其卷), confirmando a sistematização antiga das distinções.
 
 **Grafia 𡈕 (alternativa/original) vs 圈 (recebida)**: 段玉裁 suspeita que o Shuowen original escrevia 𡈕 (em que 卷 é substituído por 券 ou variante). A variação 圈/𡈕 é documentada em várias fontes medievais (Jíyùn, Lèipiān). Caso paralelo a 派/𠂢 e outros onde Duan identifica possível corrupção textual. O caractere recebido é 圈, mas a análise etimológica precisa considerar a possível forma original.
 
