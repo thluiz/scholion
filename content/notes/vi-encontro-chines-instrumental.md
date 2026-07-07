@@ -67,7 +67,7 @@ Os termos em circulação na família para nomear o Biu são camadas que se fora
 
 ### Natureza do Biu Ji entre emergência e desafio
 
-Cláudio levantou se o Biu Ji se encaixaria na categoria de [Gau Gap Sau](/notes/etimologia-de-gau-jiu-6551/) 救急手, técnica de emergência. *Gau gap* 救急 é salvamento emergencial; *gau gap che* 救急車, ambulância. Com [sau](/notes/etimologia-de-sau-shou/) 手 forma "mão que salva em emergência".
+Cláudio levantou se o Biu Ji se encaixaria na categoria de [Gau Gap Sau](/notes/etimologia-de-gau-jiu-6551/) 救急手, técnica de emergência. *Gau gap* 救急 é salvamento emergencial; *gau gap che* 救急車, ambulância. Com [sau](/notes/etimologia-de-sau-shou-624b/) 手 forma "mão que salva em emergência".
 
 Si Fu confirmou: a natureza do Biu Ji é técnica de emergência. O cenário tira a pessoa do eixo, e o retorno tem que ser imediato, sem gap. O termo *bússola de alta precisão* não dá conta dessa urgência; precisão pode acontecer devagar, e o Biu Ji não tem como ser devagar.
 

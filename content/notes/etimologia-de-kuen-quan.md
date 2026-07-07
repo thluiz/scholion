@@ -39,7 +39,7 @@ category: etymology
 
 **拳** — U+62F3 · 部首 radical: 手 (shǒu — mão) · 總筆畫 strokes: 10 · 注音 zhuyin: ㄑㄩㄢˊ · 拼音 pinyin: quán / jyutping: kyun4
 
-Caractere irmão de [手 (Sau — Shǒu)](/notes/etimologia-de-sau-shou/). Duan Yucai lê os dois como a mesma coisa, aberta e fechada: 今人舒之爲手，卷之爲拳 — "o que os modernos chamam de 'mão' é ela estendida; enrolada, é 'punho'".
+Caractere irmão de [手 (Sau — Shǒu)](/notes/etimologia-de-sau-shou-624b/). Duan Yucai lê os dois como a mesma coisa, aberta e fechada: 今人舒之爲手，卷之爲拳 — "o que os modernos chamam de 'mão' é ela estendida; enrolada, é 'punho'".
 
 Aparece na máxima [Kuen Mo Lai Yeung 拳無禮讓](https://silva.thluiz.com/posts/kuen-mo-lai-yeung-gwan-mo-leung-heung/) — "o punho não faz cerimônia".
 
@@ -116,7 +116,7 @@ Total: 4 formas. Nenhuma atestação em osso oracular nem em bronze do período 
 
 - **"Mão" vs. "punho"**: o Shuowen reduz 拳 a 手也 ("a mão"). Sem o 段注 a leitura soa tautológica. Duan corrige: 拳 é a mão enrolada, não a mão em geral. chardb def.2 confirma (屈指捲握的手，即拳頭). MDBG, CantoDict e hanziyuan convergem com Duan — lideram com "fist, boxing".
 - **Etimologia por 卷**: Wiktionary (Schuessler 2007, Baxter-Sagart 2014) deriva 拳 de 卷 ("enrolar, curvar"); 段注 antecipa esta leitura dois séculos antes, na glossa 卷之爲拳. A série fonética de 龹 agrupa 拳 com 卷, 券, 豢 — todos partilham o gesto de enrolar/curvar.
-- **Par com 手**: o [Shuowen de 手](/notes/etimologia-de-sau-shou/) define-se como 拳 ("um punho"), e o Shuowen de 拳 define-se como 手 ("a mão"). Duan lê as duas entradas como definição mútua: mão aberta e mão fechada são a mesma coisa em estados opostos (今人舒之爲手，卷之爲拳，其實一也).
+- **Par com 手**: o [Shuowen de 手](/notes/etimologia-de-sau-shou-624b/) define-se como 拳 ("um punho"), e o Shuowen de 拳 define-se como 手 ("a mão"). Duan lê as duas entradas como definição mútua: mão aberta e mão fechada são a mesma coisa em estados opostos (今人舒之爲手，卷之爲拳，其實一也).
 - **Fonético**: hanziyuan grafa 𢍏/龹; shuowen.org e zdic confirmam 龹. Divergência puramente gráfica — mesma série fonética.
 - **Contagem de atestações**: hanziyuan reporta Oracle 0, Bronze 0, Seal 1. xiaoxue acrescenta dois pré-Shuowen: Estados Combatentes Chu (Zeng 212) e Estados Combatentes Qin (Fuzhai), além de clerical Qin (Shuihudi). xiaoxue é mais preciso: há 拳 em Warring States que hanziyuan omite.
 - **Acepções exclusivas do chardb**: def.5 "愛" (afeição — cf. expressão 拳拳服膺 "sincera devoção"), def.7 "弩弓" (besta) e def.9 "姓" (sobrenome) não constam em MDBG nem CantoDict. São leituras clássicas pouco usadas.
