@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 應 (Ying — Yìng / jing3)"
 date: '2026-04-24T20:27:01+01:00'
-summary: "Análise etimológica de 應 (Yìng / jing3), 'responder; corresponder a'. Shuowen: 當也 ('corresponder; ajustar-se'). Composto fonossemântico: 心 (coração) + 𨿳 (fonético). 段注 de Duan Yucai explica: 當 originalmente é 'campos que se tocam/igualam' (田相值); por extensão, toda correspondência, e daí o uso em 'responder' (應對). Duan critica Dà Xú por criar duplicata 譍 na secção 言 — desnecessária. No Hai Tong, aparece em faan ying 反應 — reação instintiva ao jung sin. Sete fontes consultadas."
+summary: "Análise etimológica de 應 (Yìng / jing3), 'responder; corresponder a'. Shuowen: 當也 ('corresponder; ajustar-se'). Composto fonossemântico: 心 (coração) + 𨿳 (fonético). 段注 de Duan Yucai explica: 當 originalmente é 'campos que se tocam/igualam' (田相值); por extensão, toda correspondência, e daí o uso em 'responder' (應對). Duan critica Dà Xú por criar duplicata 譍 na seção 言 — desnecessária. No Hai Tong, aparece em faan ying 反應 — reação instintiva ao jung sin. Sete fontes consultadas."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 category: etymology
@@ -78,7 +78,7 @@ Formas atestadas (xiaoxue): bronze Zhou (䧹公鼎), bambu Chu (包2.174), conso
 
 當也。當，田相值也。引伸爲凡相對之偁。凡言語應對之字卽用此。大徐言部增譍字，非也。諾下，讎下，唉下，對下譍字皆當改正。从心𨿳聲。於陵切。六部。
 
-Tradução: "(應) é 'corresponder' [當]. 當 originalmente é 'campos que se tocam/igualam' [田相值]. Por extensão, designa toda correspondência/resposta. Todo carácter para 'responder em palavras' [言語應對] usa este [應]. Dà Xú [Xú Xuàn] acrescentou o carácter 譍 na secção 言 — isto não é correto. Sob as entradas 諾, 讎, 唉, 對, [onde Xú acrescentou] 譍, deveria ler-se [o original] corrigido. De 心, com 𨿳 como fonético. Fanqie: 於陵切. Grupo rímico 6."
+Tradução: "(應) é 'corresponder' [當]. 當 originalmente é 'campos que se tocam/igualam' [田相值]. Por extensão, designa toda correspondência/resposta. Todo carácter para 'responder em palavras' [言語應對] usa este [應]. Dà Xú [Xú Xuàn] acrescentou o carácter 譍 na seção 言 — isto não é correto. Sob as entradas 諾, 讎, 唉, 對, [onde Xú acrescentou] 譍, deveria ler-se [o original] corrigido. De 心, com 𨿳 como fonético. Fanqie: 於陵切. Grupo rímico 6."
 
 Duan argumenta que 應 cobre tanto a correspondência mental (coração responde, daí 心) quanto a verbal (responder com palavras), tornando desnecessária a duplicata gráfica 譍 (com 言) criada por Xú Xuàn.
 
@@ -88,7 +88,7 @@ Duan argumenta que 應 cobre tanto a correspondência mental (coração responde
 |---------|--------|----------------|
 | Early Western Zhou 西周早期 | Bronze 金文 | 䧹公鼎 (Yīng gōng dǐng — trípode do Conde Ying) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 包2.174 (Bāoshān) |
-| Han | Seal 篆書 | 說文·心部 (Shuōwén, secção 心) |
+| Han | Seal 篆書 | 說文·心部 (Shuōwén, seção 心) |
 | Qin 秦 | Clerical 隸書 | 睡虎地簡34.38 (Shuìhǔdì jiǎn 34.38) |
 | Western Han 西漢 | Clerical 隸書 | 老子甲79 (Lǎozǐ jiǎ 79) |
 | Western Han 西漢 | Clerical 隸書 | 老子乙前6上 (Lǎozǐ yǐ qián 6 shàng) |
@@ -118,9 +118,9 @@ Duan argumenta que 應 cobre tanto a correspondência mental (coração responde
 
 #### Divergências entre fontes
 
-**Polémica Duan vs Xú Xuàn — duplicata 譍**: 段玉裁 rejeita explicitamente a criação da variante 譍 (com 言) por Xú Xuàn. Para Duan, 應 cobre adequadamente ambos os sentidos (responder mental e verbalmente). A tentativa de Xú de especializar graficamente é vista como excesso. Esta é polémica filológica característica do 段注.
+**Polémica Duan vs Xú Xuàn — duplicata 譍**: 段玉裁 rejeita explicitamente a criação da variante 譍 (com 言) por Xú Xuàn. Para Duan, 應 cobre adequadamente ambos os sentidos (responder mental e verbalmente). A tentativa de Xú de especializar graficamente é vista como excesso. Esta é polêmica filológica característica do 段注.
 
-**Tonogénese yīng / yìng**: A bifurcação tonal é documentada no Guangyun:
+**Tonogênese yīng / yìng**: A bifurcação tonal é documentada no Guangyun:
 - yīng (平聲) — aspeto modal/volitivo ("deveria, concordar")
 - yìng (去聲) — aspeto concreto ("responder, corresponder"; leitura do 又切 於證)
 
