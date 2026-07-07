@@ -113,7 +113,7 @@ Total: 7 formas. Ausência notável de formas em bronze (金文).
 - **Pictograma de serpente vs. figura humana**: Shuowen + Zhang Binglin + chardb (def. 1) leem 巴 como pictograma da serpente Ba do Shanhaijing (devoradora de elefantes). Sears (hanziyuan), porém, oferece leitura alternativa: "pessoa ajoelhada com mãos agarrando algo", donde o sentido original "agarrar" — raiz para o sentido derivado de "ansiar, apegar-se". As duas leituras são incompatíveis mas ambas têm tradição interpretativa.
 - **Xu Kai (徐锴)** classifica 巴 como 指事 (caractere indicativo) e interpreta o traço "um" (一) como "aquilo que foi engolido" pela serpente — leitura compatível com Shuowen mas deslocando a classificação pictográfica para indicativa.
 - **Sentido original segundo Sears**: "to grab" (agarrar) — diverge do sentido "serpente" dado por Shuowen, Zhang Binglin e chardb. O MDBG e CantoDict seguem Sears: listam apenas os sentidos derivados (ansiar, apegar-se, aderir), omitindo o sentido original de serpente.
-- **Contagem de formas oraculares**: hanziyuan regista 22 formas em osso (J30391–J30412); xiaoxue regista apenas 2 (乙961, 乙3627). Divergência provável de corpora.
+- **Contagem de formas oraculares**: hanziyuan registra 22 formas em osso (J30391–J30412); xiaoxue registra apenas 2 (乙961, 乙3627). Divergência provável de corpora.
 - **Ausência de bronze**: ambos (hanziyuan e xiaoxue) confirmam 0 formas em bronze (金文) — o caractere só reaparece no pequeno selo Shuowen e no clerical Han.
 - **Arco semântico duplo**: (a) serpente → nome de estado/comando (Ba, leste de Sichuan) → sobrenome; (b) agarrar → apegar-se → ansiar → aderir → grudar. Dois arcos separados que convivem no mesmo grafema.
 </content>
