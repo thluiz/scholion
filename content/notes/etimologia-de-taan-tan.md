@@ -75,7 +75,7 @@ Nota: 攤 não aparece no corpo principal do *Shuowen Jiezi* de Xu Shen — é e
 
 | Período | Script | Fonte/Artefato | Forma |
 |---------|--------|----------------|-------|
-| Han / pós-Han (corpus selado transmitido) | Pequeno selo (xiǎozhuàn 小篆) | *Shuowen Jiezi*, 手部 (secção do radical mão) | única forma de selo atestada (字號 8061) |
+| Han / pós-Han (corpus selado transmitido) | Pequeno selo (xiǎozhuàn 小篆) | *Shuowen Jiezi*, 手部 (seção do radical mão) | única forma de selo atestada (字號 8061) |
 
 **Shuowen (xiaoxue)**: 《說文新附》：「攤，開也。从手，難聲。」 ("Shuowen Xinfu: 攤, abrir / espalhar. De 手 (mão); 難 (nán) é o fonético.")
 
