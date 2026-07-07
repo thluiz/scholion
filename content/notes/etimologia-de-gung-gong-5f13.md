@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 弓 (Gung — Gōng / gung1)"
 date: '2026-04-26T19:16:12+01:00'
-summary: "Análise etimológica de 弓 (Gōng / gung1), 'arco; curvar-se; arquear'. Pictograma de arco — caractere é ele próprio chave de secção Shuowen e radical Kangxi 57. Shuowen: 以近窮遠 ('com o próximo, alcançar o distante' — definição funcional do arco). 段注 cita o *Zhouli* sobre os 六弓 (Seis Arcos) — sistema cerimonial Zhou: 王弓, 弧弓 (penetração de armadura), 夾弓, 庾弓 (caça de aves), 唐弓, 大弓 (instrução). 7 oracle bones + bronzes Western Zhou. No Hai Tong: chin gung 前弓 (postura de arco frontal) — postura clássica em que a perna dianteira flexiona como arco e a traseira reta. Sete fontes consultadas."
+summary: "Análise etimológica de 弓 (Gōng / gung1), 'arco; curvar-se; arquear'. Pictograma de arco — caractere é ele próprio chave de seção Shuowen e radical Kangxi 57. Shuowen: 以近窮遠 ('com o próximo, alcançar o distante' — definição funcional do arco). 段注 cita o *Zhouli* sobre os 六弓 (Seis Arcos) — sistema cerimonial Zhou: 王弓, 弧弓 (penetração de armadura), 夾弓, 庾弓 (caça de aves), 唐弓, 大弓 (instrução). 7 oracle bones + bronzes Western Zhou. No Hai Tong: chin gung 前弓 (postura de arco frontal) — postura clássica em que a perna dianteira flexiona como arco e a traseira reta. Sete fontes consultadas."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 category: etymology
@@ -30,7 +30,7 @@ sources:
 
 ### 弓
 
-**弓** — U+5F13 · 部首 radical: 弓 (caractere é ele próprio chave de secção Shuowen e **radical Kangxi 57**) · 總筆畫 strokes: 3 · 注音 zhuyin: ㄍㄨㄥ · 拼音 pinyin: gōng · jyutping: gung1
+**弓** — U+5F13 · 部首 radical: 弓 (caractere é ele próprio chave de seção Shuowen e **radical Kangxi 57**) · 總筆畫 strokes: 3 · 注音 zhuyin: ㄍㄨㄥ · 拼音 pinyin: gōng · jyutping: gung1
 
 Aparece no Hai Tong de Moy Yat em **chin gung 前弓** (arco-frontal — postura). Etimologicamente é pictograma do arco (instrumento de tiro); por extensão, designa **a forma curvada/arqueada**. Na nomenclatura marcial chinesa, postura **chin gung hau jin 前弓後箭** (frente-arco-atrás-flecha) descreve a configuração das pernas: dianteira flexionada como arco, traseira esticada como flecha.
 
@@ -40,7 +40,7 @@ Aparece no Hai Tong de Moy Yat em **chin gung 前弓** (arco-frontal — postura
 
 **CantoDict**: gung1 (tom 1, alto plano)
 
-**chardb**: (não retornou ficha individual — sendo 弓 chave de secção Shuowen, a busca devolve apenas listagem de 238 caracteres derivados)
+**chardb**: (não retornou ficha individual — sendo 弓 chave de seção Shuowen, a busca devolve apenas listagem de 238 caracteres derivados)
 
 #### Decomposição e formas antigas ([hanziyuan](https://hanziyuan.net/#弓))
 
@@ -50,18 +50,18 @@ Notas hanziyuan: "um arco"
 Inglês: bow; curved, arched; **radical Kangxi nº 57**
 Exemplo de uso: 弓箭 gōng jiàn (arco e flecha)
 Frequência: 1932 (uso especializado — arcaico)
-Shuowen (hanziyuan): 以近窮遠象形古者揮作弓周禮六弓王弓弧弓以射甲革甚質夾弓庚弓以射于侯鳥獸唐弓大弓以授學射者凡弓之屬皆從弓 (Para alcançar o distante a partir do próximo. Pictograma. Antigamente Hui [揮] fez o arco. O *Zhouli* [tem] os Seis Arcos: 王弓 [arco real], 弧弓 [arco curvo] para penetrar pele e armadura; 夾弓 [arco duplo], 庾弓 [arco celeiro] para caçar aves e bestas; 唐弓 [arco Tang], 大弓 [arco grande] para instruir aprendizes de arquearia. Todos os caracteres da secção 弓 seguem 弓.)
+Shuowen (hanziyuan): 以近窮遠象形古者揮作弓周禮六弓王弓弧弓以射甲革甚質夾弓庚弓以射于侯鳥獸唐弓大弓以授學射者凡弓之屬皆從弓 (Para alcançar o distante a partir do próximo. Pictograma. Antigamente Hui [揮] fez o arco. O *Zhouli* [tem] os Seis Arcos: 王弓 [arco real], 弧弓 [arco curvo] para penetrar pele e armadura; 夾弓 [arco duplo], 庾弓 [arco celeiro] para caçar aves e bestas; 唐弓 [arco Tang], 大弓 [arco grande] para instruir aprendizes de arquearia. Todos os caracteres da seção 弓 seguem 弓.)
 Formas atestadas: Oracle 7 · Bronze ?
 
 #### Shuowen Jiezi completo (via zdic.net)
 
-**說文**: 以近窮遠。象形。古者揮作弓。《周禮》六弓：王弓、弧弓以射甲革甚質；夾弓、庾弓以射干侯鳥獸；唐弓、大弓以授學射者。凡弓之屬皆从弓。居戎切。 ([Para] alcançar o distante a partir do próximo. Pictograma. Antigamente, **Hui [揮 — ministro do Imperador Amarelo] fez o arco**. *Zhouli*: Seis Arcos — 王弓 [arco real], 弧弓 [arco curvo] para atirar contra couraça e couro firme; 夾弓 [arco duplo], 庾弓 [arco celeiro] para atirar em aves e bestas; 唐弓 [arco Tang], 大弓 [arco grande] para instruir aprendizes de arquearia. Todos os caracteres da secção 弓 seguem 弓. Fanqie: 居戎切.)
+**說文**: 以近窮遠。象形。古者揮作弓。《周禮》六弓：王弓、弧弓以射甲革甚質；夾弓、庾弓以射干侯鳥獸；唐弓、大弓以授學射者。凡弓之屬皆从弓。居戎切。 ([Para] alcançar o distante a partir do próximo. Pictograma. Antigamente, **Hui [揮 — ministro do Imperador Amarelo] fez o arco**. *Zhouli*: Seis Arcos — 王弓 [arco real], 弧弓 [arco curvo] para atirar contra couraça e couro firme; 夾弓 [arco duplo], 庾弓 [arco celeiro] para atirar em aves e bestas; 唐弓 [arco Tang], 大弓 [arco grande] para instruir aprendizes de arquearia. Todos os caracteres da seção 弓 seguem 弓. Fanqie: 居戎切.)
 
 **段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido):
 
 (弓)竆也。補此二字。以㬪韵爲訓之例也。㠯近竆遠者。者字今補。象形。居戎切。古音在六部。讀如肱。古者揮作弓。郭景純引世本曰。牟夷作矢。揮作弓。此等皆當出世本作篇。揮、黃帝臣。周禮。六弓。王弓、弧弓㠯䠶甲革甚質。夾弓、庾弓㠯䠶干侯鳥獸。唐弓、大弓㠯授學䠶者。夏官司弓矢文也。說詳鄭注。甚質今作椹質。按故書作鞎。大鄭云。鞎當爲椹。許書無椹字。葢許從鄭。鄭本作甚也。干今作豻。凡弓之屬皆从弓。
 
-Tradução parcial: "(弓) é 竆 [qióng — alcançar/limite extremo] — acrescento estes dois caracteres [para esclarecer a definição]. **Glosa por aliteração rímica** (㬪韵爲訓). 'Com o próximo, alcançar o distante.' [...] Pictograma. Fanqie: 居戎切. Pronúncia antiga no grupo 6. Lê-se como 肱 [gōng — antebraço]. **Antigamente, Hui fez o arco.** Guo Jingchun cita o *Shiben*: 'Mou Yi fez a flecha; Hui fez o arco.' [...] **Hui é ministro do Imperador Amarelo** [黃帝臣]. *Zhouli*: Seis Arcos — 王弓, 弧弓 para atirar contra couraça (甲) e couro (革) firme [甚質]; 夾弓, 庾弓 para atirar em aves e bestas; 唐弓, 大弓 para ensinar aprendizes de arquearia. [Fonte:] *Xia guan, Si gong shi* [《夏官·司弓矢》, secção do *Zhouli*]. [...] Todos os caracteres da secção 弓 seguem 弓."
+Tradução parcial: "(弓) é 竆 [qióng — alcançar/limite extremo] — acrescento estes dois caracteres [para esclarecer a definição]. **Glosa por aliteração rímica** (㬪韵爲訓). 'Com o próximo, alcançar o distante.' [...] Pictograma. Fanqie: 居戎切. Pronúncia antiga no grupo 6. Lê-se como 肱 [gōng — antebraço]. **Antigamente, Hui fez o arco.** Guo Jingchun cita o *Shiben*: 'Mou Yi fez a flecha; Hui fez o arco.' [...] **Hui é ministro do Imperador Amarelo** [黃帝臣]. *Zhouli*: Seis Arcos — 王弓, 弧弓 para atirar contra couraça (甲) e couro (革) firme [甚質]; 夾弓, 庾弓 para atirar em aves e bestas; 唐弓, 大弓 para ensinar aprendizes de arquearia. [Fonte:] *Xia guan, Si gong shi* [《夏官·司弓矢》, seção do *Zhouli*]. [...] Todos os caracteres da seção 弓 seguem 弓."
 
 #### Evolução de formas ([xiaoxue yanbian](https://xiaoxue.iis.sinica.edu.tw/yanbian?char=弓))
 
@@ -78,7 +78,7 @@ Tradução parcial: "(弓) é 竆 [qióng — alcançar/limite extremo] — acre
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 曾43 (Zēng 43 — Zenghouyi 43) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 天策 (Tiān cè — Bambus de Tian) |
 | Late Spring/Autumn or Warring States early, Qin 春秋晚期或戰國早期·秦 | Stone drum inscription 石鼓文 | 石鼓文.田車 (Shǐgǔwén — *Tambores de Pedra*, *Carro de Caça*) |
-| Han | Seal 篆書 | 說文‧弓部 (Shuōwén, secção 弓) |
+| Han | Seal 篆書 | 說文‧弓部 (Shuōwén, seção 弓) |
 | Qin 秦 | Clerical 隸書 | 睡.日甲27背 (Shuìhǔdì *Rishu jiǎ* 27 verso) |
 | Western Han 西漢 | Clerical 隸書 | 武威簡.燕禮51 (Wǔwēi jiǎn, *Yan li* 51 — bambu Wuwei, *Ritos do Banquete*) |
 | Eastern Han 東漢 | Clerical 隸書 | 禮器碑陰 (Lǐ qì bēi yīn — verso da *Estela dos Vasos Rituais*) |
