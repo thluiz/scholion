@@ -111,10 +111,10 @@ Atestação tardia: apenas Warring States Qin em diante. 開 parece ser caracter
 
 **Análise estrutural — 從門從幵 (Dà Xú, composto duplo) vs 門+幵聲 (段注, fonossemântico)**: Xú Xuàn lê 開 como composto semântico de 門 e 幵. 段玉裁 rejeita, preferindo tratar 幵 como fonético. A polêmica reflete a dificuldade de classificar caracteres em que o elemento "fonético" migra entre grupos rímicos ao longo do tempo.
 
-**Analogia arco-porta — valor semântico extraordinário**: A glosa 段注 (門之開如弓之張 — "abrir a porta é como tensionar o arco") é observação comparativa rica. 張 (estender, tensionar) é o verbo nuclear do arco; aplicar a mesma palavra à porta revela a conceção do "abrir" como ato tensional, não mecânico. 
+**Analogia arco-porta — valor semântico extraordinário**: A glosa 段注 (門之開如弓之張 — "abrir a porta é como tensionar o arco") é observação comparativa rica. 張 (estender, tensionar) é o verbo nuclear do arco; aplicar a mesma palavra à porta revela a concepção do "abrir" como ato tensional, não mecânico. 
 
 **Ausência pré-Qin**: Atestação mais antiga no xiaoxue é Warring States Qin (鐵續). 開 consolida-se tardiamente. Vocábulos anteriores para "abrir" (啟, 闢) concorriam no léxico pré-Qin.
 
-**Convergência 微部 Old Chinese**: Cinco sistemas unanimes no grupo 微 (wēi). Mesmo grupo de 歸 (gwai), 回 (wui), 退 (toei), 器 (hei). Campo fonológico coerente partilhado.
+**Convergência 微部 Old Chinese**: Cinco sistemas unânimes no grupo 微 (wēi). Mesmo grupo de 歸 (gwai), 回 (wui), 退 (toei), 器 (hei). Campo fonológico coerente partilhado.
 
 **Hoi jong 開樁 e hoi loi 開來 no Hai Tong**: O composto 開樁 aparece no Hai Tong descrevendo o rito de "abertura da estaca" (Ip Man iniciando Moy Yat no Muk Yan Jong). 開來 ("abrir os vindouros") emparelha com 繼往 na expressão neoconfucionista 繼往開來 ("continuar o passado, abrir o futuro"). 開 em ambos carrega a dimensão inaugural/ativa.
