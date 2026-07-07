@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 柔 (Yau — Róu / jau4)"
 date: '2026-05-09T03:49:46+01:00'
-summary: "Etimologia de 柔 (yau / róu / jau4): suave, flexível. Composto fonossemântico de 木 (madeira) + 矛 (máo, fonético). No Shuowen, 'capacidade da madeira de ser curvada ou retificada' — núcleo do conceito taoista de flexibilidade vence o rígido. Aparece em yau sun 柔順 (suave-flexível), do Siu Nim Tao no Hai Tong por Moy Yat."
+summary: "Etimologia de 柔 (yau / róu / jau4): suave, flexível. Composto fonossemântico de 木 (madeira) + 矛 (máo, fonético). No Shuowen, 'capacidade da madeira de ser curvada ou retificada' — núcleo do conceito taoísta de flexibilidade vence o rígido. Aparece em yau sun 柔順 (suave-flexível), do Siu Nim Tao no Hai Tong por Moy Yat."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 category: etymology
@@ -63,7 +63,7 @@ Shuowen (hanziyuan): 木曲直也從木矛聲 ("é a madeira que se curva ou se 
 
 **段注 Duan Yucai** (paráfrase via zdic.net): 木曲直也。洪範曰。木曰曲直。凡木曲者可直、直者可曲曰柔。考工記多言揉。許作煣。云屈申木也。必木有可曲可直之性、而後以火屈之申之。此柔與煣之分別次弟也。詩荏染柔木。則謂生木。柔之引伸爲凡耎弱之偁、凡撫安之偁。從木。矛聲。耳由切。三部 ("Madeira que se curva ou retifica. O *Hongfan* (洪範) diz: 'Madeira é o que se curva e retifica.' Toda madeira curvada pode ser retificada, e toda madeira reta pode ser curvada — eis 柔. O *Kaogong ji* (考工記) frequentemente usa 揉 *róu* (manipular/dobrar com as mãos); Xu Shen registra 煣 (curvar com fogo). Diz: 'curvar e estender madeira'. A madeira precisa ter natureza flexível antes que se possa curvá-la com fogo. Esta é a distinção sequencial entre 柔 (qualidade da madeira) e 煣 (operação técnica). O *Shijing* '荏染柔木' (planta tenra, madeira flexível) refere-se à madeira viva. Por extensão, 柔 designa qualquer coisa flexível/fraca, e qualquer ato de pacificar/acalmar. Do 木, fonético 矛. Fanqie 耳由. Som antigo na 3ª divisão de rima.")
 
-A passagem é fundamental no pensamento clássico chinês: 柔 não é meramente "macio", é a *capacidade da matéria de receber forma sem se romper*. Essa propriedade é a base da virtude taoista 柔弱勝剛強 *róu ruò shèng gāng qiáng* "o suave e fraco vencem o rígido e forte" (*Daodejing* 36, 78).
+A passagem é fundamental no pensamento clássico chinês: 柔 não é meramente "macio", é a *capacidade da matéria de receber forma sem se romper*. Essa propriedade é a base da virtude taoísta 柔弱勝剛強 *róu ruò shèng gāng qiáng* "o suave e fraco vencem o rígido e forte" (*Daodejing* 36, 78).
 
 #### Evolução de formas (xiaoxue yanbian)
 
@@ -82,7 +82,7 @@ A passagem é fundamental no pensamento clássico chinês: 柔 não é meramente
 #### Divergências entre fontes
 
 - **柔 vs. 煣 — qualidade vs. operação**: o Shuowen distingue 柔 (qualidade da madeira: ser flexível) de 煣 (ato técnico: curvar madeira com fogo). 揉 *róu* é o ato manual de dobrar; 煣 *róu* o ato com fogo; 柔 *róu* a propriedade subjacente. Essa hierarquia (qualidade → manipulação) sustenta a leitura do *Daodejing*: a virtude do 柔 é *propriedade do material*, não atributo moral; resulta em maleabilidade real, não em cortesia performática.
-- **Sentido cosmológico — 五行 dos *Cinco Elementos***: 柔 está integrado ao sistema dos Cinco Elementos via o *Hongfan* (洪範) — "Madeira é o que se curva e se retifica" (木曰曲直). Cada elemento tem sua *propriedade característica*: madeira = flexibilidade; metal = corte; água = descida; fogo = subida; terra = produção. 柔 nomeia a propriedade da madeira no sistema.
+- **Sentido cosmológico — 五行 dos *Cinco Elementos***: 柔 está integrado ao sistema dos Cinco Elementos via o *Hongfan* (洪範) — "Madeira é o que se curva e se retifica" (木曰曲直). Cada elemento tem sua *propriedade caractereística*: madeira = flexibilidade; metal = corte; água = descida; fogo = subida; terra = produção. 柔 nomeia a propriedade da madeira no sistema.
 - **Composição fonética**: 矛 (lança) como fonético é arbitrário — sem ligação semântica direta. A correspondência fonológica *máo* → *róu* envolve a transição inicial 明 *míng* (m-) → 日 *rì* (r-/n-), atestada em outras séries fonéticas. A escolha gráfica é puramente fonossemântica.
 - **Atestações antigas**: caractere de fixação clássica, ausente do oracle/bronze. Primeira atestação clara é o selo Han do Shuowen.
 - **Cantonês**: jau4 (tom 4 baixo nivelado) preserva 平聲 次濁 do Guangyun; com a inicial 日 (nasal palatal sonora) → j- jyutping. Forma estável.
