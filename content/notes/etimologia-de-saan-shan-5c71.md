@@ -45,7 +45,7 @@ sources:
 4. 像山的(東西) (coisa que se parece com uma montanha)
 5. 山狀飾紋 (ornamento decorativo em forma de montanha)
 6. 大；巨大 (grande; enorme)
-7. 山裡邊。古指僧、道、隱士的住處 (no interior da montanha; antigamente, a morada de monges, taoistas e eremitas)
+7. 山裡邊。古指僧、道、隱士的住處 (no interior da montanha; antigamente, a morada de monges, taoístas e eremitas)
 8. 謙詞 (termo de modéstia)
 9. 粗俗 (grosseiro, rústico)
 10. 姓 (sobrenome)
