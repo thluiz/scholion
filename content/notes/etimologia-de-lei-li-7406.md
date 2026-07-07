@@ -99,7 +99,7 @@ Atestação consolidada em bronzes Zhou.
 
 **Componente 玉 semanticamente ativo**: 玉 (jade) não é mero radical classificatório — é semanticamente ativo. A etimologia Shuowen faz depender o sentido do caractere da prática real de trabalhar jade. Esta é uma das etimologias em que o radical é parte integrante da lógica semântica.
 
-**Convergência 之部**: Cinco sistemas unanimes em 之 (zhī). Mesmo grupo de 置 (ji) — ambos caracteres frequentes em discurso administrativo/filosófico.
+**Convergência 之部**: Cinco sistemas unânimes em 之 (zhī). Mesmo grupo de 置 (ji) — ambos caracteres frequentes em discurso administrativo/filosófico.
 
 **Kuen lei 拳理 no Hai Tong**: O composto 拳理 ("teoria do punho" = princípio marcial) aparece no Hai Tong Biu Ji: "se tiver o auxílio dos dois primeiros to kuen, será capaz de dominar o 拳理 (princípio do punho)". 理 aqui ativa o sentido filosófico-técnico (acepção 10) — a lógica interna do sistema marcial, análoga às veias do jade. Dominar o 拳理 é seguir as veias internas do Ving Tsun Kuen.
 
