@@ -89,7 +89,7 @@ Atestação consolidada Zhou em diante.
 
 **Etimologia cerimonial — da posição da corte ao sentido genérico**: O Shuowen ancora 位 na disposição formal dos oficiais na corte Zhou — imagem muito específica. 段玉裁 documenta a extensão semântica: da posição literal na corte (do Zhouli) ao sentido genérico "lugar onde se está/reside". Esta é trajetória semântica típica do léxico administrativo-cerimonial chinês.
 
-**Grupos rímicos — divergência 緝/微**: Dong Tonghe classifica 位 entre 緝 e 微 (dupla classificação); Li Fanggui em 緝 (com nota de incerteza "?"). A complexidade reflete o facto de 位 ter final vocálico (-i/-əi) difícil de categorizar entre grupos vizinhos.
+**Grupos rímicos — divergência 緝/微**: Dong Tonghe classifica 位 entre 緝 e 微 (dupla classificação); Li Fanggui em 緝 (com nota de incerteza "?"). A complexidade reflete o fato de 位 ter final vocálico (-i/-əi) difícil de categorizar entre grupos vizinhos.
 
 **Correção 庭 → 廷 no 段注**: Duan Yucai corrige o Shuowen recebido: 庭 ("pátio") deveria ser 廷 ("corte formal"). Correção filológica que preserva a especificidade cerimonial.
 
