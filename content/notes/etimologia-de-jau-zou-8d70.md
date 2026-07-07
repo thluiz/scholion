@@ -30,7 +30,7 @@ sources:
 
 ### 走
 
-**走** — U+8D70 · 部首 radical: 走 (zǒu — caractere é ele próprio chave de secção Shuowen e radical Kangxi 156) · 總筆畫 strokes: 7 · 注音 zhuyin: ㄗㄡˇ · 拼音 pinyin: zǒu · jyutping: zau2
+**走** — U+8D70 · 部首 radical: 走 (zǒu — caractere é ele próprio chave de seção Shuowen e radical Kangxi 156) · 總筆畫 strokes: 7 · 注音 zhuyin: ㄗㄡˇ · 拼音 pinyin: zǒu · jyutping: zau2
 
 Variantes arcaicas: 𣥚 · 𧺆.
 
@@ -42,7 +42,7 @@ Aparece no Hai Tong de Moy Yat em jau wai 走位 (mover-se de posição — voca
 
 **CantoDict**: zau2 (tom 2, alto ascendente)
 
-**chardb**: (não retornou ficha individual — sendo 走 chave de secção Shuowen, a busca devolve apenas listagem de variantes)
+**chardb**: (não retornou ficha individual — sendo 走 chave de seção Shuowen, a busca devolve apenas listagem de variantes)
 
 #### Decomposição e formas antigas ([hanziyuan](https://hanziyuan.net/#走))
 
@@ -52,19 +52,19 @@ Notas hanziyuan: "homem caminhando"
 Inglês: walk, go on foot; run; leave
 Exemplo de uso: 走廊 zǒu láng (corredor)
 Frequência: 201 (uso muito frequente)
-Shuowen (hanziyuan): 趨也從夭止夭止者屈也凡走之屬皆從走徐鎧曰走則足曲故從夭 (Apressar-se. De 夭 e 止. 夭止 significa "dobrar". Todos os caracteres da secção 走 seguem 走. Xu Kai diz: ao correr, o pé dobra-se mais — daí vem de 夭.)
+Shuowen (hanziyuan): 趨也從夭止夭止者屈也凡走之屬皆從走徐鎧曰走則足曲故從夭 (Apressar-se. De 夭 e 止. 夭止 significa "dobrar". Todos os caracteres da seção 走 seguem 走. Xu Kai diz: ao correr, o pé dobra-se mais — daí vem de 夭.)
 Variantes arcaicas: 𣥚 · 𧺆
 Formas atestadas: Oracle 0 · Bronze 17 · Seal 1 · Liushutong 7
 
 #### Shuowen Jiezi completo (via zdic.net)
 
-**說文**: 趨也。从夭止。夭止者，屈也。凡走之屬皆从走。子苟切。 (Apressar-se. De 夭 e 止. 夭止 significa "dobrar". Todos os caracteres da secção 走 seguem 走. Fanqie: 子苟切.)
+**說文**: 趨也。从夭止。夭止者，屈也。凡走之屬皆从走。子苟切。 (Apressar-se. De 夭 e 止. 夭止 significa "dobrar". Todos os caracteres da seção 走 seguem 走. Fanqie: 子苟切.)
 
 **段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido):
 
 (走)趨也。釋名曰。徐行曰步。疾行曰趨。疾趨曰走。此析言之。許渾言不別也。今俗謂走徐、趨疾者、非。从夭止。夭者、屈也。依韵會訂。夭部曰。夭、屈也。止部曰。止爲足。从夭止者、安步則足胻較直。趨則屈多。子苟切。四部。大雅假本奏爲奔走。凡走之屬皆从走。
 
-Tradução: "(走) é apressar-se. O *Shiming* (《釋名》) diz: '**徐行曰步** [caminhar lento chama-se 步]; **疾行曰趨** [caminhar rápido chama-se 趨]; **疾趨曰走** [correr/disparar chama-se 走].' Isto é distinguir analiticamente. Xu Shen [許君] não distingue [usa a glosa em sentido amplo]. **Hoje vulgarmente dizem 走 [= lento] e 趨 [= rápido], o que é incorreto** [今俗謂走徐、趨疾者、非]. De 夭 e 止. 夭 significa 'dobrar' [屈]. Segundo a correção do *Yunhui*. A secção 夭 diz: '夭 é dobrar.' A secção 止 diz: '止 é o pé.' De 夭 e 止: **ao caminhar tranquilamente, a tíbia [胻] do pé é relativamente reta; ao correr, dobra-se mais**. Fanqie: 子苟切. Grupo rímico 4. Em *Da Ya* [Grandes Odes do *Shijing*], 假 [jiǎ] na origem era 奏 [zòu — apressar-se], que significa 奔走 [bēn zǒu — correr]. Todos os caracteres da secção 走 seguem 走."
+Tradução: "(走) é apressar-se. O *Shiming* (《釋名》) diz: '**徐行曰步** [caminhar lento chama-se 步]; **疾行曰趨** [caminhar rápido chama-se 趨]; **疾趨曰走** [correr/disparar chama-se 走].' Isto é distinguir analiticamente. Xu Shen [許君] não distingue [usa a glosa em sentido amplo]. **Hoje vulgarmente dizem 走 [= lento] e 趨 [= rápido], o que é incorreto** [今俗謂走徐、趨疾者、非]. De 夭 e 止. 夭 significa 'dobrar' [屈]. Segundo a correção do *Yunhui*. A seção 夭 diz: '夭 é dobrar.' A seção 止 diz: '止 é o pé.' De 夭 e 止: **ao caminhar tranquilamente, a tíbia [胻] do pé é relativamente reta; ao correr, dobra-se mais**. Fanqie: 子苟切. Grupo rímico 4. Em *Da Ya* [Grandes Odes do *Shijing*], 假 [jiǎ] na origem era 奏 [zòu — apressar-se], que significa 奔走 [bēn zǒu — correr]. Todos os caracteres da seção 走 seguem 走."
 
 #### Evolução de formas ([xiaoxue yanbian](https://xiaoxue.iis.sinica.edu.tw/yanbian?char=走))
 
@@ -77,7 +77,7 @@ Tradução: "(走) é apressar-se. O *Shiming* (《釋名》) diz: '**徐行曰�
 | Western Zhou middle 西周中期 | Bronze 金文 | 伯中父簋 (Bó Zhòng Fù guǐ — vaso *gui* de Bo Zhong Fu) |
 | Late Warring States, Jin 戰國晚期·晉 | Bronze 金文 | 中山王鼎 (Zhōngshān wáng dǐng — vaso *ding* do Rei de Zhongshan) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 望1.22 (Wàngshān 1.22 — bambu de Wangshan) |
-| Han | Seal 篆書 | 說文‧走部 (Shuōwén, secção 走) |
+| Han | Seal 篆書 | 說文‧走部 (Shuōwén, seção 走) |
 | Qin 秦 | Clerical 隸書 | 睡.日甲13背 (Shuìhǔdì *Rishu jiǎ* 13 verso) |
 | Western Han 西漢 | Clerical 隸書 | 老子甲後325 (Lǎozǐ jiǎ hòu 325 — Mawangdui Laozi A verso) |
 | Western Han 西漢 | Clerical 隸書 | 相馬經5上 (*Xiàng mǎ jīng* 5 shang — *Manual de Avaliação de Cavalos*, Mawangdui) |
@@ -134,7 +134,7 @@ Esta classificação é coerente com a forma de cada caractere: 步 (止+𣥂 �
 
 **Sem atestação oracle (hanziyuan) — divergência com xiaoxue**: hanziyuan reporta 0 oracle bones; xiaoxue lista 1 (甲2810). Divergência típica entre os dois bancos. Mesmo assim, 走 é mais bem atestado em bronzes Western Zhou (17 bronzes — 大盂鼎, 作周公簋, 大鼎, 伯中父簋) que em oracle, sugerindo emergência mais robusta no vocabulário Zhou que no Shang.
 
-**Sentido eufemístico "morrer" (走了)**: MDBG regista a acepção eufemística "morrer" — 他走了 (tā zǒu le — "ele se foi" = "ele morreu"). Esta extensão semântica é antiga e estável: o morto "se vai", "parte". Comparável ao português "ele se foi". No registro afetivo familiar moderno, esta acepção é predominante para evitar a brutalidade de 死.
+**Sentido eufemístico "morrer" (走了)**: MDBG registra a acepção eufemística "morrer" — 他走了 (tā zǒu le — "ele se foi" = "ele morreu"). Esta extensão semântica é antiga e estável: o morto "se vai", "parte". Comparável ao português "ele se foi". No registro afetivo familiar moderno, esta acepção é predominante para evitar a brutalidade de 死.
 
 **Frequência 201 (hanziyuan) — alta**: 走 está entre os 250 caracteres mais frequentes do banco de Sears. Reflexo do uso constante em verbos de movimento básicos (走路, 走廊, 走入, 走出, 走過, 走向 etc).
 
