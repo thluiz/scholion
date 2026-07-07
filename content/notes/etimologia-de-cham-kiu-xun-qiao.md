@@ -131,7 +131,7 @@ Formas atestadas: Oracle 22 · Bronze 0 · Seal 0 · Liushutong 11
 
 **段注 e o empréstimo 尋=燅**: Duan Yucai nota um empréstimo fonético antigo: nos textos clássicos dos Ritos, 尋 substitui 燅 "aquecer" (como em aquecer a carne do sacrifício). A passagem do Zuǒzhuàn 「若可尋也，亦可寒也」 confirma: "se pode ser aquecido (尋), também pode ser arrefecido." Este uso é completamente ausente do MDBG e do chardb.
 
-**Decomposição — ideográfica complexa**: O Shuowen decompõe 尋 em quatro componentes ideográficos (工+口 = desordem; 又+寸 = pôr em ordem) com 彡 como fonético. O hanziyuan interpreta como duas mãos (左+右) estendendo uma fita de medir. São leituras complementares: o Shuowen é abstracto-moral (ordem a partir do caos), o hanziyuan é concreto-gestual (medir com os braços abertos).
+**Decomposição — ideográfica complexa**: O Shuowen decompõe 尋 em quatro componentes ideográficos (工+口 = desordem; 又+寸 = pôr em ordem) com 彡 como fonético. O hanziyuan interpreta como duas mãos (左+右) estendendo uma fita de medir. São leituras complementares: o Shuowen é abstrato-moral (ordem a partir do caos), o hanziyuan é concreto-gestual (medir com os braços abertos).
 
 **Fonologia — inicial Old Chinese**: Zhou Fagao e Li Fanggui reconstroem *r-, enquanto Karlgren dá *dz- e Wang Li/Dong Tonghe dão *z-. A fricativa/aproximante *r- é mais recente na reconstrução e explica melhor a evolução para 邪 Xié no Middle Chinese.
 
