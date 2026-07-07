@@ -37,7 +37,7 @@ Variantes:
 - 针 (U+9488) — simplificada moderna
 - 箴 (U+7BB4) — variante de bambu (chardb lista como aparentado)
 
-**Nota essencial**: 針 é forma popular tardia — 今俗作針 ("hoje a forma popular escreve-se 針", 段注). O carácter filológico original é 鍼.
+**Nota essencial**: 針 é forma popular tardia — 今俗作針 ("hoje a forma popular escreve-se 針", 段注). O caractere filológico original é 鍼.
 
 #### Definições
 
