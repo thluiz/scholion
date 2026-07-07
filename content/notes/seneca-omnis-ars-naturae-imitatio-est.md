@@ -13,6 +13,6 @@ sources:
     kind: book
 ---
 
-Da *Epistula 65.3*: "omnis ars naturae imitatio est" — toda arte é imitação da natureza. A frase aparece na discussão de Sêneca sobre as causas aristotélicas. Ele apresenta o exemplo da estátua: bronze é matéria, escultor é causa eficiente, modelo é causa exemplar, finalidade — adornar templo ou casa — é causa final.
+Da *Epistula 65.3*: "omnis ars naturae imitatio est" — toda arte é imitação da natureza. A frase aparece na discussão de Sêneca sobre as [causas aristotélicas](/notes/quatro-causas-de-aristoteles-dos-textos-ao-telos/). Ele apresenta o exemplo da estátua: bronze é matéria, escultor é causa eficiente, modelo é causa exemplar, finalidade — adornar templo ou casa — é causa final.
 
 A fórmula é tradução latina da doutrina aristotélica em *Física* II.2 e *Poética* 1.2, onde a *technē* humana toma a *physis* como modelo. Em Sêneca, a frase circula isoladamente como axioma estético, mas o contexto original é metafísico: a arte como estrutura mimética que reproduz, em escala humana, a causalidade que opera no cosmos. Aquino retomaria a formulação na *Suma Teológica* (I, q.117, a.1) como pressuposto da técnica humana, e a tradição renascentista a incorporaria como divisa.
