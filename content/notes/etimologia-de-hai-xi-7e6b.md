@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 繫 (Hai — Xì / hai6)"
 date: '2026-04-24T20:23:08+01:00'
-summary: "Análise etimológica de 繫 (Xì / hai6), 'atar, ligar; conectar'. Shuowen: 繫𦃇也。一曰惡絮 ('繫𦃇 [fibras grossas]; outra leitura: fios inferiores'). Composto fonossemântico: 糸 (fio) + 毄 (fonético, jī). 段注 de Duan Yucai critica a tradição textual, notando que o sentido original (fibras grosseiras) foi obscurecido quando 系 passou a substituir 繫 em usos tardios. Múltiplos fanqie registados (古詣, 牽兮, 胡計), refletindo leituras divergentes. No Hai Tong, aparece em luen hai 聯繫 (conexão/vinculação). Sete fontes consultadas."
+summary: "Análise etimológica de 繫 (Xì / hai6), 'atar, ligar; conectar'. Shuowen: 繫𦃇也。一曰惡絮 ('繫𦃇 [fibras grossas]; outra leitura: fios inferiores'). Composto fonossemântico: 糸 (fio) + 毄 (fonético, jī). 段注 de Duan Yucai critica a tradição textual, notando que o sentido original (fibras grosseiras) foi obscurecido quando 系 passou a substituir 繫 em usos tardios. Múltiplos fanqie registrados (古詣, 牽兮, 胡計), refletindo leituras divergentes. No Hai Tong, aparece em luen hai 聯繫 (conexão/vinculação). Sete fontes consultadas."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 category: etymology
@@ -68,15 +68,15 @@ Formas atestadas (xiaoxue): Han Ocidental (蒼頡篇12), Han Oriental (流沙簡
 
 繫𦃇讀如谿黎。曡韵字，音轉爲縴𦃇...从糸。𣪠聲。大徐古詣切，非也...集韵、繫，牽兮切...至鼎臣奉敕校定此書，亦徑云古詣切，何淺率如是。
 
-Tradução: "繫𦃇 lê-se como 谿黎 [xī lí, "desfilar de montanha"]. É um binômio rímico [曡韵字 — palavra com rima reduplicada]; por mudança fonológica torna-se 縴𦃇. De 糸. 𣪠 [=毄] é o fonético. Dà Xú [Xú Xuàn] lê 古詣切 — isto não é correto... O *Jíyùn* regista: '繫, 牽兮切'. Até Dǐngchén [Xú Xuàn], ao receber a comissão imperial de revisar este livro, também grafou diretamente 古詣切 — que superficialidade a sua!"
+Tradução: "繫𦃇 lê-se como 谿黎 [xī lí, "desfilar de montanha"]. É um binômio rímico [曡韵字 — palavra com rima reduplicada]; por mudança fonológica torna-se 縴𦃇. De 糸. 𣪠 [=毄] é o fonético. Dà Xú [Xú Xuàn] lê 古詣切 — isto não é correto... O *Jíyùn* registra: '繫, 牽兮切'. Até Dǐngchén [Xú Xuàn], ao receber a comissão imperial de revisar este livro, também grafou diretamente 古詣切 — que superficialidade a sua!"
 
-Duan Yucai critica explicitamente a leitura 古詣切 da edição de Xú Xuàn, argumentando que a leitura correta é 牽兮切 (do *Jíyùn*). A polémica sobre o fanqie reflete a variação dialetal/diacrónica de 繫.
+Duan Yucai critica explicitamente a leitura 古詣切 da edição de Xú Xuàn, argumentando que a leitura correta é 牽兮切 (do *Jíyùn*). A polêmica sobre o fanqie reflete a variação dialetal/diacrónica de 繫.
 
 #### Evolução de formas ([xiaoxue yanbian](https://xiaoxue.iis.sinica.edu.tw/yanbian?char=繫))
 
 | Período | Script | Fonte/Artefato |
 |---------|--------|----------------|
-| Han | Seal 篆書 | 說文·糸部 (Shuōwén, secção 糸) |
+| Han | Seal 篆書 | 說文·糸部 (Shuōwén, seção 糸) |
 | Western Han 西漢 | Clerical 隸書 | 蒼頡篇12 (Cāngjié piān 12) |
 | Eastern Han 東漢 | Clerical 隸書 | 流沙簡·補遺1.11 (Liúshā jiǎn — Bǔyí 1.11) |
 | Cao Wei 曹魏 | Clerical 隸書 | 魏上尊號奏 (Wèi shàng zūnhào zòu) |
@@ -104,15 +104,15 @@ Atestação escassa pré-Han (ausente em oracle e bronze) confirma consolidaçã
 
 #### Divergências entre fontes
 
-**Múltiplos fanqie e leituras — polémica de 段玉裁**: O Guangyun regista três fanqie possíveis:
+**Múltiplos fanqie e leituras — polêmica de 段玉裁**: O Guangyun registra três fanqie possíveis:
 - 口奚切 (kou xi) — leitura primária no xiaoxue
 - 古詣切 (gǔ yì) — dada por Xú Xuàn no Shuowen, criticada por Duan
 - 胡計切 (hú jì) — listada no Kangxi
 - 牽兮切 (qiān xī) — dada pelo *Jíyùn*, endorsada por Duan
 
-A polémica reflete a multiplicidade de leituras que co-existiam no Middle Chinese para este caractere. Moderno mandarim consolidou jì; cantonês preserva hai6 (correspondente ao 牽兮切).
+A polêmica reflete a multiplicidade de leituras que co-existiam no Middle Chinese para este caractere. Moderno mandarim consolidou jì; cantonês preserva hai6 (correspondente ao 牽兮切).
 
-**Substituição 繫 → 系 no uso popular**: No moderno, 系 substitui 繫 para a maioria dos usos. 系 originalmente era outro caractere (pictograma de "fio suspenso"); a convergência gráfica é fenómeno de simplificação do séc. XX. A forma tradicional 繫 preserva-se em uso cantonês e em compostos literários.
+**Substituição 繫 → 系 no uso popular**: No moderno, 系 substitui 繫 para a maioria dos usos. 系 originalmente era outro caractere (pictograma de "fio suspenso"); a convergência gráfica é fenômeno de simplificação do séc. XX. A forma tradicional 繫 preserva-se em uso cantonês e em compostos literários.
 
 **Semântica primária — "fibras grosseiras" vs "atar"**: O Shuowen define 繫 primeiramente como 繫𦃇 (fibras de qualidade inferior). A acepção "atar/ligar" (acepção 2 do chardb) é derivada — fibras grosseiras eram usadas como cordas para atar. O uso moderno privilegia totalmente a acepção derivada; o sentido primário de "fibras" está esquecido.
 
