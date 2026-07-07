@@ -70,7 +70,7 @@ Formas atestadas: Oracle 0 · Bronze muitas · Seal 1 · abundante em bambu
 
 (器)皿也。皿部曰。皿、飯食之用器也。然則皿專謂食器。器乃凡器統偁。器下云皿也者、散文則不别也。木部曰。有所盛曰器。無所盛曰械。陸德明本如是。象器之口。謂㗊也。與上文从㗊字不同。犬所㠯守之。會意。去冀切。冀當作旣。十五部。
 
-Tradução: "(器) é 'vaso' [皿]. A secção 皿 diz: '皿 é o utensílio usado para comida.' Então, 皿 refere-se especificamente a vasilhas de comida. 器 é termo geral para qualquer utensílio. Quando a entrada 器 diz 皿也, é uso informal (散文) que não distingue. A secção 木 diz: 'o que contém chama-se 器; o que não contém chama-se 械.' A edição de Lù Démíng é assim. 象器之口 refere-se a 㗊 [quatro bocas]. É diferente dos outros caracteres que se compõem com 㗊. 犬所以守之 — o cão o guarda. Composto semântico [會意]. Fanqie: 去冀切. 冀 deve ser 旣 [correção filológica]. Grupo rímico 15."
+Tradução: "(器) é 'vaso' [皿]. A seção 皿 diz: '皿 é o utensílio usado para comida.' Então, 皿 refere-se especificamente a vasilhas de comida. 器 é termo geral para qualquer utensílio. Quando a entrada 器 diz 皿也, é uso informal (散文) que não distingue. A seção 木 diz: 'o que contém chama-se 器; o que não contém chama-se 械.' A edição de Lù Démíng é assim. 象器之口 refere-se a 㗊 [quatro bocas]. É diferente dos outros caracteres que se compõem com 㗊. 犬所以守之 — o cão o guarda. Composto semântico [會意]. Fanqie: 去冀切. 冀 deve ser 旣 [correção filológica]. Grupo rímico 15."
 
 A distinção 器 / 皿 (genérico / específico-para-comida) e 器 / 械 (com ou sem capacidade contentora) é terminologicamente rica no 段注.
 
@@ -89,14 +89,14 @@ A distinção 器 / 皿 (genérico / específico-para-comida) e 器 / 械 (com o
 | Late Warring States, Chu 戰國晚期·楚 | Bronze 金文 | 大𢊾之器銅牛 (Dà X zhī qì tóng niú — touro de bronze ritual) |
 | Warring States, Chu 戰國·楚 | Bamboo 楚簡 | 包2.251 / 信2.09 / 郭·語1.107 |
 | Warring States, Qin 戰國·秦 | varied | 集粹 / 陶彙5.10 |
-| Han | Seal 篆書 | 說文·㗊部 (Shuōwén, secção 㗊) |
+| Han | Seal 篆書 | 說文·㗊部 (Shuōwén, seção 㗊) |
 | Qin 秦 | Clerical 隸書 | 睡虎地簡21.199 (Shuìhǔdì) |
 | Qin 秦 | Clerical 隸書 | 五十二病方251 ("52 Prescrições") |
 | Western Han 西漢 | Clerical 隸書 | 老子甲41 (Lǎozǐ jiǎ 41) |
 | Western Han 西漢 | Clerical 隸書 | 居延簡甲712 (Jūyán jiǎn) |
 | Eastern Han 東漢 | Clerical 隸書 | 禮器碑 (Lǐqì bēi — Estela dos Instrumentos Rituais — apropriado!) |
 
-**Shuowen (xiaoxue)** (inferido da secção): 《說文》：「器，皿也。象器之口，犬所以守之。」
+**Shuowen (xiaoxue)** (inferido da seção): 《說文》：「器，皿也。象器之口，犬所以守之。」
 
 #### Fonologia ([xiaoxue shangguyin](https://xiaoxue.iis.sinica.edu.tw/shangguyin?char=器))
 
@@ -120,7 +120,7 @@ A distinção 器 / 皿 (genérico / específico-para-comida) e 器 / 械 (com o
 
 **Leitura do pictograma — "4 bocas + cão guardando" (Shuowen) vs "4 peças de cerâmica em vara" (hanziyuan)**: O Shuowen analisa 器 como 4 bocas (aberturas de recipientes) 㗊 com 犬 (cão) no centro — cão protegendo utensílios. hanziyuan propõe leitura alternativa: "four potteries on a carrying pole" (quatro peças de cerâmica numa vara de transporte) — reanalisando 犬 como representação do suporte. A leitura Shuowen é claramente metafórica (cão guardião); a leitura hanziyuan é mais materialista/etnográfica. Nenhuma é definitivamente estabelecida pela epigrafia, pois o caractere aparece já formado em bronzes Zhou.
 
-**Radical 皿 (chardb) vs 㗊 (Shuowen)**: chardb atribui 器 ao radical 皿 (seguindo Kangxi). O Shuowen classifica sob 㗊部 (secção 㗊 — "quatro bocas"). O 皿 não aparece na composição visível de 器 — a classificação chardb é sistémica (皿 agrupa utensílios), não etimológica. Xiaoxue confirma 說文·㗊部.
+**Radical 皿 (chardb) vs 㗊 (Shuowen)**: chardb atribui 器 ao radical 皿 (seguindo Kangxi). O Shuowen classifica sob 㗊部 (seção 㗊 — "quatro bocas"). O 皿 não aparece na composição visível de 器 — a classificação chardb é sistémica (皿 agrupa utensílios), não etimológica. Xiaoxue confirma 說文·㗊部.
 
 **Distinção 器/皿/械 no 段注**: O 段注 preserva um triplo distintivo terminológico:
 - 皿 — vasilhame específico para comida
@@ -131,7 +131,7 @@ Esta distinção é a base da tradução exata de 器 em contextos técnicos. No
 
 **Oposição filosófica 器/道**: A acepção 10 do chardb documenta a dicotomia clássica 形而上者謂之道，形而下者謂之器 ("o que está acima da forma chama-se 道; o que está abaixo da forma chama-se 器") do *Yìjīng*. 器 é o domínio da manifestação concreta, contraposto ao princípio abstrato. Esta dicotomia é central em todo pensamento técnico chinês — o Muk Yan Jong é 器 (instrumento), não 道, mas o domínio do Ving Tsun Kuen Sut passa pela relação entre instrumento e princípio.
 
-**Leituras qì/cì**: chardb regista duas leituras (qi4, ci4). A leitura cì não aparece no Guangyun nem em MDBG — é provavelmente uso dialetal/derivado não sistemático.
+**Leituras qì/cì**: chardb registra duas leituras (qi4, ci4). A leitura cì não aparece no Guangyun nem em MDBG — é provavelmente uso dialetal/derivado não sistemático.
 
 **Correção filológica 冀→旣**: 段玉裁 explicitamente corrige o caractere do fanqie (冀 deve ser 旣). Correção textual menor mas exemplar do rigor filológico do 段注.
 
