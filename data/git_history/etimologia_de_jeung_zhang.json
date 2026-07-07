@@ -1,14 +1,14 @@
 [
   {
+    "date": "2026-07-07",
+    "subject": "fix: lexico PT-BR (PT-EU) em etimologia-de-jeung-zhang"
+  },
+  {
     "date": "2026-04-23",
     "subject": "feat: categorias etymology (📜) e disciple (🙇) para notas de etimologia e discípulos"
   },
   {
     "date": "2026-04-22",
     "subject": "note: 段注 de 掌 via zdic.net"
-  },
-  {
-    "date": "2026-04-22",
-    "subject": "note: etimologia de 掌 (Jeung — Zhǎng / zoeng2)"
   }
 ]

@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-07-07",
+    "subject": "fix: lexico PT-BR (PT-EU) em etimologia-de-mou-mao-6bdb"
+  },
+  {
+    "date": "2026-07-07",
     "subject": "fix: regenera etimologia de 毛 (auditoria de fontes, radical Kangxi 82)"
   },
   {

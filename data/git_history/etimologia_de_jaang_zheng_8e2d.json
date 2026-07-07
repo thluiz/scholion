@@ -1,14 +1,14 @@
 [
   {
+    "date": "2026-07-07",
+    "subject": "fix: lexico PT-BR (PT-EU) em etimologia-de-jaang-zheng-8e2d"
+  },
+  {
     "date": "2026-04-29",
     "subject": "note(etimologia-jaang): remove 'canto agudo'/'pontiagudas' não atestados"
   },
   {
     "date": "2026-04-29",
     "subject": "note(etimologia-jaang): auditoria — adiciona variante padrão 㬹, Hakka, Wiktionary e corrige traços (15/13)"
-  },
-  {
-    "date": "2026-04-29",
-    "subject": "note(etimologia-jaang): corrige 'cobrir o cotovelo', PT-BR e linka 冚"
   }
 ]

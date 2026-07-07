@@ -1,14 +1,14 @@
 [
   {
+    "date": "2026-07-07",
+    "subject": "fix: lexico PT-BR (PT-EU) em etimologia-de-yi-yi-4f9d"
+  },
+  {
     "date": "2026-04-23",
     "subject": "feat: linka nomes de discípulo nas notas de etimologia"
   },
   {
     "date": "2026-04-23",
     "subject": "feat: categorias etymology (📜) e disciple (🙇) para notas de etimologia e discípulos"
-  },
-  {
-    "date": "2026-04-23",
-    "subject": "fix: corrige 'nome de linhagem' para 'nome kung fu' em 26 notas"
   }
 ]

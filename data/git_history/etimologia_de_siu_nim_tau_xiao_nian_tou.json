@@ -1,14 +1,14 @@
 [
   {
+    "date": "2026-07-07",
+    "subject": "fix: lexico PT-BR (PT-EU) em etimologia-de-siu-nim-tau-xiao-nian-tou"
+  },
+  {
     "date": "2026-04-23",
     "subject": "feat: categorias etymology (📜) e disciple (🙇) para notas de etimologia e discípulos"
   },
   {
     "date": "2026-04-17",
     "subject": "chore: normaliza tags de notas — formato bracket + tag de episódio"
-  },
-  {
-    "date": "2026-04-12",
-    "subject": "feat: skill research-chinese-etymology + 3 notas (標指, 尋橋, 小念頭)"
   }
 ]
