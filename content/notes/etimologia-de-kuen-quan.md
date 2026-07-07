@@ -88,7 +88,7 @@ O 段注 é decisivo: 拳 não é "a mão" em geral — é a mão *enrolada sobr
 |---------|--------|----------------|
 | Estados Combatentes (Chu 楚) | Escrita em bambu e seda Chu 楚系簡帛 | 曾 212 (Zēng 212 — região do túmulo de Zeng Hou Yi) |
 | Estados Combatentes (Qin 秦) | Selo de bronze | 簠齋 (Fǔzhāi — coleção sigilográfica Qin de Chen Jieqi) |
-| Han Oriental (Eastern Han) | Pequeno selo 小篆 | 說文‧手部 (Shuowen, secção do radical 手) |
+| Han Oriental (Eastern Han) | Pequeno selo 小篆 | 說文‧手部 (Shuowen, seção do radical 手) |
 | Qin 秦 | Clerical 隸書 | 睡虎地簡 36.90 (Shuihudi, bambu 36.90, Hubei) |
 
 Total: 4 formas. Nenhuma atestação em osso oracular nem em bronze do período pré-Qin.
