@@ -64,7 +64,7 @@ A análise de Duan Yucai documenta com precisão geográfica o **rio 決水 hist
 | Han Ocidental | clerical | 縱橫家書157, 居延簡甲722 | clerical |
 | Han Oriental | clerical | 史晨碑, 蒼山畫象石題記 | clerical |
 
-Apenas 8 atestações registradas pelo xiaoxue. Caractere de fixação grafica tardia (Estados Combatentes em diante), embora o conceito de "decidir/romper" seja antiquíssimo nos clássicos.
+Apenas 8 atestações registradas pelo xiaoxue. Caractere de fixação gráfica tardia (Estados Combatentes em diante), embora o conceito de "decidir/romper" seja antiquíssimo nos clássicos.
 
 **Shuowen (xiaoxue)**: 決，行流也。从水，从夬。廬江有決水，出於大別山 (texto completo).
 
