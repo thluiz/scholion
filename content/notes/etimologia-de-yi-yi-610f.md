@@ -79,7 +79,7 @@ Formas atestadas (hanziyuan): Oracle 0 · Bronze 0 · Seal 1 (S07591) · Liushut
 
 **說文**: 意，志也。从心察言而知意也。从心，从音。於記切。 ("Yì: 志 [zhì — vontade/intenção do coração]. A partir do coração, examinando [察 chá] a fala, conhece-se a intenção. Composto de 心 (coração) e 音 (som/fala). Fanqie: 於記.")
 
-**段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido para este caractere): 意是 "o que o coração identifica"; o sentido tem ligação semântica com 測度 (cè dù — medir/inferir) e 記 (jì — memória). No *Lúnyǔ* a passagem 毋意毋必 ("não ter conjectura nem insistência") relaciona-se com o sentido de "especulação/conjectura". A composição 从心音 é 會意 (ideograma composto). Fanqie 於記, 1ª secção de rima do som arcaico.
+**段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido para este caractere): 意是 "o que o coração identifica"; o sentido tem ligação semântica com 測度 (cè dù — medir/inferir) e 記 (jì — memória). No *Lúnyǔ* a passagem 毋意毋必 ("não ter conjectura nem insistência") relaciona-se com o sentido de "especulação/conjectura". A composição 从心音 é 會意 (ideograma composto). Fanqie 於記, 1ª seção de rima do som arcaico.
 
 ### Evolução de formas (xiaoxue yanbian)
 
