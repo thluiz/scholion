@@ -93,7 +93,7 @@ Formas atestadas (hanziyuan): Oracle 0 · Bronze 0 · Seal 0 · Liushutong 6 (L2
 
 Total: 2 formas atestadas no xiaoxue — muito tardio. Sem formas oraculares, em bronze ou de selo pequeno. Caractere de formação relativamente recente, consolidado apenas na era Han.
 
-**Shuowen (xiaoxue)**: (não retornou Shuowen na ficha do xiaoxue para este caractere — ver texto completo na secção anterior via zdic.)
+**Shuowen (xiaoxue)**: (não retornou Shuowen na ficha do xiaoxue para este caractere — ver texto completo na seção anterior via zdic.)
 
 ### Fonologia (xiaoxue shangguyin)
 
