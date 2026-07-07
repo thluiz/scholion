@@ -76,7 +76,7 @@ A entrada Shuowen está sob a forma original **𡎐** (variante de 埶):
 
 (𡎐)穜也。齊風毛傳曰：蓺猶樹也。樹、種義同。从𠃨坴。會意。土部曰：坴，土塊坴坴也。𠃨字今補。𠃨持穜之。説從𠃨之意。
 
-Tradução: "(𡎐) é cultivo. O *Mao Zhuan* [comentário Mao] sobre o *Qi Feng* [Aires de Qi, secção das *Odes*] diz: '蓺 [arte/cultivar] é como plantar árvore.' 樹 [plantar/árvore] e 種 [plantar/semente] partilham o sentido. Composto ideográfico (會意) de 𠃨 [segurar] + 坴 [solo]. A secção 土 diz: '坴 são torrões de terra amontoados.' O caractere 𠃨 é restituído por mim. 𠃨 [segurar] firmemente para plantar. Esta é a explicação do sentido de 𠃨."
+Tradução: "(𡎐) é cultivo. O *Mao Zhuan* [comentário Mao] sobre o *Qi Feng* [Aires de Qi, seção das *Odes*] diz: '蓺 [arte/cultivar] é como plantar árvore.' 樹 [plantar/árvore] e 種 [plantar/semente] partilham o sentido. Composto ideográfico (會意) de 𠃨 [segurar] + 坴 [solo]. A seção 土 diz: '坴 são torrões de terra amontoados.' O caractere 𠃨 é restituído por mim. 𠃨 [segurar] firmemente para plantar. Esta é a explicação do sentido de 𠃨."
 
 #### Evolução de formas ([xiaoxue yanbian](https://xiaoxue.iis.sinica.edu.tw/yanbian?char=藝))
 
