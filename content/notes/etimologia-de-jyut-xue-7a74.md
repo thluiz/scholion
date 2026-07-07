@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 穴 (Jyut — Xué / jyut6)"
-date: '2026-07-06T14:13:12+01:00'
-summary: 'O caractere-radical de caverna/cova, Kangxi nº 116. O Shuowen lê 穴 como 土室也 "câmara de terra" e o analisa como fonograma (从宀八聲); a paleografia o lê como pictograma puro de uma habitação escavada e nega o elemento fonético 八.'
+date: '2026-07-07T19:30:48+01:00'
+summary: 'O pictograma de caverna, radical Kangxi nº 116. O Shuowen glosa 穴 como 土室也 "habitação de terra"; a paleografia da CUHK e do 小學堂 lê forma de caverna, não derivada de 八.'
 toc: true
 tags: ["china", "linguagem", "etimologia", "ideogramas", "radicais"]
 category: etymology
@@ -28,96 +28,88 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 116 (穴, caverna, cova). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 116 (穴, caverna). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **穴** — U+7A74 · 部首 radical: 穴 (nº 116) · 總筆畫 strokes: 5 · 注音 zhuyin: ㄒㄩㄝˊ · 拼音 pinyin: xué / jyutping: jyut6
 
 #### Definições
 
-**MDBG**: caverna; cavidade; buraco; ponto de acupuntura; pronúncia em Taiwan [xue4]. (Não exibiu jyutping.)
+**MDBG**: cave / cavity / hole / acupuncture point / Taiwan pr. [xue4]
 
-**CantoDict**: jyut6 (tom 6, entrante baixo). Confirmado pela CUHK.
+**CantoDict**: jyut6 (tom 6). A CUHK registra jyut6.
 
-**chardb Academia Sinica** (讀音 veio em branco no dump):
-1. 土室。 (câmara de terra; habitação escavada no solo)
-2. 洞窟。 (gruta; caverna)
+**chardb Academia Sinica**:
+1. 土室。 (habitação de terra)
+2. 洞窟。 (caverna)
 3. 蟲蟻鳥獸棲宿處。 (lugar onde insetos, formigas, aves e feras se abrigam)
-4. 墓坑。 (cova sepulcral; fossa de tumba)
-5. 窟窿；孔隙。 (buraco; fresta, orifício)
-6. 水道；河流。 (curso d'água; rio)
-7. 人體可以進行針灸的部位。 (região do corpo humano onde se pode aplicar acupuntura)
-8. 穴居；穴藏。 (habitar em caverna; ocultar-se em cova)
-9. 挖鑿；洞穿。 (escavar; perfurar, traspassar)
-10. 喻鑽研。 (figuradamente: aprofundar-se no estudo, "cavar" a fundo)
-11. 側；旁邊。 (lado; ao lado, margem)
-12. 量詞。計算洞穴數量的單位。 (classificador: unidade para contar cavidades ou tocas)
+4. 墓坑。 (cova funerária)
+5. 窟窿；孔隙。 (buraco; fenda)
+6. 水道；河流。 (curso d’água; rio)
+7. 人體可以進行針灸的部位。 (parte do corpo humano onde se pode realizar acupuntura e moxabustão)
+8. 穴居；穴藏。 (viver em cavernas; armazenar em cavidade)
+9. 挖鑿；洞穿。 (escavar; perfurar)
+10. 喻鑽研。 (por extensão, estudar a fundo)
+11. 側；旁邊。 (lado; ao lado)
+12. 量詞。計算洞穴數量的單位。 (classificador. unidade para contar cavernas)
 13. 姓。 (sobrenome)
-14. 通「鐍」。 (usado como variante de 鐍 [lingueta, fecho de tranca])
+14. 通「鐍」。 (equivale a 「鐍」)
 
 #### Decomposição e formas antigas (hanziyuan)
 
-Componentes: pictograma; hanziyuan glosa o componente 穴 como "yurt-cave" e anota "a yurt with flap door" (uma tenda/abrigo com aba de porta) — não decomponível em partes menores.
-Significado original: caverna (本义: a cave).
-Acepções inglesas: cave, den, hole; radical Kangxi 116.
+Componentes: 穴.
+Significado original: Meaning a cave (本义: cave).
+Acepções inglesas: cave, den, hole; KangXi radical 116.
 Frequência de uso: 2035.
-Formas atestadas: o hanziyuan retornou 0 formas de oráculo e 0 de bronze, 1 selo (S05300) e 2 do 六書通 (L26793, L26794); as atestações epigráficas constam da tabela do 小學堂 abaixo.
+Formas atestadas: hanziyuan registra ausência de formas conhecidas em Oracle characters 甲骨文 e Bronze characters 金文; para Seal characters 说文解字的篆字, registra 1 forma.
 
 #### Shuowen Jiezi completo
 
-(Texto verbatim obtido via CUHK e 小學堂, convergentes; hanziyuan traz a mesma glosa sem pontuação: 土室也從宀八聲凡穴之屬皆從穴.)
+(shuowen.org retornou apenas a listagem das primeiras entradas do dicionário; texto verbatim obtido via CUHK e 小學堂, com diferença na cauda.)
 
 **說文**: 穴，土室也。从宀，八聲。凡穴之屬皆从穴。〔胡決切〕
-(穴 é uma "câmara de terra" [habitação escavada no solo]. Compõe-se de 宀 [teto, cobertura] com 八 como elemento fonético. Todo caractere da classe de 穴 segue 穴. [fanqie: 胡決].)
+(Caverna é uma habitação de terra. Vem de 宀, com 八 como elemento sonoro. Todo caractere da classe de 穴 segue 穴. [fanqie: 胡決切])
 
-**段注 Duan Yucai**: (texto integral não obtido — shuowen.org retornou listagem; zdic.net retornou HTTP 404. A CUHK cita apenas o fragmento 「引伸之凡空竅皆為穴」 — "por extensão, toda cavidade oca é 穴".)
+**段注 Duan Yucai**: (não obtido — shuowen.org retornou listagem; zdic.net retornou HTTP 404)
 
 #### Evolução de formas (xiaoxue yanbian)
 
-(共搜尋到 7 字 — 7 formas atestadas na tabela do 小學堂.)
-
 | Período | Script | Fonte / Artefato |
 |---|---|---|
-| Reinos Combatentes — Chu | Bambu / seda (簡帛) | 新甲3.83 |
-| Reinos Combatentes — Chu | Bambu / seda (簡帛) | 新乙1.24 |
+| Reinos Combatentes — Chu | Bambu / seda | 新甲3.83; 新乙1.24 |
 | Han | Selo pequeno (小篆) | 說文‧穴部 (Shuowen, seção 穴) |
-| Qin | Clerical (隸書) | 睡虎地‧封74 (Shuihudi, 封診式) |
-| Han Ocidental | Clerical (隸書) | 老子乙前145上 (Laozi, manuscrito Yi) |
-| Han Ocidental | Clerical (隸書) | 相馬經60 (Xiangmajing) |
-| Han Oriental | Clerical (隸書) | 熹‧詩‧小雅‧黃鳥 (Clássicos em Pedra de Xiping, Shijing, Xiaoya, "Huangniao") |
+| Qin | Clerical (隸書) | 睡.封74(隸) |
+| Han Ocidental | Clerical (隸書) | 老子乙前145上(隸); 相馬經60(隸) |
+| Han Oriental | Clerical (隸書) | 熹.詩.小雅.黃鳥(隸) |
 
 **Shuowen (xiaoxue)**: 穴，土室也。从宀，八聲。
 
 **Comentários de estudiosos**:
-- 朱駿聲《通訓定聲》: 象嵌空之形，非八字。 (Retrata a forma de algo escavado e oco; não é o caractere 八.)
-- 林義光《文源》: 穴、八不同音。（字形）象穴形。 (穴 e 八 não são homófonos; a forma retrata uma caverna.)
-- CUHK (形義通解): 象形字，象洞穴之形。本義為居住用的洞穴。 (Pictograma que retrata a forma de uma caverna; sentido original: a caverna usada para habitação. A CUHK acrescenta que a análise do Shuowen — 从八聲 — se baseia em forma tardia e mal segmentada, pois a forma antiga de 穴 não deriva de 八; cf. Ji Xusheng.)
+- 小學堂: 朱駿聲通訓定聲：「象嵌空之形，非八字。」林義光《文源》：「按：穴、八不同音。（字形）象穴形。」 (Zhu Junsheng, em *Tongxun Dingsheng*: "representa a forma de algo escavado e vazio; não é o caractere 八." Lin Yiguang, em *Wenyuan*: "nota: 穴 e 八 têm sons diferentes. (A forma gráfica) representa a forma de uma caverna.")
+- CUHK (略說): 象形字，象洞穴之形。本義為居住用的洞穴。 (Caractere pictográfico; representa a forma de uma caverna. O sentido original é uma caverna usada para habitação.)
+- CUHK (詳解): 象形字，象洞穴之形。本義為居住用的洞穴。《說文》：「穴，土室也。从宀，八聲。」目前甲骨文和金文未見單獨的「穴」字。金文中「穴」用作偏旁，字形參見「空」、「窵」等。《說文》認為「穴」從「八」聲，是根據較晚的字形誤析，早期「穴」的字形不是從「八」。（參季旭昇） (Caractere pictográfico; representa a forma de uma caverna. O sentido original é uma caverna usada para habitação. O *Shuowen* diz: "穴，土室也。从宀，八聲。" Até o momento, não se vê o caractere independente 「穴」 em甲骨文 e 金文. Em 金文, 「穴」 é usado como componente, e a forma pode ser vista em 「空」、「窵」 etc. O *Shuowen* entende que 「穴」 tem 「八」 como elemento sonoro, mas isso é uma análise equivocada baseada em forma mais tardia; nas formas antigas, 「穴」 não deriva de 「八」. [cf. Ji Xusheng])
 
 #### Fonologia (xiaoxue shangguyin)
 
 **中古音 Middle Chinese (Guangyun)**:
-- 攝 Division: 山 (Shan) · 韻 Rhyme: 屑 (Xie; CUHK registra o par 先/屑) · 聲 Tone: 入 (entering) · 母 Initial: 匣 (h- / ɣ-, ponto 喉 guttural)
+- 攝 Division: 山 (Shan) · 韻 Rhyme: 屑 (Xie) · 聲 Tone: 入 (entering) · 母 Initial: 匣 (x-)
 - 反切 Fanqie: 胡決 · 等 Grade: 四 (IV) · 開合 Open/Closed: 合 (closed) · 清濁: 全濁 (sonora plena)
 
 **上古音 Old Chinese**:
-- 高本漢 Karlgren (grupo de rima não indicado na tabela): ɡʰiwet
-- 王力 Wang Li (grupo 質 Zhi): ɣiwet
-- 董同龢 Dong Tonghe (grupo 脂 Zhi): ɣiuet
-- 周法高 Zhou Fagao (grupo 質 Zhi): ɡwet
-- 李方桂 Li Fanggui (grupo 脂 Zhi): gwit
+- 高本漢 Karlgren: ɡʰ iwet
+- 王力 Wang Li: ɣ iwet
+- 董同龢 Dong Tonghe: ɣ iuet
+- 周法高 Zhou Fagao: ɡ wet
+- 李方桂 Li Fanggui: gw it
 - 鄭張尚芳 Zhengzhang Shangfang: (não retornou dados — ausente da tabela do 小學堂)
-
-(Camada Han na tabela: 西漢 e 東漢 no grupo 質.)
 
 **國語 Mandarin IPA**: ɕye
 
 #### Divergências entre fontes
 
-**Leitura do grafismo.** O *Shuowen* define 穴 como 土室也 ("câmara de terra") e o analisa como fonograma — 从宀，八聲 (semântico 宀 "cobertura" + fonético 八). A paleografia rejeita essa segmentação: a CUHK (形義通解), o 小學堂, 朱駿聲 (通訓定聲) e 林義光 (文源) convergem em ler 穴 como pictograma (象形) de uma caverna, e negam que 八 seja elemento fonético (穴、八不同音; 非八字). É a divergência entre a leitura Han fonética do *Shuowen* e a leitura paleográfica moderna, que o toma como pictograma puro.
+**Leitura do grafismo.** O *Shuowen* registra 穴 como 形聲: 「从宀，八聲」. O 小學堂 cita 朱駿聲 e 林義光 para negar essa análise, com as formulações 「象嵌空之形，非八字」 e 「穴、八不同音。（字形）象穴形」. A CUHK, em 略說 e 詳解, também registra 穴 como 象形字 e afirma que a análise do *Shuowen* com 八聲 é uma 誤析 baseada em forma tardia.
 
-**Ausência em oráculo e bronze.** hanziyuan (0 甲骨文, 0 金文) e a CUHK ("甲骨文和金文未見單獨的「穴」字") convergem: não há 穴 isolado em oráculo nem em bronze — nesses estratos ele só aparece como componente (p.ex. em 空, 窵). As primeiras atestações do caractere isolado são de bambu/seda Chu dos Reinos Combatentes.
+**Extensão do texto do Shuowen.** A CUHK traz o texto do *Shuowen* com a cauda completa 「凡穴之屬皆从穴。〔胡決切〕」. O 小學堂 yanbian registra só 「穴，土室也。从宀，八聲。」, sem a cauda classificatória nem o fanqie.
 
-**Shuowen e 段注.** O texto do *Shuowen* foi confirmado verbatim por duas fontes independentes (CUHK e 小學堂), idênticas; hanziyuan traz a mesma glosa sem pontuação. O comentário integral de 段玉裁 não foi obtido (shuowen.org retornou listagem; zdic.net deu 404); apenas o fragmento 「引伸之凡空竅皆為穴」 sobreviveu, citado de segunda mão pela CUHK.
+**Formas antigas.** O hanziyuan registra ausência de formas conhecidas em 甲骨文 e 金文. A CUHK afirma que 目前甲骨文和金文未見單獨的「穴」字, mas acrescenta que em 金文 「穴」 aparece como componente em caracteres como 「空」、「窵」. O 小學堂 yanbian, por sua vez, lista formas apenas a partir de 楚系簡帛文字, 小篆 e 隸書.
 
-**Leitura cantonesa.** MDBG e CantoDict trazem no cabeçalho só o pinyin (xué); a coluna 普通話 da CUHK registra formas mandarim ("ju / xu"). O jyutping jyut6 é confirmado por CantoDict e pela CUHK, consistente com o 中古音 (聲 入 entrante, 母 匣 全濁 sonora plena → tom 6 entrante em cantonês).
-
-**Reconstruções do 上古音.** Há divergência de grupo de rima entre os sistemas: 王力 e 周法高 alocam 穴 no grupo 質 (Zhi entrante), enquanto 董同龢 e 李方桂 o alocam em 脂 (Zhi); Karlgren não teve grupo indicado na tabela. A coluna de 鄭張尚芳 (Zhengzhang Shangfang) não retornou na tabela do 小學堂.
+**Leituras modernas.** O MDBG registra pinyin xué e nota “Taiwan pr. [xue4]”. O CantoDict registra jyut6; a CUHK registra jyut6 e, no campo de 普通話, lista ju / xu / xu. O hanziyuan lista “Main pronunciation: xué” e “Other pronunciations: xué, jué”.
