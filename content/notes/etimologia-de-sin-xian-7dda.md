@@ -77,7 +77,7 @@ Esta é uma rara documentação filológica de **troca diacrónica de papéis** 
 |---------|--------|----------------|
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 包2.270 (Bāoshān 2.270) |
 | — | Ancient script 古文 | 說文古文 (Shuōwén gǔwén) |
-| Han | Seal 篆書 | 說文·糸部 (Shuōwén, secção 糸) |
+| Han | Seal 篆書 | 說文·糸部 (Shuōwén, seção 糸) |
 
 **Shuowen (xiaoxue)**: 《說文》：「綫，縷也。从糸，戔聲。線，古文綫。」 ("綫 é fio/filamento. De 糸, com 戔 como fonético. 線 é a forma antiga de 綫.")
 
@@ -103,6 +103,6 @@ Esta é uma rara documentação filológica de **troca diacrónica de papéis** 
 
 **Troca diacrónica 線 ↔ 綫 como corrente/arcaico**: Esta é a divergência mais notável, explicitada pelo 段注: 許時古線今綫，晉時則爲古綫今線 ("no tempo de Xu Shen o antigo era 線 e o atual 綫; na Jin, o antigo passou a ser 綫 e o atual 線"). Raros caracteres têm documentação tão clara da inversão do par primário/arcaico ao longo dos séculos. Hoje (e no uso marcial em 中線), a forma dominante é 線, revertendo ao uso da era pré-Xu Shen.
 
-**Atestação epigráfica escassa**: Apenas uma atestação pré-Han (Baoshan 2.270, Chu) e o guwen do Shuowen. hanziyuan regista 0 oracle bones e 0 bronzes. Isto é consistente com um vocábulo especializado (têxtil/costura) que só entrou no registo escrito tardiamente, apesar de o conceito (fio) ser anterior à escrita.
+**Atestação epigráfica escassa**: Apenas uma atestação pré-Han (Baoshan 2.270, Chu) e o guwen do Shuowen. hanziyuan registra 0 oracle bones e 0 bronzes. Isto é consistente com um vocábulo especializado (têxtil/costura) que só entrou no registo escrito tardiamente, apesar de o conceito (fio) ser anterior à escrita.
 
 **Classificação do radical**: MDBG, chardb, Shuowen e xiaoxue convergem em 糸 (fio de seda). Sem divergência.
