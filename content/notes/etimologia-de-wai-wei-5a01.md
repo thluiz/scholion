@@ -76,7 +76,7 @@ Formas atestadas (hanziyuan): Oracle 0 · Bronze 10 (B16956–B16965) · Seal 1 
 
 **說文**: 威，姑也。从女，从戌。《漢律》曰：'婦告威姑。' 於非切。 ("Wēi: sogra. Composto de 女 (mulher) e 戌. O *Código Han* [*Hànlǜ*] diz: 'a esposa acusa a sogra (威姑)'. Fanqie: 於非.")
 
-**段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido para este caractere): (威)姑也。引伸爲有威可畏。从女。戌聲。按小徐本作戌聲。而復以會意釋之。於非切。十五部。漢律曰。婦告威姑。惠氏定宇曰。爾雅君姑卽威姑也。古君威合音差近。 ("[威] 'sogra'. Por extensão, passou a significar 'ter autoridade imponente, temível'. Composto de 女; 戌 é fonético. Observação: a edição de Xu Kai [徐鍇, Xiǎo Xú] registra 'fonético 戌' mas depois explica pelo princípio 會意 [composto semântico]. Fanqie 於非. 15ª secção de rima. O *Código Han* diz: 'a esposa acusa a 威姑 [sogra]'. Huì [Dòng/Dìngyǔ] Dòngyǔ observa: '*Erya* 君姑 [sogra venerável] é o mesmo que 威姑'; em som arcaico 君 e 威 têm pronúncia aproximada.")
+**段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido para este caractere): (威)姑也。引伸爲有威可畏。从女。戌聲。按小徐本作戌聲。而復以會意釋之。於非切。十五部。漢律曰。婦告威姑。惠氏定宇曰。爾雅君姑卽威姑也。古君威合音差近。 ("[威] 'sogra'. Por extensão, passou a significar 'ter autoridade imponente, temível'. Composto de 女; 戌 é fonético. Observação: a edição de Xu Kai [徐鍇, Xiǎo Xú] registra 'fonético 戌' mas depois explica pelo princípio 會意 [composto semântico]. Fanqie 於非. 15ª seção de rima. O *Código Han* diz: 'a esposa acusa a 威姑 [sogra]'. Huì [Dòng/Dìngyǔ] Dòngyǔ observa: '*Erya* 君姑 [sogra venerável] é o mesmo que 威姑'; em som arcaico 君 e 威 têm pronúncia aproximada.")
 
 Nota adicional de Xu Kai (via hanziyuan): 土盛於戌，土陰之主也，故從戌 ("A [força da] Terra atinge plenitude em 戌 [ramo terrestre]; a Terra é soberana do princípio Yīn — por isso [威] compõe-se com 戌").
 
