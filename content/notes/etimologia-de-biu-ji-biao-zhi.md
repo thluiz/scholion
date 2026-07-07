@@ -208,6 +208,6 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 1 (S08815) · Liushutong 6
 
 **Empréstimo fonético 指→恉**: Duan Yucai nota que 指 foi emprestado foneticamente (叚借) para 恉 "intenção, significado" — confirmando que o uso filosófico de 指 (chardb def.11: conceito/referência) deriva de empréstimo fonético, não de extensão semântica do dedo.
 
-**Fonologia — divergência nos iniciais Old Chinese**: Li Fanggui reconstrói o inicial como *k-, divergindo de Karlgren/Wang Li (*ȶ-), Dong Tonghe (*c-) e Zhou Fagao (*t-). Li Fanggui propõe uma velar onde os outros propõem dental/palatal — característico do seu sistema, onde as retroflexas do Middle Chinese derivam de velares Old Chinese.
+**Fonologia — divergência nos iniciais Old Chinese**: Li Fanggui reconstrói o inicial como *k-, divergindo de Karlgren/Wang Li (*ȶ-), Dong Tonghe (*c-) e Zhou Fagao (*t-). Li Fanggui propõe uma velar onde os outros propõem dental/palatal — caractereístico do seu sistema, onde as retroflexas do Middle Chinese derivam de velares Old Chinese.
 
 **Leitura cantonesa**: CantoDict confirma zi2, consistente com os dados fonológicos do shangguyin.
