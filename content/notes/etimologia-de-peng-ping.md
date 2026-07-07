@@ -97,7 +97,7 @@ Formas atestadas: Oracle 0 · Bronze 9 · Seal 1 · Liushutong 40.
 
 - **Decomposição — 亏+八 vs 水+丅**: Shuowen e tradição clássica (Duan, xiaoxue) decompõem como 亏 (sopro) + 八 (dividir) — origem na fala calma. hanziyuan (Sears) decompõe como 水 (água) + 丅 (superfície plana) — "água em nível" (水平). Interpretação pictográfica moderna vs tradicional.
 - **Radical moderno vs Shuowen**: Kangxi/padrão moderno = 干 (gān). Shuowen original = 亏/于 (yú). Reflete reinterpretação histórica.
-- **Sem oracle**: nenhuma fonte regista forma oracular. Atestações começam no Zhou Primavera e Outono (bronzes).
-- **Múltiplas leituras**: píng (principal), pián, bǐng, bēng — hanziyuan e chardb registam. MDBG só píng.
+- **Sem oracle**: nenhuma fonte registra forma oracular. Atestações começam no Zhou Primavera e Outono (bronzes).
+- **Múltiplas leituras**: píng (principal), pián, bǐng, bēng — hanziyuan e chardb registram. MDBG só píng.
 - **Consenso fonológico OC**: 5 sistemas convergem em 耕部 + inicial oclusiva bilabial sonora (b/bʰ).
 - **Arco semântico**: fala calma (raiz acústica) → superfície nivelada (visual) → justiça/paz (social) → tom plano (fonológico) → sobrenome/topônimo (Pyongyang 平壤).
