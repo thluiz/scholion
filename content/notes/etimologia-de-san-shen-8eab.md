@@ -52,13 +52,13 @@ Formas atestadas (xiaoxue): oracle bones Shang (合13666正), bronzes Zhou múlt
 
 #### Shuowen Jiezi completo (via zdic.net)
 
-**說文**: 躳也。象人之身。从人𠂆聲。凡身之屬皆从身。失人切。 (躳 [corpo encurvado]. Representação do corpo humano. De 人, com 𠂆 como fonético. Todos os caracteres da secção 身 seguem 身. Fanqie: 失人切.)
+**說文**: 躳也。象人之身。从人𠂆聲。凡身之屬皆从身。失人切。 (躳 [corpo encurvado]. Representação do corpo humano. De 人, com 𠂆 como fonético. Todos os caracteres da seção 身 seguem 身. Fanqie: 失人切.)
 
 **段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido):
 
 (身)躳也。呂部曰：躳，身也。二字爲互訓。躳必入呂部者，躳謂身之傴，主於脊骨也。从人。申省聲。大徐作象人之身，从人𠂆聲。按此語先後失倫，𠂆古音在十六部，非聲也。今依韵會所據小徐本正。韵會从人之上有象人身三字，亦非也。𦥔，籒作𢑚，故从其省爲聲。失人切。十二部。凡身之屬皆从身。
 
-Tradução: "(身) é 躳 [corpo encurvado]. A secção 呂 diz: '躳 é 身.' Os dois caracteres se glosam mutuamente [互訓]. 躳 pertence à secção 呂 porque 躳 refere-se ao corpo vergado, centrado na espinha dorsal. De 人. 申 reduzido é o fonético. A edição de Dà Xú [Xú Xuàn] escreve '象人之身，从人𠂆聲' ['representação do corpo humano, de 人 com 𠂆 como fonético']. Note-se que esta formulação está em ordem incoerente; 𠂆 em som antigo pertence ao grupo rímico 16, não é o fonético. Agora corrigimos seguindo a edição de Xiǎo Xú [Xú Kǎi] citada no *Yùnhuì*. O *Yùnhuì* tem '象人身' ['representação do corpo humano'] antes de '从人', o que também não é correto. 𦥔 em zhouwen escreve-se 𢑚; por isso, [身] toma a sua forma reduzida como fonético. Fanqie: 失人切. Grupo rímico 12. Todos os caracteres da secção 身 seguem 身."
+Tradução: "(身) é 躳 [corpo encurvado]. A seção 呂 diz: '躳 é 身.' Os dois caracteres se glosam mutuamente [互訓]. 躳 pertence à seção 呂 porque 躳 refere-se ao corpo vergado, centrado na espinha dorsal. De 人. 申 reduzido é o fonético. A edição de Dà Xú [Xú Xuàn] escreve '象人之身，从人𠂆聲' ['representação do corpo humano, de 人 com 𠂆 como fonético']. Note-se que esta formulação está em ordem incoerente; 𠂆 em som antigo pertence ao grupo rímico 16, não é o fonético. Agora corrigimos seguindo a edição de Xiǎo Xú [Xú Kǎi] citada no *Yùnhuì*. O *Yùnhuì* tem '象人身' ['representação do corpo humano'] antes de '从人', o que também não é correto. 𦥔 em zhouwen escreve-se 𢑚; por isso, [身] toma a sua forma reduzida como fonético. Fanqie: 失人切. Grupo rímico 12. Todos os caracteres da seção 身 seguem 身."
 
 Duan propõe análise diferente da recebida: não é 𠂆 o fonético, mas 申 (reduzido). Esta correção filológica tenta reconstruir a etimologia correta — 身 como pictograma "pessoa" + fonético 申 (shēn — estender).
 
