@@ -50,7 +50,7 @@ Simplificado: 稳 (U+7A33).
 7. 弄好；搞端正 (ajeitar; endireitar)
 8. 方言。放；擱 (dialetal: pôr; apoiar)
 
-**Nota sobre o radical**: A página chardb exibe o radical como "穴", mas o Shuowen classifica explicitamente sob 禾部 (secção 禾). A atribuição ao radical 穴 (caverna) é erro de extração/rendering; o radical correto é 禾 (cereal), confirmado pelo xiaoxue, Shuowen e pela composição transparente.
+**Nota sobre o radical**: A página chardb exibe o radical como "穴", mas o Shuowen classifica explicitamente sob 禾部 (seção 禾). A atribuição ao radical 穴 (caverna) é erro de extração/rendering; o radical correto é 禾 (cereal), confirmado pelo xiaoxue, Shuowen e pela composição transparente.
 
 #### Decomposição e formas antigas ([hanziyuan](https://hanziyuan.net/#穩))
 
@@ -65,13 +65,13 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 1 · Liushutong 0
 
 **Nota**: 穩 é caractere **新附** (xīnfù, "nova adição") — não consta do Shuowen Jiezi original de Xu Shen, mas foi adicionado por Xu Xuan (徐鉉, 916–991). Por isso **não existe 段玉裁注 para este caractere** — o comentário de Duan Yucai se aplica apenas aos caracteres do Shuowen original. Mesma situação de 樁.
 
-Fanqie: 烏本切. Leitura alternativa registada: 叶烏銹切，音偃 (rima "偃" em contextos específicos).
+Fanqie: 烏本切. Leitura alternativa registrada: 叶烏銹切，音偃 (rima "偃" em contextos específicos).
 
 #### Evolução de formas ([xiaoxue yanbian](https://xiaoxue.iis.sinica.edu.tw/yanbian?char=穩))
 
 | Período | Script | Fonte/Artefato |
 |---------|--------|----------------|
-| Han | Seal 篆書 | 說文·禾部 (Shuōwén, secção 禾) |
+| Han | Seal 篆書 | 說文·禾部 (Shuōwén, seção 禾) |
 
 Apenas uma forma atestada — a entrada do Shuowen xinfu. Ausência total em escritas pré-Han confirma criação tardia do caractere, paralela ao caso de 樁.
 
@@ -99,7 +99,7 @@ A escassez de reconstruções em Old Chinese (só Wang Li) é consistente com a 
 
 **Caractere 新附 sem 段注 — mesmo padrão de 樁**: Como 樁, 穩 é adição Song ao Shuowen, sem o aparato filológico completo de que desfrutam caracteres do corpus original. Para análise crítica, dependemos de glosas posteriores (Guangyun, Jiyun) e dos usos atestados em literatura medieval em diante.
 
-**Duas glosas primárias — "debulhar grãos" vs "seguro"**: O Shuowen xinfu regista duas acepções: 蹂穀聚也 ("pisar grãos reunidos") e 一曰安也 ("outra leitura: seguro"). A primeira parece ser a etimologia semântica concreta (processo agrícola — pisar grãos para separar casca), enquanto a segunda é o sentido derivado que domina o uso moderno. A nota 古通用安隱 ("antigamente intercambiável com 安隱") indica que o sentido "seguro" existia antes da grafia 穩, sendo originalmente escrito 安隱 — depois consolidado no caractere dedicado 穩.
+**Duas glosas primárias — "debulhar grãos" vs "seguro"**: O Shuowen xinfu registra duas acepções: 蹂穀聚也 ("pisar grãos reunidos") e 一曰安也 ("outra leitura: seguro"). A primeira parece ser a etimologia semântica concreta (processo agrícola — pisar grãos para separar casca), enquanto a segunda é o sentido derivado que domina o uso moderno. A nota 古通用安隱 ("antigamente intercambiável com 安隱") indica que o sentido "seguro" existia antes da grafia 穩, sendo originalmente escrito 安隱 — depois consolidado no caractere dedicado 穩.
 
 **Semântica agrícola → semântica postural**: A cadeia 蹂穀 ("pisar grãos") → estabilidade: para debulhar grãos pisoteando, o corpo deve manter postura firme e equilibrada — dai 穩 passar a designar "firmeza/estabilidade" em sentido genérico. Esta etimologia é documentada pelo próprio Shuowen xinfu e ressoa diretamente com o uso marcial do termo (ma bo wan, base firme sobre os dois pés).
 
