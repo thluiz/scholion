@@ -105,7 +105,7 @@ O 段注 é breve para este caractere — 段玉裁 aceita a análise Shuowen se
 **Shuowen (xiaoxue)**: 《說文》：「進，登也。从辵，閵省聲。」 ("進 é subir. De 辵, com 閵 reduzido como fonético.")
 
 **Relação / comentário (xiaoxue)**:
-- 高鴻縉《字例》：「（甲骨文）字从隹，从止，會意。止即脚，隹脚能進不能退，故以取意……周人變為隹辵，意亦同。不當為形聲。」 ("Gāo Hóngjìn no *Zìlì* [Exemplos de Caracteres]: 'Na [forma dos] oracle bones, o carácter compõe-se de 隹 [ave] e de 止 [pé], composto semântico [會意]. 止 é o pé; o pé da ave pode avançar mas não recuar — daí o sentido tomado... Os [homens] Zhou alteraram para 隹+辵, com o mesmo sentido. Não deve ser tratado como fonossemântico [形聲].'")
+- 高鴻縉《字例》：「（甲骨文）字从隹，从止，會意。止即脚，隹脚能進不能退，故以取意……周人變為隹辵，意亦同。不當為形聲。」 ("Gāo Hóngjìn no *Zìlì* [Exemplos de Caracteres]: 'Na [forma dos] oracle bones, o caractere compõe-se de 隹 [ave] e de 止 [pé], composto semântico [會意]. 止 é o pé; o pé da ave pode avançar mas não recuar — daí o sentido tomado... Os [homens] Zhou alteraram para 隹+辵, com o mesmo sentido. Não deve ser tratado como fonossemântico [形聲].'")
 
 Esta é uma correção epigráfica substancial — Gao Hongjin, com base nos oracle bones, refuta a análise fonossemântica do Shuowen e restabelece a leitura semântica: 進 é 隹 (ave) + 止 (pé), com a semântica derivada da observação naturalística de que aves caminham para a frente mas não para trás.
 
