@@ -62,7 +62,7 @@ Atestação (xiaoxue): oracle bones Shang (菁1.1, 乙3368), bronzes Zhou (角�
 
 #### Shuowen Jiezi completo (via zdic.net)
 
-**說文**: 獸角也。象形，角與刀、魚相似。凡角之屬皆从角。古岳切。 (Chifre de animal. Pictograma. 角 é semelhante [em forma] a 刀 [faca] e 魚 [peixe]. Todos os caracteres da secção 角 seguem 角. Fanqie: 古岳切.)
+**說文**: 獸角也。象形，角與刀、魚相似。凡角之屬皆从角。古岳切。 (Chifre de animal. Pictograma. 角 é semelhante [em forma] a 刀 [faca] e 魚 [peixe]. Todos os caracteres da seção 角 seguem 角. Fanqie: 古岳切.)
 
 **段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido):
 
@@ -106,7 +106,7 @@ A observação de que 角 se parece com 刀 e 魚 na escrita antiga é nota pale
 
 #### Divergências entre fontes
 
-**Tonogénese jiǎo / jué**: Duas leituras distintas para um mesmo caractere, com campos semânticos separados:
+**Tonogênese jiǎo / jué**: Duas leituras distintas para um mesmo caractere, com campos semânticos separados:
 - *jiǎo* (平聲/tomSandhi): "chifre, canto, ângulo" — sentido físico-espacial
 - *jué* (入聲): "papel teatral, competir, nota musical, vaso ritual" — sentidos culturais derivados
 
@@ -114,7 +114,7 @@ A leitura *jué* preserva o valor arcaico (Middle Chinese entering tone) em usos
 
 **Semelhança pictográfica 角/刀/魚**: Observação de 段玉裁 sobre a proximidade gráfica em escrita antiga. Isto é verificável nos oracle bones — 角 é desenhado como chifre (pontiagudo e sulcado), facilmente confundido com 刀 (lâmina afiada) ou 魚 (peixe com cauda bifurcada) em inscrições pouco nítidas. Nota paleográfica precisa.
 
-**Leituras antigas 穀/鹿**: 段注 regista que a leitura antiga de 角 era similar a 穀 (gǔ) ou 鹿 (lù). Isto sugere variação dialetal ou mudança fonológica entre OC e MC para este caractere. Consistente com o fanqie alternativo 盧谷切 (lù gǔ) registado no Guangyun.
+**Leituras antigas 穀/鹿**: 段注 registra que a leitura antiga de 角 era similar a 穀 (gǔ) ou 鹿 (lù). Isto sugere variação dialetal ou mudança fonológica entre OC e MC para este caractere. Consistente com o fanqie alternativo 盧谷切 (lù gǔ) registrado no Guangyun.
 
 **Grupos rímicos — 屋 vs 侯**: Wang Li e Zhou Fagao em 屋; Dong Tonghe e Li Fanggui em 侯. Como em 木 e 速, divergência de nomenclatura entre grupos rímicos vizinhos (屋 é contraparte 入聲 de 侯). Campo fonológico coerente.
 
