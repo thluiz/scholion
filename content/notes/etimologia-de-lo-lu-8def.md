@@ -84,7 +84,7 @@ Tradução: "(路) é caminho. O *Shigong* (《釋宮》) diz: '一達謂之道�
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 曾118 (Zēng 118 — bambu Zenghouyi 118) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 曾184 (Zēng 184) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 包2.159 (Bāoshān 2.159) |
-| Han | Seal 篆書 | 說文‧足部 (Shuōwén, secção 足) |
+| Han | Seal 篆書 | 說文‧足部 (Shuōwén, seção 足) |
 | Qin 秦 | Clerical 隸書 | 睡.日甲54背 (Shuìhǔdì *Rishu jiǎ* 54 verso) |
 | Western Han 西漢 | Clerical 隸書 | 老子甲後315 (Lǎozǐ jiǎ hòu 315 — Mawangdui Laozi A verso) |
 | Western Han 西漢 | Clerical 隸書 | 春秋事語55 (*Chūnqiū shì yǔ* 55 — Mawangdui *Tradições de Primavera-Outono*) |
