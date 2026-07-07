@@ -109,6 +109,6 @@ Atestação começando no Zhou tardio.
 
 **Distinção 簡 / 牘 / 牒-札**: 段注 preserva taxonomia material dos suportes de escrita pré-papel. Crucial para compreender textos excavados — "Guodian 楚簡" refere-se especificamente a tiras de bambu; textos em 牘 (madeira) são codificados diferentemente.
 
-**Convergência 元部**: Cinco sistemas unanimes em 元 (yuán). Mesmo grupo rímico de 短 (duen), 線 (sin) — campo semântico/fonológico coerente de "medida/forma".
+**Convergência 元部**: Cinco sistemas unânimes em 元 (yuán). Mesmo grupo rímico de 短 (duen), 線 (sin) — campo semântico/fonológico coerente de "medida/forma".
 
 **Gaan daan 簡單 no Hai Tong**: O composto 簡單 ("simples") no Hai Tong Biu Ji caracteriza as "condições" (jiu sik) do Ving Tsun Kuen: simplicidade (簡單) e praticidade (實用). 簡 aqui ativa o sentido "parcimonioso, sem ornamento" — do núcleo "tira de bambu com pouco espaço" para "conciso/essencial".
