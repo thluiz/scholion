@@ -117,10 +117,10 @@ Total: 13 formas. Ausência em osso oracular; primeira atestação no bronze dos
 
 ### Divergências entre fontes
 
-- **Ausência em osso e bronze antigos**: tanto hanziyuan (0+0) quanto xiaoxue confirmam que 貴 não aparece em osso oracular. O xiaoxue regista 1 forma em bronze (鳥書箴銘帶鉤, Warring States Chu) — hanziyuan regista 0. Divergência moderada de corpora. Primeira atestação clara: Warring States.
-- **Forma antiga 䝿 vs 貴**: todas as fontes convergem em que 䝿 é a forma do Shuowen e 貴 é a forma clerical que prevaleceu. O《集韻》regista explicitamente esta transição: 䝿 → 貴 no 隸書.
+- **Ausência em osso e bronze antigos**: tanto hanziyuan (0+0) quanto xiaoxue confirmam que 貴 não aparece em osso oracular. O xiaoxue registra 1 forma em bronze (鳥書箴銘帶鉤, Warring States Chu) — hanziyuan registra 0. Divergência moderada de corpora. Primeira atestação clara: Warring States.
+- **Forma antiga 䝿 vs 貴**: todas as fontes convergem em que 䝿 é a forma do Shuowen e 貴 é a forma clerical que prevaleceu. O《集韻》registra explicitamente esta transição: 䝿 → 貴 no 隸書.
 - **Parentesco com 貫**: Sears (hanziyuan) sugere que 貫 (guàn, atar moedas em fio) e 貴/䝿 têm origem comum — ambos ligados ao cáuri como unidade de valor. Sentido absente de outras fontes.
-- **Sentido "desejar" (欲，想要)**: chardb def. 6 regista acepção ausente de MDBG, CantoDict e hanziyuan. Provável semântica derivada: o que é precioso é o que se deseja.
+- **Sentido "desejar" (欲，想要)**: chardb def. 6 registra acepção ausente de MDBG, CantoDict e hanziyuan. Provável semântica derivada: o que é precioso é o que se deseja.
 - **Função honorífica**: todas as fontes modernas (MDBG, CantoDict) preservam o uso como prefixo honorífico ("seu nome honrado", "sua empresa"). chardb def. 7 lista como 敬辭 (termo de respeito, 猶 "尊"). Uso vivo no chinês moderno formal.
 - **Componente fonético 臾 / 𠀐**: relação com 蕢 (kuì, cesta de terra). A fonologia medieval 居胃切 (jū-wèi-qiè — iniciais 見/k-, rima 未) confirma o valor fonético do componente.
 - **Consenso OC**: todos os cinco sistemas reconstroem *k- + -jwə(d)/-ǐwəi, com mudança do grupo 微 (Warring States / Qing reconstructions) para 脂 no Han.
