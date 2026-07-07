@@ -110,9 +110,9 @@ Total: 4 formas. Ausência em osso oracular, bronze, Warring States — caracter
 
 - **Sentido original — planta vs. fragrante**: Shuowen é explícito: 菲 é nome de planta específica (芴, wù). chardb def. 1-2 preservam este sentido (蒠菜, 土瓜). Hanziyuan diverge: "original meaning: fragrant". MDBG e CantoDict seguem hanziyuan, elevando o sentido secundário (fragrante, luxuriante) a primário. Divergência lexicográfica entre tradição filológica (Shuowen-chardb) e uso moderno (MDBG-hanziyuan).
 - **Polifonia fēi vs fěi**: o caractere tem duas leituras principais. chardb (fěi principal); MDBG (distingue fēi "luxuriante" de fěi "frugal, humilde"); xiaoxue (fěi principal com alternativas). Na expressão 菲薄 (frugal, modesto) lê-se fěi; em 芳菲 (fragrante) lê-se fēi. A distinção é viva.
-- **Homofonia/paronímia com 蕜 (melancolia) e 屝 (sandália de palha)**: chardb def. 4-5 regista empréstimos gráficos, ausentes das demais fontes.
+- **Homofonia/paronímia com 蕜 (melancolia) e 屝 (sandália de palha)**: chardb def. 4-5 registra empréstimos gráficos, ausentes das demais fontes.
 - **Ausência pré-imperial**: 0 oracle + 0 bronze em ambas hanziyuan e xiaoxue. Primeira atestação: Shuowen (pequeno selo). Caractere de formação pós-Qin.
-- **Sentido moderno — Filipinas**: MDBG e CantoDict registam 菲 como abreviação das Filipinas (菲律賓). Uso do século XIX/XX, ausente das fontes clássicas.
-- **Sentido científico — fenantreno**: chardb def. 8 + MDBG + CantoDict registam 菲 como tradução de "phenanthrene" (C14H10), composto orgânico. Uso técnico moderno.
+- **Sentido moderno — Filipinas**: MDBG e CantoDict registram 菲 como abreviação das Filipinas (菲律賓). Uso do século XIX/XX, ausente das fontes clássicas.
+- **Sentido científico — fenantreno**: chardb def. 8 + MDBG + CantoDict registram 菲 como tradução de "phenanthrene" (C14H10), composto orgânico. Uso técnico moderno.
 - **Leitura Fei como "fragrante"**: no contexto dos nomes kung fu, a leitura pretendida é claramente fēi "fragrante/luxuriante" (def. 6-7 do chardb). Arco semântico positivo: vegetação exuberante e perfumada → beleza, virtude florescente.
 - **Consenso fonológico OC**: todos os cinco sistemas reconstroem *pʰ- + -i̯wər/-ǐwəi/-juə̆d/-jiwər/-jədx, grupo 微 (wēi). Inicial labial aspirada, rima com glide. Convergência sólida.
