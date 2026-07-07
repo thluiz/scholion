@@ -78,7 +78,7 @@ Formas atestadas (hanziyuan): Oracle 3 (J03007–J03009) · Bronze 23 (B01824–
 
 **說文**: 登，上車也。从癶、豆，象登車形。𤼷，籒文登从𠬞。都滕切。 ("Dēng: subir ao carro. Composto de 癶 (dois pés) e 豆, representando a forma de subir ao carro. 𤼷 é a forma *zhòu* [escrita arcaica] de 登, acrescentando 𠬞 [duas mãos]. Fanqie: 都滕.")
 
-**段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido para este caractere): (登)上車也。引伸之凡上陞曰登。从癶豆。象登車形。都滕切。六部。(𤼷)籒文登。从𠬞。按籒文省𢍪之肉。小篆併肉𠬞省之。 ("[登] 'subir ao carro'. Por extensão, toda ascensão chama-se 登. Composto de 癶 e 豆, representando a forma de subir ao carro. Fanqie 都滕. 6ª secção de rima. [𤼷] Forma *zhòu* de 登, com 𠬞 [duas mãos]. Observação: a forma *zhòu* suprime a 'carne' [肉] do 𢍪; o pequeno selo combinou a 'carne' e a 𠬞 [supressão conjunta].")
+**段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido para este caractere): (登)上車也。引伸之凡上陞曰登。从癶豆。象登車形。都滕切。六部。(𤼷)籒文登。从𠬞。按籒文省𢍪之肉。小篆併肉𠬞省之。 ("[登] 'subir ao carro'. Por extensão, toda ascensão chama-se 登. Composto de 癶 e 豆, representando a forma de subir ao carro. Fanqie 都滕. 6ª seção de rima. [𤼷] Forma *zhòu* de 登, com 𠬞 [duas mãos]. Observação: a forma *zhòu* suprime a 'carne' [肉] do 𢍪; o pequeno selo combinou a 'carne' e a 𠬞 [supressão conjunta].")
 
 ### Evolução de formas (xiaoxue yanbian)
 
