@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 父 (Fu — Fù / fu6)"
-date: '2026-07-06T13:16:29+01:00'
-summary: 'O pictograma de 父 mostra a mão (又) que ergue um machado ou bastão, radical Kangxi nº 88. O Shuowen glosa 父 como 矩也 "o esquadro / a norma", o chefe que conduz e ensina; a paleografia lê a mão segurando o machado de pedra do trabalho masculino.'
+date: '2026-07-07T19:26:37+01:00'
+summary: 'O caractere de pai, radical Kangxi nº 88. O Shuowen o glosa como 矩也, "norma/esquadro", e o explica como o chefe da casa que guia e ensina; as leituras paleográficas registradas o analisam como mão segurando instrumento, frequentemente machado.'
 toc: true
 tags: ["china", "linguagem", "etimologia", "ideogramas", "radicais"]
 category: etymology
@@ -34,36 +34,36 @@ sources:
 
 #### Definições
 
-**MDBG**: (forma presa) pai (father); (forma presa) parente masculino da geração do pai (como em 伯父); (computação, forma presa) prefixo "parent-" (progenitor-).
+**MDBG**: (bound form) father; (bound form) male relative of father's generation (as in 伯父); (computing) (bound form) parent-.
 
-**CantoDict**: fu6 (tom 6, baixo). A CUHK regista também a leitura fu2 (tom 2) em compostos como 田父 e 漁父.
+**CantoDict**: fu6 {fù}; father.
 
 **chardb Academia Sinica**:
-1. 父親。 (o pai)
-2. 對男性長輩的通稱。 (designação geral para os parentes masculinos de geração mais velha)
-3. 古代天子、諸侯對同姓親族的稱呼。 (na antiguidade, forma de tratamento do Filho do Céu e dos senhores feudais para os parentes do mesmo sobrenome)
-4. 禽獸中的雄性。 (o macho entre aves e feras)
-5. 對老人的尊稱。 (tratamento respeitoso para os velhos)
-6. 古代男子的美稱。也作「甫」。 (epíteto honroso para homens na antiguidade; também escrito 甫)
-7. 從事某種行業的人的通稱。 (designação geral para quem exerce certo ofício)
-8. 開始。 (começo, início)
-9. 天。古人以為天地生萬物，故稱天為「父」。 (o Céu; os antigos criam que Céu e Terra geram os dez mil seres, por isso chamavam o Céu de "pai")
+1. 父親。 (pai)
+2. 對男性長輩的通稱。 (designação geral para homem mais velho da geração superior)
+3. 古代天子、諸侯對同姓親族的稱呼。 (na Antiguidade, designação usada por Filho do Céu e senhores feudais para parentes do mesmo sobrenome)
+4. 禽獸中的雄性。 (o macho entre aves e animais)
+5. 對老人的尊稱。 (tratamento respeitoso para idosos)
+6. 古代男子的美稱。也作「甫」。 (antiga designação elogiosa para homem; também escrito 「甫」)
+7. 從事某種行業的人的通稱。 (designação geral para pessoas que exercem certa profissão)
+8. 開始。 (começar)
+9. 天。古人以為天地生萬物，故稱天為「父」。 (céu; os antigos julgavam que Céu e Terra geravam os dez mil seres, por isso chamavam o Céu de "pai")
 10. 姓。 (sobrenome)
 
 #### Decomposição e formas antigas (hanziyuan)
 
-Componentes: mão (又) segurando um machado (斧); tomado por empréstimo fonético para "pai" (hanziyuan: "hand holding an ax, borrowed for sound, indicating father").
-Significado original: pai (本义: father).
-Acepções inglesas: father; radical Kangxi nº 88.
+Componentes: 父 (name- ax-father 父 fù).
+Significado original: Meaning BFS father.
+Acepções inglesas: father; KangXi radical 88.
 Frequência de uso: 436.
-Formas atestadas: a base de Sears reúne 70 formas de oráculo (甲骨文), 100 de bronze (金文), 1 de selo (小篆, do Shuowen) e 25 do 六書通 (Liushutong). A busca retornou ainda 196 caracteres que contêm 父.
+Formas atestadas: Oracle characters 甲骨文 (70); Bronze characters 金文 (100); Seal characters 说文解字的篆字 (1); Liushutong characters 六书通的字 (25).
 
 #### Shuowen Jiezi completo
 
-(Texto verbatim obtido de forma convergente via 小學堂, CUHK e hanziyuan.)
+(shuowen.org retornou apenas a listagem das primeiras entradas do dicionário; texto verbatim obtido via 小學堂 e CUHK, não idênticas.)
 
-**說文**: 父，矩也，家長率教者。从又舉杖。〔扶雨切〕
-(父 é 矩 — "o esquadro", "a norma": aquele que, como chefe da família, conduz e ensina. Segue 又 [mão] erguendo um bastão. Fanqie: 扶雨.)
+**說文**: 父，矩也，家長率敎者。从又舉杖。〔扶雨切〕
+(Pai: 矩也, "esquadro", "norma". É quem, como chefe da casa, lidera e ensina. Vem de 又 erguendo um bastão. [fanqie: 扶雨切])
 
 **段注 Duan Yucai**: (não obtido — shuowen.org retornou listagem; zdic.net retornou HTTP 404)
 
@@ -71,46 +71,49 @@ Formas atestadas: a base de Sears reúne 70 formas de oráculo (甲骨文), 100 
 
 | Período | Script | Fonte / Artefato |
 |---|---|---|
-| Shang | Oráculo (甲骨文) | 乙405 |
-| Shang (tardio) | Bronze (金文) | 父癸方鼎 Fù Guǐ fāng dǐng; 父辛卣 Fù Xīn yǒu |
-| Zhou Ocidental (inicial) | Bronze (金文) | 父辛簋 Fù Xīn guǐ; 父簋 Fù guǐ |
-| Zhou Ocidental (tardio) | Bronze (金文) | 兮吉父簋 Xī Jí Fù guǐ |
-| Primaveras e Outonos (tardio) | Bronze (金文) | 余贎兒鐘 Yú Wàn'ér zhōng |
-| Primaveras e Outonos (tardio) / Reinos Combatentes (inicial) — Jin | Texto de aliança (盟書) | 侯馬 (Houma) |
-| Reinos Combatentes — Chu | Bambu (簡) | 包2.126 (Baoshan) |
-| Han | Selo pequeno (小篆) | 說文‧又部 (Shuowen, seção 又) |
-| Qin | Clerical (隸書) | 睡虎地 日乙181 (Shuihudi) |
-| Han Ocidental | Clerical (隸書) | 老子甲14; 縱橫家書208; 定縣竹簡86 (Dingxian) |
-| Han Oriental | Clerical (隸書) | 北海相景君銘 Běihǎi xiàng Jǐngjūn míng; 熹平石經·易·坤文言 (Clássicos em Pedra de Xiping) |
+| Shang | Oráculo (甲骨文) | 乙405(甲) |
+| Shang (tardio) | Bronze (金文) | 父癸方鼎(金); 父辛卣(金) |
+| Zhou Ocidental (inicial) | Bronze (金文) | 父辛簋(金); 父簋(金) |
+| Zhou Ocidental (tardio) | Bronze (金文) | 兮吉父簋(金) |
+| Primavera e Outono (tardio) | Bronze (金文) | 余贎兒鐘(金) |
+| Primavera e Outono (tardio) ou Reinos Combatentes (inicial) — Jin | (não obtido — script não indicado no dump) | 侯馬 |
+| Reinos Combatentes — Chu | Bambu / seda | 包2.126 |
+| Han | Selo pequeno (小篆) | 說文‧又部 |
+| Qin | Clerical (隸書) | 睡.日乙181(隸) |
+| Han Ocidental | Clerical (隸書) | 老子甲14(隸); 縱橫家書208(隸); 定縣竹簡86(隸) |
+| Han Oriental | Clerical (隸書) | 北海相景君銘(隸); 熹.易.坤文言(隸) |
 
 **Shuowen (xiaoxue)**: 父，矩也，家長率教者。从又舉杖。
 
 **Comentários de estudiosos**:
-- CUHK (略說): 甲、金、篆文均表示手拿著石斧。古代男子負責生產，本義是父親之「父」。 (As formas de oráculo, bronze e selo mostram todas a mão segurando um machado de pedra. O homem antigo era responsável pela produção; o sentido original é o 父 de "pai".)
-- 小學堂 / 郭沫若《甲骨文字研究》: 父乃斧之初字。石器時代，男子持石斧（丨即石斧之象形）以事操作，故孳乳為父母之父。 (父 é a forma inicial de 斧 [machado]. Na Idade da Pedra, o homem segurava o machado de pedra — 丨 é justamente o pictograma do machado — para o trabalho; daí derivou o 父 de "pai".)
+- 小學堂: 郭沫若《甲骨文字研究》云：“父乃斧之初字。石器時代，男子持石斧（丨即石斧之象形）以事操作，故孳乳為父母之父。” (“Guo Moruo, em Estudos de Escrita Oracular, diz: ‘父 é a forma inicial de 斧. Na Idade da Pedra, os homens empunhavam machados de pedra (丨 é precisamente o pictograma do machado de pedra) para realizar trabalho; por isso o caractere foi derivado por proliferação semântica para o pai de 父母.’”)
+- CUHK (略說): 甲、金、篆文均表示手拿著石斧。古代男子負責生產，本義是父親之「父」。(As formas em oráculo, bronze e selo representam todas a mão segurando um machado de pedra. Na Antiguidade, os homens eram responsáveis pela produção; o sentido original é o "pai" de 父親.)
+- CUHK (詳解): 甲、金、篆文均象以手（又）持「丨」之形，所持疑為石斧。古代成年男子多持斧從事生產，所以以手持斧作為家長的象徵，本義是父親之「父」。《說文》：「父，矩也。家長率教者。从又舉杖。」許慎以「矩」釋「父」為聲訓。按《說文》以為「父」字手所持之物象杖，有以手持杖教導之意；羅振玉則據金文以為象炬形；郭沬若以為象斧形，為「斧」的初文：何琳儀以為「父」與「攴」為一字之分化，施動者為「父」，小敲動作為「攴」。諸說各有道理，故以上並舉諸說，以作參考。 (As formas em oráculo, bronze e selo figuram a mão (又) segurando algo na forma de 「丨」, e o objeto segurado é provavelmente um machado de pedra. Na Antiguidade, homens adultos frequentemente seguravam machados para o trabalho produtivo; por isso, a mão segurando machado serviu como símbolo do chefe da casa, e o sentido original é o "pai" de 父親. O Shuowen diz: “父，矩也。家長率教者。从又舉杖。” Xu Shen explica 「父」 por 「矩」 como glossação fonética. Segundo o Shuowen, o objeto segurado pela mão em 「父」 se assemelha a um bastão, com a ideia de ensinar segurando um bastão; Luo Zhenyu, com base nas inscrições em bronze, tomou-o como forma de tocha; Guo Moruo tomou-o como forma de machado, sendo a forma inicial de 「斧」; He Linyi considerou que 「父」 e 「攴」 são uma diferenciação de um mesmo caractere, sendo 「父」 o agente da ação e 「攴」 a ação de pequena batida. Todas as explicações têm sua razão, por isso foram apresentadas em conjunto como referência.)
 
 #### Fonologia (xiaoxue shangguyin)
 
 **中古音 Middle Chinese (Guangyun)**:
-- Leitura 1 (奉母): 攝 Division: 遇 (Yu) · 韻 Rhyme: 麌 (Mu) · 聲 Tone: 上 (rising) · 母 Initial: 奉 (b-) · 反切 Fanqie: 扶雨 · 等 Grade: 三 (III) · 開合 Open/Closed: 合 (closed) · 清濁: 全濁 (sonora plena)
-- Leitura 2 (幫母): 母 Initial: 幫 (p-) · 反切 Fanqie: 方矩 · 清濁: 全清 (totalmente surda); demais traços idênticos (攝 遇, 韻 麌, 聲 上, 合 closed, 等 三). A CUHK regista as duas entradas no 廣韻 (p. 261 方矩; p. 262 扶雨); o 小學堂 lista 扶雨 como principal e 方矩 como 又切.
+- 攝 Division: 遇 (Yu) · 韻 Rhyme: 麌 (Yu) · 聲 Tone: 上 (rising) · 母 Initial: 奉 (f-)
+- 反切 Fanqie: 扶雨 · 等 Grade: 三 (III) · 開合 Open/Closed: 合 (closed) · 清濁: 全濁 (sonora plena)
 
 **上古音 Old Chinese** (grupo de rima 魚 Yu):
-- 高本漢 Karlgren: bʰi̯wo
-- 王力 Wang Li: bǐwa
-- 董同龢 Dong Tonghe: bʰjuaɡ
-- 周法高 Zhou Fagao: bjwaɣ
-- 李方桂 Li Fanggui: bjagx
+- 高本漢 Karlgren: bʰ i̯wo
+- 王力 Wang Li: b ǐwa
+- 董同龢 Dong Tonghe: bʰ juaɡ
+- 周法高 Zhou Fagao: b jwaɣ
+- 李方桂 Li Fanggui: b jagx
 - 鄭張尚芳 Zhengzhang Shangfang: (não retornou dados — ausente da tabela do 小學堂)
 
 **國語 Mandarin IPA**: fu
 
 #### Divergências entre fontes
 
-**Leitura do grafismo.** O *Shuowen* dá 矩也 ("o esquadro", "a norma") — glosa fonética (聲訓) de 許慎 — e descreve 从又舉杖, a mão que ergue um bastão, "aquele que conduz e ensina como chefe da família". A paleografia lê o caractere como mão segurando um machado de pedra do trabalho masculino, mas divide-se quanto ao objeto: 羅振玉 vê forma de tocha (炬), 郭沫若 vê machado (斧, tomando 父 como forma inicial de 斧), e 何琳儀 trata 父 e 攴 como diferenciações de um mesmo caractere (o agente sendo 父, o gesto de bater sendo 攴). A CUHK arrola essas leituras lado a lado, sem arbitrar.
+**Leitura do grafismo.** O *Shuowen* registra: 「父，矩也，家長率教者。从又舉杖。」, explicando o caractere como o chefe da casa que guia e ensina, com 又 erguendo杖. A CUHK registra, em 略說 e 詳解, que as formas em oráculo, bronze e selo mostram mão segurando provável machado de pedra; no 詳解, acrescenta ainda as interpretações de Xu Shen, Luo Zhenyu, Guo Moruo e He Linyi. O 小學堂 yanbian cita Guo Moruo: 「父乃斧之初字」.
 
-**Duas leituras no 中古音.** O 廣韻 registra dois cortes: 方矩 (inicial 幫, 全清) e 扶雨 (inicial 奉, 全濁), ambos em 遇攝, 麌韻, tom 上, 合, 三等. As duas leituras correspondem às duas cantonesas atestadas pela CUHK — fu2 (em 田父, 漁父) e fu6 (em 父母, 父親).
+**Shuowen.** 小學堂 e CUHK registram o mesmo núcleo do texto do *Shuowen*, mas não de forma idêntica caractere a caractere: a CUHK traz 「率敎者」 e o fanqie 「〔扶雨切〕」, enquanto o 小學堂 yanbian traz 「率教者」 e omite o fanqie.
 
-**Shuowen e 段注.** O texto do *Shuowen* foi obtido de forma convergente por três fontes (小學堂, CUHK e hanziyuan), idênticas no essencial. O comentário de 段玉裁 não foi obtido: shuowen.org retornou a listagem e o fallback zdic.net deu 404.
+**Leitura cantonesa.** O CantoDict registra fu6 para 父. A CUHK registra duas leituras cantonesas: fu2 em exemplos como 田父, 漁父, e fu6 em 父母, 父老, 父親, 父執, 父母官, 祖父.
 
-**Reconstruções do 上古音.** Cinco sistemas (Karlgren, Wang Li, Dong Tonghe, Zhou Fagao, Li Fanggui), todos no grupo de rima 魚 (Yu); a coluna de 鄭張尚芳 (Zhengzhang Shangfang) não retornou na tabela do 小學堂.
+**Fonologia medieval.** O 小學堂 shangguyin registra apenas a leitura de *Guangyun* com 母 Initial 奉, 韻 Rhyme 麌, 聲 Tone 上 e fanqie 扶雨, além de 又切 方矩. A CUHK lista duas entradas de *Guangyun*: 頁碼 261, 反切 方矩; e 頁碼 262, 反切 扶雨; no quadro de 中古音, registra duas linhas: 幫 全清 e 奉 全濁, ambas em 遇攝、虞/麌、合、三、上.
+
+**Pronúncia moderna em mandarim.** MDBG registra fù; hanziyuan registra main pronunciation fù e other pronunciations fù,fǔ; 小學堂 shangguyin registra ㄈㄨˋ / fù / fu.
