@@ -42,7 +42,7 @@ sources:
 
 **chardb Academia Sinica** (13 acepções):
 1. 人的本性 (natureza inerente humana).
-2. 事物的性質、特性 (natureza e características das coisas).
+2. 事物的性質、特性 (natureza e caractereísticas das coisas).
 3. 性情；脾性 (temperamento; índole).
 4. 性命；生命 (vida; vitalidade).
 5. 身體 (corpo).
