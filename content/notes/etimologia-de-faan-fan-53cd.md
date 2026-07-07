@@ -82,7 +82,7 @@ Formas atestadas (xiaoxue): oracle bones Shang (前2.4.1), bronzes Zhou (頌鼎,
 
 Tradução: "(反) é 'virar ao contrário' [覆]. 覆 é 覂 [derramar, virar]. Quando se compõe com 又 [mão], tem de haver algo a virar. 厂. Nas várias edições escreve-se '厂反形' ['厂 na forma reversa']. [Duan:] Não é aceitável. O *Yùnhuì* não tem os caracteres '反形'. Portanto, deveria dizer '厂聲' ['厂 como fonético'], mas [este caractere] foi perdido. 厂 [tem fanqie] 呼旱切; 反 [tem fanqie] 府遠切. Grupo rímico 14. (𠬡) é a forma antiga."
 
-Duan propõe correção filológica: a análise Shuowen recebida diz que 厂 aparece em 反 "na forma reversa" (espelhado), mas Duan argumenta que deveria ser simplesmente 厂聲 (厂 como fonético), com o carácter '聲' omitido por erro de transcrição.
+Duan propõe correção filológica: a análise Shuowen recebida diz que 厂 aparece em 反 "na forma reversa" (espelhado), mas Duan argumenta que deveria ser simplesmente 厂聲 (厂 como fonético), com o caractere '聲' omitido por erro de transcrição.
 
 #### Evolução de formas ([xiaoxue yanbian](https://xiaoxue.iis.sinica.edu.tw/yanbian?char=反))
 
