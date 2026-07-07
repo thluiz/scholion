@@ -125,7 +125,7 @@ Formas atestadas: Oracle characters 甲骨文 (0); Bronze characters 金文 (10)
 
 #### Divergências entre fontes
 
-**Leitura cantonesa.** O CantoDict registra mou4. A CUHK registra duas leituras cantonêsas sob 毛: maau4 e mou4.
+**Leitura cantonesa.** O CantoDict registra mou4. A CUHK registra duas leituras cantonesas sob 毛: maau4 e mou4.
 
 **Shuowen.** A CUHK traz o texto com a cauda 凡毛之屬皆从毛 e o fanqie 〔莫袍切〕. O 小學堂 yanbian traz apenas: 「毛，眉髮之屬及獸毛也。象形。」, sem essa cauda e sem o fanqie.
 
