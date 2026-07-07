@@ -103,4 +103,4 @@ Total: 8 formas.
 - **Papel de 矢 — fonético ou semântico?**: Xu Kai lê 知 como composto semântico (會意) — "conhecer rápido como flecha". Miao Kui corrige: 矢 é também fonético (矢亦聲). hanziyuan segue a linha fonética ("phonetic arrow"). A leitura popular "acertar com a palavra" é interpretação tradicional, não consenso.
 - **知 = 智**: chardb def. 18 confirma 同「智」智慧 — 知 e 智 eram originalmente o mesmo caractere. MDBG não menciona.
 - **Alcance semântico**: MDBG dá 4 sentidos; chardb lista 20 — amizade (defs. 10–12), memória (def. 6), matching/cônjuge (def. 15), empréstimos para 是 (17), 智 (18), 志 (19).
-- **Contagem de formas**: xiaoxue regista 8 formas sem oracle. hanziyuan: 0 oracle, 1 bronze, 1 seal.
+- **Contagem de formas**: xiaoxue registra 8 formas sem oracle. hanziyuan: 0 oracle, 1 bronze, 1 seal.
