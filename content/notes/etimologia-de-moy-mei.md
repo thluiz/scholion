@@ -74,8 +74,8 @@ Formas atestadas: Oracle 0 · Bronze 1 (B08569) · Seal 1 (S03955) · Liushutong
 |---------|--------|----------------|-------|
 | Zhou Ocidental inicial (~séc. XI–X a.C.) | Bronze (*jīnwén* 金文) | Inscrição do *Shǐ Méi zuò qiě xīn guǐ* 史梅作且辛簋 (vaso ritual *guǐ* feito pelo escriba Mei) | forma de bronze mais antiga atestada |
 | Estados Combatentes (475–221 a.C.) | Selo (*xǐ* 璽) | Catálogo 璽彙 n.º 3625 (selos dos Estados Combatentes) | variante de selo pré-Qin |
-| Han (séc. II–I a.C.) | Pequeno selo (*xiǎozhuàn* 小篆) | *Shuowen Jiezi*, 木部 (secção do radical árvore) | forma canónica do selo Qin |
-| Han | Variante do Shuowen | 說文或體 (forma alternativa registada no Shuowen) | 楳, com 某 como fonético |
+| Han (séc. II–I a.C.) | Pequeno selo (*xiǎozhuàn* 小篆) | *Shuowen Jiezi*, 木部 (seção do radical árvore) | forma canónica do selo Qin |
+| Han | Variante do Shuowen | 說文或體 (forma alternativa registrada no Shuowen) | 楳, com 某 como fonético |
 | Han Ocidental (séc. II a.C.) | Clerical inicial (*lìshū* 隸書) | Lamela de bambu nº 136, tumba nº 1 (complexo funerário — Mawangdui-tipo) | transição selo→clerical |
 | Han Ocidental | Clerical | Caixa de lacre de madeira, tumba Han Ocidental de Shāzǐtáng, Changsha 長沙砂子塘 | uso epigráfico privado |
 | Han Ocidental | Clerical | Etiqueta de madeira da tumba de Wáng Fèngshì em Hánjiāng 邗江王奉世墓 | uso funerário regional |
@@ -107,7 +107,7 @@ Formas atestadas: Oracle 0 · Bronze 1 (B08569) · Seal 1 (S03955) · Liushutong
 
 - **Sentido primário — plum vs. nanmu**: o *Shuowen* (Xu Shen, Han Oriental) define 梅 como 枏 (= 楠 *nán*, nanmu / cedro chinês), não como ameixeira. MDBG, CantoDict e o uso moderno priorizam "ameixa / *Prunus mume*" (sentidos 3 e 4 do chardb). O comentário de Duan Yucai (Qing) resolve a aparente contradição: nos clássicos (*Shijing*), o mesmo caractere 梅 cobria tanto a fruta ácida (odes de *Shào Nán*) quanto a árvore nanmu (odes de *Qín* e *Chén*). O sentido "ameixeira" prevaleceu com o tempo; "nanmu" sobreviveu sob 楠.
 - **Atestações arcaicas**: hanziyuan e xiaoxue divergem levemente. hanziyuan conta 0 oráculos, 1 bronze (B08569), 1 selo (S03955). xiaoxue mostra 9 formas no total, incluindo um bronze do Zhou Ocidental inicial (*Shǐ Méi zuò qiě xīn guǐ*), um selo dos Estados Combatentes, quatro usos em clerical Han Ocidental e duas estelas posteriores (Han Oriental e Sūn Wú). A contagem xiaoxue é mais granular.
-- **Decomposição**: todas as fontes concordam — 木 (árvore, semântico) + 每 (fonético). A variante gráfica mais antiga usa 某 como fonético (楳 e, redobrado, 槑) — e o *Shuowen* regista 楳 como forma alternativa explícita. hanziyuan sugere evolução 某 → 楳 → 梅, com o fonético 某 substituído por 每 em data posterior.
-- **Definições exclusivas do chardb**: sentido 5 (悲酸貌, "aparência de tristeza amarga") e sentido 6 (節候名, estação 梅雨 "chuva das ameixas") são usos poéticos/calendáricos ausentes do MDBG. Sentido 7 (商代國名) regista um topônimo dinástico quase esquecido.
+- **Decomposição**: todas as fontes concordam — 木 (árvore, semântico) + 每 (fonético). A variante gráfica mais antiga usa 某 como fonético (楳 e, redobrado, 槑) — e o *Shuowen* registra 楳 como forma alternativa explícita. hanziyuan sugere evolução 某 → 楳 → 梅, com o fonético 某 substituído por 每 em data posterior.
+- **Definições exclusivas do chardb**: sentido 5 (悲酸貌, "aparência de tristeza amarga") e sentido 6 (節候名, estação 梅雨 "chuva das ameixas") são usos poéticos/calendáricos ausentes do MDBG. Sentido 7 (商代國名) registra um topônimo dinástico quase esquecido.
 - **Confirmação cantonesa**: MDBG, CantoDict e CUHK concordam em **mui4** (tom 4 *yang* level) — coerente com a reconstrução MC 明母灰韻合一平 (nasal *m-* + rima *uai* arredondada + tom level).
 - **Rima arcaica**: as cinco reconstruções de Old Chinese concordam em atribuir 梅 ao rhyme group 之 (*zhī*) e ao inicial nasal *m-*. As divergências ficam na codad final (-ɡ, -ɣ, -g) e no núcleo (*uə*, *uə̂*, *wə*, *ə*) — diferenças de notação e teoria, não de fonologia substantiva.
