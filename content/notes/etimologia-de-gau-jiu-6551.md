@@ -77,7 +77,7 @@ O 段注 é notável por destacar uma discordância Han antiga: o comentador Mǎ
 | Late Warring States, Jin 戰國晚期·晉 | Bronze 金文 | 中山王鼎 (Zhōngshān wáng dǐng — trípode do rei de Zhongshan) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 包2.228 / 包2.249 / 包2.226 (Bāoshān) |
 | — | Stone 石 | 石30上 (Shí 30 shàng) |
-| Han | Seal 篆書 | 說文·攴部 (Shuōwén, secção 攴) |
+| Han | Seal 篆書 | 說文·攴部 (Shuōwén, seção 攴) |
 | Qin 秦 | Clerical 隸書 | 睡虎地簡49.88 (Shuìhǔdì jiǎn 49.88) |
 | Western Han 西漢 | Clerical 隸書 | 老子甲後206 (Lǎozǐ jiǎ hòu 206) |
 | Western Han 西漢 | Clerical 隸書 | 孫子47 (Sūnzǐ 47) |
@@ -108,12 +108,12 @@ O 段注 é notável por destacar uma discordância Han antiga: o comentador Mǎ
 
 **Glosa primária — "parar" (Shuowen) vs "socorrer" (uso moderno)**: O Shuowen define 救 como 止也 ("parar/impedir"), não como "salvar/socorrer". A acepção moderna "salvar" (acepção 2 do chardb) é extensão semântica: parar-o-mal → proteger → socorrer. Esta evolução é documentada pelo uso clássico — no Lunyu (citado pelo 段注), 救 ainda significa "impedir". A especialização para "salvamento/resgate" ocorre na literatura Han tardia e torna-se dominante no chinês medieval-moderno.
 
-**Controvérsia Xu Shen vs Ma Rong**: 段玉裁 destaca a divergência: Ma Rong (馬融) distingue 救 (impedir com intenção protetora) de 止 (parar genericamente); Xu Shen considera-os sinónimos. A posição de Ma é mais refinada semanticamente e compatível com o uso clássico — é a distinção entre 救 e 止 que permite a trajetória "impedir o mal" → "salvar".
+**Controvérsia Xu Shen vs Ma Rong**: 段玉裁 destaca a divergência: Ma Rong (馬融) distingue 救 (impedir com intenção protetora) de 止 (parar genericamente); Xu Shen considera-os sinônimos. A posição de Ma é mais refinada semanticamente e compatível com o uso clássico — é a distinção entre 救 e 止 que permite a trajetória "impedir o mal" → "salvar".
 
-**Variante 捄**: hanziyuan regista duas etimologias (救 6551, 捄 6344), convergentes. 捄 usa 手 (mão) em vez de 攵 (ação-golpe), o que enfatiza o gesto direto de resgate. No Shuowen 捄 tem entrada própria ("ajudar erguendo; ajuntar"), mas o uso histórico tendeu a mesclar-se com 救.
+**Variante 捄**: hanziyuan registra duas etimologias (救 6551, 捄 6344), convergentes. 捄 usa 手 (mão) em vez de 攵 (ação-golpe), o que enfatiza o gesto direto de resgate. No Shuowen 捄 tem entrada própria ("ajudar erguendo; ajuntar"), mas o uso histórico tendeu a mesclar-se com 救.
 
 **Atestação desde Zhou tardio**: hanziyuan e xiaoxue convergem — zero oracle bones, primeira atestação bronze Zhou tardio (周匜). O par 救/求 (求 atestado em oracle) sugere que o caractere 救 derivou pela adição de 攵 a 求 como diferenciação gráfica — 求 "buscar/pedir" e 救 "impedir/salvar" por gesto ativo.
 
-**Leitura secundária jiū**: chardb regista jiu1 (acepção 7 "intercambiável com 勼, reunir"). Não aparece no Guangyun. Uso dialetal/arcaico marginal.
+**Leitura secundária jiū**: chardb registra jiu1 (acepção 7 "intercambiável com 勼, reunir"). Não aparece no Guangyun. Uso dialetal/arcaico marginal.
 
-**Convergência fonológica robusta**: Os cinco sistemas (Karlgren, Wang Li, Dong Tonghe, Zhou Fagao, Li Fanggui) unanimemente colocam 救 no grupo 幽 (yōu). Grupo 幽 é estável para 守 (sau) — comparar: 守 também está em 幽. Esta partilha rímica (幽 em Old Chinese) é coerente com o facto de ambos (守, 救) pertencerem ao campo semântico "proteger/guardar".
+**Convergência fonológica robusta**: Os cinco sistemas (Karlgren, Wang Li, Dong Tonghe, Zhou Fagao, Li Fanggui) unanimemente colocam 救 no grupo 幽 (yōu). Grupo 幽 é estável para 守 (sau) — comparar: 守 também está em 幽. Esta partilha rímica (幽 em Old Chinese) é coerente com o fato de ambos (守, 救) pertencerem ao campo semântico "proteger/guardar".
