@@ -30,7 +30,7 @@ sources:
 
 ### 方
 
-**方** — U+65B9 · 部首 radical: 方 (caractere é ele próprio chave de secção Shuowen e radical Kangxi 70) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄈㄤ · 拼音 pinyin: fāng (também fáng, fǎng, páng, wǎng, fēng) · jyutping: fong1
+**方** — U+65B9 · 部首 radical: 方 (caractere é ele próprio chave de seção Shuowen e radical Kangxi 70) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄈㄤ · 拼音 pinyin: fāng (também fáng, fǎng, páng, wǎng, fēng) · jyutping: fong1
 
 Aparece no Hai Tong de Moy Yat em fong wai 方位 (orientação espacial), fong heung 方向 (direção), fong faat 方法 (método). 方 cobre uma rede semântica ampla — "quadrado", "direção", "lado", "região", "método", "fórmula" — todos derivados do sentido pictográfico "barcos atados em paralelo".
 
@@ -40,7 +40,7 @@ Aparece no Hai Tong de Moy Yat em fong wai 方位 (orientação espacial), fong 
 
 **CantoDict**: fong1 (tom 1, alto plano)
 
-**chardb**: (não retornou ficha individual — 方 é chave de secção Shuowen, busca devolve listagem)
+**chardb**: (não retornou ficha individual — 方 é chave de seção Shuowen, busca devolve listagem)
 
 #### Decomposição e formas antigas ([hanziyuan](https://hanziyuan.net/#方))
 
@@ -50,13 +50,13 @@ Notas hanziyuan: "homem carregando vara de carga 扁擔; carrega coisas (saco e 
 Inglês: a square, rectangle; a region; local
 Exemplo de uso: 方法 fāng fǎ (método)
 Frequência: 63 (top 100 — extremamente alta)
-Shuowen (hanziyuan): 併船也象兩舟省緫頭形凡方之屬皆從方 (Barcos atados juntos. Imita a forma de dois barcos abreviados, com proas convergindo. Todos os caracteres da secção 方 seguem 方.)
+Shuowen (hanziyuan): 併船也象兩舟省緫頭形凡方之屬皆從方 (Barcos atados juntos. Imita a forma de dois barcos abreviados, com proas convergindo. Todos os caracteres da seção 方 seguem 方.)
 Variante: 汸 (Shuowen 或體 — variante alternativa com 水)
 Pronúncias múltiplas: fāng, fáng, fǎng, páng, wǎng, fēng (uma das maiores constelações fonológicas)
 
 #### Shuowen Jiezi completo (via zdic.net)
 
-**說文**: 併船也。象兩舟省、緫頭形。凡方之屬皆从方。汸，方或从水。府良切。 (Barcos atados juntos. Imita a forma de dois barcos abreviados, com proas convergindo num ponto. Todos os caracteres da secção 方 seguem 方. 汸 é variante de 方 com 水. Fanqie: 府良切.)
+**說文**: 併船也。象兩舟省、緫頭形。凡方之屬皆从方。汸，方或从水。府良切。 (Barcos atados juntos. Imita a forma de dois barcos abreviados, com proas convergindo num ponto. Todos os caracteres da seção 方 seguem 方. 汸 é variante de 方 com 水. Fanqie: 府良切.)
 
 **段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido):
 
@@ -84,7 +84,7 @@ Tradução parcial: "(方) é **barcos atados juntos**. *Zhou Nan* [Odes do Sul 
 | Late Warring States, Jin 戰國晚期·晉 | Bronze 金文 | 中山王鼎 (Zhōngshān wáng dǐng) |
 | Late Warring States, Jin 戰國晚期·晉 | Bronze 金文 | 𧊒壺 (vaso *hu*) |
 | Warring States, Chu 戰國·楚 | Bamboo divination 楚簡 | 天卜 (Tiān bǔ — divinação celeste) |
-| Han | Seal 篆書 | 說文‧方部 (Shuōwén, secção 方) |
+| Han | Seal 篆書 | 說文‧方部 (Shuōwén, seção 方) |
 | Han | Seal 篆書 | 說文或體 (Shuōwén variante 汸) |
 | Qin 秦 | Seal 篆書 | 繹山碑 (Yìshān bēi — Estela do Monte Yi) |
 | Qin 秦 | Clerical 隸書 | 睡.秦131 (Shuìhǔdì *Qin* 131) |
