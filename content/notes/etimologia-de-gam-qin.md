@@ -59,11 +59,11 @@ Composto (variante gráfica):
 - 心 xīn (coração) — semântico acrescentado
 - 勤 qín (diligente) — fonético + semântico
 
-Hanziyuan regista 懃 (E05059) como redireção para 勤 (U+52E4), confirmando que é variante gráfica.
+Hanziyuan registra 懃 (E05059) como redireção para 勤 (U+52E4), confirmando que é variante gráfica.
 
 Significado original (hanziyuan): "courteous" (cortês, atencioso) — distinção sutil com 勤 (industrious/diligente). 懃 enfatiza a dimensão afetiva/interior (心 = coração); 勤 a dimensão da ação concreta.
 
-Shuowen (hanziyuan): (sem entrada própria — Shuowen regista apenas 勤: 「勤，勞也。从力，堇聲。」 — "esforço, labor; de 力 com 堇 como fonético").
+Shuowen (hanziyuan): (sem entrada própria — Shuowen registra apenas 勤: 「勤，勞也。从力，堇聲。」 — "esforço, labor; de 力 com 堇 como fonético").
 Regras aplicadas (Sears): C474 勤<懃> — 勤 (industrioso) como forma padrão, 懃 (cortês) como variante.
 Formas atestadas: Oracle 0 · Bronze 0 · Seal 0 · Liushutong 0 — ausência total em todos os corpora arqueológicos.
 
@@ -105,13 +105,13 @@ Total: 2 formas. Atestação epigráfica extremamente escassa, apenas em duas es
 
 ### Divergências entre fontes
 
-- **Variante gráfica tardia**: todas as fontes concordam — 懃 é variante de 勤 com 心 adicionado. Hanziyuan e chardb registam explicitamente a identidade. A distinção semântica subtil: 勤 (diligência na ação) vs 懃 (diligência do coração, cortesia sincera).
+- **Variante gráfica tardia**: todas as fontes concordam — 懃 é variante de 勤 com 心 adicionado. Hanziyuan e chardb registram explicitamente a identidade. A distinção semântica subtil: 勤 (diligência na ação) vs 懃 (diligência do coração, cortesia sincera).
 - **Sem entrada no Shuowen**: 懃 não aparece no Shuowen. Pai 勤 tem entrada: 勞也 ("labor"). Variante 懃 é formação posterior ao Shuowen (pós-século I EC).
 - **Acepção "cortesia" exclusiva de 懃**: Sears nota que 懃 = "courteous" e 勤 = "industrious" — há uma divisão semântica que o Shuowen não refletia. 懃 especializa-se no sentido afetivo/cerimonial (殷懃 yīnqín — solicitude atenciosa, hospitalidade).
-- **Atestação epigráfica mínima**: xiaoxue regista apenas 2 formas clericais (Han Oriental e Jin Ocidental). Hanziyuan regista 0 em todos os corpora. Caractere de uso restrito, provavelmente literário/epigráfico.
+- **Atestação epigráfica mínima**: xiaoxue registra apenas 2 formas clericais (Han Oriental e Jin Ocidental). Hanziyuan registra 0 em todos os corpora. Caractere de uso restrito, provavelmente literário/epigráfico.
 - **殷懃 como expressão clássica**: o binómio 殷懃 (yīnqín — solicitude sincera, atenciosidade) é atestado em textos Tang e posteriores. 懃 vive principalmente neste composto, marcando a dimensão emocional/afetiva do cuidado pelo outro.
 - **Reconstrução OC lacunar**: Dong Tonghe, Li Fanggui e Zhengzhang não reconstroem. Karlgren, Wang Li e Zhou Fagao reconstroem *g-/*gʰ- + -iən/-jən, grupo 文 (wén). Divergência típica de caracteres de atestação escassa.
-- **Mudança de rima Han**: xiaoxue regista 真部 (zhēn) no Han Ocidental e Oriental, diferente do 文部 (wén) pré-Qin. Evolução fonológica significativa.
+- **Mudança de rima Han**: xiaoxue registra 真部 (zhēn) no Han Ocidental e Oriental, diferente do 文部 (wén) pré-Qin. Evolução fonológica significativa.
 - **Leitura Gam no cantonês**: jyutping kan4 no CantoDict. A romanização "Gam" usada no nome kung fu é não-padrão. O padrão jyutping é kan4, cognato do 全濁 + 平聲 + 羣母 (inicial g-) do chinês medieval.
 - **Consenso lacunar**: hanziyuan/Shuowen silenciosos; chardb/CantoDict/MDBG/xiaoxue dão dados mas de forma enxuta. Caractere raro, documentação filológica escassa.
 - **Sentido no nome kung fu**: leitura centrada em 殷懃/殷勤 — solicitude sincera, cortesia do coração. Virtude cerimonial: atenção ao outro manifestada como esforço afetivo.
