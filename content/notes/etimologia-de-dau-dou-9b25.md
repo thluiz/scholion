@@ -33,7 +33,7 @@ sources:
 **鬥** — U+9B25 · 部首 radical: 鬥 (próprio) · 總筆畫 strokes: 10 · 注音 zhuyin: ㄉㄡˋ · 拼音 pinyin: dòu · jyutping: dau3
 
 Simplificado: 斗 (U+6597) — empréstimo homófono sem relação etimológica (斗 original é "colher/concha")
-Variantes: 鬦, 鬪, 鬭 (formas secundárias registadas no chardb)
+Variantes: 鬦, 鬪, 鬭 (formas secundárias registradas no chardb)
 
 #### Definições
 
@@ -48,18 +48,18 @@ Variantes: 鬦, 鬪, 鬭 (formas secundárias registadas no chardb)
 Componentes: 鬥 é pictograma unitário — dois homens/mãos em confronto, com as mãos estendidas um contra o outro
 Notas de decomposição hanziyuan: "two men fighting" (dois homens lutando)
 Significado original: lutar
-Shuowen (hanziyuan): 兩士相對兵杖在後象鬥之形凡鬥之屬皆從鬥 (Dois homens opostos, armas atrás, pictograma da forma de luta. Todos os caracteres da secção 鬥 seguem 鬥.)
+Shuowen (hanziyuan): 兩士相對兵杖在後象鬥之形凡鬥之屬皆從鬥 (Dois homens opostos, armas atrás, pictograma da forma de luta. Todos os caracteres da seção 鬥 seguem 鬥.)
 Formas atestadas: Oracle 12 · Bronze 0 · Seal 1 · Liushutong adicionais
 
 #### Shuowen Jiezi completo (via zdic.net)
 
-**說文**: 兩士相對，兵杖在後，象鬥之形。凡鬥之屬皆从鬥。都豆切。 (Dois homens [士] opostos, armas [兵杖] atrás, pictograma da forma de lutar. Todos os caracteres pertencentes à secção 鬥 seguem 鬥. Fanqie: 都豆切.)
+**說文**: 兩士相對，兵杖在後，象鬥之形。凡鬥之屬皆从鬥。都豆切。 (Dois homens [士] opostos, armas [兵杖] atrás, pictograma da forma de lutar. Todos os caracteres pertencentes à seção 鬥 seguem 鬥. Fanqie: 都豆切.)
 
 **段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido):
 
 (鬥)㒳士相對，兵杖在後，象鬥之形。按此非許語也。許之分部次弟，自云據形系聯。𠃨𠩀在前部，故受之以鬥。然則當云爭也。兩𠃨相對象形，謂兩人手持相對也。乃云兩士相對，兵杖在後，與前部説自相戾，且文從兩手，非兩士也。
 
-Tradução: "(鬥) 'dois homens opostos, armas atrás, pictograma da forma de lutar.' [Duan comenta:] Note-se que esta não é formulação de Xu [Shen]. Xu divide em secções por associação formal, como ele próprio declara; 𠃨 e 𠩀 estão nas secções anteriores, daí a continuação com 鬥. Nesse caso, deveria dizer-se 爭也 ['contender']. 兩𠃨相對象形 — 'duas mãos opostas, pictograma' — significa 'duas pessoas segurando-se mutuamente'. Mas [a formulação recebida] diz 'dois homens opostos, armas atrás', o que contradiz a própria exposição das secções anteriores, e além disso o carácter compõe-se de **duas mãos, não de dois homens [armados]**."
+Tradução: "(鬥) 'dois homens opostos, armas atrás, pictograma da forma de lutar.' [Duan comenta:] Note-se que esta não é formulação de Xu [Shen]. Xu divide em seções por associação formal, como ele próprio declara; 𠃨 e 𠩀 estão nas seções anteriores, daí a continuação com 鬥. Nesse caso, deveria dizer-se 爭也 ['contender']. 兩𠃨相對象形 — 'duas mãos opostas, pictograma' — significa 'duas pessoas segurando-se mutuamente'. Mas [a formulação recebida] diz 'dois homens opostos, armas atrás', o que contradiz a própria exposição das seções anteriores, e além disso o carácter compõe-se de **duas mãos, não de dois homens [armados]**."
 
 Duan Yucai, portanto, rejeita a definição recebida do Shuowen como interpolação tardia não-autêntica. A correção proposta: 鬥 é "contender" (爭), composto de duas mãos opostas — não de dois soldados armados.
 
@@ -68,7 +68,7 @@ Duan Yucai, portanto, rejeita a definição recebida do Shuowen como interpolaç
 | Período | Script | Fonte/Artefato |
 |---------|--------|----------------|
 | Shang 商 | Oracle bone 甲骨文 | 乙6988 (Yǐ 6988) |
-| Han | Seal 篆書 | 說文·鬥部 (Shuōwén, secção 鬥) |
+| Han | Seal 篆書 | 說文·鬥部 (Shuōwén, seção 鬥) |
 
 **Shuowen (xiaoxue)**: 《說文》：「鬥，兩士相對，兵杖在後，象鬥之形。」
 
@@ -105,8 +105,8 @@ A formulação recebida do Shuowen é provavelmente interpolação ou expansão 
 
 **Simplificação 鬥 → 斗 por empréstimo homófono**: A forma simplificada oficial 斗 é empréstimo fonético — 斗 original significa "colher/concha de medir", não tem relação etimológica com 鬥. Esta é uma das simplificações mais questionadas do sistema moderno, pois apaga distinção semântica importante. Na escrita tradicional (Taiwan, Hong Kong), 鬥 e 斗 permanecem distintos.
 
-**Atestação em oracle bones sem armas**: hanziyuan regista 12 oracle bones; xiaoxue confirma 乙6988 como atestação Shang. Luo Zhenyu enfatiza que **todas as formas oraculares** mostram dois homens agarrando-se com as mãos, sem implementos. A leitura Shuowen de "兵杖在後" é reinterpretação Han tardia, provavelmente sob influência da semântica militar derivada.
+**Atestação em oracle bones sem armas**: hanziyuan registra 12 oracle bones; xiaoxue confirma 乙6988 como atestação Shang. Luo Zhenyu enfatiza que **todas as formas oraculares** mostram dois homens agarrando-se com as mãos, sem implementos. A leitura Shuowen de "兵杖在後" é reinterpretação Han tardia, provavelmente sob influência da semântica militar derivada.
 
-**Variantes gráficas 鬦/鬪/鬭**: O chardb regista três variantes secundárias. 鬪 aparece em compostos classicos como 奮鬪 (fèndòu, "esforço"). A multiplicidade de variantes sugere instabilidade gráfica do pictograma — a dificuldade de reproduzir fielmente a imagem de "duas pessoas lutando" levou a várias tentativas de padronização.
+**Variantes gráficas 鬦/鬪/鬭**: O chardb registra três variantes secundárias. 鬪 aparece em compostos classicos como 奮鬪 (fèndòu, "esforço"). A multiplicidade de variantes sugere instabilidade gráfica do pictograma — a dificuldade de reproduzir fielmente a imagem de "duas pessoas lutando" levou a várias tentativas de padronização.
 
-**Ausência em bronzes**: hanziyuan e xiaoxue convergem: zero atestações em bronze. O caractere atestado em oracle bones (Shang) e retomado na escrita seal Han, sem continuidade visível nos registos bronze Zhou. Isto pode dever-se ao facto de "luta corporal" ser tópico menos representado na epigrafia ritual aristocrática do Zhou, que privilegiava sacrifício e registo genealógico.
+**Ausência em bronzes**: hanziyuan e xiaoxue convergem: zero atestações em bronze. O caractere atestado em oracle bones (Shang) e retomado na escrita seal Han, sem continuidade visível nos registos bronze Zhou. Isto pode dever-se ao fato de "luta corporal" ser tópico menos representado na epigrafia ritual aristocrática do Zhou, que privilegiava sacrifício e registo genealógico.
