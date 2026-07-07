@@ -64,7 +64,7 @@ Formas atestadas: Oracle 0 · Bronze 0 · Seal 1 (S01931) · Liushutong 1 (L3510
 
 **說文新附**: 讜，直言也。从言，黨聲。 ("Dǎng: fala direta. De 言 [palavra] com 黨 como fonético.") — entrada do 說文新附, apêndice tardio compilado por Xu Xuan 徐鉉 na dinastia Song, reunindo caracteres que circulavam mas não estavam no Shuowen original de Xu Shen.
 
-**段注 Duan Yucai**: (não retornou dados — a edição shuowen.org não foi acessada diretamente para este caractere; o Shuowen original de Xu Shen não regista 讜 como entrada independente, por ser de formação posterior).
+**段注 Duan Yucai**: (não retornou dados — a edição shuowen.org não foi acessada diretamente para este caractere; o Shuowen original de Xu Shen não registra 讜 como entrada independente, por ser de formação posterior).
 
 ### Evolução de formas (xiaoxue yanbian)
 
