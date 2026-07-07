@@ -94,7 +94,7 @@ Esta nota mostra que 真 é, no pensamento Shuowen/段注, um caractere intimame
 | Warring States, Chu 戰國·楚 | Coinage 貨系 | 貨系347 |
 | Warring States, Chu 戰國·楚 | Divination 天策 | 天策 (Tiān cè) |
 | — | Ancient script 古文 | 說文古文 — forma 𠤛 |
-| Han | Seal 篆書 | 說文·𠤎部 (Shuōwén, secção 𠤎) |
+| Han | Seal 篆書 | 說文·𠤎部 (Shuōwén, seção 𠤎) |
 | Qin 秦 | Clerical 隸書 | 睡虎地簡34.49 (Shuìhǔdì jiǎn 34.49) |
 | Western Han 西漢 | Clerical 隸書 | 馬王堆易4 (Mǎwángduī Yì 4 — *Yìjīng* de Mawangdui) |
 | Han | Seal 漢印 | 漢印徵 |
