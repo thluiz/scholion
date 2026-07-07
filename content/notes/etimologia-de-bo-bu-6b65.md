@@ -60,20 +60,20 @@ Variantes arcaicas: 𣥗 · 歨
 
 Componentes: 止 zhǐ (pé em posição normal) em cima + 𣥂 tà (pé invertido) em baixo
 Significado original: caminhar
-Shuowen (hanziyuan): 行也從止𣥂相背凡步之屬皆從步 (Caminhar. De 止 e 𣥂 em posições opostas. Todos os caracteres da secção 步 seguem 步.)
+Shuowen (hanziyuan): 行也從止𣥂相背凡步之屬皆從步 (Caminhar. De 止 e 𣥂 em posições opostas. Todos os caracteres da seção 步 seguem 步.)
 Formas atestadas: Oracle 91 · Bronze muitos · Seal 1 · atestação abundante em bambu
 
 **Nota**: esta é uma das atestações epigráficas mais ricas da tabela — 91 oracle bones confirmam que "caminhar" era conceito graficamente estabelecido desde Shang.
 
 #### Shuowen Jiezi completo (via zdic.net)
 
-**說文**: 行也。从止𣥂相背。凡步之屬皆从步。薄故切。 (Caminhar. De 止 e 𣥂 em posições opostas. Todos os caracteres da secção 步 seguem 步. Fanqie: 薄故切.)
+**說文**: 行也。从止𣥂相背。凡步之屬皆从步。薄故切。 (Caminhar. De 止 e 𣥂 em posições opostas. Todos os caracteres da seção 步 seguem 步. Fanqie: 薄故切.)
 
 **段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido):
 
 (步)行也。行部曰：人之步趨也。步徐，趨疾。釋名曰：徐行曰步。从止𣥂相竝者，上登之象。止𣥂相隨者，行步之象。相背猶相隨也。薄故切。五部。凡歩之屬皆从步。
 
-Tradução: "(步) é caminhar [行]. A secção 行 diz: '人之步趨也 — o caminhar e o correr do homem.' 步 é lento [徐], 趨 é rápido [疾]. O *Shìmíng* [Explicação dos Nomes] diz: 'caminhar lento chama-se 步.' 止𣥂 lado-a-lado é a imagem do subir. 止𣥂 em sucessão é a imagem do caminhar [行步]. '相背' ['opostos'] aqui equivale a '相隨' ['em sucessão']. Fanqie: 薄故切. Grupo rímico 5. Todos os caracteres da secção 步 seguem 步."
+Tradução: "(步) é caminhar [行]. A seção 行 diz: '人之步趨也 — o caminhar e o correr do homem.' 步 é lento [徐], 趨 é rápido [疾]. O *Shìmíng* [Explicação dos Nomes] diz: 'caminhar lento chama-se 步.' 止𣥂 lado-a-lado é a imagem do subir. 止𣥂 em sucessão é a imagem do caminhar [行步]. '相背' ['opostos'] aqui equivale a '相隨' ['em sucessão']. Fanqie: 薄故切. Grupo rímico 5. Todos os caracteres da seção 步 seguem 步."
 
 A distinção 步 (徐/lento) vs 趨 (疾/rápido) é pilar do vocabulário do movimento em chinês clássico.
 
@@ -91,7 +91,7 @@ A distinção 步 (徐/lento) vs 趨 (疾/rápido) é pilar do vocabulário do m
 | Late Warring States, Jin 戰國晚期·晉 | Bronze 金文 | 兆域圖銅版 (Zhàoyù tú tóngbǎn — placa de bronze do mapa cemiterial) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 包2.25 (Bāoshān 2.25) |
 | Warring States, Qin 戰國·秦 | Wood tablet 木牘 | 青川木牘 (Qīngchuān mùdú) |
-| Han | Seal 篆書 | 說文·步部 (Shuōwén, secção 步) |
+| Han | Seal 篆書 | 說文·步部 (Shuōwén, seção 步) |
 | Qin 秦 | Clerical 隸書 | 睡虎地簡52.6 (Shuìhǔdì jiǎn 52.6) |
 | Western Han 西漢 | Clerical 隸書 | 流沙簡·屯戍5.16 (Liúshā jiǎn, Tūnshù 5.16) |
 | Eastern Han 東漢 | Clerical 隸書 | 衡方碑 (Héng Fāng bēi — Estela de Heng Fang) |
