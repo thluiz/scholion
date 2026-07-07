@@ -100,6 +100,6 @@ Total: 2 formas. Ausência em osso oracular, bronze, Warring States, Qin. Caract
 - **Homofonia com 菲 (Fei)**: 斐 (padrão elegante) e 菲 (planta, fragrante) partilham fonologia OC *pʰ- + -jwər/-ǐwəi, grupo 微. Ambos têm leitura fěi no mandarim moderno, ambos jyutping fei1/fei2. Paronímia fonológica, distinção gráfica pelo radical (文 vs 艹).
 - **Ausência arqueológica pré-Han**: 0 oracle + 0 bronze + 0 Warring States. Primeira atestação: pequeno selo Shuowen, depois estela Han Oriental. Caractere de uso literário restrito, raramente epigráfico.
 - **Três acepções estreitas (chardb)**: elegância literária, topônimo antigo, sobrenome. Ausência de acepções técnicas ou populares. Caractere de registro culto.
-- **Uso em transliteração moderna**: CantoDict regista uso extensivo em nomes próprios estrangeiros (Fiji, Ferdinand, Philip, Fibonacci) — o som fei2 em cantonês casa bem com sílabas "fi-"/"fe-" ocidentais. Uso pós-século XIX.
+- **Uso em transliteração moderna**: CantoDict registra uso extensivo em nomes próprios estrangeiros (Fiji, Ferdinand, Philip, Fibonacci) — o som fei2 em cantonês casa bem com sílabas "fi-"/"fe-" ocidentais. Uso pós-século XIX.
 - **Consenso fonológico OC**: idêntico ao de 菲. Cinco sistemas reconstroem *pʰ- + -jwər/-ǐwəi/-juə̆d/-jiwər/-jədx, grupo 微 (wēi). Convergência total.
 - **Sentido no nome kung fu**: a leitura pretendida é def. 1 do chardb — 五色相錯；文采 — "entrelaçamento das cinco cores; elegância literária/ornamental". Arco semântico: brilho, padrão refinado, virtude manifesta como padrão visível (leitura Yijing-Shuowen).
