@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 爻 (Ngaau — Yáo / ngaau4)"
-date: '2026-07-06T13:20:14+01:00'
-summary: 'As linhas do hexagrama do Yijing, radical Kangxi nº 89. O Shuowen lê 爻 como 交也 "cruzamento" — os topos cruzados das seis linhas; a paleografia (沈培) lê pequenas lâminas de bambu dispostas para adivinhação.'
+date: '2026-07-07T19:33:32+01:00'
+summary: 'O radical Kangxi nº 89. O Shuowen glosa 爻 como 交也 ''cruzamento''; a CUHK registra leituras paleográficas que o tomam como forma de varetas de adivinhação e uso original ligado à divinação por 筮數.'
 toc: true
 tags: ["china", "linguagem", "etimologia", "ideogramas", "radicais"]
 category: etymology
@@ -28,35 +28,35 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 89 (爻, as linhas do hexagrama do Yijing; "cruzamento"). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 89 (爻, linhas do trigrama / cruzamento). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **爻** — U+723B · 部首 radical: 爻 (nº 89) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄧㄠˊ · 拼音 pinyin: yáo / jyutping: ngaau4
 
 #### Definições
 
-**MDBG**: yáo; as linhas cheias e partidas dos oito trigramas 八卦 (the solid and broken lines of the eight trigrams), p.ex. ☶. (Não exibiu jyutping.)
+**MDBG**: the solid and broken lines of the eight trigrams 八卦, e.g. ☶
 
-**CantoDict**: ngaau4 {yáo}. Glosa idêntica à do MDBG (as linhas cheias e partidas dos oito trigramas 八卦). Confirmado pela CUHK.
+**CantoDict**: ngaau4.
 
-**chardb Academia Sinica** (charID 15991; 部首 e 讀音 vieram em branco no dump):
-1. 構成《易》卦的長短橫道。 (as trilhas horizontais longas e curtas que compõem os hexagramas do《易》[Yijing])
+**chardb Academia Sinica**:
+1. 構成《易》卦的長短橫道。 (as linhas horizontais longas e curtas que compõem os hexagramas de *Yijing*)
 2. 姓。 (sobrenome)
-3. 同「效」。 (o mesmo que 效)
+3. 同「效」。 (o mesmo que 「效」)
 
 #### Decomposição e formas antigas (hanziyuan)
 
-Componentes: composto de dois 乂 (yì) — "duplo x" / 㐅 sobreposto (hanziyuan). A CUHK acrescenta a leitura de 徐中舒 e 季旭昇: 爻 vem de 㐅 duplicado, sendo 㐅 a forma inicial de 五 (cinco), figura de 交午 (entrecruzamento).
-Significado original: 本义 "a diagram for divination" (um diagrama de adivinhação).
-Acepções inglesas: (não obtido — campo vazio no hanziyuan).
-Frequência de uso: 99999 (marcador de "não classificado" no hanziyuan; a CUHK registra 頻次 A/B baixos: 2 e 4).
-Formas atestadas (contagens do hanziyuan): Oráculo 甲骨文 (8); Bronze 金文 (9); Selo 篆字 (1); Liushutong 六書通 (2). As atestações epigráficas constam da tabela do 小學堂 abaixo.
+Componentes: Component 爻 from two scissors 乂 yì. (name- double-x 爻 yáo)
+Significado original: Meaning a diagram for divination (本义: significado um diagrama para divinação).
+Acepções inglesas: (não obtido — o campo “English senses” veio sem conteúdo)
+Frequência de uso: (sem ranking na fonte).
+Formas atestadas: Oracle characters 甲骨文 (8); Bronze characters 金文 (9); Seal characters 说文解字的篆字 (1); Liushutong characters 六书通的字 (2).
 
 #### Shuowen Jiezi completo
 
-(Texto verbatim obtido via CUHK e 小學堂, convergentes; hanziyuan traz o mesmo texto sem pontuação.)
+(shuowen.org retornou apenas a listagem das primeiras entradas do dicionário; texto verbatim obtido via 小學堂 e CUHK, não idênticos.)
 
-**說文**: 爻，交也。象《易》六爻頭交也。凡爻之屬皆从爻。〔胡茅切〕
-(爻 é 交 — "cruzar", "entrelaçar". Representa os topos cruzados das seis linhas [六爻] do《易》[Yijing]. Todo caractere da classe de 爻 segue 爻. Fanqie: 胡茅.)
+**說文**: 爻，交也。象《易》六爻頭交也。凡爻之屬皆从爻。
+(爻: “cruzamento”. Imita o cruzamento das cabeças das seis linhas do *Yijing*. Todo caractere da classe de 爻 segue 爻.)
 
 **段注 Duan Yucai**: (não obtido — shuowen.org retornou listagem; zdic.net retornou HTTP 404)
 
@@ -64,44 +64,47 @@ Formas atestadas (contagens do hanziyuan): Oráculo 甲骨文 (8); Bronze 金文
 
 | Período | Script | Fonte / Artefato |
 |---|---|---|
-| Shang | Oráculo (甲骨文) | 後2.41.1 |
-| Shang (tardio) | Bronze (金文) | 爻盉 Yáo hé |
-| Zhou Ocidental (inicial) | Bronze (金文) | 爻父丁簋 Yáo Fù Dīng guǐ |
-| Zhou Ocidental (médio-tardio) | Bronze (金文) | 伯晨鼎 Bó Chén dǐng |
-| Han | Selo pequeno (小篆) | 說文‧爻部 (Shuowen, seção 爻) |
+| Shang | Oráculo (甲骨文) | 後2.41.1(甲) |
+| Shang (tardio) | Bronze (金文) | 爻盉 |
+| Zhou Ocidental (inicial) | Bronze (金文) | 爻父丁簋 |
+| Zhou Ocidental (meados, um pouco tardio) | Bronze (金文) | 伯晨鼎 |
+| Han | Selo pequeno (小篆) | 說文‧爻部 |
 
 **Shuowen (xiaoxue)**: 爻，交也。象《易》六爻頭交也。
 
 **Comentários de estudiosos**:
-- 徐灝注箋 (小學堂): 交者交錯之義。六爻為重體，故作重乂象之。頭交疑當作相交。(交 tem o sentido de "entrecruzar". As seis linhas são um corpo duplicado, por isso se representa com um 乂 duplicado. "頭交" talvez deva ler-se "相交" [cruzarem-se mutuamente].)
-- CUHK 略說 (沈培): 古人常用一種竹木小片作算籌或占卦，全字象擺出竹木小片之形，本義是用筮數進行占算。(Os antigos usavam pequenas lâminas de bambu/madeira como varetas de contagem ou para adivinhar; o caractere inteiro representa a disposição dessas lâminas; o sentido original é adivinhar por meio de números do milfólio.)
+- 小學堂: 徐灝注箋：“交者交錯之義。六爻為重體，故作重乂象之。頭交疑當作相交。” (Xu Hao, *Zhujian*: “交 significa cruzar-se. As seis linhas são uma forma duplicada, por isso se faz com 乂 duplicado para representá-las. 頭交 talvez devesse ser 相交.”)
+- CUHK (略說): 古人常用一種竹木小片作算籌或占卦，全字象擺出竹木小片之形（沈培），本義是用筮數進行占算。 (Na Antiguidade, usava-se com frequência um tipo de pequena lasca de bambu ou madeira como vareta de cálculo ou para adivinhar; o caractere inteiro imita a disposição dessas pequenas peças de bambu ou madeira (Shen Pei); o sentido original é realizar cálculo divinatório com números de varetas.)
+- CUHK (詳解): 古人常用一種竹木小片作算籌或占卦，全字象擺出竹木小片之形（沈培），本義是用筮數進行占算。傳世文獻中多以「爻」為構成《易》卦的橫道，分為陰爻和陽爻。每三爻可組成一卦，共得八卦；八卦相疊後，六爻便能組合出六十四卦。《易．繫辭上》：「爻者，言乎變者也。」 (Na Antiguidade, usava-se com frequência um tipo de pequena lasca de bambu ou madeira como vareta de cálculo ou para adivinhar; o caractere inteiro imita a disposição dessas pequenas peças de bambu ou madeira (Shen Pei); o sentido original é realizar cálculo divinatório com números de varetas. Nos textos transmitidos, “爻” aparece em geral como a linha horizontal que compõe os hexagramas do *Yijing*, dividida em 陰爻 e 陽爻. Cada três 爻 formam um trigrama, totalizando oito trigramas; sobrepondo-se os oito trigramas, seis 爻 podem combinar-se em sessenta e quatro hexagramas. *Yijing*, “Xici shang”: 「爻者，言乎變者也。」)
+- CUHK (詳解): 　　徐中舒、季旭昇以為「爻」字從重「㐅」，「㐅」為「五」的初文，字象交午之形，用以表示縱橫交錯的意思。《說文》：「爻，交也。象《易》六爻頭交也。凡爻之屬皆从爻。」 (Xu Zhongshu e Ji Xusheng consideram que o caractere “爻” deriva de “㐅” duplicado; “㐅” é a forma inicial de “五”, e o caractere imita uma forma de cruzamento, usada para expressar a ideia de entrecruzamento vertical e horizontal. *Shuowen*: 「爻，交也。象《易》六爻頭交也。凡爻之屬皆从爻。」)
+- CUHK (詳解): 　　另，傳世文獻有以「效」釋「爻」，《廣雅．釋詁三》：「爻，效也。」王念孫疏證：「〈繫辭傳〉云：『爻也者，效此者也。』又云：『爻也者，效天下之動者也。』又『效法之謂坤。』古本皆作爻。是爻、效同聲同義。」 (Além disso, há textos transmitidos que explicam “爻” como “效”. *Guangya*, “Shigu san”: 「爻，效也。」 Wang Niansun comenta: 「No *Xici zhuan* se diz: ‘爻也者，效此者也。’; também: ‘爻也者，效天下之動者也。’; e ainda: ‘效法之謂坤。’. Nas edições antigas, todos trazem 爻. Assim, 爻 e 效 têm mesma pronúncia e mesmo sentido.」)
+- CUHK (詳解): 　　甲骨文「爻」用作本義，指用筮數進行占卜，《合集》13705：「爻馬，亡（無）疾。」意指為馬匹進行占卜，沒有疾病。又用為氏族名，《合集》9268正：「爻入……」。另，字又讀為「學」，用作人名，《合集》3397：「㞢（侑）于爻（學）戊。」「學戊」為殷人先王時代的巫師，卜辭意指對學戊進行侑祭。 (No oráculo, “爻” é usado em seu sentido original, indicando fazer adivinhação com números de varetas; *Heji* 13705: 「爻馬，亡（無）疾。」, isto é, adivinhar por um cavalo, sem doença. Também é usado como nome de clã; *Heji* 9268正: 「爻入……」. Além disso, o caractere também é lido como “學” e usado como nome próprio; *Heji* 3397: 「㞢（侑）于爻（學）戊。」. “學戊” era um xamã do tempo dos reis anteriores Yin, e a inscrição divinatória significa realizar um sacrifício de acompanhamento para Xuewu.)
+- CUHK (詳解): 　　金文「爻」用作族氏名，爻父丁𣪕：「爻，父丁。」「爻」又用為「䡈」，指車箱兩旁車欄上的橫木。白䢅鼎記王之賞賜物中有「幬爻（䡈）」一詞，表示覆䡈之物。傳世文獻多寫作「較」，《說文》：「䡈（較），車騎上曲銅也。从車，爻聲。」 (No bronze, “爻” é usado como nome de clã, como em 爻父丁𣪕: 「爻，父丁。」. “爻” também é usado por “䡈”, referindo-se à trave transversal sobre as guardas laterais da caixa do carro. Entre os objetos concedidos pelo rei registrados no 白䢅鼎 há a expressão 「幬爻（䡈）」, “objeto que cobre o 䡈”. Nos textos transmitidos, geralmente se escreve 「較」. *Shuowen*: 「䡈（較），車騎上曲銅也。从車，爻聲。」)
 
 #### Fonologia (xiaoxue shangguyin)
 
 **中古音 Middle Chinese (Guangyun)**:
-- 攝 Division: 效 (Xiao) · 韻 Rhyme: 肴 (Yáo) · 聲 Tone: 平 (level) · 母 Initial: 匣 (ɣ-)
+- 攝 Division: 效 (Xiao) · 韻 Rhyme: 肴 (Yao) · 聲 Tone: 平 (level) · 母 Initial: 匣 (x-)
 - 反切 Fanqie: 胡茅 · 等 Grade: 二 (II) · 開合 Open/Closed: 開 (open) · 清濁: 全濁 (sonora plena)
 
-**上古音 Old Chinese** (grupo de rima 宵 Xiao; a coluna 韻部 de Karlgren veio em branco na tabela):
-- 高本漢 Karlgren: ɡʰŏɡ (聲母 ɡʰ + 韻母 ŏɡ)
-- 王力 Wang Li: ɣeau
-- 董同龢 Dong Tonghe: ɣɔɡ
-- 周法高 Zhou Fagao: ɡraw
-- 李方桂 Li Fanggui: gragw
+**上古音 Old Chinese** (grupo de rima 宵 Xiao):
+- 高本漢 Karlgren: ɡʰ ŏɡ
+- 王力 Wang Li: ɣ eau
+- 董同龢 Dong Tonghe: ɣ ɔɡ
+- 周法高 Zhou Fagao: ɡ raw
+- 李方桂 Li Fanggui: g ragw
 - 鄭張尚芳 Zhengzhang Shangfang: (não retornou dados — ausente da tabela do 小學堂)
 
 **國語 Mandarin IPA**: iau
 
 #### Divergências entre fontes
 
-**Leitura do grafismo.** O *Shuowen* lê 爻 como 交也 ("cruzamento") e ancora a explicação na figura do hexagrama — os topos cruzados das seis linhas do《易》. É glosa vinculada à teoria do Yijing. A paleografia diverge em dois ramos: 徐灝, 徐中舒 e 季旭昇 leem um 乂/㐅 duplicado (figura de entrecruzamento, com 㐅 como forma inicial de 五); já 沈培 (via CUHK) lê o caractere como pictograma de pequenas lâminas de bambu/madeira dispostas para contagem ou adivinhação, com sentido original "adivinhar por números do milfólio", sem a leitura de "linhas que se cruzam".
+**Shuowen.** A CUHK registra o texto completo com a cauda 凡爻之屬皆从爻 e o fanqie 〔胡茅切〕; o 小學堂 yanbian traz só “爻，交也。象《易》六爻頭交也。”.
 
-**同「效」 e leitura 讀為「學」.** O chardb registra 3.ª acepção 同「效」; a CUHK confirma pela via do 廣雅 (爻，效也) e de 王念孫 (爻 e 效 同聲同義). A CUHK anota ainda que, no oráculo, 爻 aparece lido como 學 (xué), em nome próprio ("學戊").
+**Leitura do grafismo.** O *Shuowen* glosa 爻 como 交也 e o relaciona ao cruzamento das seis linhas do *Yijing*. A CUHK (略說, 詳解) registra outra leitura paleográfica: forma que representa pequenas peças de bambu ou madeira dispostas para cálculo ou divinação, com sentido original de “用筮數進行占算”; no mesmo 詳解, Xu Zhongshu e Ji Xusheng o analisam como derivado de 㐅 duplicado.
 
-**Texto do Shuowen.** Confirmado verbatim por CUHK e 小學堂. A CUHK traz a versão completa com o clichê final 凡爻之屬皆从爻 e o fanqie 〔胡茅切〕; o 小學堂 cita a forma abreviada (sem o clichê e sem o fanqie); o hanziyuan reproduz o mesmo texto sem pontuação. O comentário de 段玉裁 não foi obtido.
+**Sentido original.** O hanziyuan registra “Original meaning 本义: Meaning a diagram for divination”. A CUHK (略說, 詳解) registra como sentido original “用筮數進行占算”.
 
-**Leitura cantonesa.** O MDBG não exibiu jyutping; CantoDict e CUHK convergem em ngaau4, consistente com o 中古音 (inicial 匣 ɣ- sonora plena, tom 平 nível → tom 4 cantonês / 陽平).
+**Leitura cantonesa.** O CantoDict e a CUHK registram ngaau4. O MDBG não exibiu jyutping.
 
-**Pronúncia mandarim.** MDBG, hanziyuan e 小學堂 convergem em yáo; a CUHK registra também a variante xiáo (普通話: xiáo, yáo).
-
-**Reconstruções do 上古音.** Cinco sistemas (Karlgren, Wang Li, Dong Tonghe, Zhou Fagao, Li Fanggui), com Wang Li em diante no grupo de rima 宵 (Xiao) e a coluna 韻部 de Karlgren em branco na tabela; a coluna de 鄭張尚芳 (Zhengzhang Shangfang) não retornou.
+**Reconstruções do 上古音.** O 小學堂 reúne cinco sistemas no grupo de rima 宵 (Wang Li, Dong Tonghe, Zhou Fagao, Li Fanggui; Karlgren sem rótulo de 韻部 na tabela). A coluna de 鄭張尚芳 (Zhengzhang Shangfang) não retornou na tabela do 小學堂.
