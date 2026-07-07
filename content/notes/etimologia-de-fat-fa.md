@@ -54,7 +54,7 @@ Formas atestadas: Oracle 0 · Bronze 0 (hanziyuan) · Seal 1 (S07090) · Liushut
 
 ### Shuowen Jiezi completo (shuowen.org)
 
-**說文** (entrada 灋): 刑也。平之如水，从水；𢊁，所以觸不直者；去之，从去。 ("Punição. Nivelado como a água — segue o radical água; 𢊁 [= 廌] é aquele que toca/choca o que não é reto; remove-o — segue 去 'partir/remover'.") Volume 10 (卷十), secção do radical 𢊁. Fanqie: 方乏切. Variantes registadas: 法 (moderna), 佱 (antiga / 古文).
+**說文** (entrada 灋): 刑也。平之如水，从水；𢊁，所以觸不直者；去之，从去。 ("Punição. Nivelado como a água — segue o radical água; 𢊁 [= 廌] é aquele que toca/choca o que não é reto; remove-o — segue 去 'partir/remover'.") Volume 10 (卷十), seção do radical 𢊁. Fanqie: 方乏切. Variantes registradas: 法 (moderna), 佱 (antiga / 古文).
 
 **段注 Duan Yucai**: 㓝也。㓝者、罰辠也… 引伸爲凡模範之偁。 ("Pena/castigo. 㓝 é punir o crime… Por extensão, denomina todo modelo ou paradigma.") 平之如水。從水。張釋之曰：廷尉、天下之平也。 ("Nivelado como a água. Segue água. Zhang Shizhi disse: o 廷尉 [Ministro da Justiça] é o equilíbrio do mundo.")
 
@@ -99,8 +99,8 @@ Formas atestadas: Oracle 0 · Bronze 0 (hanziyuan) · Seal 1 (S07090) · Liushut
 ### Divergências entre fontes
 
 - **Sentido original — punição vs vau de rio**: Shuowen define 灋 como 刑也 (punição), com etimologia popular de "nivelar como água" + animal 廌 tocando o injusto. hanziyuan discorda: sentido original seria "vau de rio" (travessia segura), gerando metaforicamente "método" → "lei". Leituras incompatíveis.
-- **Forma primária**: Shuowen regista 灋 como principal e 法 como contração moderna (今文省); hanziyuan confirma cadeia 法←㳒←灋; 佱 é 古文 do Shuowen.
+- **Forma primária**: Shuowen registra 灋 como principal e 法 como contração moderna (今文省); hanziyuan confirma cadeia 法←㳒←灋; 佱 é 古文 do Shuowen.
 - **廌 vs 𢊁**: shuowen.org usa glifo 𢊁 para o animal mítico; hanziyuan usa 廌. Variantes gráficas do mesmo componente (o xièzhì 獬豸).
-- **Oracle**: nenhuma fonte regista atestação em 甲骨文. Confirmação cruzada.
+- **Oracle**: nenhuma fonte registra atestação em 甲骨文. Confirmação cruzada.
 - **Leituras múltiplas em Mandarim**: chardb indica fa3, fa4, fa2, fa1; hanziyuan afirma "Other pronunciations: Not exists"; MDBG/CantoDict só fǎ/faat3. Indicação de chardb provavelmente dialetal ou arcaica em compostos específicos.
 - **Zhengzhang ausente**: xiaoxue shangguyin não retorna entrada.
