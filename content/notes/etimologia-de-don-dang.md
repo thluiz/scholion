@@ -35,7 +35,7 @@ category: etymology
 
 É o Don do nome [Moy Kei Don](/notes/moy-kei-don/).
 
-Forma simplificada: 谠 (U+8C20). Variantes traditionais: 譡.
+Forma simplificada: 谠 (U+8C20). Variantes tradicionais: 譡.
 
 ### Definições
 
