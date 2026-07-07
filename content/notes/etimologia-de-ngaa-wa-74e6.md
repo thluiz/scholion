@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 瓦 (Ngaa — Wǎ / ngaa5)"
-date: '2026-07-06T13:40:43+01:00'
-summary: 'O caractere de telha e cerâmica de barro cozido, radical Kangxi nº 98. O Shuowen o lê como 土器已燒之總名 "nome geral do vaso de barro já cozido"; a CUHK registra duas leituras do pictograma — vaso de barro cozido ou telhas sobrepostas.'
+date: '2026-07-07T19:32:46+01:00'
+summary: 'O pictograma de objeto cerâmico/telha, radical Kangxi nº 98. O Shuowen define 瓦 como ''nome geral dos utensílios de barro já queimados''; as fontes modernas também registram o sentido de telha.'
 toc: true
 tags: ["china", "linguagem", "etimologia", "ideogramas", "radicais"]
 category: etymology
@@ -28,93 +28,89 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 98 (瓦, telha; cerâmica de barro cozido). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 98 (瓦, telha). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
-**瓦** — U+74E6 · 部首 radical: 瓦 (nº 98) · 總筆畫 strokes: 4 (chardb) / 5 (CUHK, contagem Kangxi) · 注音 zhuyin: ㄨㄚˇ · 拼音 pinyin: wǎ / jyutping: ngaa5
+**瓦** — U+74E6 · 部首 radical: 瓦 (nº 98) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄨㄚˇ · 拼音 pinyin: wǎ / jyutping: ngaa5
 
 #### Definições
 
-**MDBG**: telha (roof tile); abreviação de 瓦特 (watt).
+**MDBG**: roof tile / abbr. for 瓦特
 
-**CantoDict**: ngaa5 {wǎ} — telha; abreviação de 瓦特, watt (empréstimo). Também 瓦罉 ngaa5 caang1, "panela de barro". Leitura complementar registrada.
+**CantoDict**: ngaa5 (tom 5). roof tile; abbr. for 瓦特, watt (loan); a clay pot.
 
 **chardb Academia Sinica**:
-1. 用土燒製成的器物；瓦質的。 (objeto feito de barro cozido; de material cerâmico)
-2. 古代泥土燒製的紡錘。 (antigo fuso de fiar feito de barro cozido)
-3. 屋瓦，覆蓋屋面的建築材料。 (telha, material de construção que recobre o teto)
-4. 盾脊，盾背拱起如覆瓦的部分。 (a nervura do escudo, a parte das costas do escudo que se arqueia como uma telha invertida)
-5. 變形呈瓦狀。 (deformar-se assumindo forma de telha)
-6. 宋、元時都市中的遊樂、貿易場所。也稱「瓦子」、「瓦舍」、「瓦肆」或「瓦市」。 (nas dinastias Song e Yuan, local urbano de diversão e comércio; também chamado 瓦子, 瓦舍, 瓦肆 ou 瓦市)
-7. 方言。舊式車輪上的鐵護板。 (dialetal: a chapa de ferro protetora da roda de carroça no modelo antigo)
-8. 電力功率單位的簡稱，為紀念英國發明家瓦特而命名。 (abreviação da unidade de potência elétrica, assim nomeada em homenagem ao inventor inglês Watt)
-9. 古「八音」中「土」的別稱。指「塤」。 (nos antigos "oito timbres", designação alternativa do "barro"; refere-se ao 塤 [ocarina])
-10. 古代術數家視為忌諱的月數或凶險的卦數。 (para os antigos praticantes de artes divinatórias, número de meses tido como tabu ou número de hexagrama de mau agouro)
+1. 用土燒製成的器物；瓦質的。 (utensílio feito de barro cozido; de cerâmica)
+2. 古代泥土燒製的紡錘。 (fuso de barro cozido da Antiguidade)
+3. 屋瓦，覆蓋屋面的建築材料。 (telha, material de construção que cobre o telhado)
+4. 盾脊，盾背拱起如覆瓦的部分。 (lombo do escudo, a parte arqueada do dorso do escudo como uma telha invertida)
+5. 變形呈瓦狀。 (deformar-se, assumindo forma de telha)
+6. 宋、元時都市中的遊樂、貿易場所。也稱「瓦子」、「瓦舍」、「瓦肆」或「瓦市」。 (nos períodos Song e Yuan, local urbano de entretenimento e comércio; também chamado 「瓦子」, 「瓦舍」, 「瓦肆」 ou 「瓦市」)
+7. 方言。舊式車輪上的鐵護板。 (dialetal: chapa protetora de ferro em roda de estilo antigo)
+8. 電力功率單位的簡稱，為紀念英國發明家瓦特而命名。 (abreviação da unidade de potência elétrica, nomeada em homenagem ao inventor britânico Watt)
+9. 古「八音」中「土」的別稱。指「塤」。 (antigo outro nome de 「土」 entre os 「八音」; refere-se ao xun)
+10. 古代術數家視為忌諱的月數或凶險的卦數。 (número de mês ou número de hexagrama tido por tabu ou perigoso pelos especialistas antigos em artes mânticas)
 11. 古地名。 (antigo topônimo)
 12. 姓。 (sobrenome)
 13. 蓋瓦。 (cobrir com telhas)
-14. 「耳」之異體。 (variante gráfica de 耳)
+14. 「耳」之異體。 (forma variante de 「耳」)
 
 #### Decomposição e formas antigas (hanziyuan)
 
-Componentes: pictograma simples (componente 瓦, "telha de construção"), não decomponível (nota do hanziyuan: "a roof tile").
-Significado original: 本义 — telha (tile).
+Componentes: 瓦.
+Significado original: Meaning tile.
 Acepções inglesas: tile; earthenware pottery; girl.
-Outras pronúncias registradas: wǎ, wà.
 Frequência de uso: 1369.
-Formas atestadas: o hanziyuan lista Oracle 0, Bronze 0, Selo (Shuowen) 1 (S09482) e Liushutong 6 — não retornou atestações de oráculo ou bronze; as atestações epigráficas constam da tabela do 小學堂 abaixo.
+Formas atestadas: o hanziyuan registra 0 formas de oráculo, 0 formas de bronze e 1 forma de selo; as atestações epigráficas constam da tabela do 小學堂 abaixo.
 
 #### Shuowen Jiezi completo
 
-(Texto verbatim obtido via CUHK; convergente com hanziyuan e 小學堂, com variações mínimas de pontuação.)
+(shuowen.org retornou apenas a listagem das primeiras entradas do dicionário; texto verbatim obtido via 小學堂 e CUHK, com diferença na cauda e no fanqie.)
 
 **說文**: 瓦，土器，已燒之總名。象形。凡瓦之屬皆从瓦。〔五寡切〕
-(瓦 é o nome geral do vaso de barro [土器] já cozido [已燒]. É pictograma. Todo caractere da classe de 瓦 segue 瓦. [fanqie: 五寡])
+(Va: "utensílio de barro, nome geral dos já queimados". É pictográfico. Todo caractere da classe de 瓦 segue 瓦. [fanqie: 五寡切])
 
-**段注 Duan Yucai** (via CUHK): 凡土器未燒之素皆謂之坏（坯），已燒皆謂之瓦。
-(Todo objeto de barro ainda cru, não cozido, chama-se 坏 [坯]; uma vez cozido, chama-se 瓦.)
+**段注 Duan Yucai**: (não obtido — shuowen.org retornou listagem; zdic.net retornou HTTP 404)
 
 #### Evolução de formas (xiaoxue yanbian)
 
 | Período | Script | Fonte / Artefato |
 |---|---|---|
-| Reinos Combatentes — Qin | Cerâmica (陶文) | 陶彙5.384 |
+| Reinos Combatentes — Qin | Selo (篆) | 陶彙5.384 |
 | Han | Selo pequeno (小篆) | 說文‧瓦部 (Shuowen, seção 瓦) |
-| Qin | Clerical (隸書) | 睡虎地簡18.149 (Shuihudi) |
-| Han Ocidental | Clerical (隸書) | 一號墓竹簡141 (Tumba nº 1, ripas de bambu); 武威簡‧少牢27 (Wuwei); 江陵十號漢墓木牘 (tábua de madeira, Tumba Han nº 10 de Jiangling) |
-| Han Oriental | Clerical (隸書) | 開通褒斜道刻石 (inscrição em pedra Kāitōng Bāoxié dào); 張景碑 Zhāng Jǐng bēi (estela) |
+| Qin | Clerical (隸書) | 睡虎地簡18.149(隸) |
+| Han Ocidental | Clerical (隸書) | 一號墓竹簡141(隸); 武威簡.少牢27(隸); 江陵十號漢墓木牘(隸) |
+| Han Oriental | Clerical (隸書) | 開通褒斜道刻石(隸); 張景碑(隸) |
 
-**Shuowen (xiaoxue)**: 《說文》：“瓦，土器已燒之總名。象形。”
+**Shuowen (xiaoxue)**: 瓦，土器已燒之總名。象形。
 
 **Comentários de estudiosos**:
-- CUHK (略說): 一曰象已燒製土器之形，本義為用土燒製的器物；一曰象鱗次之形，本義為屋瓦。 (Uma leitura: representa a forma do vaso de barro já cozido, sendo o sentido original o objeto feito de barro cozido; outra leitura: representa a forma de [telhas] sobrepostas como escamas, sendo o sentido original a telha do teto.)
+- CUHK (略說): 一曰象已燒製土器之形，本義為用土燒製的器物；一曰象鱗次之形，本義為屋瓦。 (Uma explicação diz que representa a forma de um utensílio de barro já queimado; o sentido original é objeto feito de barro cozido. Outra diz que representa a disposição em escamas; o sentido original é telha.)
+- CUHK (詳解): 一曰象已燒土器之形，本義為用土燒製的器物；一曰象鱗次之形，本義為屋瓦。《說文》：「土器，已燒之總名。象形。凡瓦之屬皆从瓦。」段玉裁注：「凡土器未燒之素皆謂之坏（坯），已燒皆謂之瓦。」 (Uma explicação diz que representa a forma de um utensílio de barro já queimado; o sentido original é objeto feito de barro cozido. Outra diz que representa a disposição em escamas; o sentido original é telha. O Shuowen diz: 「土器，已燒之總名。象形。凡瓦之屬皆从瓦。」 A nota de Duan Yucai diz: 「凡土器未燒之素皆謂之坏（坯），已燒皆謂之瓦。」)
 
 #### Fonologia (xiaoxue shangguyin)
 
 **中古音 Middle Chinese (Guangyun)**:
 - 攝 Division: 假 (Jia) · 韻 Rhyme: 馬 (Ma) · 聲 Tone: 上 (rising) · 母 Initial: 疑 (ng-)
 - 反切 Fanqie: 五寡 · 等 Grade: 二 (II) · 開合 Open/Closed: 合 (closed) · 清濁: 次濁 (sonorante)
-- Segunda leitura (又切): 攝 假 (Jia) · 韻 禡 (Ma, departing) · 聲 去 (departing) · 母 疑 (ng-) · 反切 五化 · 等 二 (II) · 開合 合 (closed) · 清濁 次濁 (sonorante)
 
 **上古音 Old Chinese** (grupo de rima 歌 Ge):
-- 高本漢 Karlgren: ŋwa (韻部 não especificado na tabela)
-- 王力 Wang Li: ŋoai
-- 董同龢 Dong Tonghe: ŋua
-- 周法高 Zhou Fagao: ŋrwa
-- 李方桂 Li Fanggui: ngwrarx
+- 高本漢 Karlgren: ŋ wa
+- 王力 Wang Li: ŋ oai
+- 董同龢 Dong Tonghe: ŋ ua
+- 周法高 Zhou Fagao: ŋ rwa
+- 李方桂 Li Fanggui: ngw rarx
 - 鄭張尚芳 Zhengzhang Shangfang: (não retornou dados — ausente da tabela do 小學堂)
 
 **國語 Mandarin IPA**: ua
 
 #### Divergências entre fontes
 
-**Leitura do grafismo.** O *Shuowen* dá uma leitura única: 土器已燒之總名 ("nome geral do vaso de barro já cozido"), classificando 瓦 como pictograma. A CUHK (形義通解) registra duas leituras concorrentes do mesmo pictograma: ou representa a forma do vaso de barro cozido (sentido original: objeto de cerâmica), ou representa telhas dispostas como escamas sobrepostas (sentido original: telha do teto). O hanziyuan fixa o "original meaning" em "tile" (telha). As fontes, portanto, não convergem sobre qual dos dois sentidos — vasilha ou telha — é o primário.
+**Sentido original / leitura do grafismo.** O hanziyuan registra “Original meaning 本义: Meaning tile”. A CUHK, em 略說 e 詳解, registra duas análises: uma lê o grafismo como forma de utensílio de barro já queimado, com sentido original “用土燒製的器物”; outra o lê como disposição em escamas, com sentido original “屋瓦”.
 
-**Shuowen e 段注.** O texto do *Shuowen* foi confirmado por três fontes (CUHK, hanziyuan e 小學堂), com variações apenas de pontuação. Diferentemente do padrão, o comentário de 段玉裁 foi obtido nesta entrada — via CUHK — glosando a distinção entre o barro cru (坏/坯) e o barro cozido (瓦).
+**Shuowen.** O texto do *Shuowen* não é idêntico entre as fontes citadas: o 小學堂 traz “瓦，土器已燒之總名。象形。”; a CUHK traz “瓦，土器，已燒之總名。象形。凡瓦之屬皆从瓦。〔五寡切〕”. A diferença atestada está na pontuação/segmentação, na presença da cauda “凡瓦之屬皆从瓦” e do fanqie “〔五寡切〕” na CUHK.
 
-**Contagem de traços.** Há divergência: o chardb registra 總筆畫 4, enquanto a CUHK (e a contagem Kangxi do radical nº 98) registra 5.
+**Leitura cantonesa.** CantoDict e a CUHK registram ngaa5. A CUHK também registra ngaa6 como 異讀字 de “瓦ngaa5”.
 
-**Leitura cantonesa.** O MDBG não exibiu jyutping; CantoDict e CUHK convergem em ngaa5, com leitura variante (異讀) ngaa6 registrada pela CUHK. É consistente com o 中古音 (inicial 疑 ng-, tom 上 ascendente).
+**Leituras do MDBG e do chardb.** O MDBG registra apenas “roof tile / abbr. for 瓦特”. O chardb registra 14 acepções, incluindo utensílio de barro cozido, telha, unidade de potência elétrica abreviada, topônimo antigo, sobrenome, uso verbal “蓋瓦” e a variante gráfica de 「耳」.
 
-**Duas leituras no Guangyun.** O 廣韻 registra duas entradas para 瓦: 五寡 (tom 上, ascendente) e 五化 (tom 去, departing), ambas na inicial 疑 e no 攝 假.
-
-**Reconstruções do 上古音.** Cinco sistemas (Karlgren, Wang Li, Dong Tonghe, Zhou Fagao, Li Fanggui), todos no grupo de rima 歌 (Ge); a coluna de 鄭張尚芳 (Zhengzhang Shangfang) não retornou na tabela do 小學堂.
+**Reconstruções do 上古音.** O 小學堂 registra cinco sistemas (Karlgren, Wang Li, Dong Tonghe, Zhou Fagao, Li Fanggui) no grupo de rima 歌 (Ge), e a coluna de 鄭張尚芳 (Zhengzhang Shangfang) não retornou na tabela do 小學堂.
