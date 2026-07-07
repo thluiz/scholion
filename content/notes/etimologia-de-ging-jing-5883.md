@@ -80,7 +80,7 @@ Tradução: "**樂曲盡爲竟** [a peça musical que termina completamente é �
 
 | Período | Script | Fonte/Artefato |
 |---------|--------|----------------|
-| Han | Seal 篆書 | 說文‧土部 (Shuōwén, secção 土) |
+| Han | Seal 篆書 | 說文‧土部 (Shuōwén, seção 土) |
 
 **Apenas uma forma listada** — atestação extremamente magra. xiaoxue confirma que 境 só aparece no Shuowen Han (forma de selo do *Shuowen Xinfu*).
 
