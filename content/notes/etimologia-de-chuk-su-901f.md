@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 速 (Chuk — Sù / cuk1)"
 date: '2026-04-24T13:05:36+01:00'
-summary: "Análise etimológica de 速 (Sù / cuk1), 'rápido, veloz, acelerar'. Shuowen: 疾也 ('rápido'). Composto fonossemântico: 辵 (caminhar) + 束 (fonético, shù — feixe/amarrar). Duas formas antigas registadas pelo Shuowen: 遬 (籒文 zhòuwén, com 欶) e 𧫣 (古文 gǔwén, com 欶 + 言). Wang Yun refina: a forma com 言 aplica-se à 'rapidez do falar'; a forma com 辵 à 'rapidez do caminhar'. 段注 nota empréstimo para 肅 (sù, 'solene'). No Hai Tong, aparece em gap chuk 急速 (rapidez). Sete fontes consultadas."
+summary: "Análise etimológica de 速 (Sù / cuk1), 'rápido, veloz, acelerar'. Shuowen: 疾也 ('rápido'). Composto fonossemântico: 辵 (caminhar) + 束 (fonético, shù — feixe/amarrar). Duas formas antigas registradas pelo Shuowen: 遬 (籒文 zhòuwén, com 欶) e 𧫣 (古文 gǔwén, com 欶 + 言). Wang Yun refina: a forma com 言 aplica-se à 'rapidez do falar'; a forma com 辵 à 'rapidez do caminhar'. 段注 nota empréstimo para 肅 (sù, 'solene'). No Hai Tong, aparece em gap chuk 急速 (rapidez). Sete fontes consultadas."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 category: etymology
@@ -72,7 +72,7 @@ Formas atestadas: Oracle presentes · Bronze presentes · Seal 1 · variantes Wa
 (𧫷)古文。从欶。从言。籒古皆欶聲。
 
 Tradução: 
-"(速) é 'rápido' [疾]. Vê-se no *Shìgǔ* [secção do Ěryǎ]. De 辵, com 束 como fonético. Fanqie: 桑谷切. Grupo rímico 3."
+"(速) é 'rápido' [疾]. Vê-se no *Shìgǔ* [seção do Ěryǎ]. De 辵, com 束 como fonético. Fanqie: 桑谷切. Grupo rímico 3."
 
 "(遬) é a forma zhouwen com 欶. As duas tradições [textuais] escrevem 速. O *Gōngyáng* [Zhuàn] escreve 遬. Como em '衞侯遫' e '仲孫遫'. O comentário ao *Lǚlǎn Biànzhì* diz: '遬 é rápido.' O *Yùzǎo* [do Liji]: '見所尊者齊遬 — ao ver o venerado, [anda-se] rápido e uniforme.' Aqui 遬 é empréstimo para 肅 [solene/reverente]."
 
@@ -96,7 +96,7 @@ A nota 假遬爲肅 ("遬 é empréstimo para 肅") é observação semântica i
 | Warring States, Qin 戰國·秦 | Pottery 陶文 | 秦陶397 (Qín táo 397) |
 | — | Ancient script 古文 | 說文古文 — forma 𧫷 |
 | — | Zhouwen 籒文 | 說文籀文 — forma 遬 |
-| Han | Seal 篆書 | 說文·辵部 (Shuōwén, secção 辵) |
+| Han | Seal 篆書 | 說文·辵部 (Shuōwén, seção 辵) |
 | Qin 秦 | Clerical 隸書 | 睡虎地簡4.3 (Shuìhǔdì jiǎn 4.3) |
 | Western Han 西漢 | Clerical 隸書 | 孫臏289 (Sūn Bìn 289) |
 | Western Han 西漢 | Clerical 隸書 | 縱橫家書88 (Zònghéngjiā shū 88) |
@@ -107,7 +107,7 @@ A nota 假遬爲肅 ("遬 é empréstimo para 肅") é observação semântica i
 **Relação / comentário (xiaoxue)**:
 - 王筠《釋例》：「速之古文𧫣，《玉篇》在《言部》，譌從攵作𧫣，云：『言疾，古文速。』先云『言疾』者，以言之疾速為𧫣之正義也。行步之速，似未可用𧫣。印林曰：此正重文之廣其義者。從辵則行之速，從言則言之速。」
 
-Tradução: "Wang Yun no *Shìlì*: 'A forma guwen de 速 é 𧫣. O *Yùpiān* coloca-a na secção 言 e deturpa-a com 攵 para formar 𧫣, dizendo: "fala rápida — forma antiga de 速." Dizer primeiro "fala rápida" [言疾] é indicar que a rapidez do falar é o sentido correto de 𧫣. Para a rapidez do caminhar, não parece adequado usar 𧫣.' Yìn Lín diz: 'Este é um caso em que a forma redundante amplia o sentido — com 辵, é rapidez do caminhar; com 言, rapidez do falar.'"
+Tradução: "Wang Yun no *Shìlì*: 'A forma guwen de 速 é 𧫣. O *Yùpiān* coloca-a na seção 言 e deturpa-a com 攵 para formar 𧫣, dizendo: "fala rápida — forma antiga de 速." Dizer primeiro "fala rápida" [言疾] é indicar que a rapidez do falar é o sentido correto de 𧫣. Para a rapidez do caminhar, não parece adequado usar 𧫣.' Yìn Lín diz: 'Este é um caso em que a forma redundante amplia o sentido — com 辵, é rapidez do caminhar; com 言, rapidez do falar.'"
 
 Esta análise de Wang Yun é interessante: as duas variantes do Shuowen especializam-se por domínio — 速 (com 辵) para movimento corporal rápido; 𧫣 (com 言) para fala rápida. A diferenciação por componente semântico é mais fina do que a homogeneização moderna sugere.
 
@@ -131,9 +131,9 @@ Esta análise de Wang Yun é interessante: as duas variantes do Shuowen especial
 
 #### Divergências entre fontes
 
-**Três formas documentadas no Shuowen — 速, 遬, 𧫣**: O Shuowen regista a forma 速 (com 辵) como primária, e adicionalmente 遬 (籒文, com 欶) e 𧫣 (古文, com 欶+言). Esta multiplicidade gráfica para um único lexema é característica da tradição Shuowen, que preserva formas zhouwen/guwen para rastrear etimologia anterior à padronização seal Qin-Han. Wang Yun argumenta que as três formas especializam-se semanticamente: 速 para caminhar, 𧫣 para falar, 遬 para formas ritualizadas.
+**Três formas documentadas no Shuowen — 速, 遬, 𧫣**: O Shuowen registra a forma 速 (com 辵) como primária, e adicionalmente 遬 (籒文, com 欶) e 𧫣 (古文, com 欶+言). Esta multiplicidade gráfica para um único lexema é característica da tradição Shuowen, que preserva formas zhouwen/guwen para rastrear etimologia anterior à padronização seal Qin-Han. Wang Yun argumenta que as três formas especializam-se semanticamente: 速 para caminhar, 𧫣 para falar, 遬 para formas ritualizadas.
 
-**Empréstimo 速/遬 → 肅**: O 段注 regista o uso de 速 (ou 遬) como empréstimo para 肅 (sù, "solene/reverente"). No Liji *Yùzǎo*, diante do venerado (所尊者), caminha-se 遬 — que o comentário explica como 肅. Esta conexão é importante culturalmente: a rapidez ritualística do súdito diante do superior não é pressa, mas solenidade. A homofonia sù/sù permite o duplo sentido.
+**Empréstimo 速/遬 → 肅**: O 段注 registra o uso de 速 (ou 遬) como empréstimo para 肅 (sù, "solene/reverente"). No Liji *Yùzǎo*, diante do venerado (所尊者), caminha-se 遬 — que o comentário explica como 肅. Esta conexão é importante culturalmente: a rapidez ritualística do súdito diante do superior não é pressa, mas solenidade. A homofonia sù/sù permite o duplo sentido.
 
 **Atestação desde Shang**: hanziyuan e xiaoxue convergem: há oracle bones (坊間3.45, 後2.29.18). 速 é vocábulo do léxico central desde Shang, estável até ao mandarim moderno.
 
