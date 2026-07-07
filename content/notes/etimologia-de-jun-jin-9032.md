@@ -95,7 +95,7 @@ O 段注 é breve para este caractere — 段玉裁 aceita a análise Shuowen se
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 郭·老甲.4 / 郭·五.46,47 (Guōdiàn — Lǎozǐ A 4, Wǔ 46-47) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 曾206 (Zēng 206 — Marquês de Zeng) |
 | Warring States, Qin 戰國·秦 | Bamboo slip 秦簡 | 珍秦91 (Zhēn Qín 91) |
-| Han | Seal 篆書 | 說文·辵部 (Shuōwén, secção 辵) |
+| Han | Seal 篆書 | 說文·辵部 (Shuōwén, seção 辵) |
 | Western Han 西漢 | Clerical 隸書 | 老子甲52 (Lǎozǐ jiǎ 52) |
 | Western Han 西漢 | Clerical 隸書 | 縱橫家書53 (Zònghéngjiā shū 53) |
 | Western Han 西漢 | Clerical 隸書 | 流沙簡·簡牘1.9 (Liúshā jiǎn — Jiǎndú 1.9) |
