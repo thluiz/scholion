@@ -79,8 +79,8 @@ A escolha do fonético 師 para o leão pode ter sido culturalmente carregada �
 
 #### Divergências entre fontes
 
-- **Caractere tardio — leão como importação cultural**: o leão (獅) é animal não-nativo da China. Introduzido como animal de tributo na Han, vindo do Império Parta e da Ásia Central. A palavra chinesa *shī* é provavelmente empréstimo de uma língua iraniana antiga (relacionada ao tocariano *śiśäk* ou ao persa antigo *šēr*). A grafia 獅 (com 犬 + 師) é criação grafica chinesa posterior, fixada Tang.
-- **Reconstruções OC limitadas**: apenas 王力 retornou reconstrução. Os outros sistemas não cobriram o caractere — consistente com sua tardividade na fixação grafica.
+- **Caractere tardio — leão como importação cultural**: o leão (獅) é animal não-nativo da China. Introduzido como animal de tributo na Han, vindo do Império Parta e da Ásia Central. A palavra chinesa *shī* é provavelmente empréstimo de uma língua iraniana antiga (relacionada ao tocariano *śiśäk* ou ao persa antigo *šēr*). A grafia 獅 (com 犬 + 師) é criação gráfica chinesa posterior, fixada Tang.
+- **Reconstruções OC limitadas**: apenas 王力 retornou reconstrução. Os outros sistemas não cobriram o caractere — consistente com sua tardividade na fixação gráfica.
 - **Cantonês**: si1 (tom 1 alto nivelado) preserva o 平聲 全清 do Guangyun. Forma estável.
 - **Aplicação ao contexto — mo si 舞獅 (Dança do Leão)**: a Dança do Leão (mo si) é prática ritual-marcial central na cultura cantonesa. Etimologicamente, *mo* (舞, dançar) + *si* (獅, leão). Há duas grandes tradições estilísticas:
   - **Leão do Norte (北獅)**: imitação naturalista do leão, foco em acrobacia, com cabeça menor e corpo peludo.
