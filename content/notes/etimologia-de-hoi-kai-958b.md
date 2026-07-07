@@ -81,7 +81,7 @@ A analogia arco-porta é etimologicamente vívida: 開 não é simplesmente "abr
 |---------|--------|----------------|
 | Warring States, Qin 戰國·秦 | Bamboo slip 秦簡 | 鐵續 (Tiě xù) |
 | — | Ancient script 古文 | 說文古文 — forma 𨵑 |
-| Han | Seal 篆書 | 說文·門部 (Shuōwén, secção 門) |
+| Han | Seal 篆書 | 說文·門部 (Shuōwén, seção 門) |
 | Qin 秦 | Seal 篆 | 繹山碑 (Yìshān bēi — Estela do Monte Yi) |
 
 **Shuowen (xiaoxue)**: (inferido) 《說文》：「開，張也。从門从幵。𨵑，古文。」
@@ -109,7 +109,7 @@ Atestação tardia: apenas Warring States Qin em diante. 開 parece ser caracter
 
 #### Divergências entre fontes
 
-**Análise estrutural — 從門從幵 (Dà Xú, composto duplo) vs 門+幵聲 (段注, fonossemântico)**: Xú Xuàn lê 開 como composto semântico de 門 e 幵. 段玉裁 rejeita, preferindo tratar 幵 como fonético. A polémica reflete a dificuldade de classificar caracteres em que o elemento "fonético" migra entre grupos rímicos ao longo do tempo.
+**Análise estrutural — 從門從幵 (Dà Xú, composto duplo) vs 門+幵聲 (段注, fonossemântico)**: Xú Xuàn lê 開 como composto semântico de 門 e 幵. 段玉裁 rejeita, preferindo tratar 幵 como fonético. A polêmica reflete a dificuldade de classificar caracteres em que o elemento "fonético" migra entre grupos rímicos ao longo do tempo.
 
 **Analogia arco-porta — valor semântico extraordinário**: A glosa 段注 (門之開如弓之張 — "abrir a porta é como tensionar o arco") é observação comparativa rica. 張 (estender, tensionar) é o verbo nuclear do arco; aplicar a mesma palavra à porta revela a conceção do "abrir" como ato tensional, não mecânico. 
 
