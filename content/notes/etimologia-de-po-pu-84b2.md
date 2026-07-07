@@ -86,7 +86,7 @@ Apenas 7 atestações registradas pelo xiaoxue. Caractere tardio na grafia (Esta
 #### Divergências entre fontes
 
 - **Análise gráfica Shuowen vs. Duan Yucai**: Shuowen analisa 蒲 como 艸+浦(fonético inteiro). Duan corrige: deve ser 艸+水+甫(fonético), com 水 também semântico (habitat). A correção é importante para a tipologia paleográfica chinesa — distingue compostos com um radical semântico de compostos com radical semântico duplo.
-- **Atestação tardia**: xiaoxue registra apenas 7 atestações, todas Qin–Han. Caractere de fixação grafica relativamente tardia, embora a planta seja antiga e presente na cultura material chinesa (esteiras de junco 蒲席, almofadas de meditação 蒲團 *pútuán*).
+- **Atestação tardia**: xiaoxue registra apenas 7 atestações, todas Qin–Han. Caractere de fixação gráfica relativamente tardia, embora a planta seja antiga e presente na cultura material chinesa (esteiras de junco 蒲席, almofadas de meditação 蒲團 *pútuán*).
 - **Identidade botânica plural**: 蒲 cobre várias plantas aquáticas — *Typha* (taboa, bulrush — junco para esteiras), *Acorus calamus* (cálamo aromático). A polissemia botânica é típica em nomenclatura tradicional.
 - **Reconstruções OC**: convergência total. Inicial *b-/bʰ- (oclusiva labial sonora) em todos os 5 sistemas; rhyme 魚 *yú* unânime.
 - **Cantonês**: pou4 (tom 4 baixo nivelado) preserva o 平聲 全濁 do Guangyun. Forma estável.
