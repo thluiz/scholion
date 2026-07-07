@@ -24,6 +24,20 @@ const LEXICON = [
   [/\bfacto\b/g, 'fato'], [/\bfactos\b/g, 'fatos'],
   [/\bactuais\b/g, 'atuais'], [/\bactual\b/g, 'atual'],
   [/cantonês(a|as)\b/g, 'cantones$1'],
+  // minerados do style-audit de 2026-07-07 (pares objetivos aprovados pelo autor)
+  [/\bgrafica(s?)\b/g, 'gráfica$1'], [/\bunanime(s?)\b/g, 'unânime$1'],
+  [/\bcerimónia(s?)\b/g, 'cerimônia$1'], [/\binsecto(s?)\b/g, 'inseto$1'],
+  [/\bfénix\b/g, 'fênix'], [/\bcarácter\b/g, 'caractere'],
+  [/\bcaracter\b/g, 'caractere'], [/\bCarater\b/g, 'Caractere'],
+  [/\babstract(a|o)(s?)\b/g, 'abstrat$1$2'], [/afectad/g, 'afetad'],
+  [/\bconceção\b/g, 'concepção'], [/\baspeto(s?)\b/g, 'aspecto$1'],
+  [/primogénit/g, 'primogênit'], [/económic/g, 'econômic'],
+  [/\bpolitica(s?)\b/g, 'política$1'], [/\bextender\b/g, 'estender'],
+  [/\bpeninsula(s?)\b/g, 'península$1'], [/\breconstroi\b/g, 'reconstrói'],
+  [/\btaoista(s?)\b/g, 'taoísta$1'], [/\babolieria\b/g, 'aboliria'],
+  [/\btraditionais\b/g, 'tradicionais'], [/\bgracial\b/g, 'gradual'],
+  [/\bgérico\b/g, 'genérico'], [/\btardiça\b/g, 'tardia'],
+  [/\bcontinuo(s?)\b/g, 'contínuo$1'],
 ];
 // reporta, não corrige
 const REPORT_ONLY = [
