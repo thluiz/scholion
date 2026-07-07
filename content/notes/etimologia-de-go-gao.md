@@ -41,7 +41,7 @@ Variante: 髙 (forma popular, mesma leitura e sentido).
 
 **MDBG**: alto, elevado; acima da média; sonoro, forte; seu (honorífico). Como sobrenome: Gao. HSK nível 1.
 
-**CantoDict**: gou1. Significados (adjetivo): alto (posição), estatura, acima da média, sonoro, seu (honorífico). Como sobrenome: Gao. Compostos: 高層 (alto escalão), 高手 (mestre, expert), 高興 (feliz), 高中 (ensino médio), 高速公路 (auto-estrada). Dicionário regista 500+ compostos.
+**CantoDict**: gou1. Significados (adjetivo): alto (posição), estatura, acima da média, sonoro, seu (honorífico). Como sobrenome: Gao. Compostos: 高層 (alto escalão), 高手 (mestre, expert), 高興 (feliz), 高中 (ensino médio), 高速公路 (auto-estrada). Dicionário registra 500+ compostos.
 
 **chardb Academia Sinica**:
 1. 由下至上距離大；離地面遠 (grande distância vertical; longe do chão)
@@ -63,7 +63,7 @@ Variante: 髙 (forma popular, mesma leitura e sentido).
 17. 稱文辭風格高雅 (estilo literário elegante, refinado)
 18. 姓 (sobrenome)
 
-Leituras: gāo (principal), gào (secundária — registada no chardb).
+Leituras: gāo (principal), gào (secundária — registrada no chardb).
 
 ### Decomposição e formas antigas (hanziyuan)
 
@@ -130,6 +130,6 @@ Total: 19 formas. Atestado continuamente desde o Shang até o Han Oriental, em t
 - **Leitura composicional**: o caractere tem o próprio radical (高 é radical independente, 高部 no Shuowen). A leitura 冂 + 口 é analítica, não representa decomposição etimológica verdadeira — é pictograma inteiro de uma torre.
 - **Polissemia rica**: 18 acepções no chardb cobrem eixos físico (altura, altura absoluta, lugar alto, montanha), social (posição elevada, idade avançada, senioridade clânica), moral (nobreza, reclusão virtuosa), acústico (som agudo, sonoro), estético (estilo elegante). Arcos semânticos bem atestados em clássicos.
 - **Atestação robusta**: 19 formas no xiaoxue (1 oracle Shang, 1 bronze Zhou, 4 selos Warring States, 3 bronze/bambu Warring States, 1 selo Qin, vários clericais Han). Caractere estável na forma desde o Shang.
-- **Leitura gào (secundária)**: chardb regista leitura alternativa gào, ausente de MDBG/CantoDict/hanziyuan modernos. Pode refletir leitura arcaica ou uso dialetal.
+- **Leitura gào (secundária)**: chardb registra leitura alternativa gào, ausente de MDBG/CantoDict/hanziyuan modernos. Pode refletir leitura arcaica ou uso dialetal.
 - **Consenso fonológico OC**: todos os cinco sistemas reconstroem *k- + -oɡ/-au/-aw/-agw, grupo 宵 (xiāo). Inicial velar voiceless, rima com glide -u/-w. Fanqie 古勞切 estável.
 - **Arquitetura simbólica**: a metáfora 高 = torre inscreve-se na tradição chinesa do 臺 (terraço cerimonial) e 樓閣 (pavilhões de múltiplos andares) como sítios de observação, culto e elevação social. A palavra sintetiza o elevar-se vertical do edifício e o elevar-se moral do homem.
