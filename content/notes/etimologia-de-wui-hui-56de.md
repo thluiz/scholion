@@ -121,7 +121,7 @@ Quatro atestações Shang + bronze Zhou + bambu Warring States confirmam antigui
 
 **Leitura cosmológica do pictograma — 段注 vs leitura neutra**: O Shuowen diz apenas "interior representa forma do girar". 段玉裁 adiciona interpretação astronómica específica: dois círculos em direções opostas representam céu e astros girando em sentidos contrários. Esta é leitura especulativa enraizada na cosmologia Han, não necessariamente presente na forma oracular. A leitura mais neutra trata 回 simplesmente como espiral/circunferência.
 
-**Correção textual — 中 → 口**: 段玉裁 aponta: 中當作口 ("中 deveria ser 口"). O Shuowen recebido escreve 中 象回轉形 ("o interior representa a forma do girar"); Duan corrige para 口, indicando que o componente interno é o pictograma de 口 (pequena boca/recinto), não o carácter abstrato 中 (centro). Correção filológica menor mas precisa.
+**Correção textual — 中 → 口**: 段玉裁 aponta: 中當作口 ("中 deveria ser 口"). O Shuowen recebido escreve 中 象回轉形 ("o interior representa a forma do girar"); Duan corrige para 口, indicando que o componente interno é o pictograma de 口 (pequena boca/recinto), não o caractere abstrato 中 (centro). Correção filológica menor mas precisa.
 
 **Empréstimos fonéticos documentados**: 段注 registra que 回 funcionava em textos antigos como empréstimo para 𠆎 (oblíquo/iníquo) e para 違 (contrariar). As acepções 4, 5, 6 do chardb (violar, confundir, iníquo) vêm deste uso homofónico, não do sentido literal "girar". Polissemia por paronomásia.
 
