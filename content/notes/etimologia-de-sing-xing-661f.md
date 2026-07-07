@@ -87,7 +87,7 @@ A cosmologia chinesa antiga reflete-se nesta etimologia: as estrelas são a *ess
 
 #### Divergências entre fontes
 
-- **曐 vs. 星 — abreviação grafica**: forma original com 晶 (3 estrelas) foi abreviada para 日 (1 sol). A abreviação não é semanticamente conservadora — perde a imagem das múltiplas estrelas, ganha imagem do sol como "estrela única que se divide". A análise do *Chunqiu Shuotici* (星 = 日+生, sol-gera) racionaliza retrospectivamente a forma abreviada.
+- **曐 vs. 星 — abreviação gráfica**: forma original com 晶 (3 estrelas) foi abreviada para 日 (1 sol). A abreviação não é semanticamente conservadora — perde a imagem das múltiplas estrelas, ganha imagem do sol como "estrela única que se divide". A análise do *Chunqiu Shuotici* (星 = 日+生, sol-gera) racionaliza retrospectivamente a forma abreviada.
 - **Cosmologia da essência (精)**: as estrelas como "essência das dez mil coisas" — o mesmo *jīng* (精) que aparece em 精神 (jīngshén, espírito-essência). Há continuidade ontológica entre estrelas no céu, grãos na terra, e essência no peito humano. Cada coisa tem sua *contraparte estelar*.
 - **Polissemia moderna**: a partir do significado nuclear "estrela", 星 expandiu-se para:
   - **Pequena quantidade**: 星星 (xīngxing, "estrela-estrela" = pequenos pontos, fragmentos).
