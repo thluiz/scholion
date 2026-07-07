@@ -74,7 +74,7 @@ Formas atestadas: Oracle 0 · Bronze 10 · Seal 1 · Liushutong diversos
 
 (守)守官也。左傳曰。守道不如守官。孟子曰。有官守者。不得其職則去。从宀。从寸。从宀、寺府之事也。寸部曰。寺、廷也。广部曰。府、文書藏也。从寸、法度也。守从二者會意。書九切。三部。
 
-Tradução: "(守) é ofício de guarda. O Zuozhuan diz: '守道不如守官 — guardar o caminho não se compara a guardar o cargo.' Mencius diz: 'Quem tem um cargo de guarda [有官守者], se não cumpre o seu dever [職], retira-se.' De 宀, de 寸. De 宀 — é o assunto do templo [寺] e da repartição [府]. A secção 寸 diz: 寺 é o tribunal/salão oficial [廷]. A secção 广 diz: 府 é o arquivo onde se guardam os documentos. De 寸 — é norma/regra de medida [法度]. 守 é composto semântico [會意] destes dois componentes. Fanqie: 書九切. Grupo rímico 3."
+Tradução: "(守) é ofício de guarda. O Zuozhuan diz: '守道不如守官 — guardar o caminho não se compara a guardar o cargo.' Mencius diz: 'Quem tem um cargo de guarda [有官守者], se não cumpre o seu dever [職], retira-se.' De 宀, de 寸. De 宀 — é o assunto do templo [寺] e da repartição [府]. A seção 寸 diz: 寺 é o tribunal/salão oficial [廷]. A seção 广 diz: 府 é o arquivo onde se guardam os documentos. De 寸 — é norma/regra de medida [法度]. 守 é composto semântico [會意] destes dois componentes. Fanqie: 書九切. Grupo rímico 3."
 
 #### Evolução de formas ([xiaoxue yanbian](https://xiaoxue.iis.sinica.edu.tw/yanbian?char=守))
 
@@ -89,7 +89,7 @@ Tradução: "(守) é ofício de guarda. O Zuozhuan diz: '守道不如守官 —
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 郭·老甲.13 (Guōdiàn Lǎozǐ A 13) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 郭·唐.12 (Guōdiàn Táng 12) |
 | Warring States, Chu 戰國·楚 | Bamboo slip 楚簡 | 上(1)·䊷.19 (Shànghǎi 1 — X 19) |
-| Han | Seal 篆書 | 說文·宀部 (Shuōwén, secção 宀) |
+| Han | Seal 篆書 | 說文·宀部 (Shuōwén, seção 宀) |
 | Qin 秦 | Clerical 隸書 | 睡虎地簡20.196 (Shuìhǔdì jiǎn 20.196) |
 | Western Han 西漢 | Clerical 隸書 | 縱橫家書141 (Zònghéngjiā shū 141) |
 | Western Han 西漢 | Clerical 隸書 | 壽成室鼎 (Shòuchéng shì dǐng — trípode do palácio Shoucheng) |
@@ -121,10 +121,10 @@ Tradução: "(守) é ofício de guarda. O Zuozhuan diz: '守道不如守官 —
 
 #### Divergências entre fontes
 
-**Composição semântica 宀+寸 — duas leituras**: O Shuowen (e hanziyuan) lê 守 como "assuntos da casa/templo" (宀) executados segundo "norma/medida" (寸). O xiaoxue regista que formas arcaicas usavam 又 (mão) em vez de 寸, com o mesmo sentido — sugerindo que 寸 aqui é essencialmente 又 (mão) com marca de medida. Ambas as leituras convergem semanticamente, mas a precedência histórica da forma com 又 indica que o sentido original pode ser simplesmente "mão que guarda/exerce no lar/templo", com a dimensão normativa (法度) sendo elaboração Han tardia de Xu Shen.
+**Composição semântica 宀+寸 — duas leituras**: O Shuowen (e hanziyuan) lê 守 como "assuntos da casa/templo" (宀) executados segundo "norma/medida" (寸). O xiaoxue registra que formas arcaicas usavam 又 (mão) em vez de 寸, com o mesmo sentido — sugerindo que 寸 aqui é essencialmente 又 (mão) com marca de medida. Ambas as leituras convergem semanticamente, mas a precedência histórica da forma com 又 indica que o sentido original pode ser simplesmente "mão que guarda/exerce no lar/templo", com a dimensão normativa (法度) sendo elaboração Han tardia de Xu Shen.
 
 **Glosa primária 守官也 — "ofício de guarda"**: Tanto Shuowen quanto 段注 enfatizam o sentido oficial/burocrático ("官" = cargo, posto). Mas MDBG, chardb e hanziyuan listam "guardar/proteger/defender" como sentido primário moderno. A distinção é histórica: o Shuowen cristaliza o sentido institucional (o 守 como título — prefeito de comandaria); o sentido verbal genérico é anterior ao institucional e foi o que sobreviveu ao colapso daquelas estruturas administrativas. O citado "秦代郡的長官名，漢代更名太守" (def. 17 chardb) documenta exatamente a trajetória institucional.
 
-**Leituras shǒu/shòu**: chardb lista ambas (shou3 e shou4); hanziyuan aceita shòu como secundária; MDBG e cantonese.org registam só a forma em 上聲 (shǒu/sau2). O Guangyun regista os dois fanqie (書九 / 書救), confirmando a existência arcaica da leitura em 去聲 (shòu). Como em 中, trata-se de tonogénese — a distinção verbo (shǒu, "guardar") vs substantivo-derivado (shòu, "posto de guarda") por mudança tonal.
+**Leituras shǒu/shòu**: chardb lista ambas (shou3 e shou4); hanziyuan aceita shòu como secundária; MDBG e cantonese.org registram só a forma em 上聲 (shǒu/sau2). O Guangyun registra os dois fanqie (書九 / 書救), confirmando a existência arcaica da leitura em 去聲 (shòu). Como em 中, trata-se de tonogênese — a distinção verbo (shǒu, "guardar") vs substantivo-derivado (shòu, "posto de guarda") por mudança tonal.
 
-**Ausência em oracle bones (hanziyuan) vs presença (xiaoxue)**: hanziyuan regista 0 oracle bones; o xiaoxue lista 京都2330 como atestação Shang. A discrepância sugere que hanziyuan não inclui o espécime 京都2330 na sua base (provavelmente por ser leitura disputada no JGW) ou que o xiaoxue classifica como 守 uma forma que outros leem como variante de outro grafema.
+**Ausência em oracle bones (hanziyuan) vs presença (xiaoxue)**: hanziyuan registra 0 oracle bones; o xiaoxue lista 京都2330 como atestação Shang. A discrepância sugere que hanziyuan não inclui o espécime 京都2330 na sua base (provavelmente por ser leitura disputada no JGW) ou que o xiaoxue classifica como 守 uma forma que outros leem como variante de outro grafema.
