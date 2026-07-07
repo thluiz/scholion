@@ -107,7 +107,7 @@ Tradução: "(往) é 'ir' [之]. De 彳, com 𡉚 como fonético. Fanqie: 于�
 
 #### Divergências entre fontes
 
-**Forma primária 往 (com 彳) vs variante guwen 𨓹 (com 辵)**: O Shuowen regista ambas. 彳 (meio-passo) e 辵 (passo completo com parar) são componentes aparentados mas distintos semanticamente. A forma atual 往 conservou 彳; a forma 𨓹 com 辵 preservou-se como variante arcaica usada em edições do *Shangshu* conforme documentado no *Hànjiǎn*.
+**Forma primária 往 (com 彳) vs variante guwen 𨓹 (com 辵)**: O Shuowen registra ambas. 彳 (meio-passo) e 辵 (passo completo com parar) são componentes aparentados mas distintos semanticamente. A forma atual 往 conservou 彳; a forma 𨓹 com 辵 preservou-se como variante arcaica usada em edições do *Shangshu* conforme documentado no *Hànjiǎn*.
 
 **Semântica — "ir" presente e "passado" temporal**: A acepção 3 do chardb (昔時；過去 — "tempo antigo; o passado") é central em chinês clássico. 往 usa-se abundantemente para "dias idos, antigamente" (如往日, 往事). No composto 繼往 do Hai Tong, este é exatamente o sentido — "continuar os tempos passados / dar continuidade à tradição herdada".
 
