@@ -131,5 +131,5 @@ Texto completo (via hanziyuan): 獸足謂之番從釆田象其掌.
   - **返手** (Cham Kiu): 返 — retornar/voltar; mão que retorna
   
   O par grafema-romanização exige o ideograma para desambiguação técnica. Ver `etimologia-de-faan-fan-8fd4.md` (a produzir) para 返.
-- **Reconstrução OC**: três sistemas (Dong Tonghe, Zhou Fagao, Li Fanggui) convergem em grupo 元 com inicial labial voiced b-/bʰ-. Em MC, o 奉母 (labiodental voiced) reflete a evolução labio-velar > labiodental característica do final do Han / início do Tang; em Mandarim moderno, 奉母 colapsa em f- (devozalização e fricativização); em cantonês, recompõe-se como f-/faan-.
+- **Reconstrução OC**: três sistemas (Dong Tonghe, Zhou Fagao, Li Fanggui) convergem em grupo 元 com inicial labial voiced b-/bʰ-. Em MC, o 奉母 (labiodental voiced) reflete a evolução labio-velar > labiodental caractereística do final do Han / início do Tang; em Mandarim moderno, 奉母 colapsa em f- (devozalização e fricativização); em cantonês, recompõe-se como f-/faan-.
 - **Atestação ampla**: corpus quase completo desde Zhou Ocidental Tardio. As atestações em bronze (魯侯鬲, 番生簋蓋, 番君𨠣伯鬲) usam 番 como sobrenome ou topônimo do antigo estado de Fan. O uso classificador ("vezes/turnos") cristaliza-se a partir do período dos Estados Combatentes, atestado nos manuscritos Chu de Guodian e Baoshan.
