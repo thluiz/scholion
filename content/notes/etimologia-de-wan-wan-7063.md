@@ -55,7 +55,7 @@ Decomposição: 氵 (semântico, água) + 彎 (fonético-semântico — sentido 
 
 #### Evolução de formas (xiaoxue yanbian)
 
-**Ausente da tabela xiaoxue yanbian** — sem atestações epigráficas pré-modernas. Caractere de fixação grafica tardia (medieval-Song ou posterior), embora a fonologia Guangyun (Song, séc. XI) já registre a leitura.
+**Ausente da tabela xiaoxue yanbian** — sem atestações epigráficas pré-modernas. Caractere de fixação gráfica tardia (medieval-Song ou posterior), embora a fonologia Guangyun (Song, séc. XI) já registre a leitura.
 
 #### Fonologia (xiaoxue shangguyin)
 
@@ -75,7 +75,7 @@ Decomposição: 氵 (semântico, água) + 彎 (fonético-semântico — sentido 
 
 #### Divergências entre fontes
 
-- **Ausência do Shuowen e da paleografia clássica**: divergência mais importante. 灣 não tem atestação epigráfica pré-Tang — é caractere desenvolvido tardiamente por extensão grafica de 彎 (curvar arco) com substituição/adição do radical semântico 氵 (água). Sua **fixação ortográfica** parece ser Song ou posterior, embora a fonologia Guangyun já o registre.
+- **Ausência do Shuowen e da paleografia clássica**: divergência mais importante. 灣 não tem atestação epigráfica pré-Tang — é caractere desenvolvido tardiamente por extensão gráfica de 彎 (curvar arco) com substituição/adição do radical semântico 氵 (água). Sua **fixação ortográfica** parece ser Song ou posterior, embora a fonologia Guangyun já o registre.
 - **Reconstruções OC limitadas**: apenas Wang Li retornou reconstrução, e por analogia com 彎 (que é da família). Os outros 4 sistemas não incluem 灣 — coerente com a hipótese de caractere tardio. Rhyme 元 *yuán* deduzido.
 - **Etimologia transparente**: a decomposição 氵+彎 é semanticamente lúcida: água + curvatura = costa que se curva = enseada. Não há ambiguidade exegética.
 - **Cantonês**: waan1 (tom 1 alto nivelado) — leitura padrão preservando 平聲 全清 do Guangyun.
