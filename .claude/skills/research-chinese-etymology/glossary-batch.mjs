@@ -12,7 +12,7 @@ const FORCE = new Set(fi >= 0 ? [...argv[fi + 1]] : []);
 const PARK = [...'丨丶丿亅亠儿冂冖冫凵勹匚匸卩厶囗夂夊尢屮巛廴廾彐彡彳疒癶禸舛虍襾釆'];
 const byChar = new Map();
 for (const line of readFileSync('content/notes/os-214-radicais-kangxi.md', 'utf8').split(/\r?\n/)) {
-  const m = line.match(/^\|\s*(\d{1,3})\s*\|\s*([^\s|(]+)/);
+  const m = line.match(/^\|\s*(\d{1,3})\s*\|\s*\[?([^\s|()\]]+)/);
   if (m) { const ch = [...m[2].trim()][0]; if (!byChar.has(ch)) byChar.set(ch, +m[1]); }
 }
 

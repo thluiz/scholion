@@ -30,7 +30,7 @@ const doneChar = ch => titles.some(t => { const m = t.match(/Etimologia de (\S)/
 
 const rows = []; const seen = new Set();
 for (const line of idx) {
-  const m = line.match(/^\|\s*(\d{1,3})\s*\|\s*([^\s|(]+)/);
+  const m = line.match(/^\|\s*(\d{1,3})\s*\|\s*\[?([^\s|()\]]+)/);
   if (!m) continue;
   const num = +m[1]; if (num < 1 || num > 214 || seen.has(num)) continue;
   seen.add(num); rows.push({ num, ch: [...m[2].trim()][0] });
