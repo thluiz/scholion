@@ -22,7 +22,7 @@ const sh = (cmd, args, o = {}) => spawnSync(cmd, args, { encoding: 'utf8', maxBu
 // índice: char por número de radical; mapear por codepoint
 const byHex = new Map();
 for (const line of readFileSync('content/notes/os-214-radicais-kangxi.md', 'utf8').split(/\r?\n/)) {
-  const m = line.match(/^\|\s*(\d{1,3})\s*\|\s*([^\s|(]+)/);
+  const m = line.match(/^\|\s*(\d{1,3})\s*\|\s*\[?([^\s|()\]]+)/);
   if (!m) continue;
   const num = +m[1]; if (num < 1 || num > 214) continue;
   const ch = [...m[2].trim()][0];
