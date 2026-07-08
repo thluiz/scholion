@@ -91,6 +91,8 @@ Estes são os radicais mais frequentes nos caracteres do dia a dia. Comece por e
 
 Formato: nº · radical (variantes / forma simplificada) · pinyin · glosa.
 
+Os radicais que são caracteres plenos têm nota de etimologia própria (`etimologia-de-…`). Os 33 primitivos de traço e componentes gráficos (丨 丶 丿 亅 冖 勹…) estão reunidos no [Glossário dos radicais primitivos](/notes/glossario-dos-radicais-primitivos/).
+
 **1 traço**
 
 | # | Radical | Pinyin | Glosa |
