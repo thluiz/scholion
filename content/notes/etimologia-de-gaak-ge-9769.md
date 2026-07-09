@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 177 (革, couro/pele curtida). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 177 (革, couro/pele curtida). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **革** — U+9769 · 部首 radical: 革 (nº 177) · 總筆畫 strokes: 9 · 注音 zhuyin: ㄍㄜˊ · 拼音 pinyin: gé / jyutping: gaak3
 
