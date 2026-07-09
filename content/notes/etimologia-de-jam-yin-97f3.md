@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 180 (音, som). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 180 (音, som). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **音** — U+97F3 · 部首 radical: 音 (nº 180) · 總筆畫 strokes: 9 · 注音 zhuyin: ㄧㄣ · 拼音 pinyin: yīn / jyutping: jam1
 
