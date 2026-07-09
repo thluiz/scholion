@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 167 (金, metal / ouro) e a base semântica dos caracteres ligados a metais, ligas e objetos metálicos; o chardb lista 1.414 caracteres que o contêm como componente. Como radical à esquerda, assume a forma 釒 (simplificada 钅). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 167 (金, metal / ouro) e a base semântica dos caracteres ligados a metais, ligas e objetos metálicos; o chardb lista 1.414 caracteres que o contêm como componente. Como radical à esquerda, assume a forma 釒 (simplificada 钅). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **金** — U+91D1 · 部首 radical: 金 (nº 167) · 總筆畫 strokes: 8 · 注音 zhuyin: ㄐㄧㄣ · 拼音 pinyin: jīn / jyutping: gam1
 
