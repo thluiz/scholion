@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 80 (毋, não / não faça). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 80 (毋, não / não faça). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **毋** — U+6BCB · 部首 radical: 毋 (nº 80) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄨˊ · 拼音 pinyin: wú / jyutping: mou4
 
