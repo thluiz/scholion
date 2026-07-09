@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 129 (聿, pincel). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 129 (聿, pincel). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **聿** — U+807F · 部首 radical: 聿 (nº 129) · 總筆畫 strokes: 6 · 注音 zhuyin: ㄩˋ · 拼音 pinyin: yù / jyutping: jyut6
 
