@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 98 (瓦, telha). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 98 (瓦, telha). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **瓦** — U+74E6 · 部首 radical: 瓦 (nº 98) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄨㄚˇ · 拼音 pinyin: wǎ / jyutping: ngaa5
 
