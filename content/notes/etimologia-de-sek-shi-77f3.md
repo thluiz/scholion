@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 112 (石, pedra); o chardb lista 724 caracteres que o contêm como componente. O grafismo combina o rochedo/penhasco 厂 com a pedra propriamente dita embaixo, e mantém a mesma forma como radical à esquerda ou embaixo. Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 112 (石, pedra); o chardb lista 724 caracteres que o contêm como componente. O grafismo combina o rochedo/penhasco 厂 com a pedra propriamente dita embaixo, e mantém a mesma forma como radical à esquerda ou embaixo. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **石** — U+77F3 · 部首 radical: 石 (nº 112) · 總筆畫 strokes: 5 · 注音 zhuyin: ㄕˊ / ㄉㄢˋ · 拼音 pinyin: shí / dàn · jyutping: sek6
 
