@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 190 (髟, cabelo). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 190 (髟, cabelo). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **髟** — U+9ADF · 部首 radical: 髟 (nº 190) · 總筆畫 strokes: 10 · 注音 zhuyin: ㄅㄧㄠ · 拼音 pinyin: biāo / jyutping: biu1
 
