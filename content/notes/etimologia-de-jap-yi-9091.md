@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 163 (邑, cidade / povoado); o chardb lista 567 caracteres que o contêm como componente. Como radical à direita, assume a forma 阝 — o chamado 右耳旁 ("o 'orelha' à direita"). Essa forma é homógrafa do 阝 que aparece à esquerda dos caracteres, mas este último é a forma reduzida do radical nº 170 (阜, monte / colina, o 左耳旁): mesmo traçado, dois radicais distintos, distinguidos apenas pela posição. Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 163 (邑, cidade / povoado); o chardb lista 567 caracteres que o contêm como componente. Como radical à direita, assume a forma 阝 — o chamado 右耳旁 ("o 'orelha' à direita"). Essa forma é homógrafa do 阝 que aparece à esquerda dos caracteres, mas este último é a forma reduzida do radical nº 170 (阜, monte / colina, o 左耳旁): mesmo traçado, dois radicais distintos, distinguidos apenas pela posição. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **邑** — U+9091 · 部首 radical: 邑 (nº 163) · 總筆畫 strokes: 7 · 注音 zhuyin: ㄧˋ · 拼音 pinyin: yì / jyutping: jap1
 
