@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 91 (片, fatia; lasca). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 91 (片, fatia; lasca). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **片** — U+7247 · 部首 radical: 片 (nº 91) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄆㄧㄢˋ · 拼音 pinyin: piàn / jyutping: pin3
 
