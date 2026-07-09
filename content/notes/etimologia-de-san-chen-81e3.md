@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 131 (臣, servo/súdito/ministro). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 131 (臣, servo/súdito/ministro). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **臣** — U+81E3 · 部首 radical: (não obtido — chardb não preencheu o campo de部首) (nº 131) · 總筆畫 strokes: 6 · 注音 zhuyin: ㄔㄣˊ · 拼音 pinyin: chén / jyutping: san4
 
