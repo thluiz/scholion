@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 198 (鹿, cervo). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 198 (鹿, cervo). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **鹿** — U+9E7F · 部首 radical: 鹿 (nº 198) · 總筆畫 strokes: 11 · 注音 zhuyin: ㄌㄨˋ · 拼音 pinyin: lù / jyutping: luk6
 
