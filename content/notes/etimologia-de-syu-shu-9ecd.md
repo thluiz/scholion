@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 202 (黍, painço glutinoso). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 202 (黍, painço glutinoso). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **黍** — U+9ECD · 部首 radical: 黍 (nº 202) · 總筆畫 strokes: 12 · 注音 zhuyin: ㄕㄨˇ · 拼音 pinyin: shǔ / jyutping: syu2
 
