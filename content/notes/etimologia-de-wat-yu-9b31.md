@@ -31,8 +31,6 @@ sources:
   kind: wiki
 ---
 
-Registro filológico sem vínculo a nome kung fu.
-
 **鬱** — U+9B31 · 部首 radical: 鬯 (Kangxi 192; o *Shuowen* o classifica sob 林, e o índice moderno do 漢典 sob 彡) · 總筆畫 strokes: 29 · 注音 zhuyin: ㄩˋ · 拼音 pinyin: yù / jyutping: wat1
 
 ## Definições
