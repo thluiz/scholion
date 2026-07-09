@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 83 (氏, clã). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 83 (氏, clã). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **氏** — U+6C0F · 部首 radical: 氏 (nº 83) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄕˋ · 拼音 pinyin: shì / jyutping: si6
 
