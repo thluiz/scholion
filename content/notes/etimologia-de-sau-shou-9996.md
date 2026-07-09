@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 185 (首, cabeça). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 185 (首, cabeça). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **首** — U+9996 · 部首 radical: 首 (nº 185) · 總筆畫 strokes: 9 · 注音 zhuyin: ㄕㄡˇ · 拼音 pinyin: shǒu / jyutping: sau2
 
