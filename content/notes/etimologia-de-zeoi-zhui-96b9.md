@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 172 (隹, ave de cauda curta). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 172 (隹, ave de cauda curta). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **隹** — U+96B9 · 部首 radical: 隹 (nº 172) · 總筆畫 strokes: 8 · 注音 zhuyin: ㄓㄨㄟ · 拼音 pinyin: zhuī / jyutping: zeoi1
 
