@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 179 (韭, alho-poró / cebolinha-chinesa). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 179 (韭, alho-poró / cebolinha-chinesa). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **韭** — U+97ED · 部首 radical: 韭 (nº 179) · 總筆畫 strokes: 9 · 注音 zhuyin: ㄐㄧㄡˇ · 拼音 pinyin: jiǔ / jyutping: gau2
 
