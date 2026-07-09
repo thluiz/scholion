@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 111 (矢, flecha). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 111 (矢, flecha). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **矢** — U+77E2 · 部首 radical: 矢 (nº 111) · 總筆畫 strokes: 5 · 注音 zhuyin: ㄕˇ · 拼音 pinyin: shǐ / jyutping: ci2
 
