@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 49 (己, si mesmo). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 49 (己, si mesmo). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **己** — U+5DF1 · 部首 radical: 己 (nº 49) · 總筆畫 strokes: 3 · 注音 zhuyin: ㄐㄧˇ · 拼音 pinyin: jǐ / jyutping: gei2
 
