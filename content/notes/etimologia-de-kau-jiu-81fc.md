@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 134 (臼, almofariz). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 134 (臼, almofariz). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **臼** — U+81FC · 部首 radical: 臼 (nº 134) · 總筆畫 strokes: 6 · 注音 zhuyin: ㄐㄧㄡˋ · 拼音 pinyin: jiù / jyutping: kau5
 
