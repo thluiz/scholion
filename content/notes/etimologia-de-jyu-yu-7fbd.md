@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 124 (羽, pena). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 124 (羽, pena). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **羽** — U+7FBD · 部首 radical: 羽 (nº 124) · 總筆畫 strokes: 6 · 注音 zhuyin: ㄩˇ · 拼音 pinyin: yǔ / jyutping: jyu5
 
