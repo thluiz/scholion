@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 204 (黹, bordado). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 204 (黹, bordado). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **黹** — U+9EF9 · 部首 radical: 黹 (nº 204) · 總筆畫 strokes: 12 · 注音 zhuyin: ㄓˇ · 拼音 pinyin: zhǐ / jyutping: zi2
 
