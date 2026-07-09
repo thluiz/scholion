@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 85 (水, água), uma das chaves de indexação mais produtivas do chinês: o chardb lista 2.022 caracteres que o contêm como componente. Como radical à esquerda, assume a forma 氵 (três gotas); embaixo, às vezes 氺. Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 85 (水, água), uma das chaves de indexação mais produtivas do chinês: o chardb lista 2.022 caracteres que o contêm como componente. Como radical à esquerda, assume a forma 氵 (três gotas); embaixo, às vezes 氺. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **水** — U+6C34 · 部首 radical: 水 (nº 85) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄕㄨㄟˇ · 拼音 pinyin: shuǐ / jyutping: seoi2
 
