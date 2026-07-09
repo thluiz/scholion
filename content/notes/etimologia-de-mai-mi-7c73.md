@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 119 (米, arroz descascado); o chardb lista 410 caracteres que o contêm como componente. O caractere é ele próprio um radical, sem forma reduzida distinta quando indexa outros grafemas. Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 119 (米, arroz descascado); o chardb lista 410 caracteres que o contêm como componente. O caractere é ele próprio um radical, sem forma reduzida distinta quando indexa outros grafemas. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **米** — U+7C73 · 部首 radical: 米 (nº 119) · 總筆畫 strokes: 6 · 注音 zhuyin: ㄇㄧˇ · 拼音 pinyin: mǐ / jyutping: mai5
 
