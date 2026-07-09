@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 128 (耳, orelha); o chardb registra 247 caracteres que o contêm como componente, em geral ligados à audição e às funções auditivas. Pictograma de uma orelha, mantém a mesma forma como componente, à esquerda ou à direita. Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 128 (耳, orelha); o chardb registra 247 caracteres que o contêm como componente, em geral ligados à audição e às funções auditivas. Pictograma de uma orelha, mantém a mesma forma como componente, à esquerda ou à direita. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **耳** — U+8033 · 部首 radical: 耳 (nº 128) · 總筆畫 strokes: 6 · 注音 zhuyin: ㄦˇ · 拼音 pinyin: ěr / jyutping: ji5
 
