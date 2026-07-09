@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 162 (辵, andar / caminhar); o chardb lista 654 caracteres que o contêm como componente. É a chave genérica do movimento, do caminho e do deslocamento. Como radical à esquerda, assume a forma 辶 (U+8FB6, o "走之底"); a forma com dois pontos 辶 (U+FA66) é a variante padronizada moderna. Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 162 (辵, andar / caminhar); o chardb lista 654 caracteres que o contêm como componente. É a chave genérica do movimento, do caminho e do deslocamento. Como radical à esquerda, assume a forma 辶 (U+8FB6, o "走之底"); a forma com dois pontos 辶 (U+FA66) é a variante padronizada moderna. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **辵** — U+8FB5 · 部首 radical: 辵 (nº 162) · 總筆畫 strokes: 7 · 注音 zhuyin: ㄔㄨㄛˋ · 拼音 pinyin: chuò / jyutping: coek3
 
