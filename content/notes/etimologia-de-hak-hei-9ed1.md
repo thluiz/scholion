@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 203 (黑, preto). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 203 (黑, preto). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **黑** — U+9ED1 · 部首 radical: 黑 (nº 203) · 總筆畫 strokes: 12 · 注音 zhuyin: ㄏㄟ · 拼音 pinyin: hēi / jyutping: hak1
 
