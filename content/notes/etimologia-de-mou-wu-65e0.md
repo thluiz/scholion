@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 71 (无, “não; sem”). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 71 (无, “não; sem”). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **无** — U+65E0 · 部首 radical: 无 (nº 71) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄨˊ · 拼音 pinyin: wú / jyutping: mou4
 
