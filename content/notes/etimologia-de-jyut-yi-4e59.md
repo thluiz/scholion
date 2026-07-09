@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 5 (乙, o segundo tronco celeste), um caractere de traço único: a busca do chardb retorna 149 caracteres que o contêm como componente. Como radical, assume a forma variante 乚 (por exemplo em 乹, 亁). É também o segundo dos dez troncos celestes (天干), depois de 甲. Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 5 (乙, o segundo tronco celeste), um caractere de traço único: a busca do chardb retorna 149 caracteres que o contêm como componente. Como radical, assume a forma variante 乚 (por exemplo em 乹, 亁). É também o segundo dos dez troncos celestes (天干), depois de 甲. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **乙** — U+4E59 · 部首 radical: 乙 (nº 5) · 總筆畫 strokes: 1 · 注音 zhuyin: ㄧˇ · 拼音 pinyin: yǐ (também yì, jué) / jyutping: jyut3
 
