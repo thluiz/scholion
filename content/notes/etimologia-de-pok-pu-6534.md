@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 66 (攴, bater/golpear levemente); o chardb lista 397 caracteres que o contêm como componente. Como radical à direita, assume a forma corrente 攵 (o chamado 反文旁), como em 政, 教, 攻, 敗. Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 66 (攴, bater/golpear levemente); o chardb lista 397 caracteres que o contêm como componente. Como radical à direita, assume a forma corrente 攵 (o chamado 反文旁), como em 政, 教, 攻, 敗. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **攴** — U+6534 · 部首 radical: 攴 (nº 66) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄆㄨ · 拼音 pinyin: pū / jyutping: pok3 (異讀 leitura variante) · bok3 (白話 leitura vernácula)
 
