@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 110 (矛, lança). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 110 (矛, lança). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **矛** — U+77DB · 部首 radical: 矛 (nº 110) · 總筆畫 strokes: 5 · 注音 zhuyin: ㄇㄠˊ · 拼音 pinyin: máo / jyutping: maau4
 
