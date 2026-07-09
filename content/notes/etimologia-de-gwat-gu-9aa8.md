@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 188 (骨, osso). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 188 (骨, osso). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **骨** — U+9AA8 · 部首 radical: 骨 (nº 188) · 總筆畫 strokes: 9 · 注音 zhuyin: ㄍㄨˇ · 拼音 pinyin: gǔ / jyutping: gwat1
 
