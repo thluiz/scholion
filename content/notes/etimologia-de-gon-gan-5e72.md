@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 51 (干, escudo). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 51 (干, escudo). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **干** — U+5E72 · 部首 radical: 干 (nº 51) · 總筆畫 strokes: 3 · 注音 zhuyin: ㄍㄢ · 拼音 pinyin: gān / jyutping: gon1
 
