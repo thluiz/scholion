@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 149 (言, fala); o chardb lista 1.156 caracteres que o contêm como componente. Como radical em chinês simplificado, assume a forma 讠. Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 149 (言, fala); o chardb lista 1.156 caracteres que o contêm como componente. Como radical em chinês simplificado, assume a forma 讠. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **言** — U+8A00 · 部首 radical: 言 (nº 149) · 總筆畫 strokes: 7 · 注音 zhuyin: ㄧㄢˊ · 拼音 pinyin: yán / jyutping: jin4
 
