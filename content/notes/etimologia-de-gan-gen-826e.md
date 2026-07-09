@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 138 (艮, montanha). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 138 (艮, montanha). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **艮** — U+826E · 部首 radical: 艮 (nº 138) · 總筆畫 strokes: 6 · 注音 zhuyin: ㄍㄣˋ · 拼音 pinyin: gèn / jyutping: gan3
 
