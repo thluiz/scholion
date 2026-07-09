@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 81 (比, comparar). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 81 (比, comparar). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **比** — U+6BD4 · 部首 radical: 比 (nº 81) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄅㄧˇ · 拼音 pinyin: bǐ / jyutping: bei2
 
