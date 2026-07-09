@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 21 (匕, colher; adaga). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 21 (匕, colher; adaga). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **匕** — U+5315 · 部首 radical: 匕 (nº 21) · 總筆畫 strokes: 2 · 注音 zhuyin: ㄅㄧˇ · 拼音 pinyin: bǐ / jyutping: bei6
 
