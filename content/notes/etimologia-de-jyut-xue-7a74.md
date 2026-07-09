@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 116 (穴, caverna). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 116 (穴, caverna). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **穴** — U+7A74 · 部首 radical: 穴 (nº 116) · 總筆畫 strokes: 5 · 注音 zhuyin: ㄒㄩㄝˊ · 拼音 pinyin: xué / jyutping: jyut6
 
