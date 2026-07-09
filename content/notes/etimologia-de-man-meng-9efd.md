@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 205 (黽, sapo/rã). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 205 (黽, sapo/rã). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **黽** — U+9EFD · 部首 radical: 黽 (nº 205) · 總筆畫 strokes: 13 · 注音 zhuyin: ㄇㄥˇ · 拼音 pinyin: měng / jyutping: maang5, man5, min5
 
