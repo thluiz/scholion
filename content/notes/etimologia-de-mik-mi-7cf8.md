@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 120 (糸, fio fino de seda); o chardb lista 1.112 caracteres que o contêm como componente — é a chave de indexação de tudo que tem a ver com fios, tecidos, cordas e nós. Como radical à esquerda, assume a forma 糹; na grafia simplificada, 纟. Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 120 (糸, fio fino de seda); o chardb lista 1.112 caracteres que o contêm como componente — é a chave de indexação de tudo que tem a ver com fios, tecidos, cordas e nós. Como radical à esquerda, assume a forma 糹; na grafia simplificada, 纟. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **糸** — U+7CF8 · 部首 radical: 糸 (nº 120) · 總筆畫 strokes: 6 · 注音 zhuyin: ㄇㄧˋ · 拼音 pinyin: mì / jyutping: mik6
 
