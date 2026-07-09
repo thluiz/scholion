@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 214 (龠, flauta antiga). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 214 (龠, flauta antiga). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **龠** — U+9FA0 · 部首 radical: 龠 (nº 214) · 總筆畫 strokes: 17 · 注音 zhuyin: ㄩㄝˋ · 拼音 pinyin: yuè / jyutping: joek6
 
