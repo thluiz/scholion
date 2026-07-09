@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 108 (皿, recipiente raso). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 108 (皿, recipiente raso). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **皿** — U+76BF · 部首 radical: 皿 (nº 108) · 總筆畫 strokes: 5 · 注音 zhuyin: ㄇㄧㄣˇ · 拼音 pinyin: mǐn / jyutping: ming5
 
