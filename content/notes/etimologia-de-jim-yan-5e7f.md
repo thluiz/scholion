@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 53 (广, casa encostada à falésia / abrigo na encosta); o hanziyuan lista 43 caracteres que o contêm como componente. Como radical de topo e lado — o chamado 廣字頭 ("o topo de 廣") —, encima caracteres como 店 (loja), 序 (ordem / prefácio) e 底 (fundo). O caractere carrega duas camadas sobrepostas: como radical Kangxi lê-se 广 yǎn / jim2 ("casa construída contra uma encosta"); modernamente 广 é também a forma simplificada de 廣 guǎng / gwong2 ("amplo", "vasto"), e é nesse sentido que circula no chinês corrente. Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 53 (广, casa encostada à falésia / abrigo na encosta); o hanziyuan lista 43 caracteres que o contêm como componente. Como radical de topo e lado — o chamado 廣字頭 ("o topo de 廣") —, encima caracteres como 店 (loja), 序 (ordem / prefácio) e 底 (fundo). O caractere carrega duas camadas sobrepostas: como radical Kangxi lê-se 广 yǎn / jim2 ("casa construída contra uma encosta"); modernamente 广 é também a forma simplificada de 廣 guǎng / gwong2 ("amplo", "vasto"), e é nesse sentido que circula no chinês corrente. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **广** — U+5E7F · 部首 radical: 广 (nº 53) · 總筆畫 strokes: 3 · 注音 zhuyin: ㄧㄢˇ (yǎn) / ㄍㄨㄤˇ (guǎng) · 拼音 pinyin: yǎn / guǎng · jyutping: jim2 (radical) / gwong2 (amplo)
 
