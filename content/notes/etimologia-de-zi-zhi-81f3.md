@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 133 (至, chegar). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 133 (至, chegar). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **至** — U+81F3 · 部首 radical: 至 (nº 133) · 總筆畫 strokes: 6 · 注音 zhuyin: ㄓˋ · 拼音 pinyin: zhì / jyutping: zi3
 
