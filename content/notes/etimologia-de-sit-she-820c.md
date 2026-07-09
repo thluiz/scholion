@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 135 (舌, língua). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 135 (舌, língua). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **舌** — U+820C · 部首 radical: 舌 (nº 135) · 總筆畫 strokes: 6 · 注音 zhuyin: ㄕㄜˊ · 拼音 pinyin: shé / jyutping: sit3
 
