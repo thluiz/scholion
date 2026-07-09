@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 150 (谷, vale). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 150 (谷, vale). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **谷** — U+8C37 · 部首 radical: 谷 (nº 150) · 總筆畫 strokes: 7 · 注音 zhuyin: ㄍㄨˇ · 拼音 pinyin: gǔ / jyutping: guk1
 
