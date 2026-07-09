@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 115 (禾, cereal/grão). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 115 (禾, cereal/grão). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **禾** — U+79BE · 部首 radical: 禾 (nº 115) · 總筆畫 strokes: 5 · 注音 zhuyin: ㄏㄜˊ · 拼音 pinyin: hé / jyutping: wo4
 
