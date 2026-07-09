@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 78 (歹, mau). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 78 (歹, mau). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **歹** — U+6B79 · 部首 radical: 歹 (nº 78) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄜˋ · 拼音 pinyin: dǎi / jyutping: daai2
 
