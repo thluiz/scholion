@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 95 (玄, negro/misterioso). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 95 (玄, negro/misterioso). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **玄** — U+7384 · 部首 radical: 玄 (nº 95) · 總筆畫 strokes: 5 · 注音 zhuyin: ㄒㄩㄢˊ · 拼音 pinyin: xuán / jyutping: jyun4
 
