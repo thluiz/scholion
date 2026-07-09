@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 99 (甘, doce). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 99 (甘, doce). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **甘** — U+7518 · 部首 radical: 甘 (nº 99) · 總筆畫 strokes: 5 · 注音 zhuyin: ㄍㄢ · 拼音 pinyin: gān / jyutping: gam1
 
