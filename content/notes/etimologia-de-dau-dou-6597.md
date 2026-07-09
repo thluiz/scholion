@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 68 (斗, medida/copo). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 68 (斗, medida/copo). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **斗** — U+6597 · 部首 radical: 斗 (nº 68) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄉㄡˇ · 拼音 pinyin: dǒu / jyutping: dau2
 
