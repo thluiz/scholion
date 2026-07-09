@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 127 (耒, arado). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 127 (耒, arado). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **耒** — U+8012 · 部首 radical: 耒 (nº 127) · 總筆畫 strokes: 6 · 注音 zhuyin: ㄌㄟˇ · 拼音 pinyin: lěi / jyutping: leoi6
 
