@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 173 (雨, chuva); o chardb registra 406 caracteres que o contêm como componente. Encabeça a classe dos caracteres meteorológicos — neve, trovão, nuvem, geada, raio, orvalho —, onde 雨 aparece no topo do grafismo como elemento semântico que situa o caractere no campo dos fenômenos do céu (assim em 雪 neve, 雷 trovão, 雲 nuvem, 霜 geada, 露 orvalho). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 173 (雨, chuva); o chardb registra 406 caracteres que o contêm como componente. Encabeça a classe dos caracteres meteorológicos — neve, trovão, nuvem, geada, raio, orvalho —, onde 雨 aparece no topo do grafismo como elemento semântico que situa o caractere no campo dos fenômenos do céu (assim em 雪 neve, 雷 trovão, 雲 nuvem, 霜 geada, 露 orvalho). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **雨** — U+96E8 · 部首 radical: 雨 (nº 173) · 總筆畫 strokes: 8 · 注音 zhuyin: ㄩˇ · 拼音 pinyin: yǔ (também yù) / jyutping: jyu5
 
