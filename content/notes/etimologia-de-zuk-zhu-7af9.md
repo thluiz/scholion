@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 118 (竹, bambu); o chardb registra 1.088 caracteres que o contêm como componente. No topo de outros caracteres, o radical assume a forma reduzida ⺮ (U+2F75), as duas folhas pendentes condensadas em dois traços. Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 118 (竹, bambu); o chardb registra 1.088 caracteres que o contêm como componente. No topo de outros caracteres, o radical assume a forma reduzida ⺮ (U+2F75), as duas folhas pendentes condensadas em dois traços. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **竹** — U+7AF9 · 部首 radical: 竹 (nº 118) · 總筆畫 strokes: 6 · 注音 zhuyin: ㄓㄨˊ · 拼音 pinyin: zhú / jyutping: zuk1
 
