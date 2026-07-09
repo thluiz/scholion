@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 42 (小, pequeno). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 42 (小, pequeno). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **小** — U+5C0F · 部首 radical: 小 (nº 42) · 總筆畫 strokes: 3 · 注音 zhuyin: ㄒㄧㄠˇ · 拼音 pinyin: xiǎo / jyutping: siu2
 
