@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 137 (舟, barco). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 137 (舟, barco). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **舟** — U+821F · 部首 radical: 舟 (nº 137) · 總筆畫 strokes: 6 · 注音 zhuyin: ㄓㄡ · 拼音 pinyin: zhōu / jyutping: zau1
 
