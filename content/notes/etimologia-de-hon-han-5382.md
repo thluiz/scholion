@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 27 (厂, penhasco). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 27 (厂, penhasco). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **厂** — U+5382 · 部首 radical: (não obtido — chardb não informou o número do radical; o número vem do enunciado, não da linha de identificação da fonte) · 總筆畫 strokes: 2 · 注音 zhuyin: ㄏㄢˇ · 拼音 pinyin: hǎn / jyutping: hon3
 
