@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 160 (辛, pungente). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 160 (辛, pungente). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **辛** — U+8F9B · 部首 radical: 辛 (nº 160) · 總筆畫 strokes: 7 · 注音 zhuyin: ㄒㄧㄣ · 拼音 pinyin: xīn / jyutping: san1
 
