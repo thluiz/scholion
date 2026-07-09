@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 196 (鳥, ave); o chardb lista 1.074 caracteres que o contêm como componente. É a chave genérica das aves, em paralelo com 隹 (rad. 172, as aves de cauda curta). A forma simplificada é 鸟 (U+9E1F). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 196 (鳥, ave); o chardb lista 1.074 caracteres que o contêm como componente. É a chave genérica das aves, em paralelo com 隹 (rad. 172, as aves de cauda curta). A forma simplificada é 鸟 (U+9E1F). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **鳥** — U+9CE5 · 部首 radical: 鳥 (nº 196) · 總筆畫 strokes: 11 · 注音 zhuyin: ㄋㄧㄠˇ · 拼音 pinyin: niǎo / jyutping: niu5
 
