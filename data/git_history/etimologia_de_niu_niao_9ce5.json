@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-niu-niao-9ce5"
+  },
+  {
     "date": "2026-06-24",
     "subject": "feat: etimologia de 鳥 (radical Kangxi 196)"
   }

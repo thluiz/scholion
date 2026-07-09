@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-buk-bu-535c"
+  },
+  {
     "date": "2026-07-06",
     "subject": "feat: etimologia de 卜 (radical Kangxi 25)"
   }

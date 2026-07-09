@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-mik-mi-7cf8"
+  },
+  {
     "date": "2026-07-03",
     "subject": "feat: etimologia de 糸 (radical Kangxi 120)"
   }

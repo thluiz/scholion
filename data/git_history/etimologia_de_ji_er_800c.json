@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-ji-er-800c"
+  },
+  {
     "date": "2026-07-07",
     "subject": "feat: etimologia de 而 (radical Kangxi 126)"
   }

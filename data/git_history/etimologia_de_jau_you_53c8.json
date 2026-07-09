@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-jau-you-53c8"
+  },
+  {
     "date": "2026-07-07",
     "subject": "fix: regenera etimologia de 又 (auditoria de fontes, radical Kangxi 29)"
   },

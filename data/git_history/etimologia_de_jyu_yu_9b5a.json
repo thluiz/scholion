@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-jyu-yu-9b5a"
+  },
+  {
     "date": "2026-06-24",
     "subject": "feat: etimologia de 魚 (radical Kangxi 195)"
   }

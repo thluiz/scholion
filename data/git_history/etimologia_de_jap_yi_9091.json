@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-jap-yi-9091"
+  },
+  {
     "date": "2026-06-25",
     "subject": "feat: etimologia de 邑 (radical Kangxi 163)"
   }

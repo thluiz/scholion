@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-jip-ye-9801"
+  },
+  {
     "date": "2026-07-07",
     "subject": "feat: etimologia de 頁 (radical Kangxi 181)"
   }

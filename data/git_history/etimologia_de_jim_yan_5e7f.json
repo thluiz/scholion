@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-jim-yan-5e7f"
+  },
+  {
     "date": "2026-06-27",
     "subject": "feat: etimologia de 广 (radical Kangxi 53)"
   }

@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-gau-jiu-97ed"
+  },
+  {
     "date": "2026-07-07",
     "subject": "feat: etimologia de 韭 (radical Kangxi 179)"
   }

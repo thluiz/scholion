@@ -1,14 +1,14 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-hon-han-5382"
+  },
+  {
     "date": "2026-07-07",
     "subject": "fix: separa as entradas do MDBG/CantoDict fundidas na nota de 厂"
   },
   {
     "date": "2026-07-07",
     "subject": "fix: regenera etimologia de 厂 (auditoria de fontes, radical Kangxi 27)"
-  },
-  {
-    "date": "2026-07-06",
-    "subject": "historicos"
   }
 ]

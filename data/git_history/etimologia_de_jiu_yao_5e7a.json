@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-jiu-yao-5e7a"
+  },
+  {
     "date": "2026-07-07",
     "subject": "fix: regenera etimologia de 幺 (auditoria de fontes, radical Kangxi 52)"
   },
