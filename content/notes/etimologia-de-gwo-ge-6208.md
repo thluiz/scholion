@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 62 (戈, adaga-alabarda). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 62 (戈, adaga-alabarda). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **戈** — U+6208 · 部首 radical: 戈 (nº 62) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄍㄜ · 拼音 pinyin: gē / jyutping: gwo1
 
