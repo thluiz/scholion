@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 122 (网, rede). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 122 (网, rede). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **网** — U+7F51 · 部首 radical: 网 (nº 122) · 總筆畫 strokes: 6 · 注音 zhuyin: ㄨㄤˇ · 拼音 pinyin: wǎng / jyutping: mong5
 
