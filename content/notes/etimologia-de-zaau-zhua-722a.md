@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 87 (爪, garra/unha). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 87 (爪, garra/unha). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **爪** — U+722A · 部首 radical: 爪 (nº 87) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄓㄠˇ · 拼音 pinyin: zhǎo / jyutping: zaau2
 
