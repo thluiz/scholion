@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 145 (衣, roupa/vestimenta); o chardb lista 720 caracteres que o contêm como componente. Como radical à esquerda, assume a forma 衤. Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 145 (衣, roupa/vestimenta); o chardb lista 720 caracteres que o contêm como componente. Como radical à esquerda, assume a forma 衤. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **衣** — U+8863 · 部首 radical: 衣 (nº 145) · 總筆畫 strokes: 6 · 注音 zhuyin: ㄧ · 拼音 pinyin: yī (também yì) / jyutping: ji1
 
