@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 24 (十, dez). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 24 (十, dez). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **十** — U+5341 · 部首 radical: 十 (nº 24) · 總筆畫 strokes: 2 · 注音 zhuyin: ㄕˊ · 拼音 pinyin: shí / jyutping: sap6
 
