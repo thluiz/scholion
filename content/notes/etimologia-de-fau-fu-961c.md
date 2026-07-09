@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 170 (阜, monte / colina); o chardb lista 481 caracteres que o contêm como componente. Como radical à esquerda, assume a forma 阝 — o chamado 左耳旁 ("o 'orelha' à esquerda"). Essa forma é homógrafa do 阝 que aparece à direita dos caracteres, mas este último é a forma reduzida do radical nº 163 (邑, cidade / povoado, o 右耳旁): mesmo traçado, dois radicais distintos, distinguidos apenas pela posição — ver [Etimologia de 邑](/notes/etimologia-de-jap-yi-9091/). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 170 (阜, monte / colina); o chardb lista 481 caracteres que o contêm como componente. Como radical à esquerda, assume a forma 阝 — o chamado 左耳旁 ("o 'orelha' à esquerda"). Essa forma é homógrafa do 阝 que aparece à direita dos caracteres, mas este último é a forma reduzida do radical nº 163 (邑, cidade / povoado, o 右耳旁): mesmo traçado, dois radicais distintos, distinguidos apenas pela posição — ver [Etimologia de 邑](/notes/etimologia-de-jap-yi-9091/). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **阜** — U+961C · 部首 radical: 阜 (nº 170) · 總筆畫 strokes: 8 · 注音 zhuyin: ㄈㄨˋ · 拼音 pinyin: fù / jyutping: fau6
 
