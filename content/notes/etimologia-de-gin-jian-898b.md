@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 147 (見, ver). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 147 (見, ver). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **見** — U+898B · 部首 radical: 見 (nº 147) · 總筆畫 strokes: 7 · 注音 zhuyin: ㄐㄧㄢˋ · 拼音 pinyin: jiàn / jyutping: gin3
 
