@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 155 (赤, vermelho). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 155 (赤, vermelho). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **赤** — U+8D64 · 部首 radical: 赤 (nº 155) · 總筆畫 strokes: 7 · 注音 zhuyin: ㄔˋ · 拼音 pinyin: chì / jyutping: cek3
 
