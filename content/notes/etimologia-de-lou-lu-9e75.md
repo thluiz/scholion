@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 197 (鹵, sal / terra salina). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 197 (鹵, sal / terra salina). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **鹵** — U+9E75 · 部首 radical: 鹵 (nº 197) · 總筆畫 strokes: 11 · 注音 zhuyin: ㄌㄨˇ · 拼音 pinyin: lǔ / jyutping: lou5
 
