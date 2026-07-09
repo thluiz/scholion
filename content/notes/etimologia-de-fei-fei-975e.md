@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 175 (非, não/errado). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 175 (非, não/errado). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **非** — U+975E · 部首 radical: 非 (nº 175) · 總筆畫 strokes: 8 · 注音 zhuyin: ㄈㄟ · 拼音 pinyin: fēi / jyutping: fei1
 
