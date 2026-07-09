@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 25 (卜, adivinhação). Tem por variantes gráficas ⺊ (forma antiga registrada como componente) e a forma 古文 (grafia arcaica) 𠁡, atestada pelo Shuowen. Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 25 (卜, adivinhação). Tem por variantes gráficas ⺊ (forma antiga registrada como componente) e a forma 古文 (grafia arcaica) 𠁡, atestada pelo Shuowen. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **卜** — U+535C · 部首 radical: 卜 (nº 25) · 總筆畫 strokes: 2 · 注音 zhuyin: ㄅㄨˇ · 拼音 pinyin: bǔ / jyutping: buk1 / baak6
 
