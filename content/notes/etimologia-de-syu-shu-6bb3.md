@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 79 (殳, arma). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 79 (殳, arma). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **殳** — U+6BB3 · 部首 radical: 殳 (nº 79) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄕㄨ · 拼音 pinyin: shū / jyutping: syu4
 
