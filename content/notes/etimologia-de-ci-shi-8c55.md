@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 152 (豕, porco). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 152 (豕, porco). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **豕** — U+8C55 · 部首 radical: 豕 (nº 152) · 總筆畫 strokes: 7 · 注音 zhuyin: ㄕˇ · 拼音 pinyin: shǐ / jyutping: ci2
 
