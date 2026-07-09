@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 94 (犬, cão); o chardb lista 636 caracteres que o contêm como componente. Como radical lateral, à esquerda, assume a forma 犭 (犬字旁) — a hanziyuan registra que "in context written as 犭" e a CUHK confirma o mesmo. Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 94 (犬, cão); o chardb lista 636 caracteres que o contêm como componente. Como radical lateral, à esquerda, assume a forma 犭 (犬字旁) — a hanziyuan registra que "in context written as 犭" e a CUHK confirma o mesmo. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **犬** — U+72AC · 部首 radical: 犬 (nº 94) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄑㄩㄢˇ · 拼音 pinyin: quǎn / jyutping: hyun2
 
