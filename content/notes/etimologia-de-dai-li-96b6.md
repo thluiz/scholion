@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 171 (隶, alcançar/apanhar). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 171 (隶, alcançar/apanhar). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **隶** — U+96B6 · 部首 radical: 隶 (nº 171) · 總筆畫 strokes: 8 · 注音 zhuyin: ㄉㄞˋ · 拼音 pinyin: lì / jyutping: dai6
 
