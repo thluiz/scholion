@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 157 (足, pé); o chardb lista 744 caracteres que o contêm como componente. O caractere carrega duas leituras de sentido contrário ao núcleo "pé/suficiência": zú "pé; bastante; pleno" e a leitura alternativa jù "excessivo". Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 157 (足, pé); o chardb lista 744 caracteres que o contêm como componente. O caractere carrega duas leituras de sentido contrário ao núcleo "pé/suficiência": zú "pé; bastante; pleno" e a leitura alternativa jù "excessivo". Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **足** — U+8DB3 · 部首 radical: 足 (nº 157) · 總筆畫 strokes: 7 · 注音 zhuyin: ㄗㄨˊ · 拼音 pinyin: zú / jù · jyutping: zuk1
 
