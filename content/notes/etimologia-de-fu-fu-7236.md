@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 88 (父, pai). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 88 (父, pai). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **父** — U+7236 · 部首 radical: 父 (nº 88) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄈㄨˋ · 拼音 pinyin: fù / jyutping: fu6
 
