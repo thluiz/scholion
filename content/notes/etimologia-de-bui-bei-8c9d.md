@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 154 (貝, búzio/concha), pictograma de uma concha de cauri (cowrie) e base semântica dos caracteres ligados a dinheiro, valor e comércio — porque a concha foi a moeda mais antiga da China: o chardb lista 432 caracteres que o contêm como componente. A forma simplificada é 贝 (U+8D1D). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 154 (貝, búzio/concha), pictograma de uma concha de cauri (cowrie) e base semântica dos caracteres ligados a dinheiro, valor e comércio — porque a concha foi a moeda mais antiga da China: o chardb lista 432 caracteres que o contêm como componente. A forma simplificada é 贝 (U+8D1D). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **貝** — U+8C9D · 部首 radical: 貝 (nº 154) · 總筆畫 strokes: 7 · 注音 zhuyin: ㄅㄟˋ · 拼音 pinyin: bèi / jyutping: bui3
 
