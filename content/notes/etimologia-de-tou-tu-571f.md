@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 32 (土, terra); o chardb lista 1.053 caracteres que o contêm como componente. Em sua forma plena, 土 não muda ao entrar na composição; o grafismo aparenta-se a 士 (estudioso/oficial), do qual se distingue pelo traço superior mais curto. Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 32 (土, terra); o chardb lista 1.053 caracteres que o contêm como componente. Em sua forma plena, 土 não muda ao entrar na composição; o grafismo aparenta-se a 士 (estudioso/oficial), do qual se distingue pelo traço superior mais curto. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **土** — U+571F · 部首 radical: 土 (nº 32) · 總筆畫 strokes: 3 · 注音 zhuyin: ㄊㄨˇ · 拼音 pinyin: tǔ / jyutping: tou2
 
