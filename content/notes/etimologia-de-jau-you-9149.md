@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 164 (酉, vinho). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 164 (酉, vinho). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **酉** — U+9149 · 部首 radical: 酉 (nº 164) · 總筆畫 strokes: 7 · 注音 zhuyin: ㄧㄡˇ · 拼音 pinyin: yǒu / jyutping: jau5
 
