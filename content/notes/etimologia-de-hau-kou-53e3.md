@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 30 (口, boca); o chardb lista 1.754 caracteres que o contêm como componente. Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 30 (口, boca); o chardb lista 1.754 caracteres que o contêm como componente. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **口** — U+53E3 · 部首 radical: 口 (nº 30) · 總筆畫 strokes: 3 · 注音 zhuyin: ㄎㄡˇ · 拼音 pinyin: kǒu / jyutping: hau2
 
