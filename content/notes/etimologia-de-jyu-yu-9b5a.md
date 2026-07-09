@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 195 (魚, peixe); o chardb lista 82 caracteres que o contêm como componente. É a chave genérica dos peixes e de boa parte dos animais aquáticos. A forma simplificada é 鱼 (U+9C7C). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 195 (魚, peixe); o chardb lista 82 caracteres que o contêm como componente. É a chave genérica dos peixes e de boa parte dos animais aquáticos. A forma simplificada é 鱼 (U+9C7C). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **魚** — U+9B5A · 部首 radical: 魚 (nº 195) · 總筆畫 strokes: 11 · 注音 zhuyin: ㄩˊ · 拼音 pinyin: yú / jyutping: jyu4
 
