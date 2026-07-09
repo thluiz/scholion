@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 130 (肉, carne); o chardb lista 409 caracteres que o contêm como componente. Como radical lateral, assume a forma ⺼, graficamente idêntica ao radical nº 74, 月 (lua) — uma colisão gráfica que separa as duas chaves só pela posição e pelo sentido (ver Divergências). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 130 (肉, carne); o chardb lista 409 caracteres que o contêm como componente. Como radical lateral, assume a forma ⺼, graficamente idêntica ao radical nº 74, 月 (lua) — uma colisão gráfica que separa as duas chaves só pela posição e pelo sentido (ver Divergências). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **肉** — U+8089 · 部首 radical: 肉 (nº 130) · 總筆畫 strokes: 6 · 注音 zhuyin: ㄖㄡˋ · 拼音 pinyin: ròu / jyutping: juk6
 
