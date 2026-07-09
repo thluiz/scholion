@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 183 (飛, voar). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 183 (飛, voar). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **飛** — U+98DB · 部首 radical: 飛 (nº 183) · 總筆畫 strokes: 9 · 注音 zhuyin: ㄈㄟ · 拼音 pinyin: fēi / jyutping: fei1
 
