@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 121 (缶, vaso de barro). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 121 (缶, vaso de barro). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **缶** — U+7F36 · 部首 radical: 缶 (nº 121) · 總筆畫 strokes: 6 · 注音 zhuyin: ㄈㄡˇ · 拼音 pinyin: fǒu / jyutping: fau2
 
