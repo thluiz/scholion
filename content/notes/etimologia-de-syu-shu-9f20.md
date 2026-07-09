@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 208 (鼠, rato/camundongo). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 208 (鼠, rato/camundongo). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **鼠** — U+9F20 · 部首 radical: 鼠 (nº 208) · 總筆畫 strokes: 13 · 注音 zhuyin: ㄕㄨˇ · 拼音 pinyin: shǔ / jyutping: syu2
 
