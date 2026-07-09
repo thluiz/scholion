@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 193 (鬲, caldeirão/vaso trípode). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 193 (鬲, caldeirão/vaso trípode). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **鬲** — U+9B32 · 部首 radical: 鬲 (nº 193) · 總筆畫 strokes: 10 · 注音 zhuyin: ㄌㄧˋ · 拼音 pinyin: gé / jyutping: gaak3
 
