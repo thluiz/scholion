@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 56 (弋, estaca). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 56 (弋, estaca). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **弋** — U+5F0B · 部首 radical: 弋 (nº 56) · 總筆畫 strokes: 3 · 注音 zhuyin: ㄧˋ · 拼音 pinyin: yì / jyutping: jik6
 
