@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 211 (齒, dente). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 211 (齒, dente). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **齒** — U+9F52 · 部首 radical: 齒 (nº 211) · 總筆畫 strokes: 15 · 注音 zhuyin: ㄔˇ · 拼音 pinyin: chǐ / jyutping: ci2
 
