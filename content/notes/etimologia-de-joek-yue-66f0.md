@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 73 (曰, dizer). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 73 (曰, dizer). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **曰** — U+66F0 · 部首 radical: 曰 (nº 73) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄩㄝ · 拼音 pinyin: yuē / jyutping: joek6
 
