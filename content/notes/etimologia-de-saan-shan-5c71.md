@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 46 (山, montanha); o chardb lista 1.009 caracteres que o contêm como componente. É um dos radicais que mantém a mesma forma em qualquer posição — sem variante gráfica abreviada. Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 46 (山, montanha); o chardb lista 1.009 caracteres que o contêm como componente. É um dos radicais que mantém a mesma forma em qualquer posição — sem variante gráfica abreviada. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **山** — U+5C71 · 部首 radical: 山 (nº 46) · 總筆畫 strokes: 3 · 注音 zhuyin: ㄕㄢ · 拼音 pinyin: shān / jyutping: saan1
 
