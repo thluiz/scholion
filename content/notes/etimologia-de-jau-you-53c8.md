@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 29 (又, mão direita). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 29 (又, mão direita). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **又** — U+53C8 · 部首 radical: 又 (nº 29) · 總筆畫 strokes: 2 · 注音 zhuyin: ㄧㄡˋ · 拼音 pinyin: yòu / jyutping: jau6
 
