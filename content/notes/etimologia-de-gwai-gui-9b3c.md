@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 194 (鬼, fantasma/espírito). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 194 (鬼, fantasma/espírito). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **鬼** — U+9B3C · 部首 radical: 鬼 (nº 194) · 總筆畫 strokes: 9 · 注音 zhuyin: ㄍㄨㄟˇ · 拼音 pinyin: guǐ / jyutping: gwai2
 
