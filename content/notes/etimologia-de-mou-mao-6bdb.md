@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 82 (毛, pelo). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 82 (毛, pelo). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **毛** — U+6BDB · 部首 radical: 毛 (nº 82) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄇㄠˊ · 拼音 pinyin: máo / jyutping: mou4
 
