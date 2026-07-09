@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 192 (鬯, vinho sacrificial). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 192 (鬯, vinho sacrificial). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **鬯** — U+9B2F · 部首 radical: 鬯 (nº 192) · 總筆畫 strokes: 10 · 注音 zhuyin: ㄔㄤˋ · 拼音 pinyin: chàng / jyutping: coeng3
 
