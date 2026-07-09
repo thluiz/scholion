@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 92 (牙, dente). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 92 (牙, dente). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **牙** — U+7259 · 部首 radical: 牙 (nº 92) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄧㄚˊ · 拼音 pinyin: yá / jyutping: ngaa4
 
