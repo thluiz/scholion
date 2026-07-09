@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 153 (豸, fera/inseto sem patas). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 153 (豸, fera/inseto sem patas). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **豸** — U+8C78 · 部首 radical: 豸 (nº 153) · 總筆畫 strokes: 7 · 注音 zhuyin: ㄓˋ · 拼音 pinyin: zhì / jyutping: zi6
 
