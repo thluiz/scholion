@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 139 (色, cor). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 139 (色, cor). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **色** — U+8272 · 部首 radical: 色 (nº 139) · 總筆畫 strokes: 6 · 注音 zhuyin: ㄙㄜˋ · 拼音 pinyin: sè / jyutping: sik1
 
