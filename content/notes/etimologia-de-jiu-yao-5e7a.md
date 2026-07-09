@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 52 (幺, pequeno). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 52 (幺, pequeno). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **幺** — U+5E7A · 部首 radical: 幺 (nº 52) · 總筆畫 strokes: 3 · 注音 zhuyin: ㄧㄠ · 拼音 pinyin: yāo / jyutping: jiu1
 
