@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 140 (艸, erva, capim); o chardb lista 2.263 caracteres que o contêm como componente. 艸 é a forma plena do radical, mas quase nunca aparece assim na escrita corrente: como componente, no topo dos caracteres, reduz-se a 艹 (a "relva" de três ou quatro traços) — a forma que se vê em 花, 茶, 草, 葉. A relação com 草 é outra camada da história: 草 é hoje a grafia comum da palavra "erva", mas, segundo a CUHK, 艸 é o caractere original (本字) desse sentido, e 草 originalmente escrevia outra palavra (ver abaixo). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 140 (艸, erva, capim); o chardb lista 2.263 caracteres que o contêm como componente. 艸 é a forma plena do radical, mas quase nunca aparece assim na escrita corrente: como componente, no topo dos caracteres, reduz-se a 艹 (a "relva" de três ou quatro traços) — a forma que se vê em 花, 茶, 草, 葉. A relação com 草 é outra camada da história: 草 é hoje a grafia comum da palavra "erva", mas, segundo a CUHK, 艸 é o caractere original (本字) desse sentido, e 草 originalmente escrevia outra palavra (ver abaixo). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **艸** — U+8278 · 部首 radical: 艸 (nº 140) · 總筆畫 strokes: 6 · 注音 zhuyin: ㄘㄠˇ · 拼音 pinyin: cǎo / jyutping: cou2
 
