@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 76 (欠, bocejar). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 76 (欠, bocejar). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **欠** — U+6B20 · 部首 radical: 欠 (nº 76) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄑㄧㄢˋ · 拼音 pinyin: qiàn / jyutping: him3
 
