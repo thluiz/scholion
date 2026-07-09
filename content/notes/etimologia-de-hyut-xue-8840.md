@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 143 (血, sangue). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 143 (血, sangue). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **血** — U+8840 · 部首 radical: 血 (nº 143) · 總筆畫 strokes: 6 · 注音 zhuyin: ㄒㄩㄝˋ · 拼音 pinyin: xuè / jyutping: hyut3
 
