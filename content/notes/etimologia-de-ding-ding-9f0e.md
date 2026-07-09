@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 206 (鼎, caldeirão ritual). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 206 (鼎, caldeirão ritual). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **鼎** — U+9F0E · 部首 radical: 鼎 (nº 206) · 總筆畫 strokes: 13 · 注音 zhuyin: ㄉㄧㄥˇ · 拼音 pinyin: dǐng / jyutping: ding2
 
