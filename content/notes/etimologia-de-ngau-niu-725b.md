@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 93 (牛, boi); o chardb lista 337 caracteres que o contêm como componente. À esquerda de um caractere composto, o radical assume a forma lateral 牜 (atestada no hanziyuan como grafia antiga e na decomposição do chardb). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 93 (牛, boi); o chardb lista 337 caracteres que o contêm como componente. À esquerda de um caractere composto, o radical assume a forma lateral 牜 (atestada no hanziyuan como grafia antiga e na decomposição do chardb). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **牛** — U+725B · 部首 radical: 牛 (nº 93) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄋㄧㄡˊ · 拼音 pinyin: niú / jyutping: ngau4
 
