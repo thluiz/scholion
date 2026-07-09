@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 142 (虫, originalmente uma víbora; modernamente "bicho", "inseto"); o chardb lista 1.204 caracteres que o contêm como componente. O caractere carrega duas histórias sobrepostas: na origem é 虫 huǐ, uma serpente venenosa, lido com a inicial 曉 e tom ascendente; modernamente funde-se com 蟲 chóng ("inseto", "bicho") e funciona como sua forma simplificada e como o radical genérico das criaturas. Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 142 (虫, originalmente uma víbora; modernamente "bicho", "inseto"); o chardb lista 1.204 caracteres que o contêm como componente. O caractere carrega duas histórias sobrepostas: na origem é 虫 huǐ, uma serpente venenosa, lido com a inicial 曉 e tom ascendente; modernamente funde-se com 蟲 chóng ("inseto", "bicho") e funciona como sua forma simplificada e como o radical genérico das criaturas. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **虫** — U+866B · 部首 radical: 虫 (nº 142) · 總筆畫 strokes: 6 · 注音 zhuyin: ㄏㄨㄟˇ (huǐ) / ㄔㄨㄥˊ (chóng) · 拼音 pinyin: huǐ / chóng · jyutping: wai2 (víbora) / cung4 (inseto)
 
