@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-gei-ji-51e0"
+  },
+  {
     "date": "2026-07-05",
     "subject": "feat: etimologia de 几 (radical Kangxi 16)"
   }

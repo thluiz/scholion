@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-coeng-chang-9b2f"
+  },
+  {
     "date": "2026-07-07",
     "subject": "feat: etimologia de 鬯 (radical Kangxi 192)"
   }

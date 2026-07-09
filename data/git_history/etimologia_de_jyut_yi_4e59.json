@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-jyut-yi-4e59"
+  },
+  {
     "date": "2026-07-04",
     "subject": "feat: etimologia de 乙 (radical Kangxi 5)"
   }

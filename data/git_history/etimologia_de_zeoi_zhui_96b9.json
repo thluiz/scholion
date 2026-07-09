@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-zeoi-zhui-96b9"
+  },
+  {
     "date": "2026-07-07",
     "subject": "feat: etimologia de 隹 (radical Kangxi 172)"
   }

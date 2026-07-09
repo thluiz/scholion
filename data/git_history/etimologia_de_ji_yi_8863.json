@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-ji-yi-8863"
+  },
+  {
     "date": "2026-07-03",
     "subject": "feat: etimologia de 衣 (radical Kangxi 145)"
   }

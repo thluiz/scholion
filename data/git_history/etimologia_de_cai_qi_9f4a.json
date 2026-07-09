@@ -1,14 +1,14 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-cai-qi-9f4a"
+  },
+  {
     "date": "2026-07-07",
     "subject": "fix: traducao natural de 吐穗 (espiga desponta) e espacamento CJK na nota de 齊"
   },
   {
     "date": "2026-07-07",
     "subject": "fix: corrige traducao anacronica de 禾麥 na nota de 齊"
-  },
-  {
-    "date": "2026-07-07",
-    "subject": "feat: etimologia de 齊 (radical Kangxi 210)"
   }
 ]

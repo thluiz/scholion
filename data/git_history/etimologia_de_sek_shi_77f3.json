@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-sek-shi-77f3"
+  },
+  {
     "date": "2026-06-16",
     "subject": "feat: etimologia de 石 (radical Kangxi 112)"
   }

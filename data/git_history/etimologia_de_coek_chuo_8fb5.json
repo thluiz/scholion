@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-coek-chuo-8fb5"
+  },
+  {
     "date": "2026-06-25",
     "subject": "feat: etimologia de 辵 (radical Kangxi 162)"
   }

@@ -1,14 +1,14 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-ngaa-ya-7259"
+  },
+  {
     "date": "2026-07-07",
     "subject": "fix: remove \"dente do siso\" nao atestado na glosa de 牙"
   },
   {
     "date": "2026-07-07",
     "subject": "fix: regenera etimologia de 牙 (auditoria de fontes, radical Kangxi 92)"
-  },
-  {
-    "date": "2026-07-06",
-    "subject": "historicos"
   }
 ]

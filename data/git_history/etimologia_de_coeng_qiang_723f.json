@@ -1,14 +1,14 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-coeng-qiang-723f"
+  },
+  {
     "date": "2026-07-07",
     "subject": "fix: lexico PT-BR (PT-EU) em etimologia-de-coeng-qiang-723f"
   },
   {
     "date": "2026-07-07",
     "subject": "fix: regenera etimologia de 爿 (auditoria de fontes, radical Kangxi 90)"
-  },
-  {
-    "date": "2026-07-07",
-    "subject": "fix: regenera etimologia de 白 (auditoria de fontes, radical Kangxi 106)"
   }
 ]

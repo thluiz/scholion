@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-ci-chi-9f52"
+  },
+  {
     "date": "2026-07-07",
     "subject": "feat: etimologia de 齒 (radical Kangxi 211)"
   }

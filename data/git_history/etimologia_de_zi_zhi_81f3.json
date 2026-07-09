@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-zi-zhi-81f3"
+  },
+  {
     "date": "2026-07-07",
     "subject": "feat: etimologia de 至 (radical Kangxi 133)"
   }

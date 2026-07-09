@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-zuk-zhu-7af9"
+  },
+  {
     "date": "2026-06-18",
     "subject": "feat: etimologia de 竹 (radical Kangxi 118)"
   }

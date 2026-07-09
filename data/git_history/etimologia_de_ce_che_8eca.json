@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-ce-che-8eca"
+  },
+  {
     "date": "2026-07-04",
     "subject": "feat: etimologia de 車 (radical Kangxi 159)"
   }

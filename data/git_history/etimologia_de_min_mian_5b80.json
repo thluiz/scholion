@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-min-mian-5b80"
+  },
+  {
     "date": "2026-06-26",
     "subject": "feat: etimologia de 宀 (radical Kangxi 40)"
   }

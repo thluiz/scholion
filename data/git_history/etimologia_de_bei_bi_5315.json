@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-bei-bi-5315"
+  },
+  {
     "date": "2026-07-06",
     "subject": "feat: etimologia de 匕 (radical Kangxi 21)"
   }

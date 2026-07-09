@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-09",
+    "subject": "fix: remove frase padrao de abertura em etimologia-de-sap-shi-5341"
+  },
+  {
     "date": "2026-07-06",
     "subject": "feat: etimologia de 十 (radical Kangxi 24)"
   }
