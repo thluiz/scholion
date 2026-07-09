@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 74 (月, lua); o chardb registra 661 caracteres que o contêm como condição de busca. Atenção a uma ambiguidade gráfica recorrente: o componente 月 que aparece à esquerda ou embaixo de muitos caracteres nem sempre é a "lua" — frequentemente é a forma reduzida de 肉 "carne" (a chamada 肉月旁 ou ⺼), e em outros casos remonta a 舟 "barco", 貝, 井 ou 冃. As fontes registram essa convergência gráfica explicitamente (ver abaixo). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 74 (月, lua); o chardb registra 661 caracteres que o contêm como condição de busca. Atenção a uma ambiguidade gráfica recorrente: o componente 月 que aparece à esquerda ou embaixo de muitos caracteres nem sempre é a "lua" — frequentemente é a forma reduzida de 肉 "carne" (a chamada 肉月旁 ou ⺼), e em outros casos remonta a 舟 "barco", 貝, 井 ou 冃. As fontes registram essa convergência gráfica explicitamente (ver abaixo). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **月** — U+6708 · 部首 radical: 月 (nº 74) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄩㄝˋ · 拼音 pinyin: yuè / jyutping: jyut6
 
