@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 159 (車, carro/veículo); o chardb registra 556 caracteres que o contêm como componente. Carrega duas leituras herdadas do chinês antigo: chē (o veículo em geral) e jū (a carruagem de guerra e, no xadrez chinês, a torre). Na escrita simplificada, o caractere e o radical assumem a forma 车. Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 159 (車, carro/veículo); o chardb registra 556 caracteres que o contêm como componente. Carrega duas leituras herdadas do chinês antigo: chē (o veículo em geral) e jū (a carruagem de guerra e, no xadrez chinês, a torre). Na escrita simplificada, o caractere e o radical assumem a forma 车. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **車** — U+8ECA · 部首 radical: 車 (nº 159) · 總筆畫 strokes: 7 · 注音 zhuyin: ㄔㄜ · 拼音 pinyin: chē / jū / jyutping: ce1 (literário geoi1)
 
