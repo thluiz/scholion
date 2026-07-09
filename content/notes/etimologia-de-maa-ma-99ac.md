@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 187 (馬, cavalo); o chardb lista 648 caracteres que o contêm como componente. É a chave genérica do cavalo e de termos ligados à montaria, à cavalaria e à criação equina. A forma simplificada é 马 (U+9A6C). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 187 (馬, cavalo); o chardb lista 648 caracteres que o contêm como componente. É a chave genérica do cavalo e de termos ligados à montaria, à cavalaria e à criação equina. A forma simplificada é 马 (U+9A6C). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **馬** — U+99AC · 部首 radical: 馬 (nº 187) · 總筆畫 strokes: 10 · 注音 zhuyin: ㄇㄚˇ · 拼音 pinyin: mǎ / jyutping: maa5
 
