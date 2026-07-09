@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 69 (斤, machado). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 69 (斤, machado). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **斤** — U+65A4 · 部首 radical: 斤 (nº 69) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄐㄧㄣ · 拼音 pinyin: jīn / jyutping: gan1
 
