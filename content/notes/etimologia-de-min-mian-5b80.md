@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 40 (宀, teto / casa); o chardb lista 415 caracteres que o contêm como componente. Como radical de topo — o chamado 寶蓋頭 ("o telhado", literalmente "o coberto precioso de topo") —, encima caracteres como 家 (casa), 安 (paz / segurança) e 定 (fixar). É um componente: não circula como caractere pleno isolado, e o MDBG o registra apenas como "radical do teto". Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 40 (宀, teto / casa); o chardb lista 415 caracteres que o contêm como componente. Como radical de topo — o chamado 寶蓋頭 ("o telhado", literalmente "o coberto precioso de topo") —, encima caracteres como 家 (casa), 安 (paz / segurança) e 定 (fixar). É um componente: não circula como caractere pleno isolado, e o MDBG o registra apenas como "radical do teto". Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **宀** — U+5B80 · 部首 radical: 宀 (nº 40) · 總筆畫 strokes: 3 · 注音 zhuyin: ㄇㄧㄢˊ · 拼音 pinyin: mián / jyutping: min4
 
