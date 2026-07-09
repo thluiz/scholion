@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 65 (支, ramo). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 65 (支, ramo). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **支** — U+652F · 部首 radical: 支 (nº 65) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄓ · 拼音 pinyin: zhī / jyutping: zi1
 
