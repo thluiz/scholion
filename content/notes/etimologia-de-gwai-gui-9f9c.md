@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 213 (龜, tartaruga/cágado). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 213 (龜, tartaruga/cágado). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **龜** — U+9F9C · 部首 radical: 龜 (nº 213) · 總筆畫 strokes: 16 · 注音 zhuyin: ㄍㄨㄟ · 拼音 pinyin: guī / jyutping: gwai1
 
