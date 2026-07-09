@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 63 (戶, porta). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 63 (戶, porta). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **戶** — U+6236 · 部首 radical: 戶 (nº 63) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄏㄨˋ · 拼音 pinyin: hù / jyutping: wu6
 
