@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 113 (示, mostrar / assuntos divinos), a chave que reúne os caracteres ligados ao culto, ao sagrado e aos espíritos: o chardb lista 341 caracteres que o contêm como componente. Como radical à esquerda, assume a forma 礻 (quatro traços, chamada 示字旁). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 113 (示, mostrar / assuntos divinos), a chave que reúne os caracteres ligados ao culto, ao sagrado e aos espíritos: o chardb lista 341 caracteres que o contêm como componente. Como radical à esquerda, assume a forma 礻 (quatro traços, chamada 示字旁). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **示** — U+793A · 部首 radical: 示 (nº 113) · 總筆畫 strokes: 5 · 注音 zhuyin: ㄕˋ · 拼音 pinyin: shì / jyutping: si6
 
