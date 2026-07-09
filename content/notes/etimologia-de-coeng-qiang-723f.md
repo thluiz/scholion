@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 90 (爿, lasca de madeira — "piece of wood" radical, MDBG). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 90 (爿, lasca de madeira — "piece of wood" radical, MDBG). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **爿** — U+723F · 部首 radical: 爿 (nº 90) · 總筆畫 strokes: 4 · 注音 zhuyin: (não obtido — não consta nos dados) · 拼音 pinyin: qiáng / jyutping: coeng4
 
