@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 210 (齊, nivelado/igual). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 210 (齊, nivelado/igual). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **齊** — U+9F4A · 部首 radical: 齊 (nº 210) · 總筆畫 strokes: 14 · 注音 zhuyin: ㄑㄧˊ · 拼音 pinyin: qí / jyutping: cai4
 
