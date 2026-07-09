@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 97 (瓜, melão/abóbora). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 97 (瓜, melão/abóbora). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **瓜** — U+74DC · 部首 radical: 瓜 (nº 97) · 總筆畫 strokes: 5 · 注音 zhuyin: ㄍㄨㄚ · 拼音 pinyin: guā / jyutping: gwaa1
 
