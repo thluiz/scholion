@@ -30,17 +30,17 @@ sources:
 
 Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são primitivos de traço e componentes gráficos que funcionam quase só como chave de indexação (丨 丶 丿 亅 亠 儿 冂 冖 冫 凵 勹 匚 匸 卩 厶 囗 夂 夊 尢 屮 巛 廴 廾 彐 彡 彳 疒 癶 禸 舛 虍 襾 釆). Em vez de uma nota de etimologia por caractere, este glossário reúne um verbete compacto para cada um, com as mesmas fontes e regras das notas individuais. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
-### 丨 — radical 2 (gun)
+### 丨 : Traço vertical (gun)
 
-**丨** — U+4E28 · 總筆畫 strokes: 1 · 拼音 pinyin: gǔn, shù
+**丨** — radical 2 · U+4E28 · 總筆畫 strokes: 1 · 拼音 pinyin: gǔn, shù
 
 **Glosa**: radical em caracteres chineses; traço vertical; de cima a baixo, atravessar/comunicar
 
 **說文**: 《說文》：“丨，上下通也。引而上行，讀若囟；引而下行，讀若𨓆。” (“丨” significa que de cima a baixo há comunicação/passagem. Quando se prolonga para cima, lê-se como 囟; quando se prolonga para baixo, lê-se como 𨓆.)
 
-### 丶 — radical 3 (zhu)
+### 丶 : Ponto (zhu)
 
-**丶** — U+4E36 · 總筆畫 strokes: 1 · 拼音 pinyin: zhǔ
+**丶** — radical 3 · U+4E36 · 總筆畫 strokes: 1 · 拼音 pinyin: zhǔ
 
 **Glosa**: radical “dot” em caracteres chineses; sinal de pontuação para marcar pausa na leitura; também 同「主」、同「注」、姓
 
@@ -50,9 +50,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: também chamado 點｜点 (MDBG).
 
-### 丿 — radical 4 (pie)
+### 丿 : Traço inclinado (pie)
 
-**丿** — U+4E3F · 總筆畫 strokes: 1 · 拼音 pinyin: piě
+**丿** — radical 4 · U+4E3F · 總筆畫 strokes: 1 · 拼音 pinyin: piě
 
 **Glosa**: radical em caracteres chineses (radical Kangxi 4); tipo de traço de hanzi; chegar a
 
@@ -60,9 +60,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: No Shuowen, 「凡丿之屬皆從丿」 (“todos os caracteres deste grupo tomam 丿 como componente”).
 
-### 亅 — radical 6 (jue)
+### 亅 : Traço com gancho (jue)
 
-**亅** — U+4E85 · 總筆畫 strokes: 1 · 拼音 pinyin: jué · jyutping: 
+**亅** — radical 6 · U+4E85 · 總筆畫 strokes: 1 · 拼音 pinyin: jué · jyutping: 
 
 **Glosa**: radical “traço vertical com gancho” nos caracteres chineses; também chamado 豎鉤／竖钩
 
@@ -72,9 +72,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: No Shuowen: “凡亅之屬皆從亅。” MDBG o define como radical “vertical stroke with hook” (Kangxi radical 6), aka 豎鉤／竖钩.
 
-### 亠 — radical 8 (tou)
+### 亠 : Tampa (tou)
 
-**亠** — U+4EA0 · 總筆畫 strokes: 2 · 拼音 pinyin: tóu
+**亠** — radical 8 · U+4EA0 · 總筆畫 strokes: 2 · 拼音 pinyin: tóu
 
 **Glosa**: radical “lid” em caracteres chineses (Kangxi radical 8)
 
@@ -82,9 +82,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: Hanziyuan registra: “head and solders in 亦夜亱𡖍”, “roof in 京高㐭亨𠅠享亯”, “person in 疒疾”, “other 亡主亩亹雍庄”.
 
-### 儿 — radical 10 (er)
+### 儿 : Criança / pernas (er)
 
-**儿** — U+513F · 總筆畫 strokes: 2 · 拼音 pinyin: ér, r · jyutping: jan4, ji4, ngai4
+**儿** — radical 10 · U+513F · 總筆畫 strokes: 2 · 拼音 pinyin: ér, r · jyutping: jan4, ji4, ngai4
 
 **Glosa**: criança; filho; sufixo diminutivo não silábico; final retroflexo
 
@@ -94,9 +94,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: CUHK: “rad. KangXi radical 10”. CUHK também registra “部首;同『人』”.
 
-### 冂 — radical 13 (jiong)
+### 冂 : Fronteira distante (jiong)
 
-**冂** — U+5182 · 總筆畫 strokes: 2 · 拼音 pinyin: jiōng · jyutping: gwing1
+**冂** — radical 13 · U+5182 · 總筆畫 strokes: 2 · 拼音 pinyin: jiōng · jyutping: gwing1
 
 **Glosa**: radical em caracteres chineses (Kangxi radical 13); nome do radical: 同字框; “扃”之初文; arrabalde distante, longe, vazio
 
@@ -106,9 +106,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: MDBG: ocorre em 用、同、網｜网等，稱為同字框。CUHK: 「高」字從「冂」象高堂上有建築之形；「尚」、「常」、「嘗」、「堂」等皆從「冂」聲。
 
-### 冖 — radical 14 (mi)
+### 冖 : Cobertura (mi)
 
-**冖** — U+5196 · 總筆畫 strokes: 2 · 拼音 pinyin: mì
+**冖** — radical 14 · U+5196 · 總筆畫 strokes: 2 · 拼音 pinyin: mì
 
 **Glosa**: “cover” radical em caracteres chineses; cobertura, cobrir; ocorre em 軍｜军, 冠 etc.; também chamado 禿寶蓋／秃宝盖 ou 平寶蓋／平宝盖
 
@@ -118,9 +118,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: MDBG: é o radical “cover” (Kangxi radical 14), ocorrendo em 軍｜军, 冠 etc. Hanziyuan: 字形分解说明 registra ocorrências e relações em 「冥𠖇、冠、寫、冗宂、冤寃𡨘」 e nota 「(勹 in 軍)」.
 
-### 冫 — radical 15 (bing)
+### 冫 : Gelo (bing)
 
-**冫** — U+51AB · 總筆畫 strokes: 2 · 拼音 pinyin: bīng · jyutping: 
+**冫** — radical 15 · U+51AB · 總筆畫 strokes: 2 · 拼音 pinyin: bīng · jyutping: 
 
 **Glosa**: “ice” radical em caracteres chineses; água congelada em estado sólido; forma variante lateral de 「冰」; nome do radical 兩點水
 
@@ -130,9 +130,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: MDBG: ocorre em 冰, 次 etc., conhecido como 兩點水／两点水. Chardb: 「冰」的偏旁異寫。 Hanziyuan: aparece com 冫 ou 氵 em 冲、凑、减、净、决、况、凉、冺、凄、准; só com 冫 em 凋、冻、冮、冷、冽、凜、凌、凝、凘、凇、冼、冶、凉; em 次, o componente é 冫, não 㳄.
 
-### 凵 — radical 17 (kan)
+### 凵 : Receptáculo (kan)
 
-**凵** — U+51F5 · 總筆畫 strokes: 2 · 拼音 pinyin: kǎn · jyutping: ham2, ham3, jyu1, tam5
+**凵** — radical 17 · U+51F5 · 總筆畫 strokes: 2 · 拼音 pinyin: kǎn · jyutping: ham2, ham3, jyu1, tam5
 
 **Glosa**: receptáculo; abrir a boca; antigo poço/cova; radical Kangxi 17
 
@@ -142,9 +142,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: 凡凵之屬皆从凵。CUHK registra o uso como 部首 e relaciona os caracteres 氹、坎、水、凼.
 
-### 勹 — radical 20 (bao)
+### 勹 : Envolver (bao)
 
-**勹** — U+52F9 · 總筆畫 strokes: 2 · 拼音 pinyin: bāo · jyutping: 
+**勹** — radical 20 · U+52F9 · 總筆畫 strokes: 2 · 拼音 pinyin: bāo · jyutping: 
 
 **Glosa**: variante antiga de 包; “embrulhar, envolver”.
 
@@ -154,9 +154,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: hanziyuan: 「凡勹之屬皆從勹」; dá exemplos de composição em 「包訇匈匋匐匍甸 冢𠣥」、「匀勻均」、「勺」、「匄匃」、「刍芻禹匊」、「勿匆」、「句勾」、「𦉶」、「旬」.
 
-### 匚 — radical 22 (fang)
+### 匚 : Caixa aberta (fang)
 
-**匚** — U+531A · 總筆畫 strokes: 2 · 拼音 pinyin: fāng · jyutping: fong1
+**匚** — radical 22 · U+531A · 總筆畫 strokes: 2 · 拼音 pinyin: fāng · jyutping: fong1
 
 **Glosa**: radical “caixa aberta à direita”; antiga espécie de recipiente quadrangular para conter coisas; também variante de 匸
 
@@ -166,9 +166,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: MDBG registra ocorrência em 区、医、匹等。 CUHK distingue 「匚」（受物之器） de 「匸」（掩藏），並云凡匚之屬皆从匚。
 
-### 匸 — radical 23 (xi)
+### 匸 : Ocultar (xi)
 
-**匸** — U+5338 · 總筆畫 strokes: 2 · 拼音 pinyin: xì
+**匸** — radical 23 · U+5338 · 總筆畫 strokes: 2 · 拼音 pinyin: xì
 
 **Glosa**: radical de “cobrir” ou “ocultar” em caracteres chineses; distinto de 匚
 
@@ -178,9 +178,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: MDBG: radical “cover” or “conceal” in Chinese characters (Kangxi radical 23), distinguished from 匚.
 
-### 卩 — radical 26 (jie)
+### 卩 : Selo (jie)
 
-**卩** — U+5369 · 總筆畫 strokes: 2 · 拼音 pinyin: jié · jyutping: zit3
+**卩** — radical 26 · U+5369 · 總筆畫 strokes: 2 · 拼音 pinyin: jié · jyutping: zit3
 
 **Glosa**: radical “seal” em caracteres chineses (Kangxi radical 26); igual a「趉」
 
@@ -190,9 +190,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: CUHK registra ocorrência em 「命」、「令」、「即」等字從之. Hanziyuan: “A kneeling person facing left.”
 
-### 厶 — radical 28 (si)
+### 厶 : Privado (si)
 
-**厶** — U+53B6 · 總筆畫 strokes: 2 · 拼音 pinyin: mǒu; sī · jyutping: si1
+**厶** — radical 28 · U+53B6 · 總筆畫 strokes: 2 · 拼音 pinyin: mǒu; sī · jyutping: si1
 
 **Glosa**: variante antiga de 私; variante antiga de 某; privado, pessoal, egoísta; algum, certo, alguém/algo indefinido
 
@@ -202,9 +202,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: 說文作部首「凡厶之屬皆从厶」。Hanziyuan 字形分解列有：牟、能、勾、公、厸、台、厷、弁、𤔔、參、曑、厽、弘、畆、私、允、纟、糹、糸。
 
-### 囗 — radical 31 (wei)
+### 囗 : Cerca (wei)
 
-**囗** — U+56D7 · 總筆畫 strokes: 3 · 拼音 pinyin: wéi · jyutping: gwok3, wai4
+**囗** — radical 31 · U+56D7 · 總筆畫 strokes: 3 · 拼音 pinyin: wéi · jyutping: gwok3, wai4
 
 **Glosa**: enclosure; 同「圍」, 圍繞; 「國」的古字
 
@@ -214,9 +214,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: CUHK: “enclosure; original script for 國 and for 圍”; 部首字，凡囗之屬皆从囗。
 
-### 夂 — radical 34 (zhi)
+### 夂 : Chegar por trás (zhi)
 
-**夂** — U+5902 · 總筆畫 strokes: 3 · 拼音 pinyin: zhǐ · jyutping: 
+**夂** — radical 34 · U+5902 · 總筆畫 strokes: 3 · 拼音 pinyin: zhǐ · jyutping: 
 
 **Glosa**: componente “walk slowly” em caracteres chineses; de trás até chegar; grafia antiga de 「終」
 
@@ -226,9 +226,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: MDBG registra 夂 como o componente “walk slowly” em caracteres chineses, também chamado 冬字头. Hanziyuan: “凡夂之屬皆從夂”.
 
-### 夊 — radical 35 (sui)
+### 夊 : Andar lento (sui)
 
-**夊** — U+590A · 總筆畫 strokes: 3 · 拼音 pinyin: suī · jyutping: seoi1
+**夊** — radical 35 · U+590A · 總筆畫 strokes: 3 · 拼音 pinyin: suī · jyutping: seoi1
 
 **Glosa**: andar lentamente; aspecto de caminhar devagar; pé voltado para baixo; componente gráfico
 
@@ -238,9 +238,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: CUHK: 部件義為「foot (coming downward or closing in)」；見於從夊之字。 CantoDict: “walk slowly” component in Chinese characters; see also 冬字頭.
 
-### 尢 — radical 43 (wang)
+### 尢 : Manco (wang)
 
-**尢** — U+5C22 · 總筆畫 strokes: 3 · 拼音 pinyin: wāng · jyutping: jau4, wong1
+**尢** — radical 43 · U+5C22 · 總筆畫 strokes: 3 · 拼音 pinyin: wāng · jyutping: jau4, wong1
 
 **Glosa**: manco; coxo; o caráter original de 「尤」
 
@@ -250,9 +250,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: a CUHK o registra como 部首 e 同「尪」. O hanziyuan dá o significado original “weak, lame” (fraco; coxo).
 
-### 屮 — radical 45 (che)
+### 屮 : Broto (che)
 
-**屮** — U+5C6E · 總筆畫 strokes: 3 · 拼音 pinyin: chè · jyutping: cit3
+**屮** — radical 45 · U+5C6E · 總筆畫 strokes: 3 · 拼音 pinyin: chè · jyutping: cit3
 
 **Glosa**: brotos de plantas; grama/relva; “草”/“艸” em forma variante
 
@@ -262,9 +262,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: CUHK: rad. KangXi radical 45. Shuowen: 「凡屮之屬皆从屮。」
 
-### 巛 — radical 47 (chuan)
+### 巛 : Rio (chuan)
 
-**巛** — U+5DDB · 總筆畫 strokes: 3 · 拼音 pinyin: chuān · jyutping: cyun1
+**巛** — radical 47 · U+5DDB · 總筆畫 strokes: 3 · 拼音 pinyin: chuān · jyutping: cyun1
 
 **Glosa**: variante antiga de 川; rio, riacho; planície; área de terreno plano; antigo grafema de 鬊
 
@@ -274,9 +274,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: 凡川之屬皆从川。 《說文》以「巛」繫於「川」之相關異體。
 
-### 廴 — radical 54 (yin)
+### 廴 : Passo longo (yin)
 
-**廴** — U+5EF4 · 總筆畫 strokes: 3 · 拼音 pinyin: yǐn · jyutping: jan2
+**廴** — radical 54 · U+5EF4 · 總筆畫 strokes: 3 · 拼音 pinyin: yǐn · jyutping: jan2
 
 **Glosa**: “long stride” radical em caracteres chineses; passo longo; mesmo que 「引」, ‘abrir o arco’; estender
 
@@ -286,9 +286,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: MDBG: ocorre em 建、延、廷等. CantoDict: a radical of Chinese characters.
 
-### 廾 — radical 55 (gong)
+### 廾 : Mãos unidas (gong)
 
-**廾** — U+5EFE · 總筆畫 strokes: 3 · 拼音 pinyin: gǒng · jyutping: gung2, jaa6, je6
+**廾** — radical 55 · U+5EFE · 總筆畫 strokes: 3 · 拼音 pinyin: gǒng · jyutping: gung2, jaa6, je6
 
 **Glosa**: mãos unidas; duas mãos; usar ambas as mãos; radical Kangxi 55; também variante de 「廿」
 
@@ -298,9 +298,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: CUHK registra o sentido de 部首 e “兩手相合作禮”. Hanziyuan decompõe o componente como “from left-hand 𠂈𠂇屮 zuǒ and right-hand 又屮 yòu”, nomeando-o “two-hands-below”.
 
-### 彐 — radical 58 (ji)
+### 彐 : Focinho de porco (ji)
 
-**彐** — U+5F50 · 總筆畫 strokes: 3 · 拼音 pinyin: jì
+**彐** — radical 58 · U+5F50 · 總筆畫 strokes: 3 · 拼音 pinyin: jì
 
 **Glosa**: focinho de porco; ouriço, tipo de mamífero espinhoso
 
@@ -308,9 +308,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: No hanziyuan, aparece como componente em 芻、當／噹、掃、婦、歸、尋、穩、寢、隱; o mesmo material anota “(variant of 彑)” e “(variant of ⺕)”.
 
-### 彡 — radical 59 (shan)
+### 彡 : Pelos (shan)
 
-**彡** — U+5F61 · 總筆畫 strokes: 3 · 拼音 pinyin: shān · jyutping: 
+**彡** — radical 59 · U+5F61 · 總筆畫 strokes: 3 · 拼音 pinyin: shān · jyutping: 
 
 **Glosa**: “bristle” radical em caracteres chineses; 鬚毛及飾畫的花紋; 毛長; 毛髮貌
 
@@ -320,9 +320,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: hanziyuan: 「(- stripes in 彥彥彣彤彧彩彪彫形)」「(- water in 津𣸁𦘔修)」「(- hair in 髟尨耏須鬚)」「(- three in 曑參)」「(- beating drum in 彭)」「(- plow lines in 彬)」「(- shadow 影)」「(- phonetic san in 衫釤杉)」「(- vapor in 鬱)」「(- characters in 彰)」「(- seeds in 穆)」.
 
-### 彳 — radical 60 (chi)
+### 彳 : Passo curto (chi)
 
-**彳** — U+5F73 · 總筆畫 strokes: 3 · 拼音 pinyin: chì · jyutping: cik1
+**彳** — radical 60 · U+5F73 · 總筆畫 strokes: 3 · 拼音 pinyin: chì · jyutping: cik1
 
 **Glosa**: passo com o pé esquerdo; pequeno passo; passos alinhados sob os pés
 
@@ -332,9 +332,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: CUHK: muitos caracteres usam 「彳」 ou 「亍」 como componente; usado sozinho ou em combinação, tem o mesmo propósito de 「行」, e o referente frequentemente não é apenas o sentido de 「小步」 de Shuowen, mas de modo amplo a condição social da vida humana; exemplos dados: 「道」、「德」.
 
-### 疒 — radical 104 (ne)
+### 疒 : Doença (ne)
 
-**疒** — U+7592 · 總筆畫 strokes: 5 · 拼音 pinyin: nè, chuang2, chung · jyutping: cong4, nak6, nik6
+**疒** — radical 104 · U+7592 · 總筆畫 strokes: 5 · 拼音 pinyin: nè, chuang2, chung · jyutping: cong4, nak6, nik6
 
 **Glosa**: doente; doença; encostar-se, apoiar-se; dormência de mãos e pés; usado como radical Kangxi 104
 
@@ -344,9 +344,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: CUHK《形義通解》：後來成為漢字中一重要的部首，而凡從疒的字，多與疾病有關。
 
-### 癶 — radical 105 (bo)
+### 癶 : Pernas abertas (bo)
 
-**癶** — U+7676 · 總筆畫 strokes: 5 · 拼音 pinyin: bō · jyutping: but3, but6
+**癶** — radical 105 · U+7676 · 總筆畫 strokes: 5 · 拼音 pinyin: bō · jyutping: but3, but6
 
 **Glosa**: radical Kangxi 105, conhecido como 登字頭; pernas/pés; “duas pernas abertas para fora; 部首”; “duas pernas separadas e tortas, andar irregular”
 
@@ -356,9 +356,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: MDBG: “Kangxi radical 105, known as 登字頭｜登字头”. Hanziyuan: “Meaning a character component feet moving forward.”
 
-### 禸 — radical 114 (rou)
+### 禸 : Pisotear (rou)
 
-**禸** — U+79B8 · 總筆畫 strokes: 4 · 拼音 pinyin: róu, ru · jyutping: jau5, nau5
+**禸** — radical 114 · U+79B8 · 總筆畫 strokes: 4 · 拼音 pinyin: róu, ru · jyutping: jau5, nau5
 
 **Glosa**: pisotear; pegadas de patas ou cascos de animal; var. de 「蹂」; variante de 「厹」
 
@@ -368,9 +368,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: CUHK: 相關漢字: 萬, 禽, 禹, 离, 蹂.
 
-### 舛 — radical 136 (chuan)
+### 舛 : Errôneo (chuan)
 
-**舛** — U+821B · 總筆畫 strokes: 6 · 拼音 pinyin: chuǎn · jyutping: cyun2
+**舛** — radical 136 · U+821B · 總筆畫 strokes: 6 · 拼音 pinyin: chuǎn · jyutping: cyun2
 
 **Glosa**: enganado; errôneo; contraditório
 
@@ -380,9 +380,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: CUHK: aparece em 「踳」.
 
-### 虍 — radical 141 (hu)
+### 虍 : Listras do tigre (hu)
 
-**虍** — U+864D · 總筆畫 strokes: 6 · 拼音 pinyin: hū · jyutping: fu1
+**虍** — radical 141 · U+864D · 總筆畫 strokes: 6 · 拼音 pinyin: hū · jyutping: fu1
 
 **Glosa**: listras da pele do tigre; radical “tigre” / nome do componente 虎字头
 
@@ -392,9 +392,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: 「虍」既用作聲符，如「虖」、「虚」，也用作義符，如「虐」。CUHK. MDBG registra-o como o radical “tigre” em caracteres chineses (Kangxi radical 141).
 
-### 襾 — radical 146 (ya)
+### 襾 : Cobrir (ya)
 
-**襾** — U+897E · 總筆畫 strokes: 6 · 拼音 pinyin: yà · jyutping: aa3, haa2, ngaa3
+**襾** — radical 146 · U+897E · 總筆畫 strokes: 6 · 拼音 pinyin: yà · jyutping: aa3, haa2, ngaa3
 
 **Glosa**: cobrir; envolver; radical nº 146
 
@@ -404,9 +404,9 @@ Dos 214 radicais Kangxi, 33 não são caracteres plenos de uso corrente: são pr
 
 **Como radical**: CUHK: 「襾」字古來並未見有用例，唯《說文》及《康熙字典》均「襾」列為部首。而今天常用朵中的「覆」實即「襾」加上聲符「復」而構成的。《說文》：「覆，覂也。一曰蓋也。从襾復聲。」
 
-### 釆 — radical 165 (bian)
+### 釆 : Distinguir (bian)
 
-**釆** — U+91C6 · 總筆畫 strokes: 7 · 拼音 pinyin: biàn · jyutping: bin6
+**釆** — radical 165 · U+91C6 · 總筆畫 strokes: 7 · 拼音 pinyin: biàn · jyutping: bin6
 
 **Glosa**: distinguir; reconhecer; garra de animal; variante antiga de 辨; variante de 采
 
