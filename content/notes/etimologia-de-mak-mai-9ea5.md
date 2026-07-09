@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 199 (麥, trigo/cevada). Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 199 (麥, trigo/cevada). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **麥** — U+9EA5 · 部首 radical: 麥 (nº 199) · 總筆畫 strokes: 11 · 注音 zhuyin: ㄇㄞˋ · 拼音 pinyin: mài / jyutping: mak6
 
