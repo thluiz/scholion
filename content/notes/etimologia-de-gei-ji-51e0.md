@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o radical Kangxi nº 16 (几, a mesinha baixa de apoio); a página do chardb consultada não exibe o total de caracteres que o contêm como componente (contagem não obtida). O ponto Unicode 几 (U+51E0) acumula funções: além do radical-móvel tratado aqui, serve de forma simplificada de 幾 (jǐ, "quantos", U+5E7E) — outro caractere, que não é objeto desta nota. Registro filológico, sem vínculo a nome kung fu. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
+É o radical Kangxi nº 16 (几, a mesinha baixa de apoio); a página do chardb consultada não exibe o total de caracteres que o contêm como componente (contagem não obtida). O ponto Unicode 几 (U+51E0) acumula funções: além do radical-móvel tratado aqui, serve de forma simplificada de 幾 (jǐ, "quantos", U+5E7E) — outro caractere, que não é objeto desta nota. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).
 
 **几** — U+51E0 · 部首 radical: 几 (nº 16) · 總筆畫 strokes: 2 · 注音 zhuyin: ㄐㄧ / ㄐㄧˇ · 拼音 pinyin: jī / jǐ · jyutping: gei1 (também gei2)
 
