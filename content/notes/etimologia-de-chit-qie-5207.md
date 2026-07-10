@@ -23,6 +23,9 @@ sources:
 - title: 小學堂 — Academia Sinica
   url: https://xiaoxue.iis.sinica.edu.tw
   kind: wiki
+- title: 漢語多功能字庫 (CUHK)
+  url: https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/
+  kind: wiki
 - title: 說文解字 (via zdic.net)
   url: https://www.zdic.net
   kind: wiki
@@ -30,15 +33,17 @@ sources:
 
 ### 切
 
-**切** — U+5207 · 部首 radical: 刀 (dāo — faca) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄑㄧㄝ · 拼音 pinyin: qiē (também qiè, qì) · jyutping: cit3
+**切** — U+5207 · 部首 radical: 刀 (dāo — faca) · 總筆畫 strokes: 4 · 注音 zhuyin: ㄑㄧㄝ / ㄑㄧㄝˋ / ㄑㄧˋ / ㄘㄧㄝ / ㄘㄧㄝˋ / ㄘㄧˋ · 拼音 pinyin: qiē (também qiè, qì; leituras tsʰ- em ㄘ registradas no chardb) · jyutping: cit3 (também cai3, na leitura de 一切)
 
 Aparece no Hai Tong de Moy Yat em **chit choh 切磋** — par lexical fixo significando "polimento mútuo, refinamento por troca". Etimologicamente, 切 = "cortar/talhar [osso, marfim, jade]"; 磋 = "polir/lixar". Juntos descrevem a sequência ritual de trabalho artesanal e, por extensão, o **refinamento humano através do estudo e debate compartilhados**.
 
 #### Definições
 
-**MDBG**: (qiē) cortar; fatiar; talhar; (matemática) tangencial · (qiè) absolutamente; sem dúvida; aproximar-se; ansioso; moer; também interjeição depreciativa "tsk!"
+**MDBG**: (qiē) cortar; fatiar; talhar; (matemática) tangencial · (qiè) definitivamente; absolutamente (não); aproximar-se (forma ligada); ansioso (forma ligada); moer; corresponder a; interjeição depreciativa "tsk!"; (técnico) indica que o sistema 反切 fanqie se aplica aos caracteres anteriores
 
 **CantoDict**: cit3 (tom 3, médio plano)
+
+**CUHK 漢語多功能字庫**: cai3 (tom 3) — leitura cantonesa registrada para a acepção de 一切 (jat1 cai3 — tudo)
 
 **chardb [Academia Sinica](https://chardb.iis.sinica.edu.tw/search.jsp?stype=1&q=切)**:
 1. 割；截 (cortar; seccionar)
@@ -61,7 +66,7 @@ Aparece no Hai Tong de Moy Yat em **chit choh 切磋** — par lexical fixo sign
 18. 悲悽貌 (aparência aflita)
 19. 形容聲音細急，多用作「切切」 (descrevendo som rápido e fino, em 切切)
 20. 門檻；階石 (limiar; pedra de degrau)
-21. (advérbio) 表示強調，相當於「一定」、「千萬」 (intensificador: "definitivamente", "de modo algum")
+21. 副詞。表示強調，相當於「一定」、「千萬」。多用於否定句 (advérbio intensificador: "definitivamente", "de modo algum"; usado sobretudo em frases negativas)
 22. 眾 (multidão; em 一切 — tudo)
 
 #### Decomposição e formas antigas ([hanziyuan](https://hanziyuan.net/#切))
@@ -73,13 +78,13 @@ Exemplo de uso: 切開 qiē kāi (cortar para abrir)
 Frequência: 399 (uso muito frequente)
 Pronúncias múltiplas: qiē / qiè / qì
 Shuowen (hanziyuan): 刌也從刀七聲 (Cortar/dividir. De 刀; 七 fonético.)
-Formas atestadas: Oracle 0 · Bronze 0 · Seal 1
+Formas atestadas: Oracle 0 · Bronze 0 · Seal 1 (說文 篆字 S03163) · Liushutong 六書通 2 (L27064, L27065)
 
 #### Shuowen Jiezi completo (via zdic.net)
 
 **說文**: 刌也。从刀七聲。千結切。 (Cortar/dividir. De 刀; 七 fonético. Fanqie: 千結切.)
 
-**段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido):
+**段注 Duan Yucai** (paráfrase via zdic.net — texto verbatim de shuowen.org não obtido; nesta atualização zdic.net retornou 404 e shuowen.org só devolveu a listagem inicial, mantido o verbatim capturado na pesquisa original):
 
 (切)刌也。二字雙聲同義。古文禮刌肺。今文刌爲切。引伸爲迫切。又爲一切。俗讀七計切。師古曰。一切者、權時之事。如以刀切物。苟取整齊。不顧長短縱橫。故言一切。从刀。七聲。千結切。十二部。
 
@@ -130,6 +135,8 @@ Tradução: "(切) é 刌 [cǔn — cortar]. **Os dois caracteres [切, 刌] sã
 2. **迫切** (pò qiè — urgente, premente) — extensão metafórica: "estar perto da lâmina, próximo de cortar" → urgência iminente.
 3. **一切** (yī qiè — todo, conjunto, tudo) — extensão via "um corte só": como cortar coisa com faca, busca-se apenas a regularidade do conjunto. Yan Shigu cita: 苟取整齊，不顧長短縱橫 ("busca apenas a regularidade, sem atentar a comprimentos ou orientações") — ou seja, 一切 = "tudo cortado de uma vez para uniformidade", daí "todos sem distinção".
 4. **反切** (fǎn qiè — sistema fonológico de notação) — uso técnico: "duas sílabas cortam-se uma à outra" para gerar leitura.
+
+**Leitura cantonesa cit3 vs cai3 — dois registros**: cantonese.org registra **cit3** (leitura padrão para "cortar", coda /-t/ preservada do tom 入). O CUHK registra **cai3** para a mesma grafia na acepção de 一切 (jat1 cai3 — tudo). A bifurcação cantonesa espelha a bifurcação de tom do mandarim (qiē "cortar" ↔ qiè em 一切): a acepção "conjunto/tudo" carrega leitura distinta em ambas as línguas. O 又切 七計 do Guangyun (contra o 千結 principal) é a raiz medieval dessa segunda leitura.
 
 **切磋 — 切 + 磋 como par lexical**: A acepção 3 do chardb (切磋，指學行上的互相觀摩，取長補短 — em 切磋: polimento mútuo no estudo, observar-se e complementar-se) é o par fixo central no Hai Tong. **切磋琢磨** (qiē cuō zhuó mó) é fórmula clássica do *Shijing* (Wei Feng, *Qi'ao*): 如切如磋，如琢如磨 ("como talhar, como polir; como esculpir, como lixar"). 切 (talhar osso/marfim) + 磋 (polir-aplainar a superfície) + 琢 (esculpir jade) + 磨 (moer pedra). **Os quatro verbos descrevem fases sucessivas do trabalho artesanal**, transferidas para o cultivo humano: o sábio é como o material precioso submetido a fases sucessivas de refinamento.
 
