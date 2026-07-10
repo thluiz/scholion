@@ -5,6 +5,8 @@ summary: "Lista de referência dos 214 radicais Kangxi (部首) com pinyin e glo
 toc: true
 tags: ["mandarim", "chines", "radicais", "aprendizado-de-linguas"]
 has_commentary: true
+pinned: true
+pin_weight: 75
 sources:
   - title: "Kangxi radical"
     url: "https://en.wikipedia.org/wiki/Kangxi_radical"

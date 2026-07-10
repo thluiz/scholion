@@ -121,6 +121,16 @@ function Get-PathsToCheck {
                 $tagSlug = $tag.ToLower() -replace '\s+', '-'
                 $tagHtml = "tags\$tagSlug\index.html"
                 if (Test-Path (Join-Path $publicDir $tagHtml)) { $paths.Add($tagHtml) | Out-Null }
+
+                # Paginadores da tag (tags\<tag>\page\N\index.html) — senão a
+                # página 1 sobe com links para páginas que nunca vão ao S3 (404).
+                $tagPageDir = Join-Path $publicDir "tags\$tagSlug\page"
+                if (Test-Path $tagPageDir) {
+                    Get-ChildItem $tagPageDir -Directory | ForEach-Object {
+                        $p = "tags\$tagSlug\page\$($_.Name)\index.html"
+                        if (Test-Path (Join-Path $publicDir $p)) { $paths.Add($p) | Out-Null }
+                    }
+                }
             }
         }
     }
