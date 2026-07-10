@@ -97,7 +97,7 @@ Claudio levantou se esses oito amarram o todo, todas as possibilidades que o Do 
 
 ### As oito sequências e os vinte e sete estudos
 
-Cada uma das oito partes é uma sequência própria, com três andamentos: um parado, um à frente e um atrás. O trabalho é de [Ma](/notes/etimologia-de-maa-ma-99ac/) [Bo](/notes/etimologia-de-bo-bu-6b65/) 馬步, com a variação para frente e o [Hau](/notes/etimologia-de-hau-hou-5f8c/) 後, para trás.
+Cada uma das oito partes é uma sequência própria, com três andamentos. Um estacionário, o **Bat Yi Dung Ma Bo** [不](/notes/etimologia-de-bat-bu-4e0d/)移動[馬](/notes/etimologia-de-maa-ma-99ac/)[步](/notes/etimologia-de-bo-bu-6b65/), sem deslocamento. E dois em deslocamento, o **Yi Dung Ma Bo** [移](/notes/etimologia-de-yi-yi-79fb/)[動](/notes/etimologia-de-dung-dong-52d5/)馬步: o **Jun-Toei** [進](/notes/etimologia-de-jun-jin-9032/)[退](/notes/etimologia-de-toei-tui-9000/), avançando, e o **Toei** 退, recuando.
 
 Pelo número rigoroso, três andamentos vezes oito partes dariam vinte e quatro. Mas na sequência completa aparecem três estudos que fogem da conta: a abertura da sequência, na primeira parte, e a segunda parte executada em duplicado. Dá vinte e sete estudos dentro das supostas vinte e quatro porções.
 
