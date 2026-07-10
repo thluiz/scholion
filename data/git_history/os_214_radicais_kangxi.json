@@ -1,14 +1,14 @@
 [
   {
+    "date": "2026-07-10",
+    "subject": "ajustes"
+  },
+  {
     "date": "2026-07-08",
     "subject": "feat: indice dos 214 com TOC semantico e radicais linkados as notas/glossario"
   },
   {
     "date": "2026-07-08",
     "subject": "feat: indice dos 214 aponta para o glossario dos primitivos"
-  },
-  {
-    "date": "2026-07-08",
-    "subject": "fix: radical 174 lidera com 青 no indice (靑 como grafia Kangxi)"
   }
 ]
