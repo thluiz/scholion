@@ -19,6 +19,55 @@ $AWS_EXE     = (Get-Command aws -ErrorAction Stop).Source
 
 function aws { & $AWS_EXE --profile $AWS_PROFILE --region $REGION @args }
 
+# git sync best-effort: tenta se auto-resolver; erros nunca impedem a publicacao.
+#   ff-only  -> cobre "atras" e "a frente/no-op"
+#   merge    -> auto-resolve divergencia quando os commits tocam arquivos distintos
+#   conflito -> aborta (arvore limpa, segue com estado local) e NOTIFICA via GossipGate
+Set-Location $REPO_DIR
+$env:GIT_TERMINAL_PROMPT = "0"   # sem credencial -> falha rapido, nao pendura
+
+function Send-DeployAlert {
+    param([string]$Message)
+    try {
+        $body = @{
+            jsonrpc = "2.0"; id = 1; method = "tools/call"
+            params  = @{ name = "send_notification"; arguments = @{ message = $Message } }
+        } | ConvertTo-Json -Depth 6 -Compress
+        Invoke-RestMethod -Method Post -TimeoutSec 10 `
+            -Uri "http://localhost:8080/api/gossip-gate/mcp" `
+            -ContentType "application/json" -Body $body | Out-Null
+    } catch {
+        Write-Host "AVISO: falha ao notificar via GossipGate - $($_.Exception.Message)" -ForegroundColor Yellow
+    }
+}
+
+try {
+    Write-Host "==> git fetch" -ForegroundColor Cyan
+    git fetch origin 2>&1 | ForEach-Object { Write-Host "  $_" }
+    if ($LASTEXITCODE -ne 0) {
+        Write-Host "AVISO: git fetch falhou (exit $LASTEXITCODE) - seguindo com o estado local" -ForegroundColor Yellow
+    } else {
+        $branch = (git rev-parse --abbrev-ref HEAD).Trim()
+        Write-Host "==> git merge --ff-only origin/$branch" -ForegroundColor Cyan
+        git merge --ff-only "origin/$branch" 2>&1 | ForEach-Object { Write-Host "  $_" }
+        if ($LASTEXITCODE -ne 0) {
+            # Divergiu: tentar auto-merge
+            Write-Host "==> divergiu, tentando auto-merge origin/$branch" -ForegroundColor Cyan
+            git merge --no-edit "origin/$branch" 2>&1 | ForEach-Object { Write-Host "  $_" }
+            if ($LASTEXITCODE -ne 0) {
+                git merge --abort 2>&1 | Out-Null
+                $msg = "Scholion deploy: conflito de merge com origin/$branch nao resolvido automaticamente. Publicando estado LOCAL. Resolva manualmente para o remoto voltar a publicar."
+                Write-Host "AVISO: $msg" -ForegroundColor Red
+                Send-DeployAlert $msg
+            } else {
+                Write-Host "  auto-merge OK (commit de merge local, nao pushado)" -ForegroundColor Green
+            }
+        }
+    }
+} catch {
+    Write-Host "AVISO: git sync lancou excecao - $($_.Exception.Message) - seguindo com o estado local" -ForegroundColor Yellow
+}
+
 # Build
 if (-not $SkipBuild) {
     Write-Host "==> hugo build" -ForegroundColor Cyan
@@ -89,14 +138,22 @@ function Get-PathsToCheck {
             }
         }
 
-        # Lista da seção + paginadores
-        $sectionIdx = "$section\index.html"
-        if (Test-Path (Join-Path $publicDir $sectionIdx)) { $paths.Add($sectionIdx) | Out-Null }
-        $pageDir = Join-Path $publicDir "$section\page"
-        if (Test-Path $pageDir) {
-            Get-ChildItem $pageDir -Directory | ForEach-Object {
-                $p = "$section\page\$($_.Name)\index.html"
-                if (Test-Path (Join-Path $publicDir $p)) { $paths.Add($p) | Out-Null }
+        # Lista da seção + paginadores. Inclui as seções agregadoras que
+        # derivam do conteúdo de notes/ (quotes/, sources/) — os templates
+        # dessas seções varrem site.RegularPages filtrando por category/sources,
+        # então uma nota nova em content/notes/ muda a listagem delas também.
+        # Sem isto, /quotes/ e /sources/ ficam congeladas em deploys incrementais.
+        $listSections = @($section)
+        if ($section -eq 'notes') { $listSections += 'quotes', 'sources' }
+        foreach ($ls in $listSections) {
+            $sectionIdx = "$ls\index.html"
+            if (Test-Path (Join-Path $publicDir $sectionIdx)) { $paths.Add($sectionIdx) | Out-Null }
+            $pageDir = Join-Path $publicDir "$ls\page"
+            if (Test-Path $pageDir) {
+                Get-ChildItem $pageDir -Directory | ForEach-Object {
+                    $p = "$ls\page\$($_.Name)\index.html"
+                    if (Test-Path (Join-Path $publicDir $p)) { $paths.Add($p) | Out-Null }
+                }
             }
         }
 

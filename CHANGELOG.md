@@ -5,6 +5,27 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
+## [0.5.8] — 2026-07-13
+
+### Mudado
+
+- **Git sync do deploy movido para dentro de `deploy.ps1`** e tornado
+  auto-resolutivo. Antes do build faz `git fetch` + `merge --ff-only`; se o
+  histórico divergiu, tenta um `merge --no-edit` (resolve sozinho quando os
+  commits tocam arquivos distintos). Se houver conflito real, faz
+  `merge --abort`, publica o **estado local** e **notifica via GossipGate**
+  pedindo resolução manual. Nunca bloqueia a publicação
+  (`GIT_TERMINAL_PROMPT=0`). O wrapper `deploy-scheduled.ps1` deixou de fazer
+  o `git pull` próprio e virou um wrapper fino sobre `deploy.ps1`.
+
+### Corrigido
+
+- **Deploy incremental congelava `/quotes/` e `/sources/`** (`deploy.ps1`).
+  Ao subir uma nota nova em `content/notes/`, o sync incremental invalidava
+  só a listagem de `/notes/`. Como os templates de `quotes/` e `sources/`
+  varrem `site.RegularPages` filtrando por `category`/`sources`, uma nota
+  nova muda essas listagens também — agora elas são invalidadas junto.
+
 ## [0.5.7] — 2026-07-04
 
 ### Adicionado
