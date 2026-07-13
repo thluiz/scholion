@@ -11,5 +11,6 @@ sources:
     year: 2015
     publisher: "Fitzcarraldo Editions"
     kind: book
+---
 
 Simon Critchley a inclui em *Notes on Suicide*, ensaio filosófico publicado em 2015 pela Fitzcarraldo Editions. No livro, a passagem se situa no percurso argumentativo sobre religião e suicídio, dentro de uma obra organizada em quatro seções e um posfácio com *Of Suicide*, de David Hume.
