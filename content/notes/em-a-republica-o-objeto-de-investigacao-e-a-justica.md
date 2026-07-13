@@ -22,5 +22,6 @@ sources:
     publisher: "Knopf Doubleday Publishing Group"
     url: "https://www.amazon.com/Book-Dead-Philosophers-Simon-Critchley/dp/0307278713"
     kind: book
+---
 
 Simon Critchley diz isso em *O Livro dos Filósofos Mortos*, versão em português de *The Book of Dead Philosophers*, publicado em 2008. A passagem situa a leitura de Platão e de *A República* no contexto do livro de Critchley sobre a tradição filosófica.
