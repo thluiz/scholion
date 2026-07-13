@@ -1,0 +1,10 @@
+[
+  {
+    "date": "2026-07-13",
+    "subject": "fix(notes): fecha frontmatter de nota criada antes do serializer determinístico"
+  },
+  {
+    "date": "2026-07-13",
+    "subject": "note: em A República, o objeto de investigação é a justiça. «O que é a justiça?», pergunta Sócrates, e vários pontos de vista mais ou menos convencionais são discutidos, desmontados e rejeitados. Mas nos livros centrais de A República, Sócrates não dá aos seus interlocutores uma resposta à questão da justiça ou uma qualquer teoria da justiça. Em vez disso, é-nos dado um conjunto de histórias—sendo a mais famosa a Alegoria da Caverna—que nos aponta indiretamente para a questão a tratar."
+  }
+]
