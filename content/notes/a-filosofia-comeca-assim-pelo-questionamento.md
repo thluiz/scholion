@@ -5,7 +5,6 @@ category: quote
 summary: 'Passagem de Simon Critchley em O Livro dos Filósofos Mortos, edição ibérica de The Book of Dead Philosophers, publicada em 2008 por Taurus Ediciones, S.A.'
 tags: ["simon-critchley", "filosofia", "o-livro-dos-filosofos-mortos"]
 has_commentary: false
-draft: true
 sources:
   - title: "O Livro dos Filósofos Mortos"
     author: "Simon Critchley"
