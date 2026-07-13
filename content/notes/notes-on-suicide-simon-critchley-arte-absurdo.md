@@ -11,5 +11,6 @@ sources:
     year: 2015
     publisher: "Fitzcarraldo Editions"
     kind: book
+---
 
 Simon Critchley escreve a passagem em *Notes on Suicide*, livro publicado em 2015 pela Fitzcarraldo Editions. Na estrutura informada da obra, ela se insere no argumento geral do autor sobre o suicídio e suas respostas filosóficas.
