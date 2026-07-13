@@ -17,8 +17,6 @@ sources:
     kind: book
 ---
 
-A minha perspetiva pessoal é mais próxima da de Epicuro e que é conhecida como remédio em quatro partes [tetrapharmakos]: não ter medo de Deus, não se preocupar com a morte, o que é bom é fácil de alcançar e o que é terrível é fácil de suportar.
-
 Porque a história das mortes dos filósofos é também um conto de bizarrias, loucura, suicídio, assassinato, má sorte, pathos, bathos [baixeza, vulgaridade] e algum humor negro. Irão morrer a rir, prometo.
 
 Deixem-me enumerar alguns exemplos que irão ser discutidos muito ociosamente mais adiante:
