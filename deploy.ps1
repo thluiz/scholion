@@ -24,7 +24,8 @@ function aws { & $AWS_EXE --profile $AWS_PROFILE --region $REGION @args }
 #   merge    -> auto-resolve divergencia quando os commits tocam arquivos distintos
 #   conflito -> aborta (arvore limpa, segue com estado local) e NOTIFICA via GossipGate
 Set-Location $REPO_DIR
-$env:GIT_TERMINAL_PROMPT = "0"   # sem credencial -> falha rapido, nao pendura
+$env:GIT_TERMINAL_PROMPT = "0"   # sem credencial -> falha rapido, nao pendura o git
+$env:GCM_INTERACTIVE     = "never" # GCM nao abre GUI de login (senao a tarefa agendada trava); falha -> alerta
 
 function Send-DeployAlert {
     param([string]$Message)
@@ -60,7 +61,13 @@ try {
                 Write-Host "AVISO: $msg" -ForegroundColor Red
                 Send-DeployAlert $msg
             } else {
-                Write-Host "  auto-merge OK (commit de merge local, nao pushado)" -ForegroundColor Green
+                Write-Host "  auto-merge OK -> git push origin $branch" -ForegroundColor Green
+                git push origin $branch 2>&1 | ForEach-Object { Write-Host "  $_" }
+                if ($LASTEXITCODE -ne 0) {
+                    $msg = "Scholion deploy: auto-merge com origin/$branch OK, mas o push de volta falhou (exit $LASTEXITCODE). Merge fica local; pushe a mao para nao divergir de novo."
+                    Write-Host "AVISO: $msg" -ForegroundColor Yellow
+                    Send-DeployAlert $msg
+                }
             }
         }
     }
