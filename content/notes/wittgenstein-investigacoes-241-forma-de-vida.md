@@ -3,7 +3,7 @@ title: "Não é acordo em opiniões, mas em forma de vida"
 date: 2026-05-08T14:10:00+01:00
 category: quote
 summary: "Investigações Filosóficas §241. O acordo que fundamenta a linguagem não está em juízos compartilhados, mas em uma Lebensform comum prévia."
-tags: ["ludwig-wittgenstein", "investigacoes-filosoficas", "forma-de-vida", "linguagem"]
+tags: ["wittgenstein", "investigacoes-filosoficas", "forma-de-vida", "linguagem"]
 has_commentary: false
 sources:
   - title: "Philosophical Investigations / Philosophische Untersuchungen"

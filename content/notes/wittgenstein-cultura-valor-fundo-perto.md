@@ -3,7 +3,7 @@ title: "Se você quer ir fundo, não precisa ir longe"
 date: 2026-05-08T14:25:00+01:00
 category: quote
 summary: "Cultura e Valor, p. 50e (1946). Anotação que condensa o ethos do trabalho intelectual de Wittgenstein: profundidade não é deslocamento."
-tags: ["ludwig-wittgenstein", "cultura-e-valor", "trabalho-intelectual", "profundidade"]
+tags: ["wittgenstein", "cultura-e-valor", "trabalho-intelectual", "profundidade"]
 has_commentary: false
 sources:
   - title: "Vermischte Bemerkungen / Culture and Value"

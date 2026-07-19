@@ -3,7 +3,7 @@ title: "No fim das razões, vem a persuasão"
 date: 2026-05-08T14:19:00+01:00
 category: quote
 summary: "Da Certeza §612. Quando duas imagens de mundo colidem, o argumento atinge seu limite. O que resta é persuasão, não demonstração."
-tags: ["ludwig-wittgenstein", "on-certainty", "persuasao", "imagem-de-mundo"]
+tags: ["wittgenstein", "on-certainty", "persuasao", "imagem-de-mundo"]
 has_commentary: false
 sources:
   - title: "Über Gewißheit / On Certainty"

@@ -3,7 +3,7 @@ title: "Quem tentasse duvidar de tudo nem chegaria a duvidar de coisa alguma"
 date: 2026-05-08T14:17:00+01:00
 category: quote
 summary: "Da Certeza §115. Resposta a Descartes: a dúvida pressupõe certezas para operar. Sem solo firme, nenhuma dúvida começa."
-tags: ["ludwig-wittgenstein", "on-certainty", "ceticismo", "descartes"]
+tags: ["wittgenstein", "on-certainty", "ceticismo", "descartes"]
 has_commentary: false
 sources:
   - title: "Über Gewißheit / On Certainty"

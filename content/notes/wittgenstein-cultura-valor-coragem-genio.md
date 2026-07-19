@@ -3,7 +3,7 @@ title: "Gênio é talento exercido com coragem"
 date: 2026-05-08T14:20:00+01:00
 category: quote
 summary: "Cultura e Valor, p. 38e. Wittgenstein desfaz a aura mística do gênio. Não é dom raro: é talento que ousa o que outros recuam."
-tags: ["ludwig-wittgenstein", "cultura-e-valor", "genio", "coragem"]
+tags: ["wittgenstein", "cultura-e-valor", "genio", "coragem"]
 has_commentary: false
 sources:
   - title: "Vermischte Bemerkungen / Culture and Value"

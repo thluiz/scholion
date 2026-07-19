@@ -3,7 +3,7 @@ title: "Nenhum curso de ação pode ser determinado por uma regra"
 date: 2026-05-08T14:09:00+01:00
 category: quote
 summary: "Investigações Filosóficas §201. Paradoxo da regra: qualquer ação pode ser interpretada como conforme à regra. Núcleo do problema do seguir-uma-regra."
-tags: ["ludwig-wittgenstein", "investigacoes-filosoficas", "seguir-uma-regra", "interpretacao"]
+tags: ["wittgenstein", "investigacoes-filosoficas", "seguir-uma-regra", "interpretacao"]
 has_commentary: false
 sources:
   - title: "Philosophical Investigations / Philosophische Untersuchungen"

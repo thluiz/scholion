@@ -3,7 +3,7 @@ title: "O que pode ser dito, pode ser dito com clareza"
 date: 2026-05-08T14:05:00+01:00
 category: quote
 summary: "Prefácio do Tractatus. Wittgenstein resume a tese central do livro em uma linha: o que se diz, diz-se claramente; o resto, silêncio."
-tags: ["ludwig-wittgenstein", "tractatus", "clareza", "limites-da-linguagem"]
+tags: ["wittgenstein", "tractatus", "clareza", "limites-da-linguagem"]
 has_commentary: false
 sources:
   - title: "Tractatus Logico-Philosophicus"

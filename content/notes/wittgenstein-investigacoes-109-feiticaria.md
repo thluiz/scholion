@@ -3,7 +3,7 @@ title: "A filosofia é uma luta contra o enfeitiçamento da nossa inteligência 
 date: 2026-05-08T14:08:00+01:00
 category: quote
 summary: "Investigações Filosóficas §109. Wittgenstein redefine o trabalho filosófico como terapia contra os enredos que a própria linguagem nos impõe."
-tags: ["ludwig-wittgenstein", "investigacoes-filosoficas", "metodo-filosofico", "terapia"]
+tags: ["wittgenstein", "investigacoes-filosoficas", "metodo-filosofico", "terapia"]
 has_commentary: false
 sources:
   - title: "Philosophical Investigations / Philosophische Untersuchungen"

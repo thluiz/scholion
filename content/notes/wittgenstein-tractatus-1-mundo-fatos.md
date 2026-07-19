@@ -3,7 +3,7 @@ title: "O mundo é tudo o que é o caso"
 date: 2026-05-08T14:01:00+01:00
 category: quote
 summary: "Proposição 1 do Tractatus. Abertura do livro define mundo como totalidade de fatos, não de coisas. Decisão ontológica que comanda toda a obra."
-tags: ["ludwig-wittgenstein", "tractatus", "ontologia", "fatos"]
+tags: ["wittgenstein", "tractatus", "ontologia", "fatos"]
 has_commentary: false
 sources:
   - title: "Tractatus Logico-Philosophicus"

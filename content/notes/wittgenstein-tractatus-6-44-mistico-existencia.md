@@ -3,7 +3,7 @@ title: "Não é como o mundo é que é o místico, mas que ele é"
 date: 2026-05-08T14:06:00+01:00
 category: quote
 summary: "Proposição 6.44 do Tractatus. O místico não está no conteúdo do mundo, mas no fato bruto da existência. Wittgenstein nomeia o assombro com o ser."
-tags: ["ludwig-wittgenstein", "tractatus", "mistico", "metafisica"]
+tags: ["wittgenstein", "tractatus", "mistico", "metafisica"]
 has_commentary: false
 sources:
   - title: "Tractatus Logico-Philosophicus"

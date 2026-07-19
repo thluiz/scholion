@@ -3,7 +3,7 @@ title: "No fundo de toda crença bem fundada está a crença sem fundamento"
 date: 2026-05-08T14:18:00+01:00
 category: quote
 summary: "Da Certeza §253. A justificação termina em proposições que não são, elas mesmas, justificadas. O fundamento é prática, não axioma."
-tags: ["ludwig-wittgenstein", "on-certainty", "fundamento", "justificacao"]
+tags: ["wittgenstein", "on-certainty", "fundamento", "justificacao"]
 has_commentary: false
 sources:
   - title: "Über Gewißheit / On Certainty"

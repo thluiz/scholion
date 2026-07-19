@@ -3,7 +3,7 @@ title: "Palavras são atos"
 date: 2026-05-08T14:21:00+01:00
 category: quote
 summary: "Cultura e Valor, p. 50e. Anotação de Wittgenstein anterior a Austin. Palavras não descrevem o mundo de fora — operam dentro dele."
-tags: ["ludwig-wittgenstein", "cultura-e-valor", "linguagem", "atos-de-fala"]
+tags: ["wittgenstein", "cultura-e-valor", "linguagem", "atos-de-fala"]
 has_commentary: false
 sources:
   - title: "Vermischte Bemerkungen / Culture and Value"

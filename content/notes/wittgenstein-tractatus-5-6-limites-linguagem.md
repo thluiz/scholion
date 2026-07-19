@@ -3,7 +3,7 @@ title: "Os limites da minha linguagem significam os limites do meu mundo"
 date: 2026-05-08T14:02:00+01:00
 category: quote
 summary: "Proposição 5.6 do Tractatus. Identifica extensão da linguagem com extensão do mundo cognoscível. Tese citada e descontextualizada com frequência."
-tags: ["ludwig-wittgenstein", "tractatus", "limites-da-linguagem", "solipsismo"]
+tags: ["wittgenstein", "tractatus", "limites-da-linguagem", "solipsismo"]
 has_commentary: false
 sources:
   - title: "Tractatus Logico-Philosophicus"

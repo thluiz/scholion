@@ -3,7 +3,7 @@ title: "Se um leão pudesse falar, não poderíamos compreendê-lo"
 date: 2026-05-08T14:11:00+01:00
 category: quote
 summary: "Investigações Filosóficas, Parte II, xi. A compreensão linguística pressupõe forma de vida partilhada. Sem ela, mesmo a fala traduzível seria opaca."
-tags: ["ludwig-wittgenstein", "investigacoes-filosoficas", "forma-de-vida", "compreensao"]
+tags: ["wittgenstein", "investigacoes-filosoficas", "forma-de-vida", "compreensao"]
 has_commentary: false
 sources:
   - title: "Philosophical Investigations / Philosophische Untersuchungen"

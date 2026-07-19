@@ -3,7 +3,7 @@ title: "Quem me entende reconhece minhas proposições como sem sentido"
 date: 2026-05-08T14:04:00+01:00
 category: quote
 summary: "Proposição 6.54 do Tractatus. Imagem da escada que se descarta após subir. Wittgenstein declara as próprias proposições como sem sentido, a serem superadas."
-tags: ["ludwig-wittgenstein", "tractatus", "auto-refutacao", "escada"]
+tags: ["wittgenstein", "tractatus", "auto-refutacao", "escada"]
 has_commentary: false
 sources:
   - title: "Tractatus Logico-Philosophicus"
