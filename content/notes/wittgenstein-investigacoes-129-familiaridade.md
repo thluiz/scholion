@@ -3,7 +3,7 @@ title: "Os aspectos das coisas mais importantes para nós ficam ocultos por sua 
 date: 2026-05-08T14:13:00+01:00
 category: quote
 summary: "Investigações Filosóficas §129. O que estrutura nossa compreensão fica invisível justamente por ser corriqueiro. Diagnóstico do trabalho filosófico."
-tags: ["ludwig-wittgenstein", "investigacoes-filosoficas", "metodo-filosofico", "familiaridade"]
+tags: ["wittgenstein", "investigacoes-filosoficas", "metodo-filosofico", "familiaridade"]
 has_commentary: false
 sources:
   - title: "Philosophical Investigations / Philosophische Untersuchungen"

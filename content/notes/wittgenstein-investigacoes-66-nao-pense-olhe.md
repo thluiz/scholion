@@ -3,7 +3,7 @@ title: "Não pense, mas olhe!"
 date: 2026-05-08T14:12:00+01:00
 category: quote
 summary: "Investigações Filosóficas §66. Wittgenstein interrompe a busca por essência conceitual e pede observação dos casos. Método contra a generalização precoce."
-tags: ["ludwig-wittgenstein", "investigacoes-filosoficas", "metodo-filosofico", "semelhanca-de-familia"]
+tags: ["wittgenstein", "investigacoes-filosoficas", "metodo-filosofico", "semelhanca-de-familia"]
 has_commentary: false
 sources:
   - title: "Philosophical Investigations / Philosophische Untersuchungen"

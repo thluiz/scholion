@@ -3,7 +3,7 @@ title: "O modo como você usa a palavra Deus mostra não a quem se refere, mas o
 date: 2026-05-08T14:22:00+01:00
 category: quote
 summary: "Cultura e Valor, p. 50e (1946). O conteúdo religioso se descreve pelo uso da palavra, não por referência a entidade. Aplicação tardia da semântica do uso."
-tags: ["ludwig-wittgenstein", "cultura-e-valor", "religiao", "uso-e-significado"]
+tags: ["wittgenstein", "cultura-e-valor", "religiao", "uso-e-significado"]
 has_commentary: false
 sources:
   - title: "Vermischte Bemerkungen / Culture and Value"

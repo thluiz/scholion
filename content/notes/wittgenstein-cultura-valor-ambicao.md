@@ -3,7 +3,7 @@ title: "A ambição é a morte do pensamento"
 date: 2026-05-08T14:23:00+01:00
 category: quote
 summary: "Cultura e Valor, p. 77e (1947). Wittgenstein registra uma das suas máximas mais cortantes sobre o trabalho intelectual."
-tags: ["ludwig-wittgenstein", "cultura-e-valor", "trabalho-intelectual", "ambicao"]
+tags: ["wittgenstein", "cultura-e-valor", "trabalho-intelectual", "ambicao"]
 has_commentary: false
 sources:
   - title: "Vermischte Bemerkungen / Culture and Value"

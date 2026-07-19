@@ -3,7 +3,7 @@ title: "O homem tem que despertar para o assombro — e talvez também os povos.
 date: 2026-05-08T14:24:00+01:00
 category: quote
 summary: "Cultura e Valor, p. 5e. Wittgenstein opõe assombro a ciência. A explicação científica não responde ao espanto; apaga o que o tornaria possível."
-tags: ["ludwig-wittgenstein", "cultura-e-valor", "ciencia", "assombro"]
+tags: ["wittgenstein", "cultura-e-valor", "ciencia", "assombro"]
 has_commentary: false
 sources:
   - title: "Vermischte Bemerkungen / Culture and Value"

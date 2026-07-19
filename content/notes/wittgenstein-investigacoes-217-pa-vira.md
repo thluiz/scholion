@@ -3,7 +3,7 @@ title: "Esgotadas as justificações, cheguei à rocha e minha pá se entorta"
 date: 2026-05-08T14:14:00+01:00
 category: quote
 summary: "Investigações Filosóficas §217. Imagem do limite da justificação: cavar mais é gesto vão. A regra se ensina por treinamento, não por argumento."
-tags: ["ludwig-wittgenstein", "investigacoes-filosoficas", "seguir-uma-regra", "fundamento"]
+tags: ["wittgenstein", "investigacoes-filosoficas", "seguir-uma-regra", "fundamento"]
 has_commentary: false
 sources:
   - title: "Philosophical Investigations / Philosophische Untersuchungen"

@@ -3,7 +3,7 @@ title: "O corpo humano é a melhor imagem da alma humana"
 date: 2026-05-08T14:16:00+01:00
 category: quote
 summary: "Investigações Filosóficas, Parte II, iv. Tese contra o dualismo: a alma não está escondida por trás do corpo. Ela se mostra nele."
-tags: ["ludwig-wittgenstein", "investigacoes-filosoficas", "filosofia-da-mente", "dualismo"]
+tags: ["wittgenstein", "investigacoes-filosoficas", "filosofia-da-mente", "dualismo"]
 has_commentary: false
 sources:
   - title: "Philosophical Investigations / Philosophische Untersuchungen"

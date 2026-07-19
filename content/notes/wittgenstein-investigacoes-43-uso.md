@@ -3,7 +3,7 @@ title: "Para uma grande classe de casos, o significado de uma palavra é seu uso
 date: 2026-05-08T14:07:00+01:00
 category: quote
 summary: "Investigações Filosóficas §43. Wittgenstein desloca o significado da referência para o uso. Frase central da virada para a filosofia da linguagem comum."
-tags: ["ludwig-wittgenstein", "investigacoes-filosoficas", "uso-e-significado"]
+tags: ["wittgenstein", "investigacoes-filosoficas", "uso-e-significado"]
 has_commentary: false
 sources:
   - title: "Philosophical Investigations / Philosophische Untersuchungen"

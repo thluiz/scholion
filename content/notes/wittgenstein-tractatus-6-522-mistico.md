@@ -3,7 +3,7 @@ title: "Existe, sim, o inexprimível. Isso se mostra; é o místico"
 date: 2026-05-08T14:03:00+01:00
 category: quote
 summary: "Proposição 6.522 do Tractatus. Wittgenstein abre espaço para o inexprimível pela distinção dizer/mostrar. O místico não é dito, é mostrado."
-tags: ["ludwig-wittgenstein", "tractatus", "mistico", "dizer-e-mostrar"]
+tags: ["wittgenstein", "tractatus", "mistico", "dizer-e-mostrar"]
 has_commentary: false
 sources:
   - title: "Tractatus Logico-Philosophicus"

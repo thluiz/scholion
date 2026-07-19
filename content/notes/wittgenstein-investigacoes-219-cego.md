@@ -3,7 +3,7 @@ title: "Quando obedeço a uma regra, não escolho. Sigo a regra cegamente"
 date: 2026-05-08T14:15:00+01:00
 category: quote
 summary: "Investigações Filosóficas §219. Seguir regra não é escolher entre interpretações. É reação treinada, não deliberação consciente."
-tags: ["ludwig-wittgenstein", "investigacoes-filosoficas", "seguir-uma-regra", "treinamento"]
+tags: ["wittgenstein", "investigacoes-filosoficas", "seguir-uma-regra", "treinamento"]
 has_commentary: false
 sources:
   - title: "Philosophical Investigations / Philosophische Untersuchungen"

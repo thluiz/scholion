@@ -3,7 +3,7 @@ title: "Sobre aquilo de que não se pode falar, deve-se calar"
 date: 2026-05-08T14:00:00+01:00
 category: quote
 summary: "Proposição 7 do Tractatus, única frase de sua seção. Encerra o livro impondo silêncio sobre o que excede os limites da linguagem com sentido."
-tags: ["ludwig-wittgenstein", "tractatus", "limites-da-linguagem", "silencio"]
+tags: ["wittgenstein", "tractatus", "limites-da-linguagem", "silencio"]
 has_commentary: false
 sources:
   - title: "Tractatus Logico-Philosophicus"
