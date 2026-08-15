@@ -1,0 +1,27 @@
+{{/*
+  Escala Morbius — 0 a 5 vampiros.
+
+  Renderiza só quando a nota declara `morbius` no frontmatter.
+  Usar `isset` e não `with`: 0 é um valor válido da escala, e `with`
+  trataria `morbius: 0` como ausente.
+
+  Uso:
+    {{ partial "scholion-morbius.html" (dict "page" . "variant" "note") }}
+    {{ partial "scholion-morbius.html" (dict "page" . "variant" "card") }}
+*/}}
+{{ $page := .page }}
+{{ $variant := .variant | default "note" }}
+{{ if isset $page.Params "morbius" }}
+  {{ $raw := int $page.Params.morbius }}
+  {{ $n := $raw }}
+  {{ if or (lt $raw 0) (gt $raw 5) }}
+    {{ warnf "escala Morbius fora do intervalo 0–5 (%d) em %s" $raw $page.Path }}
+    {{ $n = cond (lt $raw 0) 0 5 }}
+  {{ end }}
+  <span class="scholion-morbius scholion-morbius--{{ $variant }}" role="img" aria-label="Escala Morbius: {{ $n }} de 5" title="Escala Morbius: {{ $n }} de 5">
+    {{ if eq $variant "note" }}<span class="scholion-morbius-label" aria-hidden="true">Escala Morbius</span>{{ end }}
+    {{ range $i := seq 5 }}
+      <span class="scholion-morbius-pip{{ if gt $i $n }} scholion-morbius-pip--empty{{ end }}" aria-hidden="true">🧛</span>
+    {{ end }}
+  </span>
+{{ end }}

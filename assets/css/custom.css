@@ -539,6 +539,45 @@
   color: #a8a29e;
 }
 
+/* Escala Morbius — 5 slots, os não-atingidos ficam esmaecidos */
+.scholion-morbius {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.1rem;
+  line-height: 1;
+}
+
+.scholion-morbius-pip--empty {
+  filter: grayscale(1);
+  opacity: 0.25;
+}
+
+.scholion-morbius-label {
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #0284c7;
+  margin-right: 0.4rem;
+}
+.dark .scholion-morbius-label {
+  color: #38bdf8;
+}
+
+.scholion-morbius--note {
+  display: flex;
+  margin: 0.4rem 0 0.2rem;
+}
+.scholion-morbius--note .scholion-morbius-pip {
+  font-size: 1.05rem;
+}
+
+.scholion-morbius--card {
+  margin-left: 0.35rem;
+}
+.scholion-morbius--card .scholion-morbius-pip {
+  font-size: 0.8rem;
+}
+
 .scholion-note--podcast {
   border-left: 4px solid #db2777;
 }
