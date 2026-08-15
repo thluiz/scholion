@@ -5,6 +5,7 @@ category: movie
 summary: "Sequência do filme Five Nights at Freddy's (2023), dirigida por Emma Tammi (2025). Os irmãos Schmidt enfrentam novas ameaças sobrenaturais dezoito meses após o primeiro filme."
 tags: ["emma-tammi", "layla-jabour", "terror"]
 has_commentary: true
+rating: 2
 sources:
   - title: "Five Nights at Freddy's 2 (film)"
     url: "https://en.wikipedia.org/wiki/Five_Nights_at_Freddy%27s_2_(film)"
