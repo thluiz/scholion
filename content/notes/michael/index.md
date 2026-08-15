@@ -5,6 +5,7 @@ category: movie
 summary: "Cinebiografia de Michael Jackson dirigida por Antoine Fuqua (2026), com Jaafar Jackson no papel principal: do Jackson 5 nos anos 60 à turnê Bad no fim dos anos 80."
 tags: ["antoine-fuqua", "stella-vaz", "tais-cordeiro", "michael-jackson", "cinebiografia"]
 has_commentary: true
+rating: 2
 sources:
   - title: "Michael (2026 film)"
     url: "https://en.wikipedia.org/wiki/Michael_(2026_film)"
