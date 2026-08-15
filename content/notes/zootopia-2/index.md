@@ -5,6 +5,7 @@ category: movie
 summary: "Animação de Jared Bush e Byron Howard (2025), sequência de Zootopia (2016): Judy Hopps e Nick Wilde perseguem a jararaca Gary De'Snake após serem incriminados."
 tags: ["jared-bush", "byron-howard", "layla-jabour", "animacao", "disney"]
 has_commentary: true
+rating: 2
 sources:
   - title: "Zootopia 2"
     url: "https://en.wikipedia.org/wiki/Zootopia_2"
