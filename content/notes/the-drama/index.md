@@ -5,6 +5,7 @@ category: movie
 summary: "Comédia negra romântica de Kristoffer Borgli (2026) com Zendaya e Robert Pattinson como casal noivo cuja relação é abalada por uma revelação às vésperas do casamento."
 tags: ["kristoffer-borgli", "zendaya", "robert-pattinson", "comedia-negra"]
 has_commentary: true
+rating: 4
 sources:
   - title: "The Drama (film)"
     url: "https://en.wikipedia.org/wiki/The_Drama_(film)"
