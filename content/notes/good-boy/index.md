@@ -5,6 +5,7 @@ category: movie
 summary: "Comédia negra de Jan Komasa (2025), coprodução Polônia-Reino Unido: casal abduz jovem criminoso e tenta reabilitá-lo. Com Stephen Graham e Andrea Riseborough."
 tags: ["jan-komasa", "thriller", "comedia-negra"]
 has_commentary: true
+rating: 4
 sources:
   - title: "Good Boy (2025 Komasa film)"
     url: "https://en.wikipedia.org/wiki/Good_Boy_(2025_Komasa_film)"
