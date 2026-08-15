@@ -5,6 +5,7 @@ category: movie
 summary: "Terror sobrenatural de Scott Derrickson (2025), sequência de The Black Phone (2021): irmãos Finney e Gwen enfrentam novas manifestações em um acampamento de inverno."
 tags: ["scott-derrickson", "layla-jabour", "terror", "sobrenatural"]
 has_commentary: true
+rating: 3
 sources:
   - title: "Black Phone 2"
     url: "https://en.wikipedia.org/wiki/Black_Phone_2"
