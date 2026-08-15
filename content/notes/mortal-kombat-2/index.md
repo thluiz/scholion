@@ -5,6 +5,7 @@ category: movie
 summary: "Sequência de Mortal Kombat (2021), dirigida por Simon McQuoid (2026). Johnny Cage entra na disputa entre os campeões do Plano Terreno e o imperador Shao Kahn."
 tags: ["simon-mcquoid", "laurien", "acao", "cinema-americano"]
 has_commentary: true
+morbius: 4
 sources:
   - title: "Mortal Kombat II (film)"
     url: "https://en.wikipedia.org/wiki/Mortal_Kombat_II_(film)"
