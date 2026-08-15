@@ -5,6 +5,7 @@ category: movie
 summary: "Drama histórico de Fatih Akin (2025): menino de doze anos enfrenta as últimas semanas da Segunda Guerra na ilha alemã de Amrum, baseado nas memórias de Hark Bohm."
 tags: ["fatih-akin", "drama", "segunda-guerra-mundial", "cinema-alemao"]
 has_commentary: true
+rating: 4
 sources:
   - title: "Amrum (film)"
     url: "https://en.wikipedia.org/wiki/Amrum_(film)"
