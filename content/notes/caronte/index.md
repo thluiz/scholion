@@ -5,6 +5,7 @@ category: movie
 summary: "Documentário híbrido de Tânia Gomes Teixeira (2026) sobre Gastão Teixeira, que recolhe corpos do Rio Douro no Porto, em paralelo à figura mítica de Caronte."
 tags: ["tania-gomes-teixeira", "documentario", "cinema-portugues"]
 has_commentary: false
+rating: 3
 sources:
   - title: "Caronte de Tânia Gomes Teixeira estreia nas salas de cinema portuguesas a 30 de abril"
     url: "https://www.cinema7arte.com/caronte-de-tania-gomes-teixeira-estreia-nas-salas-de-cinema-portuguesas-a-30-de-abril/"
