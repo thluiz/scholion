@@ -5,6 +5,7 @@ category: movie
 summary: "Sequência dirigida por David Frankel. Vinte anos depois, Andy Sachs reencontra Miranda Priestly em meio à crise das revistas impressas."
 tags: ["david-frankel", "henrique-jardim", "isabela-guimaraes", "tais-cordeiro", "stella-vaz"]
 has_commentary: true
+rating: 3
 sources:
   - title: "The Devil Wears Prada 2"
     url: "https://en.wikipedia.org/wiki/The_Devil_Wears_Prada_2"
