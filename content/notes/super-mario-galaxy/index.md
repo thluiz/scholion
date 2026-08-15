@@ -5,6 +5,7 @@ category: movie
 summary: "Animação de Aaron Horvath e Michael Jelenic (2026), sequência de The Super Mario Bros. Movie: Mario, Luigi e amigos seguem para o espaço. Com Chris Pratt e Jack Black."
 tags: ["aaron-horvath", "michael-jelenic", "layla-jabour", "animacao", "nintendo"]
 has_commentary: true
+rating: 3
 sources:
   - title: "The Super Mario Galaxy Movie"
     url: "https://en.wikipedia.org/wiki/The_Super_Mario_Galaxy_Movie"
