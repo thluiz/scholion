@@ -5,6 +5,7 @@ category: movie
 summary: "Crime/comédia negra de Darren Aronofsky (2025) com Austin Butler: ex-baseball, hoje barman em Nova York, se enrosca com a máfia ao cuidar do gato do vizinho."
 tags: ["darren-aronofsky", "comedia-negra", "crime"]
 has_commentary: true
+rating: 3
 sources:
   - title: "Caught Stealing"
     url: "https://en.wikipedia.org/wiki/Caught_Stealing"
