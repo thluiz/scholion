@@ -5,6 +5,8 @@ category: movie
 summary: "Comédia franco-belga de Grégoire Vigneron (2025): Stan rouba um milhão de euros do cofre do patrão e tem uma noite para devolver depois de saber que foi promovido."
 tags: ["gregoire-vigneron", "layla-jabour", "comedia-francesa"]
 has_commentary: true
+rating: 2
+morbius: 2
 sources:
   - title: "Le Million (film, 2025)"
     url: "https://fr.wikipedia.org/wiki/Le_Million_(film,_2025)"
