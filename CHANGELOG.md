@@ -9,7 +9,7 @@ e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
 ### Adicionado
 
-- **Escala "Nota"** (`rating`, 0 a 5, 🎟️) ao lado da Morbius. Chave em inglês
+- **Escala "Nota"** (`rating`, 0 a 5, 📸) ao lado da Morbius. Chave em inglês
   para não colidir com "nota" no sentido de documento do vault; rótulo "Nota"
   na tela.
 

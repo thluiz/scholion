@@ -9,13 +9,9 @@
 #
 # Para criar uma escala nova, acrescentar uma entrada. Nenhum template muda.
 
-# O 🎟️ é text-default (U+1F39F). O seletor de variação U+FE0F logo depois é
-# obrigatório para renderizar colorido — não remover ao editar este arquivo.
-# Onde a plataforma insistir em monocromático, os slots vazios contam só com o
-# opacity reforçado em .scholion-scale--rating (ver custom.css).
 - key: rating
   label: "Nota"
-  emoji: "🎟️"
+  emoji: "📸"
 
 - key: morbius
   label: "Morbius"
