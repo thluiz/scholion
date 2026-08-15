@@ -5,6 +5,7 @@ category: movie
 summary: "Drama italiano de Paolo Sorrentino (2025) com Toni Servillo: presidente católico da Itália precisa decidir sobre lei de eutanásia e dois pedidos de indulto no fim do mandato."
 tags: ["paolo-sorrentino", "drama", "cinema-italiano"]
 has_commentary: true
+rating: 4
 sources:
   - title: "La grazia"
     url: "https://en.wikipedia.org/wiki/La_grazia"
