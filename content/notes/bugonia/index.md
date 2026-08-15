@@ -5,6 +5,7 @@ category: movie
 summary: "Comédia negra de Yorgos Lanthimos (2025) com Emma Stone e Jesse Plemons: dois conspiracionistas sequestram CEO farmacêutica que acreditam ser alienígena."
 tags: ["yorgos-lanthimos", "comedia-negra", "ficcao-cientifica"]
 has_commentary: true
+rating: 4
 sources:
   - title: "Bugonia (film)"
     url: "https://en.wikipedia.org/wiki/Bugonia_(film)"
