@@ -539,42 +539,45 @@
   color: #a8a29e;
 }
 
-/* Escala Morbius — 5 slots, os não-atingidos ficam esmaecidos */
-.scholion-morbius {
+/* Escalas de 0 a 5 (Nota, Morbius, …) — 5 slots, os não-atingidos esmaecidos.
+   Registro em data/scales.yaml; markup em partials/scholion-scales.html */
+.scholion-scale {
   display: inline-flex;
   align-items: center;
   gap: 0.1rem;
   line-height: 1;
 }
 
-.scholion-morbius-pip--empty {
+.scholion-scale-pip--empty {
   filter: grayscale(1);
   opacity: 0.25;
 }
 
-.scholion-morbius-label {
+.scholion-scale-label {
   font-size: 0.7rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: #0284c7;
   margin-right: 0.4rem;
+  /* largura fixa alinha os ícones quando a nota tem mais de uma escala */
+  min-width: 4.5rem;
 }
-.dark .scholion-morbius-label {
+.dark .scholion-scale-label {
   color: #38bdf8;
 }
 
-.scholion-morbius--note {
+.scholion-scale--note {
   display: flex;
-  margin: 0.4rem 0 0.2rem;
+  margin: 0.2rem 0;
 }
-.scholion-morbius--note .scholion-morbius-pip {
+.scholion-scale--note .scholion-scale-pip {
   font-size: 1.05rem;
 }
 
-.scholion-morbius--card {
+.scholion-scale--card {
   margin-left: 0.35rem;
 }
-.scholion-morbius--card .scholion-morbius-pip {
+.scholion-scale--card .scholion-scale-pip {
   font-size: 0.8rem;
 }
 

@@ -19,7 +19,7 @@
         {{ else if eq $noteType "walk" }}
           <div class="scholion-type-badge scholion-type-badge--walk">🗺 Caminhada</div>
         {{ end }}
-        {{ partial "scholion-morbius.html" (dict "page" . "variant" "note") }}
+        {{ partial "scholion-scales.html" (dict "page" . "variant" "note") }}
         <h1>{{ .Title }}</h1>
         <div class="scholion-note-meta">
           <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>

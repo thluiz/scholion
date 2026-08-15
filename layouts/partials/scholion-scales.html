@@ -1,0 +1,32 @@
+{{/*
+  Escalas de 0 a 5 (Nota, Morbius, …), declaradas em data/scales.yaml.
+
+  Renderiza uma escala só quando a nota declara a chave correspondente no
+  frontmatter. Usar `isset` e não `with`: 0 é valor válido da escala, e `with`
+  trataria `rating: 0` como ausente.
+
+  Uso:
+    {{ partial "scholion-scales.html" (dict "page" . "variant" "note") }}
+    {{ partial "scholion-scales.html" (dict "page" . "variant" "card") }}
+*/}}
+{{ $page := .page }}
+{{ $variant := .variant | default "note" }}
+{{ range site.Data.scales }}
+  {{ $key := .key }}
+  {{ $label := .label }}
+  {{ $emoji := .emoji }}
+  {{ if isset $page.Params $key }}
+    {{ $raw := int (index $page.Params $key) }}
+    {{ $n := $raw }}
+    {{ if or (lt $raw 0) (gt $raw 5) }}
+      {{ warnf "escala %q fora do intervalo 0-5 (%d) em %s" $key $raw $page.Path }}
+      {{ $n = cond (lt $raw 0) 0 5 }}
+    {{ end }}
+    <span class="scholion-scale scholion-scale--{{ $key }} scholion-scale--{{ $variant }}" role="img" aria-label="{{ $label }}: {{ $n }} de 5" title="{{ $label }}: {{ $n }} de 5">
+      {{ if eq $variant "note" }}<span class="scholion-scale-label" aria-hidden="true">{{ $label }}</span>{{ end }}
+      {{ range $i := seq 5 }}
+        <span class="scholion-scale-pip{{ if gt $i $n }} scholion-scale-pip--empty{{ end }}" aria-hidden="true">{{ $emoji }}</span>
+      {{ end }}
+    </span>
+  {{ end }}
+{{ end }}

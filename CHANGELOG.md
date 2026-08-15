@@ -5,6 +5,25 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
+## [0.5.10] — 2026-08-15
+
+### Adicionado
+
+- **Escala "Nota"** (`rating`, 0 a 5, 🍿) ao lado da Morbius. Chave em inglês
+  para não colidir com "nota" no sentido de documento do vault; rótulo "Nota"
+  na tela.
+
+### Mudado
+
+- **Escalas viraram registro de dados.** `data/scales.yaml` lista
+  `key`/`label`/`emoji` e o novo partial `scholion-scales.html` (que substitui
+  `scholion-morbius.html`) varre o registro e renderiza qualquer escala que a
+  nota declare. Criar uma escala nova passa a ser uma entrada no YAML, sem
+  tocar em template. As classes CSS `.scholion-morbius*` viraram
+  `.scholion-scale*`, com modificador por chave. A lista é ordenada de
+  propósito: a ordem do YAML é a ordem de exibição, e mapa em Hugo iteraria
+  por ordem alfabética.
+
 ## [0.5.9] — 2026-08-15
 
 ### Adicionado
