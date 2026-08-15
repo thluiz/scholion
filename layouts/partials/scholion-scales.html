@@ -1,9 +1,15 @@
 {{/*
-  Escalas de 0 a 5 (Nota, Morbius, …), declaradas em data/scales.yaml.
+  Escalas de 0 a 5 (Nota, Morbius, Gargalhadas, …), declaradas em
+  data/scales.yaml.
 
   Renderiza uma escala só quando a nota declara a chave correspondente no
   frontmatter. Usar `isset` e não `with`: 0 é valor válido da escala, e `with`
   trataria `rating: 0` como ausente.
+
+  Na variante `note` as escalas saem dentro de um grid de duas colunas
+  (rótulo | ícones); cada escala é uma linha com `grid-template-columns:
+  subgrid`, então a coluna do rótulo se dimensiona sozinha pelo rótulo mais
+  largo. Nenhuma largura fixa a manter quando entrar uma escala nova.
 
   Uso:
     {{ partial "scholion-scales.html" (dict "page" . "variant" "note") }}
@@ -11,11 +17,18 @@
 */}}
 {{ $page := .page }}
 {{ $variant := .variant | default "note" }}
+{{ $present := slice }}
 {{ range site.Data.scales }}
-  {{ $key := .key }}
-  {{ $label := .label }}
-  {{ $emoji := .emoji }}
-  {{ if isset $page.Params $key }}
+  {{ if isset $page.Params .key }}
+    {{ $present = $present | append . }}
+  {{ end }}
+{{ end }}
+{{ if $present }}
+  {{ if eq $variant "note" }}<div class="scholion-scales">{{ end }}
+  {{ range $present }}
+    {{ $key := .key }}
+    {{ $label := .label }}
+    {{ $emoji := .emoji }}
     {{ $raw := int (index $page.Params $key) }}
     {{ $n := $raw }}
     {{ if or (lt $raw 0) (gt $raw 5) }}
@@ -24,9 +37,12 @@
     {{ end }}
     <span class="scholion-scale scholion-scale--{{ $key }} scholion-scale--{{ $variant }}" role="img" aria-label="{{ $label }}: {{ $n }} de 5" title="{{ $label }}: {{ $n }} de 5">
       {{ if eq $variant "note" }}<span class="scholion-scale-label" aria-hidden="true">{{ $label }}</span>{{ end }}
-      {{ range $i := seq 5 }}
-        <span class="scholion-scale-pip{{ if gt $i $n }} scholion-scale-pip--empty{{ end }}" aria-hidden="true">{{ $emoji }}</span>
-      {{ end }}
+      <span class="scholion-scale-pips">
+        {{- range $i := seq 5 -}}
+          <span class="scholion-scale-pip{{ if gt $i $n }} scholion-scale-pip--empty{{ end }}" aria-hidden="true">{{ $emoji }}</span>
+        {{- end -}}
+      </span>
     </span>
   {{ end }}
+  {{ if eq $variant "note" }}</div>{{ end }}
 {{ end }}
