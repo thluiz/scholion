@@ -5,6 +5,7 @@ category: movie
 summary: "Drama de Steven Spielberg (1993) com Liam Neeson como Oskar Schindler, industrial alemão que salvou mais de mil judeus na Cracóvia ocupada pelos nazistas."
 tags: ["steven-spielberg", "layla-jabour", "drama", "holocausto"]
 has_commentary: true
+rating: 3
 sources:
   - title: "Schindler's List"
     url: "https://en.wikipedia.org/wiki/Schindler%27s_List"
