@@ -5,6 +5,24 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
+## [0.5.11] — 2026-08-15
+
+### Adicionado
+
+- **Escala "Gargalhadas"** (`laughs`, 0 a 5, 🤣), para comédias. Como as
+  escalas só renderizam quando declaradas, fica restrita por uso — sem regra
+  por categoria.
+
+### Corrigido
+
+- **Alinhamento entre escalas deixou de depender de largura fixa.** O rótulo
+  usava `min-width` calibrado para "Nota" e "Morbius"; "Gargalhadas" estourava
+  a medida e desalinhava os ícones. Na página da nota as escalas passaram a
+  sair num grid de duas colunas, cada escala em uma linha via
+  `grid-template-columns: subgrid`, com a coluna do rótulo dimensionada pelo
+  mais largo. Os ícones ganharam um wrapper `.scholion-scale-pips` para
+  contarem como uma única célula do grid.
+
 ## [0.5.10] — 2026-08-15
 
 ### Adicionado

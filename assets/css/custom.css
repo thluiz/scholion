@@ -544,8 +544,13 @@
 .scholion-scale {
   display: inline-flex;
   align-items: center;
-  gap: 0.1rem;
   line-height: 1;
+}
+
+.scholion-scale-pips {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.1rem;
 }
 
 .scholion-scale-pip--empty {
@@ -558,17 +563,26 @@
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: #0284c7;
-  margin-right: 0.4rem;
-  /* largura fixa alinha os ícones quando a nota tem mais de uma escala */
-  min-width: 4.5rem;
 }
 .dark .scholion-scale-label {
   color: #38bdf8;
 }
 
+/* Grid de duas colunas: a do rótulo se dimensiona pelo rótulo mais largo, e
+   cada escala vira uma linha via subgrid. Assim os ícones ficam alinhados
+   entre as escalas sem nenhuma largura fixa para manter quando entrar uma
+   escala nova em data/scales.yaml. */
+.scholion-scales {
+  display: grid;
+  grid-template-columns: max-content max-content;
+  align-items: center;
+  gap: 0.25rem 0.5rem;
+  margin: 0.4rem 0 0.2rem;
+}
 .scholion-scale--note {
-  display: flex;
-  margin: 0.2rem 0;
+  display: grid;
+  grid-column: 1 / -1;
+  grid-template-columns: subgrid;
 }
 .scholion-scale--note .scholion-scale-pip {
   font-size: 1.05rem;
