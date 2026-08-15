@@ -5,6 +5,7 @@ category: movie
 summary: "Drama de Michel Franco (2025) com Jessica Chastain como socialite rica em caso secreto com bailarino mexicano indocumentado. Segunda colaboração após Memory (2023)."
 tags: ["michel-franco", "jessica-chastain", "drama"]
 has_commentary: true
+rating: 3
 sources:
   - title: "Dreams (2025 film)"
     url: "https://en.wikipedia.org/wiki/Dreams_(2025_film)"
