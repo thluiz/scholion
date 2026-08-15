@@ -1,0 +1,18 @@
+# Escalas de 0 a 5 exibidas nas notas.
+#
+# Cada entrada vira um campo opcional de frontmatter: se a nota declarar
+# `rating: 4`, a escala "Nota" renderiza com 4 de 5 pipocas cheias.
+# Escala ausente do frontmatter não renderiza nada.
+#
+# Lista (não mapa) porque a ordem aqui é a ordem de exibição — mapa em Hugo
+# itera por ordem alfabética da chave.
+#
+# Para criar uma escala nova, acrescentar uma entrada. Nenhum template muda.
+
+- key: rating
+  label: "Nota"
+  emoji: "🍿"
+
+- key: morbius
+  label: "Morbius"
+  emoji: "🧛"
