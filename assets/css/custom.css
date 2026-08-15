@@ -581,6 +581,17 @@
   font-size: 0.8rem;
 }
 
+/* 🎟️ (U+1F39F) é text-default: onde a plataforma renderizar monocromático, o
+   grayscale dos vazios não muda nada e o contraste fica só por conta do
+   opacity — daí o valor mais baixo aqui. O gap maior separa os ingressos, que
+   senão encostam um no outro e atrapalham a contagem. */
+.scholion-scale--rating {
+  gap: 0.2rem;
+}
+.scholion-scale--rating .scholion-scale-pip--empty {
+  opacity: 0.18;
+}
+
 .scholion-note--podcast {
   border-left: 4px solid #db2777;
 }
