@@ -5,6 +5,7 @@ category: movie
 summary: "Ficção científica de Phil Lord e Christopher Miller (2026) com Ryan Gosling: professor acorda em nave interestelar sem memória de como chegou lá. Adaptação do romance de Andy Weir."
 tags: ["phil-lord", "christopher-miller", "layla-jabour", "ficcao-cientifica"]
 has_commentary: true
+rating: 5
 sources:
   - title: "Project Hail Mary (film)"
     url: "https://en.wikipedia.org/wiki/Project_Hail_Mary_(film)"
