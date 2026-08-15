@@ -7,6 +7,7 @@ tags: ["gregoire-vigneron", "layla-jabour", "comedia-francesa"]
 has_commentary: true
 rating: 2
 morbius: 2
+laughs: 1
 sources:
   - title: "Le Million (film, 2025)"
     url: "https://fr.wikipedia.org/wiki/Le_Million_(film,_2025)"
