@@ -5,6 +5,7 @@ category: movie
 summary: "Thriller de ação de George Huang (2024): agente da DEA reencontra motorista mercenária em Taipé enquanto persegue cartel. Coprodução França/Taiwan."
 tags: ["george-huang", "layla-jabour", "acao"]
 has_commentary: true
+rating: 2
 sources:
   - title: "Weekend in Taipei"
     url: "https://en.wikipedia.org/wiki/Weekend_in_Taipei"
