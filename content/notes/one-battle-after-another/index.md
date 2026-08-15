@@ -5,6 +5,7 @@ category: movie
 summary: "Action-thriller de Paul Thomas Anderson (2025): ex-revolucionário enfrenta o ressurgimento de antigo inimigo e tenta proteger a filha. Inspirado em Vineland de Pynchon."
 tags: ["paul-thomas-anderson", "acao", "cinema-americano"]
 has_commentary: true
+rating: 4
 sources:
   - title: "One Battle After Another"
     url: "https://en.wikipedia.org/wiki/One_Battle_After_Another"
