@@ -67,7 +67,7 @@ Corpo em markdown.
 
 `category` diferencia tipos visuais de nota: `quote` (citações com estilo itálico e aspas decorativas), `podcast` (anotações de episódios), entre outros. Cada tipo tem cor, ícone e badge próprios nos cards.
 
-As **escalas de 0 a 5** vivem em `data/scales.yaml`, uma lista de `key`/`label`/`emoji`. Hoje são duas: `rating` ("Nota", 🍿) e `morbius` ("Morbius", 🧛). Cada uma renderiza cinco ícones, com os não-atingidos esmaecidos, na página da nota e nos cards. Todas são opcionais e independentes — uma nota pode ter as duas, uma só, ou nenhuma.
+As **escalas de 0 a 5** vivem em `data/scales.yaml`, uma lista de `key`/`label`/`emoji`. Hoje são duas: `rating` ("Nota", 🎫) e `morbius` ("Morbius", 🧛). Cada uma renderiza cinco ícones, com os não-atingidos esmaecidos, na página da nota e nos cards. Todas são opcionais e independentes — uma nota pode ter as duas, uma só, ou nenhuma.
 
 A lista é ordenada porque a ordem do YAML é a ordem de exibição; mapa em Hugo itera por ordem alfabética da chave. Para criar uma escala nova, basta uma entrada no YAML: o partial `scholion-scales.html` varre o registro e nenhum template muda.
 
