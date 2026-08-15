@@ -49,6 +49,7 @@ category: quote                 # opcional — aciona layout/ícone específico 
 summary: "Frase curta usada nos cards."
 tags: [tag-1, tag-2]
 has_commentary: true            # true se contém análise do autor; false para citação/glosa pura
+morbius: 4                      # opcional, só em notas de filme — escala Morbius, 0 a 5
 sources:
   - title: "Título da fonte"
     author: "Autor"             # opcional
@@ -64,6 +65,8 @@ Corpo em markdown.
 `has_commentary` é a separação que importa: notas que são apenas excerto/citação de uma fonte (glosa) versus notas onde adicionei análise, conexão ou síntese própria (commentary). Os filtros em `/notes/` permitem ver só um ou só outro.
 
 `category` diferencia tipos visuais de nota: `quote` (citações com estilo itálico e aspas decorativas), `podcast` (anotações de episódios), entre outros. Cada tipo tem cor, ícone e badge próprios nos cards.
+
+`morbius` é uma escala de 0 a 5 para notas de filme, renderizada como cinco vampiros 🧛 (os não-atingidos ficam esmaecidos) na página da nota e nos cards. O campo é opcional: só aparece nas notas que o declaram. A checagem no template usa `isset` e não `with`, porque `morbius: 0` é um valor válido da escala e `with` o trataria como ausente.
 
 `sources` como array estruturado destrava agrupamento por autor, por tipo de fonte, por publisher — coisas impossíveis no formato antigo de "fonte como texto livre no rodapé".
 

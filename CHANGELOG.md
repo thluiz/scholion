@@ -5,6 +5,18 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
+## [0.5.9] — 2026-08-15
+
+### Adicionado
+
+- **Escala Morbius em notas de filme.** Campo opcional `morbius` no
+  frontmatter (0 a 5), renderizado como cinco vampiros 🧛 com os
+  não-atingidos esmaecidos (`grayscale` + `opacity`). Novo partial
+  `scholion-morbius.html`, com variante `note` (cabeçalho da nota, com
+  rótulo) e `card` (mosaico da home, `/notes/`, páginas de tag). Só aparece
+  nas notas que declaram o campo. O template usa `isset` em vez de `with`
+  porque `morbius: 0` é valor válido da escala.
+
 ## [0.5.8] — 2026-07-13
 
 ### Mudado

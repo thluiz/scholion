@@ -61,6 +61,7 @@
                     {{ else if .Params.has_commentary }}
                       <span class="scholion-card-type" title="com comentário">📝</span>
                     {{ end }}
+                    {{ partial "scholion-morbius.html" (dict "page" . "variant" "card") }}
                   </div>
                 </div>
                 <span class="scholion-card-pin" title="fixada">★</span>
@@ -120,6 +121,7 @@
                   {{ else if .Params.has_commentary }}
                     <span class="scholion-card-type" title="com comentário">📝</span>
                   {{ end }}
+                  {{ partial "scholion-morbius.html" (dict "page" . "variant" "card") }}
                 </div>
               </div>
               {{ if $isPinned }}
