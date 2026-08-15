@@ -5,6 +5,7 @@ category: movie
 summary: "Adaptação da Odisseia de Homero escrita e dirigida por Christopher Nolan (2026). Odisseu tenta voltar a Ítaca enquanto Penélope resiste à pressão dos pretendentes."
 tags: ["christopher-nolan", "layla-jabour", "tais-cordeiro", "stella-vaz", "henrique-jardim", "isabela-guimaraes", "thilia-bellfort", "homero", "cinema-americano"]
 has_commentary: true
+rating: 4
 sources:
   - title: "The Odyssey (2026 film)"
     url: "https://en.wikipedia.org/wiki/The_Odyssey_(2026_film)"
