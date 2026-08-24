@@ -38,6 +38,8 @@ A [loja internacional da Insider](https://insiderstore.com/products/men-tech-t-s
 
 **A peça idêntica sai 2,1 vezes mais cara para quem compra de fora do Brasil.** O frete internacional da loja só fica gratuito acima de US$ 90.
 
+As gramaturas por linha, os números de laboratório que a Insider publica e o comparativo entre as cinco marcas brasileiras estão em [[tech-t-shirt-fibra-e-alternativas|a fibra por trás da marca]].
+
 ### O que a Europa oferece em modal
 
 Levantamento na Amazon.es em 21 de agosto de 2026, com entrega configurada para Portugal e IVA já incluído nos preços mostrados:
