@@ -69,6 +69,8 @@ Uma avaliação independente publicada na Mushroom Labs em agosto de 2025 compar
 
 Na avaliação, a Insider aparece com 92% modal e 8% elastano, e com variantes de 62% modal, 30% viscose e 8% elastano. A mesma fibra atravessa a faixa inteira de preço, e o que separa as peças é modelagem, gramatura e acabamento.
 
+Essa faixa de preço vale para o mercado brasileiro. O que acontece com ela na exportação está em [[tech-t-shirt-modal-nao-compensa-na-europa|por que o modal não compensa na Europa]].
+
 ### As outras rotas
 
 **Celulósicas** (modal, lyocell/TENCEL) entregam maciez e caimento fluido. É a rota da Insider e de toda a concorrência nacional listada acima.
