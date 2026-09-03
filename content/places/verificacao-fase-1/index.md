@@ -5,9 +5,9 @@
 
 title: "Verificacao Fase 1"
 date: "2026-09-03T21:44:43+01:00"
-lastmod: "2026-09-03T21:44:44+01:00"
+lastmod: "2026-09-03T21:57:38+01:00"
 category: place
-summary: "Registo de verificacao; sera removido."
+summary: "Registo de verificacao; sera removido em seguida."
 tags: ["serra-da-estrela"]
 kind: ["flores"]
 species: ["malmequer-bravo", "papoila-das-searas"]
