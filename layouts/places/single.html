@@ -1,0 +1,45 @@
+{{ define "main" }}
+  {{ $lat := index .Params.coords 0 }}
+  {{ $lon := index .Params.coords 1 }}
+  <div class="scholion-layout">
+    <article class="scholion-note scholion-note--place">
+      <header class="scholion-note-header">
+        <p class="scholion-back"><a href="{{ "/places/" | relURL }}">← todos os locais</a></p>
+        <div class="scholion-research-badge">
+          {{ if in (.Params.kind | default slice) "restaurante" }}🍽{{ else }}🌼{{ end }}
+          Local{{ with .Params.kind }} · {{ delimit . " · " }}{{ end }}
+        </div>
+        <h1>{{ .Title }}</h1>
+
+        {{ with .Params.summary }}<p class="scholion-desc">{{ . }}</p>{{ end }}
+
+        <div class="scholion-note-meta">
+          <a href="https://www.openstreetmap.org/?mlat={{ $lat }}&amp;mlon={{ $lon }}#map=16/{{ $lat }}/{{ $lon }}"
+             rel="noopener" target="_blank">📍 {{ $lat }}, {{ $lon }}</a>
+          {{ with .Params.address }}<span class="scholion-card-sep"> · {{ . }}</span>{{ end }}
+          {{ with .Lastmod }}<span class="scholion-card-sep"> · última visita <time datetime="{{ .Format "2006-01-02" }}">{{ .Format "2 Jan 2006" }}</time></span>{{ end }}
+        </div>
+
+        {{ with .Params.species }}
+          <ul class="scholion-note-tags">
+            {{ range . }}<li><a href="{{ "/species/" | relURL }}{{ . | urlize }}/">{{ . }}</a></li>{{ end }}
+          </ul>
+        {{ end }}
+
+        {{ with .Params.tags }}
+          <ul class="scholion-note-tags">
+            {{ range . }}<li><a href="{{ "/tags/" | relURL }}{{ . | urlize }}/">#{{ . }}</a></li>{{ end }}
+          </ul>
+        {{ end }}
+      </header>
+
+      <div class="scholion-note-body">
+        {{ partial "scholion-wikilinks.html" . }}
+      </div>
+
+      <nav class="scholion-note-nav" aria-label="Navegação entre locais">
+        <a class="scholion-note-nav-back" href="{{ "/places/" | relURL }}">← todos os locais</a>
+      </nav>
+    </article>
+  </div>
+{{ end }}

@@ -1,0 +1,40 @@
+{{ define "main" }}
+  {{ $paginator := .Paginate .Pages.ByLastmod.Reverse 40 }}
+
+  <section class="scholion-list">
+    <header class="scholion-list-header">
+      <h1>{{ .Title }}</h1>
+      {{ with .Description }}<p class="scholion-desc">{{ . }}</p>{{ end }}
+      <p class="scholion-count">{{ len .Pages }} locais</p>
+    </header>
+
+    <ul class="scholion-grid">
+      {{ range $paginator.Pages }}
+        {{ $isMeal := in (.Params.kind | default slice) "restaurante" }}
+        <li class="scholion-card scholion-card--place{{ if $isMeal }} scholion-card--meal{{ end }}">
+          <a href="{{ .RelPermalink }}">
+            <div class="scholion-card-body">
+              <h2 class="scholion-card-title">{{ .Title }}</h2>
+              {{ with .Params.summary }}<p class="scholion-card-summary">{{ . }}</p>{{ end }}
+            </div>
+            <div class="scholion-card-meta">
+              {{ with .Params.species }}
+                <ul class="scholion-card-tags">
+                  {{ range first 3 . }}<li>{{ . }}</li>{{ end }}
+                </ul>
+              {{ end }}
+              <div class="scholion-card-dateline">
+                <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format "2 Jan 2006" }}</time>
+                <span class="scholion-card-type" title="{{ if $isMeal }}restaurante{{ else }}flores{{ end }}">
+                  {{ if $isMeal }}🍽{{ else }}🌼{{ end }}
+                </span>
+              </div>
+            </div>
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+
+    {{ partial "scholion-pagination.html" $paginator }}
+  </section>
+{{ end }}

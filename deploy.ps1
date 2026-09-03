@@ -118,7 +118,7 @@ function Get-PathsToCheck {
         # Histórico: data/git_history/slug_com_underscores.json → nota correspondente
         if ($f -match '^data/git_history/(.+)\.json$') {
             $slug = $Matches[1] -replace '_', '-'
-            foreach ($section in @('notes', 'research')) {
+            foreach ($section in @('notes', 'research', 'places')) {
                 $htmlRel = "$section\$slug\index.html"
                 if (Test-Path (Join-Path $publicDir $htmlRel)) { $paths.Add($htmlRel) | Out-Null }
             }
