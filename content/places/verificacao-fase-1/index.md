@@ -19,3 +19,5 @@ Prosa do local, para o corpo do markdown.
 ## 2026-04-14 — Malmequer bravo, Papoila das searas
 
 campo todo vermelho no lado sul
+
+![Malmequer bravo, Papoila das searas](2026-04-14-malmequer-bravo-papoila-das-searas.jpg)
