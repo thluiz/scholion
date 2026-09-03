@@ -27,6 +27,16 @@
       ],
       "note": "campo todo vermelho no lado sul",
       "photos": []
+    },
+    {
+      "id": "efdb6e",
+      "date": "2026-08-31",
+      "type": "sighting",
+      "by": "thiago",
+      "species": [
+        "cardo"
+      ],
+      "photos": []
     }
   ]
 }
