@@ -5,12 +5,17 @@
 
 title: "Verificacao Fase 1"
 date: "2026-09-03T21:44:43+01:00"
-lastmod: "2026-09-03T21:44:43+01:00"
+lastmod: "2026-09-03T21:44:44+01:00"
 category: place
 summary: "Registo de verificacao; sera removido."
 tags: ["serra-da-estrela"]
 kind: ["flores"]
+species: ["malmequer-bravo", "papoila-das-searas"]
 coords: [40.9999, -7.9999]
 ---
 
 Prosa do local, para o corpo do markdown.
+
+## 2026-04-12 — Malmequer bravo, Papoila das searas
+
+campo todo vermelho no lado sul
