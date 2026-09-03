@@ -10,7 +10,7 @@ category: place
 summary: "Registo de verificacao; sera removido."
 tags: ["serra-da-estrela"]
 kind: ["flores"]
-species: ["cardo", "malmequer-bravo", "papoila-das-searas"]
+species: ["malmequer-bravo", "papoila-das-searas"]
 coords: [40.9999, -7.9999]
 ---
 
@@ -19,5 +19,3 @@ Prosa do local, para o corpo do markdown.
 ## 2026-04-14 — Malmequer bravo, Papoila das searas
 
 campo todo vermelho no lado sul
-
-## 2026-08-31 — Cardo
