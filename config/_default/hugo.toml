@@ -18,6 +18,9 @@ buildFuture = true
 [taxonomies]
   tag = "tags"
   source = "sources"
+  # Locais declaram as espécies vistas neles; /species/<flor>/ passa a listar
+  # todos os sítios onde aquela flor apareceu, sem código nosso.
+  species = "species"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
