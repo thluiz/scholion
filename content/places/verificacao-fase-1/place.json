@@ -1,0 +1,19 @@
+{
+  "slug": "verificacao-fase-1",
+  "title": "Verificacao Fase 1",
+  "kind": [
+    "flores"
+  ],
+  "tags": [
+    "serra-da-estrela"
+  ],
+  "summary": "Registo de verificacao; sera removido.",
+  "coords": {
+    "lat": 40.9999,
+    "lon": -7.9999
+  },
+  "body": "Prosa do local, para o corpo do markdown.",
+  "created": "2026-09-03T21:44:43+01:00",
+  "updated": "2026-09-03T21:44:43+01:00",
+  "entries": []
+}
