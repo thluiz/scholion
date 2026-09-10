@@ -93,3 +93,36 @@ CO_AUTHORED = re.compile(r"Co-Authored-By", re.IGNORECASE)
 def test_no_co_authored_by(note: Note):
     hits = find_lines(note.raw, CO_AUTHORED)
     fail_if_hits(note, hits, "Co-Authored-By proibido (memory: feedback_no_coauthored)")
+
+
+# ---------- 6. Markup alucinado de ChatGPT/Grok (colagem crua) ----------
+#
+# Âncoras que os chats injetam em citações e que nunca deveriam sobreviver à
+# edição: marcadores de citação do ChatGPT (oaicite, contentReference,
+# turnNsearchM, citeturn), cards do Grok, e os delimitadores invisíveis de
+# citação que o ChatGPT esconde no bloco private-use U+E200-U+E20F e que
+# sobrevivem a copiar/colar.
+#
+# A faixa private-use INTEIRA (U+E000-U+F8FF) não serve: calibração de
+# 2026-09-10 sobre 2136 notas achou 3 notas de etimologia com U+E815, U+F6DD
+# e U+F6E7 — glifos CJK raros não codificados, que 小學堂/CUHK/hanziyuan
+# servem por fonte private-use. Uso legítimo, e o único uso de PUA no corpus.
+#
+# Roda sobre note.raw, sem strip: dentro de blockquote ou code fence o
+# marcador continua sendo colagem crua.
+
+HALLUCINATED_MARKUP = re.compile(
+    r"oaicite"
+    r"|contentReference"
+    r"|citeturn"
+    r"|turn\d+(?:search|view|news|image)\d+"
+    r"|grok_card"
+    r"|【\d+†"  # 【N† — âncora de citação do ChatGPT
+    r"|[-]",  # delimitador invisível de citação do ChatGPT
+    re.IGNORECASE,
+)
+
+
+def test_no_hallucinated_markup(note: Note):
+    hits = find_lines(note.raw, HALLUCINATED_MARKUP)
+    fail_if_hits(note, hits, "colagem crua de ChatGPT/Grok sem edição")
