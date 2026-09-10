@@ -5,7 +5,10 @@ pra serem conservadores; falhas devem ser revisadas, não auto-corrigidas.
 """
 from __future__ import annotations
 
+import math
 import re
+
+import pytest
 
 from conftest import Note, fail_if_hits, find_lines, strip_quotes_and_code
 
@@ -28,13 +31,20 @@ def _strip_bookmark_lines(body: str) -> str:
     return "\n".join(l for l in body.splitlines() if not TIMESTAMP_BOOKMARK.match(l))
 
 
+def _is_etymology_note(note: Note) -> bool:
+    """Notas de etimologia/chinês seguem convenções próprias de ritmo e
+    pontuação (notação estrutural, glosas paralelas). Seções 1, 7 e 8 skipam.
+    """
+    tags = note.frontmatter.get("tags", []) or []
+    if any("etimologia" in str(t).lower() or "chines" in str(t).lower() for t in tags):
+        return True
+    return note.slug.startswith("etimologia-de-")
+
+
 def test_dash_overuse(note: Note):
     # Notas de etimologia usam em-dash como notação estrutural ("aak1 — segurar,
     # agarrar"), não como pausa dramática. Skipa.
-    tags = note.frontmatter.get("tags", []) or []
-    if any("etimologia" in t.lower() or "chines" in t.lower() for t in tags):
-        return
-    if note.slug.startswith("etimologia-de-"):
+    if _is_etymology_note(note):
         return
 
     body = strip_quotes_and_code(_strip_bookmark_lines(note.body))
@@ -126,3 +136,134 @@ HALLUCINATED_MARKUP = re.compile(
 def test_no_hallucinated_markup(note: Note):
     hits = find_lines(note.raw, HALLUCINATED_MARKUP)
     fail_if_hits(note, hits, "colagem crua de ChatGPT/Grok sem edição")
+
+
+# ---------- 7. Uniformidade de parágrafos (ritmo mecânico) ----------
+#
+# LLM tende a produzir parágrafos do mesmo tamanho, um atrás do outro. Prosa
+# humana varia: um parágrafo de quatro linhas, um de uma, um de seis.
+# Métrica: coeficiente de variação (desvio-padrão populacional / média) do
+# número de palavras por parágrafo de prosa. CV baixo = ritmo de máquina.
+#
+# Calibração 2026-09-10, corpus de 2166 notas: 39 chegam ao mínimo de 6
+# parágrafos de prosa; 1 falha (maturana-varela-autopoiese, CV=0.13, seis
+# parágrafos entre 37 e 57 palavras) = 0.05% do corpus. Mediana do CV entre
+# as avaliadas: 0.30.
+#
+# O limiar de 5 parágrafos (primeira tentativa) reprovava mais duas notas de
+# forma legítima: krenak-vida-nao-e-util (CV=0.150, sumários "Sobre X:" de
+# tópicos de uma entrevista) e naturalizacao-desejo-e-estrategia-politica
+# (CV=0.108, anotação de podcast). Cinco parágrafos são amostra fina demais
+# pra sustentar um CV; daí MIN_PARAGRAPHS=6. As notas de bookmark saem por
+# _is_bookmark_note: ali um parágrafo por timestamp é a forma, não o vício.
+
+WORD_RE = re.compile(r"[^\W\d_]+")
+
+# Linhas que não são prosa corrida: heading, bullet, lista numerada, tabela.
+NON_PROSE_LINE = re.compile(r"^\s*(?:#|[-*+]\s|\d+[.)]\s|\|)")
+
+MIN_PARA_WORDS = 20   # abaixo disso é fragmento legítimo, não entra na média
+MIN_PARAGRAPHS = 6    # amostra menor que isso não sustenta a estatística
+MIN_CV = 0.15
+MIN_BOOKMARKS = 3     # a partir daqui a nota é lista de anotações, não prosa
+
+
+def _prose_paragraphs(note: Note, min_words: int = MIN_PARA_WORDS) -> list[str]:
+    """Parágrafos de prosa corrida do corpo da nota.
+
+    Tira citação/código/link/HTML (strip_quotes_and_code), linhas de bookmark
+    de podcast, headings, bullets, listas numeradas e linhas de tabela — sobra
+    o que o leitor lê como prosa. Fragmentos curtos são legítimos e ficam de
+    fora da conta. Seções 7 e 8 usam a mesma definição.
+    """
+    body = strip_quotes_and_code(_strip_bookmark_lines(note.body))
+    kept = [l for l in body.splitlines() if not NON_PROSE_LINE.match(l)]
+    paras = []
+    for block in re.split(r"\n\s*\n", "\n".join(kept)):
+        text = " ".join(block.split())
+        if text and len(WORD_RE.findall(text)) >= min_words:
+            paras.append(text)
+    return paras
+
+
+def _is_bookmark_note(note: Note) -> bool:
+    """Nota de anotação de podcast: um parágrafo por timestamp. A uniformidade
+    é a forma (o anotador gera um bloco por marcação), não vício de escrita.
+    """
+    marks = sum(1 for l in note.body.splitlines() if TIMESTAMP_BOOKMARK.match(l))
+    return marks >= MIN_BOOKMARKS
+
+
+def test_paragraph_uniformity(note: Note):
+    if _is_etymology_note(note) or _is_bookmark_note(note):
+        return
+    paras = _prose_paragraphs(note)
+    if len(paras) < MIN_PARAGRAPHS:
+        return
+    counts = [len(WORD_RE.findall(p)) for p in paras]
+    mean = sum(counts) / len(counts)
+    if mean <= 0:
+        return
+    cv = math.sqrt(sum((c - mean) ** 2 for c in counts) / len(counts)) / mean
+    if cv < MIN_CV:
+        pytest.fail(
+            f"\n[parágrafos uniformes demais] {note.relpath}: "
+            f"{len(paras)} parágrafos, CV={cv:.2f} < {MIN_CV} "
+            f"(média {mean:.0f} palavras)\n"
+            f"  palavras por parágrafo: {counts}\n"
+            f"  variar o tamanho: cortar um curto, deixar outro respirar.",
+            pytrace=False,
+        )
+
+
+# ---------- 8. Densidade de conectivos abrindo parágrafo ----------
+#
+# Lista separada da CONECTIVOS_INICIO do test_lexical: aqueles são
+# burocráticos e reprovam em qualquer ocorrência única. Estes são legítimos um
+# a um ("Mas o problema é outro.") e só viram vício em volume — parágrafo após
+# parágrafo pendurado no anterior por uma dobradiça, em vez de corte seco.
+#
+# Calibração 2026-09-10, corpus de 2166 notas: 51 chegam ao mínimo de 5
+# parágrafos de prosa; nenhuma reprova. A mais carregada é
+# deus-antes-de-criar-o-mundo, com 1 de 6 parágrafos (17%), metade do limiar
+# de 30%. Contar também os parágrafos curtos (< 20 palavras) não muda o
+# quadro: 62 avaliadas, máximo de 17%, zero reprovações. O autor não tem o
+# tique; o teste é guarda de regressão, com margem de 13 pontos.
+
+CONECTIVOS_BRANDOS = (
+    "mas", "porém", "então", "assim", "ou seja", "no entanto", "contudo",
+    "entretanto", "também", "aliás", "na verdade", "de fato", "por isso",
+    "logo", "e",
+)
+
+# Word boundary que respeita acentos (\b em Python não vê À-ÿ como word char).
+ABRE_CONECTIVO = re.compile(
+    r"^(?:" + "|".join(CONECTIVOS_BRANDOS) + r")(?![\wÀ-ÿ]),?\s",
+    re.IGNORECASE,
+)
+
+# Ênfase/citação markdown na abertura do parágrafo, tirada antes de casar.
+LEADING_MARKUP = re.compile(r"^[\s*_>#`\"'“”]+")
+
+MIN_TRANSITION_PARAGRAPHS = 5
+MAX_TRANSITION_RATIO = 0.30
+MIN_TRANSITION_HITS = 3
+
+
+def test_transition_density(note: Note):
+    if _is_etymology_note(note) or _is_bookmark_note(note):
+        return
+    paras = _prose_paragraphs(note)
+    if len(paras) < MIN_TRANSITION_PARAGRAPHS:
+        return
+    hits = [p for p in paras if ABRE_CONECTIVO.match(LEADING_MARKUP.sub("", p))]
+    ratio = len(hits) / len(paras)
+    if ratio > MAX_TRANSITION_RATIO and len(hits) >= MIN_TRANSITION_HITS:
+        abre = "\n".join(f"  «{p[:90]}…»" for p in hits[:6])
+        pytest.fail(
+            f"\n[conectivo abrindo parágrafo] {note.relpath}: "
+            f"{len(hits)} de {len(paras)} parágrafos ({ratio:.0%}) abrem com "
+            f"conectivo\n{abre}\n"
+            f"  usar corte seco: começar pela afirmação, não pela dobradiça.",
+            pytrace=False,
+        )
