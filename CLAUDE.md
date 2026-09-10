@@ -19,6 +19,13 @@ Se a busca não retornar nada relevante, dizer isso explicitamente
 
 Toda afirmação factual em uma nota (etimologia, datação, glosa,
 autoria, citação, atribuição) precisa de **citação de fonte inline**.
-Se não houver fonte atestada, **dizer explicitamente** que não foi
-verificado e **omitir** a afirmação — nunca parafrasear de forma
-plausível para preencher.
+Se não houver fonte atestada: **omitir a afirmação da nota** e
+**avisar o autor no chat** que ficou de fora por falta de fonte.
+Nunca parafrasear de forma plausível para preencher.
+
+Nunca escrever na nota que a fonte não foi encontrada ("não foi
+possível confirmar", "não há registro"). Isso é narração de processo,
+violação irmã do source-or-silence: o aviso é para o autor, não para
+o leitor. Em docs de pesquisa, item provisório leva ⚠ (convenção da
+skill `research`); esse é o único lugar onde "ainda não verificado"
+aparece no texto.
