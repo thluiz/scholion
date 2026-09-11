@@ -5,10 +5,11 @@
 
 title: "Tasquinha de Magarelos"
 date: "2026-09-11T21:25:50+01:00"
-lastmod: "2026-09-11T21:26:48+01:00"
+lastmod: "2026-09-11T21:27:16+01:00"
 category: place
 summary: "Restaurante com esplanada e vistas agradáveis"
 kind: ["flores", "restaurante"]
+species: ["hortensia"]
 coords: [41.319328, -7.667712]
 address: "Magarelos, Vila Real"
 ---
@@ -19,6 +20,6 @@ Nota: ★★★★★
 
 Comida excelente com preço baixo
 
-![](2026-09-11-foto.jpg)
+![Hortensia](2026-09-11-foto.jpg)
 
-![](2026-09-11-foto-2.jpg)
+![Hortensia](2026-09-11-foto-2.jpg)
