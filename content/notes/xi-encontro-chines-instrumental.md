@@ -1,13 +1,13 @@
 ---
 title: XI Encontro de Chinês Instrumental
 date: '2026-09-01T14:55:00-03:00'
-summary: 'Anotações do décimo primeiro encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira e o novo participante Daniel Araújo Vieira Lopes. Tópicos revisados a pedido de Claudio: Mandarim como idioma oficial, Cantonês sem sistema de transliteração próprio, a Denominação Moy Yat Ving Tsun como jargão de compromisso, o Cantonês relevante pela província de Guangdong e não pelo toisanês de Si Taai Gung, o papel do contexto contra a homofonia e os tons, a escuta chinesa contida, a língua chinesa como ordenadora do pensamento, o caso do ideograma de Lap Sau fora do MDBG, e o fechamento sobre revisão e prontidão.'
+summary: 'Anotações do décimo primeiro encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira e o novo participante Daniel Araújo. Tópicos revisados a pedido de Claudio: Mandarim como idioma oficial, Cantonês sem sistema de transliteração próprio, a Denominação Moy Yat Ving Tsun como jargão de compromisso, o Cantonês relevante pela província de Guangdong e não pelo toisanês de Si Taai Gung, o papel do contexto contra a homofonia e os tons, a escuta chinesa contida, a língua chinesa como ordenadora do pensamento, o caso do ideograma de Lap Sau fora do MDBG, e o fechamento sobre revisão e prontidão.'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental", "tons", "denominacao"]
 has_commentary: true
 sources: []
 ---
 
-Anotações do décimo primeiro encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira e Daniel Araújo Vieira Lopes, em sua primeira aula na série. Claudio propôs revisar os conceitos básicos para receber Daniel, e Si Fu aceitou refazer, com ele no comando, a mesma aula de abertura que já tinha dado a Claudio no início da série.
+Anotações do décimo primeiro encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira e Daniel Araújo, em sua primeira aula na série. Claudio propôs revisar os conceitos básicos para receber Daniel, e Si Fu aceitou refazer, com ele no comando, a mesma aula de abertura que já tinha dado a Claudio no início da série.
 
 ### Cavar a própria cova
 
@@ -57,7 +57,7 @@ Surgiu na aula a observação de que as interações online, sobretudo depois da
 
 O alfabeto ocidental corre numa só direção, da esquerda para a direita, enquanto o chinês pode ser escrito da direita para a esquerda ou de cima para baixo, nunca de baixo para cima. Isso obriga quem lê a captar o todo da frase antes de decifrar a ordem das palavras.
 
-Si Fu usou nomes próprios como exemplo. Quem já processou visualmente "Julio Camacho" ou "Daniel Araújo Vieira Lopes" reconhece de imediato que o nome está invertido se aparecer ao contrário, sem precisar ler letra por letra. O mesmo vale para um ideograma como o de cavalo: dá para reconhecer a imagem sem saber pronunciar o som, porque a língua chinesa não se apoia apenas na junção de fonemas como as línguas ocidentais.
+Si Fu usou nomes próprios como exemplo. Quem já processou visualmente "Julio Camacho" ou "Daniel Araújo" reconhece de imediato que o nome está invertido se aparecer ao contrário, sem precisar ler letra por letra. O mesmo vale para um ideograma como o de cavalo: dá para reconhecer a imagem sem saber pronunciar o som, porque a língua chinesa não se apoia apenas na junção de fonemas como as línguas ocidentais.
 
 Surgiu na aula o ponto de que, em chinês, o verbo costuma vir depois na frase, o que reforça a necessidade de esperar o fim para entender. Si Fu confirmou a regra geral e observou que há frases sem verbo, tal como em português.
 
