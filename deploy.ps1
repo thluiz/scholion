@@ -319,10 +319,21 @@ if ($hashedEverything) {
 
 Write-Host "==> upload: $($toUpload.Count) | delete: $($toDelete.Count)" -ForegroundColor Cyan
 
+# Como subir: um 'aws s3 cp' por ficheiro é um processo por ficheiro, ótimo para
+# meia dúzia e péssimo para dois mil — mexer no term.html reescreve todas as
+# páginas de tag de uma vez. Acima deste limiar compensa o 's3 sync', que compara
+# e transfere em paralelo dentro de um processo só. O que se sobe é o mesmo; o
+# que muda é quanto tempo demora.
+$SYNC_THRESHOLD = 200
+$useSync = $isFullScan -or ($toUpload.Count -gt $SYNC_THRESHOLD)
+
 if ($toUpload.Count -eq 0 -and $toDelete.Count -eq 0) {
     Write-Host "==> sem alterações — skip S3" -ForegroundColor Yellow
 } else {
-    if ($isFullScan) {
+    if ($useSync) {
+        if (-not $isFullScan) {
+            Write-Host "==> $($toUpload.Count) ficheiros — s3 sync em vez de cp um a um" -ForegroundColor Cyan
+        }
         Write-Host "==> s3 sync HTML (1h cache)..." -ForegroundColor Cyan
         aws s3 sync $PUBLIC_DIR $BUCKET `
             --delete `
