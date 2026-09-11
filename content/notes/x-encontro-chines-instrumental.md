@@ -41,7 +41,10 @@ Usar o termo com artigo definido, como se houvesse um único Sin Saang, é o err
 
 ### Si Nai e Dai Si Fu, termos da família de Leung Ting
 
-A família de Leung Ting tem um termo que Si Fu considera interessante, embora nem ele saiba explicar a fundo: Si Nai, a praticante mulher, distinta de Si Mo, a esposa do Si Fu. Si Fu leu isso há trinta anos, com a grafia N-A-I, e nunca chegou a descobrir o ideograma (TODO pesquisar ideograma de Si Nai). Ele próprio pondera que o termo, ao dar peso à prática, corre o risco de empurrar a Si Mo para segundo plano.
+A família de Leung Ting tem um termo que Si Fu considera interessante, embora nem ele saiba explicar a fundo: Si Nai, a praticante mulher, distinta de Si Mo, a esposa do Si Fu. Si Fu leu isso há trinta anos, com a grafia N-A-I, e nunca chegou a descobrir o ideograma. Ele próprio pondera que o termo, ao dar peso à prática, corre o risco de empurrar a Si Mo para segundo plano.
+
+> [!NOTE] Pesquisa posterior
+> O candidato mais provável ao ideograma é 師奶 (*si1 naai1*), verbete do [CantoDict](http://www.cantonese.sheik.co.uk/dictionary/words/6554/) e do MDBG com o sentido de "mulher casada de meia-idade" ou "dona de casa", o oposto do uso relatado na família de Leung Ting. Fica em aberto se a família ressignificou o termo ou se a grafia remete a outro ideograma homófono.
 
 Outro termo da mesma família é Dai Si Fu. Usado com frequência, funciona como um grau intermediário: um ponto acima do mestre sênior, um ponto abaixo do grau mestre, segundo a explicação de Si Fu, que marcou a própria definição como aproximada. Em essência, todo Dai Si Fu tem um To Dai que virou Si Fu. Já o termo Si Gung não exige isso: um praticante pode ser Si Gung mesmo que nenhum To Dai seu tenha, por sua vez, formado outro Si Fu.
 
