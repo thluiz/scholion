@@ -1,38 +1,57 @@
 {{ define "main" }}
   {{ $paginator := .Paginate .Pages.ByDate.Reverse 40 }}
 
-  {{/* Co-tags: tags that frequently appear together with the current term */}}
-  {{ $currentTag := .Title | lower }}
-  {{ $coTagCounts := dict }}
+  {{/* Este template serve duas taxonomias: tags (notas) e species (locais).
+       O que muda é o vocabulário — uma tag marca notas, uma espécie foi vista
+       em locais — e o que vale a pena mostrar ao lado. */}}
+  {{ $isSpecies := eq .Data.Plural "species" }}
+  {{ $campo := cond $isSpecies "species" "tags" }}
+  {{ $raiz := cond $isSpecies "/species/" "/tags/" }}
+
+  {{/* Nome legível: o termo é um slug, e o Hugo titula-o como "Papoila-Das-Searas". */}}
+  {{ $plano := replace (lower .Title) "-" " " }}
+  {{ $nome := printf "%s%s" (upper (substr $plano 0 1)) (substr $plano 1) }}
+
+  {{/* Co-ocorrências: tags que aparecem juntas, ou espécies vistas no mesmo sítio. */}}
+  {{ $actual := .Title | lower }}
+  {{ $contagens := dict }}
   {{ range .Pages }}
-    {{ range .Params.tags }}
+    {{ range (index .Params $campo) }}
       {{ $t := . | lower }}
-      {{ if ne $t $currentTag }}
-        {{ $current := index $coTagCounts $t | default 0 }}
-        {{ $coTagCounts = merge $coTagCounts (dict $t (add $current 1)) }}
+      {{ if ne $t $actual }}
+        {{ $current := index $contagens $t | default 0 }}
+        {{ $contagens = merge $contagens (dict $t (add $current 1)) }}
       {{ end }}
     {{ end }}
   {{ end }}
-  {{ $coTagsList := slice }}
-  {{ range $name, $count := $coTagCounts }}
-    {{ $coTagsList = $coTagsList | append (dict "name" $name "count" $count) }}
+  {{ $lista := slice }}
+  {{ range $name, $count := $contagens }}
+    {{ $lista = $lista | append (dict "name" $name "count" $count) }}
   {{ end }}
-  {{ $topCoTags := first 8 (sort $coTagsList "count" "desc") }}
+  {{ $vizinhos := first 8 (sort $lista "count" "desc") }}
 
   <section class="scholion-list">
     <header class="scholion-list-header">
-      <h1>#{{ .Title }}</h1>
+      <h1>{{ if $isSpecies }}{{ $nome }}{{ else }}#{{ .Title }}{{ end }}</h1>
       {{ $latest := index (.Pages.ByDate.Reverse) 0 }}
-      <p class="scholion-count">{{ len .Pages }} notas <span class="scholion-count-sep">·</span> última: <time datetime="{{ $latest.Date.Format "2006-01-02" }}">{{ $latest.Date.Format "2 Jan 2006" }}</time></p>
+      <p class="scholion-count">
+        {{ len .Pages }}
+        {{ if $isSpecies }}{{ cond (eq (len .Pages) 1) "local" "locais" }}{{ else }}{{ cond (eq (len .Pages) 1) "nota" "notas" }}{{ end }}
+        <span class="scholion-count-sep">·</span>
+        {{ if $isSpecies }}último registo{{ else }}última{{ end }}:
+        <time datetime="{{ $latest.Date.Format "2006-01-02" }}">{{ $latest.Date.Format "2 Jan 2006" }}</time>
+      </p>
 
-      {{ if $topCoTags }}
+      {{ if $vizinhos }}
         <div class="scholion-cotags">
-          <span class="scholion-cotags-label">também aparecem com #{{ .Title | lower }}:</span>
+          <span class="scholion-cotags-label">
+            {{ if $isSpecies }}também vistas onde há {{ lower $nome }}:{{ else }}também aparecem com #{{ .Title | lower }}:{{ end }}
+          </span>
           <ul class="scholion-cotags-list">
-            {{ range $topCoTags }}
+            {{ range $vizinhos }}
               <li>
-                <a href="{{ printf "/tags/%s/" (urlize .name) | relURL }}">
-                  #{{ .name }}<span class="scholion-cotags-count">{{ .count }}</span>
+                <a href="{{ printf "%s%s/" $raiz (urlize .name) | relURL }}">
+                  {{ if $isSpecies }}{{ replace .name "-" " " }}{{ else }}#{{ .name }}{{ end }}<span class="scholion-cotags-count">{{ .count }}</span>
                 </a>
               </li>
             {{ end }}
@@ -47,6 +66,7 @@
         {{ $noteType := .Params.category | default "" }}
         <li class="scholion-card scholion-card--{{ $kind }}{{ with $noteType }} scholion-card--{{ . }}{{ end }}" data-kind="{{ $kind }}">
           <a href="{{ .RelPermalink }}">
+            {{ if eq $noteType "place" }}{{ partial "scholion-card-thumb.html" . }}{{ end }}
             <div class="scholion-card-body">
               <h2 class="scholion-card-title">{{ .Title }}</h2>
               {{ with .Params.summary }}
@@ -73,6 +93,9 @@
                   <span class="scholion-card-type scholion-card-type--movie" title="filme">🎦</span>
                 {{ else if eq $noteType "walk" }}
                   <span class="scholion-card-type scholion-card-type--walk" title="caminhada">🗺</span>
+                {{ else if eq $noteType "place" }}
+                  <span class="scholion-card-type scholion-card-type--place"
+                        title="{{ if in (.Params.kinds | default slice) "restaurante" }}restaurante{{ else }}local com flores{{ end }}">📍</span>
                 {{ else if .Params.has_commentary }}
                   <span class="scholion-card-type" title="com comentário">📝</span>
                 {{ end }}
