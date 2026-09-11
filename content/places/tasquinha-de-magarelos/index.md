@@ -5,7 +5,7 @@
 
 title: "Tasquinha de Magarelos"
 date: "2026-09-11T21:25:50+01:00"
-lastmod: "2026-09-11T21:26:09+01:00"
+lastmod: "2026-09-11T21:26:34+01:00"
 category: place
 summary: "Restaurante com esplanada e vistas agradáveis"
 kind: ["flores", "restaurante"]
@@ -13,7 +13,7 @@ coords: [41.319328, -7.667712]
 address: "Magarelos, Vila Real"
 ---
 
-## 2026-09-11 — Visita
+## 2026-08-31 — Visita
 
 ![](2026-09-11-foto.jpg)
 
