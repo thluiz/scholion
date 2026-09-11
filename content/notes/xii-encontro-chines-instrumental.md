@@ -1,17 +1,19 @@
 ---
 title: XII Encontro de Chinês Instrumental
 date: '2026-09-08T14:59:00-03:00'
-summary: 'Anotações do décimo segundo encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira, Chi Yau Si Moy e Daniel Araújo Vieira Lopes. Tópicos revisados: a diferença entre transliteração, tradução e interpretação, a origem budista do Sam Faat 心法 e sua mecânica como método de transmissão nas caminhadas com o mestre, o silêncio como campo de reflexão, os ideogramas Sam (coração/mente) e Fat (método), o fonetismo por trás dos nomes chineses de países, e o pensamento chinês organizado por movimento, não por posição.'
+summary: 'Anotações do décimo segundo encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira, Chi Yau Si Moy e Daniel Araújo Vieira Lopes. Tópicos revisados: a diferença entre transliteração, tradução e interpretação, a origem budista do Sam Faat 心法 como um método de transmissão entre outros, sua mecânica nas caminhadas com o mestre, o silêncio como campo de reflexão, as categorias idioma, dialeto e língua, os tons e a convenção de escrita da linhagem, os ideogramas Sam (coração/mente) e Fat (método), o fonetismo por trás dos nomes chineses de países, e o pensamento chinês organizado por movimento, não por posição.'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental", "sam-faat", "budismo"]
 has_commentary: true
 sources: []
 ---
 
-Anotações do décimo segundo encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira, Chi Yau Si Moy e Daniel Araújo Vieira Lopes. O encontro abriu corrigindo um vocabulário impreciso, Claudio tinha chamado de "tradução livre" o que era interpretação, e disso desdobrou o tema do dia. O grupo passou pela origem budista do Sam Faat 心法, pela mecânica desse método de transmissão, e pelos dois ideogramas que o compõem.
+Anotações do décimo segundo encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira, Chi Yau Si Moy e Daniel Araújo Vieira Lopes. O encontro abriu corrigindo um vocabulário impreciso e disso desdobrou o tema do dia. O grupo passou pela origem budista do Sam Faat 心法, pela mecânica desse método de transmissão, e pelos dois ideogramas que o compõem.
 
 ### Transliterar não é traduzir
 
-Segundo Si Fu, transliterar é levar um sistema de escrita para outro sistema de escrita, sem necessariamente traduzir significado algum. Traduzir é outra operação, e "tradução livre" é, para Si Fu, um eufemismo de interpretação. Uma tradução mais frouxa que já embute a leitura de quem traduz. Si Fu deu o exemplo do cinema, a frase policial "os caras estão na minha cauda" vira "estou sendo seguido" numa tradução livre que já é interpretação, não tradução.
+Claudio tinha usado "transliterar" onde queria dizer "traduzir", e Si Fu desfez o nó. Segundo ele, transliterar é levar um sistema de escrita para outro sistema de escrita, sem necessariamente traduzir significado algum: sair dos ideogramas e chegar num sistema alfabético já é transliterar, e em tese nem se traduz.
+
+Claudio corrigiu para "tradução livre", e Si Fu preferiu ainda outro termo. "Tradução livre" é, para ele, um eufemismo de interpretação, e interpretação é a palavra mais honesta, porque assume que quem fala está pondo leitura própria ali. Si Fu deu o exemplo do cinema, onde a tradução livre de fato funciona: a frase policial "os caras estão na minha cauda" vira "estou sendo seguido".
 
 Segundo Si Fu, chamar Sam Faat de "coração método de vida com Kung Fu" é uma interpretação. Si Fu disse tratar Claudio, Chi Yau Si Moy e Daniel como mestres nessa conversa.
 
@@ -19,13 +21,21 @@ Segundo Si Fu, chamar Sam Faat de "coração método de vida com Kung Fu" é uma
 
 Chi Yau Si Moy abriu o encontro lembrando a ênfase de Si Taai Gung Moy Yat, que batia muito na tecla de que Kung Fu não pode ser ensinado, só aprendido, e dizia que aprender Kung Fu era andar com o mestre, numa frase a ele atribuída. Chi Yau Si Moy ligou isso à transmissão feita pela simples convivência com a pessoa, de coração para coração, por influência do budismo.
 
-Si Fu confirmou e foi além. Segundo ele, Sam Faat é um termo budista, alheio à família, ao sistema e à autoria de Si Taai Gung: Sam, no budismo, aparece o tempo todo no sentido de coração; Fat também, e ao ouvido já treinado no vocabulário budista os dois juntos remetem de cara à tradição. Segundo Si Fu, Fat Fat corresponderia ao que se chama de dharma, os ensinamentos de Buda; Fat, sozinho, seria método. ⚠ Sam Faat seria então, numa interpretação e não numa tradução livre, o método do coração de Buda.
+Si Fu confirmou e foi além. Segundo ele, Sam Faat é um termo budista, alheio à família, ao sistema e à autoria de Si Taai Gung: Sam, no budismo, aparece o tempo todo, e não apenas no sentido de coração; Fat também, e ao ouvido já treinado no vocabulário budista os dois juntos remetem de cara à tradição.
+
+Segundo Si Fu, o exemplo que mostra isso é Fat Fat, que corresponde ao que o indiano chama de dharma, os ensinamentos budistas. Ali estão dois Fat diferentes, o Fat de Buda e o Fat de método, e a leitura "o método de Buda" já é interpretação, não tradução livre. ⚠
+
+Si Fu marcou ainda que, dentro do budismo, Sam Faat é um método de transmissão entre vários. Meditação é método, leitura é método, trabalho é método.
+
+Segundo Si Fu, é comum ouvir Sam Faat traduzido como "método silencioso", e isso também é interpretação: Fat de fato é método, mas Sam não quer dizer silêncio.
 
 Sobre a expressão "de coração para coração" em si, Si Fu fez uma ressalva. É seguramente associada ao budismo, mas ele não se lembra de tê-la visto formulada assim, ao pé da letra, dentro de um texto budista. Já viu François Jullien falar sobre isso, e também Anne Cheng, mas guarda a dúvida sobre se a expressão é uma citação textual ou uma síntese posterior que se apoia na tradição.
 
 ### A caminhada com o mestre: por que três, não duas
 
-Segundo Si Fu, ao contrário da imagem que as alegorias vendem, um mestre raramente caminhava sozinho com um único discípulo. O arranjo mais comum era de três pessoas, o mestre e dois discípulos, por uma razão que Si Fu aponta como estrutural nas próprias narrativas. Quem registra a história nunca é quem viveu sozinho aquele momento com o mestre, é sempre uma testemunha que também é discípulo. Um To Dai sozinho com o Si Fu não deixa quem confirme depois o que foi dito e feito.
+Segundo Si Fu, ao contrário da imagem que as alegorias vendem, o monge não passava o dia parado meditando: comia, cuidava do local, tinha atribuições, e num território daquele tamanho os deslocamentos eram constantes. Nessas idas e vindas, um mestre raramente caminhava sozinho com um único discípulo.
+
+O arranjo mínimo mais comum era de três pessoas, o mestre e dois discípulos, e Si Fu apresentou isso como tendência, com ressalva explícita de que comporta exceções. A razão, atribuída por ele aos estudiosos que examinam essas narrativas, é estrutural: quem registra a história nunca é quem viveu sozinho aquele momento com o mestre, é sempre uma testemunha que também é discípulo. Um To Dai sozinho com o Si Fu não deixa quem confirme depois o que foi dito e feito.
 
 Segundo Si Fu, há também razões práticas, de apoio e de reposição durante deslocamentos longos, num território sempre muito grande. Segundo Si Fu, a própria família mantém esse costume até hoje, andando com mais de um discípulo por vez sempre que possível.
 
@@ -37,39 +47,71 @@ Si Fu ilustrou com um exemplo hipotético envolvendo ele, Chi Yau Si Moy e Claud
 
 ### A lógica invertida: primeiro a vida, depois o método
 
-Si Fu deu o exemplo da própria formação médica ocidental, que costuma ir da teoria à prática, chegando ao corpo vivo só depois de estudar partes separadas e cadáver. O fluxo da vida começa no corpo vivo e só depois, um dia, chega ao corpo morto. Aprender a andar, falar, comer, tudo começa fazendo, não estudando.
+Si Fu deu o exemplo da formação médica ocidental, que costuma ir da teoria à prática, chegando ao corpo vivo só depois de estudar partes separadas e cadáver. O fluxo da vida começa no corpo vivo e só depois, um dia, chega ao corpo morto. Aprender a andar, falar, comer, tudo começa fazendo, não estudando.
 
-Segundo Si Fu, o problema aparece quando o tempo entre fazer e aprender desaparece, substituído por uma sucessão de fazeres sem pausa, o que Si Fu comparou ao consumo de vídeos curtos no TikTok. O Sam Faat existe para restaurar esse intervalo. É um método encaixado na vida, praticado como pausa para parar e elaborar. Segundo Si Fu, é desse encaixe entre vida e elaboração que nasce o sentido de vida Kung Fu. Ele disse que elaborar é trabalhar, e que Kung Fu, ao pé da letra, se refere a esse trabalho.
+Segundo Si Fu, o problema aparece quando o tempo entre fazer e aprender desaparece, substituído por uma sucessão de fazeres sem pausa, um atrás do outro. ⚠ (TODO conferir na gravação se a comparação de Si Fu foi ao TikTok ou ao tique-toque do relógio)
+
+O Sam Faat existe para restaurar esse intervalo. É um método encaixado na vida, não um dispositivo à parte: não adianta ficar parado junto do Si Fu de braços cruzados, porque o método pressupõe estar exposto à vida e depois deixar um tempo sem fala para elaborar. Segundo Si Fu, o exercício de quem participa é exatamente essa elaboração.
+
+Segundo Si Fu, é desse encaixe entre vida e elaboração que nasce o sentido de vida Kung Fu. Ele disse que elaborar é trabalhar, e que Kung Fu, ao pé da letra, se refere a esse trabalho.
+
+### Categorias: idioma, dialeto, língua
+
+Retomando o que tinha ficado do encontro anterior, Si Fu arrumou as categorias para Daniel. Cantonês é dialeto, Mandarim é idioma, e língua chinesa é a categoria que abriga os dois. São ordens de coisa diferentes, não sinônimos, e ambas ficam dentro do que se chama língua chinesa, marcada por tons.
+
+Segundo Si Fu, quanto mais o grupo se ocupa de aprender os termos de verdade, mais entra na maneira chinesa de pensar. Daí a orientação prática do dia: baixar as bases quadriculadas de escrita, aquelas folhas de quadrados cortados por uma cruz, às vezes com diagonal, para treinar onde cada parte do ideograma se encaixa.
+
+Todo ideograma cabe dentro de um quadrado, disse Si Fu. Quando aparece um que estoura visivelmente esse limite, ou é caligrafia, processo artístico que rompe a moldura de propósito, ou é obra de quem não sabe nada. Tatuagem, observou ele, costuma cair na segunda categoria.
 
 ### Os tons de Sam Faat e a marca do Si Suk Mordente
 
-O grupo praticou a pronúncia de Sam Faat em Mandarim e em Cantonês. Segundo Si Fu, Sam é primeiro tom em Cantonês, quase neutro; Fat é terceiro tom, a vogal esticada e a língua presa no ponto do T sem chegar a soltá-lo. Segundo Si Fu, o dígrafo com a vogal dobrada (o A duplicado em "Faat") foi uma opção de escrita do próprio Si Suk Leonardo Mordente ao criar o sistema de transliteração da família, uma convenção da linhagem para sinalizar terceiro tom em Cantonês, sem valor oficial na língua chinesa. Segundo Si Fu, há uma tendência, ainda não pesquisada a fundo por ele, de o terceiro tom em Mandarim se manter terceiro tom em Cantonês, e Sam Faat seria um caso disso. ⚠
+O grupo praticou a pronúncia de Sam Faat em Mandarim e em Cantonês, um a um, com Si Fu corrigindo cada rodada. Segundo Si Fu, Sam é primeiro tom em Cantonês, quase neutro; Fat é terceiro tom, a vogal esticada e a língua presa no ponto do T sem chegar a soltá-lo. Em Mandarim a dupla soa mais próxima de Shin Fa, com o primeiro tom agudo e sem variação.
+
+Si Fu aproveitou para distinguir o terceiro do quarto tom: o quarto corta, mata a sílaba de vez, enquanto o terceiro estica a vogal quase dobrando o A antes de a língua travar.
+
+Segundo Si Fu, a vogal dobrada (o A duplicado em "Faat") foi uma opção de escrita do próprio Si Suk Leonardo Mordente ao criar o sistema de transliteração da família, uma convenção da linhagem para sinalizar terceiro tom em Cantonês, sem valor oficial na língua chinesa. Ele ressalvou que não é regra fixa, e que não sabe se vale para todas as vogais além do A.
+
+Segundo Si Fu, há uma tendência, ainda não pesquisada a fundo por ele, de o terceiro tom em Mandarim se manter terceiro tom em Cantonês, e Sam Faat seria um caso disso. ⚠
 
 ### Sam, o coração sem endereço fixo
 
 Si Fu perguntou a Daniel o que era Sam, e a resposta veio pronta, coração, mas coração como quê, órgão ou metáfora? Segundo Si Fu, em chinês, como em português, as duas leituras convivem, físicas e metafóricas, mesmo sem o chinês ter tido contato direto com Platão. ⚠
 
-A diferença, disse Si Fu, é que o Ocidente separa coração de mente, ou coração de cérebro, como se fossem dois territórios abstratos distintos. Sam não faz essa separação. Si Fu perguntou a Daniel onde ficava a mente dele, pedindo que apontasse: a mente não está em lugar nenhum, porque não tem existência física, ainda que resulte de atividade cerebral. O mesmo vale para o coração metafórico: fisicamente ele bate no centro do peito, mas o coração do sentimento não está ali, só é sentido ali, porque a região responde com mais força quando a emoção aperta.
+A diferença, disse Si Fu, é que o Ocidente separa coração de mente, ou coração de cérebro, como se fossem dois territórios abstratos distintos. Sam não faz essa separação. Si Fu perguntou a Daniel onde ficava a mente dele, pedindo que apontasse: a mente não está em lugar nenhum, porque não tem existência física, ainda que resulte de atividade cerebral. O mesmo vale para o coração metafórico: fisicamente ele bate no centro do peito, mas o coração do sentimento não está ali, só é sentido ali, porque a região responde com mais força quando a emoção aperta. Os antigos atribuíam ao coração o centro das emoções; hoje se sabe que esse processo se fabrica no cérebro.
 
-Segundo Si Fu, a inveja ilustra o mesmo mecanismo. Culturas diferentes localizam a inveja em partes do corpo diferentes, no olho, por exemplo, sem que isso aponte um endereço biológico real para o sentimento. ⚠ Si Fu lembrou os invejosos da Divina Comédia, castigados com os olhos costurados, porque invejar é uma incapacidade de ver o que o outro tem sem desejar mal a ele por isso. Segundo Si Fu, dizer que Sam é coração separado de mente, ou de cérebro, é a mesma imprecisão: Sam cobre tanto o processo mais emocional quanto o mais racional. ⚠ O MDBG, aliás, também lista Sam como inteligência. ⚠
+Daí Si Fu tirou uma orientação direta: não falar em "integração corpo e mente", nem em "integração coração e mente". Para o chinês a frase não faz sentido, porque é premissa básica que não existe mente sem corpo nem corpo sem mente, e o coração físico é justamente o que responde pela parte corpórea. Sam abarca os dois lados, e cobre inclusive a atividade cerebral, ainda que exista outra palavra para cérebro.
+
+Segundo Si Fu, a inveja ilustra o mesmo mecanismo. Fome, sede, inveja não têm materialidade, e ainda assim a gente se aproveita de partes do corpo para representá-las. A inveja fica no olho, o olho gordo, o olho grande, sem que isso aponte um endereço biológico real para o sentimento. ⚠
+
+Si Fu apoiou a leitura na etimologia: inveja vem do latim *invidia*, a incapacidade de ver. ⚠ Daí os invejosos da Divina Comédia, castigados justamente nos olhos, com espinhos ou grampos, punidos com o não ver. ⚠ Segundo Si Fu, invejar vai além de cobiçar: chega perto de desejar o mal de quem mostra ter aquilo que falta a quem inveja.
+
+Ele mesmo apontou o limite da associação: se a inveja nasce de algo que só se ouviu falar, e nunca se viu, ela continua sendo inveja, e continua localizada no olho. Segundo Si Fu, a associação é representacional, e o corpo entra por ser onde a coisa se sente, não por ser onde ela acontece.
+
+Segundo Si Fu, dizer que Sam é coração separado de mente, ou de cérebro, é a mesma imprecisão: Sam cobre tanto o processo mais emocional quanto o mais racional. ⚠ Surgiu na aula a observação de que o MDBG também lista Sam como inteligência, e Si Fu concordou, dizendo não ter reparado antes. ⚠
 
 ### Fat, o método que endurece
 
-Fat, disse Si Fu, é literalmente método, e em certos contextos pode ser lei, regra, ou a própria transmissão e ensinamento. A mesma ideia de transmissão de coração para coração que Chi Yau Si Moy trouxe também cabe dentro de Fat.
+Fat, disse Si Fu, é literalmente método, e também jeito e padrão. Em certos contextos endurece para lei, regra, procedimento; noutros abre para transmissão, ensinamento, e até para o princípio filosófico ou a essência de alguma coisa. Foi o sentido que ele apontou no Fat Dou praticado por Claudio e Chi Yau Si Moy, onde o termo aponta muito mais para a essência do Dou do que para a técnica.
 
-Segundo Si Fu, enquanto Sam afrouxa e espalha, Fat aperta e estrutura, e o equilíbrio entre os dois é o que o termo composto entrega. Claudio comentou ter visto a decomposição do ideograma de Fat e achado rica; Si Fu concordou que vale a pena aprofundar, ao contrário de outras decomposições que não compensam, e propôs deixar esse mergulho para o próximo encontro.
+A mesma ideia de transmissão de coração para coração que Chi Yau Si Moy trouxe também cabe dentro de Fat.
+
+Segundo Si Fu, enquanto Sam afrouxa e espalha, Fat aperta e estrutura, e o equilíbrio entre os dois é o que o termo composto entrega. Claudio comentou ter visto a decomposição do ideograma de Fat e achado rica, observando que Sam é quase pictográfico, uma tentativa de desenhar as câmaras do coração, enquanto Fat é montado de peças. Si Fu concordou que vale a pena aprofundar, ao contrário de outras decomposições que não compensam, e propôs deixar esse mergulho para o próximo encontro.
 
 ### O fonetismo por trás dos nomes de país
 
 Claudio trouxe uma dúvida antiga. Por que a China escolheu o ideograma Fat 法 para nomear a França? Segundo Si Fu, a escolha foi fonética. Escolhe-se primeiro o som próximo do nome estrangeiro, e só depois se escolhe, entre os vários ideogramas possíveis com aquele som, qual ideograma usar. O sentido de método é acidental nesse caso, sem carregar para a França nenhuma fama de país metódico na cabeça do chinês.
 
-Segundo Si Fu, o mesmo vale para a Alemanha, cujo nome chinês usa o ideograma [Tak](/notes/etimologia-de-dak-de/) 德, o mesmo que os portugueses traduziram por virtude e que Sun Tzu usa no sentido de poder ou potência. E vale para o Brasil, Ba Sai em Cantonês, Baxi em Mandarim, também escolhido pelo som. Segundo Si Fu, um transmissor responsável evita viajar demais nesses casos, porque aqui o critério foi sonoro, e não dá para inferir nada sobre "método" na França só por causa do Fat 法.
+Segundo Si Fu, o mesmo vale para a Alemanha, que em alemão é Deutsch e em chinês usa o ideograma [Dak](/notes/etimologia-de-dak-de/) 德, o mesmo que os portugueses traduziram por virtude e que, ainda segundo ele, Sun Tzu usa no sentido de poder ou potência. ⚠ E vale para o Brasil, Ba Sai em Cantonês, Baxi em Mandarim, também escolhido pelo som.
+
+Si Fu ressalvou que o som é ponto de partida, não critério único: como há muitos ideogramas com o mesmo som, a escolha final passa pelo significado. O próprio nome Kung Fu é o melhor exemplo disso. Ainda assim, disse ele, um transmissor responsável evita viajar demais nesses casos, porque não dá para inferir nada sobre "método" na França só por causa do Fat 法.
 
 ### Movimento, não posição
 
 Segundo Si Fu, o pensamento chinês prioriza o movimento sobre a posição estática, tanto na língua quanto em conceitos do sistema. Energia interna e energia externa, em português, soam como localização, uma energia que fica dentro, outra que fica fora. Em chinês, disse Si Fu, o mesmo par de termos aponta para direção de movimento, uma energia que vai de fora para dentro ou de dentro para fora, dependendo do contexto, não um endereço fixo.
 
-Segundo Si Fu, usar o português como ponto de partida para pensar energia interna e externa é inevitável, ainda que o par chinês descreva a direção do movimento da energia, de fora para dentro ou de dentro para fora, não uma localização. Segundo Si Fu, o finlandês oferece outro exemplo de organização apenas diferente, tendendo a acumular verbos no início da frase e substantivos no final. ⚠
+Segundo Si Fu, o Ocidente serve como referência, nunca como comparação. Comparar embute antagonismo, sugere que uma coisa é o oposto da outra. Pensando em português e em categorias ocidentais, é mais fácil partir daí e referenciar o resto do que tentar abrir mão disso; o erro está em tomar a base como polo contrário.
+
+Si Fu testou a ideia com outros sistemas de escrita: onde entrariam o árabe, ou o cirílico? Nenhum dos dois cabe em qualquer um dos lados, o que mostra que se trata de diferença, e não de oposição. Segundo Si Fu, o finlandês oferece outro exemplo, tendendo a acumular verbos no início da frase e substantivos no final, embora ele próprio tenha ficado em dúvida entre finlandês e islandês e deixado o ponto para confirmação. ⚠
 
 ### O que ficou do encontro
 
