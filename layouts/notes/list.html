@@ -1,6 +1,7 @@
 {{ define "main" }}
   {{ $research := where site.RegularPages "Section" "research" }}
-  {{ $allPages := union .Pages $research }}
+  {{ $places := where site.RegularPages "Section" "places" }}
+  {{ $allPages := union (union .Pages $research) $places }}
   {{ $pinnedRaw := where $allPages "Params.pinned" true }}
   {{ $pinned := sort $pinnedRaw "Params.pin_weight" "desc" }}
   {{ $unpinned := (where $allPages "Params.pinned" "!=" true).ByDate.Reverse }}
@@ -58,6 +59,12 @@
                   <span class="scholion-card-type scholion-card-type--movie" title="filme">🎦</span>
                 {{ else if eq $noteType "walk" }}
                   <span class="scholion-card-type scholion-card-type--walk" title="caminhada">🗺</span>
+                {{ else if eq $noteType "place" }}
+                  {{ if in (.Params.kind | default slice) "restaurante" }}
+                    <span class="scholion-card-type scholion-card-type--place" title="restaurante">🍽</span>
+                  {{ else }}
+                    <span class="scholion-card-type scholion-card-type--place" title="local com flores">🌼</span>
+                  {{ end }}
                 {{ else if .Params.has_commentary }}
                   <span class="scholion-card-type" title="com comentário">📝</span>
                 {{ end }}

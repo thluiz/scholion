@@ -164,41 +164,59 @@ function Get-PathsToCheck {
             }
         }
 
-        # Tags do frontmatter
+        # Taxonomias do frontmatter. Uma nota alimenta 'tags'; um local alimenta
+        # 'tags' e 'species'. Sem esta volta, /species/<flor>/ é gerado pelo Hugo
+        # e nunca sobe — a página do local aponta para ela e dá 404.
         $mdFile = Join-Path $repoDir $f
         if (Test-Path $mdFile) {
-            $inFront = $false; $inTags = $false; $tags = @()
-            foreach ($line in (Get-Content $mdFile)) {
-                if ($line -eq '---') {
-                    if (-not $inFront) { $inFront = $true } else { break }
-                    continue
-                }
-                if (-not $inFront) { continue }
-                if ($line -match '^tags\s*:\s*\[(.+)\]') {
-                    $tags = $Matches[1] -split ',' | ForEach-Object { $_.Trim().Trim('"').Trim("'") }; break
-                }
-                if ($line -match '^tags\s*:')            { $inTags = $true; continue }
-                if ($inTags -and $line -match '^\s*-\s*(.+)') { $tags += $Matches[1].Trim() }
-                elseif ($inTags) { break }
-            }
-            foreach ($tag in $tags) {
-                $tagSlug = $tag.ToLower() -replace '\s+', '-'
-                $tagHtml = "tags\$tagSlug\index.html"
-                if (Test-Path (Join-Path $publicDir $tagHtml)) { $paths.Add($tagHtml) | Out-Null }
+            foreach ($taxonomy in @('tags', 'species')) {
+                foreach ($term in (Get-FrontmatterList $mdFile $taxonomy)) {
+                    $termSlug = $term.ToLower() -replace '\s+', '-'
+                    $termHtml = "$taxonomy\$termSlug\index.html"
+                    if (Test-Path (Join-Path $publicDir $termHtml)) { $paths.Add($termHtml) | Out-Null }
 
-                # Paginadores da tag (tags\<tag>\page\N\index.html) — senão a
-                # página 1 sobe com links para páginas que nunca vão ao S3 (404).
-                $tagPageDir = Join-Path $publicDir "tags\$tagSlug\page"
-                if (Test-Path $tagPageDir) {
-                    Get-ChildItem $tagPageDir -Directory | ForEach-Object {
-                        $p = "tags\$tagSlug\page\$($_.Name)\index.html"
-                        if (Test-Path (Join-Path $publicDir $p)) { $paths.Add($p) | Out-Null }
+                    # Paginadores do termo — senão a página 1 sobe com links
+                    # para páginas que nunca vão ao S3 (404).
+                    $termPageDir = Join-Path $publicDir "$taxonomy\$termSlug\page"
+                    if (Test-Path $termPageDir) {
+                        Get-ChildItem $termPageDir -Directory | ForEach-Object {
+                            $p = "$taxonomy\$termSlug\page\$($_.Name)\index.html"
+                            if (Test-Path (Join-Path $publicDir $p)) { $paths.Add($p) | Out-Null }
+                        }
                     }
                 }
+
+                # A lista de termos (/tags/, /species/) muda sempre que um termo
+                # novo aparece.
+                $taxIndex = "$taxonomy\index.html"
+                if (Test-Path (Join-Path $publicDir $taxIndex)) { $paths.Add($taxIndex) | Out-Null }
             }
         }
     }
     return $paths
+}
+
+# Lê uma lista do frontmatter YAML, em qualquer das duas formas que o Hugo
+# aceita: em linha (chave: ["a", "b"]) ou em bloco (chave: seguido de "- a").
+function Get-FrontmatterList {
+    param($mdFile, $key)
+
+    $inFront = $false; $inList = $false; $values = @()
+    foreach ($line in (Get-Content $mdFile)) {
+        if ($line -eq '---') {
+            if (-not $inFront) { $inFront = $true; continue }
+            break
+        }
+        if (-not $inFront) { continue }
+
+        if ($line -match "^$key\s*:\s*\[(.+)\]") {
+            return $Matches[1] -split ',' | ForEach-Object { $_.Trim().Trim('"').Trim("'") }
+        }
+        if ($line -match "^$key\s*:")                 { $inList = $true; continue }
+        if ($inList -and $line -match '^\s*-\s*(.+)')  { $values += $Matches[1].Trim().Trim('"').Trim("'") }
+        elseif ($inList)                              { break }
+    }
+    return $values
 }
 
 $pathsToCheck = Get-PathsToCheck $REPO_DIR $PUBLIC_DIR $lastCommit $currentCommit

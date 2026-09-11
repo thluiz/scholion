@@ -1,7 +1,8 @@
 {{ define "main" }}
   {{ $notes := where site.RegularPages "Section" "notes" }}
   {{ $research := where site.RegularPages "Section" "research" }}
-  {{ $allNotes := union $notes $research }}
+  {{ $places := where site.RegularPages "Section" "places" }}
+  {{ $allNotes := union (union $notes $research) $places }}
   {{ $sorted := $allNotes.ByDate.Reverse }}
   {{ $pinnedRaw := where $allNotes "Params.pinned" true }}
   {{ $pinned := sort $pinnedRaw "Params.pin_weight" "desc" }}

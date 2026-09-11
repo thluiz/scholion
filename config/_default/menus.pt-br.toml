@@ -9,6 +9,11 @@
   weight = 12
 
 [[main]]
+  name = "Locais"
+  pageRef = "places"
+  weight = 13
+
+[[main]]
   name = "Fontes"
   pageRef = "sources"
   weight = 15
