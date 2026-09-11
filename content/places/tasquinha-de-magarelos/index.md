@@ -5,7 +5,7 @@
 
 title: "Tasquinha de Magarelos"
 date: "2026-09-11T21:25:50+01:00"
-lastmod: "2026-09-11T21:27:16+01:00"
+lastmod: "2026-09-11T21:57:07+01:00"
 category: place
 summary: "Restaurante com esplanada e vistas agradáveis"
 kind: ["flores", "restaurante"]
@@ -20,6 +20,6 @@ Nota: ★★★★★
 
 Comida excelente com preço baixo
 
-![Hortensia](2026-09-11-foto.jpg)
+![Hortensia](2026-08-31-hortensia.jpg)
 
-![Hortensia](2026-09-11-foto-2.jpg)
+![Hortensia](2026-08-31-hortensia-2.jpg)
