@@ -62,7 +62,7 @@
                   <span class="scholion-card-type scholion-card-type--walk" title="caminhada">🗺</span>
                 {{ else if eq $noteType "place" }}
                   <span class="scholion-card-type scholion-card-type--place"
-                        title="{{ if in (.Params.kind | default slice) "restaurante" }}restaurante{{ else }}local com flores{{ end }}">📍</span>
+                        title="{{ if in (.Params.kinds | default slice) "restaurante" }}restaurante{{ else }}local com flores{{ end }}">📍</span>
                 {{ else if .Params.has_commentary }}
                   <span class="scholion-card-type" title="com comentário">📝</span>
                 {{ end }}

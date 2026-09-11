@@ -6,7 +6,7 @@
       <header class="scholion-note-header">
         <p class="scholion-back"><a href="{{ "/places/" | relURL }}">← todos os locais</a></p>
         <div class="scholion-research-badge scholion-research-badge--place">
-          📍 Local{{ with .Params.kind }} · {{ delimit . " · " }}{{ end }}
+          📍 Local{{ with .Params.kinds }} · {{ delimit . " · " }}{{ end }}
         </div>
         <h1>{{ .Title }}</h1>
 

@@ -10,7 +10,7 @@
 
     <ul class="scholion-grid">
       {{ range $paginator.Pages }}
-        {{ $isMeal := in (.Params.kind | default slice) "restaurante" }}
+        {{ $isMeal := in (.Params.kinds | default slice) "restaurante" }}
         <li class="scholion-card scholion-card--place{{ if $isMeal }} scholion-card--meal{{ end }}">
           <a href="{{ .RelPermalink }}">
             {{ partial "scholion-card-thumb.html" . }}
