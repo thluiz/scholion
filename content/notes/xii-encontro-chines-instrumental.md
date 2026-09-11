@@ -49,7 +49,7 @@ Si Fu ilustrou com um exemplo hipotético envolvendo ele, Thiago Silva e Claudio
 
 Si Fu deu o exemplo da formação médica ocidental, que costuma ir da teoria à prática, chegando ao corpo vivo só depois de estudar partes separadas e cadáver. O fluxo da vida começa no corpo vivo e só depois, um dia, chega ao corpo morto. Aprender a andar, falar, comer, tudo começa fazendo, não estudando.
 
-O problema aparece quando o tempo entre fazer e aprender desaparece, substituído por uma sucessão de fazeres sem pausa, um atrás do outro. (TODO conferir na gravação se a comparação de Si Fu foi ao TikTok ou ao tique-toque do relógio)
+O problema aparece quando o tempo entre fazer e aprender desaparece, substituído por uma sucessão de fazeres sem pausa, um atrás do outro. Si Fu comparou isso ao TikTok, onde um vídeo empurra o outro sem deixar espaço para processar o anterior.
 
 O Sam Faat existe para restaurar esse intervalo. É um método encaixado na vida, não um dispositivo à parte: não adianta ficar parado junto do Si Fu de braços cruzados, porque o método pressupõe estar exposto à vida e depois deixar um tempo sem fala para elaborar. O exercício de quem participa é exatamente essa elaboração.
 
