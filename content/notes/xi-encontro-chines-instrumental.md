@@ -25,7 +25,7 @@ Si Fu contou que a própria família Kung Fu tem um sistema de transliteração 
 
 ### Denominação Moy Yat Ving Tsun: um jargão de compromisso
 
-Claudio levantou o termo denominação, usado dentro da família para nomear a estrutura genealógica que se organiza a partir de Si Taai Gung. Chi Yau Si Moy resumiu: a Denominação Moy Yat Ving Tsun foi o nome que Si Gung deu ao compromisso de Si Taai Gung de transmitir o sistema da forma pura como o recebeu. Si Fu aprovou a formulação sem querer arriscar piorá-la.
+Claudio levantou o termo denominação, usado dentro da família para nomear a estrutura genealógica que se organiza a partir de Si Taai Gung. Thiago Silva resumiu: a Denominação Moy Yat Ving Tsun foi o nome que Si Gung deu ao compromisso de Si Taai Gung de transmitir o sistema da forma pura como o recebeu. Si Fu aprovou a formulação sem querer arriscar piorá-la.
 
 Segundo Si Fu, denominar é simplesmente dar nome a alguma coisa, nesse caso um compromisso pessoal com a transmissão pura e completa do sistema, e o termo foi se transformando ao longo dos anos. Jargão, insistiu Si Fu, é o conjunto de palavras de um grupo que quer dizer algo específico, sem carga pejorativa. O risco é usar o termo fora desse contexto, como já aconteceu com um discípulo que repetia alguns desses termos sem entender exatamente a que se referiam, mesmo com a melhor das intenções.
 
@@ -87,4 +87,4 @@ Daniel contou que veio com a expectativa de que a aula fosse sobre aprender Cant
 
 Si Fu propôs uma leitura etimológica para a palavra rever. Segundo ele, o termo se aproxima de respeitar, no sentido de que só se volta a coisas importantes. ⚠ Voltar a um tema, para Si Fu, é a melhor ferramenta de aprendizado, porque a segunda vez revela o que a primeira não mostrou, diferente da revisão escolar de só reler o mesmo texto. Si Fu ligou isso ao tamanho do currículo do sistema, de seis níveis. Segundo ele, é bem mais curto que o de outras artes marciais, como o Karatê e seus vários graus de faixa, a ponto de muito praticante não saber dizer quantos níveis a própria arte tem. Si Fu tratou a brevidade como vantagem: currículo pequeno percorrido durante muito tempo é o que devolve o conceito de rever ao corpo. Entre o básico e o avançado só existe um nível, o intermediário, e segundo ele é isso que alimenta a sensação legítima de não estar pronto.
 
-Claudio agradeceu a Chi Yau Si Moy por ter recebido bem Gabriel, filho de um grande amigo seu, e contou que Gabriel está morando em Portugal, onde ficará um ano fazendo mestrado. Chi Yau Si Moy ofereceu o material de resumos já preparado das aulas anteriores.
+Claudio agradeceu a Thiago Silva por ter recebido bem Gabriel, filho de um grande amigo seu, e contou que Gabriel está morando em Portugal, onde ficará um ano fazendo mestrado. Thiago Silva ofereceu o material de resumos já preparado das aulas anteriores.
