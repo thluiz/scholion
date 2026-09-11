@@ -5,7 +5,7 @@
 
 title: "Muro das Silvas"
 date: "2026-09-11T18:59:13+01:00"
-lastmod: "2026-09-11T18:59:44+01:00"
+lastmod: "2026-09-11T19:00:24+01:00"
 category: place
 kind: ["flores"]
 species: ["campainhas"]
@@ -15,3 +15,5 @@ coords: [41.1002, -8.2003]
 ## 2026-09-11 — Campainhas
 
 ![Campainhas](2026-09-11-campainhas.jpg)
+
+![Campainhas](2026-09-11-campainhas-2.jpg)
