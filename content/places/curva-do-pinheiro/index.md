@@ -5,9 +5,14 @@
 
 title: "Curva do Pinheiro"
 date: "2026-09-11T10:16:52+01:00"
-lastmod: "2026-09-11T10:16:52+01:00"
+lastmod: "2026-09-11T10:16:58+01:00"
 category: place
 summary: "Curva de estrada com papoilas e malmequeres bravos."
 kind: ["flores"]
+species: ["malmequer-bravo", "papoula"]
 coords: [40.9001, -8.1001]
 ---
+
+## 2026-09-11 — Malmequer bravo, Papoula
+
+Curva cheia de papoilas e uns malmequeres bravos.
