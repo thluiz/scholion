@@ -11,8 +11,19 @@
     "lon": -8.1001
   },
   "created": "2026-09-11T10:16:52+01:00",
-  "updated": "2026-09-11T10:16:58+01:00",
+  "updated": "2026-09-11T10:17:57+01:00",
   "entries": [
+    {
+      "id": "e16355",
+      "date": "2026-09-10",
+      "type": "sighting",
+      "by": "thiago",
+      "species": [
+        "cardo"
+      ],
+      "note": "só cardos, já secos",
+      "photos": []
+    },
     {
       "id": "e16626",
       "date": "2026-09-11",
