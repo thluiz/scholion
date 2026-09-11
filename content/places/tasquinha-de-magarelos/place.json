@@ -1,0 +1,18 @@
+{
+  "slug": "tasquinha-de-magarelos",
+  "title": "Tasquinha de Magarelos",
+  "kind": [
+    "flores",
+    "restaurante"
+  ],
+  "tags": [],
+  "summary": "Restaurante com esplanada e vistas agradáveis",
+  "address": "Magarelos, Vila Real",
+  "coords": {
+    "lat": 41.319328,
+    "lon": -7.667712
+  },
+  "created": "2026-09-11T21:25:50+01:00",
+  "updated": "2026-09-11T21:25:50+01:00",
+  "entries": []
+}
