@@ -222,12 +222,30 @@ function Get-FrontmatterList {
 $pathsToCheck = Get-PathsToCheck $REPO_DIR $PUBLIC_DIR $lastCommit $currentCommit
 $isFullScan   = $ForceFullSync -or (-not $lastCommit)
 
+# Uma mudança de apresentação — layout, menu, CSS, config do Hugo — reescreve o
+# HTML de todas as páginas, e o diff de conteúdo não dá por isso: no modo
+# incremental só se re-verifica o index.html da raiz, e as outras páginas ficam
+# no ar com o menu antigo.
+#
+# A resposta não é o s3 sync cego do -ForceFullSync, que empurra dezenas de MB
+# para refazer um cabeçalho. Hashear tudo é local e paralelo, custa segundos; o
+# upload continua a ser só do que diferir.
+$presentationChanged = $false
+if (-not $isFullScan -and $lastCommit -and $lastCommit -ne $currentCommit) {
+    $presentationChanged = [bool](git diff --name-only $lastCommit $currentCommit |
+        Where-Object { $_ -match '^(layouts|config|assets|themes|static)/' })
+}
+$hashedEverything = $isFullScan -or $presentationChanged
+
 if ($isFullScan) {
     Write-Host "==> full scan ($(if ($ForceFullSync) { 'ForceFullSync' } else { 'primeiro deploy' }))" -ForegroundColor Cyan
     $filesToHash = Get-ChildItem $PUBLIC_DIR -Recurse -File | Where-Object { $_.Name -ne '.DS_Store' }
 } elseif ($lastCommit -eq $currentCommit) {
     Write-Host "==> sem novos commits — nada a publicar" -ForegroundColor Yellow
     $filesToHash = @()
+} elseif ($presentationChanged) {
+    Write-Host "==> apresentação mudou — hash de tudo, upload só do que diferir" -ForegroundColor Cyan
+    $filesToHash = Get-ChildItem $PUBLIC_DIR -Recurse -File | Where-Object { $_.Name -ne '.DS_Store' }
 } else {
     $diffFiles = git diff --name-only $lastCommit $currentCommit
     $nNotes    = ($diffFiles | Where-Object { $_ -match '^content/.*\.md$' } | Measure-Object).Count
@@ -254,8 +272,9 @@ foreach ($r in $results) {
     if ($prevManifest[$r.Rel] -ne $r.Hash) { $toUpload.Add($r.Rel) }
 }
 
-# Assets estáticos — sempre re-verificar no modo incremental
-if (-not $isFullScan) {
+# Assets estáticos — sempre re-verificar no modo incremental.
+# Desnecessário quando já se passou o hash por tudo.
+if (-not $hashedEverything) {
     $assetDirs  = @('css', 'js', 'lib', 'img')
     $assetRoots = @('robots.txt', '404.html', 'index.html', 'sitemap.xml',
                     'favicon.png', 'favicon.ico', 'favicon-16x16.png', 'favicon-32x32.png',
@@ -286,9 +305,10 @@ if (-not $isFullScan) {
     if ($assetAdded -gt 0) { Write-Host "  +$assetAdded asset(s) com hash novo" }
 }
 
-# Deleções (só full scan)
+# Deleções: só é seguro quando se olhou para o public inteiro, senão um ficheiro
+# que o diff não trouxe parece apagado e sai do ar por engano.
 $toDelete = [System.Collections.Generic.List[string]]::new()
-if ($isFullScan) {
+if ($hashedEverything) {
     foreach ($key in $prevManifest.Keys) {
         if (-not (Test-Path (Join-Path $PUBLIC_DIR $key))) {
             $toDelete.Add($key)

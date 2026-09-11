@@ -8,6 +8,10 @@
   nome escolhe a errada assim que há duas do mesmo dia, porque "-2.jpg" ordena
   antes de ".jpg". Quem sabe a ordem verdadeira é o registo, e é ele que a
   escreve. O nome ordenado fica como recurso para páginas que não declaram nada.
+
+  Mexer aqui muda o HTML de todas as páginas que mostram cartões, e o deploy
+  sabe disso: uma alteração em layouts/ faz o script hashear o public inteiro e
+  subir só o que diferir, em vez do incremental que só olha para o conteúdo.
 */}}
 {{ $escolhida := "" }}
 
