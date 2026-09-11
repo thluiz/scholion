@@ -8,7 +8,7 @@ date: "2026-09-11T21:25:50+01:00"
 lastmod: "2026-09-11T22:33:38+01:00"
 category: place
 summary: "Restaurante com esplanada e vistas agradáveis"
-kind: ["flores", "restaurante"]
+kinds: ["flores", "restaurante"]
 species: ["hortensia"]
 coords: [41.319328, -7.667712]
 address: "Magarelos, Vila Real"
