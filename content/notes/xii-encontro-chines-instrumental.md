@@ -1,13 +1,13 @@
 ---
 title: XII Encontro de Chinês Instrumental
 date: '2026-09-08T14:59:00-03:00'
-summary: 'Anotações do décimo segundo encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira, Chi Yau Si Moy e Daniel Araújo Vieira Lopes. Tópicos revisados: a diferença entre transliteração, tradução e interpretação, a origem budista do Sam Faat 心法 como um método de transmissão entre outros, sua mecânica nas caminhadas com o mestre, o silêncio como campo de reflexão, as categorias idioma, dialeto e língua, os tons e a convenção de escrita da linhagem, os ideogramas Sam (coração/mente) e Fat (método), o fonetismo por trás dos nomes chineses de países, e o pensamento chinês organizado por movimento, não por posição.'
+summary: 'Anotações do décimo segundo encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira, Thiago Silva e Daniel Araújo Vieira Lopes. Tópicos revisados: a diferença entre transliteração, tradução e interpretação, a origem budista do Sam Faat 心法 como um método de transmissão entre outros, sua mecânica nas caminhadas com o mestre, o silêncio como campo de reflexão, as categorias idioma, dialeto e língua, os tons e a convenção de escrita da linhagem, os ideogramas Sam (coração/mente) e Fat (método), o fonetismo por trás dos nomes chineses de países, e o pensamento chinês organizado por movimento, não por posição.'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental", "sam-faat", "budismo"]
 has_commentary: true
 sources: []
 ---
 
-Anotações do décimo segundo encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira, Chi Yau Si Moy e Daniel Araújo Vieira Lopes. O encontro abriu corrigindo um vocabulário impreciso e disso desdobrou o tema do dia. O grupo passou pela origem budista do Sam Faat 心法, pela mecânica desse método de transmissão, e pelos dois ideogramas que o compõem.
+Anotações do décimo segundo encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira, Thiago Silva e Daniel Araújo Vieira Lopes. O encontro abriu corrigindo um vocabulário impreciso e disso desdobrou o tema do dia. O grupo passou pela origem budista do Sam Faat 心法, pela mecânica desse método de transmissão, e pelos dois ideogramas que o compõem.
 
 ### Transliterar não é traduzir
 
@@ -15,11 +15,11 @@ Claudio tinha usado "transliterar" onde queria dizer "traduzir", e Si Fu desfez 
 
 Claudio corrigiu para "tradução livre", e Si Fu preferiu ainda outro termo. "Tradução livre" é, para ele, um eufemismo de interpretação, e interpretação é a palavra mais honesta, porque assume que quem fala está pondo leitura própria ali. Si Fu deu o exemplo do cinema, onde a tradução livre de fato funciona: a frase policial "os caras estão na minha cauda" vira "estou sendo seguido".
 
-Segundo Si Fu, chamar Sam Faat de "coração método de vida com Kung Fu" é uma interpretação. Si Fu disse tratar Claudio, Chi Yau Si Moy e Daniel como mestres nessa conversa.
+Segundo Si Fu, chamar Sam Faat de "coração método de vida com Kung Fu" é uma interpretação. Si Fu disse tratar Claudio, Thiago Silva e Daniel como mestres nessa conversa.
 
 ### Sam Faat é um termo budista
 
-Chi Yau Si Moy abriu o encontro lembrando a ênfase de Si Taai Gung Moy Yat, que batia muito na tecla de que Kung Fu não pode ser ensinado, só aprendido, e dizia que aprender Kung Fu era andar com o mestre, numa frase a ele atribuída. Chi Yau Si Moy ligou isso à transmissão feita pela simples convivência com a pessoa, de coração para coração, por influência do budismo.
+Thiago Silva abriu o encontro lembrando a ênfase de Si Taai Gung Moy Yat, que batia muito na tecla de que Kung Fu não pode ser ensinado, só aprendido, e dizia que aprender Kung Fu era andar com o mestre, numa frase a ele atribuída. Thiago Silva ligou isso à transmissão feita pela simples convivência com a pessoa, de coração para coração, por influência do budismo.
 
 Si Fu confirmou e foi além. Segundo ele, Sam Faat é um termo budista, alheio à família, ao sistema e à autoria de Si Taai Gung: Sam, no budismo, aparece o tempo todo, e não apenas no sentido de coração; Fat também, e ao ouvido já treinado no vocabulário budista os dois juntos remetem de cara à tradição.
 
@@ -43,7 +43,7 @@ Segundo Si Fu, há também razões práticas, de apoio e de reposição durante 
 
 Segundo Si Fu, havia silêncio durante essas caminhadas para elaborar a experiência vivida, algo bem distinto da simples proximidade física que renderia o saber por osmose.
 
-Si Fu ilustrou com um exemplo hipotético envolvendo ele, Chi Yau Si Moy e Claudio Teixeira. Os três saem juntos e são assaltados. Cada um teria uma reação diferente ao assalto, mas ao terminar o episódio ninguém discutiria o que aconteceu na hora. Ficariam em silêncio, porque a vida precisa seguir. Segundo Si Fu, esse silêncio é o próprio Sam Faat, o momento em que a experiência vivida com o Si Fu é introjetada e elaborada, para só depois virar conversa.
+Si Fu ilustrou com um exemplo hipotético envolvendo ele, Thiago Silva e Claudio Teixeira. Os três saem juntos e são assaltados. Cada um teria uma reação diferente ao assalto, mas ao terminar o episódio ninguém discutiria o que aconteceu na hora. Ficariam em silêncio, porque a vida precisa seguir. Segundo Si Fu, esse silêncio é o próprio Sam Faat, o momento em que a experiência vivida com o Si Fu é introjetada e elaborada, para só depois virar conversa.
 
 ### A lógica invertida: primeiro a vida, depois o método
 
@@ -91,9 +91,9 @@ Segundo Si Fu, dizer que Sam é coração separado de mente, ou de cérebro, é 
 
 ### Fat, o método que endurece
 
-Fat, disse Si Fu, é literalmente método, e também jeito e padrão. Em certos contextos endurece para lei, regra, procedimento; noutros abre para transmissão, ensinamento, e até para o princípio filosófico ou a essência de alguma coisa. Foi o sentido que ele apontou no Fat Dou praticado por Claudio e Chi Yau Si Moy, onde o termo aponta muito mais para a essência do Dou do que para a técnica.
+Fat, disse Si Fu, é literalmente método, e também jeito e padrão. Em certos contextos endurece para lei, regra, procedimento; noutros abre para transmissão, ensinamento, e até para o princípio filosófico ou a essência de alguma coisa. Foi o sentido que ele apontou no Fat Dou praticado por Claudio e Thiago Silva, onde o termo aponta muito mais para a essência do Dou do que para a técnica.
 
-A mesma ideia de transmissão de coração para coração que Chi Yau Si Moy trouxe também cabe dentro de Fat.
+A mesma ideia de transmissão de coração para coração que Thiago Silva trouxe também cabe dentro de Fat.
 
 Segundo Si Fu, enquanto Sam afrouxa e espalha, Fat aperta e estrutura, e o equilíbrio entre os dois é o que o termo composto entrega. Claudio comentou ter visto a decomposição do ideograma de Fat e achado rica, observando que Sam é quase pictográfico, uma tentativa de desenhar as câmaras do coração, enquanto Fat é montado de peças. Si Fu concordou que vale a pena aprofundar, ao contrário de outras decomposições que não compensam, e propôs deixar esse mergulho para o próximo encontro.
 
@@ -115,6 +115,6 @@ Si Fu testou a ideia com outros sistemas de escrita: onde entrariam o árabe, ou
 
 ### O que ficou do encontro
 
-Ficou combinado deixar a decomposição de Fat para o próximo encontro, a pedido de Claudio, que quer chegar com mais tempo de estudo prévio. Chi Yau Si Moy repetia havia anos, sem nunca ter checado, que a transmissão de coração para coração era budista, e saiu do encontro com essa certeza abalada, junto com a pronúncia do quinto tom, que ainda escapava depois do exercício. Daniel perguntou se o método de Sam Faat seria do tipo cartesiano, dado o contraste entre um coração fluido e um método que endurece. Si Fu descartou a hipótese. O cuidado com a tradução existe justamente para não empacotar Sam Faat dentro de categorias ocidentais rígidas que não lhe cabem.
+Ficou combinado deixar a decomposição de Fat para o próximo encontro, a pedido de Claudio, que quer chegar com mais tempo de estudo prévio. Thiago Silva repetia havia anos, sem nunca ter checado, que a transmissão de coração para coração era budista, e saiu do encontro com essa certeza abalada, junto com a pronúncia do quinto tom, que ainda escapava depois do exercício. Daniel perguntou se o método de Sam Faat seria do tipo cartesiano, dado o contraste entre um coração fluido e um método que endurece. Si Fu descartou a hipótese. O cuidado com a tradução existe justamente para não empacotar Sam Faat dentro de categorias ocidentais rígidas que não lhe cabem.
 
-Antes de encerrar, Si Fu comentou uma possível viagem à Califórnia na terceira semana de novembro, aberta a quem quisesse ir, e pediu a Chi Yau Si Moy que alinhasse os detalhes com Marcos Davi. Claudio ficou de subir o comprovante do pagamento pendente no grupo.
+Antes de encerrar, Si Fu comentou uma possível viagem à Califórnia na terceira semana de novembro, aberta a quem quisesse ir, e pediu a Thiago Silva que alinhasse os detalhes com Marcos Davi. Claudio ficou de subir o comprovante do pagamento pendente no grupo.
