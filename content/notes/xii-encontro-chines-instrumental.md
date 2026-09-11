@@ -1,13 +1,13 @@
 ---
 title: XII Encontro de Chinês Instrumental
 date: '2026-09-08T14:59:00-03:00'
-summary: 'Anotações do décimo segundo encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira, Thiago Silva e Daniel Araújo Vieira Lopes. Tópicos revisados: a diferença entre transliteração, tradução e interpretação, a origem budista do Sam Faat 心法 como um método de transmissão entre outros, sua mecânica nas caminhadas com o mestre, o silêncio como campo de reflexão, as categorias idioma, dialeto e língua, os tons e a convenção de escrita da linhagem, os ideogramas Sam (coração/mente) e Fat (método), o fonetismo por trás dos nomes chineses de países, e o pensamento chinês organizado por movimento, não por posição.'
+summary: 'Anotações do décimo segundo encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira, Thiago Silva e Daniel Araújo. Tópicos revisados: a diferença entre transliteração, tradução e interpretação, a origem budista do Sam Faat 心法 como um método de transmissão entre outros, sua mecânica nas caminhadas com o mestre, o silêncio como campo de reflexão, as categorias idioma, dialeto e língua, os tons e a convenção de escrita da linhagem, os ideogramas Sam (coração/mente) e Fat (método), o fonetismo por trás dos nomes chineses de países, e o pensamento chinês organizado por movimento, não por posição.'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental", "sam-faat", "budismo"]
 has_commentary: true
 sources: []
 ---
 
-Anotações do décimo segundo encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira, Thiago Silva e Daniel Araújo Vieira Lopes. O encontro abriu corrigindo um vocabulário impreciso e disso desdobrou o tema do dia. O grupo passou pela origem budista do Sam Faat 心法, pela mecânica desse método de transmissão, e pelos dois ideogramas que o compõem.
+Anotações do décimo segundo encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira, Thiago Silva e Daniel Araújo. O encontro abriu corrigindo um vocabulário impreciso e disso desdobrou o tema do dia. O grupo passou pela origem budista do Sam Faat 心法, pela mecânica desse método de transmissão, e pelos dois ideogramas que o compõem.
 
 ### Transliterar não é traduzir
 
