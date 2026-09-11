@@ -115,6 +115,6 @@ Si Fu testou a ideia com outros sistemas de escrita: onde entrariam o árabe, ou
 
 ### O que ficou do encontro
 
-Ficou combinado deixar a decomposição de Fat para o próximo encontro, a pedido de Claudio, que quer chegar com mais tempo de estudo prévio. Thiago Silva repetia havia anos, sem nunca ter checado, que a transmissão de coração para coração era budista, e saiu do encontro com essa certeza abalada, junto com a pronúncia do quinto tom, que ainda escapava depois do exercício. Daniel perguntou se o método de Sam Faat seria do tipo cartesiano, dado o contraste entre um coração fluido e um método que endurece. Si Fu descartou a hipótese. O cuidado com a tradução existe justamente para não empacotar Sam Faat dentro de categorias ocidentais rígidas que não lhe cabem.
+Ficou combinado deixar a decomposição de Fat para o próximo encontro, a pedido de Claudio, que quer chegar com mais tempo de estudo prévio. Daniel perguntou se o método de Sam Faat seria do tipo cartesiano, dado o contraste entre um coração fluido e um método que endurece. Si Fu descartou a hipótese. O cuidado com a tradução existe justamente para não empacotar Sam Faat dentro de categorias ocidentais rígidas que não lhe cabem.
 
 Antes de encerrar, Si Fu comentou uma possível viagem à Califórnia na terceira semana de novembro, aberta a quem quisesse ir, e pediu a Thiago Silva que alinhasse os detalhes com Marcos Davi. Claudio ficou de subir o comprovante do pagamento pendente no grupo.
