@@ -5,9 +5,8 @@
     <article class="scholion-note scholion-note--place">
       <header class="scholion-note-header">
         <p class="scholion-back"><a href="{{ "/places/" | relURL }}">← todos os locais</a></p>
-        <div class="scholion-research-badge">
-          {{ if in (.Params.kind | default slice) "restaurante" }}🍽{{ else }}🌼{{ end }}
-          Local{{ with .Params.kind }} · {{ delimit . " · " }}{{ end }}
+        <div class="scholion-research-badge scholion-research-badge--place">
+          📍 Local{{ with .Params.kind }} · {{ delimit . " · " }}{{ end }}
         </div>
         <h1>{{ .Title }}</h1>
 

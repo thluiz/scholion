@@ -13,6 +13,7 @@
         {{ $isMeal := in (.Params.kind | default slice) "restaurante" }}
         <li class="scholion-card scholion-card--place{{ if $isMeal }} scholion-card--meal{{ end }}">
           <a href="{{ .RelPermalink }}">
+            {{ partial "scholion-card-thumb.html" . }}
             <div class="scholion-card-body">
               <h2 class="scholion-card-title">{{ .Title }}</h2>
               {{ with .Params.summary }}<p class="scholion-card-summary">{{ . }}</p>{{ end }}
@@ -25,9 +26,8 @@
               {{ end }}
               <div class="scholion-card-dateline">
                 <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format "2 Jan 2006" }}</time>
-                <span class="scholion-card-type" title="{{ if $isMeal }}restaurante{{ else }}flores{{ end }}">
-                  {{ if $isMeal }}🍽{{ else }}🌼{{ end }}
-                </span>
+                <span class="scholion-card-type scholion-card-type--place"
+                      title="{{ if $isMeal }}restaurante{{ else }}local com flores{{ end }}">📍</span>
               </div>
             </div>
           </a>

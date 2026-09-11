@@ -33,6 +33,7 @@
             {{ $noteType := .Params.category | default "" }}
             <li class="scholion-card scholion-card--{{ $kind }}{{ with $noteType }} scholion-card--{{ . }}{{ end }} scholion-card--pinned scholion-pinned-card" data-kind="{{ $kind }}">
               <a href="{{ .RelPermalink }}">
+                {{ if eq $noteType "place" }}{{ partial "scholion-card-thumb.html" . }}{{ end }}
                 <div class="scholion-card-body">
                   <h3 class="scholion-card-title">{{ .Title }}</h3>
                   {{ with .Params.summary }}
@@ -59,6 +60,10 @@
                       <span class="scholion-card-type scholion-card-type--movie" title="filme">🎦</span>
                     {{ else if eq $noteType "walk" }}
                       <span class="scholion-card-type scholion-card-type--walk" title="caminhada">🗺</span>
+                  {{ else if eq $noteType "place" }}
+                    <span class="scholion-card-type scholion-card-type--place" title="local">📍</span>
+                    {{ else if eq $noteType "place" }}
+                      <span class="scholion-card-type scholion-card-type--place" title="local">📍</span>
                     {{ else if .Params.has_commentary }}
                       <span class="scholion-card-type" title="com comentário">📝</span>
                     {{ end }}
@@ -91,6 +96,7 @@
           {{ $isResearch := eq .Section "research" }}
           <li class="scholion-card scholion-card--{{ $kind }}{{ with $noteType }} scholion-card--{{ . }}{{ end }}{{ if $isPinned }} scholion-card--pinned{{ end }}{{ if $isResearch }} scholion-card--research{{ end }}" data-kind="{{ $kind }}">
             <a href="{{ .RelPermalink }}">
+              {{ if eq $noteType "place" }}{{ partial "scholion-card-thumb.html" . }}{{ end }}
               <div class="scholion-card-body">
                 <h3 class="scholion-card-title">{{ .Title }}</h3>
                 {{ with .Params.summary }}
@@ -119,6 +125,8 @@
                     <span class="scholion-card-type scholion-card-type--movie" title="filme">🎦</span>
                   {{ else if eq $noteType "walk" }}
                     <span class="scholion-card-type scholion-card-type--walk" title="caminhada">🗺</span>
+                  {{ else if eq $noteType "place" }}
+                    <span class="scholion-card-type scholion-card-type--place" title="local">📍</span>
                   {{ else if .Params.has_commentary }}
                     <span class="scholion-card-type" title="com comentário">📝</span>
                   {{ end }}

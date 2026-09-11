@@ -1,0 +1,30 @@
+{{/*
+  Miniatura de cartão: a fotografia que representa a página, se houver.
+
+  Recebe a página. Não faz nada quando a página não é um bundle ou não tem
+  imagem — a maioria das notas —, portanto pode ser chamado sem condição.
+
+  Qual fotografia: a que o frontmatter indicar em `thumb`. Ordenar ficheiros por
+  nome escolhe a errada assim que há duas do mesmo dia, porque "-2.jpg" ordena
+  antes de ".jpg". Quem sabe a ordem verdadeira é o registo, e é ele que a
+  escreve. O nome ordenado fica como recurso para páginas que não declaram nada.
+*/}}
+{{ $escolhida := "" }}
+
+{{ with .Params.thumb }}
+  {{ $escolhida = $.Resources.GetMatch . }}
+{{ end }}
+
+{{ if not $escolhida }}
+  {{ with .Resources.ByType "image" }}
+    {{ $escolhida = index (sort . "Name") 0 }}
+  {{ end }}
+{{ end }}
+
+{{ with $escolhida }}
+  {{ $thumb := .Fill "480x270 Center" }}
+  <div class="scholion-card-thumb">
+    <img src="{{ $thumb.RelPermalink }}" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}"
+         alt="" loading="lazy" class="nozoom">
+  </div>
+{{ end }}

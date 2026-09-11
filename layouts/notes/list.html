@@ -27,6 +27,7 @@
         {{ $isPublished := eq (string (.Params.research | default "")) "published" }}
         <li class="scholion-card scholion-card--{{ $kind }}{{ with $noteType }} scholion-card--{{ . }}{{ end }}{{ if $isPinned }} scholion-card--pinned{{ end }}{{ if $isPublished }} scholion-card--research-published{{ else if $isResearch }} scholion-card--research{{ end }}" data-kind="{{ $kind }}">
           <a href="{{ .RelPermalink }}">
+            {{ if eq $noteType "place" }}{{ partial "scholion-card-thumb.html" . }}{{ end }}
             <div class="scholion-card-body">
               <h2 class="scholion-card-title">{{ .Title }}</h2>
               {{ with .Params.summary }}
@@ -60,11 +61,8 @@
                 {{ else if eq $noteType "walk" }}
                   <span class="scholion-card-type scholion-card-type--walk" title="caminhada">🗺</span>
                 {{ else if eq $noteType "place" }}
-                  {{ if in (.Params.kind | default slice) "restaurante" }}
-                    <span class="scholion-card-type scholion-card-type--place" title="restaurante">🍽</span>
-                  {{ else }}
-                    <span class="scholion-card-type scholion-card-type--place" title="local com flores">🌼</span>
-                  {{ end }}
+                  <span class="scholion-card-type scholion-card-type--place"
+                        title="{{ if in (.Params.kind | default slice) "restaurante" }}restaurante{{ else }}local com flores{{ end }}">📍</span>
                 {{ else if .Params.has_commentary }}
                   <span class="scholion-card-type" title="com comentário">📝</span>
                 {{ end }}
