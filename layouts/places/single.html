@@ -15,17 +15,18 @@
         <div class="scholion-note-meta">
           <a href="https://www.openstreetmap.org/?mlat={{ $lat }}&amp;mlon={{ $lon }}#map=16/{{ $lat }}/{{ $lon }}"
              rel="noopener" target="_blank">📍 {{ $lat }}, {{ $lon }}</a>
-          <span class="scholion-card-sep"> · </span>
           <a class="scholion-map-link" href="https://www.google.com/maps/search/?api=1&amp;query={{ $lat }},{{ $lon }}"
              rel="noopener" target="_blank" aria-label="Abrir no Google Maps" title="Abrir no Google Maps"
              ><span class="inline-block align-text-bottom">{{ partial "icon.html" "map-location-dot" }}</span></a>
-          <span class="scholion-card-sep"> · </span>
           <a class="scholion-map-link" href="https://www.waze.com/ul?ll={{ $lat }},{{ $lon }}&amp;navigate=yes"
              rel="noopener" target="_blank" aria-label="Abrir no Waze" title="Abrir no Waze"
              ><span class="inline-block align-text-bottom">{{ partial "icon.html" "waze" }}</span></a>
           {{ with .Params.address }}<span class="scholion-card-sep"> · {{ . }}</span>{{ end }}
-          {{ with .Lastmod }}<span class="scholion-card-sep"> · última visita <time datetime="{{ .Format "2006-01-02" }}">{{ .Format "2 Jan 2006" }}</time></span>{{ end }}
         </div>
+
+        {{ with .Lastmod }}
+          <div class="scholion-note-meta">última visita <time datetime="{{ .Format "2006-01-02" }}">{{ .Format "2 Jan 2006" }}</time></div>
+        {{ end }}
 
         {{ with .Params.species }}
           <ul class="scholion-note-tags">
