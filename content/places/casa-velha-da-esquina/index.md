@@ -5,10 +5,10 @@
 
 title: "Casa velha da esquina"
 date: "2026-09-12T09:01:30+01:00"
-lastmod: "2026-09-12T09:03:50+01:00"
+lastmod: "2026-09-12T09:04:05+01:00"
 category: place
 kinds: ["flores"]
-species: ["hortensia"]
+species: ["hortensia", "rosa"]
 coords: [41.185054, -8.69059]
 thumb: "2026-09-12-hortensia.jpg"
 ---
@@ -16,6 +16,10 @@ thumb: "2026-09-12-hortensia.jpg"
 ## 2026-07-15 — Hortensia
 
 ## 2026-08-15 — Hortensia
+
+## 2026-08-28 — Rosa
+
+Acesso mais difícil
 
 ## 2026-09-12 — Hortensia
 

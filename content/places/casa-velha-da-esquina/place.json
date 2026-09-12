@@ -10,7 +10,7 @@
     "lon": -8.69059
   },
   "created": "2026-09-12T09:01:30+01:00",
-  "updated": "2026-09-12T09:03:50+01:00",
+  "updated": "2026-09-12T09:04:05+01:00",
   "entries": [
     {
       "id": "ef6bb7",
@@ -30,6 +30,17 @@
       "species": [
         "hortensia"
       ],
+      "photos": []
+    },
+    {
+      "id": "ec5b3f",
+      "date": "2026-08-28",
+      "type": "sighting",
+      "by": "oficina",
+      "species": [
+        "rosa"
+      ],
+      "note": "Acesso mais difícil",
       "photos": []
     },
     {
