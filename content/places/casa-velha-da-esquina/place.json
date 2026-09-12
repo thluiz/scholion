@@ -10,6 +10,22 @@
     "lon": -8.69059
   },
   "created": "2026-09-12T09:01:30+01:00",
-  "updated": "2026-09-12T09:01:30+01:00",
-  "entries": []
+  "updated": "2026-09-12T09:01:39+01:00",
+  "entries": [
+    {
+      "id": "e7d122",
+      "date": "2026-09-12",
+      "type": "sighting",
+      "by": "oficina",
+      "species": [
+        "hortensia"
+      ],
+      "photos": [
+        {
+          "id": "p9261d",
+          "file": "2026-09-12-hortensia.jpg"
+        }
+      ]
+    }
+  ]
 }
