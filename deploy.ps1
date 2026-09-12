@@ -227,9 +227,8 @@ $isFullScan   = $ForceFullSync -or (-not $lastCommit)
 # incremental só se re-verifica o index.html da raiz, e as outras páginas ficam
 # no ar com o menu antigo.
 #
-# A resposta não é o s3 sync cego do -ForceFullSync, que empurra dezenas de MB
-# para refazer um cabeçalho. Hashear tudo é local e paralelo, custa segundos; o
-# upload continua a ser só do que diferir.
+# Hashear tudo é local e paralelo, custa segundos; o upload continua a ser só
+# do que diferir por conteúdo (nunca um s3 sync cego por mtime).
 $presentationChanged = $false
 if (-not $isFullScan -and $lastCommit -and $lastCommit -ne $currentCommit) {
     $presentationChanged = [bool](git diff --name-only $lastCommit $currentCommit |
@@ -319,48 +318,39 @@ if ($hashedEverything) {
 
 Write-Host "==> upload: $($toUpload.Count) | delete: $($toDelete.Count)" -ForegroundColor Cyan
 
-# Como subir: um 'aws s3 cp' por ficheiro é um processo por ficheiro, ótimo para
-# meia dúzia e péssimo para dois mil — mexer no term.html reescreve todas as
-# páginas de tag de uma vez. Acima deste limiar compensa o 's3 sync', que compara
-# e transfere em paralelo dentro de um processo só. O que se sobe é o mesmo; o
-# que muda é quanto tempo demora.
-$SYNC_THRESHOLD = 200
-$useSync = $isFullScan -or ($toUpload.Count -gt $SYNC_THRESHOLD)
-
+# Subir sempre por 'aws s3 cp', nunca 's3 sync': o sync compara tamanho+mtime
+# contra o bucket, e o Hugo reescreve o mtime de TODO o public/ a cada build —
+# então o sync trata o site inteiro como modificado, mesmo sem mudança de
+# conteúdo. É exatamente o problema que o manifesto SHA256 acima existe para
+# evitar; delegar pro sync jogava fora essa garantia.
+#
+# Pra não pagar um processo 'aws' por ficheiro em mudanças grandes (ex:
+# term.html reescreve todas as páginas de tag), os cp's rodam em paralelo
+# dentro do mesmo processo PowerShell.
 if ($toUpload.Count -eq 0 -and $toDelete.Count -eq 0) {
     Write-Host "==> sem alterações — skip S3" -ForegroundColor Yellow
 } else {
-    if ($useSync) {
-        if (-not $isFullScan) {
-            Write-Host "==> $($toUpload.Count) ficheiros — s3 sync em vez de cp um a um" -ForegroundColor Cyan
-        }
-        Write-Host "==> s3 sync HTML (1h cache)..." -ForegroundColor Cyan
-        aws s3 sync $PUBLIC_DIR $BUCKET `
-            --delete `
-            --exclude "*" `
-            --include "*.html" --include "*.xml" --include "*.json" --include "*.txt" `
-            --cache-control "public, max-age=3600"
-        if ($LASTEXITCODE -ne 0) { throw "s3 sync HTML failed" }
-
-        Write-Host "==> s3 sync assets (1y cache)..." -ForegroundColor Cyan
-        aws s3 sync $PUBLIC_DIR $BUCKET `
-            --exclude "*.html" --exclude "*.xml" --exclude "*.json" --exclude "*.txt" `
-            --cache-control "public, max-age=31536000, immutable"
-        if ($LASTEXITCODE -ne 0) { throw "s3 sync assets failed" }
-    } else {
-        $uploadErrors = foreach ($rel in $toUpload) {
+    if ($toUpload.Count -gt 0) {
+        Write-Host "==> upload ($($toUpload.Count) ficheiro(s), paralelo)..." -ForegroundColor Cyan
+        $uploadErrors = $toUpload | ForEach-Object -Parallel {
+            $rel   = $_
             $s3Key = $rel.Replace('\', '/')
             $ct    = if ($rel -match '\.(html|xml|json|txt)$') {
                          "public, max-age=3600"
                      } else {
                          "public, max-age=31536000, immutable"
                      }
-            $out = aws s3 cp (Join-Path $PUBLIC_DIR $rel) "$BUCKET/$s3Key" `
+            $out = & $using:AWS_EXE --profile $using:AWS_PROFILE --region $using:REGION s3 cp `
+                       (Join-Path $using:PUBLIC_DIR $rel) "$($using:BUCKET)/$s3Key" `
                        --cache-control $ct --only-show-errors 2>&1
             if ($LASTEXITCODE -ne 0) { "FAIL: $s3Key — $out" }
-        }
-        if ($uploadErrors) { throw "Falhas no upload:`n$($uploadErrors -join "`n")" }
+        } -ThrottleLimit 24 | Where-Object { $_ }
 
+        if ($uploadErrors) { throw "Falhas no upload:`n$($uploadErrors -join "`n")" }
+    }
+
+    if ($toDelete.Count -gt 0) {
+        Write-Host "==> delete ($($toDelete.Count) ficheiro(s))..." -ForegroundColor Cyan
         foreach ($rel in $toDelete) {
             aws s3 rm "$BUCKET/$($rel.Replace('\','/'))" | Out-Null
         }
