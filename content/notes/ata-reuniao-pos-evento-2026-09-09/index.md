@@ -16,6 +16,8 @@ _build:
 
 Reunião de balanço do evento na casa de Márcio Lopes (Moy Si Ou), organizado pelo Instituto Julio Camacho. Daniel conduziu, propondo refletir sobre o que foi feito e mobilizar os demais para os próximos passos. Serve também de pré-evento do próximo: a diretriz é unificar pós-evento e pré-evento, por eficiência.
 
+{{< figure src="reuniao-pos-evento-09-09.jpg" alt="Chamada de vídeo da reunião de pós-evento, com Rafael, Claudio e Tiago" caption="*Reunião de pós-evento, 09/09/2026*" figureClass="text-center italic" >}}
+
 ## Decisões fechadas
 
 - Pré-evento e pós-evento obrigatórios em todos os eventos futuros, seguindo o eixo de refinamento, correção e implementação sugerido pelo Sifu.
