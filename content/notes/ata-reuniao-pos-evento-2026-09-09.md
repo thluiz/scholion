@@ -14,7 +14,7 @@ _build:
   render: always
 ---
 
-Reunião de balanço do evento na casa de Márcio Lopes (Moy Si Ou, família Si Ou), organizado pelo Instituto Julio Camacho. Daniel conduziu, propondo refletir sobre o que foi feito e mobilizar os demais para os próximos passos. Serve também de pré-evento do próximo: a diretriz é unificar pós-evento e pré-evento, por eficiência.
+Reunião de balanço do evento na casa de Márcio Lopes (Moy Si Ou), organizado pelo Instituto Julio Camacho. Daniel conduziu, propondo refletir sobre o que foi feito e mobilizar os demais para os próximos passos. Serve também de pré-evento do próximo: a diretriz é unificar pós-evento e pré-evento, por eficiência.
 
 ## Decisões fechadas
 
@@ -28,7 +28,7 @@ Reunião de balanço do evento na casa de Márcio Lopes (Moy Si Ou, família Si 
 ## Pontos em aberto
 
 ### Convocação de mestres
-Rodrigo não foi convidado, por custo de honorário. Sifu Cris não compareceu. Márcio não convidou o mestre Léo Reis nem o considerou formalmente como mestre no processo. Vladimir declinou. Cristiano prometeu resposta em dois dias e não respondeu até esta reunião.
+Rodrigo não foi convidado, pela dificuldade de comunicação. Cris Goldman não compareceu. Márcio não convidou o mestre Léo Reis devido a distância pessoal. Vladimir declinou. Cristiano prometeu resposta em dois dias e não respondeu até esta reunião.
 
 ### Uniforme
 Márcio propôs: uniforme preto, pin no peito esquerdo por grau (prata, dourado, vermelho para mestres), adesivo do Instituto Julio Camacho nas costas, bandeiras do Brasil e dos Estados Unidos nas mangas. Tiago Lopes propôs decidir por enquete. Um participante questionou a bandeira dos EUA e sugeriu a da China, pelo vínculo com a origem da arte; a defesa da bandeira americana é o vínculo da organização com as imersões nos EUA.
@@ -50,7 +50,7 @@ Levantada a possibilidade de eventos conjuntos com outros clãs: Si Suk Ursula, 
 Proposta de cadência mensal, com sugestão de marcar o próximo para início de outubro.
 
 ### Evento de Guaratiba e imersão futura
-Próximo evento oficial do clã, Instituto Julio Camacho responsável, Rafael Mendes à frente da organização local. O pré-evento de Guaratiba deve incluir a imersão que o Sifu Guilherme propõe há um tempo, ainda sem data.
+Próximo evento oficial do clã, Instituto Julio Camacho responsável, Rafael Mendes à frente da organização local. O pré-evento de Guaratiba deve incluir a imersão que o Mestre Guilherme propõe há um tempo, ainda sem data.
 
 ### Prática aberta e novo público
 A prática em locais públicos, relato de Tiago Lopes na praia, atraiu curiosos e funcionou como divulgação. Falta formalizar isso como "prática aberta": como lidar com abordagens, como usar para divulgação. Também ficou pendente reengajar praticantes afastados e aproximar outras famílias do clã.
@@ -64,9 +64,9 @@ Constava nas notas de preparação do Daniel como próximo evento a tratar. Não
 ## Próximas etapas
 
 - [ ] **Rafael Mendes** — organizar e agendar o pré-evento de Guaratiba.
-- [ ] **Instituto Julio Camacho** — levar as opções de uniforme para votação no grupo.
-- [ ] **Instituto Julio Camacho** — comprar tripé e equipamento audiovisual.
+- [X] **Marcio Lopes** — levar as opções de uniforme para votação no grupo.
+- [ ] **Guilherme Farias** — Garantir tripé e equipamento audiovisual.
 - [ ] **Grupo** — fechar a agenda de eventos até o fim do ano.
 - [ ] **Grupo** — definir a prática de Hung Bao para eventos abertos.
-- [ ] **Daniel** — agendar a reunião de pós-evento com o Sifu; se preparar melhor para conduzir as próximas reuniões.
+- [ ] **Daniel** — agendar a reunião de pós-evento com o Si Fu; se preparar melhor para conduzir as próximas reuniões.
 - [ ] **Grupo** — retomar a pauta da Cerimônia de Setembro.
