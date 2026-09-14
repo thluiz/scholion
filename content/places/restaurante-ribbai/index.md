@@ -5,7 +5,7 @@
 
 title: "Restaurante Ribbai"
 date: "2026-09-14T14:09:25+01:00"
-lastmod: "2026-09-14T14:12:48+01:00"
+lastmod: "2026-09-14T14:13:34+01:00"
 category: place
 kinds: ["restaurante"]
 coords: [38.988103, -9.418044]
@@ -16,6 +16,6 @@ thumb: "2026-09-14-poke-de-salmao.jpg"
 
 Nota: ★★★★★
 
-Salmão, abacate, morangos e sumo de laranja. Porções boas para dividir — preço salgado, mas a batata de entrada vale muito a pena.
+Salmão, abacate, morangos e sumo de laranja. Porções boas para dividir — preço salgado, mas a batata de entrada vale muito a pena. Thilia comeu camarões ao Brás, muito bom também.
 
 ![](2026-09-14-poke-de-salmao.jpg)
