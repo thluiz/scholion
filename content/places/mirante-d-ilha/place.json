@@ -11,6 +11,28 @@
     "lon": -9.4189
   },
   "created": "2026-09-14T14:15:20+01:00",
-  "updated": "2026-09-14T14:15:20+01:00",
-  "entries": []
+  "updated": "2026-09-14T14:15:39+01:00",
+  "entries": [
+    {
+      "id": "edd181",
+      "date": "2026-09-14",
+      "type": "sighting",
+      "by": "oficina",
+      "note": "Vista para a praia de falésias, mar azul. Passeio de calçada junto à costa.",
+      "photos": [
+        {
+          "id": "p1c40a",
+          "file": "2026-09-14-foto.jpg"
+        },
+        {
+          "id": "pba9c8",
+          "file": "2026-09-14-foto-2.jpg"
+        },
+        {
+          "id": "p74f6f",
+          "file": "2026-09-14-foto-3.jpg"
+        }
+      ]
+    }
+  ]
 }
