@@ -5,8 +5,15 @@
 
 title: "Restaurante Ribbai"
 date: "2026-09-14T14:09:25+01:00"
-lastmod: "2026-09-14T14:09:25+01:00"
+lastmod: "2026-09-14T14:12:22+01:00"
 category: place
 kinds: ["restaurante"]
 coords: [38.988103, -9.418044]
+thumb: "2026-09-14-foto.jpg"
 ---
+
+## 2026-09-14 — Visita
+
+Salmão, abacate, morangos e sumo de laranja
+
+![](2026-09-14-foto.jpg)
