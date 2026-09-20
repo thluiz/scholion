@@ -16,8 +16,8 @@ toc: true
 
 ## Estado
 
-- **Em foco**: Direção 6 (história econômica) aberta — transumância e Mesta verificadas. Direção 4 iniciada com o bloco de feriados. Direção 1 ampliada até a crise de 2008-2014. Direção 2 tem a primeira comparação (Catalunha x Galícia) verificada.
-- **Próximo**: seguir Direção 6 pelo resto do arco econômico já esboçado em conversa (mineração pré-romana, Hispânia romana, Al-Ándalus, prata americana/revolução dos preços, industrialização do séc. XIX, autarquia/milagre franquista, economia atual) — cada trecho precisa de rodada própria de verificação, como a Mesta. Seguir também Direção 2 (demais comunidades) e Direção 4 (hábitos sociais, mercado de trabalho, burocracia).
+- **Em foco**: Direção 6 (história econômica) concluída nesta rodada — arco completo do Rio Tinto pré-romano à economia de 2026, verificado contra fonte. Direção 4 iniciada com o bloco de feriados. Direção 1 ampliada até a crise de 2008-2014. Direção 2 tem a primeira comparação (Catalunha x Galícia) verificada.
+- **Próximo**: Direção 2 (demais comunidades: Madrid, Comunidade Valenciana, Andaluzia, País Basco, mais nota geral das outras onze) e Direção 4 (hábitos sociais, mercado de trabalho, burocracia).
 
 ## Motivação
 
@@ -60,7 +60,7 @@ O que o ensino de história no Brasil e em Portugal costuma pular ou simplificar
 
 ### 6. História econômica — do Rio Tinto pré-romano a hoje
 
-Ciclos de riqueza extrativa/exportadora (mineração pré-romana, azeite bético, prata americana, lã da Mesta) intercalados com atraso produtivo interno; industrialização tardia e concentrada em Catalunha/País Basco; autarquia franquista e depois o "milagre econômico" (1959-1973); economia de serviços hoje. Esboçado em conversa; a Mesta e a transumância já verificadas (ver Fontes).
+Ciclos de riqueza extrativa/exportadora (mineração pré-romana, azeite bético, prata americana, lã da Mesta) intercalados com atraso produtivo interno; industrialização tardia e concentrada em Catalunha/País Basco; autarquia franquista e depois o "milagre econômico" (1959-1973); economia de serviços hoje. Arco completo verificado contra fonte nesta rodada (ver Fontes) — a síntese do "fio condutor" no marco final é interpretação própria, não citação de historiador.
 
 ## Notas do Scholion já relacionadas
 
@@ -287,6 +287,24 @@ Links: [Calendario laboral y festivos de España 2026 (Factorial)](https://facto
 
 ### História econômica ✓
 
+#### Mineração pré-romana e comércio fenício-cartaginês (antes do séc. III a.C.) ✓
+
+O sudoeste da península desenvolveu a sociedade **Tartéssica**, com extração de prata, chumbo e cobre — principais zonas em **Rio Tinto** (Huelva), Aznalcóllar e Cástulo (Jaén). Os **fenícios** chegaram por volta do século VIII a.C. como comerciantes, trocando produtos manufaturados por metais e cereais extraídos por elites territoriais locais. Os **cartagineses** intensificaram a exploração: Asdrúbal Barca fundou Carthago Nova (atual Cartagena) em 226 a.C., região riquíssima em prata — essa prata financiou boa parte da Segunda Guerra Púnica de Cartago contra Roma.
+
+Links: [Las minas romanas de Río Tinto (Viator Imperi)](https://viatorimperi.es/rio-tinto/) · [Economía en la Hispania romana (Wikipedia ES)](https://es.wikipedia.org/wiki/Econom%C3%ADa_en_la_Hispania_romana)
+
+#### Economia da Hispânia romana — o "granero" e a exportação de azeite (séc. II a.C. - séc. V d.C.) ✓
+
+Roma explorou o que já existia (ouro, prata, ferro, cobre, mercúrio em Almadén), mas o diferencial foi agrícola: a **Bética** (sul) se especializou em **azeite de oliva** para exportação a Roma e aos exércitos das fronteiras do norte, e em cereais, tornando-se o "**granero**" (celeiro) da Hispânia. Também exportava **vinho** e **garum** (pasta de peixe fermentado). Uma rede de estradas — Via Augusta, Via de la Plata — conectava produção a portos de exportação.
+
+Links: [Economía en la Hispania romana (Wikipedia ES)](https://es.wikipedia.org/wiki/Econom%C3%ADa_en_la_Hispania_romana) · [La riqueza de Hispania (INTEF)](http://descargas.intef.es/recursos_educativos/It_didac/Geo_Hist_ESO/1/11/Hispania_Romana/la_riqueza_de_hispania.html)
+
+#### Al-Ándalus: a revolução agrícola islâmica (séc. VIII-XV) ✓
+
+Entre os séculos VIII-X, a "**revolução verde**" islâmica multiplicou a produtividade agrícola através de infraestrutura de irrigação — açudes (sudd), norias, qanats, acéquias — em boa parte recuperando e ampliando o legado romano. Introduziram-se cultivos novos: **arroz, cana-de-açúcar, cítricos amargos, amoreira** (para seda), **linho e algodão**, além de hortaliças e frutas frescas. O desenvolvimento permitiu não só abastecer população crescente, mas exportar ao exterior.
+
+Links: [La expansión agrícola en Šarq al-Andalus (Al-Qanṭara)](https://al-qantara.revistas.csic.es/index.php/al-qantara/article/view/681) · [De qué vivimos: la economía de al-Ándalus (INTEF)](http://descargas.intef.es/recursos_educativos/It_didac/Geo_Hist_ESO/2/04/De_la_conquista_a_los_reinos_de_Taifas/de_qu_vivimos_la_economa_de_alndalus.html)
+
 #### Transumância — o conceito ✓
 
 Prática pastoril de migrar o gado sazonalmente entre pastagens diferentes, seguindo o ciclo das estações — entre terras baixas (inverno) e terras altas/montanhas (verão), ou entre regiões de clima complementar. Do latim *trans-* (através de/além) + *humus* (terra/solo). Prática humana organizada, com rotas fixas repetidas por gerações — não confundir com migração animal espontânea. Praticada em várias partes do mundo com geografia de planícies+montanhas próximas (Alpes, Andes, Atlas, Mongólia, Pirineus); o caso espanhol se destaca pela escala e organização institucional que alcançou.
@@ -302,6 +320,34 @@ A partir da crise do século XIV, a pecuária ovina (ovelha merina) se tornou ba
 **A infraestrutura**: existiam 10 cañadas reais principais — Zamorana, de la Plata, Leonesa Ocidental, Leonesa Oriental, Segoviana, Galiana, Soriana Oriental (a mais longa), Soriana Ocidental, Conquense, entre outras. A Cañada Real Burgalesa, por exemplo, ligava os pastos de verão nas montanhas de Burgos aos de inverno no sul, cruzando as planícies castelhanas até Extremadura e Andaluzia. No total, a Espanha tem mais de **125.000 km** de vias pecuárias — uma das redes mais extensas do mundo.
 
 Links: [El Concejo de la Mesta (Caminos de la Merina)](https://caminosdelamerina.com/el-concejo-de-la-mesta-el-gremio-que-domino-espana-500-anos/) · [El comercio internacional de la lana castellana (Alumni+ CEF)](https://acef.cef.es/comercio-internacional-lana-castellana.html) · [Las Cañadas Reales en España (ArqueoTimes.es)](https://arqueotimes.es/las-canadas-reales-en-espana-aproximacion-i/) · [4 rutas trashumantes por las cañadas reales de España (Canal Cordero)](https://www.canalcordero.com/rutas-trashumantes-espana/)
+
+#### Século de Ouro: prata americana e a "revolução dos preços" (séc. XVI-XVII) ✓
+
+Entre 1500 e 1650, chegaram oficialmente à Espanha **181 toneladas de ouro e quase 17.000 toneladas de prata** das Américas (registros da Casa de Contratación de Sevilha, estudados por Earl Hamilton em 1934). Os preços na Espanha **quadruplicaram entre 1500 e 1600** — a chamada "**revolução dos preços**", já observada no século XVI por Martín de Azpilcueta. O afluxo de metal precioso beneficiou comerciantes e financistas, mas corroeu o poder de compra de salários fixos, atingindo trabalhadores e camponeses, e **desincentivou o desenvolvimento manufatureiro interno** — era mais fácil importar com prata americana do que produzir internamente.
+
+Links: [La revolución de los precios (ArteHistoria)](https://artehistoria.com/contextos/la-revolucion-de-los-precios) · [Revolución de los precios (Wikipedia ES)](https://es.wikipedia.org/wiki/Revoluci%C3%B3n_de_los_precios)
+
+#### Industrialização tardia e desigual do século XIX ✓
+
+A Espanha entrou na "segunda geração" de países industriais europeus, décadas atrás da Inglaterra — burguesia fraca e pouco empreendedora, instabilidade política crônica (guerras carlistas), pouco investimento. Só duas regiões industrializaram de fato: a **Catalunha** (têxtil de algodão, apoiado no monopólio comercial com as colônias caribenhas concedido em 1882) e o **País Basco** (siderurgia — 70% da produção nacional de ferro no fim do século, tornando a Espanha o maior exportador europeu de ferro, ainda que com produção siderúrgica interna entre as mais baixas da Europa, evidenciando o atraso geral).
+
+Links: [Segunda industrialización: sólo Cataluña y el País Vasco (EDEA Junta de Andalucía)](http://e-ducativa.catedu.es/44700165/aula/archivos/repositorio//3750/3900/html/1_segunda__industrializacin_slo_catalua_y_el_pas_vasco_se_libran_del_fracaso.html) · [Revolución Industrial (III): el fracaso en España (Descubrir la Historia)](https://descubrirlahistoria.es/2020/04/revolucion-industrial-iii-el-fracaso-de-la-revolucion-industrial-en-espana-en-el-siglo-xix/)
+
+#### Autarquia franquista (1939-1959) e o "milagre econômico" (1959-1973) ✓
+
+As duas primeiras décadas do franquismo foram de **autarquia** — autoabastecimento, isolamento do mercado internacional, Estado controlando produção, preço e abastecimento; fome e mercado negro na vida cotidiana. O **Plano de Estabilização de 1959**, elaborado por tecnocratas ligados ao Opus Dei, abandonou a autarquia: devalorização da peseta, corte de gasto público, abertura ao FMI e Banco Mundial.
+
+O resultado foi o "**milagre econômico espanhol**": entre 1960-1973, a Espanha cresceu **7% ao ano**, a segunda maior taxa de crescimento do mundo depois do Japão — impulsionada por **turismo massivo** (6 milhões de visitantes em 1960, mais de 30 milhões em 1973, 2º destino turístico da Europa depois da Itália), **remessas de emigrantes** trabalhando no resto da Europa, e investimento estrangeiro.
+
+Links: [Milagro económico español (Wikipedia ES)](https://es.wikipedia.org/wiki/Milagro_econ%C3%B3mico_espa%C3%B1ol) · [El desarrollismo económico (1959-1973) (INTEF)](https://descargas.intef.es/recursos_educativos/RED_ES/04_Bachillerato/2/B_2_063_2025_1169/el_desarrollismo_econmico_19591973.html) · [El Plan de Estabilización de 1959 (Fundación Nacional Francisco Franco)](https://fnff.es/actualidad/el-plan-de-estabilizacion-de-1959-el-milagro-economico-espanol-por-luis-e-togores/)
+
+#### Economia atual (2026) ✓
+
+Em 2026, a economia espanhola deve crescer **2,1-2,4%**, bem acima da média da zona do euro (0,9%), com desemprego caindo a **9,7-9,9%** — o nível mais baixo desde 2008 (ver marco da crise financeira 2008-2014). O motor é o setor de **serviços**: turismo, mas também serviços empresariais, transporte e tecnologia — a Espanha se tornou exportadora relevante de serviços não-turísticos, mudando a estrutura externa do país.
+
+**O fio condutor de todo o arco** (síntese própria, não citação de historiador): sempre que a Espanha teve um recurso extrativo abundante e fácil (prata romana/cartaginesa, lã da Mesta, prata americana), isso coincidiu com atraso relativo no desenvolvimento de capacidade produtiva interna. Quando foi forçada a competir sem esse colchão — no Al-Ándalus com irrigação, no XIX com Catalunha/País Basco, no franquismo tardio com o Plano de Estabilização, hoje com serviços de exportação — a economia se modernizou de fato.
+
+Links: [Las cuatro claves que marcarán la economía española en 2026 (CaixaBank)](https://www.caixabank.com/es/esfera/content/claves-economia-espanola) · [España crecerá un 2,1% en 2026 (CaixaBank)](https://www.caixabank.com/es/esfera/content/perspectivas-crecimiento-economia-espana-2026)
 
 ### Pendente ?
 
