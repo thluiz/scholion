@@ -16,8 +16,8 @@ toc: true
 
 ## Estado
 
-- **Em foco**: Direção 2 iniciada — primeira comparação (Catalunha x Galícia) verificada contra fonte. Direção 1 permanece concluída, com a linha histórica completa dos povos pré-romanos à Transição de 1978.
-- **Próximo**: seguir Direção 2 com os demais pares/perfis das seis comunidades confirmadas (Madrid, Comunidade Valenciana, Andaluzia, País Basco), mais a nota geral agrupando as demais onze.
+- **Em foco**: Direção 4 iniciada com o bloco de feriados (sistema nacional/regional/local). Direção 1 ampliada com Napoleão, Desastre de 1898, entrada na CEE (1986), 11-M (2004) e crise financeira (2008-2014) — linha histórica agora cobre dos povos pré-romanos até a crise de 2008-2014. Direção 2 tem a primeira comparação (Catalunha x Galícia) verificada.
+- **Próximo**: seguir Direção 2 com os demais pares/perfis das seis comunidades confirmadas (Madrid, Comunidade Valenciana, Andaluzia, País Basco), mais a nota geral agrupando as demais onze; e Direção 4 com diferenças de hábitos sociais, mercado de trabalho e burocracia.
 
 ## Motivação
 
@@ -160,6 +160,16 @@ Links: [Tratado de Fontainebleau (1807) (Wikipedia ES)](https://es.wikipedia.org
 
 Links: [¿Qué fueron las Guerras Carlistas? (Enciclopedia Iberoamericana)](https://enciclopediaiberoamericana.com/guerras-carlistas/) · [Isabel II y las Guerras Carlistas (INTEF)](https://descargas.intef.es/recursos_educativos/RED_ES/04_Bachillerato/2/B_2_063_2025_1166/isabel_ii_y_las_guerras_carlistas.html) · [Primera guerra carlista (Wikipedia ES)](https://es.wikipedia.org/wiki/Primera_guerra_carlista) · [Convention of Vergara (Wikipedia EN)](https://en.wikipedia.org/wiki/Convention_of_Vergara) · [Segunda guerra carlista (Wikipedia ES)](https://es.wikipedia.org/wiki/Segunda_guerra_carlista) · [Third Carlist War (Wikipedia EN)](https://en.wikipedia.org/wiki/Third_Carlist_War) · [Historia de los fueros vascongados y navarros en el siglo XIX (Wikipedia ES)](https://es.wikipedia.org/wiki/Historia_de_los_fueros_vascongados_y_navarros_en_el_siglo_XIX)
 
+#### Desastre de 1898 — fim do império colonial ✓
+
+A **Guerra Hispano-Americana** (abril-agosto de 1898) começou quando os EUA intervieram na guerra de independência cubana (1895-1898). Foi breve e decidida no mar, com superioridade avassaladora dos EUA: em **1º de maio de 1898** a esquadra espanhola das Filipinas foi afundada em Cavite; em **3 de julho**, a esquadra enviada a Cuba, sob o almirante Cervera, foi destruída perto de Santiago de Cuba.
+
+O **Tratado de Paris (10 de dezembro de 1898)** encerrou a guerra: a Espanha perdeu **Cuba** (sob tutela dos EUA), **Porto Rico, Filipinas e Guam**. Os EUA pagaram uma compensação de 20 milhões de dólares pelas Filipinas.
+
+A derrota mergulhou o país numa crise nacional profunda — o "**Desastre do 98**" — agravada pela pobreza generalizada da população. Foi trauma coletivo que abriu debate sobre a decadência espanhola, inspirou uma geração de intelectuais (a **Geração de 98**) e marcou o **fim definitivo do império colonial espanhol**, quatro séculos depois de 1492.
+
+Links: [Desastre del 98 (Wikipedia ES)](https://es.wikipedia.org/wiki/Desastre_del_98) · [Guerra hispano-estadounidense (Wikipedia ES)](https://es.wikipedia.org/wiki/Guerra_hispano-estadounidense)
+
 #### Segunda República — Estatutos de Autonomia (1931-1936) ✓
 
 O Estatuto da Catalunha (Estatuto de Núria) foi aprovado em referendo em **9 de setembro de 1932**, com 99% de aprovação e 75% de participação — o único estatuto de autonomia implementado antes da Guerra Civil. O Estatuto do País Basco só foi aprovado pelas Cortes em **1º de outubro de 1936**, em Valência, já em plena Guerra Civil.
@@ -210,6 +220,28 @@ O critério de elegibilidade para a via rápida é o detalhe que explica por que
 
 Links: [Wikipedia ES — Transición española](https://es.wikipedia.org/wiki/Transici%C3%B3n_espa%C3%B1ola) · [Wikipedia ES — Constitución española de 1978](https://es.wikipedia.org/wiki/Constituci%C3%B3n_espa%C3%B1ola_de_1978) · [Wikipedia ES — Construcción del Estado de las autonomías](https://es.wikipedia.org/wiki/Construcci%C3%B3n_del_Estado_de_las_autonom%C3%ADas) · [Sinopsis del estatuto de Autonomía de Galicia (Congreso.es)](https://app.congreso.es/consti/estatutos/sinopsis_pr.jsp?com=73) · [Ley Orgánica 1/1981, Estatuto de Autonomía para Galicia (BOE)](https://www.boe.es/buscar/act.php?id=BOE-A-1981-9564) · [El presidente Tarradellas vuelve del exilio (ElNacional.cat)](https://www.elnacional.cat/es/efemerides/presidente-tarradellas-vuelve-exilio-reinstala-generalitat-marc-pons_904674_102.html) · [El regreso de Leizaola, la Transición vasca (Deia)](https://www.deia.eus/actualidad/2019/12/14/regreso-leizaola-transicion-vasca-4737137.html)
 
+#### Entrada na CEE (1986) ✓
+
+O primeiro pedido de adesão à Comunidade Econômica Europeia foi feito em **1962**, mas só com a democracia (a partir de 1975) os trâmites avançaram de fato. O pedido formal veio pouco depois das primeiras eleições democráticas pós-franquistas de junho de 1977; as negociações começaram em 1979 e se estenderam por sete anos, até a assinatura solene do Tratado no Palácio de Oriente, em Madrid, em **12 de junho de 1985**. O tratado entrou em vigor em **1º de janeiro de 1986** — Espanha e Portugal entraram na mesma data, levando a CEE de dez a doze membros. A adesão marcou o **fim da marginalização política** da Espanha frente ao resto da Europa.
+
+Links: [Adhesión de España a las Comunidades Europeas (Wikipedia ES)](https://es.wikipedia.org/wiki/Adhesi%C3%B3n_de_Espa%C3%B1a_a_las_Comunidades_Europeas) · [1986: España, miembro de la Comunidad Económica Europea (Economist & Jurist)](https://www.economistjurist.es/articulos-juridicos-destacados/1986-espana-miembro-de-la-comunidad-economica-europea/)
+
+#### Atentados de 11 de março de 2004 (11-M) ✓
+
+Em **11 de março de 2004**, uma célula terrorista de tipo jihadista detonou dez explosivos quase simultâneos em quatro trens de cercanias entrando em Madrid — Atocha, El Pozo del Tío Raimundo, Santa Eugenia e Calle Téllez. **193 pessoas morreram, cerca de 2 mil ficaram feridas** — o atentado terrorista mais grave da história europeia até então.
+
+O governo de José María Aznar atribuiu apressadamente a autoria à ETA, o que gerou intenso debate político sobre a gestão da informação nas horas seguintes. Três dias depois, em **14 de março de 2004**, a Espanha foi às urnas: uma pesquisa pós-eleitoral do CIS detectou que 21,5% dos eleitores confessaram que o atentado influenciou muito ou bastante seu voto. O socialista **José Luis Rodríguez Zapatero** venceu a eleição.
+
+Links: [Atentados del 11 de marzo de 2004 (Wikipedia ES)](https://es.wikipedia.org/wiki/Atentados_del_11_de_marzo_de_2004)
+
+#### Crise financeira e bolha imobiliária (2008-2014) ✓
+
+O mercado imobiliário espanhol tinha, em 2008, cerca de **800 mil moradias à venda contra demanda de apenas 385 mil** — a concessão de hipotecas atingira o pico em 2006 e caía continuamente desde então. O sistema bancário havia concentrado parte excessiva de suas carteiras em crédito ligado à construção; quando os preços dos ativos caíram, a inadimplência se multiplicou, deixando os bancos com ativos tóxicos.
+
+O **Memorando de Entendimento (3 de julho de 2012)** concedeu à Espanha uma linha de crédito de **100 bilhões de euros**, destinada sobretudo a bancos em dificuldade pelo estouro da bolha — Bankia, Catalunya Banc, Novagalicia Banco —, levando a reformas, fusões, resgates e nacionalizações de caixas de poupança. Entre 2008 e 2013, o **PIB espanhol se contraiu 9%**, e o **desemprego superou 26% em 2013** — a crise dos despejos ("desahucios") se agravou, com casos dramáticos de suicídios ligados a execuções hipotecárias.
+
+Links: [Crisis económica española (2008-2014) (Wikipedia ES)](https://es.wikipedia.org/wiki/Crisis_econ%C3%B3mica_espa%C3%B1ola_(2008-2014)) · [Crisis inmobiliaria española de 2008-2014 (Wikipedia ES)](https://es.wikipedia.org/wiki/Crisis_inmobiliaria_espa%C3%B1ola_de_2008-2014) · [¿Qué sucedió con el rescate bancario español de 2012? (Merca2)](https://www.merca2.es/2026/05/07/rescate-bancario-espana-2377019/)
+
 ### Comunidades autônomas ✓
 
 #### Catalunha x Galícia — comparação administrativa (2026) ✓
@@ -227,6 +259,21 @@ Primeiro par comparativo da Direção 2, cinco eixos práticos.
 **Suspensão da autonomia (evento sem equivalente galego)**: em **27 de outubro de 2017**, no dia da declaração unilateral de independência catalã, o Senado aprovou aplicar o **artigo 155 da Constituição** — destituiu o presidente Puigdemont e todo o Govern, dissolveu o parlamento catalão, convocou eleições antecipadas para dezembro de 2017. Durou até **2 de junho de 2018**. Nunca aconteceu com nenhuma outra comunidade, Galícia incluída.
 
 Links: [Mossos d'Esquadra (Wikipedia EN)](https://en.wikipedia.org/wiki/Mossos_d'Esquadra) · [Law enforcement in Spain (Wikipedia EN)](https://en.wikipedia.org/wiki/Law_enforcement_in_Spain) · [Aplicación del artículo 155 en Cataluña (Wikipedia ES)](https://es.wikipedia.org/wiki/Aplicaci%C3%B3n_del_art%C3%ADculo_155_de_la_Constituci%C3%B3n_espa%C3%B1ola_de_1978_en_Catalu%C3%B1a) · [Article 155 of the Constitution of Spain (Wikipedia EN)](https://en.wikipedia.org/wiki/Article_155_of_the_Constitution_of_Spain) · [Cataluña (CaixaBank Research)](https://www.caixabankresearch.com/en/publications/autonomous-community-profiles/catalonia) · [Galicia (CaixaBank Research)](https://www.caixabankresearch.com/en/publications/autonomous-community-profiles/galicia) · [Las balanzas fiscales y el mito del maltrato a Cataluña (Fedea)](https://fedea.net/las-balanzas-fiscales-y-el-mito-del-maltrato-a-cataluna/)
+
+### Vida cotidiana e cultura ✓
+
+#### Feriados — sistema nacional, regional e local (2026) ✓
+
+Cada trabalhador na Espanha tem direito a até **14 feriados por ano**, em três camadas: feriados nacionais comuns a todo o território (a base fixa: Ano Novo, Reis Magos/6 jan, Sexta-feira Santa, Dia do Trabalho/1º maio, Assunção/15 ago, Dia Nacional da Espanha/12 out, Imaculada Conceição/8 dez, Natal/25 dez — a maioria não pode ser substituída), feriados que cada comunidade autônoma escolhe dentro de uma lista negociada nacionalmente, e feriados locais (2 por município, geralmente ligados ao santo padroeiro). O calendário final muda de comunidade para comunidade e até de município para município.
+
+**Feriados regionais com origem direta nos marcos já registrados nesta pesquisa**:
+
+- **Dia da Comunidade de Madrid (2 de maio)**: comemora o Levantamento de 2 de Maio de 1808 contra a ocupação napoleônica — o evento que abriu a Guerra da Independência (ver marco "Napoleão na Espanha").
+- **Diada Nacional da Catalunha (11 de setembro)**: comemora a queda de Barcelona em 1714, último reduto de resistência catalã na Guerra de Sucessão Espanhola — a derrota que levou aos Decretos de Nueva Planta (ver marco correspondente). O feriado catalão é, literalmente, o luto por aquela derrota.
+- **Dia da Andaluzia (28 de fevereiro)**: comemora o referendo de 1980 que aprovou o processo de autonomia andaluza — via rápida do artigo 151, a única comunidade de regime comum a acessá-la.
+- **Dia da Galícia (25 de julho)**: coincide com a festa de Santiago Apóstolo. Separadamente, o Dia das Letras Galegas (17 de maio) é celebração cultural/literária (não feriado trabalhista), criada em 1963 no centenário de *Cantares Galegos*, de Rosalía de Castro.
+
+Links: [Calendario laboral y festivos de España 2026 (Factorial)](https://factorial.es/blog/calendario-laboral-espana/) · [Calendario laboral 2026: festivos por comunidad autónoma (Xataka)](https://www.xataka.com/basics/calendario-laboral-2026-cuales-dias-festivos-cada-comunidad-autonoma-espana) · [Public holidays in Spain (Wikipedia EN)](https://en.wikipedia.org/wiki/Public_holidays_in_Spain) · [Día de la Comunidad de Madrid (OKDiario)](https://okdiario.com/madrid/dia-comunidad-madrid-origen-significado-que-celebra-2-mayo-10839222/amp) · [National Day of Catalonia (Wikipedia EN)](https://en.wikipedia.org/wiki/National_Day_of_Catalonia) · [Anexo:Días festivos en España (Wikipedia ES)](https://es.wikipedia.org/wiki/Anexo:D%C3%ADas_festivos_en_Espa%C3%B1a)
 
 ### Pendente ?
 
