@@ -16,8 +16,8 @@ toc: true
 
 ## Estado
 
-- **Em foco**: Direção 4 iniciada com o bloco de feriados (sistema nacional/regional/local). Direção 1 ampliada com Napoleão, Desastre de 1898, entrada na CEE (1986), 11-M (2004) e crise financeira (2008-2014) — linha histórica agora cobre dos povos pré-romanos até a crise de 2008-2014. Direção 2 tem a primeira comparação (Catalunha x Galícia) verificada.
-- **Próximo**: seguir Direção 2 com os demais pares/perfis das seis comunidades confirmadas (Madrid, Comunidade Valenciana, Andaluzia, País Basco), mais a nota geral agrupando as demais onze; e Direção 4 com diferenças de hábitos sociais, mercado de trabalho e burocracia.
+- **Em foco**: Direção 6 (história econômica) aberta — transumância e Mesta verificadas. Direção 4 iniciada com o bloco de feriados. Direção 1 ampliada até a crise de 2008-2014. Direção 2 tem a primeira comparação (Catalunha x Galícia) verificada.
+- **Próximo**: seguir Direção 6 pelo resto do arco econômico já esboçado em conversa (mineração pré-romana, Hispânia romana, Al-Ándalus, prata americana/revolução dos preços, industrialização do séc. XIX, autarquia/milagre franquista, economia atual) — cada trecho precisa de rodada própria de verificação, como a Mesta. Seguir também Direção 2 (demais comunidades) e Direção 4 (hábitos sociais, mercado de trabalho, burocracia).
 
 ## Motivação
 
@@ -57,6 +57,10 @@ Hábitos sociais, mercado de trabalho, burocracia cotidiana, relação com o Est
 ### 5. Pontos-cego do olhar brasileiro e português sobre a Espanha
 
 O que o ensino de história no Brasil e em Portugal costuma pular ou simplificar sobre a Espanha.
+
+### 6. História econômica — do Rio Tinto pré-romano a hoje
+
+Ciclos de riqueza extrativa/exportadora (mineração pré-romana, azeite bético, prata americana, lã da Mesta) intercalados com atraso produtivo interno; industrialização tardia e concentrada em Catalunha/País Basco; autarquia franquista e depois o "milagre econômico" (1959-1973); economia de serviços hoje. Esboçado em conversa; a Mesta e a transumância já verificadas (ver Fontes).
 
 ## Notas do Scholion já relacionadas
 
@@ -280,6 +284,24 @@ Cada trabalhador na Espanha tem direito a até **14 feriados por ano**, em três
 - **Dia da Galícia (25 de julho)**: coincide com a festa de Santiago Apóstolo. Separadamente, o Dia das Letras Galegas (17 de maio) é celebração cultural/literária (não feriado trabalhista), criada em 1963 no centenário de *Cantares Galegos*, de Rosalía de Castro.
 
 Links: [Calendario laboral y festivos de España 2026 (Factorial)](https://factorial.es/blog/calendario-laboral-espana/) · [Calendario laboral 2026: festivos por comunidad autónoma (Xataka)](https://www.xataka.com/basics/calendario-laboral-2026-cuales-dias-festivos-cada-comunidad-autonoma-espana) · [Public holidays in Spain (Wikipedia EN)](https://en.wikipedia.org/wiki/Public_holidays_in_Spain) · [Día de la Comunidad de Madrid (OKDiario)](https://okdiario.com/madrid/dia-comunidad-madrid-origen-significado-que-celebra-2-mayo-10839222/amp) · [National Day of Catalonia (Wikipedia EN)](https://en.wikipedia.org/wiki/National_Day_of_Catalonia) · [Anexo:Días festivos en España (Wikipedia ES)](https://es.wikipedia.org/wiki/Anexo:D%C3%ADas_festivos_en_Espa%C3%B1a)
+
+### História econômica ✓
+
+#### Transumância — o conceito ✓
+
+Prática pastoril de migrar o gado sazonalmente entre pastagens diferentes, seguindo o ciclo das estações — entre terras baixas (inverno) e terras altas/montanhas (verão), ou entre regiões de clima complementar. Do latim *trans-* (através de/além) + *humus* (terra/solo). Prática humana organizada, com rotas fixas repetidas por gerações — não confundir com migração animal espontânea. Praticada em várias partes do mundo com geografia de planícies+montanhas próximas (Alpes, Andes, Atlas, Mongólia, Pirineus); o caso espanhol se destaca pela escala e organização institucional que alcançou.
+
+Links: [Por dónde discurren las rutas trashumantes más importantes (Canal Cordero)](https://www.canalcordero.com/rutas-trashumantes/)
+
+#### A Mesta e as Cañadas Reales (desde o séc. XIII) ✓
+
+A partir da crise do século XIV, a pecuária ovina (ovelha merina) se tornou base da economia castelhana, organizada pelo **Concejo de la Mesta**. A lã ia para os têxteis flamengos — quando fornecedores tradicionais falharam, os flamengos passaram a depender de Castela, com Burgos administrando produção e exportação. No século XV, o rebanho lanífero de Castela/León chegava a 1,5 milhão de cabeças; no início do XVI, 2,7 milhões — monopólio mundial sustentado por séculos.
+
+**Geografia da transumância (correção de precisão)**: os rebanhos do sul (Extremadura, Andaluzia) subiam no verão até montanhas do norte — León, Soria, Palencia e Burgos (incluindo, mas não só, a Cordilheira Cantábrica) —, buscando pastos frescos conforme a neve derretia; a subida começava em meados de abril/início de maio. A partir de fins de outubro já estavam de volta às "regiões de invernada" no sul, sobretudo Extremadura e Andaluzia.
+
+**A infraestrutura**: existiam 10 cañadas reais principais — Zamorana, de la Plata, Leonesa Ocidental, Leonesa Oriental, Segoviana, Galiana, Soriana Oriental (a mais longa), Soriana Ocidental, Conquense, entre outras. A Cañada Real Burgalesa, por exemplo, ligava os pastos de verão nas montanhas de Burgos aos de inverno no sul, cruzando as planícies castelhanas até Extremadura e Andaluzia. No total, a Espanha tem mais de **125.000 km** de vias pecuárias — uma das redes mais extensas do mundo.
+
+Links: [El Concejo de la Mesta (Caminos de la Merina)](https://caminosdelamerina.com/el-concejo-de-la-mesta-el-gremio-que-domino-espana-500-anos/) · [El comercio internacional de la lana castellana (Alumni+ CEF)](https://acef.cef.es/comercio-internacional-lana-castellana.html) · [Las Cañadas Reales en España (ArqueoTimes.es)](https://arqueotimes.es/las-canadas-reales-en-espana-aproximacion-i/) · [4 rutas trashumantes por las cañadas reales de España (Canal Cordero)](https://www.canalcordero.com/rutas-trashumantes-espana/)
 
 ### Pendente ?
 
