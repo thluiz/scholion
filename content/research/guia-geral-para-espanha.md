@@ -16,8 +16,8 @@ toc: true
 
 ## Estado
 
-- **Em foco**: Direção 2 concluída — seis comunidades confirmadas (Catalunha, Galícia, Madrid, Comunidade Valenciana, Andaluzia, País Basco) com perfil completo (população, custo de vida/aluguel, salário médio) e diferenciação administrativa, mais a nota geral agrupando as demais onze. Direção 1 e Direção 6 também concluídas em rodadas anteriores.
-- **Próximo**: Direção 3 (currículos educacionais regionais), Direção 4 (feriados já iniciado; falta hábitos sociais, mercado de trabalho, burocracia — inclusive o acordo de dupla tributação Espanha-Portugal discutido em conversa, ainda não formalizado), Direção 5 (pontos-cego BR/PT).
+- **Em foco**: Direção 4 fechada nesta rodada — burocracia cotidiana (NIE/TIE/empadronamiento, colapso da cita previa), mercado de trabalho (reforma laboral 2021, pagas extras, jornada intensiva) e hábitos sociais (horários, siesta, pontualidade — sinalizada com fontes mais fracas). Trabalho feito em worktree isolada (`direcao-4-nomade-burocracia`) porque a nota principal estava sendo auditada em sessão paralela no momento da rodada; **ainda precisa ser mesclado no `main`** — checar se a Direção 4 já tem o bloco de nômade digital (impostos + troca de visto) lá, que foi adicionado na sessão principal e não existe nesta branch. Direção 2 concluída em rodada anterior — seis comunidades confirmadas (Catalunha, Galícia, Madrid, Comunidade Valenciana, Andaluzia, País Basco) com perfil completo e diferenciação administrativa, mais a nota geral agrupando as demais onze. Direção 1 e Direção 6 também concluídas em rodadas anteriores.
+- **Próximo**: mesclar esta branch no `main` (resolvendo com o que já foi adicionado lá — nômade digital, Direção 5, distâncias Tui/Verín-Porto), Direção 3 (currículos educacionais regionais), os dois itens da seção Pendente.
 
 ## Motivação
 
@@ -366,6 +366,36 @@ Cada trabalhador na Espanha tem direito a até **14 feriados por ano**, em três
 - **Dia da Galícia (25 de julho)**: coincide com a festa de Santiago Apóstolo. Separadamente, o Dia das Letras Galegas (17 de maio) é celebração cultural/literária (não feriado trabalhista), criada em 1963 no centenário de *Cantares Galegos*, de Rosalía de Castro.
 
 Links: [Calendario laboral y festivos de España 2026 (Factorial)](https://factorial.es/blog/calendario-laboral-espana/) · [Calendario laboral 2026: festivos por comunidad autónoma (Xataka)](https://www.xataka.com/basics/calendario-laboral-2026-cuales-dias-festivos-cada-comunidad-autonoma-espana) · [Public holidays in Spain (Wikipedia EN)](https://en.wikipedia.org/wiki/Public_holidays_in_Spain) · [Día de la Comunidad de Madrid (OKDiario)](https://okdiario.com/madrid/dia-comunidad-madrid-origen-significado-que-celebra-2-mayo-10839222/amp) · [National Day of Catalonia (Wikipedia EN)](https://en.wikipedia.org/wiki/National_Day_of_Catalonia) · [Anexo:Días festivos en España (Wikipedia ES)](https://es.wikipedia.org/wiki/Anexo:D%C3%ADas_festivos_en_Espa%C3%B1a)
+
+#### Burocracia cotidiana — NIE, TIE, empadronamiento e o colapso da cita previa (2026) ✓
+
+**A sequência de documentos**: o NIE (Número de Identificação de Estrangeiro) não é um cartão físico, é só um número — pode ser pedido no consulado espanhol de origem ou, já em solo espanhol, na Oficina de Extranjería. O **empadronamiento** é o registro do endereço de residência no ayuntamento (câmara municipal), obrigatório para todo residente, com prazo de 30 dias após a mudança — pré-requisito para quase tudo depois (saúde pública, alta na Seguridad Social, matrícula escolar). A alta na **Seguridad Social** exige NIE + empadronamiento + documentação de residência. Quem vai residir mais de três meses precisa também do **TIE** (Tarjeta de Identidad de Extranjero), o cartão físico com foto.
+
+**O gargalo real é o agendamento, não o processo em si**: cada uma dessas etapas depende de conseguir uma **cita previa** (hora marcada) nos sistemas oficiais (Sede Electrónica, ICP Plus). Em 2026 o sistema segue saturado nas grandes cidades — Madrid, Barcelona, Valencia são as mais afetadas —, com esperas de semanas a três meses ou mais para TIE/NIE, renovações, tomada de impressões digitais e reagrupamento familiar. Vagas somem em segundos; há bots monopolizando horários em algumas províncias, e redes que revendem citas ilegalmente pela internet e WhatsApp — fraude ativa e documentada em 2026. O processo de regularização extraordinária de 2026 agravou ainda mais a saturação das plataformas.
+
+Links: [Empadronamento na Espanha (Brasileiros na Espanha)](https://brasileirosnaespanha.net/guias/documentacao/empadronamento-na-espanha-como-fazer) · [Spain NIE and TIE Requirements 2026 (Jobbatical)](https://www.jobbatical.com/blog/nie-and-tie-requirements) · [El sistema español de cita previa para inmigrantes, en crisis (Jobbatical)](https://www.jobbatical.com/blog/spain-immigration-crisis-appointment-delays) · [Cita de extranjería 2026: tiempos reales por provincia (GoEasy)](https://es.goveasy.eu/blog/cita-extranjeria-tiempos-reales-provincia-2026) · [Regularización Extraordinaria 2026: cita previa y plazos oficiales (Molinares Abogados)](https://molinaresabogados.com/2026/06/12/regularizacion-extraordinaria-2026-todo-sobre-la-cita-previa-y-plazos-oficiales/)
+
+#### Mercado de trabalho — da temporalidade recorde à reforma de 2021 (2026) ✓
+
+**A reforma que mudou o padrão de contratação**: até 2021, a Espanha tinha a maior taxa de temporalidade da União Europeia — acima de 26% dos contratos. O **Real Decreto-ley 32/2021** (em vigor desde 30 de março de 2022) inverteu a presunção legal: contratos passam a ser indefinidos por padrão, a modalidade "obra e serviço" foi eliminada, e contrato temporário só é permitido por causas de produção ou substituição de trabalhador. Resultado, segundo a Encuesta de Población Activa do INE: contratos indefinidos, que eram ~9% dos celebrados mensalmente em 2021, passaram de 40% em 2023 e se estabilizaram perto de 45% em 2024; a temporalidade estrutural caiu de 25% para 16% no fim de 2024 — nível já próximo da média europeia. A partir de 2026, a modalidade "obra e serviço" deixou de existir por completo, sem nenhum contrato dessa espécie ainda vigente.
+
+**Pagas extras — o "13º e 14º" espanhol**: por lei, todo trabalhador tem direito a pelo menos duas pagas extraordinárias por ano — uma de Natal, com data fixada, e outra ("paga extra de verano") no mês definido pelo convênio coletivo do setor ou por acordo com a empresa, comumente entre junho e agosto. Não existe data única nacional para a paga de verão — depende do convênio coletivo aplicável a cada setor, e a empresa não pode prorratear unilateralmente sem previsão contratual ou no convênio.
+
+**Jornada intensiva no verão**: turno contínuo sem a pausa longa do almoço, terminando o expediente mais cedo. Não é obrigatória por lei — só vale onde estiver prevista em convênio coletivo, acordo de empresa, ou consolidada como direito adquirido —, mas já é praticada por cerca de 50% das empresas espanholas no verão, segundo a consultoria Hays.
+
+Links: [BOE-A-2021-21788 — Real Decreto-ley 32/2021 (texto oficial)](https://www.boe.es/buscar/act.php?id=BOE-A-2021-21788) · [Contrato indefinido vs temporal 2026 (Guía Fiscal)](https://guiafiscal.es/laboral/contrato-indefinido-vs-temporal-2026/) · [¿Cuándo se paga extra de verano 2026? (Coverflex)](https://www.coverflex.com/es/blog/cuando-se-cobra-la-paga-extra-de-verano) · [Cómo gestionar la jornada intensiva en España 2026 (Factorial)](https://factorial.es/blog/jornada-intensiva/)
+
+#### Hábitos sociais — horários deslocados e o mito da siesta (2026) ⚠
+
+⚠ Seção com fontes de menor rigor que o resto da pesquisa — blogs de brasileiros expatriados e guias de choque cultural, não estatística oficial ou pesquisa de uso do tempo (tentei localizar dados da Encuesta de Empleo del Tiempo do INE sobre horário de refeições; a edição mais recente com microdados publicados é de 2002-2003, a de 2024/2025 ainda não tem resultados detalhados disponíveis). Tratar o que segue como observação corrente, não fato estatístico verificado.
+
+**Horários de refeição** deslocados em relação ao Brasil: almoço só começa por volta das 14h (contra o meio-dia brasileiro), jantar não antes das 21h (contra 19h-20h no Brasil) — esse descompasso é recorrente em todas as fontes consultadas, ainda que nenhuma seja estatística oficial.
+
+**Siesta**: ainda influencia comércio e horário de funcionamento em cidades menores e setores mais tradicionais, com lojas fechando por 2-3h após o almoço — mas não é universal nas grandes cidades, onde o comércio tende a manter horário corrido.
+
+**Pontualidade**: as fontes consultadas descrevem tolerância a atraso em espanhóis semelhante à percebida em brasileiros (30min-1h em compromissos informais), num contraste implícito com um ritmo português percebido como mais pontual. ⚠ Não localizei estudo comparativo ou dado estatístico que sustente essa generalização — tratar como impressão de blog de expatriado, não fato verificado.
+
+Links: [Choque cultural na Espanha: 5 costumes que os brasileiros estranham (Migra Academy)](https://migra.academy/geral/choque-cultural-na-espanha-costumes/) · [Horários na Espanha: uma questão de sobrevivência (Fala Casal)](https://falacasal.com/cultura/horarios-na-espanha/) · [INE — Encuesta de Empleo del Tiempo (página oficial, sem dado específico localizado)](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176815&menu=resultados&idp=1254735976608)
 
 ### História econômica ✓
 
