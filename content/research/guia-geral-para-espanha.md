@@ -16,8 +16,8 @@ toc: true
 
 ## Estado
 
-- **Em foco**: Direção 4 — feriados (rodada anterior) e nômade digital (impostos + troca de visto, comparação Espanha x Portugal) concluídos nesta rodada. Direção 2 concluída em rodada anterior — seis comunidades confirmadas (Catalunha, Galícia, Madrid, Comunidade Valenciana, Andaluzia, País Basco) com perfil completo (população, custo de vida/aluguel, salário médio) e diferenciação administrativa, mais a nota geral agrupando as demais onze. Direção 1 e Direção 6 também concluídas em rodadas anteriores.
-- **Próximo**: Direção 3 (currículos educacionais regionais), resto da Direção 4 (hábitos sociais, burocracia cotidiana fora do recorte de nômade digital), Direção 5 (pontos-cego BR/PT).
+- **Em foco**: Direção 5 (pontos-cego do olhar brasileiro e português) concluída nesta rodada — varredura completa da BNCC e das Aprendizagens Essenciais portuguesas em duas gerações, mais dois estudos sobre manuais escolares, e o cruzamento com os marcos das Direções 1 e 6. Direções 1, 2 e 6 concluídas em rodadas anteriores. Direção 4 parcial: feriados e o recorte de nômade digital (impostos + troca de visto, Espanha x Portugal) fechados.
+- **Próximo**: Direção 3 (currículos educacionais regionais — atenção: é o currículo de cada comunidade autônoma espanhola, tema distinto da Direção 5, que tratou dos currículos brasileiro e português), resto da Direção 4 (hábitos sociais, burocracia cotidiana fora do recorte de nômade digital), e os dois itens da seção Pendente.
 
 ## Motivação
 
@@ -56,7 +56,7 @@ Hábitos sociais, mercado de trabalho, burocracia cotidiana, relação com o Est
 
 ### 5. Pontos-cego do olhar brasileiro e português sobre a Espanha
 
-O que o ensino de história no Brasil e em Portugal costuma pular ou simplificar sobre a Espanha.
+O que o ensino de história no Brasil e em Portugal costuma pular ou simplificar sobre a Espanha. Verificada nesta rodada contra os currículos oficiais dos dois países — BNCC no Brasil, Aprendizagens Essenciais da DGE em Portugal (duas gerações: 2018 e a vigente de 2026) — e contra estudos publicados sobre manuais escolares (ver seção Fontes). O cruzamento final com os marcos das Direções 1 e 6 é síntese própria, marcada como tal.
 
 ### 6. História econômica — do Rio Tinto pré-romano a hoje
 
@@ -387,6 +387,18 @@ Links: [Calendario laboral y festivos de España 2026 (Factorial)](https://facto
 
 Links: [Spain Beckham Law Complete Guide 2026 (CountryTaxCalc)](https://www.countrytaxcalc.com/tax-guides/spain/beckham-law-complete-guide-2026/) · [Beckham Law for Digital Nomads in Spain 2026 (Costaluz Lawyers)](https://www.costaluzlawyers.com/beckham-law-digital-nomads-spain-2026/) · [Portal PRIE — Nómadas digitales (Ministerio de Comercio)](https://prie.comercio.gob.es/es-es/Paginas/Teletrabajadores-caracter-internacional.aspx) · [Switch Visa Type Spain: Modificación Guide 2026 (Waypoint Sur)](https://guides.waypointsur.com/switch-visa-type-spain/) · [Portugal NHR is Dead. Here's What Replaced It (2026) (Ipanema Partners)](https://ipanemapartners.com/en/insights/portugal-nhr-replacement) · [Portugal NHR Regime Complete Guide 2026: IFICI (CountryTaxCalc)](https://www.countrytaxcalc.com/tax-guides/portugal-nhr-regime-guide-2026/) · [O que é o visto D8? Guia Completo (Direito pelo Mundo)](https://www.direitopelomundo.com/post/guia-completo-do-visto-de-resid%C3%AAncia-para-n%C3%B4mades-digitais-em-portugal) · [Mudanças AIMA 2026: O que Vira para Visto de Nômade Digital](https://moraremportugal.com/aima-2026-o-que-muda-para-visto-de-nomade-digital/)
 
+#### Proximidade com Portugal — pontos de travessia e distâncias a Porto (2026) ✓
+
+A "raia" entre a Galícia e o norte de Portugal tem duas vias de carro mais relevantes para quem sai da Galícia rumo a Porto.
+
+**Via Tui-Valença (saída de Vigo)**: pela A-55 (Autovía Vigo-Frontera Portuguesa), a sequência é Vigo → O Porriño → Tui → Ponte Internacional sobre o rio Minho → Valença do Minho, emendando na A3 portuguesa. Tui é a última cidade espanhola antes da travessia — o ponto de saída mais direto de Vigo para Portugal, e também o município mais barato de aluguel entre os citados aqui (~7 €/m², abaixo da média da própria província de Pontevedra). Distância de carro Tui-Porto: ~118-119 km, ~1h23.
+
+**Via Feces de Abaixo-Chaves (saída de Verín)**: em Verín (Ourense), a A-52/A-75 leva à travessia em Feces de Abaixo — parte da freguesia de Verín, a 15 km ao sul do centro do município —, onde a estrada emenda na A24 portuguesa rumo a Chaves. Distância de carro Verín-Porto: ~109 km, ~1h36-2h (rota com pedágio português via A24/A7).
+
+**A comparação**: Verín fica mais perto de Porto em quilômetros, mas o trajeto de Tui é mais rápido — autoestrada direta (A-55→A3) contra a rota via Chaves, que emenda em rodovias portuguesas pedagiadas.
+
+Links: [Distância entre Porto e Tui (Adistanciaentre)](http://www.distanciascidades.com/distancia-porto-tui-23035.html) · [Autovía Vigo-Frontera Portuguesa (Wikipedia ES)](https://es.wikipedia.org/wiki/Autov%C3%ADa_Vigo-Tui) · [Puente Internacional de Tuy (Wikipedia ES)](https://es.wikipedia.org/wiki/Puente_Internacional_de_Tuy) · [Trovimap — Evolución histórica de precios en Tui](https://www.trovimap.com/precio-vivienda/pontevedra/tui) · [Viaje de Verín a Porto — peajes Portugal](http://peajeportugalmatriculaextranjera.blogspot.com/2011/12/verin-porto-a24a4-ip4-a3-a24a7a3.html) · [Ruta Verín-Chaves (ViaMichelin)](https://www.viamichelin.com/routes/results/verin_(santa_maria_a_maior)-32600-ourense-galicia-spain-to-chaves-5400-vila_real-continental_portugal-portugal) · [Autovía A-75 (Wikipedia EN)](https://en.wikipedia.org/wiki/Autov%C3%ADa_A-75)
+
 ### História econômica ✓
 
 #### Mineração pré-romana e comércio fenício-cartaginês (antes do séc. III a.C.) ✓
@@ -450,6 +462,114 @@ Em 2026, a economia espanhola deve crescer **2,1-2,4%**, bem acima da média da 
 **O fio condutor de todo o arco** (síntese própria, não citação de historiador): sempre que a Espanha teve um recurso extrativo abundante e fácil (prata romana/cartaginesa, lã da Mesta, prata americana), isso coincidiu com atraso relativo no desenvolvimento de capacidade produtiva interna. Quando foi forçada a competir sem esse colchão — no Al-Ándalus com irrigação, no XIX com Catalunha/País Basco, no franquismo tardio com o Plano de Estabilização, hoje com serviços de exportação — a economia se modernizou de fato.
 
 Links: [Las cuatro claves que marcarán la economía española en 2026 (CaixaBank)](https://www.caixabank.com/es/esfera/content/claves-economia-espanola) · [España crecerá un 2,1% en 2026 (CaixaBank)](https://www.caixabank.com/es/esfera/content/perspectivas-crecimiento-economia-espana-2026)
+
+### Pontos-cego do olhar brasileiro e português ✓
+
+#### Brasil — a Espanha não consta do currículo (BNCC) ✓
+
+Varredura completa do texto homologado da BNCC (595 páginas, extração em UTF-8 validada): **o topônimo "Espanha" não ocorre nenhuma vez**. O adjetivo "espanhol/espanhola" ocorre cinco vezes, duas delas sobre o idioma. As três restantes qualificam território americano, nunca o país europeu.
+
+A única habilidade de História que nomeia a Espanha o faz assim:
+
+> (EF08HI11) Identificar e explicar os protagonismos e a atuação de diferentes grupos sociais e étnicos nas lutas de independência no Brasil, na América espanhola e no Haiti.
+
+Os objetos de conhecimento correspondentes seguem a mesma forma: "Independências na América espanhola" (História, 8º ano) e "Identidades e interculturalidades regionais: Estados Unidos da América, América espanhola e portuguesa e África" (Geografia, 8º ano).
+
+Onde a Espanha caberia como agente, o texto usa sujeito genérico. A formação dos Estados modernos:
+
+> (EF07HI07) Descrever os processos de formação e consolidação das monarquias e suas principais características com vistas à compreensão das razões da centralização política.
+
+A conquista da América:
+
+> (EF07HI09) Analisar os diferentes impactos da conquista europeia da América para as populações ameríndias e identificar as formas de resistência.
+
+> (EF07HI13) Caracterizar a ação dos europeus e suas lógicas mercantis visando ao domínio no mundo atlântico.
+
+**O que está ausente**, por busca de string no texto integral, com zero ocorrências em cada caso: al-Ándalus, muçulmano, islâmico, árabe, califado, mourisco, Península, ibérico, visigodo, Reconquista, Castela, Aragão, Carlos V, União Ibérica, Tordesilhas, Colombo, absolutismo, Inquisição, Guerra Civil, franquismo. O 9º ano trata dos totalitarismos sem menção ibérica (EF09HI13, sobre fascismo e nazismo), e as ditaduras estudadas são as latino-americanas (EF09HI29). No Ensino Médio, as 32 habilidades EM13CHS são competências transversais sem recorte nacional europeu — nenhuma nomeia a Espanha.
+
+Ressalva de escopo: a rarefação nem sempre é dirigida à Ibéria. "Idade Média" ocorre duas vezes e "feudal" nenhuma — o período medieval inteiro é estruturalmente ralo na BNCC.
+
+**Os livros didáticos invertem o desequilíbrio.** Edson Antoni analisou oito coleções de História do Ensino Fundamental II distribuídas pelo PNLD no triênio 2014-2016 e registra:
+
+> Enquanto observamos a descrição pormenorizada dos diferentes processos de constituição dos estados nacionais europeus (Portugal, Espanha, França, Inglaterra, Alemanha e Itália), assumindo claramente uma perspectiva de que a compreensão destes é de importância universal, as independências na América Latina são tratadas de forma concisa, e em blocos.
+
+E sobre o recorte latino-americano:
+
+> As referidas coleções apresentam de forma dissociada a história brasileira da história latino-americana, sendo esta última representada, unicamente, pela história dos países de colonização espanhola.
+
+Conteúdos de história latino-americana não passam de 5% do total de capítulos em nenhuma das oito coleções. Ou seja: a Espanha que some do currículo oficial reaparece no material didático, e com tratamento pormenorizado — o que o estudo aponta como desproporcional em relação à América Latina, não em relação à Europa.
+
+⚠ Não localizei estudo acadêmico brasileiro dedicado ao tratamento da Espanha europeia (al-Ándalus, Guerra Civil, franquismo, Transição) em livro didático ou na BNCC. Isso não significa que não exista.
+
+? A BNCC passou por proposta de revisão em 2024-2025; não verifiquei se há versão homologada posterior à analisada. Currículos estaduais podem acrescentar conteúdo e ficaram fora da varredura.
+
+Links: [Base Nacional Comum Curricular — texto homologado (MEC)](http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf) · [Edson Antoni, "História da América Latina: diálogos possíveis entre a sociologia das ausências e os livros didáticos de História" (Intellèctus, v. 20, n. 1, 2021)](https://www.e-publicacoes.uerj.br/intellectus/article/view/57515)
+
+#### Portugal — a Espanha aparece, sempre como contraparte ✓
+
+Varredura das Aprendizagens Essenciais de História (DGE) em duas gerações — julho de 2018 (rev. 2022) e março de 2026, a vigente —, para 7º, 8º e 9º anos e para História A do secundário. A Espanha aparece, mas em todos os casos como termo de uma relação com Portugal.
+
+**Al-Ándalus não é nomeado** em nenhum dos onze documentos varridos; tampouco "Califado de Córdova" ou "Emirado". O islã entra por duas portas. Uma genérica, no 7º ano, no domínio "A formação da Cristandade ocidental e a expansão islâmica": "reconhecer na língua árabe e na religião muçulmana fatores de unidade do mundo islâmico". Outra peninsular, no subtema "A Península Ibérica nos séculos IX a XII":
+
+> reconhecer o papel dos moçárabes enquanto ponte cultural e religiosa entre cristandade e islão
+>
+> reconhecer que o relacionamento entre cristãos, muçulmanos e judeus na Península Ibérica foi de convivência e de antagonismo
+
+A formulação de 2026 é mais forte que a de 2018, que pedia apenas "reconhecer na Península Ibérica a existência de diferentes formas de relacionamento entre cristãos, muçulmanos, e judeus". O enquadramento é peninsular, não espanhol, e al-Ándalus como entidade política com história própria não tem descritor.
+
+**"Reconquista" saiu do currículo em 2026.** Em 2018: "Relacionar a formação do Reino de Portugal com as dinâmicas de interação entre as unidades políticas cristãs e com a reconquista". Em março de 2026 a palavra é substituída por "expansão cristã":
+
+> explicar a formação do Condado Portucalense e a sua evolução para o reino de Portugal, tendo em conta a dinâmica da expansão cristã na Península Ibérica
+
+**Nenhum tratado com Castela é nomeado, exceto Tordesilhas.** Zamora (1143), Alcanizes (1297), Alcáçovas (1479) e Aljubarrota não ocorrem em documento algum. O reconhecimento da independência portuguesa aparece sem contraparte castelhana, atribuído ao Papado: "caracterizar os momentos-chave da autonomização do reino de Portugal e o reconhecimento da independência pelo Papado". A crise de 1383-85 é prescrita sem nomear Castela.
+
+Tordesilhas perdeu bilateralidade entre as duas gerações. Em 2018: "Relacionar a política expansionista de D. João II e a assinatura do Tratado de Tordesilhas com a estratégia ibérica de partilha de espaços coloniais". Em 2026: "reconhecer rumos e etapas principais da expansão até à assinatura do Tratado de Tordesilhas" — o adjetivo "ibérica" caiu do descritor.
+
+**União Ibérica e Restauração** têm um descritor cada, no 8º ano, praticamente idênticos nas duas gerações:
+
+> concluir que a União Ibérica resultou da confluência de interesses dos grupos dominantes nos dois estados;
+>
+> explicar que a Restauração resultou da divergência de interesses face às políticas imperiais espanholas;
+
+Filipe II não é nomeado, e a Monarquia Hispânica não aparece como estrutura política a compreender. ⚠ "Restauração" consta da lista de conceitos de aplicação obrigatória; "União Ibérica" não.
+
+O mesmo movimento se repete no tratamento da América. Em 2018: "Identificar as principais características da conquista e da ocupação espanholas na América Central e do Sul". Em 2026: "analisar as principais características da conquista, da ocupação e da exploração económica ibérica nas Américas, destacando a ação de Portugal no Brasil" — "espanholas" virou "ibérica", com o foco deslocado para Portugal.
+
+**A Guerra Peninsular não existe como guerra peninsular.** Nas Aprendizagens Essenciais do 8º ano, nenhuma das duas gerações menciona Napoleão, invasões francesas ou Guerra Peninsular: o bloco "O triunfo das revoluções liberais" salta da revolução francesa e da independência dos EUA direto para a revolução liberal portuguesa e a Constituição de 1822. No secundário existe, estritamente nacional: "analisar as causas e as consequências das invasões napoleónicas em Portugal" (História A, 11º ano). Não há "Guerra Peninsular", Bailén, Cortes de Cádiz nem Constituição de 1812 em documento algum.
+
+**Guerra Civil Espanhola: dois descritores, e Franco nunca é nomeado.** No 9º ano: "problematizar a guerra civil espanhola, inserindo-a no contexto ideológico da época". Em História A do 12º, sob o domínio "O fim da precária ordem mundial estabelecida em 1919": "reconhecer na guerra civil espanhola a antecâmara da II Guerra Mundial". As palavras "Franco" e "franquismo" não ocorrem em nenhum dos onze documentos. O Estado Novo é prescrito com comparação genérica — "comparar o Estado Novo com os principais regimes ditatoriais, estabelecendo semelhanças e diferenças" —, sem a Espanha como termo. A relação Salazar-Franco, incluindo o Pacto Ibérico e o apoio português ao golpe de 1936, não tem descritor.
+
+**A adesão de 1986 é ensinada como feito só português**: "compreender a importância da entrada de Portugal na Comunidade Económica Europeia (CEE) para a democratização e para o desenvolvimento do país". A simultaneidade da entrada espanhola, na mesma data (ver marco da entrada na CEE), não é mencionada. A Transição espanhola não aparece em documento algum.
+
+**Manuais escolares**: Helena Isabel Almeida Vieira (CITCEM) analisou manuais portugueses de 1936 a 2016 quanto à Guerra Civil Espanhola:
+
+> A primeira grande conclusão retirada desta primeira incursão pelas fontes foi a não abordagem do tema no período do Estado Novo, nem no ensino liceal, nem no ensino técnico.
+
+> Desde logo salienta-se a quase inexistência de menções à participação portuguesa de ambos os lados do conflito (à exceção do manual História 9 de 1996). […] Já a participação portuguesa, que se verificou dos dois lados em confronto, é, nos manuais portugueses, quase sempre ocultada
+
+A autora registra ter encontrado, ao iniciar a pesquisa, "a inexistência de estudos publicados no que concerne à realidade portuguesa" sobre o tema.
+
+? Existe estudo comparativo Portugal/Espanha sobre a União Ibérica nos manuais dos dois países — Cózar Gutiérrez, Solé e Rodríguez Pérez, *Studia Historica: Historia Moderna*, v. 45, n. 1 (2023) —, cujas conclusões não foram lidas: só o resumo está acessível. Mesma situação para Adão et al. sobre representações da Espanha no sistema educativo português entre 1890 e 1933.
+
+? Não varridos: o *Programa de História A* do secundário (documento distinto das Aprendizagens Essenciais), as AE de História B, e as Metas Curriculares de 2013.
+
+Links: [Aprendizagens Essenciais — História, 7º ano (DGE)](https://www.dge.mec.pt/sites/default/files/7_historia.pdf) · [Aprendizagens Essenciais — História, 8º ano (DGE)](https://www.dge.mec.pt/sites/default/files/8_historia.pdf) · [Aprendizagens Essenciais — História A, 11º ano (DGE)](https://www.dge.mec.pt/sites/default/files/es_11_historia_a.pdf) · [AE História 3º ciclo, 7º ano, versão 2018 (DGE)](https://www.dge.mec.pt/sites/default/files/Curriculo/Aprendizagens_Essenciais/3_ciclo/historia_3c_7a_ff.pdf) · [AE História 3º ciclo, 8º ano, versão 2018 (DGE)](https://www.dge.mec.pt/sites/default/files/Curriculo/Aprendizagens_Essenciais/3_ciclo/historia_3c_8a_ff.pdf) · [Helena Isabel Almeida Vieira, "A Guerra Civil de Espanha nos manuais escolares de História portugueses do 3.º ciclo do ensino básico" (CITCEM)](https://ler.letras.up.pt/uploads/ficheiros/17116.pdf) · [Cózar Gutiérrez, Solé e Rodríguez Pérez, "La Unión Ibérica en los manuales de historia de Educación Secundaria" (Studia Historica, 2023)](https://revistas.usal.es/uno/index.php/Studia_Historica/article/view/31338) · [Áurea Adão et al., "Representações de Espanha no sistema educativo português, na historiografia e no discurso nacionalista (1890-1933)"](https://ler.letras.up.pt/uploads/ficheiros/15114.pdf)
+
+#### Os pontos-cego, cruzados com os marcos já verificados ⚠
+
+(Síntese própria, não citação de historiador: cruzamento entre os currículos acima e o que já foi verificado nas Direções 1 e 6.)
+
+**1. A Espanha unificada que os dois currículos supõem só existe a partir de 1716.** Nenhum dos dois sistemas ensina que o Estado espanhol unificado nasce com os Decretos de Nueva Planta (1707-1716) — antes disso, 1469 foi união dinástica, com leis e instituições separadas em cada reino (ver marcos correspondentes). O currículo brasileiro trata da "formação e consolidação das monarquias" sem nomear país; o português fala em "dois estados" na União Ibérica, sem indicar que o lado espanhol era ele próprio plural. Para quem migra, esse é o ponto-cego mais caro: a estrutura de comunidades autônomas, regimes forais e financiamento singular mapeada na Direção 2 não é excentricidade contemporânea, é continuidade de uma pluralidade anterior ao Estado unificado.
+
+**2. A cadeia entre Cádiz e as independências americanas é ensinada pela metade no Brasil.** A BNCC manda estudar "as lutas de independência no Brasil, na América espanhola e no Haiti" (EF08HI11), mas nada no documento menciona as Cortes de Cádiz, a Constituição de 1812 ou a restauração absolutista de Fernando VII em 1814 — que a Direção 1 verificou como a reação que deu força política a Bolívar e San Martín. O efeito é prescrito, a causa peninsular não.
+
+**3. A Guerra da Independência espanhola some dos dois lados.** Portugal ensina "invasões napoleónicas em Portugal"; a BNCC não ensina nada. Mas o Tratado de Fontainebleau (1807) previa invasão conjunta franco-espanhola de Portugal e partilha do território entre os dois, e a Espanha foi traída pelo aliado poucos meses depois (ver marco correspondente). O episódio que Portugal aprende como agressão externa é, do lado espanhol, o começo da guerra que fundou o constitucionalismo liberal espanhol.
+
+**4. Oito séculos de al-Ándalus.** No Brasil, ausência total. Em Portugal, presença como pano de fundo peninsular da formação de Portugal — moçárabes, convivência e antagonismo —, mas sem al-Ándalus como entidade com economia e história próprias (ver, na Direção 6, a revolução de irrigação dos séculos VIII-X). A troca de "Reconquista" por "expansão cristã" em 2026 é ganho de precisão, e ainda assim mantém o período subordinado à narrativa portuguesa.
+
+**5. O franquismo não é nomeado em nenhum dos dois currículos.** Portugal cita a Guerra Civil duas vezes sem nomear Franco; o Brasil não cita nenhum dos dois, e estuda ditaduras latino-americanas sem as ibéricas. Mas é o franquismo que explica boa parte do que a Direção 2 mapeou: a repressão linguística contra catalão, basco e galego, a supressão das autonomias, e o desenho da Transição, que se deu dentro do arcabouço legal montado pelo próprio ditador em 1947 e 1969.
+
+**6. 1986 é ensinado como data portuguesa.** Espanha e Portugal entraram na CEE na mesma data, e o currículo português apresenta o marco sem essa simultaneidade. Fica de fora que, do lado espanhol, a CEE foi metade de um movimento maior — OTAN em 1982, referendo de permanência em 1986 — que os historiadores chamam de "vuelta a Europa" (ver marco correspondente).
 
 ### Pendente ?
 
