@@ -371,6 +371,28 @@ Links: [La economía vasca crece un 2,3% en el segundo trimestre (Noticias de Gi
 
 Links: [Todas las provincias de Castilla y León ganaron población en 2025 (El Diario)](https://www.eldiario.es/castilla-y-leon/sociedad/provincias-castilla-leon-ganaron-poblacion-2025-menos-zamora-perdio-vecinos_1_12985623.html) · [BBVA Research: crecimiento económico de Castilla-La Mancha 2026 (El Español)](https://www.elespanol.com/eldigitalcastillalamancha/economia/20260325/bbva-research-preve-crecimiento-economico-castilla-la-mancha-pib/1003744184139_0.html) · [Previsiones económicas para las comunidades autónomas 2025-2026 (Funcas)](https://www.funcas.es/textointegro/previsiones-economicas-para-las-comunidades-autonomas-2025-2026/) · [Baleares, Canarias, Andalucía, Madrid y Cataluña, las CCAA que más crecerán (Funcas)](https://www.funcas.es/prensa/baleares-canarias-andalucia-madrid-y-cataluna-las-ccaa-que-mas-creceran-en-2025-y-2026/) · [Comunidad Foral de Navarra (CaixaBank Research)](https://www.caixabankresearch.com/en/publications/autonomous-community-profiles/navarre-ac) · [Estadística Continua de Población (INE)](https://www.ine.es/dyngs/Prensa/ECP4T25.htm)
 
+### Currículos regionais ✓
+
+Fonte metodológica geral: para cada comunidade, o decreto oficial vigente que regula o currículo da ESO (Educación Secundaria Obrigatoria, 12-16 anos), produto da LOMLOE (Lei Orgánica 3/2020) e do Real Decreto 217/2022 (ensinos mínimos estatais). Foco na matéria de Ciências Sociais/Xeografía e Historia. Bacharelato (17-18 anos, matéria "Historia de España" no 2º ano, mais relevante para EBAU) fica de fora nesta rodada — marcado como pendente em cada comunidade.
+
+#### Galícia — currículo de Xeografía e Historia na ESO (2026) ✓
+
+Fonte: **Decreto 156/2022, do 15 de setembro** (DOG núm. 183, 26/09/2022), que regula a ordenación e o currículo da ESO na Comunidade Autónoma de Galicia — texto legal primário, lido na íntegra (PDF oficial, ~40MB, extraído via pdftotext).
+
+**Estrutura, não narrativa cronológica**: a matéria não é organizada como "história de Espanha" nem "história da Galiza" em sequência de reinos/dinastias — segue o modelo LOMLOE por competências, com três blocos transversais repetidos nos 4 cursos: "Retos do mundo actual", "Sociedades e territorios" (grandes questões, não cronologia dinástica) e "Compromiso cívico local e global". A cronologia (Pré-história à Idade Moderna nos 2 primeiros anos, mundo contemporâneo em 3º/4º) é só o pano de fundo de "Sociedades e territorios" — não o eixo organizador.
+
+**O padrão mais marcante do documento: Galícia emparelhada com Espanha, quase nunca sozinha.** Busca de texto no decreto inteiro mostra que praticamente toda menção a "España" no bloco de conteúdos vem com "e Galicia" junto — alguns exemplos literais: "Riqueza e valor patrimonial de España e Galicia" (1º curso), "Dinámica demográfica de Galicia" (1º), "A situación en España e Galicia" — sobre violência de gênero (3º), "O reto demográfico en España e Galicia" (3º). Contrasta com o achado da Direção 5 sobre BNCC/Aprendizagens Essenciais, onde a Espanha quase não aparece — aqui é a Galícia que nunca desaparece, sempre em par com o nível estatal.
+
+**Conteúdo especificamente galego** (não só "e Galicia" genérico): "Galicia na Idade Media: a era compostelá e as crises baixomedievais" (2º curso); "O reformismo ilustrado en Galicia" (3º curso); "A eurorrexión Galicia-Norte de Portugal", dentro do bloco de estruturas econômicas (3º curso — cruza direto com a Direção 4 desta pesquisa); "Repercusións na Galicia contemporánea", depois de tratar a transformação da Espanha do XIX-XX (4º curso); "A Constitución de 1978 e o Estatuto de autonomía de Galicia" tratados juntos, como marco democrático comum (4º curso).
+
+**Identidade: pluralista, nunca nacionalista — e a ausência é verificável.** O critério de avaliação CA2.7 (2º curso) pede identificar "a orixe histórica de distintas identidades colectivas que se desenvolveron en España e Galicia", com ênfase em "respecto e tolerancia cara aos diferentes sentidos de pertenza" — trata identidade espanhola e galega como duas entre várias, coexistindo, não em disputa. Busquei no texto integral do decreto (busca de string, não amostragem) por "nación" aplicado à Galícia, "autogoberno" e "autodeterminación": **zero ocorrências**. O vocabulário institucional usado sempre é "Comunidade Autónoma de Galicia" e "Estatuto de autonomía", nunca "nación galega".
+
+**Memória democrática, nomeada sem eufemismo**: o objetivo geral OBX5 cita textualmente "a perda das liberdades e dereitos tras o golpe de Estado de 1936" como parte do que o alunado deve reconhecer sobre a formação do sistema democrático atual — o golpe de 1936 (marco já verificado na Direção 1) entra no currículo galego como referência direta.
+
+⚠ Cobertura: só ESO nesta rodada. Bacharelato (Historia de España, 2º ano) fica pendente — é tipicamente mais centrado em narrativa nacional e mais relevante para a EBAU.
+
+Links: [DECRETO 156/2022 — anúncio/texto no DOG](https://www.xunta.gal/dog/Publicados/2022/20220926/AnuncioG0655-190922-0002_es.html) · [PDF integral do decreto, con anexos (STEG)](https://www.steg.gal/UserFiles/files/pdfs/lexislacion/ensinanzas/secundaria/22_23/20220926_curriculo_eso_d_156_2022.pdf)
+
 ### Vida cotidiana e cultura ✓
 
 #### Feriados — sistema nacional, regional e local (2026) ✓
