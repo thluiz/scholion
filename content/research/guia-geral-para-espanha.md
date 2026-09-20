@@ -18,8 +18,8 @@ toc: true
 
 ## Estado
 
-- **Em foco**: Direção 4 concluída nesta rodada (mesclada de branch isolada, ver Notas de contexto) — burocracia cotidiana (NIE/TIE/empadronamiento, colapso da cita previa), mercado de trabalho (reforma laboral 2021, pagas extras, jornada intensiva), hábitos sociais (horários, fuso horário CET, siesta, pontualidade — parte sinalizada com fontes mais fracas), e um bloco de reagrupamento familiar (cônjuge e filhos, incl. acesso universitário) somado à seção de nômade digital. Direção 5 (pontos-cego BR/PT) concluída em rodada anterior, com varredura completa da BNCC e das Aprendizagens Essenciais portuguesas em duas gerações. Direções 1, 2 e 6 também concluídas — Direção 2 passou por auditoria de verificação nesta rodada (ver Notas de contexto para o que mudou).
-- **Próximo**: Direção 3 (currículos educacionais regionais — atenção: é o currículo de cada comunidade autônoma espanhola, tema distinto da Direção 5, que tratou dos currículos brasileiro e português), e os dois itens da seção Pendente.
+- **Em foco**: Direção 3 (currículos regionais) iniciada nesta rodada, em worktree isolada (`direcao-3-curriculos-regionais`) — Galícia e Catalunha concluídas em profundidade (ESO completa nas duas; Catalunha também com Batxillerat 2º ano, matéria Història, onde está a densidade real de conteúdo regional). Achado transversal até aqui: currículo LOMLOE é uma base comum por competências que cada comunidade traduz e adapta — Galícia nomeia a região com muita frequência mas vocabulário sempre institucional (zero "nación"/"autogoberno"); Catalunha nomeia pouco na ESO mas concentra conteúdo político denso no Batxillerat ("emancipació nacional", "concepte plurinacional de l'Estat", catalanismo, Generalitat republicana, franquismo com "repressió identitària" nomeada) — e mesmo assim não menciona 1714, Diada, independentismo ou o referendo de 2017. Comunidade Valenciana com pesquisa iniciada, mas travada num obstáculo técnico: o decreto oficial (Decreto 107/2022) só foi encontrado até agora como PDF-índice (sem o conteúdo dos anexos) ou atrás de erro de certificado — falta achar o texto completo com o anexo de Geografía e Historia. Vale nota lateral: há um Decreto 66/2024 que modificou o 107/2022, possivelmente relevante dado o câmbio de governo (PP+Vox) na Comunitat em 2023 — checar o que mudou. Direção 4, Direção 5, Direção 1, 2 e 6 concluídas em rodadas anteriores (ver Notas de contexto).
+- **Próximo**: retomar Comunidade Valenciana (resolver acesso ao texto completo do Decreto 107/2022, checar Decreto 66/2024), depois Madrid, Andaluzia e País Basco em profundidade — e por fim uma nota geral mais rasa para as demais onze comunidades, no mesmo padrão da Direção 2. Depois, os dois itens da seção Pendente.
 
 ## Motivação
 
@@ -50,7 +50,7 @@ Perfil prático das seis comunidades mais prováveis para migração de brasilei
 
 ### 3. Currículos educacionais regionais
 
-O que cada comunidade ensina como narrativa nacional/regional sobre a Espanha. Tema sensível — precisa de fontes oficiais (leis de currículo de cada comunidade), não de jornais ou opinião.
+O que cada comunidade ensina como narrativa nacional/regional sobre a Espanha. Tema sensível — precisa de fontes oficiais (leis de currículo de cada comunidade), não de jornais ou opinião. Em andamento: Galícia e Catalunha concluídas com decreto oficial lido na íntegra (ver seção Fontes); faltam Comunidade Valenciana (pesquisa iniciada), Madrid, Andaluzia, País Basco, e uma nota geral mais rasa para as demais onze.
 
 ### 4. Diferenças culturais práticas para quem migra
 
