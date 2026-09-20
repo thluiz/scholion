@@ -16,8 +16,8 @@ toc: true
 
 ## Estado
 
-- **Em foco**: Direção 1 — marcos históricos essenciais da Espanha.
-- **Próximo**: Direção 2 — mapeamento das comunidades autônomas mais prováveis para migração (Madrid, Catalunha, Comunidade Valenciana, Galícia, Andaluzia, País Basco), mais uma nota geral agrupando as demais por semelhança.
+- **Em foco**: Direção 1 concluída nesta rodada — linha histórica completa, dos povos pré-romanos à Transição de 1978, doze marcos verificados contra fonte (ver seção Fontes). Dois pontos ficaram pendentes (marcados `?`).
+- **Próximo**: Direção 2 — mapeamento das seis comunidades autônomas confirmadas (Madrid, Catalunha, Comunidade Valenciana, Galícia, Andaluzia, País Basco), mais uma nota geral agrupando as demais onze por semelhança.
 
 ## Motivação
 
@@ -40,7 +40,7 @@ A pergunta de fundo, ao final: o que é a Espanha quando se olha as peças por d
 
 ### 1. Marcos históricos essenciais
 
-Linha do tempo dos pontos de virada que moldaram o país atual: unificação dos reinos, Decretos de Nueva Planta, guerras carlistas, Segunda República, Guerra Civil, franquismo, Transição de 1978. Já esboçado em conversa anterior; falta verificar contra fontes primárias e estruturar.
+Linha do tempo dos pontos de virada que moldaram o país atual, dos povos pré-romanos à Transição de 1978: conquista romana, chegada dos visigodos e reino de Toledo, conquista muçulmana, formação de Astúrias/Castela/Aragão, unificação dos reinos, Decretos de Nueva Planta, guerras carlistas, Segunda República, Guerra Civil, franquismo, Transição de 1978. Verificada contra fonte nesta rodada (ver seção Fontes).
 
 ### 2. Mapeamento por comunidade autônoma
 
@@ -65,3 +65,110 @@ Nenhuma nota do vault trata diretamente do tema. Busca em `content/notes/` e `co
 ## Notas extraídas
 
 (nenhuma ainda)
+
+## Fontes (2026-09-20)
+
+### Marcos históricos ✓
+
+Todos verificados contra Wikipedia ES/EN, National Geographic Historia, UDIMA e fontes institucionais/acadêmicas espanholas. Nenhuma inventada.
+
+#### Povos pré-romanos e conquista romana (até 218 a.C. – 409 d.C.) ✓
+
+Antes de Roma, a península já era habitada por íberos, celtas e celtíberos, além de colônias fenícias, cartaginesas e gregas no litoral. Os cartagineses avançaram a partir do desembarque de Amílcar Barca em Gades (237 a.C.), até o Tratado do Ebro (226 a.C.) fixar o limite de sua expansão.
+
+A conquista romana começou em **218 a.C.**, com o desembarque de Publio Cornélio Cipião em Empúries (Segunda Guerra Púnica). Em **197 a.C.** o território já estava dividido em duas províncias — Hispania Citerior e Hispania Ulterior. A resistência local durou séculos: Viriato foi derrotado em 139 a.C.; os celtíberos, só após a destruição de Numância em 133 a.C. A Hispânia Romana durou mais de seis séculos, até a entrada dos povos germânicos em 409 d.C.
+
+Links: [Hispania romana y visigoda (Ayer y Hoy Revista)](https://ayeryhoyrevista.com/tema-2-la-hispania-romana-y-la-monarquia-visigoda/) · [Hispania Histórica — Hispania Romana](https://hispaniahistorica.com/hispania-romana/)
+
+#### Origem dos visigodos e Reino de Tolosa (séc. III-IV – 507) ✓
+
+A origem dos godos remonta à região de Gothia, na atual Suécia (ilha de Gotland), de onde migraram até áreas da Polônia e depois para o restante da Europa. "Visigodo" vem do germânico *Visi* (oeste) + godo. Fontes romanas já localizam grupos góticos ao norte do Danúbio nos séculos III-IV.
+
+**Alarico I** tornou-se o primeiro rei dos visigodos em 395 e liderou o **saque de Roma em 24 de agosto de 410** — o primeiro inimigo estrangeiro a tomar a cidade desde 390 a.C. Morreu logo depois, no cerco de Cosenza. Em **418**, o imperador Honório assentou os visigodos na Aquitânia (foedus/tratado), formando o **Reino de Tolosa**, capital em Toulouse. O reino durou até **507**, quando o rei Alarico II foi derrotado e morto pelos francos de Clóvis I na **Batalha de Vouillé**, perdendo a Aquitânia e forçando o recuo para a Hispânia.
+
+Links: [El saqueo de Roma por los godos de Alarico (National Geographic Historia)](https://historia.nationalgeographic.com.es/a/saqueo-roma-por-godos-durante-caida-imperio_19011) · [Pueblo visigodo (Wikipedia ES)](https://es.wikipedia.org/wiki/Pueblo_visigodo) · [La batalla de Vouillé (Archivos de la Historia)](https://archivoshistoria.com/vouille-507-la-adrianopolis-de-los-visigodos/)
+
+#### Reino Visigodo de Toledo (507-711) ✓
+
+Após Vouillé, o reino se reconstitui na Hispânia — a capital só foi efetivamente transferida para Toledo entre 555 e 567. Por quase um século conviveram duas comunidades religiosas: a elite goda ariana e a população hispano-romana católica. **Recaredo** se converteu ao catolicismo em 587, formalizado no **III Concílio de Toledo (589)**, selando a unidade religiosa e territorial do reino.
+
+Em **654**, **Recesvinto** promulgou o **Liber Iudiciorum**, unificando pela primeira vez o direito para godos e hispano-romanos, revogando os corpos legais separados anteriores. O governo se apoiava numa **monarquia eletiva** de tradição germânica — instabilidade sucessória crônica, com metade dos reis visigóticos assassinados. Foi exatamente essa fragilidade que abriu a porta ao fim do reino: **Rodrigo** subiu ao trono em meio a disputa sucessória, seus rivais (partidários do rei anterior, Witiza) se aliaram ao general Tariq ibn Ziyad, e o resultado foi a derrota de Rodrigo na **Batalha de Guadalete (711)**.
+
+*Nota lateral verificada*: este Rodrigo, último rei visigótico, não tem relação com a cidade de **Ciudad Rodrigo** (Salamanca) — que deve seu nome atual ao conde **Rodrigo González Girón**, encarregado por Alfonso VI de repovoar a região por volta de 1100, quase 400 anos depois.
+
+Links: [Reino visigodo de Toledo (Wikipedia ES)](https://es.wikipedia.org/wiki/Reino_visigodo_de_Toledo) · [Conversión de Recaredo (Wikipedia ES)](https://es.wikipedia.org/wiki/Conversi%C3%B3n_de_Recaredo) · [III Concilio de Toledo (Wikipedia ES)](https://es.wikipedia.org/wiki/III_Concilio_de_Toledo) · [Recceswinth (Wikipedia EN)](https://en.wikipedia.org/wiki/Recceswinth) · [Ciudad Rodrigo (Wikipedia ES)](https://es.wikipedia.org/wiki/Ciudad_Rodrigo_(Salamanca)) · [Origen del nombre de Ciudad Rodrigo (La Región Leonesa)](https://laregionleonesa.com/origen-del-nombre-de-ciudad-rodrigo)
+
+#### Conquista muçulmana e Reino de Astúrias (711-722) ✓
+
+A conquista de 711, liderada por Tariq ibn Ziyad a partir do Califado Omeva, foi facilitada pela sucessão conflituosa visigótica e por pactos com poderes locais. Só o extremo norte da península não foi alcançado. Ali, **Pelágio (Pelayo)** — nobre visigótico, provavelmente da guarda real do rei Rodrigo, fugido do cativeiro em Córdoba em 717 — fundou o **Reino de Astúrias em 718**. Sua vitória na **Batalha de Covadonga (722)** é o marco simbólico do início da Reconquista.
+
+Links: [Batalla de Covadonga (El Orden Mundial)](https://elordenmundial.com/hoy-en-la-historia/28-mayo/28-de-mayo-de-722-en-asturias-tiene-lugar-la-batalla-de-covadonga-entre-cristianos-y-musulmanes/) · [Pelagius of Asturias (Wikipedia EN)](https://en.wikipedia.org/wiki/Pelagius_of_Asturias)
+
+#### Formação de Castela (séc. IX – 1230) ✓
+
+Castela nasceu como condado dentro do reino de Astúrias/León, com repovoamento desde o início do século IX, ganhando autonomia crescente ao longo do século X. Em **1065**, Fernando I de León dividiu seus territórios entre os filhos — para equilibrar a herança, elevou Castela à categoria de reino e a deu ao filho Sancho (León foi para Alfonso, Galícia para García). Castela e León se reuniram e separaram algumas vezes entre 1072 e 1157, até a união se tornar **permanente em 1230**, com Fernando III.
+
+Links: [Reino de Castilla (Wikipedia ES)](https://es.wikipedia.org/wiki/Reino_de_Castilla) · [Del condado al reino de Castilla (Historia del Condado de Castilla)](https://www.condadodecastilla.es/historia/del-condado-al-reino-de-castilla-1037-1065/)
+
+#### Formação de Aragão (1035-1162) ✓
+
+Aragão nasceu separadamente, na região pirenaica, da união de três condados de origem carolíngia — Aragão, Sobrarbe e Ribagorza — em **1035**, sob Ramiro I. Em **1137**, o rei Ramiro II casou a filha Petronila (com um ano de idade) com o conde de Barcelona, Ramão Berengário IV, unindo o Reino de Aragão ao Condado de Barcelona e formando a **Coroa de Aragão** — união dinástica, cada território mantendo autonomia própria. Só em 1162, com Alfonso II (filho do casal), um único monarca ostentou os dois títulos ao mesmo tempo.
+
+Links: [Reino de Aragón (Wikipedia ES)](https://es.wikipedia.org/wiki/Reino_de_Arag%C3%B3n) · [Corona de Aragón (Wikipedia ES)](https://es.wikipedia.org/wiki/Corona_de_Arag%C3%B3n)
+
+#### União dos Reis Católicos (1469) e conquista de Granada (1492) ✓
+
+Isabel de Castela e Fernando de Aragão se casaram em **19 de outubro de 1469**, unindo as duas coroas mais poderosas da Península — mas cada reino manteve leis, instituições e costumes próprios. Não foi fusão administrativa, foi união dinástica.
+
+A Guerra de Granada (1482-1492) terminou em **2 de janeiro de 1492**, com a entrada das tropas cristãs na cidade e o fim de quase oito séculos de presença muçulmana na região.
+
+Links: [UDIMA — Los Reyes Católicos y su matrimonio](https://blogs.udima.es/historia/los-reyes-catolicos-y-como-su-matrimonio-cambio-la-historia-de-espana/) · [Wikipedia ES — Guerra de Granada](https://es.wikipedia.org/wiki/Guerra_de_Granada) · [National Geographic Historia — Conquista de Granada](https://historia.nationalgeographic.com.es/a/conquista-granada-gran-triunfo-reyes-catolicos_6778)
+
+#### Decretos de Nueva Planta (1707-1716) ✓
+
+Felipe V, depois de vencer a Guerra de Sucessão Espanhola, aboliu por decreto os fueros, privilégios e instituições próprias dos territórios da Coroa de Aragão que haviam apoiado o pretendente rival. Datas específicas: Aragão e Valência em **29 de junho de 1707**, Maiorca em **28 de novembro de 1715**, Catalunha em **16 de janeiro de 1716**. O texto do decreto de 1707 é explícito: ficam "abolidos y derogados todos los referidos fueros, privilegios, práctica y costumbre", reduzindo esses territórios às leis de Castela.
+
+Links: [Wikipedia ES — Decretos de Nueva Planta](https://es.wikipedia.org/wiki/Decretos_de_Nueva_Planta) · [Real Asociación Española de Cronistas Oficiales](https://www.cronistasoficiales.com/que-fueron-los-decretos-de-nueva-planta/)
+
+#### Guerras Carlistas (1833-1876) ✓
+
+**Causa**: disputa sucessória. Fernando VII, sem herdeiro homem depois de três casamentos, tinha como sucessor presuntivo o irmão Carlos María Isidro — a Lei Sálica vigente impedia mulheres no trono. Em **março de 1830**, seis meses antes do nascimento da filha Isabel, Fernando publicou a **Pragmática Sanção**, restabelecendo o direito sucessório castelhano das Partidas (filhas sucedem na ausência de filhos varões). Isabel nasceu, tornou-se herdeira, e as pretensões do tio ficaram em xeque.
+
+**Ideologia**: resumida como "Dios, Patria, Rey" (absolutismo, tradição, contra o constitucionalismo liberal isabelino) ou, no contexto foral, "Dios, Patria, Fueros". Carlistas viam as reformas liberais — liberdade de culto, casamento civil, educação laica — como ataque à Igreja Católica. Base social nas zonas rurais do País Basco, Navarra, Aragão e Catalunha.
+
+**Primeira Guerra Carlista (1833-1839)**, a "Guerra dos Sete Anos": o general **Zumalacárregui** organizou um exército carlista de ~35 mil homens, dominando o espaço rural basco-navarro, até morrer em 1835 no cerco de Bilbao. O general liberal **Espartero** derrotou os carlistas em Luchana (1836). A guerra terminou no **Convênio de Vergara (31 de agosto de 1839)**, entre Espartero e o general carlista **Maroto**: manutenção dos fueros bascos e navarros, integração dos oficiais carlistas ao exército real.
+
+**Segunda Guerra Carlista (1846-1849)**, a "Guerra dels Matiners": conflito bem mais contido, concentrado na Catalunha, ligado a um projeto de casamento frustrado entre Isabel II e um pretendente carlista. Guerrilhas "Matiners" (madrugadores, em catalão) chegaram a colaborar com insurgentes progressistas/republicanos.
+
+**Terceira Guerra Carlista (1872-1876)**: eclodiu no caos do Sexênio Democrático (queda de Isabel II, reinado frustrado de Amadeo de Saboia, Primeira República). Liderada por **Carlos VII**, chegou a erguer um Estado carlista de fato no norte, com capital em Estella — universidade e selos próprios. Terminou com a Restauração Alfonsina, e foi nesse desfecho que **Cánovas del Castillo suprimiu definitivamente os fueros em 1876** — concedendo em troca, às quatro províncias (Álava, Biscaia, Guipúzcoa e Navarra), o regime econômico especial que origina o Concierto Económico e o Convênio navarro atuais.
+
+Links: [¿Qué fueron las Guerras Carlistas? (Enciclopedia Iberoamericana)](https://enciclopediaiberoamericana.com/guerras-carlistas/) · [Isabel II y las Guerras Carlistas (INTEF)](https://descargas.intef.es/recursos_educativos/RED_ES/04_Bachillerato/2/B_2_063_2025_1166/isabel_ii_y_las_guerras_carlistas.html) · [Primera guerra carlista (Wikipedia ES)](https://es.wikipedia.org/wiki/Primera_guerra_carlista) · [Convention of Vergara (Wikipedia EN)](https://en.wikipedia.org/wiki/Convention_of_Vergara) · [Segunda guerra carlista (Wikipedia ES)](https://es.wikipedia.org/wiki/Segunda_guerra_carlista) · [Third Carlist War (Wikipedia EN)](https://en.wikipedia.org/wiki/Third_Carlist_War) · [Historia de los fueros vascongados y navarros en el siglo XIX (Wikipedia ES)](https://es.wikipedia.org/wiki/Historia_de_los_fueros_vascongados_y_navarros_en_el_siglo_XIX)
+
+#### Segunda República — Estatutos de Autonomia (1931-1936) ✓
+
+O Estatuto da Catalunha (Estatuto de Núria) foi aprovado em referendo em **9 de setembro de 1932**, com 99% de aprovação e 75% de participação — o único estatuto de autonomia implementado antes da Guerra Civil. O Estatuto do País Basco só foi aprovado pelas Cortes em **1º de outubro de 1936**, em Valência, já em plena Guerra Civil. O estatuto da Galícia ficou em tramitação e nunca chegou a ser promulgado.
+
+Links: [Sabino Arana Fundazioa — El Estatuto de Autonomía de Catalunya de 1932](https://www.sabinoarana.eus/es/historias-vascas/efemerides/el-estatuto-de-autonomia-de-catalunya-de-1932-un-exito-referendario-20220909) · [Wikipedia EN — Statute of Autonomy of the Basque Country of 1936](https://en.wikipedia.org/wiki/Statute_of_Autonomy_of_the_Basque_Country_of_1936) · [Congreso de los Diputados — II República Española](https://www.congreso.es/es/cem/iirepesp)
+
+#### Guerra Civil e repressão franquista (1936-1975) ✓
+
+Guerra Civil de 1936 a 1939. Sob o franquismo, o presidente catalão **Lluís Companys foi executado em 1940**; a **Legião Condor bombardeou Guernica**, centro histórico basco. A repressão cultural e política contra catalães, bascos e galegos se estendeu por toda a ditadura — línguas próprias banidas do espaço público, autonomias suprimidas.
+
+Links: [Wikipedia ES — Represión franquista](https://es.wikipedia.org/wiki/Represi%C3%B3n_franquista) · [Wikipedia ES — Guerra civil española en Cataluña](https://es.wikipedia.org/wiki/Guerra_civil_espa%C3%B1ola_en_Catalu%C3%B1a)
+
+#### Transição e Constituição de 1978 ✓
+
+Franco morreu em **20 de novembro de 1975**. A Constituição foi aprovada em referendo em **6 de dezembro de 1978** (participação de dois terços do eleitorado, 87,8% de votos favoráveis) e entrou em vigor em **29 de dezembro de 1978**, estabelecendo o Estado social e democrático de direito, a monarquia parlamentar e o Estado das Autonomias.
+
+A construção efetiva das 17 comunidades autônomas levou de **1979 a 1995**, por duas vias: a rápida (artigo 151), reservada às nacionalidades históricas — Catalunha e País Basco chegaram à autonomia já no fim de 1979 —, e a lenta (artigo 143) para as demais. Castela e Leão e Baleares foram as últimas, em fevereiro de 1983.
+
+Links: [Wikipedia ES — Transición española](https://es.wikipedia.org/wiki/Transici%C3%B3n_espa%C3%B1ola) · [Wikipedia ES — Constitución española de 1978](https://es.wikipedia.org/wiki/Constituci%C3%B3n_espa%C3%B1ola_de_1978) · [Wikipedia ES — Construcción del Estado de las autonomías](https://es.wikipedia.org/wiki/Construcci%C3%B3n_del_Estado_de_las_autonom%C3%ADas)
+
+### Pendente ?
+
+- Citação atribuída ao franquismo sobre "desaparecimento da Catalunha como minoria nacional" — apareceu em busca sem atribuição de fonte primária confiável. Omitida da seção verificada até localizar origem exata (provavelmente historiografia catalã sobre política linguística franquista, mas precisa confirmar autor/obra).
+- Datação precisa da abolição dos fueros no Reino de Navarra vs. as três provincias bascas — o "1876" verificado é para Álava, Biscaia e Guipúzcoa; Navarra teve trajetória fiscal um pouco distinta (Lei Paccionada de 1841) que ainda não verifiquei em detalhe.
+
+## Notas de contexto
+
+Pesquisa iniciada em 2026-09-20, a partir de sequência de perguntas sobre Verín, organização territorial espanhola e financiamento autonômico. Direção 1 (marcos históricos) verificada nesta rodada em duas passadas: primeiro os marcos de 1469 em diante, depois — a pedido do autor — a linha completa recuando até os povos pré-romanos e a chegada dos visigodos. Direção 2 confirmada com o autor: seis comunidades autônomas (Madrid, Catalunha, Comunidade Valenciana, Galícia, Andaluzia, País Basco) mais uma nota geral agrupando as demais onze.
