@@ -1,0 +1,65 @@
+---
+title: "Pesquisa Viva: Ileísmo"
+date: 2026-09-19T21:43:55+01:00
+summary: "Em que o ileísmo (illeism, falar de si em terceira pessoa) é útil, que embasamento científico tem, e quais são ileísmos famosos?"
+tags: ["pesquisa-viva", "ileismo", "illeism", "autodistanciamento", "psicologia"]
+status: "em andamento"
+toc: true
+---
+
+## Estado
+
+- **Em foco**: Direções 1 e 2 concluídas (utilidade; embasamento científico e seus limites).
+- **Próximo**: confirmar com o autor se avançamos para a Direção 3 (ileísmos famosos) e, dentro da Direção 2, se vale a pena buscar literatura sobre mecanismo neural do autodistanciamento.
+
+## Motivação
+
+Pesquisa aberta pelo autor a partir da pergunta central: em que o ileísmo é útil, que embasamento científico tem, e quais são ileísmos famosos. O termo do autor corresponde ao inglês *illeism*, isto é, falar de si na terceira pessoa em vez da primeira, e não a uma ideia de isolamento insular. O autor indicou a [página da Wikipédia sobre Illeism](https://en.wikipedia.org/wiki/Illeism) como ponto de partida. A grafia correta em português é "ileísmo" (com um só "l"), conforme a [Wikipédia em português](https://pt.wikipedia.org/wiki/Ile%C3%ADsmo). A palavra vem do latim *ille* ("ele, aquele") mais o sufixo *-ismo*.
+
+Origem do termo: o *Oxford English Dictionary* registra o primeiro uso conhecido de "illeism" em torno de 1809–1810, em Samuel Taylor Coleridge, no periódico *The Friend* (publicado em 28 partes entre junho de 1809 e março de 1810). {{verificar: trecho de *The Friend* em que Coleridge comenta a terceira pessoa, para confirmar se ele a via como recurso que encobre egotismo}}
+
+## Perguntas em aberto
+
+(Só o autor adiciona perguntas.)
+
+## Direções a mapear
+
+Cada direção é exaurida antes de passar à próxima.
+
+### 1. Utilidade do ileísmo
+
+Duas linhas de pesquisa revisadas por pares, ambas com Ethan Kross (University of Michigan) e Igor Grossmann (University of Waterloo):
+
+- **Autorregulação sob estresse social.** Kross, E., Bruehlman-Senecal, E., Park, J., Burson, A., Dougherty, A., Shablack, H. et al. (2014). "Self-Talk as a Regulatory Mechanism: How You Do It Matters." *Journal of Personality and Social Psychology*, 106(2), 304–324. DOI: 10.1037/a0035173. Sete estudos, 585 participantes. Falar de si mesmo usando o próprio nome ou a terceira pessoa (em vez de "eu") aumenta o distanciamento psicológico e leva a pessoa a avaliar estressores futuros como menos ameaçadores. Em tarefas de primeira impressão e de fala em público, quem usava linguagem não-primeira-pessoa teve desempenho melhor segundo avaliadores externos, inclusive entre participantes com ansiedade social.
+
+- **Raciocínio sábio sobre problemas próprios.** Grossmann, I., & Kross, E. (2014). "Exploring Solomon's Paradox: Self-Distancing Eliminates the Self-Other Asymmetry in Wise Reasoning About Close Relationships in Younger and Older Adults." *Psychological Science*, 25(8), 1571–1580. Três estudos mostram que as pessoas raciocinam de forma mensuravelmente mais sábia sobre o problema de outra pessoa do que sobre um problema equivalente próprio, o "paradoxo de Salomão": sábio para aconselhar os outros e cego para o próprio caso. Quando induzidas a narrar a própria situação em terceira pessoa, a assimetria desaparece: a pessoa passa a raciocinar sobre a própria vida com a mesma qualidade com que raciocina sobre a vida alheia. O efeito foi equivalente entre adultos de 20–40 e de 60–80 anos.
+
+- **Intervenção de mais longo prazo (⚠ preprint, ainda sem revisão por pares).** Grossmann & Kross, "Training for Wisdom: The Illeist Diary Method" (PsyArXiv). Cerca de 300 participantes mantiveram um diário por quatro semanas, metade escrevendo em primeira pessoa, metade em terceira. O grupo em terceira pessoa melhorou em humildade intelectual, capacidade de considerar outras perspectivas e busca de compromisso; o grupo controle não mudou. Houve também regulação emocional mais estável e previsões mais precisas sobre o próprio estado emocional futuro.
+
+O mecanismo comum às três linhas: a terceira pessoa cria distância psicológica do eu sem exigir que a pessoa saia fisicamente da situação. É a mesma distância que ela já usa, automaticamente, para julgar o problema alheio.
+
+### 2. Embasamento científico
+
+Os dois estudos revisados por pares da Direção 1 (Kross et al. 2014; Grossmann & Kross 2014) já são o núcleo do embasamento. Complemento sobre limites do fenômeno:
+
+- **Pronome não é o mesmo que narcisismo.** Raskin, R., & Shaw, R. (1988). "Narcissism and the Use of Personal Pronouns." *Journal of Personality*, 56(2), 393–404. 48 participantes falaram cerca de 5 minutos sobre um tema livre; as falas foram transcritas e analisadas quanto ao uso de pronomes pessoais, e os participantes responderam ao Narcissistic Personality Inventory, ao Eysenck Personality Questionnaire e à escala de locus de controle de Rotter. Achado: quem pontua mais alto em narcisismo usa mais "eu" (primeira pessoa singular) e menos "nós" (primeira pessoa plural). O estudo não encontrou relação entre narcisismo e uso de pronomes de segunda ou terceira pessoa. Isto restringe uma afirmação comum na cobertura popular do tema (inclusive na Wikipédia): o excesso de "eu" tem, sim, lastro empírico como sinal de narcisismo. A ideia contrária, de que a terceira pessoa seja sinal de humildade ou o oposto disso, não tem sustentação direta neste estudo, porque não houve correlação medida em nenhum dos dois sentidos.
+
+Ainda em aberto: mecanismo cognitivo ou neural específico do autodistanciamento linguístico. {{verificar: há literatura de Kross sobre correlatos neurais do self-talk em terceira pessoa?}} A confirmar com o autor se busco essa literatura ou se a direção se dá por encerrada aqui.
+
+### 3. Ileísmos famosos
+
+A confirmar com o autor. Candidatos levantados na Wikipédia (⚠ lista a filtrar e verificar caso a caso, não todos com fonte primária forte):
+
+- Retórica antiga: Júlio César, Xenofonte.
+- Política: Charles de Gaulle, Richard Nixon, Bob Dole, Donald Trump, Narendra Modi.
+- Esporte: Rickey Henderson, LeBron James, Cristiano Ronaldo, Zlatan Ibrahimović, Pelé.
+- Espiritualidade: Buda, Swami Ramdas (⚠ Aeon cita hinduísmo/Ramdas como uso intencional ligado a desapego do ego, a verificar).
+- Ficção: Hercule Poirot, Gollum, Dobby, Elmo.
+
+## Notas do Scholion já relacionadas
+
+Nenhuma encontrada. Duas notas de Drummond sobre solidão (afirmação de amizade como isolamento; gosto de pensar sozinho) foram localizadas na busca inicial e descartadas pelo autor por serem tangenciais ao tema: tratam de isolamento social, não de fala em terceira pessoa.
+
+## Notas extraídas
+
+Nenhuma ainda.
