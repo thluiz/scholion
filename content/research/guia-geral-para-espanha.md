@@ -166,9 +166,11 @@ A **Guerra Hispano-Americana** (abril-agosto de 1898) começou quando os EUA int
 
 O **Tratado de Paris (10 de dezembro de 1898)** encerrou a guerra: a Espanha perdeu **Cuba** (sob tutela dos EUA), **Porto Rico, Filipinas e Guam**. Os EUA pagaram uma compensação de 20 milhões de dólares pelas Filipinas.
 
-A derrota mergulhou o país numa crise nacional profunda — o "**Desastre do 98**" — agravada pela pobreza generalizada da população. Foi trauma coletivo que abriu debate sobre a decadência espanhola, inspirou uma geração de intelectuais (a **Geração de 98**) e marcou o **fim definitivo do império colonial espanhol**, quatro séculos depois de 1492.
+A derrota mergulhou o país numa crise nacional profunda — o "**Desastre do 98**" — agravada pela pobreza generalizada da população. Foi trauma coletivo que abriu debate sobre a decadência espanhola e marcou o **fim definitivo do império colonial espanhol**, quatro séculos depois de 1492.
 
-Links: [Desastre del 98 (Wikipedia ES)](https://es.wikipedia.org/wiki/Desastre_del_98) · [Guerra hispano-estadounidense (Wikipedia ES)](https://es.wikipedia.org/wiki/Guerra_hispano-estadounidense)
+**A Geração de 98**: termo criado por **Azorín em 1913** para o grupo de escritores que assumiu de frente essa decadência e se comprometeu a buscar soluções para transformar a Espanha — **Miguel de Unamuno, Azorín, Pío Baroja, Ramiro de Maeztu, Antonio Machado e Valle-Inclán**. O tema comum é a decadência nacional: a essência da Espanha, as causas de seus males, seu passado e destino histórico. A maioria (sobretudo Unamuno, Maeztu, Azorín e Baroja) sofreu influência do **regeneracionismo**, corrente que buscava diagnosticar e "curar" o atraso espanhol frente ao resto da Europa — foi um momento de renovação temática, intelectual e estética profunda nas letras espanholas.
+
+Links: [Desastre del 98 (Wikipedia ES)](https://es.wikipedia.org/wiki/Desastre_del_98) · [Guerra hispano-estadounidense (Wikipedia ES)](https://es.wikipedia.org/wiki/Guerra_hispano-estadounidense) · [Generación del 98 (Wikipedia ES)](https://es.wikipedia.org/wiki/Generaci%C3%B3n_del_98) · [La «Generación del 98» (El vuelo de la lechuza)](https://elvuelodelalechuza.com/2019/07/20/la-generacion-del-98-azorin-baroja-maeztu-ganivet-unamuno-y-antonio-machado/)
 
 #### Segunda República — Estatutos de Autonomia (1931-1936) ✓
 
@@ -224,7 +226,9 @@ Links: [Wikipedia ES — Transición española](https://es.wikipedia.org/wiki/Tr
 
 O primeiro pedido de adesão à Comunidade Econômica Europeia foi feito em **1962**, mas só com a democracia (a partir de 1975) os trâmites avançaram de fato. O pedido formal veio pouco depois das primeiras eleições democráticas pós-franquistas de junho de 1977; as negociações começaram em 1979 e se estenderam por sete anos, até a assinatura solene do Tratado no Palácio de Oriente, em Madrid, em **12 de junho de 1985**. O tratado entrou em vigor em **1º de janeiro de 1986** — Espanha e Portugal entraram na mesma data, levando a CEE de dez a doze membros. A adesão marcou o **fim da marginalização política** da Espanha frente ao resto da Europa.
 
-Links: [Adhesión de España a las Comunidades Europeas (Wikipedia ES)](https://es.wikipedia.org/wiki/Adhesi%C3%B3n_de_Espa%C3%B1a_a_las_Comunidades_Europeas) · [1986: España, miembro de la Comunidad Económica Europea (Economist & Jurist)](https://www.economistjurist.es/articulos-juridicos-destacados/1986-espana-miembro-de-la-comunidad-economica-europea/)
+**A marginalização em duas camadas**: os Pactos de Madrid (1953, ver marco das Guerras Mundiais) tiraram a ditadura franquista do isolamento pleno, mas a Espanha continuou fora das organizações militares e econômicas em que o resto do Ocidente foi se integrando — um "estar dentro, mas de fora" que durou décadas. A virada geopolítica mais rápida da Espanha moderna aconteceu entre 1982 e 1986: em **30 de maio de 1982** a Espanha se tornou o 16º membro da **OTAN**, decisão rejeitada por boa parte da sociedade — o PSOE, então na oposição, fez campanha com o lema **"OTAN, de entrada no"**. No governo, porém, Felipe González inverteu a posição e levou a permanência a **referendo em 12 de março de 1986**: o SIM venceu com **56,85%** dos votos válidos (participação de 59,4%). No mesmo período se completou a adesão à CEE. É esse conjunto — OTAN mais CEE, não só a CEE isoladamente — que os historiadores chamam de "**vuelta a Europa**", o fim efetivo da marginalização política iniciada com o alinhamento ao Eixo na Segunda Guerra Mundial.
+
+Links: [Adhesión de España a las Comunidades Europeas (Wikipedia ES)](https://es.wikipedia.org/wiki/Adhesi%C3%B3n_de_Espa%C3%B1a_a_las_Comunidades_Europeas) · [1986: España, miembro de la Comunidad Económica Europea (Economist & Jurist)](https://www.economistjurist.es/articulos-juridicos-destacados/1986-espana-miembro-de-la-comunidad-economica-europea/) · [1986 Spanish NATO membership referendum (Wikipedia EN)](https://en.wikipedia.org/wiki/1986_Spanish_NATO_membership_referendum) · [La geopolítica del franquismo (El Orden Mundial)](https://elordenmundial.com/geopolitica-franquismo-espana-historia-politica-exterior/)
 
 #### Atentados de 11 de março de 2004 (11-M) ✓
 
@@ -232,7 +236,9 @@ Em **11 de março de 2004**, uma célula terrorista de tipo jihadista detonou de
 
 O governo de José María Aznar atribuiu apressadamente a autoria à ETA, o que gerou intenso debate político sobre a gestão da informação nas horas seguintes. Três dias depois, em **14 de março de 2004**, a Espanha foi às urnas: uma pesquisa pós-eleitoral do CIS detectou que 21,5% dos eleitores confessaram que o atentado influenciou muito ou bastante seu voto. O socialista **José Luis Rodríguez Zapatero** venceu a eleição.
 
-Links: [Atentados del 11 de marzo de 2004 (Wikipedia ES)](https://es.wikipedia.org/wiki/Atentados_del_11_de_marzo_de_2004)
+*Nota lateral verificada — Zapatero não tem relação com os zapatistas*: coincidência apenas etimológica, não genealógica ou política. "Zapatero" é sobrenome ocupacional medieval espanhol (quem faz ou conserta sapatos). "Zapata" — sobrenome do revolucionário mexicano Emiliano Zapata, de quem vem "zapatista" (o EZLN, 1994, Chiapas) — tem a mesma raiz ocupacional ("zapata" também significava calçado até a metade da perna, nome ocupacional equivalente para sapateiro na Idade Média ibérica). Mesma origem linguística, linhagens de sobrenome completamente distintas.
+
+Links: [Atentados del 11 de marzo de 2004 (Wikipedia ES)](https://es.wikipedia.org/wiki/Atentados_del_11_de_marzo_de_2004) · [Apellido ZAPATERO: origen y significado (Geneanet)](https://es.geneanet.org/apellidos/ZAPATERO) · [¿De dónde viene el apellido 'Zapata'? (N+)](https://www.nmas.com.mx/cultura/apellido-zapata-que-significa-y-origen-de-donde-viene/)
 
 #### Crise financeira e bolha imobiliária (2008-2014) ✓
 
