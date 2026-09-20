@@ -10,7 +10,7 @@ toc: true
 ## Estado
 
 - **Em foco**: as três direções da pergunta inicial estão cobertas (utilidade, embasamento científico e limites, ileísmos famosos verificados por categoria). As pendências de verificação abertas na rodada anterior (Plutarco sobre Xenofonte, comentário acadêmico sobre César, fonte para o traço infantil no caso do Elmo) foram resolvidas: as duas primeiras com fonte primária/acadêmica encontrada, a terceira com reconhecimento explícito de que não há fonte acadêmica sólida para a afirmação popular, só para o fenômeno vizinho do "pronoun reversal".
-- **Próximo**: a definir com o autor. Única pendência restante: mecanismo neural do autodistanciamento linguístico (Direção 2), ainda não pesquisado.
+- **Próximo**: a definir com o autor. Não há mais pendências abertas nas três direções originais.
 
 ## Motivação
 
@@ -44,7 +44,15 @@ Os dois estudos revisados por pares da Direção 1 (Kross et al. 2014; Grossmann
 
 - **Pronome não é o mesmo que narcisismo.** Raskin, R., & Shaw, R. (1988). "Narcissism and the Use of Personal Pronouns." *Journal of Personality*, 56(2), 393–404. 48 participantes falaram cerca de 5 minutos sobre um tema livre; as falas foram transcritas e analisadas quanto ao uso de pronomes pessoais, e os participantes responderam ao Narcissistic Personality Inventory, ao Eysenck Personality Questionnaire e à escala de locus de controle de Rotter. Achado: quem pontua mais alto em narcisismo usa mais "eu" (primeira pessoa singular) e menos "nós" (primeira pessoa plural). O estudo não encontrou relação entre narcisismo e uso de pronomes de segunda ou terceira pessoa. Isto restringe uma afirmação comum na cobertura popular do tema (inclusive na Wikipédia): o excesso de "eu" tem, sim, lastro empírico como sinal de narcisismo. A ideia contrária, de que a terceira pessoa seja sinal de humildade ou o oposto disso, não tem sustentação direta neste estudo, porque não houve correlação medida em nenhum dos dois sentidos.
 
-Ainda em aberto: mecanismo cognitivo ou neural específico do autodistanciamento linguístico. {{verificar: há literatura de Kross sobre correlatos neurais do self-talk em terceira pessoa?}} A confirmar com o autor se busco essa literatura ou se a direção se dá por encerrada aqui.
+**Mecanismo neural.** Moser, J. S., Dougherty, A., Mattson, W. I., Katz, B., Moran, T. P., Guevarra, D., Shablack, H., Ayduk, O., Jonides, J., Berman, M. G., & Kross, E. (2017). "Third-Person Self-Talk Facilitates Emotion Regulation Without Engaging Cognitive Control: Converging Evidence from ERP and fMRI." *Scientific Reports*, 7, 4519. DOI: 10.1038/s41598-017-04047-3.
+
+O estudo cruza dois experimentos. No primeiro (29 participantes, EEG), pessoas viram imagens negativas e neutras enquanto refletiam sobre elas em primeira pessoa ou usando o próprio nome. Duas medidas de atividade elétrica cerebral (ERP) foram acompanhadas. A *late positive potential* (LPP), marcador robusto de reatividade emocional que costuma aumentar diante de estímulos negativos, aumentou como esperado na condição em primeira pessoa (imagens negativas geraram LPP bem maior que as neutras), mas na condição em terceira pessoa a diferença entre imagens negativas e neutras praticamente desapareceu. Ou seja, usar o próprio nome já reduz a reatividade emocional medida no cérebro, no primeiro segundo de exposição ao estímulo. A *stimulus preceding negativity* (SPN), marcador de esforço de controle cognitivo, não aumentou em nenhuma das duas condições. Isto é o achado central: a regulação emocional aconteceu sem o cérebro recrutar o sistema de controle cognitivo que normalmente esse tipo de regulação exige.
+
+No segundo experimento (50 participantes, fMRI), pessoas relembravam memórias autobiográficas dolorosas em primeira pessoa ou pelo próprio nome. Falar de si pelo nome reduziu significativamente a ativação do córtex pré-frontal medial e do cíngulo anterior esquerdo, regiões associadas a processamento autorreferente, sem aumentar a ativação de regiões de controle cognitivo (córtex pré-frontal dorsolateral, ventrolateral, parietal posterior) e sem alterar a atividade da amígdala.
+
+A explicação dos autores: o cérebro já trata o próprio nome de um jeito parecido com o que usa para pensar em outras pessoas. Ao ser instruído a falar de si pelo nome, o sujeito passa a processar a própria experiência emocional um pouco como processa a experiência alheia, e essa reclassificação acontece de forma automática pela linguagem, não por esforço sustentado de controle. É nesse sentido que o autodistanciamento regula emoção "de graça": sem o custo cognitivo de outras estratégias de regulação emocional, como a reavaliação deliberada de uma situação.
+
+Isto fecha a pendência de mecanismo que ficava em aberto nesta direção.
 
 ### 3. Ileísmos famosos
 
