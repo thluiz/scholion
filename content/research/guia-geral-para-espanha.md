@@ -399,6 +399,26 @@ Links: [BOE-A-2021-21788 — Real Decreto-ley 32/2021 (texto oficial)](https://w
 
 Links: [Choque cultural na Espanha: 5 costumes que os brasileiros estranham (Migra Academy)](https://migra.academy/geral/choque-cultural-na-espanha-costumes/) · [Horários na Espanha: uma questão de sobrevivência (Fala Casal)](https://falacasal.com/cultura/horarios-na-espanha/) · [INE — Encuesta de Empleo del Tiempo (página oficial, sem dado específico localizado)](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176815&menu=resultados&idp=1254735976608) · [Huso horario de España (Wikipedia ES)](https://es.wikipedia.org/wiki/Huso_horario_de_Espa%C3%B1a) · [El "bulo" del huso horario nazi en España (Yahoo Noticias, com Pere Planesas)](https://es-us.noticias.yahoo.com/bulo-huso-horario-nazi-espa%C3%B1a-050058374.html) · [¿Por qué en España tenemos un huso horario que no nos corresponde? (Tiempo.com)](https://www.tiempo.com/noticias/actualidad/por-que-en-espana-tenemos-un-huso-horario-que-no-nos-corresponde-el-capricho-de-1940-de-franco.html) · [Etimología de "siesta" (El Castellano)](https://www.elcastellano.org/palabra/siesta) · [¿De dónde viene la palabra española "siesta"? (El Español)](https://www.elespanol.com/curiosidades/lenguaje/donde-viene-palabra-espanola-castellana-siesta-etimologia-origen-latin/647435305_0.html)
 
+> **⚠ BLOCO EM ESPERA DE MERGE — não é uma seção nova, é um complemento.** O bloco abaixo pertence à seção "Nômade digital: impostos e troca de visto — Espanha x Portugal", que existe no `main` mas não nesta branch (foi escrita depois desta branch divergir). Ao mesclar, mover este bloco para dentro daquela seção, como um bloco `**Reagrupamento familiar**` adicional, e apagar esta nota de aviso.
+
+#### [Para mesclar em "Nômade digital"] Reagrupamento familiar — cônjuge e filhos (2026) ✓
+
+**A regra de renda**: reagrupamento é permitido no mesmo pedido do visto (Lei 14/2013, art. 74 bis) — cônjuge/parceiro, filhos menores (ou maiores dependentes sem família própria) e ascendentes a cargo. Acima dos 200% do SMI exigidos do titular sozinho, soma-se **+75% do SMI** pelo primeiro dependente (cônjuge) e **+25% do SMI** por cada dependente adicional. Com o SMI oficial de 2026 em €1.221/mês (14 pagas, Real Decreto 126/2026, BOE 19/02/2026), uma família de titular + cônjuge + 2 filhas precisa comprovar:
+
+| Composição | Cálculo | Total/mês |
+|---|---|---|
+| Titular | 200% SMI | €2.442,00 |
+| + cônjuge | +75% SMI | €915,75 |
+| + filha 1 | +25% SMI | €305,25 |
+| + filha 2 | +25% SMI | €305,25 |
+| **Total (família de 4)** | | **≈ €3.968,25/mês** |
+
+**Documentação e prática**: certidões de casamento e nascimento dos filhos precisam de apostilamento de Haia mais tradução juramentada para o espanhol. O reagrupamento pode ser pedido junto com o titular (conjunta e simultânea) ou depois (sucessiva). A renda pode ser comprovada por poupança/fundos líquidos documentados em nome do requerente — não precisa vir só do contrato de trabalho com a empresa estrangeira. Cada familiar recebe autorização de residência vinculada à mesma duração da do titular.
+
+⚠ Não verificado com fonte de mesmo rigor: se o cônjuge tem direito automático a trabalhar na Espanha sem autorização separada — essa afirmação apareceu em blog, não em texto legal ou fonte jurídica primária.
+
+Links: [Teletrabajadores de carácter internacional — Ley 14/2013 (Máchelin Díaz Abogados)](https://machelindiaz.com/ley-14-2013-teletrabajadores-internacionales/) · [El salario mínimo de 2026 ya es oficial: 1.221 euros (Civio, citando BOE)](https://civio.es/el-boe-nuestro-de-cada-dia/2026/02/19/salario-minimo-2026/) · [BOE-A-2026-3815 — Real Decreto 126/2026 (texto oficial)](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3815) · [Como Levar Família para a Espanha com Visto de Nômade Digital (Nomad Espain)](https://nomadespain.com/blog/levar-familia-espanha-visto-nomade)
+
 ### História econômica ✓
 
 #### Mineração pré-romana e comércio fenício-cartaginês (antes do séc. III a.C.) ✓
