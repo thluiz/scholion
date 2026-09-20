@@ -395,6 +395,22 @@ Fonte: **Decreto 156/2022, do 15 de setembro** (DOG núm. 183, 26/09/2022), que 
 
 Links: [DECRETO 156/2022 — anúncio/texto no DOG](https://www.xunta.gal/dog/Publicados/2022/20220926/AnuncioG0655-190922-0002_es.html) · [PDF integral do decreto, con anexos (STEG)](https://www.steg.gal/UserFiles/files/pdfs/lexislacion/ensinanzas/secundaria/22_23/20220926_curriculo_eso_d_156_2022.pdf) · [Eurorrexión Galicia – Norte de Portugal (FCEER)](https://www.fceer.org/en/eurorrexion) · [La Eurorregión Galicia-Norte de Portugal y los modelos de cooperación transfronteriza (Universidade de Vigo)](https://portalcientifico.uvigo.gal/documentos/5f92247a29995257a6710dfa?lang=en)
 
+#### Catalunha — currículo de Ciències Socials na ESO (2026) ✓
+
+Fonte: **Decret 175/2022, de 27 de setembre**, d'ordenació dels ensenyaments de l'educació bàsica — anexo específico da matéria "Ciències Socials: Geografia i Història" (27 páginas, PDF oficial do Departament d'Educació via xtec.gencat.cat), lido na íntegra.
+
+**Mesmo esqueleto LOMLOE da Galícia — a introdução é quase tradução direta.** A estrutura por competências específicas (9 no total) e os três blocos transversais — "Reptes del món actual", "Societats i territoris", "Compromís cívic local i global" — são, frase a frase, o mesmo desenho pedagógico verificado no decreto galego. Confirma a hipótese: existe uma base curricular comum (Real Decreto 217/2022, ensinos mínimos estatais) que cada comunidade traduz e adapta, com uma camada própria de conteúdo regional por cima.
+
+**Mas a camada catalã é muito mais fina que a galega.** Busca de texto no documento inteiro: a palavra "**Catalunya**" ocorre **só 6 vezes** em 27 páginas — contra dezenas de ocorrências de "Galicia" no decreto galego. E todas as 6 ocorrências caem no bloco de **3º/4º curso** (época contemporânea): nenhuma menção a Catalunha nos conteúdos de 1º/2º curso (Pré-história à Idade Moderna) — diferença direta do decreto galego, que nomeava a Galícia já no 1º curso (patrimônio, demografia) e tinha bloco próprio de Idade Média ("Galicia na Idade Media: a era compostelá"). O currículo catalão de ESO, pelo menos neste documento, não tem equivalente disso — nenhuma menção a 1714, Decrets de Nova Planta ou à Guerra de Sucessão (marcos já verificados na Direção 1, e que dão origem à Diada, já registrada na Direção 4).
+
+**O achado mais forte: "emancipació nacional".** No bloco de 3º/4º curso, sob "Catalunya i Espanya a l'època contemporània", depois de "Contextualització de les principals transformacions polítiques, econòmiques, socials i culturals, incidint en la Segona República, la guerra, el franquisme i la transició democràtica", o próximo item de conteúdo diz literalmente: "**Identificació de les lluites i moviments socials i d'emancipació nacional.**" É a única ocorrência de linguagem nacionalista explícita encontrada em qualquer dos dois currículos até agora — sem equivalente no decreto galego, onde a busca por "nación", "autogoberno" e "autodeterminación" deu zero resultados.
+
+**Uma escolha lexical que também marca diferença**: o critério de avaliação 5.2 fala em reconhecer "les fites més importants en la lluita per a la democràcia i les llibertats al llarg del segle XX **a l'estat espanyol**" — "o estado espanhol", não "Espanha". É uma formulação recorrente no catalanismo político (distanciar-se do nome "Espanha" como pátria, tratando-a como aparato estatal). O decreto galego nunca usa construção equivalente — sempre "España" direto.
+
+⚠ **Ressalva importante**: este PDF cobre só a matéria de Ciências Socials na ESO. Catalunha tem reputação de currículo regional historicamente mais denso (própria da autonomia mais antiga e do ensino em catalão desde a LOGSE) — não descarto que conteúdo catalão específico apareça com mais peso na Educação Primária, ou em algum anexo/orientação complementar não coberto por este decreto de 2022. Não verificado ainda. Bacharelato (Historia de Catalunya como matéria própria existe em alguns currículos autonômicos — a confirmar se é o caso aqui) também pendente.
+
+Links: [Ciències Socials: Geografia i Història — Decret 175/2022 (Departament d'Educació, xtec.gencat.cat)](https://xtec.gencat.cat/web/.content/curriculum/eso/curriculum-175-2022/Ciencies-Socials.-Geografia-i-Historia.pdf)
+
 ### Vida cotidiana e cultura ✓
 
 #### Feriados — sistema nacional, regional e local (2026) ✓
