@@ -16,8 +16,8 @@ toc: true
 
 ## Estado
 
-- **Em foco**: Direção 6 (história econômica) concluída nesta rodada — arco completo do Rio Tinto pré-romano à economia de 2026, verificado contra fonte. Direção 4 iniciada com o bloco de feriados. Direção 1 ampliada até a crise de 2008-2014. Direção 2 tem a primeira comparação (Catalunha x Galícia) verificada.
-- **Próximo**: Direção 2 (demais comunidades: Madrid, Comunidade Valenciana, Andaluzia, País Basco, mais nota geral das outras onze) e Direção 4 (hábitos sociais, mercado de trabalho, burocracia).
+- **Em foco**: Direção 2 concluída — seis comunidades confirmadas (Catalunha, Galícia, Madrid, Comunidade Valenciana, Andaluzia, País Basco) com perfil completo (população, custo de vida/aluguel, salário médio) e diferenciação administrativa, mais a nota geral agrupando as demais onze. Direção 1 e Direção 6 também concluídas em rodadas anteriores.
+- **Próximo**: Direção 3 (currículos educacionais regionais), Direção 4 (feriados já iniciado; falta hábitos sociais, mercado de trabalho, burocracia — inclusive o acordo de dupla tributação Espanha-Portugal discutido em conversa, ainda não formalizado), Direção 5 (pontos-cego BR/PT).
 
 ## Motivação
 
