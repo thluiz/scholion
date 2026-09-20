@@ -16,8 +16,8 @@ toc: true
 
 ## Estado
 
-- **Em foco**: Direção 2 concluída — seis comunidades confirmadas (Catalunha, Galícia, Madrid, Comunidade Valenciana, Andaluzia, País Basco) com perfil completo (população, custo de vida/aluguel, salário médio) e diferenciação administrativa, mais a nota geral agrupando as demais onze. Direção 1 e Direção 6 também concluídas em rodadas anteriores.
-- **Próximo**: Direção 3 (currículos educacionais regionais), Direção 4 (feriados já iniciado; falta hábitos sociais, mercado de trabalho, burocracia — inclusive o acordo de dupla tributação Espanha-Portugal discutido em conversa, ainda não formalizado), Direção 5 (pontos-cego BR/PT).
+- **Em foco**: Direção 4 — feriados (rodada anterior) e nômade digital (impostos + troca de visto, comparação Espanha x Portugal) concluídos nesta rodada. Direção 2 concluída em rodada anterior — seis comunidades confirmadas (Catalunha, Galícia, Madrid, Comunidade Valenciana, Andaluzia, País Basco) com perfil completo (população, custo de vida/aluguel, salário médio) e diferenciação administrativa, mais a nota geral agrupando as demais onze. Direção 1 e Direção 6 também concluídas em rodadas anteriores.
+- **Próximo**: Direção 3 (currículos educacionais regionais), resto da Direção 4 (hábitos sociais, burocracia cotidiana fora do recorte de nômade digital), Direção 5 (pontos-cego BR/PT).
 
 ## Motivação
 
@@ -367,6 +367,26 @@ Cada trabalhador na Espanha tem direito a até **14 feriados por ano**, em três
 
 Links: [Calendario laboral y festivos de España 2026 (Factorial)](https://factorial.es/blog/calendario-laboral-espana/) · [Calendario laboral 2026: festivos por comunidad autónoma (Xataka)](https://www.xataka.com/basics/calendario-laboral-2026-cuales-dias-festivos-cada-comunidad-autonoma-espana) · [Public holidays in Spain (Wikipedia EN)](https://en.wikipedia.org/wiki/Public_holidays_in_Spain) · [Día de la Comunidad de Madrid (OKDiario)](https://okdiario.com/madrid/dia-comunidad-madrid-origen-significado-que-celebra-2-mayo-10839222/amp) · [National Day of Catalonia (Wikipedia EN)](https://en.wikipedia.org/wiki/National_Day_of_Catalonia) · [Anexo:Días festivos en España (Wikipedia ES)](https://es.wikipedia.org/wiki/Anexo:D%C3%ADas_festivos_en_Espa%C3%B1a)
 
+#### Nômade digital: impostos e troca de visto — Espanha x Portugal (2026) ✓
+
+**O visto nômade digital espanhol**: criado pela Lei 28/2022 (Lei de Startups), exige renda mínima de €2.442/mês (200% do salário mínimo interprofissional) e no máximo 20% de clientes espanhóis. Pedido dentro da Espanha, a autorização inicial vale até 3 anos; a renovação soma mais 2, totalizando 5 anos de residência legal — ponto em que já é possível pedir residência permanente.
+
+**Impostos na Espanha — Lei Beckham**: quem não foi residente fiscal espanhol nos cinco anos anteriores pode combinar o visto de nômade digital com o regime especial do artigo 93 da LIRPF, a "Lei Beckham". Tributação via IRNR (imposto de não-residentes, mesmo residindo de fato no país): 24% fixo sobre renda de fonte espanhola até €600 mil/ano (47% acima disso); dividendos, aluguéis e ganhos de capital de fonte estrangeira, em geral, isentos — sem necessidade de declarar renda mundial. Vale no ano de chegada mais os cinco seguintes, até 6 anos ao todo. **É regime nacional, uniforme em todas as comunidades autônomas** — a variação de IRPF regional que diferencia Madrid (alíquota marginal de 20,5%, ver perfil acima) das comunidades com alíquotas de 47-50% só passa a valer depois que o estrangeiro sai do regime Beckham e entra na tributação progressiva comum.
+
+**O visto D8 português**: criado pela Lei 18/2022 (25 de agosto), com o decreto-lei regulamentador em vigor desde 30 de outubro de 2022. Visto inicial de 1 ano; depois, autorização de residência renovável até 5 anos.
+
+**Impostos em Portugal — fim do NHR**: o Regime Fiscal para Residentes Não Habituais (NHR) fechou para novos requerentes em 1º de janeiro de 2024, com janela de transição até 31 de março de 2025 para quem já cumpria condições anteriores. O substituto, IFICI ("NHR 2.0"), oferece taxa fixa de 20% sobre renda de fonte portuguesa — mas só para setores estratégicos definidos por lei (pesquisa científica, tecnologia, engenharia, saúde, energias sustentáveis). Nômades digitais fora desses setores, na prática a maioria, não se qualificam. Depois de 183 dias em Portugal, o titular do D8 se torna residente fiscal pelas regras normais: IRS progressivo de 13,25% a 48%, mais sobretaxas municipais, sobre renda mundial.
+
+**A assimetria fiscal**: com a Lei Beckham, a Espanha garante 24% fixo por até 6 anos, regime nacional, sem tributar renda estrangeira. Portugal, para o mesmo perfil de nômade digital comum, foi de um regime historicamente favorável (o NHR original, hoje fechado a novos entrantes) para o IRS progressivo pleno — quase o dobro da alíquota máxima espanhola sob Beckham, e incidindo sobre renda mundial, não só a de fonte doméstica.
+
+**Troca de visto dentro da Espanha**: existe mecanismo formal, a "modificación de autorización de residencia" — muda o tipo de visto sem sair do país (ex.: de nômade digital para trabalho por conta própria, residência não-lucrativa etc.), sem precisar recomeçar o processo consular de origem.
+
+**Troca de visto em Portugal**: sem mecanismo equivalente com a mesma agilidade. A AIMA (sucessora do SEF desde 2023) acumula atraso — tempo de processamento do D8 entre 6 e 9 meses em junho de 2026; desde abril de 2026, o pedido inicial só pode ser feito presencialmente nos centros VFS Global no Brasil, sem envio por correio; reagrupamento familiar, em alguns casos, passou a exigir 2 anos prévios de residência legal do requerente principal.
+
+**Vantagem adicional para brasileiros na Espanha**: naturalização em apenas 2 anos de residência (regime ibero-americano), contra 10 anos do regime geral — reduz a pressão de trocar de categoria de visto cedo, já que o caminho até a cidadania é curto de qualquer forma.
+
+Links: [Spain Beckham Law Complete Guide 2026 (CountryTaxCalc)](https://www.countrytaxcalc.com/tax-guides/spain/beckham-law-complete-guide-2026/) · [Beckham Law for Digital Nomads in Spain 2026 (Costaluz Lawyers)](https://www.costaluzlawyers.com/beckham-law-digital-nomads-spain-2026/) · [Portal PRIE — Nómadas digitales (Ministerio de Comercio)](https://prie.comercio.gob.es/es-es/Paginas/Teletrabajadores-caracter-internacional.aspx) · [Switch Visa Type Spain: Modificación Guide 2026 (Waypoint Sur)](https://guides.waypointsur.com/switch-visa-type-spain/) · [Portugal NHR is Dead. Here's What Replaced It (2026) (Ipanema Partners)](https://ipanemapartners.com/en/insights/portugal-nhr-replacement) · [Portugal NHR Regime Complete Guide 2026: IFICI (CountryTaxCalc)](https://www.countrytaxcalc.com/tax-guides/portugal-nhr-regime-guide-2026/) · [O que é o visto D8? Guia Completo (Direito pelo Mundo)](https://www.direitopelomundo.com/post/guia-completo-do-visto-de-resid%C3%AAncia-para-n%C3%B4mades-digitais-em-portugal) · [Mudanças AIMA 2026: O que Vira para Visto de Nômade Digital](https://moraremportugal.com/aima-2026-o-que-muda-para-visto-de-nomade-digital/)
+
 ### História econômica ✓
 
 #### Mineração pré-romana e comércio fenício-cartaginês (antes do séc. III a.C.) ✓
@@ -438,4 +458,4 @@ Links: [Las cuatro claves que marcarán la economía española en 2026 (CaixaBan
 
 ## Notas de contexto
 
-Pesquisa iniciada em 2026-09-20, a partir de sequência de perguntas sobre Verín, organização territorial espanhola e financiamento autonômico. Direção 1 (marcos históricos) verificada nesta rodada em duas passadas: primeiro os marcos de 1469 em diante, depois — a pedido do autor — a linha completa recuando até os povos pré-romanos e a chegada dos visigodos. Direção 2 confirmada com o autor: seis comunidades autônomas (Madrid, Catalunha, Comunidade Valenciana, Galícia, Andaluzia, País Basco) mais uma nota geral agrupando as demais onze.
+Pesquisa iniciada em 2026-09-20, a partir de sequência de perguntas sobre Verín, organização territorial espanhola e financiamento autonômico. Direção 1 (marcos históricos) verificada nesta rodada em duas passadas: primeiro os marcos de 1469 em diante, depois — a pedido do autor — a linha completa recuando até os povos pré-romanos e a chegada dos visigodos. Direção 2 confirmada com o autor: seis comunidades autônomas (Madrid, Catalunha, Comunidade Valenciana, Galícia, Andaluzia, País Basco) mais uma nota geral agrupando as demais onze. Nômade digital (impostos e troca de visto, Espanha x Portugal) surgiu de conversa avulsa sobre custo de vida por região e virou bloco formal dentro da Direção 4, a pedido do autor.
