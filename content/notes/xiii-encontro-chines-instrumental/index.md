@@ -4,13 +4,13 @@ date: '2026-09-17T15:39:00-03:00'
 summary: 'Anotações do décimo terceiro encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira, Thiago Silva e Daniel Araújo. Tópicos percorridos: o ideograma dentro do quadrado e a noção de forma lateral, a decomposição de Faat 法 como a água que varre, os cinco elementos chineses contra os quatro ocidentais, as três energias contidas no homem e as duas externas a ele, o ideograma de humanidade como pessoa mais dois, a leitura dos domínios pelos elementos, o caminho do Sei Jong ao Maai Saang Jong, a elasticidade da interpretação, a etimologia como mecanismo de lembrança, o cuidado com a internet e com a inteligência artificial, e interno e externo lidos como direção.'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental", "etimologia", "dominios"]
 has_commentary: true
-thumb: "cover.jpg"
+thumb: "cover-livro-de-ideogramas-arcaicos.jpg"
 sources: []
 ---
 
 Anotações do décimo terceiro encontro de Chinês Instrumental, conduzido por [Si Fu](/notes/os-dois-si-fu/), com Claudio Teixeira, Thiago Silva e Daniel Araújo. Como Daniel tinha perdido parte do caminho já percorrido, o encontro começou retomando a decomposição de [Sam Faat](/notes/xii-encontro-chines-instrumental/), passou aos cinco elementos e aos domínios do sistema, e fechou no cuidado com as fontes e na leitura de interno e externo.
 
-![Si Fu, Claudio Teixeira, Daniel Araújo e Thiago Silva no décimo terceiro encontro](cover.jpg)
+![Si Fu, Claudio Teixeira, Daniel Araújo e Thiago Silva no décimo terceiro encontro](encontro-abertura.jpg)
 
 ### O ideograma dentro do quadrado
 
@@ -124,11 +124,9 @@ O exemplo que ele repete é o do português, com guarda-chuva, guarda-roupa e gu
 
 ### Etimologia serve para lembrar
 
-Por coincidência, no mesmo dia a professora de chinês da época da PUC mandou mensagem a Si Fu depois de muito tempo, e ligou para ele no meio do encontro. Ele lembrou de uma aula dela. Livro, em Mandarim, é shu, e a explicação que ficou foi a do som: o livro fala shu, shu, shu. Ele já tentou mil vezes e nunca conseguiu tirar o shu de um livro. A explicação é mnemônica, e serve ao que ele busca quando estuda origem de palavra, que é criar mecanismo de lembrança, além do prazer de saber.
+Por coincidência, no mesmo dia a professora de chinês da época da PUC mandou mensagem a Si Fu depois de muito tempo, e ligou para ele no meio do encontro. Ele lembrou de uma aula dela. Na aula dela, livro em Mandarim é shu, e a explicação que ficou foi a do som, o livro fala shu, shu, shu. Ele já tentou mil vezes e nunca conseguiu tirar o shu de um livro. A explicação é mnemônica, e serve ao que ele busca quando estuda origem de palavra, que é criar mecanismo de lembrança, além do prazer de saber.
 
 Si Fu separou então dois campos. Na cultura ocidental, a etimologia tangencia o que se chama de ciência, com um dado estrutural, da linguagem, que é matemático e tem fórmulas, e um dado cultural, feito por inferências. A etimologia histórica é diferente da etimologia linguística, e as duas compõem o campo. No chinês, para ele, existe só o lado histórico, e por isso a etimologia chinesa é mais imprecisa, com versões distintas de um mesmo processo etimológico aparecendo mais do que no Ocidente.
-
-![O livro aparece sobre a mesa de Si Fu](livro-sobre-a-mesa.jpg)
 
 Daí a quantidade de etimologias fantasiosas em circulação. Comemorar como comer e orar é uma delas. Um membro da família emendou uma das melhores, dizendo que Deus é o somatório de "de" e "us", e concluindo que isso prova que Deus é brasileiro, porque só a língua portuguesa faz essa conta.
 
@@ -140,11 +138,11 @@ Si Fu citou ainda a explicação corrente para a expressão "casa do caralho", q
 
 Si Fu mostrou na câmera um livro em português de decomposição de ideogramas, que vai sempre aos arcaicos e traz um índice completo dos caracteres antigos no fim. Recomendou a compra a quem tiver oportunidade, e o classificou como fonte muito confiável. (TODO conferir o título do livro mostrado por Si Fu)
 
-![Si Fu apresenta o livro ao grupo](si-fu-apresenta-o-livro.jpg)
+![A capa do volume erguida para a câmera, com os dois ideogramas e o selo vermelho](livro-capa.jpg)
 
-![O volume sobre a mesa, de capa clara com caligrafia e selo vermelho](livro-de-ideogramas-arcaicos.jpg)
+![Uma página do miolo, com o ideograma 祖 em corpo grande, as formas arcaicas ao lado e o texto em português](livro-pagina-zou.jpg)
 
-![A capa de perto, para identificação posterior do título](livro-de-ideogramas-arcaicos-detalhe.jpg)
+![O índice de caracteres no fim do volume](livro-indice.jpg)
 
 Si Fu argumentou que obra publicada por editora séria passa por uma série de revisões, e responde por isso de um jeito que um site não responde. O MDBG é bom site e é confiável, mas não é completo e é muito rápido. O melhor é buscar livros.
 

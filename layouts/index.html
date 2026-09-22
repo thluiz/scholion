@@ -33,7 +33,7 @@
             {{ $noteType := .Params.category | default "" }}
             <li class="scholion-card scholion-card--{{ $kind }}{{ with $noteType }} scholion-card--{{ . }}{{ end }} scholion-card--pinned scholion-pinned-card" data-kind="{{ $kind }}">
               <a href="{{ .RelPermalink }}">
-                {{ if eq $noteType "place" }}{{ partial "scholion-card-thumb.html" . }}{{ end }}
+                {{ partial "scholion-card-thumb.html" . }}
                 <div class="scholion-card-body">
                   <h3 class="scholion-card-title">{{ .Title }}</h3>
                   {{ with .Params.summary }}
@@ -96,7 +96,7 @@
           {{ $isResearch := eq .Section "research" }}
           <li class="scholion-card scholion-card--{{ $kind }}{{ with $noteType }} scholion-card--{{ . }}{{ end }}{{ if $isPinned }} scholion-card--pinned{{ end }}{{ if $isResearch }} scholion-card--research{{ end }}" data-kind="{{ $kind }}">
             <a href="{{ .RelPermalink }}">
-              {{ if eq $noteType "place" }}{{ partial "scholion-card-thumb.html" . }}{{ end }}
+              {{ partial "scholion-card-thumb.html" . }}
               <div class="scholion-card-body">
                 <h3 class="scholion-card-title">{{ .Title }}</h3>
                 {{ with .Params.summary }}
