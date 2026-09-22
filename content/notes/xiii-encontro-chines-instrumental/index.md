@@ -4,8 +4,11 @@ date: '2026-09-17T15:39:00-03:00'
 summary: 'Anotações do décimo terceiro encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira, Thiago Silva e Daniel Araújo. Tópicos percorridos: o ideograma dentro do quadrado e a noção de forma lateral, a decomposição de Faat 法 como a água que varre, os cinco elementos chineses contra os quatro ocidentais, as três energias contidas no homem e as duas externas a ele, o ideograma de humanidade como pessoa mais dois, a leitura dos domínios pelos elementos, o caminho do Sei Jong ao Maai Saang Jong, a elasticidade da interpretação, a etimologia como mecanismo de lembrança, o cuidado com a internet e com a inteligência artificial, e interno e externo lidos como direção.'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental", "etimologia", "dominios"]
 has_commentary: true
-thumb: "cover-livro-de-ideogramas-arcaicos.jpg"
-sources: []
+thumb: "cover-livro-capa.jpg"
+sources:
+  - title: "Ideogramas e a Cultura Chinesa"
+    url: "https://books.google.com/books/about/Ideogramas_e_a_Cultura_Chinesa.html?id=9tNfDwAAQBAJ"
+    kind: "book"
 ---
 
 Anotações do décimo terceiro encontro de Chinês Instrumental, conduzido por [Si Fu](/notes/os-dois-si-fu/), com Claudio Teixeira, Thiago Silva e Daniel Araújo. Como Daniel tinha perdido parte do caminho já percorrido, o encontro começou retomando a decomposição de [Sam Faat](/notes/xii-encontro-chines-instrumental/), passou aos cinco elementos e aos domínios do sistema, e fechou no cuidado com as fontes e na leitura de interno e externo.
@@ -136,9 +139,9 @@ Si Fu citou ainda a explicação corrente para a expressão "casa do caralho", q
 
 ### O livro, a internet e a IA
 
-Si Fu mostrou na câmera um livro em português de decomposição de ideogramas, que vai sempre aos arcaicos e traz um índice completo dos caracteres antigos no fim. Recomendou a compra a quem tiver oportunidade, e o classificou como fonte muito confiável. (TODO conferir o título do livro mostrado por Si Fu)
+Si Fu mostrou na câmera o *Ideogramas e a Cultura Chinesa*, de Tai Hsuan-An, artista plástico chinês naturalizado brasileiro, publicado pela É Realizações em 2006. O volume vai sempre aos arcaicos e traz um índice completo dos caracteres antigos no fim. Recomendou a compra a quem tiver oportunidade, e o classificou como fonte muito confiável.
 
-![A capa do volume erguida para a câmera, com os dois ideogramas e o selo vermelho](livro-capa.jpg)
+![A capa erguida para a câmera, com 華夏 em caligrafia, o selo vermelho e o título](cover-livro-capa.jpg)
 
 ![Uma página do miolo, com o ideograma 祖 em corpo grande, as formas arcaicas ao lado e o texto em português](livro-pagina-zou.jpg)
 
