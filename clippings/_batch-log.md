@@ -1,5 +1,7 @@
 # Batch skip log
 
+- SKIP AI code is legacy code from day one - Text Incubation.md — audit_unresolved — ghost-audit ficou yellow após 2 tentativas de correção (voz genérica na frase de transição, depois moldura de narrador nos bullets de fonte, depois fecho aforístico na frase final do resumo); clipping comitado (com URL corrigida a partir do corpo, o frontmatter original apontava para publish.obsidian.md por engano), nota descartada.
+
 - SKIP A origem africana da democracia A origem africana da democracia.md — audit_unresolved — ghost-audit ficou red (travessão de efeito em bullets) na 1ª correção, yellow (negativa indireta + voz genérica) na 2ª correção, e voltou a red (dois-pontos de efeito + negativa indireta) na verificação final; clipping comitado, nota descartada.
 
 - SKIP (20) What Rarely Gets Counted  LinkedIn.md — audit_unresolved — ghost-audit ficou yellow após 2 tentativas de correção (three-batidas/meta-narração/fecho-aforístico/tagline-redundante no parágrafo de abertura); clipping comitado, nota descartada.
