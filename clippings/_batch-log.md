@@ -1,0 +1,3 @@
+# Batch skip log
+
+- SKIP (20) What Rarely Gets Counted  LinkedIn.md — audit_unresolved — ghost-audit ficou yellow após 2 tentativas de correção (three-batidas/meta-narração/fecho-aforístico/tagline-redundante no parágrafo de abertura); clipping comitado, nota descartada.
