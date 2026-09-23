@@ -60,6 +60,8 @@
                       <span class="scholion-card-type scholion-card-type--movie" title="filme">🎦</span>
                     {{ else if eq $noteType "walk" }}
                       <span class="scholion-card-type scholion-card-type--walk" title="caminhada">🗺</span>
+                    {{ else if eq $noteType "webclip" }}
+                      <span class="scholion-card-type scholion-card-type--webclip" title="webclip">📎</span>
                   {{ else if eq $noteType "place" }}
                     <span class="scholion-card-type scholion-card-type--place" title="local">📍</span>
                     {{ else if eq $noteType "place" }}
@@ -125,6 +127,8 @@
                     <span class="scholion-card-type scholion-card-type--movie" title="filme">🎦</span>
                   {{ else if eq $noteType "walk" }}
                     <span class="scholion-card-type scholion-card-type--walk" title="caminhada">🗺</span>
+                  {{ else if eq $noteType "webclip" }}
+                    <span class="scholion-card-type scholion-card-type--webclip" title="webclip">📎</span>
                   {{ else if eq $noteType "place" }}
                     <span class="scholion-card-type scholion-card-type--place" title="local">📍</span>
                   {{ else if .Params.has_commentary }}

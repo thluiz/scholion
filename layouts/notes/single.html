@@ -18,6 +18,8 @@
           <div class="scholion-type-badge scholion-type-badge--movie">🎦 Filme</div>
         {{ else if eq $noteType "walk" }}
           <div class="scholion-type-badge scholion-type-badge--walk">🗺 Caminhada</div>
+        {{ else if eq $noteType "webclip" }}
+          <div class="scholion-type-badge scholion-type-badge--webclip">📎 Webclip</div>
         {{ end }}
         {{ partial "scholion-scales.html" (dict "page" . "variant" "note") }}
         <h1>{{ .Title }}</h1>

@@ -24,6 +24,7 @@ Tipos são definidos pelo campo `category` no frontmatter. Cada tipo aplica trê
 | Discípulo | `disciple` | 🙇 | `#7c3aed` (violeta) | `#a78bfa` | Notas `moy-*.md` do Clã Moy Jo Lei Ou |
 | Filme | `movie` | 🎦 | `#0284c7` (sky) | `#38bdf8` | Notas sobre filmes |
 | Caminhada | `walk` | 🗺 | `#78716c` (pedra) | `#a8a29e` | Notas sobre caminhadas |
+| Webclip | `webclip` | 📎 | `#dc2626` (vermelho) | `#f87171` | Página web capturada (via `add-scholion-webclip`), com resumo/fichamento |
 | Pesquisa viva | (`.Section == "research"`) | 🔍 | `#6366f1` (índigo) | `#818cf8` | Em andamento (auto-detectado por seção) |
 | Pesquisa publicada | `research: published` | 🔍 | `#22c55e` (verde) | — | Pesquisa finalizada |
 
