@@ -106,13 +106,18 @@ Slug a partir do título da página: lowercase, sem acentos, espaços/pontuaçã
 
 ### 11. Sources
 
-Uma entrada:
+**Duas entradas, sempre**:
 ```yaml
 sources:
   - title: "<título da página>"
     url: "<url original>"
     kind: article   # inferir do domínio como em add-scholion-note (blog→article, youtube→video, arxiv/.pdf→paper, etc.)
+  - title: "Raw clipping (archived copy)"
+    url: "https://github.com/thluiz/scholion/blob/main/clippings/<YYYY-MM>/<arquivo>.md"
+    kind: repo
 ```
+
+A segunda entrada é o link GitHub pro clipping bruto (passo 3) — cobertura se a página original mudar ou sair do ar. Só resolve depois do commit+push do clipping (passo 15, item 1); se a skill ainda não pushou quando monta a nota, montar a URL mesmo assim (o padrão é fixo: `blob/main/clippings/<YYYY-MM>/<arquivo>.md`) — ela passa a resolver no momento em que o push do passo 15 acontecer.
 
 ### 12. Corpo da nota
 

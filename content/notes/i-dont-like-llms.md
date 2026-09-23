@@ -9,6 +9,9 @@ sources:
   - title: "I don't like LLMs"
     url: "https://martinfowler.com/articles/2026-dont-like-llms.html"
     kind: article
+  - title: "Raw clipping (archived copy)"
+    url: "https://github.com/thluiz/scholion/blob/main/clippings/2026-09/martinfowler-com--i-dont-like-llms.md"
+    kind: repo
 ---
 
 Fowler feels both fascination and fear about AI. But when he talks to LLMs directly, the reaction that dominates is dislike of their voice: a grating, uncanny-valley imitation of human conversation, confident even when it's making things up.
