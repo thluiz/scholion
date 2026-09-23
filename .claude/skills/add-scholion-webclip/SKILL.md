@@ -78,33 +78,35 @@ Se modo arquivo `.md` e o arquivo já está dentro de `clippings/`, pular este p
 
 ### 4. Search-first interativo
 
-**ANTES de compor qualquer texto**, buscar no vault (`Grep`/`Glob` em `E:/scholion/content/notes/` e `E:/scholion/content/research/`) por temas relacionados ao conteúdo da página. Mostrar matches com contexto breve (1 linha: título + slug + 1 frase) e **esperar o autor apontar** o que linkar antes de redigir. Se nada relevante, dizer isso explicitamente.
+**ANTES de compor qualquer texto**, buscar no vault (`Grep`/`Glob` em `E:/scholion/content/notes/` e `E:/scholion/content/research/`) por temas relacionados ao conteúdo da página. Mostrar matches com contexto breve (1 linha: título + slug + 1 frase) e **esperar o autor apontar** o que linkar antes de redigir. Se nada relevante, dizer isso explicitamente. Guardar os itens aprovados (slug + title + por que conecta) para o passo 5 — é o `relatedNotes` do endpoint.
 
-### 5. Carregar ghost-writer
+### 5. Compor via endpoint `webclip-summary`
 
-**ANTES de compor** resumo/fichamento, ler a skill `ghost-writer` (SKILL.md). Isso É composição na voz do autor — Claude sintetiza conteúdo de terceiros em prosa, igual ao "contexto de autoria" das notas `quote` — diferente do passo 3, que é extração pura.
+A composição (resumo, fichamento, slug, título ajustado, summary, tags) roda **server-side** no vox-intelligence — não ler o texto bruto inteiro no próprio contexto nem redigir à mão. O endpoint já aplica as regras de voz do `ghost-writer` (fechos aforísticos, travessão de efeito, paralelismo mecânico, vocabulário banido PT-BR, source-or-silence) no prompt, então a primeira resposta já deve vir limpa — o portão `ghost-audit` do passo 8 continua rodando depois, como auditor independente (não pular por causa disso).
 
-### 6. Língua da nota
+```powershell
+$body = @{
+  text = '<texto bruto capturado no passo 1/3, verbatim>'
+  title = '<título capturado>'
+  url = '<url original>'
+  domain = '<dominio sem www.>'
+  relatedNotes = @(  # opcional — itens aprovados no passo 4; omitir o array se nada foi aprovado
+    @{ slug = '<slug>'; title = '<título>'; hint = '<por que conecta, opcional>' }
+  )
+} | ConvertTo-Json -Depth 6
+$r = Invoke-RestMethod -Uri 'http://localhost:8080/api/vox-intelligence/presets/scholion/webclip-summary' -Method Post -ContentType 'application/json; charset=utf-8' -Body ([Text.Encoding]::UTF8.GetBytes($body)) -TimeoutSec 180
+```
 
-**Exceção deliberada ao padrão PT-BR do Scholion**: resumo, fichamento, `summary` e `tags` seguem a **língua da página capturada**. Página em inglês → nota em inglês. Página em PT → nota em PT. Preserva fidelidade ao fichamento como referência da fonte original; não traduzir.
+`$r` traz `slug`, `title`, `summary`, `tags`, `language`, `body` (resumo + `## Fichamento`), `lexicalWarnings`. Usar esses campos diretamente:
 
-### 7. Slug e título
+- **Língua da nota**: `$r.language` confirma a exceção deliberada ao padrão PT-BR do Scholion — resumo, fichamento, `summary` e `tags` seguem a língua da página capturada, não forçar PT-BR.
+- **Slug e título**: usar `$r.slug` / `$r.title` como vêm (título só é ajustado pelo modelo se veio truncado/genérico na captura).
+- **Tags**: `$r.tags` (2–4 kebab-case, já na língua da nota).
+- **Summary**: `$r.summary`.
+- **has_commentary**: `false` por padrão — o fichamento é síntese do conteúdo de terceiros, não análise própria do autor. `true` só se o autor pedir para acrescentar comentário/conexão original além do fichamento (nesse caso, o comentário é escrito à parte, não pelo endpoint).
+- **Fail-open**: se o serviço estiver fora ou `$r.lexicalWarnings` vier não-vazio, dizer isso explicitamente ao autor antes de seguir — nunca fingir que a composição passou limpa.
 
-Slug a partir do título da página: lowercase, sem acentos, espaços/pontuação → `-`, máx ~50 chars. Título = título da página (ajustar só se estiver truncado/genérico demais).
-
-### 8. Tags
-
-2–4 kebab-case, incluindo tema(s) do search-first (passo 4). Idioma acompanha a língua da nota (passo 6).
-
-### 9. Summary
-
-~150–200 chars, na língua da nota: o que a página argumenta, não uma descrição genérica ("artigo sobre...").
-
-### 10. has_commentary
-
-`false` por padrão — o fichamento é síntese do conteúdo de terceiros, não análise própria do autor. `true` só se o autor pedir para acrescentar comentário/conexão original além do fichamento.
-
-### 11. Sources
+### 6. Sources
 
 **Duas entradas, sempre**:
 ```yaml
@@ -117,39 +119,31 @@ sources:
     kind: repo
 ```
 
-A segunda entrada é o link GitHub pro clipping bruto (passo 3) — cobertura se a página original mudar ou sair do ar. Só resolve depois do commit+push do clipping (passo 15, item 1); se a skill ainda não pushou quando monta a nota, montar a URL mesmo assim (o padrão é fixo: `blob/main/clippings/<YYYY-MM>/<arquivo>.md`) — ela passa a resolver no momento em que o push do passo 15 acontecer.
+A segunda entrada é o link GitHub pro clipping bruto (passo 3) — cobertura se a página original mudar ou sair do ar. Só resolve depois do commit+push do clipping (passo 10, item 1); se a skill ainda não pushou quando monta a nota, montar a URL mesmo assim (o padrão é fixo: `blob/main/clippings/<YYYY-MM>/<arquivo>.md`) — ela passa a resolver no momento em que o push do passo 10 acontecer.
 
-### 12. Corpo da nota
+### 7. Corpo da nota
 
-```markdown
-<Resumo em prosa, 1–2 parágrafos: o argumento central da página.>
+Vem pronto em `$r.body` (passo 5): `<resumo em prosa, 1–2 parágrafos>` + `## Fichamento` com bullets parafraseados. Usar como veio; só editar se o autor apontar algo no preview do passo 8.
 
-## Fichamento
-
-- <ponto-chave 1, parafraseado>
-- <ponto-chave 2, parafraseado>
-- ...
-```
-
-Regras do fichamento:
-- **Parafraseado, não verbatim** — trechos citáveis ficam reservados ao passo 14 (notas `quote`), para não duplicar conteúdo literal em dois lugares.
+**Modo de contingência** (endpoint fora do ar, ver fail-open no passo 5): compor à mão, carregando `ghost-writer` (SKILL.md) antes de escrever. Regras do fichamento nesse caso:
+- **Parafraseado, não verbatim** — trechos citáveis ficam reservados ao passo 9 (notas `quote`), para não duplicar conteúdo literal em dois lugares.
 - **Source-or-silence**: cada ponto precisa vir do texto extraído no passo 1/3. Nada inventado — se um ponto não está claramente no texto, omitir.
 - Segue **todas** as regras de `ghost-writer` (vocabulário banido, estrutura banida, tom banido).
 - Sem `Fonte:` no corpo — fontes ficam só no frontmatter.
 
-### 13. Auditoria e preview
+### 8. Auditoria e preview
 
 `/style-test` (lexical) + `ghost-audit` HTTP (portão obrigatório no topo) sobre o corpo composto. Mostrar findings + nota completa ao autor, aguardar confirmação antes de escrever.
 
-### 14. Notas de citação (se houver frases)
+### 9. Notas de citação (se houver frases)
 
 Para cada frase recebida, gerar uma nota `category: quote` reaproveitando `add-scholion-quote`, **exceto**:
 - **Pular a pesquisa externa de autoria** (Quote Investigator/Wikiquote/web search) — autor e URL já são conhecidos, vêm do clipping desta mesma página.
-- `sources`: mesma URL do webclip, `kind` igual ao inferido no passo 11.
+- `sources`: mesma URL do webclip, `kind` igual ao inferido no passo 6.
 
 Mantém do `add-scholion-quote`: tag do autor obrigatória, ghost-writer, ghost-audit, preview, commit próprio por nota.
 
-### 15. Escrita e commits
+### 10. Escrita e commits
 
 Um commit por artefato — nunca bundle:
 
@@ -161,11 +155,11 @@ Um commit por artefato — nunca bundle:
    Set-Content "E:\scholion\.ghost-audit\$o.ok" $o
    ```
    → `git commit -m "note: <título>"` → `git push` (se houver remoto).
-3. Cada nota `quote` gerada no passo 14: mesmo procedimento do item 2, um commit por nota.
+3. Cada nota `quote` gerada no passo 9: mesmo procedimento do item 2, um commit por nota.
 
 ## Regras
 
-- **Voz e estilo**: resumo e fichamento seguem `ghost-writer` — vocabulário banido, estrutura banida, tom banido.
+- **Voz e estilo**: resumo e fichamento vêm do endpoint `webclip-summary` (passo 5), que já aplica as regras de `ghost-writer` — vocabulário banido, estrutura banida, tom banido. Modo de contingência (endpoint fora do ar): compor à mão seguindo as mesmas regras (ver passo 7).
 - **`captured_at`/`date` são OBRIGATÓRIOS** com timestamp real do sistema — nunca inventar.
 - **`category: webclip` é OBRIGATÓRIO** na nota principal — aciona ícone/cor no site.
 - Clipping bruto nunca é colado verbatim na nota — a nota é sempre prosa composta.
