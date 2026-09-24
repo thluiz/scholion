@@ -247,3 +247,8 @@
 - SKIP https://cannoneyed.com/essays/software-industrial-revolution?utm_source=tldrnewsletter — failed — summary_failed — webclip-summary composition failed: Missing required field: title
 - SKIP https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp/related — failed — thin_content — extracted content is only 215 chars, below the 400 minimum
 - SKIP https://chubernetes.com/the-adaptive-chief-technology-officer-ed14d6455c95 — failed — blocked_domain — chubernetes.com is known to block scraping; not attempting a fetch
+- SKIP https://code.likeagirl.io/dont-choose-your-job-choose-your-boss-958c3bd71ac3 — failed — blocked_domain — code.likeagirl.io is known to block scraping; not attempting a fetch
+- SKIP https://code.likeagirl.io/sql-essentials-group-by-vs-partition-by-explained-6e9b0a69bd02 — failed — blocked_domain — code.likeagirl.io is known to block scraping; not attempting a fetch
+- SKIP https://curiosum.com/blog/bringing-solid-to-elixir?ref=dailydev — failed — fetch_timeout — rendering https://curiosum.com/blog/bringing-solid-to-elixir?ref=dailydev exceeded the internal timeout (30000ms)
+- SKIP https://daily.dev/posts/osLIj0fdW?utm_source=notification&utm_medium=email&utm_campaign=digest — failed — fetch_timeout — rendering https://daily.dev/posts/osLIj0fdW?utm_source=notification&utm_medium=email&utm_campaign=digest exceeded the internal timeout (30000ms)
+- SKIP https://daily.dev/posts/WOQZTduc5?utm_source=notification&utm_medium=email&utm_campaign=digest — failed — fetch_timeout — rendering https://daily.dev/posts/WOQZTduc5?utm_source=notification&utm_medium=email&utm_campaign=digest exceeded the internal timeout (30000ms)
