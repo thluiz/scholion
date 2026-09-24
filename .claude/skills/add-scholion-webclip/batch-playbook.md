@@ -123,6 +123,10 @@ above).
      call. Still failing: mark `status: "failed"`, `reason: "<error
      code>"`.
 
+   - `summary_failed` (the summary model's JSON came back unusable, e.g.
+     "Missing required field: title"): mark `status: "failed"`,
+     `reason: "summary_failed"`, no retry.
+
    **Either type — your own `-TimeoutSec 300` fires** (no response from the
    server at all, as opposed to one of the error codes above): mark
    `status: "failed"`, `reason: "compose_timeout"` and move on. **No
