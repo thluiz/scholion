@@ -1,0 +1,7 @@
+{{/* Sobrescreve o _funcs/get-page-images embutido do Hugo: a imagem de
+     preview de toda página vem de og-image.html (capa normalizada ou cartão
+     gerado), e os templates internos opengraph/twitter_cards emitem as tags
+     uma única vez a partir dela. */}}
+{{- $images := slice -}}
+{{- with partialCached "og-image.html" . .RelPermalink -}}{{- $images = slice . -}}{{- end -}}
+{{- return $images -}}
