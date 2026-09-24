@@ -167,6 +167,17 @@ above).
    happens to share a title) — mark the item `status: "done"` anyway (the
    note demonstrably exists) and move on; don't treat it as a failure.
 
+   **Before writing, check the local paths yourself.** The server's
+   `slug_conflict` check runs against its own vault clone, which doesn't
+   have this session's unpushed commits, so two items with the same
+   composed title (e.g. "Part I" / "Part II" of a series) both pass it and
+   the second silently overwrites the first (happened in batch 3). If
+   `E:\scholion\$($s.notePath)` or `E:\scholion\$($s.clippingPath)`
+   already exists: read the existing note's first `sources` url — same url
+   as this item → it's already saved, mark `done`, write nothing; different
+   url → **write nothing**, mark `status: "skipped"`,
+   `reason: "slug_collision"`, log it (it needs a human to pick a slug).
+
    Write `$s.clippingContent` to `E:\scholion\$($s.clippingPath)` and
    `$s.noteContent` to `E:\scholion\$($s.notePath)` verbatim — don't edit
    either (an edit means calling `compose` again, per the interactive
