@@ -1,0 +1,108 @@
+---
+url: "https://brajeshwar.com/2020/parents-guide-to-tools-for-kids-online-classes/"
+captured_at: "2026-09-24T22:26:50+01:00"
+title: "A Non-Technical Parents’ Guide to Digital Tools for Kids Online Classes"
+domain: "brajeshwar-com"
+---
+
+Mon, May 25, 2020
+
+Open in
+
+[](https://chatgpt.com/?q=Read%20https%3A%2F%2Fbrajeshwar.com%2F2020%2Fparents-guide-to-tools-for-kids-online-classes.md%20%E2%80%94%20I%20have%20questions%20about%20this%20post%20%28%22A%20Non-Technical%20Parents%E2%80%99%20Guide%20to%20Digital%20Tools%20for%20Kids%20Online%20Classes%22%29. "Open in OpenAI")[](https://claude.ai/new?q=Read%20https%3A%2F%2Fbrajeshwar.com%2F2020%2Fparents-guide-to-tools-for-kids-online-classes.md%20%E2%80%94%20I%20have%20questions%20about%20this%20post%20%28%22A%20Non-Technical%20Parents%E2%80%99%20Guide%20to%20Digital%20Tools%20for%20Kids%20Online%20Classes%22%29. "Open in Claude")[](https://brajeshwar.com/2020/parents-guide-to-tools-for-kids-online-classes.md "View as Markdown")
+
+A new school season has started, and schools are moving online for the classes. There are lots of changes, and they are happening real fast, and all-at-once. Not all parents are ready to switch to a new lifestyle so fast, but we have to.
+
+Schooling is going to be an entirely different experience for everyone involved – students, parents, teachers, and schools. It is not just about transitioning everything that happened offline in schools to the online world. It is a totally different approach, new thinking, and the eventual “normal.” Everyone involved will have to treat this in a new way – by the schools, teachers, and parents.
+
+Today, I will try to focus on just a small piece of the more significant change – tools that will help kids be part of the new learning paradigm.
+
+## The Room, Space, and Lighting
+
+You should try to have a separate space or a room dedicated to your kid to be part of the classes. The better lit the room is, the better. Try to have the light facing your kid – liting up her face and not from the back. A better option is to have sunlight coming in from an angle that is not too bright to the eye, but enough to light up the face. Try to avoid the sunlight shining directly onto the screen/monitor.
+
+If you need artificial lighting, then a LED light lamp should do just fine.
+
+_Search for;_
+
+*   LED lamp
+*   studio lamp
+
+## Devices
+
+This depends a lot on the activities your kid will be involved in. Will it be just listening to the teachers, or will she be presenting at times, talking, and discussing with her friends and doing other digital activities during the classes? Let’s assume that the events will be a bit of all and better prepare for them than stand short when needed.
+
+If your kid already has a device, use it and gauge the device’s performance before spending money on upgrades. Look for performance degradation of the quality of audio and/or video. It is always better to have much better quality audio than video.
+
+![A 2012-Model Apple MacMini](https://brajeshwar.com/static/2020/macmini-2012-model.jpg)
+
+An old Apple MacMini from 2012.
+
+## New Device / Computer
+
+If you have to buy new devices, and unless portability is crucial, invest in a desktop computer instead. Desktop computers allow for easier upgrades, have better performance, and are usually more economical.
+
+I would personally suggest for a **16GB of RAM**, and an **SSD** (Solid State Drive) instead of hard drives that have mechanical spinning parts. Don’t worry too much about the size of the SSD, a minimum of **200GB+** is suggested. You can always have a cheaper external drive for more storage. The other components will be good enough when you try the above particular configuration. If you are already thinking Intel, AMD, etc., then I believe you already know what you need.
+
+If you’re more of a Mac Family and find it more comfortable, the cheapest MacMini would do just fine. If you can get an earlier generation MacMini or a refurbished one, it will still be suitable for a less expensive investment.
+
+My daughter uses a 2012 MacMini with an upgraded RAM and SSD replaced drive. Well, Apple’s 2012 MacMini model is the last easily upgradable model. _Please be advised that Apple hardware are tightly coupled and integrated with their software that an 8GB RAM might just work great._
+
+_Search for_
+
+*   Laptop with 16GB Ram, 256GB SSD
+*   Computer with 16GB Ram, 256GB SSD
+*   Laptop with 16GB RAM
+*   Computer with 16GB RAM
+
+### Microphone
+
+Even if you use a Laptop with a built-in microphone, I can guarantee you that they are not the best. Most software has become really good these days to filter out echo and other noises. However, a decent microphone goes a long way and will really help.
+
+Here is my suggestion, in order of preference;
+
+1.  [Pop Filter Microphone](https://en.wikipedia.org/wiki/Pop_filter) with a stand, either on the desk or clipped/screwed to the table.
+2.  [Lavalier Microphone](https://en.wikipedia.org/wiki/Lavalier_microphone) that can be clipped to your kid’s top/shirt.
+3.  The last option is an [audio headset](https://en.wikipedia.org/wiki/Headset_\(audio\)) (speaker + microphone). However, they come in the way of your kid studying or listening to the teacher.
+
+_Search for_
+
+*   Microphone kit
+*   Lavalier Microphone
+*   Headset
+*   Microphone with Stand
+
+### Speaker
+
+If your device or computer comes with a speaker, stick with it. Otherwise, any desktop speaker should do the job. If you have already invested in a Headset, then a separate speaker may not be necessary.
+
+_Search for_
+
+*   Desktop Speaker
+*   Computer Speaker
+
+### Webcam / Camera
+
+Video is needed but not as crucial as a Microphone. Your kid can get away with a not-so-good video, but her voice/audio should be the best possible. So, depending on your budget get for something you can afford. If your kid has a Laptop, stay with the built-in webcam but invest in the external microphone and audio setup.
+
+_Search for_
+
+*   Logitech Webcam
+*   720p Webcam
+*   HD Webcam
+
+## UPS
+
+Invest in a entry-level [UPS](https://en.wikipedia.org/wiki/Uninterruptible_power_supply) (Uninterruptible Power Supply). A UPS is used to protect hardware such as computers and other electrical devices where an unexpected power disruption could cause data loss, or damage to the devices.
+
+### Software
+
+Besides the usual software that she will need, as suggested by the school, try to get some additional life-skill software-tools that will come handy. Some of the basics include but not limited to;
+
+*   A calendar. Teach your kid to schedule class video calls, homework submissions, peer-to-peer meetings, etc. You should also have access to it, so you can help when needed. [Google Calendar](https://calendar.google.com/) is a pretty good option.
+*   A TODO app. Try to stay with the basic simple listings and not overwhelm them. A lot many people have wasted countless hours trying to hunt for the best TODO app, the best ways of using it. So, just stick to simple listings and checking items off. Better yet, stick to the physical Sticky / Post-it Note.
+*   A Password Manager. It is high time to teach your kid to use a Password Manager. Some of the good ones are [1Password](https://1password.com/) (paid), [Keepass](https://keepass.info/) (free, open-source), [Bitwarden](https://bitwarden.com/) (free, open-source, paid)
+
+## Upgrades
+
+The next best upgrade after the basics are taken care off, would be, to separate their activity/study computer from the video device – have a device such as an iPad, a Tablet or a Phone just for the video calls/classes and a desktop or a laptop or a [Raspberry Pi](https://www.raspberrypi.org/) as their study computer.
