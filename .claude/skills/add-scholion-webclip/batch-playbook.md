@@ -24,8 +24,8 @@ that needs a background monitor.
 Take the next **N files** (N given in your prompt, usually 12–18) from the
 **root** of `C:\Users\conta\OneDrive\MD\` (`.md` files only — ignore
 subfolders, those are already sorted: `_excluded_sensitive`,
-`_excluded_immersao`, `_skip_youtube`, `_needs_url_review`,
-`_excluded_duplicate`, `_processed`). Process them one at a time, in order,
+`_excluded_immersao`, `_excluded_work`, `_skip_youtube`,
+`_needs_url_review`, `_excluded_duplicate`, `_processed`). Process them one at a time, in order,
 **sequentially — never spawn your own subagents or forks for this batch**
 (a prior run that self-parallelized produced duplicate slugs and burned
 2-3x the tokens of a clean sequential run). Stop after N files (success or
@@ -46,11 +46,15 @@ $webclipKey = Get-Content 'C:\Users\conta\.claude\secrets\scholion-webclipper-ba
    `Enjoy the videos and music you love`, `Continuar a ler`,
    `Embedded Content`, `## 0 notifications`, `> ## Excerpt`.
 
-2. **Compose.** Reformat `created` to `capturedAt` (ISO 8601 with offset —
-   `<YYYY-MM>` for both the clipping folder and the note's `date` comes from
-   *this*, not today's date). No `relatedNotes` — cross-link search stays
-   off for this backlog (author's explicit request; unlike the interactive
-   skill, don't even run the search).
+2. **Compose.** Reformat `created` to `capturedAt`. Every file in this
+   backlog has `created` as `2026-01-09T13:09:52 (UTC -03:00)` — the
+   server validates `capturedAt` and rejects that shape outright, it wants
+   `2026-01-09T13:09:52-03:00`: drop the space and the `(UTC `/`)` wrapper,
+   concatenate the offset directly onto the timestamp, nothing else
+   changes. (`<YYYY-MM>` for both the clipping folder and the note's `date`
+   comes from *this* value, not today's date.) No `relatedNotes` —
+   cross-link search stays off for this backlog (author's explicit
+   request; unlike the interactive skill, don't even run the search).
 
    **If the cleaned body is ≥ ~400 chars**, compose in text mode — this is
    the common case, the pre-captured content is already good enough:
