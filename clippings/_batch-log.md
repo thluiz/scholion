@@ -232,3 +232,5 @@
 - SKIP https://www.pinterest.com/pin/822681056903298189/ — failed — pinterest_unsupported — bulk-marked before batch 2: pin pages time out on render (11/11 in batch 1)
 - SKIP https://www.pinterest.com/pin/AbBIu21ok1pH0cLEUnHpSb1hbiPgHpTEpGyCszyQr9tENUAdF_tAyxQ/ — failed — pinterest_unsupported — bulk-marked before batch 2: pin pages time out on render (11/11 in batch 1)
 - SKIP https://www.pinterest.com/search/pins/?q=sumi-e&rs=typed&0=sumi-e%7Ctyped — failed — pinterest_unsupported — bulk-marked before batch 2: pin pages time out on render (11/11 in batch 1)
+- SKIP https://bradfrost.com/blog/post/agentic-design-systems-in-2026/?ref=dailydev — failed — fetch_timeout — rendering https://bradfrost.com/blog/post/agentic-design-systems-in-2026/?ref=dailydev exceeded the internal timeout (30000ms)
+- SKIP https://brajeshwar.com/2004/carpal-tunnel-syndrome/ — failed — compose_timeout — The request was canceled due to the configured HttpClient.Timeout of 300 seconds elapsing.
