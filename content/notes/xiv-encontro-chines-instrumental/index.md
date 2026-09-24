@@ -4,7 +4,7 @@ date: '2026-09-23T15:36:00-03:00'
 summary: 'Anotações do décimo quarto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira, Thiago Silva e Daniel Araújo. Tópicos revisados: Siu Nim Tau 小念頭 como nome e como termos separados, os três sentidos de Siu (pequeno, embrionário, insignificante), a precisão do gesto que vem da precisão do pensamento, Nim como atualização do Sam, o tempo que atravessa a pessoa parada, cronos e kairós, o tempo cíclico das sociedades agrícolas, Nim como ideia, pensamento e lembrança, Tau como cabeça, início e mais importante, e o exercício de escrever e combinar os sentidos.'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental", "siu-nim-tau", "tempo"]
 has_commentary: true
-thumb: "encontro-capa.jpg"
+thumb: "encontro-cover.jpg"
 sources: []
 ---
 
@@ -139,7 +139,7 @@ Claudio contou que já tinha ouvido essas ideias muitas vezes, em momentos difer
 
 Si Fu devolveu a Claudio uma orientação. Quando tenta lembrar um termo, Claudio costuma se atrapalhar e pôr outra coisa no meio. O remédio é se habituar a explicar: logo que a aula termina, escrever em três parágrafos as três possibilidades apresentadas para Siu, para Nim e para Tau (não que só existam essas). Escrever grava muito mais do que entender mais ou menos, passar para outra coisa e depois tentar lembrar sem registro.
 
-![Daniel, de caneta na mão, com Claudio, Si Fu e Thiago Silva](encontro-capa.jpg)
+![Daniel, de caneta na mão, com Claudio, Si Fu e Thiago Silva](encontro-cover.jpg)
 
 Daniel ficou curioso com a conjugação dos sentidos. Para ele, Siu Nim Tau era sempre "pequena ideia", e agora via, por exemplo, a associação fácil entre embrionário e ideia, porque o embrionário traz uma ideia de futuro, de algo que vai ser gerado. Dá para fazer uma análise combinatória de significados.
 
