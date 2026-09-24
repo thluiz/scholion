@@ -142,6 +142,11 @@ above).
      still-red result: write only the clipping (step 4b), mark
      `status: "skipped"`, `reason: "audit_unavailable"`. No recompose —
      the audit service is the problem, not the note.
+   - **Soft 404** — the page answered 200 but is an error page (composed
+     title or clipping title like "Not Found", "404", "Page not found",
+     "Página não encontrada"): the audit can't catch this, the note would be
+     about the error page. Write nothing, mark `status: "failed"`,
+     `reason: "soft_404"`.
    - `verdict: green` or `yellow` → proceed to step 4. Yellow findings are
      logged, never a reason to loop — this backlog stops at zero `block`
      findings, it does not chase an absolute green (same principle the
@@ -229,7 +234,9 @@ above).
    you wrote (clipping always on a `done` or an `audit_unresolved`/
    `audit_unavailable` skip; note only on `done`), build check
    (`cd /e/scholion && hugo --quiet`, skip *this note* — not the clipping —
-   if it fails), write the commit-gate marker immediately, don't defer it
+   if it fails; exception: a Go runtime crash such as "attempt to execute
+   system stack code on user stack" is a transient Hugo bug, not the note —
+   rerun the build once before deciding), write the commit-gate marker immediately, don't defer it
    (same reasoning as the interactive skill's Decision-10 note — the note
    text was already audited inside `compose`, pre-empt
    `ghost-audit-gate.ps1` re-auditing it):
