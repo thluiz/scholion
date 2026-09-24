@@ -238,9 +238,10 @@ above).
    you wrote (clipping always on a `done` or an `audit_unresolved`/
    `audit_unavailable` skip; note only on `done`), build check
    (`cd /e/scholion && hugo --quiet`, skip *this note* — not the clipping —
-   if it fails; exception: a Go runtime crash such as "attempt to execute
-   system stack code on user stack" is a transient Hugo bug, not the note —
-   rerun the build once before deciding), write the commit-gate marker immediately, don't defer it
+   if it fails — but always rerun the build once first: Hugo on this host
+   crashes transiently (Go "system stack code on user stack", Windows
+   `Exception 0xc0000005`) and a rerun passes, so only a second failure
+   counts against the note), write the commit-gate marker immediately, don't defer it
    (same reasoning as the interactive skill's Decision-10 note — the note
    text was already audited inside `compose`, pre-empt
    `ghost-audit-gate.ps1` re-auditing it):
