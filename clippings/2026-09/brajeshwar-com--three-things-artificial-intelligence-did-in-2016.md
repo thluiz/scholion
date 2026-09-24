@@ -1,0 +1,22 @@
+---
+url: "https://brajeshwar.com/2017/three-things-artificial-intelligence-2016/"
+captured_at: "2026-09-24T22:20:17+01:00"
+title: "Three Things Artificial Intelligence did in 2016"
+domain: "brajeshwar-com"
+---
+
+Sun, Jan 15, 2017
+
+Open in
+
+[](https://chatgpt.com/?q=Read%20https%3A%2F%2Fbrajeshwar.com%2F2017%2Fthree-things-artificial-intelligence-2016.md%20%E2%80%94%20I%20have%20questions%20about%20this%20post%20%28%22Three%20Things%20Artificial%20Intelligence%20did%20in%202016%22%29. "Open in OpenAI")[](https://claude.ai/new?q=Read%20https%3A%2F%2Fbrajeshwar.com%2F2017%2Fthree-things-artificial-intelligence-2016.md%20%E2%80%94%20I%20have%20questions%20about%20this%20post%20%28%22Three%20Things%20Artificial%20Intelligence%20did%20in%202016%22%29. "Open in Claude")[](https://brajeshwar.com/2017/three-things-artificial-intelligence-2016.md "View as Markdown")
+
+![Rembrandt Painting with AI)](https://brajeshwar.com/static/2017/rembrandt-painting-ai.jpg)
+
+Not long ago artificial intelligence was something found in the pages of science fiction novels. Today it is becoming more and more of a reality. While we don’t have computers plotting to take over the world, AI’s did manage to do some pretty amazing things in 2016.
+
+1.  In March Deepmind’s [AlphaGo](https://deepmind.com/research/alphago/) was able to beat the world champion 4-1 at Go. [Go](https://en.wikipedia.org/wiki/Go_\(game\)) is a very old Chinese game considered much more complex than Chess. For comparison, an AI beat a master at chess all the way back in 1997. Prior to AlphaGo scientists thought AIs were far from being able to beat human Go competitors as they were struggling in even amateur matches. For its win, AlphaGo received an honorary master title.
+2.  Human characteristics like imagination and creativity have been the hardest things to get computers to do. In April 2016, however, an AI was able to create a new [Rembrandt painting](https://www.adweek.com/news/advertising-branding/inside-next-rembrandt-how-jwt-got-computer-paint-old-master-172257). A team, over the course of more than a year, showed various paintings of the famous artist to the computer. The painting it produced won several awards and generated a lot of discussion about artificial intelligence.
+3.  Language is one of the basics of what being human is. Google created the Google Neural Machine Translation, or GNMT, to improve its translation service and it has done some remarkable things. First, it started translating between two languages despite never being given examples of them. It then did something even more amazing and created its [own language](https://www.wired.co.uk/article/google-ai-language-create). Because of its success, Google is now using it in all of the translation service.
+
+Artificial intelligence did a lot more in 2016 besides these three accomplishments. Building on the new advances made 2017 will no doubt bring us even closer to true artificial intelligence.

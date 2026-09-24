@@ -1,0 +1,50 @@
+---
+url: "https://brajeshwar.com/2014/missing-step-productivity-activities-stop-notifications/"
+captured_at: "2026-09-24T22:16:04+01:00"
+title: "The missing step to all Productivity Advice"
+domain: "brajeshwar-com"
+---
+
+## The missing step to all Productivity Advice - Disable Notifications
+
+Sat, May 17, 2014
+
+Open in
+
+[](https://chatgpt.com/?q=Read%20https%3A%2F%2Fbrajeshwar.com%2F2014%2Fmissing-step-productivity-activities-stop-notifications.md%20%E2%80%94%20I%20have%20questions%20about%20this%20post%20%28%22The%20missing%20step%20to%20all%20Productivity%20Advice%20-%20Disable%20Notifications%22%29. "Open in OpenAI")[](https://claude.ai/new?q=Read%20https%3A%2F%2Fbrajeshwar.com%2F2014%2Fmissing-step-productivity-activities-stop-notifications.md%20%E2%80%94%20I%20have%20questions%20about%20this%20post%20%28%22The%20missing%20step%20to%20all%20Productivity%20Advice%20-%20Disable%20Notifications%22%29. "Open in Claude")[](https://brajeshwar.com/2014/missing-step-productivity-activities-stop-notifications.md "View as Markdown")
+
+We all want to boost our productivity and avoid procrastination. The problem is that we live in a world where it’s the norm to check our phones as soon as we wake up, read and send emails at the breakfast table, catch up on Twitter and Facebook in the Bathroom. It is no longer surprising to hear terms like “screen-off days,” “no phones at the dinner table,” “no devices in the bedroom,” “screen-time for kids,” “phone jammers in the classroom,” etc.
+
+Many articles about productivity have been written and published by industry pundits, time management experts, and productivity gurus. They are all good, and honestly, I tend to read pretty much everything that helps productivity and try to practice the ones that suit me.
+
+I’m no productivity guru or time management expert, but I have experimented with quite a few routines and disciplines. I have somehow come to the realization that none of this productivity advice, tips, tricks, and routines are useful and effective if we have one thing constantly nagging us—**Notifications.** So, I’ll focus on one, just one, sure-shot routine that will change the way you focus and increase productivity.
+
+## Stop the Notifications.
+
+Yes, that’s it — stop all forms of notifications — in all of your devices, be it the phones, tablets, or your computer. Here are a few you can start with. Feel free to experiment and stick to a routine that serves you best.
+
+Let’s start with your phone. Every app on your phone will try to notify you of everything. Well, it turns out you don’t need to be notified at all. Head over to the Notification Center of your phone and disable the notifications, except the ones that need to be really ON - Phone Calls, Calendar, and other apps that notify when needed, such as Cab Booking Apps, Flight Timings, etc. Experiment with the notifications, but remember, “If everything is important, then nothing is important.”
+
+![iPhone Battery Notification)](https://brajeshwar.com/static/2014/iPhone-Battery-Notification.jpg)
+
+Let’s study a very simple example.
+
+Here is a simple passive notification that can keep you on your toes and stress you out the most—phone battery percentage indicator. We have become so obsessed with “juicing up” our phones that our levels of happiness and relaxation decrease exponentially as the battery percentage drops. Seriously, disable that. The same goes for your Laptop Battery Indicator—**turn that percentage indicator off.**
+
+Yes, in the first few days, it will be hard for you, and many will give up. It’s OK, but now you know you can do that, give it a try another time. Try it for about a week, and once you get used to it, you’ll realize that you no longer care that much. You’re much freer than before. Free Your Mind.
+
+![Disable Email Notifications)](https://brajeshwar.com/static/2014/mail-notification-disable.gif)
+
+Another major source of distraction and productivity drain is emails. I won’t have to repeat what experts have already said a thousand times: do not check your emails often, do not check them in the morning, deal with them twice or thrice a day. If you plan and work based on emails, then you’re letting the person on the other end of that email control your life, your work, and your family.
+
+All those tips and tricks about managing and taking care of your emails will not be fruitful if you have email notifications for everything - newsletters, offers, discounts, and of course, spam. Just disable that email notification.
+
+No, you won’t miss anything important. If something is so important and life-changing, they will call you on your phone. Email is not a synchronous communication channel; it is supposed to be totally asynchronous.
+
+Go ahead and disable all those notifications - stop all audio notifications, don’t allow your apps to bounce repeatedly when a new message arrives, don’t let Instant Message apps ping you with every new message, perhaps hide your Dock to avoid looking at the notifications counters of new messages, things to-do, etc.
+
+Once you can live without notifications, you’ll find you’re no longer disturbed out of your zone. You’ll also realize why all those productivity tips and tricks didn’t work before. With no notifications, all the experts’ advice, productivity to-do, and activities will begin to work. Give it a try.
+
+> Stop the Notifications!
+
+Update: I have an updated related article with a [focus on phones](https://brajeshwar.com/2024/phone/).
