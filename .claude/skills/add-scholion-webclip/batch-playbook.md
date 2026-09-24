@@ -123,10 +123,25 @@ above).
      call. Still failing: mark `status: "failed"`, `reason: "<error
      code>"`.
 
+   **Either type — your own `-TimeoutSec 300` fires** (no response from the
+   server at all, as opposed to one of the error codes above): mark
+   `status: "failed"`, `reason: "compose_timeout"` and move on. **No
+   retry** — the server already gives up on its own upstream calls well
+   inside 300s, so a client timeout means something is stuck, and a retry
+   just spends another 5 minutes to find that out again (batch 1 lost ~10
+   minutes on one URL this way).
+
 3. **Audit — read `$r.audit`, don't call anything separately.** Ghost-audit
    already ran inside `compose` (see the interactive skill's own "PORTÃO
    OBRIGATÓRIO" for why there's no standalone HTTP call anymore).
 
+   - **Audit unavailable** — `$r.audit.summary` starts with `ghost-audit
+     unavailable` (the server fails open to `yellow` with empty findings
+     when the audit call itself errored or timed out): the note was **never
+     audited**, so it must not pass as a yellow. Treat it exactly like a
+     still-red result: write only the clipping (step 4b), mark
+     `status: "skipped"`, `reason: "audit_unavailable"`. No recompose —
+     the audit service is the problem, not the note.
    - `verdict: green` or `yellow` → proceed to step 4. Yellow findings are
      logged, never a reason to loop — this backlog stops at zero `block`
      findings, it does not chase an absolute green (same principle the
@@ -157,8 +172,8 @@ above).
    either (an edit means calling `compose` again, per the interactive
    skill's Decision 8 note). Mark the item `status: "done"`.
 
-   **4b. Note skipped (red after recompose, or thin_unrecoverable from step
-   2):** build the clipping file by hand — same shape `scholion-webclipper`
+   **4b. Note skipped (red after recompose, audit unavailable, or
+   thin_unrecoverable from step 2):** build the clipping file by hand — same shape `scholion-webclipper`
    itself renders. **Use the values you already had before calling
    `compose` (title/url/domain/capturedAt), never `$r.clipping.*`** —
    `Invoke-RestMethod` silently parses a JSON string that looks like a date
@@ -201,7 +216,7 @@ above).
 7. **Stage as you go, commit once at the end of your whole batch, write
    the manifest once at the end too.** For each item: `git add` whatever
    you wrote (clipping always on a `done` or an `audit_unresolved`/
-   `thin_unrecoverable` skip; note only on `done`), build check
+   `audit_unavailable` skip; note only on `done`), build check
    (`cd /e/scholion && hugo --quiet`, skip *this note* — not the clipping —
    if it fails), write the commit-gate marker immediately, don't defer it
    (same reasoning as the interactive skill's Decision-10 note — the note
