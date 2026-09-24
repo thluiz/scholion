@@ -256,3 +256,4 @@
 - SKIP https://dev.to/d_thiranjaya_6d3ec4552111/git-workflow-essential-tips-and-tricks-for-developers-1i0b?context=digest — failed — soft_404 — soft 404 title: 404: Page Not Found; nothing written
 - SKIP https://dev.to/della_codes/becoming-1-better-each-day-1p9m?context=digest — failed — soft_404 — soft 404 title: 404: Page Not Found; nothing written
 - SKIP https://dev.to/jagroop2001/building-a-chat-with-pdfs-using-pinataopenai-and-streamlit-3jb7?context=digest — failed — soft_404 — soft 404 title: 404: Page Not Found; nothing written
+- SKIP https://dev.to/miketalbot/interview-question-ensure-you-only-virus-scan-once-349j? — failed — fetch_timeout — rendering https://dev.to/miketalbot/interview-question-ensure-you-only-virus-scan-once-349j? exceeded the internal timeout (30000ms)
