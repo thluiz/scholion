@@ -5,7 +5,24 @@
   {{- $latinFont := resources.Get "fonts/NotoSansSC-VF.ttf" -}}
   {{- $cjkFont := resources.Get "fonts/BabelStoneHan.ttf" -}}
 
-  {{- if and $base $latinFont $cjkFont -}}
+  {{/* Uma única og:image por página. Se o bundle tem imagem featured, cover ou thumbnail no nome,
+       o _internal/opengraph do Hugo já a emite e o cartão gerado fica de fora.
+       Senão, o `thumb` do frontmatter vira a og:image. Só sem nenhum dos dois
+       é que se gera o cartão com título e resumo. */}}
+  {{- $feature := "" -}}
+  {{- range slice "*featured*" "*cover*" "*thumbnail*" -}}
+    {{- if not $feature -}}{{- $feature = $.Resources.GetMatch . -}}{{- end -}}
+  {{- end -}}
+  {{- $thumb := "" -}}
+  {{- if not $feature -}}
+    {{- with .Params.thumb -}}{{- $thumb = $.Resources.Get . -}}{{- end -}}
+  {{- end -}}
+
+  {{- if $thumb -}}
+    <meta property="og:image" content="{{ $thumb.Permalink }}">
+    <meta name="twitter:image" content="{{ $thumb.Permalink }}">
+    <meta name="twitter:card" content="summary_large_image">
+  {{- else if and $base $latinFont $cjkFont (not $feature) -}}
     {{/* Extract CJK (Han ideographs) from title for corner display; strip them from main title. */}}
     {{- $rawTitle := .Title | string -}}
     {{- $ogChars := "" -}}
