@@ -1,0 +1,209 @@
+---
+title: "The 190 things you need to know to be an AWS Certified Solutions Architect – Associate"
+date: '2026-09-24T23:40:51+01:00'
+category: webclip
+summary: 'Checklist de tópicos e regras do exame AWS SAA: EC2, S3, VPC, Lambda, RDS, DynamoDB, redes, cache, segurança, resiliência e otimização de custos.'
+tags: ["aws-saa", "ec2", "s3", "vpc"]
+has_commentary: false
+generated_by: "openai/gpt-5.4-mini"
+sources:
+  - title: "The 190 things you need to know to be an AWS Certified Solutions Architect – Associate"
+    url: "https://dev.to/aws-builders/the-190-things-you-need-to-know-to-be-an-aws-certified-solutions-architect-associate-epn?context=digest"
+    kind: article
+  - title: "Raw clipping (archived copy)"
+    url: "https://github.com/thluiz/scholion/blob/main/clippings/2026-09/dev-to--the-190-things-you-need-to-know-aws-saa.md"
+    kind: repo
+---
+
+I passed the AWS Certified Solutions Architect – Associate certification and want to share the 190 things you need to know for this exam. The page is a compact study list organized by exam domain, covering high performance, cost optimization, security, and resilience across core AWS services and networking patterns.
+
+## Fichamento
+
+- EC2 termination deletes the attached EBS root volume by default, unless the delete-on-termination setting is changed.
+- ECS pricing depends on the launch type: EC2 launch type is billed for EC2 instances and EBS volumes, while Fargate is billed for requested vCPU and memory.
+- S3 Standard objects must stay stored for 30 days before moving to One Zone-IA or Standard-IA.
+- VPC sharing lets the VPC owner share subnets with accounts in the same AWS Organization, but not the VPC itself.
+- Global Accelerator shifts traffic between blue and green environments without DNS caching delays and uses Anycast IP addresses.
+- An interface VPC endpoint can be used for private access between a VPC and the Amazon EFS API.
+- Direct Connect can reach an EFS PrivateLink interface endpoint through a private virtual interface.
+- DataSync can schedule recurring transfers from on-premises storage to Amazon EFS over Direct Connect.
+- Direct Connect offers public, private, and transit virtual interfaces, each tied to different routing targets.
+- RDS Custom for Oracle allows access to the database host and operating system for patches and configuration changes.
+- Launch templates are used to provision multiple instance types with On-Demand and Spot capacity.
+- Lambda dependencies are packaged into the same deployment package.
+- By default, Lambda runs in an AWS-owned VPC and needs a NAT gateway in a public subnet for access to public resources once VPC-enabled.
+- Lambda Layers are suggested for code reused across multiple Lambda functions.
+- Dedicated Hosts support server-bound licenses and compliance requirements.
+- Multipart uploads help speed up file uploads to S3.
+- S3 Transfer Acceleration speeds up long-distance uploads and downloads, especially for large objects.
+- S3 has strong read-after-write consistency for new objects and overwrites.
+- DMS can bridge S3 and Kinesis Data Streams so data in S3 can be streamed to Kinesis.
+- ElastiCache for Redis and Memcached are listed as HIPAA Eligible.
+- Multi-AZ RDS engine upgrades upgrade primary and standby together and cause downtime until completion.
+- Snowball Edge Storage Optimized is presented as the option for securely moving dozens of terabytes to petabytes into AWS.
+- Snowball Edge data can be copied to S3 and later transitioned to Glacier through lifecycle policies.
+- GuardDuty is used for malicious activity monitoring on S3 data, while Macie is used to identify sensitive data in S3.
+- Bucket policies can grant S3 access to users in the same account or in other AWS accounts.
+- AWS Config managed rules can check whether ACM certificates are nearing expiration.
+- AWS Config can stream configuration changes and notifications to SNS.
+- FSx for Lustre is presented as a high-performance file system for machine learning, HPC, video processing, and financial modeling.
+- FSx for Lustre integrates with S3 so S3 objects can appear as files and changes can be written back to S3.
+- Encrypted EBS volumes encrypt data at rest, data in transit between volume and instance, snapshots, and volumes created from those snapshots.
+- Cost Explorer can identify underused EC2 instances and show bill impact from Reserved Instances and Savings Plans.
+- Compute Optimizer uses machine learning and historical metrics to recommend optimal AWS resources.
+- SQS Standard queues prioritize throughput and at-least-once delivery, while FIFO queues preserve exact order and exactly-once processing.
+- FIFO queues have throughput limits and must end with the .fifo suffix; a standard queue cannot be converted to FIFO.
+- Global Accelerator works at Layer 3 and is positioned as a latency-optimizing option for UDP-based applications.
+- A Golden AMI is standardized with configuration, patching, hardening, and approved agents.
+- EC2 user data is used for boot-time customization rather than installing the application itself at boot.
+- S3 sync uses CopyObject APIs and can be rerun without duplicating previously copied objects.
+- S3 Batch Replication can replicate objects that predate replication config, previously replicated objects, and failed replications.
+- DMS can continuously replicate data to Redshift and S3 for high availability and petabyte-scale warehousing.
+- Launch configurations cannot be modified after creation; a new one must be created instead.
+- Aurora Global Database spans multiple Regions and supports low-latency local reads and disaster recovery from regional outages.
+- IAM roles assigned to EC2 instances let applications sign API requests with temporary credentials.
+- Serving static content from S3 offloads network usage from ECS applications.
+- Aurora clusters can have up to 15 Aurora Replicas in addition to the primary instance.
+- Aurora reader endpoints are for read-only, load-balanced access and reporting workloads.
+- Transit Gateway is described as a hub for connecting VPCs and on-premises networks.
+- NAT instances and NAT Gateways in a public subnet allow private subnet instances to make outbound IPv4 internet requests.
+- NAT instances can act as bastion servers, support security groups, and support port forwarding.
+- DAX is used as a native cache for DynamoDB reads.
+- CloudFront can improve performance when serving static content from S3.
+- CloudWatch Alarms can send SNS email notifications when EC2 crosses thresholds.
+- SQS can be reached from a VPC through VPC endpoints powered by PrivateLink, without public IPs or the public internet.
+- For instance ID targets, the load balancer routes traffic to the primary private IP and rewrites the destination IP before forwarding.
+- Versioning-enabled S3 buckets support recovery from accidental deletion or overwrite.
+- MFA delete adds secondary authentication before permanent deletion from an S3 bucket.
+- For heterogeneous migrations, SCT converts schema and code first, then DMS migrates the data.
+- A VGW is created on the AWS side of a VPN and a Customer Gateway on the on-premises side.
+- Direct Connect pricing is driven by Data Transfer Out from AWS to on-premises destinations.
+- Spread placement groups can span multiple AZs, with a maximum of seven running instances per AZ per group.
+- Lambda can be combined with DynamoDB for backend and application code.
+- VPN CloudHub lets multiple Site-to-Site VPN connections communicate with one another.
+- IAM roles can be used for cross-account access.
+- Cognito User Pools can provide built-in user management or integrate with external identity providers.
+- SSL/TLS can encrypt RDS connections in transit, including MySQL and PostgreSQL cases.
+- A permissions boundary limits the maximum permissions that employees can grant to IAM principals they create and manage.
+- Redshift Spectrum can query structured and semi-structured data in S3 without loading it into Redshift tables.
+- GuardDuty analyzes events from CloudTrail, VPC Flow Logs, and DNS logs.
+- Shield Advanced can be enabled per account under consolidated billing.
+- Kinesis Data Streams can capture large volumes of streaming data from many source types.
+- User data scripts run as root by default and only during the first boot cycle.
+- A CloudWatch reboot alarm action is recommended for instance health check failures, while recover is for system health check failures.
+- Neptune is presented as a fit for social-feed style ranking based on relationships and proximity.
+- VPC endpoints are split into Interface Endpoints and Gateway Endpoints, with S3 and DynamoDB listed for gateway endpoints.
+- Enhanced fan-out gives each Kinesis Data Streams consumer its own 2 MB/s per shard.
+- CloudTrail is recommended for logging bucket-level and object-level S3 actions.
+- SNS can deliver messages to applications, people, mobile devices, email, and SQS queues, and EventBridge Pipes can connect Kinesis Data Streams to SNS.
+- If every target in a target group is unhealthy, the load balancer routes requests across the unhealthy targets.
+- A Lambda function that accesses S3 needs an IAM execution role and a bucket policy that allows that role.
+- Placement groups can be cluster, partition, or spread, each optimized for a different workload pattern.
+- Throttling limits how many requests a program can submit in a given time window, and API Gateway uses a token bucket model.
+- SQS and Kinesis are positioned as buffering services that smooth spikes and support streaming workloads.
+- Kinesis Firehose cannot be written to directly by Kinesis Agent when Firehose is sourced from Kinesis Data Streams.
+- By default, the EBS root volume from an AMI-backed instance is deleted on termination unless DeleteOnTermination is set to false.
+- RDS encryption can be added by snapshotting an unencrypted DB instance and creating an encrypted copy of the snapshot.
+- FSx for Windows File Server supports SMB, Windows integration, quotas, end-user restore, and DFSR/DFS features.
+- KMS single-Region keys cannot be converted into multi-Region keys.
+- EFS Max I/O favors higher aggregate throughput and operations per second, with slightly higher metadata latency.
+- EFS General Purpose is the default and fits latency-sensitive workloads.
+- RDS read replicas across Regions incur data transfer charges, while replicas in the same Region do not.
+- Kinesis Data Firehose loads streaming data into S3, Redshift, Elasticsearch, and Splunk with automatic scaling.
+- RAM is used to share resources like Transit Gateways, subnets, License Manager configurations, and Route 53 Resolver rules across accounts or organizations.
+- EC2 Auto Scaling does not immediately terminate impaired instances and may wait for recovery or missing metrics.
+- In S3, the object owner is the account that uploaded it, even if the bucket belongs to another account.
+- The default termination policy in an Auto Scaling group considers On-Demand versus Spot first, then older launch templates.
+- S3 bucket policies can centrally add or deny permissions on objects in a bucket.
+- RDS encrypted instances keep backups, replicas, and snapshots encrypted.
+- Secrets Manager is used to rotate, manage, and retrieve database credentials, API keys, and other secrets.
+- Moving accounts between Organizations requires access to both organizations, removing the account from the old one, inviting it to the new one, and accepting the invite.
+- S3 bucket and object ARNs differ between bucket-level and object-level actions such as ListBucket and GetObject.
+- Permission boundaries apply to IAM roles and users, not to IAM groups.
+- FIFO queue message groups allow multiple consumers to read from an SQS FIFO queue.
+- Enabling KMS automatic key rotation creates new cryptographic material every year.
+- Dedicated Instances are isolated per customer at the hardware level, though same-account instances may still share hardware.
+- KMS keys used to encrypt snapshots can be shared with other accounts through the key policy.
+- A centralized Shared Services VPC can host databases, AD, monitoring, and proxies and be reached through Transit Gateway.
+- NAT Gateways require a public subnet and an Elastic IP, which cannot be changed after association.
+- ElastiCache improves latency and throughput for read-heavy and compute-intensive workloads.
+- An Internet Gateway serves both as a route target for internet-routable traffic and as NAT for public IPv4 instances.
+- io1 EBS volumes are presented as high-performance SSD storage for critical and I/O-intensive workloads.
+- CloudFront with S3 origins can use OAI to restrict reads to the origin, and AWS recommends OAC because it supports more S3 cases and dynamic requests.
+- Kinesis Data Streams preserves record order and can keep data for up to 365 days, supporting replay and delayed consumers.
+- CNAME maps one domain to another but cannot be used at the zone apex; Alias records route to AWS resources such as CloudFront and S3.
+- SCPs override IAM permissions when they deny or omit an action, and they apply to member accounts including the root user, but not service-linked roles.
+- EC2 tenancy can be changed between dedicated and host.
+- Cross-zone load balancing sends traffic across all enabled AZs when enabled, and only within the node’s AZ when disabled.
+- SQS short polling returns immediately, while long polling waits for a message or timeout.
+- Storage Gateway offers Tape Gateway, File Gateway, and Volume Gateway, with cached and stored volume options for different local-access patterns.
+- AMIs can be copied across Regions and shared with other AWS accounts, and encrypted snapshots stay encrypted in the target copy.
+- CloudWatch alarm recovery works for system status check failures, not for instance status check failures, and cannot recover terminated instances.
+- Connection draining lets ELB finish in-flight requests before removing de-registering or unhealthy instances.
+- Launch template tenancy interacts with VPC tenancy, and shared can still result in dedicated tenancy when the VPC is dedicated.
+- EFA accelerates inter-instance communication for HPC and machine learning applications.
+- DynamoDB PITR keeps per-second backups for 35 days and protects against accidental writes and deletes.
+- DataSync moves large datasets to and from AWS storage over the internet or Direct Connect and integrates with S3, EFS, FSx for Windows File Server, CloudWatch, and CloudTrail.
+- CloudFormation StackSets can create, update, or delete stacks across accounts and Regions in a single operation.
+- SQS is a fully managed message queue used to decouple and scale distributed and serverless systems without losing messages.
+- Route 53 Resolver outbound endpoints forward DNS queries from the VPC to on-premises resolvers, while inbound endpoints let on-premises resolvers query the VPC.
+- Canceling some Spot Instance requests does not terminate running or stopped Spot Instances automatically.
+- Recovered EC2 instances preserve instance ID, private IPs, Elastic IPs, metadata, and public IPv4 addresses.
+- A NAT Gateway keeps private subnet instances able to reach the internet or AWS services without allowing inbound internet-initiated connections.
+- AWS Managed Microsoft AD supports directory-aware workloads and trust relationships with on-premises AD for SSO.
+- SQS delay queues hide new messages for a configurable delay of up to 15 minutes.
+- Aurora Serverless auto-starts, auto-stops, and scales capacity based on demand.
+- DynamoDB Streams records item changes in order and includes primary key attributes for the modified items.
+- Network Load Balancers expose fixed IPs while supporting scalable backends behind them.
+- CloudFront can route to multiple origins based on content type.
+- ElastiCache can act as a front-end cache for RDS-backed applications with high request rates or low-latency needs.
+- DynamoDB supports on-demand and provisioned capacity modes, with on-demand billed per request.
+- Auto Scaling groups control scale-out and scale-in.
+- IAM database authentication uses tokens instead of passwords for MySQL and PostgreSQL.
+- S3 Object Lock uses a WORM model to prevent changes or deletions after write.
+- API Gateway caching reduces endpoint calls and latency, with a default TTL of 300 seconds and a maximum of 3600.
+- A VPN connection uses two tunnels for high availability.
+- Transit Gateway can simplify multi-VPC connectivity, support a single VPN connection, and scale IPsec VPN throughput with ECMP when dynamic routing is enabled.
+- The page lists four disaster recovery patterns: Backup and Restore, Pilot Light, Warm Standby, and Multi Site.
+- SNI on a load balancer lets multiple TLS applications use separate certificates on the same secure listener.
+- Route 53 geoproximity routing steers users by proximity to resources, while geolocation routing steers by the geographic origin of DNS queries.
+- EventBridge is recommended for reacting to events from SaaS applications and AWS services.
+- Trust policies define which principals can assume an IAM role, and roles need both a trust policy and an identity-based policy.
+- In Multi-AZ RDS, AWS maintains a synchronous standby replica in another AZ and automatically handles failover by switching the CNAME.
+- Only standard SQS queues can be used as S3 event notification destinations.
+- Redis supports geospatial commands for distance and radius-style queries.
+- ALB and ASG health checks can diverge, which can leave the load balancer removing instances while the Auto Scaling group does not replace them.
+- Cross-zone load balancing is enabled by default for ALB and disabled by default for NLB.
+- Route 53 DNS Failover can support primary applications running in multiple Regions with failover across Regions.
+- Route 53 active-passive failover keeps the primary available most of the time and the secondary on standby.
+- Global Accelerator reroutes new connections to healthy endpoints within seconds when an endpoint fails.
+- S3 website endpoints follow region-specific dot or dash URL formats.
+- S3 object metadata is not encrypted at rest, so sensitive information should not be stored there.
+- Full administrator access still leaves some tasks available only to the root account user.
+- EC2 Auto Scaling scheduled actions set start time and new minimum, maximum, and desired capacity values.
+- For high records-per-second ingestion into Kinesis, batch records and use parallel HTTP requests instead of calling PutRecord in a loop.
+- SQS temporary queues support request-response patterns and reduce development time and deployment cost.
+- RDS applies OS updates by patching the standby, promoting it, and then patching the old primary.
+- Lambda functions time out after 15 minutes and are not meant for long-running jobs.
+- EBS Multi-Attach is supported only on io1 or io2 volumes.
+- Snowmobile is recommended for datasets of 10 PB or more in a single location, while Snowball is suggested for smaller or distributed datasets.
+- DeleteOnTermination can be set to false from the command line for a running instance.
+- io1 volumes let you specify consistent IOPS at creation time, while gp2 cannot increase IOPS without increasing size.
+- CloudFront signed cookies control access to multiple restricted files without changing the URLs.
+- FSx for NetApp ONTAP supports SMB and NFS for Windows, Mac, and Linux instances in the same Region.
+- A Spot Fleet can include Spot Instances and optionally On-Demand Instances to meet a target capacity.
+- Firewall Manager centrally configures WAF, Shield Advanced, security groups, Network Firewall, and Route 53 Resolver DNS Firewall across accounts, but not NACLs.
+- Sharing one NAT Gateway across AZs creates a single point of failure; a highly available design uses one NAT Gateway per AZ.
+- ElastiCache for Memcached supports multithreading.
+- A public Network Load Balancer can front bastion hosts in an Auto Scaling group and support TCP connections.
+- During rebalance, Auto Scaling launches replacement instances before terminating old ones.
+- GuardDuty monitors for malicious or unauthorized behavior, including cryptocurrency mining and unexpected regional deployments.
+- FSx storage can be accessed from Windows, Linux, and macOS instances and devices on AWS or on-premises, and Windows File Server integrates with Active Directory.
+- EFS access is controlled with security groups, IAM policies, access points, and POSIX permissions.
+- Storage class analysis only recommends transitions from Standard to Standard-IA.
+- SSE-S3 encrypts each object with a unique key and rotates the root key regularly.
+- The Spot Instance request type determines whether the request is reopened after interruption or stop.
+- ECS with an ALB can use dynamic port mapping so multiple tasks from one service can run on the same container instance.
+- Amazon MQ is recommended for quickly moving existing messaging applications to the cloud.
+- The Range HTTP header can fetch byte ranges from S3 objects, improving throughput and retry behavior with concurrent partial reads.
+- To encrypt an object on upload, the request must include the x-amz-server-side-encryption header and specify SSE-C, SSE-S3, or SSE-KMS.

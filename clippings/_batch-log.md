@@ -252,3 +252,4 @@
 - SKIP https://curiosum.com/blog/bringing-solid-to-elixir?ref=dailydev — failed — fetch_timeout — rendering https://curiosum.com/blog/bringing-solid-to-elixir?ref=dailydev exceeded the internal timeout (30000ms)
 - SKIP https://daily.dev/posts/osLIj0fdW?utm_source=notification&utm_medium=email&utm_campaign=digest — failed — fetch_timeout — rendering https://daily.dev/posts/osLIj0fdW?utm_source=notification&utm_medium=email&utm_campaign=digest exceeded the internal timeout (30000ms)
 - SKIP https://daily.dev/posts/WOQZTduc5?utm_source=notification&utm_medium=email&utm_campaign=digest — failed — fetch_timeout — rendering https://daily.dev/posts/WOQZTduc5?utm_source=notification&utm_medium=email&utm_campaign=digest exceeded the internal timeout (30000ms)
+- SKIP https://dev.to/andelahmasila/when-do-you-become-a-jack-of-all-trades-but-a-master-of-none — failed — soft_404 — soft 404 title: 404: Page Not Found; nothing written
