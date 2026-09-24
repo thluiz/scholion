@@ -240,3 +240,7 @@
 - SKIP https://brajeshwar.com/2013/invest-good-hardwares-team/ — skipped — build_failed — hugo crashed (Go runtime "attempt to execute system stack code on user stack"), transient: 3 reruns passed right after; note discarded, clipping kept
 - SKIP https://brajeshwar.com/2019/should-businesses-accept-cryptocurrencies-an-infographic/ — failed — soft_404 — page returns HTTP 200 with a "Not Found (404)" body; compose produced note not-found-404, discarded (note and clipping not written)
 - SKIP https://brajeshwar.com/2025/2008-redux-the-great-tech-reset/ — failed — compose_timeout — The request was canceled due to the configured HttpClient.Timeout of 300 seconds elapsing.
+- SKIP https://brandonkboswell.com/ — failed — compose_timeout — The request was canceled due to the configured HttpClient.Timeout of 300 seconds elapsing.
+- SKIP https://brenocon.com/dean_perf.html?utm_source=tldrnewsletter — failed — summary_failed — webclip-summary composition failed: Missing required field: title
+- SKIP https://brianjenney.medium.com/3-lessons-from-the-smartest-developers-ive-worked-with-5b233f51fc15 — failed — blocked_domain — brianjenney.medium.com is known to block scraping; not attempting a fetch
+- SKIP https://brianjenney.medium.com/the-unwritten-rules-to-becoming-a-senior-developer-4-steps-to-level-up-0113531a7ba0 — failed — blocked_domain — brianjenney.medium.com is known to block scraping; not attempting a fetch
