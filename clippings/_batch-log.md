@@ -63,3 +63,15 @@
 - SKIP Developers at Microsoft Build question their future relevance  Semafor.md — audit_unresolved — ghost-audit ficou yellow após 2 tentativas de correção (negativa indireta + voz genérica no parágrafo de abertura, depois fecho aforístico na mesma frase, e por fim editorialização de efeito no bullet "tension was audible" na verificação final); clipping comitado, nota descartada.
 - SKIP Ed Elson no X The Clip Economy  X.md — audit_unresolved — ghost-audit ficou red (dois-pontos de efeito) na 1ª correção, depois yellow (fecho aforístico no fim do 1º parágrafo) na 2ª correção, e permaneceu yellow (fecho aforístico persistente + meta-narração no bullet final) na verificação final; clipping comitado, nota descartada.
 - SKIP EH VÁRZEA 082 - Toda acusação é confissão.md — audit_unresolved — ghost-audit ficou yellow após 2 tentativas de correção (meta-narração + voz genérica na tese de abertura, depois fecho aforístico na mesma frase, e por fim voz genérica persistente na verificação final); clipping comitado, nota descartada.
+- SKIP https://bootcamp.uxdesign.cc/atomic-design-system-explained-0b129f50cd3b — failed — blocked_domain — bootcamp.uxdesign.cc is known to block scraping; not attempting a fetch
+- SKIP https://br.pinterest.com/pin/126030489552125596/ — failed — fetch_timeout — rendering https://br.pinterest.com/pin/126030489552125596/ exceeded the internal timeout (30000ms)
+- SKIP https://br.pinterest.com/pin/126734176988477300/ — failed — fetch_timeout — rendering https://br.pinterest.com/pin/126734176988477300/ exceeded the internal timeout (30000ms)
+- SKIP https://br.pinterest.com/pin/126874914479992316/ — failed — fetch_timeout — rendering https://br.pinterest.com/pin/126874914479992316/ exceeded the internal timeout (30000ms)
+- SKIP https://br.pinterest.com/pin/131589620340994725/ — failed — fetch_timeout — client-side 300s timeout, twice
+- SKIP https://br.pinterest.com/pin/131659989079664858/ — failed — fetch_timeout — rendering https://br.pinterest.com/pin/131659989079664858/ exceeded the internal timeout (30000ms)
+- SKIP https://br.pinterest.com/pin/136656169919492206/ — failed — fetch_timeout — rendering https://br.pinterest.com/pin/136656169919492206/ exceeded the internal timeout (30000ms)
+- SKIP https://br.pinterest.com/pin/140456082101954252/ — failed — fetch_timeout — rendering https://br.pinterest.com/pin/140456082101954252/ exceeded the internal timeout (30000ms)
+- SKIP https://br.pinterest.com/pin/142918988144797040/ — failed — fetch_timeout — rendering https://br.pinterest.com/pin/142918988144797040/ exceeded the internal timeout (30000ms)
+- SKIP https://br.pinterest.com/pin/145593000434621893/ — failed — fetch_timeout — rendering https://br.pinterest.com/pin/145593000434621893/ exceeded the internal timeout (30000ms)
+- SKIP https://br.pinterest.com/pin/153192824794733869/ — failed — fetch_timeout — rendering https://br.pinterest.com/pin/153192824794733869/ exceeded the internal timeout (30000ms)
+- SKIP https://br.pinterest.com/pin/161496336618680687/ — failed — fetch_timeout — rendering https://br.pinterest.com/pin/161496336618680687/ exceeded the internal timeout (30000ms)

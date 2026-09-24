@@ -1,23 +1,19 @@
 ---
 url: "http://codeofrob.com/entries/why-you-cant-be-a-good-.net-developer.html"
-captured_at: "2026-09-23T16:42:36+01:00"
+captured_at: "2026-09-24T17:55:00+01:00"
 title: "Why you can't be a good .NET developer"
-domain: "codeofrob.com"
+domain: "codeofrob-com"
 ---
 
-Rob Ashton
-Why you can't be a good .NET developer
-Published on 2016-6-14
+I was on Twitter today and I saw this tweet by [Ian Cooper](https://twitter.com/ICooper/)
 
-I was on Twitter today and I saw this tweet by Ian Cooper
+My first reaction was simply to laugh, because the idea of self-loathing .NET developers is a funny one, my second reaction was to say something pithy on Twitter and then I remembered I had a blog which _somehow_ despite my best efforts is still running for some reason "in the cloud" and thought I'd disagree here instead.
 
-My first reaction was simply to laugh, because the idea of self-loathing .NET developers is a funny one, my second reaction was to say something pithy on Twitter and then I remembered I had a blog which somehow despite my best efforts is still running for some reason "in the cloud" and thought I'd disagree here instead.
+## It's not self loathing
 
-It's not self loathing
+There is a reason this mentality exists and it isn't one of self loathing. The reason why people "leave" .NET is because _it is impossible to be a good .NET developer_. To work in a development shop with a team is to continually cater for the lowest common denominator of that team and the vast majority of software shops using .NET have a whole lot of lowest common denominator to choose their bad development decisions for.
 
-There is a reason this mentality exists and it isn't one of self loathing. The reason why people "leave" .NET is because it is impossible to be a good .NET developer. To work in a development shop with a team is to continually cater for the lowest common denominator of that team and the vast majority of software shops using .NET have a whole lot of lowest common denominator to choose their bad development decisions for.
-
-Tangible examples? I remember well the insistence of one boss that we use TFS because some developers would find it hard to use git. I remember the steadfast committal to ASP.NET web forms because the "new concepts" in ASP.NET MVC were going to take too long for the team to become productive in. There is now this furore over .NET core and the new thing in the tiny 0.001% of people that care are whether they persist in using Windows or switch to more productive environments. Of course @aliostad gets it right here and points out that the primary "Important Thing" should be a focus on functional programming in languages like F# and of course the reason it doesn't happen is because "it's too hard for most people in our team".
+Tangible examples? I remember well the insistence of one boss that we use TFS because some developers would find it hard to use git. I remember the steadfast committal to ASP.NET web forms because the "new concepts" in ASP.NET MVC were going to take too long for the team to become productive in. There is now this furore over .NET core and the new thing in the tiny 0.001% of people that care are whether they persist in using Windows or switch to more productive environments. Of course [@aliostad](https://twitter.com/aliostad) gets it right here and points out that the primary "_Important Thing_" should be a focus on [functional programming in languages like F#](http://byterot.blogspot.co.uk/2016/06/after-all-it-might-not-matter-commentary-status-of-dotnet-dotnetcore-csharp-oss-fsharp-dnx.html) and of course the reason it doesn't happen is because "it's too hard for most people in our team".
 
 It'll not happen because as long as you're working on a platform that is primarily used by derpy enterprise shops, you will continually be held back because those derpy enteprise shops are continually be held back by the derpy enterprise developers that work in the derpy enterprise shops.
 
@@ -25,4 +21,4 @@ It isn't self loathing, it's self preservation and an eventual realisation that 
 
 The easiest way to progress is always to jump ship and leave, that's why people do it; moving to a community of people who have seen how to be more effective and productive and leaving the old one behind. In my own case it has been to move to a community that barely exists because the team has to be pretty much self reliant and there is no room for lowest common denominators and long meetings over whether you should use semi-colons or not.
 
-This is why you can't be a good .NET developer, sooner or later the frustration sets in and you go and do something better. The average ability and desire for something better just keeps on plummetting whilst Microsoft try to chase the brain drain by casting little nuggets of mediocrity at the people left behind scrabbling in the mud.
+_This_ is why you can't be a good .NET developer, sooner or later the frustration sets in and you go and do something better. The average ability and desire for something better just keeps on plummetting whilst Microsoft try to chase the brain drain by casting little nuggets of mediocrity at the people left behind scrabbling in the mud.
