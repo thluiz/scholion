@@ -244,3 +244,6 @@
 - SKIP https://brenocon.com/dean_perf.html?utm_source=tldrnewsletter — failed — summary_failed — webclip-summary composition failed: Missing required field: title
 - SKIP https://brianjenney.medium.com/3-lessons-from-the-smartest-developers-ive-worked-with-5b233f51fc15 — failed — blocked_domain — brianjenney.medium.com is known to block scraping; not attempting a fetch
 - SKIP https://brianjenney.medium.com/the-unwritten-rules-to-becoming-a-senior-developer-4-steps-to-level-up-0113531a7ba0 — failed — blocked_domain — brianjenney.medium.com is known to block scraping; not attempting a fetch
+- SKIP https://cannoneyed.com/essays/software-industrial-revolution?utm_source=tldrnewsletter — failed — summary_failed — webclip-summary composition failed: Missing required field: title
+- SKIP https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp/related — failed — thin_content — extracted content is only 215 chars, below the 400 minimum
+- SKIP https://chubernetes.com/the-adaptive-chief-technology-officer-ed14d6455c95 — failed — blocked_domain — chubernetes.com is known to block scraping; not attempting a fetch
