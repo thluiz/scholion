@@ -37,8 +37,10 @@ function Send-DeployAlert {
         Invoke-RestMethod -Method Post -TimeoutSec 10 `
             -Uri "http://localhost:8080/api/gossip-gate/mcp" `
             -ContentType "application/json" -Body $body | Out-Null
+        return $true
     } catch {
         Write-Host "AVISO: falha ao notificar via GossipGate - $($_.Exception.Message)" -ForegroundColor Yellow
+        return $false
     }
 }
 
@@ -59,14 +61,14 @@ try {
                 git merge --abort 2>&1 | Out-Null
                 $msg = "Scholion deploy: conflito de merge com origin/$branch nao resolvido automaticamente. Publicando estado LOCAL. Resolva manualmente para o remoto voltar a publicar."
                 Write-Host "AVISO: $msg" -ForegroundColor Red
-                Send-DeployAlert $msg
+                $null = Send-DeployAlert $msg
             } else {
                 Write-Host "  auto-merge OK -> git push origin $branch" -ForegroundColor Green
                 git push origin $branch 2>&1 | ForEach-Object { Write-Host "  $_" }
                 if ($LASTEXITCODE -ne 0) {
                     $msg = "Scholion deploy: auto-merge com origin/$branch OK, mas o push de volta falhou (exit $LASTEXITCODE). Merge fica local; pushe a mao para nao divergir de novo."
                     Write-Host "AVISO: $msg" -ForegroundColor Yellow
-                    Send-DeployAlert $msg
+                    $null = Send-DeployAlert $msg
                 }
             }
         }
@@ -79,8 +81,27 @@ try {
 if (-not $SkipBuild) {
     Write-Host "==> hugo build" -ForegroundColor Cyan
     Set-Location $REPO_DIR
-    hugo --minify --gc
-    if ($LASTEXITCODE -ne 0) { throw "Hugo build failed" }
+    $buildOut  = hugo --minify --gc 2>&1
+    $buildCode = $LASTEXITCODE
+    $buildOut | ForEach-Object { Write-Host "$_" }
+    # Alerta so na transicao ok -> falha (a tarefa roda a cada 30 min; sem isso seria spam)
+    $buildFlag = Join-Path $env:LOCALAPPDATA 'scholion-deploy-build-failed.flag'
+    if ($buildCode -ne 0) {
+        if (-not (Test-Path $buildFlag)) {
+            $errLine = ($buildOut | ForEach-Object { "$_" } | Where-Object { $_ -match '^Error' } | Select-Object -First 1)
+            if (-not $errLine) { $errLine = "exit $buildCode" }
+            if ($errLine.Length -gt 600) { $errLine = $errLine.Substring(0, 600) + '...' }
+            # Flag so depois de avisar de fato: GossipGate fora do ar -> tenta de novo no proximo ciclo
+            if (Send-DeployAlert "Scholion: o build do Hugo falhou na publicacao agendada, nada vai ao ar ate corrigir. Detalhes em E:\scholion\deploy-scheduled.log`n`n$errLine") {
+                Set-Content $buildFlag (Get-Date -Format o)
+            }
+        }
+        throw "Hugo build failed"
+    }
+    if (Test-Path $buildFlag) {
+        Remove-Item $buildFlag
+        $null = Send-DeployAlert "Scholion: o build do Hugo voltou a passar, publicacao retomada."
+    }
 }
 
 # Estado anterior
