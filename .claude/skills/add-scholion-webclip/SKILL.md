@@ -109,16 +109,15 @@ $s = Invoke-RestMethod -Uri "http://localhost:8080/api/webclip/webclip/$($r.oper
 `mode: "return"` — não `"commit"` — porque o commit precisa acontecer no repo local do autor (`E:\scholion`), não no clone próprio do serviço em HermesTools (ver Decision 9 do README do scholion-webclipper: `"commit"` é pro Claudinho/agente autônomo, sem working tree local; `"return"` é pra quem já tem um checkout, como esta skill). `$s` traz `slug`, `notePath`, `clippingPath`, `clippingContent`, `noteContent` prontos — usar como vieram, sem editar (editar exigiria recompor, ver Decision 8).
 
 1. Escrever os dois arquivos em `E:\scholion\<clippingPath>` e `E:\scholion\<notePath>` (criar diretórios se preciso).
-2. Build check: `cd /e/scholion && hugo --quiet` — abortar se exit ≠ 0.
-3. `git add` os dois caminhos.
-4. **Marcador do gate, a partir do veredito que já temos** — não deixar o hook `ghost-audit-gate.ps1` reauditar a nota (ela já foi auditada no `compose`; ver Decision 10 do README do scholion-webclipper). Só gravar se `audit.verdict` for `green` ou `yellow` — nunca pra um `red` não resolvido:
+2. `git add` os dois caminhos.
+3. **Marcador do gate, a partir do veredito que já temos** — não deixar o hook `ghost-audit-gate.ps1` reauditar a nota (ela já foi auditada no `compose`; ver Decision 10 do README do scholion-webclipper). Só gravar se `audit.verdict` for `green` ou `yellow` — nunca pra um `red` não resolvido:
    ```powershell
    $o = git -C E:\scholion rev-parse ":$($s.notePath)"
    New-Item -ItemType Directory -Force E:\scholion\.ghost-audit | Out-Null
    Set-Content "E:\scholion\.ghost-audit\$o.ok" $o
    ```
-5. **Um commit só**, cobrindo clipping + nota juntos (diferente da convenção antiga de dois commits — ver Decision 5/9 do scholion-webclipper: o `save` é uma decisão atômica do autor, não dois artefatos independentes): `git commit -m "webclip: $($s.slug)"`.
-6. `git push` (se houver remoto).
+4. **Um commit só**, cobrindo clipping + nota juntos (diferente da convenção antiga de dois commits — ver Decision 5/9 do scholion-webclipper: o `save` é uma decisão atômica do autor, não dois artefatos independentes): `git commit -m "webclip: $($s.slug)"`.
+5. `git push` (se houver remoto).
 
 ### 5. Notas de citação (se houver frases)
 
@@ -134,9 +133,9 @@ Mantém do `add-scholion-quote`: tag do autor obrigatória, ghost-writer, ghost-
 - **`captured_at`/`date` são OBRIGATÓRIOS** com timestamp real — o `compose` já cuida disso (agora, ou o `capturedAt` do modo arquivo); nunca inventar um valor manualmente.
 - **`category: webclip` é OBRIGATÓRIO** na nota principal — o servidor já garante isso na renderização.
 - Clipping bruto nunca é colado verbatim na nota — a nota é sempre prosa composta (garantido pelo prompt do servidor).
-- **Um commit cobre clipping + nota juntos** (passo 4, item 5) — não é mais "um commit por artefato" pra esses dois; notas `quote` do passo 5 continuam com commit próprio cada.
+- **Um commit cobre clipping + nota juntos** (passo 4, item 4) — não é mais "um commit por artefato" pra esses dois; notas `quote` do passo 5 continuam com commit próprio cada.
 - Sem `Co-Authored-By Claude` em nenhum commit.
 - Não tocar em `E:/silva/src/content/note/`.
 - **Nunca inventar** conteúdo do fichamento além do que está no texto capturado — garantido pelo prompt do servidor, mas o preview (passo 3) é a última checagem humana disso.
-- Build sanity check (`hugo --quiet`) antes de cada commit de nota.
+- Sem build do Hugo por nota: quem compila é o `\Claude\ScholionPublish` (a cada 30 min). Um build completo do site por item só gasta CPU.
 - A API key da skill vive só em `C:\Users\conta\.claude\secrets\scholion-webclipper.key` — nunca em texto plano em nenhum arquivo deste repo.
