@@ -3,7 +3,7 @@ title: "11 imagens para sentir a realidade de pessoas que moram em “caixas”"
 date: '2026-09-25T19:31:28+01:00'
 category: webclip
 summary: 'As imagens mostram apartamentos subdivididos em Hong Kong, onde muitas pessoas vivem em espaços de 6 a 13 m², em edifícios antigos e no distrito de Sham Shui Po.'
-tags: ["hong-kong", "habitação", "apartamentos-subdivididos", "sham-shui-po"]
+tags: ["hong-kong", "habitacao", "apartamentos-subdivididos", "sham-shui-po"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
