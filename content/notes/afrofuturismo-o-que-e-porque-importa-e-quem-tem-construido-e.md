@@ -3,7 +3,7 @@ title: "Afrofuturismo | O que é, porque importa e quem tem construído esse mov
 date: '2026-09-25T19:47:01+01:00'
 category: webclip
 summary: 'O texto define o afrofuturismo como movimento cultural, social e político ligado a ancestralidade, tecnologia e diáspora negra, e reúne exemplos de literatura, artes visuais e música no Brasil.'
-tags: ["afrofuturismo", "diáspora-negra", "ancestralidade", "cultura-negra"]
+tags: ["afrofuturismo", "diaspora-negra", "ancestralidade", "cultura-negra"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:

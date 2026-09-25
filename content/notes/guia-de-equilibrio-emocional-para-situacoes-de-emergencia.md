@@ -3,7 +3,7 @@ title: "Guia de equilíbrio emocional para situações de emergência"
 date: '2026-09-25T20:05:10+01:00'
 category: webclip
 summary: 'O texto aborda medo, ansiedade e incerteza na quarentena e propõe transformá-los em ação, propósito, compaixão e práticas meditativas para atravessar a situação.'
-tags: ["ansiedade", "compaixao", "propósito", "pandemia"]
+tags: ["ansiedade", "compaixao", "proposito", "pandemia"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:

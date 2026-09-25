@@ -3,7 +3,7 @@ title: "Como é ser um homem de 97 anos?"
 date: '2026-09-25T19:55:43+01:00'
 category: webclip
 summary: 'Herbert Fingarette descreve a velhice como perda de habilidades, dependência e solidão, e diz que a proximidade da morte o faz rever suas ideias antigas sobre não temer morrer.'
-tags: ["velhice", "morte", "solidão", "dependência"]
+tags: ["velhice", "morte", "solidao", "dependencia"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
