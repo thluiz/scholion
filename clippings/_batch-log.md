@@ -364,3 +364,4 @@ Call log:
 - SKIP https://risingstars.js.org/2024/en#section-framework — failed — soft_404 — project ranking listing: note is only a list of repo taglines (link-digest page), no article content
 - SKIP https://shiftmag.dev/engineer-explains-the-benefits-of-test-driven-development-4605/?ref=dailydev — failed — soft_404 — composed note summarizes cookie consent list, not the article
 - SKIP https://spakhm.com/claude-code?utm_source=tldrai — failed — thin_content — extracted content is only 9 chars, below the 400 minimum
+- SKIP https://spotniks.com/como-o-pokemon-go-ajuda-a-explicar-por-que-o-brasil-e-um-pais-pobre/ — failed — thin_content — extracted content is only 18 chars, below the 400 minimum
