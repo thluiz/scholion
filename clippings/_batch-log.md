@@ -341,3 +341,8 @@
 - SKIP https://autonomialiteraria.com.br/loja/teoria-politica/desejo-pos-capitalista-ultimas-aulas/ — failed — promo_page — bookstore product page (loja) for Mark Fisher book
 - SKIP https://blog.bitsrc.io/3-design-patterns-every-developer-should-learn-71a51568ac9d — failed — fetch_timeout — rendering https://blog.bitsrc.io/3-design-patterns-every-developer-should-learn-71a51568ac9d exceeded the internal timeout (30000ms)
 - SKIP https://blog.bitsrc.io/single-responsibility-principle-practical-guide-to-writing-maintainable-code-50ec261819b7 — failed — fetch_timeout — rendering https://blog.bitsrc.io/single-responsibility-principle-practical-guide-to-writing-maintainable-code-50ec261819b7 exceeded the internal timeout (30000ms)
+- SKIP https://brandonkboswell.com/ — failed — thin_content — extracted content is only 210 chars, below the 400 minimum
+- SKIP https://daily.dev/posts/osLIj0fdW?utm_source=notification&utm_medium=email&utm_campaign=digest — failed — soft_404 — daily.dev aggregator page: captured only an unrelated related-post teaser card, title does not match content
+- SKIP https://daily.dev/posts/WOQZTduc5?utm_source=notification&utm_medium=email&utm_campaign=digest — failed — thin_content — extracted content is only 322 chars, below the 400 minimum
+- SKIP https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/edit?tab=t.0 — failed — soft_404 — Google Docs shell only (UI/access request), no document content captured
+- SKIP https://dresdencodak.com/2024/09/24/the-dark-science-kickstarter-is-here/ — failed — promo_page — Kickstarter sign-up announcement for a hardcover book, sales page
