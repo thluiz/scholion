@@ -353,3 +353,7 @@ Call log:
 
 - SKIP https://papodehomem.com.br/16-bandas-fodas-que-nunca-tocaram-no-brasil — failed — language_mismatch — PT-BR note with a corrupted Georgian-script token in the Hall & Oates bullet
 - SKIP https://papodehomem.com.br/18-bom-dia-a-volta-da-camila-lawall — failed — thin_content — extracted content is only 181 chars, below the 400 minimum
+- SKIP https://papodehomem.com.br/18-bom-dia-bruno-ribeiro — failed — thin_content — extracted content is only 181 chars, below the 400 minimum
+- SKIP https://papodehomem.com.br/18-bom-dia-gabriela-johann — failed — thin_content — extracted content is only 181 chars, below the 400 minimum
+- SKIP https://papodehomem.com.br/18-erotismo-simplicidade-e-anonimato-a-arte-de-um-artista-parisiense-desconhecido — failed — fetch_timeout — rendering https://papodehomem.com.br/18-erotismo-simplicidade-e-anonimato-a-arte-de-um-artista-parisiense-desconhecido exceeded the internal timeout (60000ms)
+- SKIP https://papodehomem.com.br/articles/flow/date/2017-05-21 — failed — thin_content — extracted content is only 181 chars, below the 400 minimum
