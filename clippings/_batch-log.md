@@ -346,3 +346,10 @@
 - SKIP https://daily.dev/posts/WOQZTduc5?utm_source=notification&utm_medium=email&utm_campaign=digest — failed — thin_content — extracted content is only 322 chars, below the 400 minimum
 - SKIP https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/edit?tab=t.0 — failed — soft_404 — Google Docs shell only (UI/access request), no document content captured
 - SKIP https://dresdencodak.com/2024/09/24/the-dark-science-kickstarter-is-here/ — failed — promo_page — Kickstarter sign-up announcement for a hardcover book, sales page
+- SKIP https://jacobin.com.br/2024/12/como-karl-marx-se-tornou-comunista/ — failed — language_mismatch — PT-BR note with English tags (republicanism, communism, political-theory)
+- SKIP https://papodehomem.com.br/14-maiores-lutas-de-boxe-de-todos-os-tempos — failed — fetch_failed — could not render https://papodehomem.com.br/14-maiores-lutas-de-boxe-de-todos-os-tempos: goto: net::ERR_CONNECTION_CLOSED at https://papodehomem.com.br/14-maiores-lutas-de-boxe-de-todos-os-tempos
+Call log:
+  - navigating to "https://papodehomem.com.br/14-maiores-lutas-de-boxe-de-todos-os-tempos", waiting until "load"
+
+- SKIP https://papodehomem.com.br/16-bandas-fodas-que-nunca-tocaram-no-brasil — failed — language_mismatch — PT-BR note with a corrupted Georgian-script token in the Hall & Oates bullet
+- SKIP https://papodehomem.com.br/18-bom-dia-a-volta-da-camila-lawall — failed — thin_content — extracted content is only 181 chars, below the 400 minimum
