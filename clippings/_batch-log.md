@@ -315,3 +315,7 @@
 - SKIP https://levelup.gitconnected.com/effective-technical-leads-43bf15a1c7b7 — failed — blocked_domain — levelup.gitconnected.com is known to block scraping; not attempting a fetch
 - SKIP https://levelup.gitconnected.com/how-software-development-is-changing-with-agentic-coding-4e9d48b7d0fd — failed — blocked_domain — levelup.gitconnected.com is known to block scraping; not attempting a fetch
 - SKIP https://levelup.gitconnected.com/how-to-improve-your-documentation-with-diagrams-f093be8cec75 — failed — blocked_domain — levelup.gitconnected.com is known to block scraping; not attempting a fetch
+- SKIP https://m.signalvnoise.com/how-i-became-and-stayed-a-successful-programmer-48f209362f68 — failed — soft_404 — Signal v. Noise "Missing article" page, not the essay
+- SKIP https://m.signalvnoise.com/if-you-ask-for-my-permission-you-wont-have-my-permission-9d8bb4f9c940 — failed — soft_404 — Signal v. Noise "Missing article" page, not the essay
+- SKIP https://m.signalvnoise.com/its-ok-to-be-pragmatic-with-a-little-help-from-the-crazy-ones-461f7773a176 — failed — soft_404 — Signal v. Noise "Missing article" page, not the essay
+- SKIP https://mail.google.com/mail/u/0/#inbox — failed — soft_404 — Gmail inbox bookmark, rendered only the sign-in page (login wall)
