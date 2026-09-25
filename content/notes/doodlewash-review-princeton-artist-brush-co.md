@@ -15,6 +15,10 @@ sources:
     kind: repo
 ---
 
+Princeton Artist Brush Co. is based in Princeton, New Jersey, and the review looks at five synthetic brush sets for watercolor, plus a few other brushes. The author says the company offers a wide variety of sizes and shapes, and that the brushes are well made.
+
+The review compares Heritage, Elite, Neptune, Velvetouch, and Summit. Heritage is the flagship series with a large belly, fine point, and good capacity. Elite is a synthetic Kolinsky sable with fine point and strong water and pigment holding. Neptune is a faux squirrel line that is very soft and holds a lot of water and pigment, but has little spring. Velvetouch is a luxury synthetic line with a velvety handle and fine point. Summit is a white synthetic hair line made for fluid acrylics but also used for watercolor. The author also notes that stickers peel off cleanly, some flat and angled brushes have translucent handles with a chiseled end for scraping, and the company website is clean and easy to use.
+
 ## Reading notes
 
 - Princeton Artist Brush Co. is based in Princeton, New Jersey, and the review brings together five synthetic sets for watercolor, plus a few other brushes.

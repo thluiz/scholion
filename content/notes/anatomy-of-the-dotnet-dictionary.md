@@ -17,7 +17,9 @@ sources:
 
 The post explains that .NET `Dictionary<TKey, TValue>` does not store key/value pairs directly. It uses two arrays, one for buckets and one for entries, and the bucket points into a chain of entries through encoded indices. Collisions are resolved by comparing hash codes and then equality, and removed entries are kept for reuse through a free list.
 
-It also shows that dictionary capacity starts at a prime number, grows by resizing to the next prime when needed, and can be reduced with `TrimExcess`. `KeyValuePair` is described as part of the API rather than the internal storage format. ## Reading notes
+It also shows that dictionary capacity starts at a prime number, grows by resizing to the next prime when needed, and can be reduced with `TrimExcess`. `KeyValuePair` is described as part of the API rather than the internal storage format.
+
+## Reading notes
 
 - A `.NET Dictionary<TKey, TValue>` uses two internal arrays, one for buckets and one for entries, instead of storing the data as key/value pairs.
 - The buckets point to entries by encoded indices; `0` marks an empty bucket and the values are 1-based.

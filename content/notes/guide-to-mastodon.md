@@ -15,8 +15,6 @@ sources:
     kind: repo
 ---
 
-## Reading notes
-
 The text presents Mastodon as a distributed social networking platform, in which each instance functions independently, but talks with other instances and with other software in the fediverse. It also explains that the guide compares Mastodon with Twitter and email to situate basic use, but insists on the differences in instance, timelines, privacy, and moderation.
 
 It gathers practical guidance on choosing an instance, migrating an account, mentioning users from other instances, configuring privacy, using hashtags, CW, images with alt text, custom emojis, search, favorites on other servers, apps, backup, and keyboard shortcuts. The text also addresses etiquette, brand presence, verification, blocking, reporting, and the limits of Mastodon culture.

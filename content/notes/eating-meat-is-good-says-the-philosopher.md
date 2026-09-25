@@ -17,7 +17,9 @@ sources:
 
 The essay starts from a thought experiment about aliens raising humans as livestock and uses it to discuss longtermism, animal consumption, and whether existence can count as a benefit even when it ends in being eaten. It then turns to Nick Zangwill’s claim that eating meat is morally good because the practice sustains domesticated animals, but says that this still feels wrong.
 
-It then pushes a darkly comic alternative that treats some animals as “evil” and therefore fit to eat, before concluding that the idea does not solve the original problem. The author ends with a more ordinary view: eat animals that live good lives, prefer older animals, and treat freedom and self-determination as morally important. ## Reading notes
+It then pushes a darkly comic alternative that treats some animals as “evil” and therefore fit to eat, before concluding that the idea does not solve the original problem. The author ends with a more ordinary view: eat animals that live good lives, prefer older animals, and treat freedom and self-determination as morally important.
+
+## Reading notes
 
 - The text uses a scenario of aliens who raise humans as livestock to question whether existence can be a benefit when it ends in slaughter.
 - The hypothesis relates to longtermism, because future lives count morally even when they would not exist if the system were shut down.

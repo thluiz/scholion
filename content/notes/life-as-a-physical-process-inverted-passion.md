@@ -15,8 +15,6 @@ sources:
     kind: repo
 ---
 
-## Reading notes
-
 The text argues that defining life only from examples on Earth makes the question too narrow. Instead, it proposes understanding life as a physical process that generates systems that are statistically unlikely to assemble and persist on their own, which would make it possible to look for life in unexpected places in the universe.
 
 From "Life as No One Knows It", the author summarizes Assembly Theory as a way of thinking about objects by assembly index and copy number. Objects with a high assembly index and high copy number would indicate a selection process underway, because they would not arise only randomly. In this view, life stops being binary and becomes a degree of aliveness linked to what an object produces in relation to what it consumes, with a comparison between this idea and human agency and a hypothesis that AIs could also count as alive.

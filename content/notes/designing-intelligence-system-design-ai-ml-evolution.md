@@ -2,8 +2,8 @@
 title: "Designing Intelligence: System Design in AI/ML Evolution"
 date: '2026-09-24T23:41:54+01:00'
 category: webclip
-summary: 'A piece connects principles like simplicity, context, resilience, ethics, and decision making to machine learning design choices, arguing for useful, interpretable solutions aligned with the business.'
-tags: ["ai-ml","system-design","machine-learning","ethics"]
+summary: 'The piece connects principles such as simplicity, context, resilience, ethics, and decision making to design choices in ML, arguing for useful, interpretable solutions aligned with the business.'
+tags: ["ai-ml", "system-design", "machine-learning", "ethics"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -14,6 +14,8 @@ sources:
     url: "https://github.com/thluiz/scholion/blob/main/clippings/2026-09/dev-to--designing-intelligence-system-design-ai-ml-evolution.md"
     kind: repo
 ---
+
+Designing intelligence, here, means choosing machine learning solutions that improve human experience and solve business problems with practical value. The text links that goal to simplicity, context, reliability, fairness, privacy, and better decision making.
 
 ## Reading notes
 

@@ -15,7 +15,6 @@ sources:
     kind: repo
 ---
 
-## Reading notes
 The text presents the main Agile frameworks and describes how each one organizes the team’s work. Scrum uses short sprints, Kanban controls flow and work in progress, Scrumban mixes the two, XP depends on face-to-face communication and pair programming, and FDD divides projects into smaller stories and features.
 
 It also says that the choice depends on team size, the level of face-to-face collaboration, and the company’s structure. In the end, the page states that Assembla offers tools to plan, track, develop, test and launch features, with cardwalls, task boards, bug tickets and integration with repositories.

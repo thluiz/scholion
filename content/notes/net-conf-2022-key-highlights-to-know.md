@@ -15,8 +15,6 @@ sources:
     kind: repo
 ---
 
-## Reading notes
-
 .NET Conf 2022 is summarized here as a set of the main announcements and numbers shared at the event. The article groups the keynote around .NET 7 performance, C# 11, Blazor, Azure, Azure Container Apps, and .NET MAUI, and keeps returning to adoption and speed gains as the main thread.
 
 It also points to the related video sessions for each topic and notes that Azure Functions already supports .NET 7, Azure Container Apps is positioned for serverless microservices, and Xamarin SDK support ends in May 2024. The MAUI section highlights rendering gains and the release roadmap.

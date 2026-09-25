@@ -17,7 +17,9 @@ sources:
 
 The post gathers a few C# testing tips around test data, reference outputs, and integration-test setup. It says test data generators help when hand-written data gets tedious, seeds make randomized tests reproducible, and reference files work well for stable rendering output.
 
-It also shows how to find a free TCP port with `Socket`, and notes that the whole `127.0.0.0/8` loopback range can be used when a fixed port is required. ## Reading notes
+It also shows how to find a free TCP port with `Socket`, and notes that the whole `127.0.0.0/8` loopback range can be used when a fixed port is required.
+
+## Reading notes
 
 - In tests, data generators help when creating examples by hand becomes tedious and the data ends up unrealistic.
 - The text presents `Faker` as an option that produces data in English and more “human” data, without focusing on edge cases.
