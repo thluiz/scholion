@@ -1,0 +1,13 @@
+---
+url: "https://cronicabrasileira.org.br/cronicas/11526/recado-ao-sr-903"
+captured_at: "2025-07-19T00:02:03+01:00"
+title: "Recado ao Sr. 903 | Crônicas | Portal da Crônica Brasileira"
+domain: "cronicabrasileira-org-br"
+---
+
+---
+Quem fala aqui é o homem do 1003.  Recebi outro dia, consternado, a visita do zelador, que me mostrou a carta em que o senhor reclamava contra o barulho em meu apartamento. Recebi depois a sua própria visita pessoal – devia ser meia-noite – e a sua veemente reclamação verbal. Devo dizer que estou desolado com tudo isso, e lhe dou inteira razão. O regulamento do prédio é explícito e, se não o fosse, o senhor ainda teria ao seu lado a Lei e a Polícia. Quem trabalha o dia inteiro tem direito ao repouso noturno e é impossível repousar no 903 quando há vozes, passos e músicas no 1003. Ou melhor: é impossível ao 903 dormir quando o 1003 se agita; pois como não sei o seu nome nem o senhor sabe o meu, ficamos reduzidos a ser dois números, dois números empilhados entre dezenas de outros. Eu, 1003, me limito a leste pelo 1005, a oeste pelo 1001, ao sul pelo oceano Atlântico, ao norte pelo 1004, ao alto pelo 1103 e embaixo pelo 903 –  que é o senhor. Todos esses números são comportados e silenciosos; apenas eu e o oceano Atlântico fazemos algum ruído e funcionamos fora dos horários civis; nós dois apenas nos agitamos e bramimos ao sabor da maré, dos ventos e da lua. Prometo sinceramente adotar, depois das 22 horas, de hoje em diante, um comportamento de manso azul. Prometo. Quem vier a minha casa (perdão; ao meu número) será convidado a se retirar às 21h45, e explicarei; o 903 precisa repousar das 22 às sete horas, pois às 8h15 deve deixar o 783 para tomar o 109 que o levará até o 527 de outra rua, onde ele trabalha na sala 305. Nossa vida, vizinho, está toda numerada; e reconheço que ela só pode ser tolerável quando um número não incomoda outro número, mas o respeita, ficando dentro do limite de seus algarismos. Peço-lhe desculpas – e prometo silêncio. 
+
+... Mas que me seja permitido sonhar com outra vida e outro mundo, em que um homem batesse à porta do outro e dissesse: “Vizinho, são três horas da manhã e ouvi música em tua casa. Aqui estou". E o outro respondesse: “Entra, vizinho e come do meu pão e bebe de meu vinho. Aqui estamos todos a bailar e cantar, pois descobrimos que a vida é curta e a lua é bela".
+
+E o homem trouxesse a sua mulher, e os dois ficassem entre os amigos e amigas do vizinho entoando canções para agradecer a Deus o brilho das estrelas e o murmúrio da brisa nas árvores, e o dom da vida, e a amizade entre os humanos, e o amor e a paz.
