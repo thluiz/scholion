@@ -365,3 +365,6 @@ Call log:
 - SKIP https://shiftmag.dev/engineer-explains-the-benefits-of-test-driven-development-4605/?ref=dailydev — failed — soft_404 — composed note summarizes cookie consent list, not the article
 - SKIP https://spakhm.com/claude-code?utm_source=tldrai — failed — thin_content — extracted content is only 9 chars, below the 400 minimum
 - SKIP https://spotniks.com/como-o-pokemon-go-ajuda-a-explicar-por-que-o-brasil-e-um-pais-pobre/ — failed — thin_content — extracted content is only 18 chars, below the 400 minimum
+- SKIP https://strategizeyourcareer.com/p/how-65-hours-doing-this-saves-you-60-working-days?ref=dailydev — failed — soft_404 — Substack paywall teaser: intro only, cut off with ellipsis before the promised method
+- SKIP https://strategizeyourcareer.com/p/the-7-step-checklist-to-ask-a-great-question?ref=dailydev — failed — soft_404 — Substack paid post: only subtitle captured, note summarizes the paywall teaser
+- SKIP https://strategizeyourcareer.com/p/this-technique-minimizes-interruptions?ref=dailydev — failed — soft_404 — Substack paywall teaser: intro only, the promised technique is behind the paywall
