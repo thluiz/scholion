@@ -1,0 +1,10 @@
+[
+  {
+    "date": "2026-09-25",
+    "subject": "webclip: one language per note (translate Portuguese parts of 236 English notes, heading '## Reading notes', English tags)"
+  },
+  {
+    "date": "2026-09-24",
+    "subject": "webclip batch: 15 items, 10 notes (useful-and-overlooked-skills, o-codigo-limpo-ainda-importa-quando-o-leitor-deixa-de-ser-so, clean-code-7-tips-to-write-clean-functions, implementing-a-secure-sandbox-for-local-agents, tbm-333-lean-graph-theory, data-evolution-with-set-theoretic-types, eight-software-markets-that-ai-will-transform-differently, lessons-learned-in-35-years-of-making-software, 17-tips-from-a-senior-react-developer, 37-tips-from-a-senior-frontend-developer); 5 failed, 0 skipped (2 blocked_domain, 3 fetch_timeout)"
+  }
+]
