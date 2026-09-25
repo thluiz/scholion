@@ -325,3 +325,6 @@
 - SKIP https://newsletter.eng-leadership.com/p/how-to-start-with-public-speaking?ref=dailydev — failed — soft_404 — paid-subscriber teaser; clipping stops at "let's get to the first step", the how-to steps are paywalled
 - SKIP https://newsletter.eng-leadership.com/p/my-advice-for-engineers-and-engineering?ref=dailydev — failed — thin_content — extracted content is only 200 chars, below the 400 minimum
 - SKIP https://newsletter.programmingdigest.net/p/on-being-a-senior-engineer?ref=dailydev — failed — soft_404 — newsletter subscribe landing page captured instead of the "On being a senior engineer" article
+- SKIP https://paolorivera.blogspot.com.br/search/label/Technique — skipped — slug_collision — composed title "The Self-Absorbing Man" (blog name) collides with the search?q=pentel note from this batch; label listing page, needs a human-picked slug
+- SKIP https://papodehomem.com.br/10-fotos-de-pessoas-antes-e-depois-de-serem-beijadas-que-vao-te-surpreender — failed — fetch_timeout — renderer exceeded 30000ms, twice
+- SKIP https://papodehomem.com.br/11-imagens-para-sentir-a-realidade-de-pessoas-que-moram-em-caixas — failed — fetch_timeout — renderer exceeded 30000ms, twice
