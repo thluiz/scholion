@@ -269,3 +269,7 @@
 - SKIP https://faun.pub/a-guide-to-git-branching-strategies-c7c22c4848d3 — failed — blocked_domain — faun.pub is known to block scraping; not attempting a fetch
 - SKIP https://functional.works-hub.com/blog/My-reasons-to-love-F- — failed — thin_content — extracted content is only 352 chars, below the 400 minimum
 - SKIP https://github.com/BaldissaraMatheus/Tasks.md?ref=noted.lol — skipped — audit_unresolved — 
+- SKIP https://hamy.xyz/blog/2025-01_ditching-giraffe-for-falco — failed — fetch_timeout — rendering https://hamy.xyz/blog/2025-01_ditching-giraffe-for-falco exceeded the internal timeout (30000ms)
+- SKIP https://hbr.org/2016/11/why-some-people-get-burned-out-and-others-dont?utm_content=buffer9a1f1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer — failed — soft_404 — consent/privacy wall captured instead of article; note summarized the cookie notice; files discarded
+- SKIP https://hybridhacker.email/p/what-is-a-staff-engineer?r=2ri1g3&utm_medium=ios&utm_campaign=post&ref=dailydev&triedRedirect=true — failed — thin_content — extracted content is only 339 chars, below the 400 minimum
+- SKIP https://insights.hpe.com/content/hpe-nxt/en/articles/2017/08/how-to-never-deal-with-users-again.html — failed — fetch_failed — could not render https://insights.hpe.com/content/hpe-nxt/en/articles/2017/08/how-to-never-deal-with-users-again.html: goto: net::ERR_HTTP2_PROTOCOL_ERROR at ht
