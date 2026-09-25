@@ -328,3 +328,9 @@
 - SKIP https://paolorivera.blogspot.com.br/search/label/Technique — skipped — slug_collision — composed title "The Self-Absorbing Man" (blog name) collides with the search?q=pentel note from this batch; label listing page, needs a human-picked slug
 - SKIP https://papodehomem.com.br/10-fotos-de-pessoas-antes-e-depois-de-serem-beijadas-que-vao-te-surpreender — failed — fetch_timeout — renderer exceeded 30000ms, twice
 - SKIP https://papodehomem.com.br/11-imagens-para-sentir-a-realidade-de-pessoas-que-moram-em-caixas — failed — fetch_timeout — renderer exceeded 30000ms, twice
+- SKIP https://payleven.com.br/planos?test2=yes — failed — fetch_failed — could not render https://payleven.com.br/planos?test2=yes: goto: net::ERR_NAME_NOT_RESOLVED at https://payleven.com.br/planos?test2=yes Call log: - navigating t
+- SKIP https://pca.st/klc83exo — failed — soft_404 — CloudFront 403 error page (request could not be satisfied)
+- SKIP https://peterullrich.com/async-testing-with-eventually — failed — fetch_timeout — rendering https://peterullrich.com/async-testing-with-eventually exceeded the internal timeout (30000ms)
+- SKIP https://productcoalition.com/product-backlog-anit-patterns-31c8b303fc23 — failed — thin_content — extracted content is only 200 chars, below the 400 minimum
+- SKIP https://programmingdigest.net/newsletters/1800?ref=dailydev — failed — soft_404 — newsletter digest issue (link listing); note summarized only the first link blurb
+- SKIP https://pt.slideshare.net/giancosta86/introduction-to-erlang-64035190 — failed — soft_404 — SlideShare "A pagina ja nao existe" + cookie consent banner
