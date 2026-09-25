@@ -19,7 +19,7 @@ sources:
 
 Ramit Sethi, writing as a guest post on Tim Ferriss's blog, argues that the dozens of small money decisions a person faces daily overwhelm willpower, and that automation is what actually gets personal finance under control.
 
-## Fichamento
+## Reading notes
 
 - Sethi cites Barry Schwartz's finding that as the number of mutual funds offered in a 401(k) plan increases, participation drops: 2% less for every 10 funds added, and the people who do invest lean toward overly conservative money-market funds.
 - Willpower-based plans ("I'll just try harder to save and invest") tend to fail; most people skip even a free employer 401(k) match despite recognizing they should take it.

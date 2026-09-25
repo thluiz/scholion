@@ -21,7 +21,7 @@ Allie Paschal places neumorphism as the third step in a design lineage: skeuomor
 
 Three principles define the look. A near-monochrome palette built on off-white or off-black rather than pure white or black, so shadows and gradients read clearly against it. Soft, diffused shadows and highlights that all share one consistent light-source direction, so an element lit from the top-left always casts its shadow toward the bottom-right. And uniformly high corner radii across every component, since a sharp corner would reintroduce the contrast the style is built to avoid.
 
-## Fichamento
+## Reading notes
 
 - The trade-off is direct: the low contrast that makes neumorphism look soft is the same low contrast that tends to fail WCAG's three-to-one color contrast requirement for non-decorative elements, and can make interactive components indistinguishable from the background they sit on.
 - A gray border on a low-contrast element is offered as a minimal fix that preserves the neumorphic look while meeting contrast requirements.

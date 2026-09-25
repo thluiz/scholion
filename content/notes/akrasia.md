@@ -20,7 +20,7 @@ sources:
 
 Akrasia is the Greek term for acting against one's own better judgment: knowingly choosing what you yourself judge to be the worse option. In Plato's Protagoras, Socrates denies the phenomenon is even possible. Virtue is knowledge, people pursue what they perceive as good, and anyone who knows the best course will act on it. On this view, what looks like akrasia is incomplete knowledge.
 
-## Fichamento
+## Reading notes
 
 - Aristotle breaks with Socratic intellectualism in the Nicomachean Ethics, Book VII: akrasia comes from a person's opinion (doxa), not their desire (epithumia). Desire is neither true nor false, but opinion can simply be wrong, which is enough to explain acting against a mistaken "best judgment."
 - Aristotle's opposite term is enkrateia, having power over one's own desires; he ties akrasia most closely to bodily enjoyment and treats it as a failure to act on knowledge rather than a vice proper, since it isn't a product of deliberate moral choice.

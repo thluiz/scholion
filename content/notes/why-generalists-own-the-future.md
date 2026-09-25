@@ -3,7 +3,7 @@ title: "Why Generalists Own the Future"
 date: '2026-09-25T08:40:42+01:00'
 category: webclip
 summary: 'The piece argues that AI weakens shallow specialist skill but strengthens generalists, who adapt across domains, ask the right questions, and use language models to work through novel problems.'
-tags: ["generalistas", "ai", "especializacao", "economia-da-alocacao"]
+tags: ["generalists", "ai", "specialization", "allocation-economy"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,7 +17,7 @@ sources:
 
 The text argues that generalists should not be reduced to people with broad but shallow competence. Their real advantage is curiosity, adaptability, and the ability to combine knowledge from different fields. In AI-heavy work, that matters more than rote expertise.
 
-## Fichamento
+## Reading notes
 
 - Generalists are described as curious people who move across domains, enjoy uncertainty, and solve problems by combining knowledge from different fields.
 - Their advantage is not only shallow skill in many areas, but also the ability and desire to adapt to new situations.

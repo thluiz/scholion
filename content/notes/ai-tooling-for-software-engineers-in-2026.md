@@ -20,7 +20,7 @@ sources:
 
 The Pragmatic Engineer surveyed over 900 subscribers between late January and mid-February 2026 on which AI tools they use for software engineering, and how they feel about them. Claude Code, released in May 2025, overtook both GitHub Copilot and Cursor in eight months and now leads in overall usage, adoption growth, and how much engineers say they love it.
 
-## Fichamento
+## Reading notes
 
 - 95% of respondents use AI tools at least weekly, and 56% report doing 70% or more of their engineering work with AI; only 2.1% report no usage at all.
 - Claude Code leads overall usage and is especially dominant at the smallest companies (75% adoption), while GitHub Copilot overtakes it at large enterprises. The survey attributes this to procurement preference and Microsoft's enterprise bundling rather than individual choice.

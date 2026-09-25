@@ -17,7 +17,7 @@ sources:
 
 The post argues that meetings are successful when they stay to the point, produce clear objectives, and make it obvious what to do, when to do it, and who will do it. It then points to 37signals’ advice as the source of the main practical rules.
 
-## Fichamento
+## Reading notes
 
 - The meeting should begin with a specific problem so it does not drift off course.
 - It should happen at the site of the problem, not in a conference room, so people can look at the code or UI and suggest concrete changes.

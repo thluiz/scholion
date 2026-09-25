@@ -22,7 +22,7 @@ Benjamin Todd argues automation doesn't uniformly push wages down. Partial autom
 
 From that pattern he builds a framework for which skills gain value, then applies it to name six worth building now, while flagging coding, routine white-collar work, visual creation, and predictable manual labor as the categories with the most uncertain outlook.
 
-## Fichamento
+## Reading notes
 
 - Partial automation has repeatedly raised total employment even while cutting the wage of the automated task itself: British textile manufacturing grew employment during the industrial revolution despite heavy automation, and global translator employment is still up net of AI's effect on the profession.
 - Full automation is a different regime. Epoch AI's GATE model shows wages rising roughly tenfold as non-automated tasks become bottlenecks, then crashing once the final bottlenecks are removed. If humans keep even 1% of tasks, the same model shows wages rising indefinitely instead.

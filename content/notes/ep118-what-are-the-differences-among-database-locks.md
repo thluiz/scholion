@@ -20,7 +20,7 @@ sources:
 
 A ByteByteGo weekly refresher covering five unrelated system design topics in quick succession: database lock types, pagination technique tradeoffs, the MVC family of UI architecture patterns, the sequence of events behind a URL request, and how QR code payments move between merchant, payment gateway, and consumer wallet.
 
-## Fichamento
+## Reading notes
 
 - Database locks: shared locks allow concurrent reads, exclusive locks block all other access, update locks prevent deadlocks during an intended update, and separate lock types exist for schema, bulk inserts, key ranges, rows, pages, and whole tables.
 - Pagination techniques compared on tradeoffs: offset-based is simple but slow on large offsets, cursor-based and keyset-based scale better but add implementation complexity, page-based mirrors offset's weaknesses, time-based suits time-ordered data, and hybrid approaches combine techniques for flexibility.

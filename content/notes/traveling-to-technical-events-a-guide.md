@@ -2,8 +2,8 @@
 title: "Traveling to technical events: A guide"
 date: '2026-09-24T23:10:52+01:00'
 category: webclip
-summary: 'A autora reúne práticas para viagens de trabalho a eventos técnicos: fazer mala leve, escolher bagagem por tipo de trajeto, lidar com jet lag, reservar com pontos e deixar tempo para encontros.'
-tags: ["viagens-de-trabalho", "eventos-tecnicos", "networking", "jet-lag"]
+summary: 'The author gathers practices for work trips to technical events: packing light, choosing luggage by trip type, handling jet lag, booking with points, and leaving time for meetings.'
+tags: ["work-travel","technical-events","networking","jet-lag"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,23 +17,23 @@ sources:
 
 The guide collects habits for solo work trips to technical events. It recommends packing light, choosing bags by trip length, sleeping and eating on the destination schedule, booking with loyalty points, leaving room for rest, and making time for hallway-track conversations and follow-up.
 
-## Fichamento
+## Reading notes
 
-- A autora diz que este guia vale para viagens solo ligadas ao trabalho, não para viagens em família.
-- Ela defende fazer mala leve, porque a expectativa de ler, codar, malhar ou trocar de roupa costuma ser maior do que o que acontece de fato.
-- A lista de mala quase sempre inclui documentos, carregadores, fones, um caderno pequeno, roupas calculadas pelo número de dias, pijama, itens de higiene e um moletom.
-- Ela não usa packing cubes, prefere enrolar as peças e costuma viajar com camadas para repetir o mesmo moletom em mais de uma combinação.
-- Para viagens curtas, recomenda a Eagle Creek 40L duffel; para day trips ou trajetos sem avião, a Baboon to the Moon canvas tote.
-- A Topo Designs Rover Pack Tech é a mochila que ela mais recomenda hoje para itens que não são roupa.
-- A Peak Design Everyday Backpack V1 é a melhor mochila em organização, mas pesa mais porque é muito acolchoada.
-- Ela menciona uma mala rígida de plástico ou alumínio como a opção que procuraria hoje, já que a que usava foi descontinuada.
-- Quando não precisa levar laptop, usa uma mini mochila; para bolsas pequenas, cita uma sling, uma pouch e até uma pochete barata comprada em loja de departamento.
-- Para anotações, ela prefere cadernos simples e a caneta Lamy Pico, e valoriza poder escrever mesmo sem bateria ou internet.
-- Para jet lag, sugere dormir no avião segundo o fuso do destino e comer lanches quando acordar.
-- Em viagens curtas, às vezes ela apenas aguenta o ritmo, cochila de vez em quando e fica acordada até tarde demais.
-- Ao reservar voos e hospedagem, recomenda se inscrever em todos os programas de pontos possíveis.
-- Ela conta que usou pontos Marriott Bonvoy em loja online para não deixá-los expirar.
-- Na agenda do evento, diz que quase sempre haverá menos tempo do que o esperado, porque surgem encontros, eventos de última hora e cansaço.
-- A estratégia que ela propõe é priorizar o que é obrigatório, manter uma lista do que seria bom fazer e reservar espaço para descanso e encontros improvisados.
-- Ela vê o hallway track como a melhor parte dos eventos e defende conhecer pessoas, adicionar nas redes e fazer follow-up depois.
-- Para encerrar, afirma que eventos técnicos são divertidos, ajudaram sua carreira e a aproximaram do marido e de amigos.
+- The author says this guide is valid for solo trips related to work, not for family trips.
+- She argues for packing light, because the expectation of reading, coding, working out, or changing clothes is usually higher than what actually happens.
+- The packing list almost always includes documents, chargers, headphones, a small notebook, clothes calculated by number of days, pajamas, toiletries, and a sweatshirt.
+- She does not use packing cubes, prefers to roll clothes, and usually travels with layers to repeat the same sweatshirt in more than one combination.
+- For short trips, she recommends the Eagle Creek 40L duffel; for day trips or trips without a plane, the Baboon to the Moon canvas tote.
+- The Topo Designs Rover Pack Tech is the backpack she most recommends today for items that are not clothes.
+- The Peak Design Everyday Backpack V1 is the best backpack for organization, but it weighs more because it is very padded.
+- She mentions a hard-shell suitcase made of plastic or aluminum as the option she would look for today, since the one she used was discontinued.
+- When she does not need to carry a laptop, she uses a mini backpack; for small bags, she mentions a sling, a pouch, and even a cheap fanny pack bought at a department store.
+- For notes, she prefers simple notebooks and the Lamy Pico pen, and values being able to write even without battery or internet.
+- For jet lag, she suggests sleeping on the plane according to the destination time zone and eating snacks when you wake up.
+- On short trips, sometimes she just pushes through, naps from time to time, and stays up too late.
+- When booking flights and lodging, she recommends signing up for every possible points program.
+- She says that she used Marriott Bonvoy points in an online store so they would not expire.
+- In the event schedule, she says there will almost always be less time than expected, because meetings, last-minute events, and fatigue come up.
+- The strategy she proposes is to prioritize what is mandatory, keep a list of what would be nice to do, and reserve space for rest and improvised meetings.
+- She sees the hallway track as the best part of events and argues for meeting people, adding them on social networks, and following up afterward.
+- To close, she says that technical events are fun, helped her career, and brought her closer to her husband and friends.

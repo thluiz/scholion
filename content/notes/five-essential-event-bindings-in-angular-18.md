@@ -22,7 +22,7 @@ Ugo Chukwuebuka covers the five event bindings Angular 18 forms rely on to conne
 
 The examples stay close to real form behavior: catching keystrokes as a user types, validating a password length once focus leaves the field, previewing Markdown only after a textarea loses focus, counting clicks on like/comment/retweet icons, and collecting form data on submit.
 
-## Fichamento
+## Reading notes
 
 - `(input)` fires on every keystroke, used here to check a typed first name against an array of known names in real time and toggle a "Name Found" message.
 - `(blur)` fires when focus leaves an element, used to validate password length only after the user finishes typing rather than on every keystroke.

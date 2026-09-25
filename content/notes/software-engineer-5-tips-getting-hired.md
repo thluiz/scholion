@@ -22,7 +22,7 @@ Shubham Malhotra's path went from a co-op during his fifth semester at RIT to in
 
 The strategies aren't abstract advice. Malhotra names the exact questions he asked senior engineers during internships, the tools he used to write his résumé, and the outreach template that led to his Amazon offer.
 
-## Fichamento
+## Reading notes
 
 - During internships, he treated the work as "engineering labs" rather than intern tasks: he'd ask managers directly, "What's a real reliability or latency problem on the critical path that no one has had time to fix yet?" and volunteer to own a slice of it.
 - His résumé was built in LaTeX via Overleaf, with keywords like "cloud computing," "distributed systems," and "backend engineering" tuned against each job description, and bullets written around measurable outcomes ("reduced data latency by 40%") instead of listed tasks.

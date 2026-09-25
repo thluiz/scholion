@@ -2,8 +2,8 @@
 title: "Why do I Swear?"
 date: '2026-09-24T22:31:33+01:00'
 category: webclip
-summary: 'O autor diz que costuma xingar em casa, em reuniões e no trabalho, mas evita usar palavrão só para reforçar um ponto. Para ele, xingar vem de uma postura de questionar o que os outros tomam como dado.'
-tags: ["swearing", "workplace", "questioning"]
+summary: 'The author says that he usually swears at home, in meetings, and at work, but avoids using profanity just to reinforce a point. For him, swearing comes from a stance of questioning what others take for granted.'
+tags: ["swearing","workplace","questioning"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,7 +17,7 @@ sources:
 
 The author says he swears often at home, in meetings, and at work, while knowing it can make him look bad, uncreative, and unprofessional in business settings. He frames swearing as part of how he questions assumptions, not as a way to target people.
 
-## Fichamento
+## Reading notes
 
 - He says the piece comes from a book by Paul Jarvis and that one part of it, about why he swears, resonated with him.
 - He says he swears quite a bit in daily life and at work.

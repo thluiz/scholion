@@ -22,7 +22,7 @@ Fabian Hemmert likes what a greyscale phone does to his attention: it makes the 
 
 His fix is a pair of iPhone Shortcuts, "Colour" and "Greyscale," wired to automations that fire when specific apps open or close. Colour comes back only for the handful of apps where it carries real information.
 
-## Fichamento
+## Reading notes
 
 - Greyscale mode has a real usability cost: reading a map's route, for instance, gets noticeably harder without colour.
 - The automations trigger on app open and app close, and Hemmert stresses adding the "close" trigger too, or the phone stays in colour mode after you leave the app.

@@ -21,7 +21,7 @@ Alex Ewerlöf expected the jump from Staff Engineer to Senior Staff Engineer to 
 
 He grounds the Staff Engineer role itself in the military use of "staff": officers who assist commanders with planning and analysis but hold no command authority over subordinates. Staff Engineers, in his reading, play the same role for engineering leaders, serving as trusted technical advisors without direct reports.
 
-## Fichamento
+## Reading notes
 
 - Staff Engineer is an individual-contributor role without people management, filling a technical gap that engineering managers responsible for larger orgs don't have time to cover themselves; he counts at least four archetypes (right hand, solver, tech lead, architect), and says he doesn't buy the value of the architect archetype specifically.
 - Moving to Senior Staff means less hands-on coding time and more time spent building trust, finding and verifying information, and accepting that other people know more than you do about any given area.

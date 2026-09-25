@@ -19,7 +19,7 @@ sources:
 
 Mihhail Lapushkin, a web developer with no prior Apple experience, spent ten years building Paper, a native text editor for Mac and iOS, alone. He avoided Electron, stayed on Objective-C after 2015, and kept the app going for a decade on a fixed monthly release cadence.
 
-## Fichamento
+## Reading notes
 
 - Chose native development over Electron to get a lighter, faster app and finer control over text handling, even though it meant learning Xcode, AppKit, and Objective-C from zero.
 - Picked Objective-C over Swift in 2015 after comparing compiled app sizes: an empty Swift project embedded a 5MB runtime, the Objective-C equivalent stayed under 100KB.

@@ -21,7 +21,7 @@ Alex Ewerlöf put the question to a friend who is CTO at a mid-size company (500
 
 The piece then complicates its own premise. A second voice, an engineering manager, raises the risk that comes with a technical leader having a strong opinion: engineers may implement a manager's bad idea, or approve their pull request, out of fear for their performance review rather than conviction that it's right.
 
-## Fichamento
+## Reading notes
 
 - The CTO keeps current by learning directly from his team, reading RFCs and ADRs, joining architecture reviews and forums, following Slack conversations, and having casual conversations at engineers' desks, rather than writing production code.
 - He frames the goal as knowing enough to make or support decisions, connect technical work to business objectives, and understand his team's challenges firsthand, not the same depth a full-time engineer holds.

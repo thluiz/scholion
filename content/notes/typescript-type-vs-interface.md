@@ -18,7 +18,7 @@ Anatoly Nevzorov's distinction: `interface` can be reopened and merged across de
 
 In his own account, on large codebases interfaces compile faster and give smoother autocomplete, while complex union types can slow the TypeScript server down.
 
-## Fichamento
+## Reading notes
 
 - Declaring the same `interface` twice merges the members into one type (`interface Cat { meow }` plus a later `interface Cat { purr }` gives a `Cat` with both). Declaring the same `type` twice throws a compiler error instead.
 - Type aliases cover unions (`'loading' | 'success' | 'error'`), tuples (`[number, number]`), and conditional types (`T | null | undefined`), none of which an interface can express.

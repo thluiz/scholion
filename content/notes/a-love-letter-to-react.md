@@ -2,8 +2,8 @@
 title: "A love letter to React"
 date: '2026-09-25T08:46:40+01:00'
 category: webclip
-summary: 'O texto diz que React influenciou o LiveView e o Phoenix ao mostrar um modelo de componentes reativos, a colocation entre markup e código, componentes HTML-aware e otimizações de diffs no servidor e no cliente.'
-tags: ["react", "phoenix", "liveview", "frontend"]
+summary: 'The text says that React influenced LiveView and Phoenix by showing a model of reactive components, colocation between markup and code, HTML-aware components, and diff optimizations on the server and the client.'
+tags: ["react","phoenix","liveview","frontend"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -15,17 +15,17 @@ sources:
     kind: repo
 ---
 
-React é apresentado como a base de várias escolhas do Phoenix e do LiveView. O texto destaca o modelo de componente reativo, a colocação conjunta de markup e código, e a adoção de componentes HTML-aware e slots para montar interfaces mais extensíveis.
+React is presented as the basis for several Phoenix and LiveView choices. The text highlights the reactive component model, the joint placement of markup and code, and the adoption of HTML-aware components and slots to build more extensible interfaces.
 
-## Fichamento
+## Reading notes
 
-- React mostrou um modelo de componentes simples de entender, com estado e renderização que se refaz quando o estado muda.
-- O LiveView levou esse modelo para um processo com estado no servidor.
-- A colocação de HTML junto com o código da aplicação é descrita como uma decisão correta porque reúne partes fortemente acopladas.
-- O texto defende que, se duas partes do código mudam juntas, elas devem viver juntas.
-- Componentes HTML-aware e JSX são apresentados como uma forma de manter a estrutura do markup legível e de permitir composição natural entre tags estáticas e componentes dinâmicos.
-- Slots e componentes funcionais no Phoenix são usados como uma resposta ao problema de criar componentes reutilizáveis e extensíveis sem esconder a estrutura HTML.
-- O texto afirma que o Phoenix adota diffs eficientes no servidor, enviando só as partes dinâmicas que mudaram.
-- No cliente, o texto menciona o uso de morphdom para aplicar apenas os patches mínimos no DOM.
-- A influência de React aparece também no backend, com frameworks como o Blade sendo citados como exemplos de engines HTML-aware.
-- O texto encerra defendendo que, em 2022, frameworks de backend deveriam seguir essa direção.
+- React showed a simple-to-understand component model, with state and rendering that is redone when state changes.
+- LiveView brought this model into a process with state on the server.
+- Placing HTML together with application code is described as the correct decision because it brings together tightly coupled parts.
+- The text argues that if two parts of the code change together, they should live together.
+- HTML-aware components and JSX are presented as a way to keep the markup structure readable and to allow natural composition between static tags and dynamic components.
+- Slots and functional components in Phoenix are used as a response to the problem of creating reusable and extensible components without hiding the HTML structure.
+- The text states that Phoenix adopts efficient diffs on the server, sending only the dynamic parts that changed.
+- On the client, the text mentions the use of morphdom to apply only the minimum patches to the DOM.
+- The influence of React also appears in the backend, with frameworks like Blade being cited as examples of HTML-aware engines.
+- The text ends by arguing that, in 2022, backend frameworks should follow this direction.

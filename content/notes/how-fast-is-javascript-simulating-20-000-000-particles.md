@@ -2,8 +2,8 @@
 title: "how fast is javascript? Simulating 20,000,000 particles"
 date: '2026-09-25T08:01:04+01:00'
 category: webclip
-summary: 'O texto mostra, passo a passo, como a simulação em JavaScript melhora ao usar TypedArrays, SharedArrayBuffers, web workers, double buffering e um shader final para chegar a 20 milhões de partículas.'
-tags: ["javascript", "sharedarraybuffer", "web-workers", "particle-simulation"]
+summary: 'The text shows, step by step, how the JavaScript simulation improves by using TypedArrays, SharedArrayBuffers, web workers, double buffering, and a final shader to reach 20 million particles.'
+tags: ["javascript","sharedarraybuffer","web-workers","particle-simulation"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,26 +19,26 @@ The page follows a particle simulation in JavaScript from a simple single-thread
 
 The later versions change the bottleneck from rendering on the main thread to memory access and buffer accumulation. In the final comparison, the simulation stays on the CPU but rendering uses a full-screen quad with a texture based on particle counts, which lets the project reach 20,000,000 particles on an M1 Mac and scale better with more CPU cores.
 
-## Fichamento
+## Reading notes
 
-- A meta inicial é simular 1.000.000 de partículas em JavaScript puro, a 60 fps, em um celular e usando só a CPU.
-- O texto rejeita a solução baseada em GPU e também evita WebAssembly, para manter o trabalho em JavaScript.
-- A primeira ideia usa array de objetos, mas o autor passa a preferir dados contíguos e compactos na memória.
-- TypedArrays entram como alternativa para guardar os dados das partículas em um buffer plano e contíguo.
-- O primeiro desenho divide o trabalho entre vários web workers com SharedArrayBuffer e uma sinalização compartilhada.
-- Cada partícula passa a ter x, y, dx e dy, armazenados como números de ponto flutuante de 32 bits.
-- A renderização inicial usa ImageData no canvas, com cada partícula ocupando um pixel.
-- O autor observa que a maior parte do tempo vai para desenhar as partículas no thread principal, e não para a simulação nos workers.
-- A segunda versão adiciona entrada do mouse e toque ao buffer de simulação para puxar as partículas para o ponto tocado.
-- A força usada na interação é baseada em uma aproximação da gravidade com distância ao quadrado no denominador, mas ajustada para produzir um efeito mais interessante.
-- A terceira versão leva a renderização para os workers, mas isso cria flickering porque os workers limpam buffers enquanto o thread principal lê os mesmos dados.
-- A quarta versão corrige o flickering fazendo o thread principal esperar os workers terminarem antes de renderizar.
-- A quinta versão usa double buffering para permitir que os workers preparem um buffer enquanto o thread principal desenha o outro.
-- O texto explica que o acesso aos pixels fica lento porque o padrão de leitura é pouco contíguo e causa cache misses.
-- O autor conclui que a quantidade de dados excede o que cabe em cache, o que limita o ganho de performance.
-- Na sexta versão, cada partícula guarda também sua posição inicial, e a simulação passa a puxá-la de volta para esse ponto, produzindo um efeito de fluido ou gelatina.
-- Na sétima versão, o buffer de pixels é substituído por uma grade com a contagem de partículas por pixel, reduzindo memória e pressão sobre o cache.
-- O texto compara o desempenho de chips Apple e Ryzen e relaciona a diferença ao tamanho do cache L1.
-- Na comparação final, o autor mostra que instancing em three.js ainda sofre com o custo de enviar dados da simulação para a GPU a cada frame.
-- A solução final usa a grade de contagem como textura e desenha um quad de tela cheia com shader, mantendo os dados enviados à GPU fixos no tamanho da resolução.
-- O resultado final alcança 20 milhões de partículas em um M1 Mac por volta de 20 fps, com escala melhor em CPUs com mais núcleos.
+- The initial goal is to simulate 1,000,000 particles in pure JavaScript, at 60 fps, on a cell phone and using only the CPU.
+- The text rejects the GPU-based solution and also avoids WebAssembly, to keep the work in JavaScript.
+- The first idea uses an array of objects, but the author begins to prefer contiguous and compact data in memory.
+- TypedArrays enter as an alternative to store particle data in a flat and contiguous buffer.
+- The first design divides the work among several web workers with SharedArrayBuffer and shared signaling.
+- Each particle now has x, y, dx, and dy, stored as 32-bit floating-point numbers.
+- The initial rendering uses ImageData on the canvas, with each particle occupying one pixel.
+- The author observes that most of the time goes into drawing the particles on the main thread, and not into the simulation in the workers.
+- The second version adds mouse and touch input to the simulation buffer to pull the particles toward the touched point.
+- The force used in the interaction is based on an approximation of gravity with distance squared in the denominator, but adjusted to produce a more interesting effect.
+- The third version moves rendering to the workers, but this creates flickering because the workers clear buffers while the main thread reads the same data.
+- The fourth version fixes the flickering by making the main thread wait for the workers to finish before rendering.
+- The fifth version uses double buffering to allow the workers to prepare one buffer while the main thread draws the other.
+- The text explains that pixel access becomes slow because the reading pattern is not very contiguous and causes cache misses.
+- The author concludes that the amount of data exceeds what fits in cache, which limits the performance gain.
+- In the sixth version, each particle also stores its initial position, and the simulation starts pulling it back to that point, producing a fluid or jelly effect.
+- In the seventh version, the pixel buffer is replaced by a grid with the count of particles per pixel, reducing memory and pressure on the cache.
+- The text compares the performance of Apple and Ryzen chips and relates the difference to the size of the L1 cache.
+- In the final comparison, the author shows that instancing in three.js still suffers from the cost of sending simulation data to the GPU every frame.
+- The final solution uses the count grid as a texture and draws a full-screen quad with a shader, keeping the data sent to the GPU fixed at the resolution size.
+- The final result reaches 20 million particles on an M1 Mac at around 20 fps, with better scaling on CPUs with more cores.

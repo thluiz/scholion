@@ -20,7 +20,7 @@ sources:
 
 Julian Lehr pushes back on the idea, common among tech analysts in 2020, that AirPods were about to become the next big technology platform. Lehr defines a platform as something others can build on, with flywheel network effects between users and developers. By that definition, AirPods at the time were just hardware. They exposed no APIs and offered no unique input or output a developer could hook into.
 
-## Fichamento
+## Reading notes
 
 - Features like Active Noise Cancellation aren't platform features because developers have no control over them; any other headphones can serve the same audio apps.
 - Opening Siri to third-party developers would make Siri the platform: voice works as a cross-device meta-layer rather than a single-device interface, and Apple has every reason to keep Siri available everywhere rather than lock it to AirPods.

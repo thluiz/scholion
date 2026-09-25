@@ -2,8 +2,8 @@
 title: "Your virtual assistant is a partner, not an employee"
 date: '2026-09-24T22:05:17+01:00'
 category: webclip
-summary: 'O texto defende que o assistente virtual deve ser tratado como parceiro profissional, com relação de longo prazo, clareza sobre seu conhecimento e uso para apresentações, pesquisa e marketing.'
-tags: ["assistente-virtual", "relacoes-profissionais", "marketing"]
+summary: 'The text argues that virtual assistants are often underestimated and should be treated as business partners rather than employees. It says they are entrepreneurs too and may know as much about running a business as the client does.'
+tags: ["voice-assistant", "professional-relations", "marketing"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,7 +19,7 @@ The text argues that virtual assistants are often underestimated and should be t
 
 It recommends building a long-term rapport, being clear about what they know, and using them beyond routine administrative tasks. The examples given are graphical presentations, research into target markets, and help with marketing plans, ads, campaign tracking, and customer feedback.
 
-## Fichamento
+## Reading notes
 
 - Virtual assistants are presented as valuable business relationships that are often underestimated by entrepreneurs.
 - The text says they should be seen as entrepreneurs with skills and qualifications similar to those of the people who hire them.

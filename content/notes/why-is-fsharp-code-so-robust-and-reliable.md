@@ -3,7 +3,7 @@ title: "Why is F# code so robust and reliable?"
 date: '2026-09-25T07:58:14+01:00'
 category: webclip
 summary: 'The post argues that F# reduces bugs through immutability, exhaustive matching, no nulls by default, explicit errors, typed primitives, and explicit dependencies in functional code.'
-tags: ["fsharp", "robustez-de-codigo", "programacao-funcional", "dotnet"]
+tags: ["fsharp", "code-robustness", "functional-programming", "dotnet"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,16 +17,16 @@ sources:
 
 The post says Access Softek used F# for EasyCoin after years of bugs in C# and .NET work. It attributes the low bug count in production to language features that make state, errors, dependencies, and concurrency more explicit.
 
-## Fichamento
+## Reading notes
 
-- Valores e records são imutáveis por padrão, o que ajuda na previsibilidade do código e na segurança em concorrência.
-- Discriminated unions com `match` exaustivo fazem o compilador avisar quando um caso ainda não foi tratado.
-- O uso de `null` não é o padrão; valores ausentes são tratados com `Option<'T>`, o que obriga a lidar explicitamente com `Some` e `None`.
-- Erros na lógica de negócio devem ser tratados com `Result<'T>` ou com DUs específicas, em vez de exceções customizadas no meio da transação.
-- Em F#, variáveis, funções, tipos e arquivos só podem depender do que foi definido antes, o que evita dependências circulares e deixa claro o que depende do quê.
-- O compilador avisa sobre resultados de expressões não usados, o que chama atenção para casos que poderiam passar despercebidos.
-- Primitivos tipados com units of measure ajudam a distinguir tipos parecidos, como IDs diferentes, sem custo em runtime.
-- Conversões implícitas não são aceitas; conversões explícitas reduzem erros de tipo e problemas em interpolação de strings.
-- A concorrência pode ser modelada com atores e mensagens, usando `MailboxProcessor<'Msg>` ou Channels.
-- A injeção de dependência é feita por argumentos explícitos, o que permite verificação em tempo de compilação e facilita testes.
-- O texto também menciona SQL, HTML, IaC e parâmetros de rota tipados, além de transpilers do projeto Fable para JavaScript e Python.
+- Values and records are immutable by default, which helps with code predictability and concurrency safety.
+- Discriminated unions with exhaustive `match` make the compiler warn when a case has not yet been handled.
+- The use of `null` is not the default; missing values are handled with `Option<'T>`, which forces explicit handling of `Some` and `None`.
+- Errors in business logic should be handled with `Result<'T>` or with specific DUs, instead of custom exceptions in the middle of the transaction.
+- In F#, variables, functions, types, and files can only depend on what was defined before, which avoids circular dependencies and makes clear what depends on what.
+- The compiler warns about unused expression results, which draws attention to cases that could go unnoticed.
+- Typed primitives with units of measure help distinguish similar types, such as different IDs, at no runtime cost.
+- Implicit conversions are not accepted; explicit conversions reduce type errors and problems in string interpolation.
+- Concurrency can be modeled with actors and messages, using `MailboxProcessor<'Msg>` or Channels.
+- Dependency injection is done through explicit arguments, which allows compile-time checking and makes testing easier.
+- The text also mentions SQL, HTML, IaC, and typed route parameters, as well as transpilers from the Fable project to JavaScript and Python.

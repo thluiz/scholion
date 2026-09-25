@@ -21,7 +21,7 @@ Bart Wullems, writing from his experience as a software architect, describes a p
 
 He borrows James Clear's framing from Atomic Habits, arguing that lasting change comes from shifting identity. For a developer, that means moving from "I need to write unit tests" to "I am the kind of developer who always writes unit tests."
 
-## Fichamento
+## Reading notes
 
 - The gap between knowing best practices and following them under deadline pressure is framed as an identity problem.
 - Small, consistent actions (writing code daily, even for five minutes, reading documentation, contributing to open source) work as reinforcement, each one framed as a vote for the identity the developer wants to hold.

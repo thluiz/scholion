@@ -19,7 +19,7 @@ The text says AI tools in 2026 let developers create far more code, but they do 
 
 It describes a shift from measuring value by output to valuing subtraction. The author calls out features built “just in case,” unused abstractions, and one-off utilities as forms of digital hoarding, and says the best engineers are the ones who delete modules, remove libraries, and solve problems without code.
 
-## Fichamento
+## Reading notes
 
 - AI tools let a junior developer generate more code in an afternoon than a senior used to write in a month, but maintenance costs remain.
 - The text treats code as a liability because every line creates work for testing, debugging, security, updates, and later reading.

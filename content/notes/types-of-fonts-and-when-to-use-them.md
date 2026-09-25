@@ -22,7 +22,7 @@ Olga Dmytryshyna sorts typography into four families: serif, sans-serif, script,
 
 The rest of the piece works through combining fonts without breaking readability: how many to use, how to build contrast between them, and how to check that a pairing still holds up on small screens and for readers with visual impairments.
 
-## Fichamento
+## Reading notes
 
 - Serif fonts carry the small lines at letter edges that give them their look, and read as historical and trustworthy. The New York Times uses serif type across headings and body text to reinforce that impression.
 - Sans-serif fonts, developed by German designers in the mid-20th century (Futura, Helvetica among the best known), adapt more easily across screen sizes and resolutions. Ikea uses sans-serif for a clean, minimal brand identity.

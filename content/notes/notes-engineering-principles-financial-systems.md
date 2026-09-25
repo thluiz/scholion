@@ -21,7 +21,7 @@ Tamás Sallai's notes reduce financial systems to three goals: accurate, auditab
 
 The pattern extends past finance. Any system carrying a running counter can drift the same way. A reference count enforcing a foreign key in DynamoDB, for instance, can go out of sync until it blocks deletion of the parent entity, and someone fixes it by hand.
 
-## Fichamento
+## Reading notes
 
 - The three goals of an accounting system: accurate, auditable, timely.
 - Summation bugs are dangerous because they're invisible at the single-transaction scale; everything "works" until the error has compounded enough to show.

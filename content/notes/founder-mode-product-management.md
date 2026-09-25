@@ -21,7 +21,7 @@ Joel Polanco traces "founder mode" back to Paul Graham's post, itself built on a
 
 Polanco's own definition treats founder mode as semi-autocratic leadership focused on a company's mission and the external problems it's solving, as opposed to manager mode's laissez-faire delegation through a chain of command toward OKRs and revenue targets. He roots the split in the principal-agent problem from economics: a hired manager, lacking the founder's ownership stake and original motivation, will always make a different set of decisions than the founder would have.
 
-## Fichamento
+## Reading notes
 
 - Product leaders quoted in the piece split roughly into camps. Marty Cagan warns against confusing founder mode with micromanagement; Thomas Catnach says it depends entirely on whether the specific founder has product sense; Dare Obasanjo argues results should be judged over how compelling the leadership style sounds.
 - Founder mode's risk, per the piece, isn't just burnout from trying to be everywhere. If the founder hasn't built real product and execution skills, being maximally hands-on doesn't rescue the company.

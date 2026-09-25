@@ -3,7 +3,7 @@ title: "Chekhov’s Gun: If you show a gun, fire it"
 date: '2026-09-24T22:26:00+01:00'
 category: webclip
 summary: 'The post uses a product-demo example to argue that if you show a tool, it should be useful soon and relevant to customer needs, just as Chekhov’s Gun says story elements should pay off.'
-tags: ["chekhovs-gun", "product-demo", "customer-needs"]
+tags: ["chekhovs-gun","product-demo","customer-needs"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,12 +19,12 @@ The author says he tends to suggest things that are ahead of current circumstanc
 
 The post then applies Chekhov’s Gun to product work. If a tool is shown, it should be ready to be used and should solve something the customer actually needs, otherwise it becomes a promise the team does not intend to keep.
 
-## Fichamento
+## Reading notes
 
-- O autor se descreve como alguém entusiasmado que costuma propor ideias antes do momento certo, enquanto o cofundador o traz de volta aos primeiros princípios.
-- Na discussão sobre o produto da Valinor Earth, o autor queria demonstrar ferramentas que ainda não estavam prontas.
-- O cofundador alerta que mostrar algo antes da hora pode criar expectativas difíceis de cumprir depois.
-- O texto diz que elogios do cliente às ferramentas, por si só, são pouco úteis para avaliar se elas resolvem o problema.
-- A ideia central é que, se um recurso for mostrado, ele deve poder ser usado e precisa ser relevante para a necessidade do cliente.
-- O princípio de Chekhov é apresentado como a regra de que todo elemento de uma história deve ser necessário e não deve criar falsas promessas.
-- O texto também lembra que, se um rifle aparece na história, ele precisa disparar mais adiante; caso contrário, não deveria estar ali.
+- The author describes himself as enthusiastic and as someone who often proposes ideas before the right time, while the co-founder brings him back to first principles.
+- In the discussion about Valinor Earth’s product, the author wanted to demonstrate tools that were not ready yet.
+- The co-founder warns that showing something too early can create expectations that are hard to fulfill later.
+- The text says that customer praise for tools, by itself, is not very useful for evaluating whether they solve the problem.
+- The central idea is that, if a feature is shown, it should be usable and must be relevant to the customer’s need.
+- Chekhov’s principle is presented as the rule that every element in a story must be necessary and should not create false promises.
+- The text also reminds us that, if a rifle appears in the story, it needs to fire later; otherwise, it should not be there.

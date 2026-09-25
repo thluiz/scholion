@@ -22,7 +22,7 @@ Bradley Matera compares AWS, Azure, and Google Cloud Platform free tiers across 
 
 The compute comparison favors GCP's e2-micro for longevity, since the offer never expires, against AWS's stronger but time-limited t3.micro and Azure's weaker, interface-heavy B1s. On databases, AWS RDS gives a real managed SQL database for a year, Azure gives 250GB free but only on SQL Server, and GCP's free tier favors Firestore, a NoSQL database, over a managed relational option. Scholion's own [S3 + CloudFront as the default for static sites](/notes/s3-cloudfront-default-site-estatico/) covers the same AWS-versus-Azure trade-off from the deploy side, after migrating away from Azure Static Web Apps.
 
-## Fichamento
+## Reading notes
 
 - AWS's free-tier philosophy: get developers hooked on proprietary tools (RDS, S3, IAM) during the free 12 months, so the switching cost is too high once billing starts.
 - Azure's free-tier philosophy: front-load $200 in credits to demonstrate enterprise-grade power, betting that developers will push for company-wide adoption later.

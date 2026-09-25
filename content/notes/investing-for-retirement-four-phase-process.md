@@ -19,7 +19,7 @@ sources:
 
 Financial planner Michael Kitces breaks retirement saving into four phases instead of treating it as one continuous behavior, since income, spending, and the capacity to save shift throughout a person's life.
 
-## Fichamento
+## Reading notes
 
 - The four phases, in order: earning more money, saving more money, growing the savings, and preserving the resulting nest egg.
 - Traditional investing advice tends to assume a lump sum is available to invest right away; Kitces's framing fits the more common case of building capacity over years.

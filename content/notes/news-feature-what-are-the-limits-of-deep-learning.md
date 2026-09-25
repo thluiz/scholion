@@ -22,7 +22,7 @@ M Mitchell Waldrop's 2019 PNAS piece opens with a deep-learning image classifier
 
 The piece traces deep learning's roots to the 1980s "brain wars" between symbolic AI (rule-based, good at structured reasoning) and connectionist neural networks (better with noisy input, worse at fluid real-world reasoning). Three 2018-era attempts at fixing the gaps close the piece: DeepMind's multi-task training experiments, its two-network Generative Query Network architecture, and graph networks that represent objects and relations instead of raw pixels.
 
-## Fichamento
+## Reading notes
 
 - Adversarial attacks (a sticker that flips a banana into a toaster in the AI's output) show how far pattern recognition is from human-level robustness, per Hinton and the Google Brain team that documented the effect.
 - Deep learning is data-inefficient by comparison to a child: a system often needs a concept repeated thousands of times where a child needs one or two.

@@ -3,7 +3,7 @@ title: "How to make your time at a Coding Bootcamp work for you after you've lef
 date: '2026-09-25T00:27:00+01:00'
 category: webclip
 summary: 'The post says bootcamp value depends on what you do after graduation: plan for a longer job search, keep practicing, use your full background, apply with purpose, network, and accept different timelines.'
-tags: ["coding-bootcamp", "job-search", "networking", "career-change"]
+tags: ["coding-bootcamp","job-search","networking","career-change"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,11 +17,11 @@ sources:
 
 The post argues that bootcamp only pays off after you leave if you prepare for the job search, keep coding on your own, and apply with purpose. It says your past experience can make you marketable, networking is easier than it seems, and each person's timeline is different.
 
-## Fichamento
+## Reading notes
 
-- Planejar o período depois do bootcamp importa tanto quanto fazer o curso, porque a busca por trabalho pode demorar mais do que o esperado e talvez seja preciso aceitar trabalhos fora da área sem perder o foco.
-- Continuar praticando por conta própria é parte central do aprendizado, já que o bootcamp oferece uma introdução e o avanço vem da capacidade de se ensinar e seguir descobrindo o que se gosta.
-- O texto diz que o passado profissional e acadêmico pode fortalecer o currículo, porque experiências variadas ajudam na entrevista e podem mostrar valor de um jeito que não aparece numa tentativa de parecer apenas um desenvolvedor.
-- Aplicar com propósito envolve definir o que se quer, o que se aceita e o que se descarta, para evitar perder tempo com vagas que não combinam com o objetivo.
-- Networking aparece como algo mais simples e útil do que parece, porque conecta com outras pessoas da área e costuma acontecer em eventos, conversas sobre código e espaços com outras pessoas que trabalham com isso.
-- A jornada de cada pessoa é diferente, então comparar o próprio tempo com o de outras pessoas só atrapalha; às vezes o processo leva meses, e fazer pausa também pode ajudar.
+- Planning for the period after bootcamp matters as much as taking the course, because the job search can take longer than expected and it may be necessary to accept jobs outside the field without losing focus.
+- Continuing to practice on your own is a central part of learning, since the bootcamp offers an introduction and progress comes from the ability to teach yourself and keep discovering what you like.
+- The text says that professional and academic background can strengthen a resume, because varied experiences help in interviews and can show value in a way that does not appear in an attempt to seem like just a developer.
+- Applying with purpose involves defining what you want, what you accept, and what you reject, to avoid wasting time on openings that do not match the goal.
+- Networking appears as something simpler and more useful than it seems, because it connects with other people in the field and usually happens at events, coding conversations, and spaces with other people who work with this.
+- Each person's journey is different, so comparing your own timing with other people's only gets in the way; sometimes the process takes months, and taking a break can also help.

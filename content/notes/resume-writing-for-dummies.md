@@ -17,7 +17,7 @@ sources:
 
 The post argues that a resume should help a hiring manager quickly understand a candidate by being legible, concise, and tailored to the job. It also says first-time applicants should use a cover letter to show interest in the employer and explain relevant experience.
 
-## Fichamento
+## Reading notes
 
 - A resume should be clear, readable, and articulate so it helps the hiring manager.
 - A covering letter can help first-timers and freshers show interest in the company and mention relevant experience.

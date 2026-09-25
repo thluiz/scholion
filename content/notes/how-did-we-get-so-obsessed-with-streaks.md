@@ -22,7 +22,7 @@ Anne Helen Petersen interviews Adrian Hon, co-founder of the game studio Six to 
 
 Hon's sharpest point is about what good gamification requires that bad gamification skips: it has to actually be fun, using real game design rather than just layering points and leaderboards onto an unappealing task. He traces the deeper failure to what he calls "soft lock," a video game term for a state where you haven't failed but can't progress either. He argues corporate gamification manufactures a version of this in real life: streaks and progress bars that provide only the illusion of forward motion while the underlying material conditions of a person's life stay exactly the same, and unlike an actual video game, there's no save file to restore and no human at the other end of the interface.
 
-## Fichamento
+## Reading notes
 
 - Hon's dividing line for gamification: whether a human being stays in the loop to adjust goals and use judgment (a parent's marble system, a swim instructor deciding a lap counts) versus when a fixed algorithm enforces the goal with no possibility of exception.
 - He argues scaled digital gamification quietly substitutes a corporation's goals (engagement, profit) for the user's own goals, and cites Apple Watch "close your rings" notifications and Duolingo's late-night XP alerts as examples designed to produce FOMO rather than serve the user.

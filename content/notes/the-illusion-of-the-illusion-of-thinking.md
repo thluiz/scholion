@@ -21,7 +21,7 @@ C. Opus and A. Lawsen respond to Shojaee et al.'s "The Illusion of Thinking," a 
 
 The sharper problem sits in the River Crossing benchmark. Shojaee et al. tested configurations with six or more agents and boat capacity three, a combination with no valid solution at all. Models that correctly recognized the puzzle as unsolvable were scored as failures anyway.
 
-## Fichamento
+## Reading notes
 
 - Models solving Tower of Hanoi explicitly stated they were stopping early to avoid excessive output length, which the original study's automated grading counted as a reasoning failure rather than a practical constraint.
 - Given the token budgets used (64,000 for Claude 3.7 Sonnet and DeepSeek-R1, 100,000 for o3-mini) and roughly 5 tokens per move, the math predicts collapse right around N=7–8, matching the reported failure points.

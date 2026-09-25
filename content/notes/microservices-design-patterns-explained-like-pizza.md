@@ -17,7 +17,7 @@ sources:
 
 The article uses a pizza shop analogy to explain 11 microservices design patterns. It presents each pattern as a way to keep services focused, coordinate requests, isolate failures, manage data, and adapt older systems into microservices.
 
-## Fichamento
+## Reading notes
 
 - The Single Responsibility Pattern keeps each service focused on one job, like a pepperoni specialist.
 - The API Gateway Pattern gives clients one entry point that gathers requests for multiple services.

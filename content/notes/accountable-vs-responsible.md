@@ -21,7 +21,7 @@ Alex Ewerlöf treated responsibility and accountability as synonyms until reader
 
 He works through several framings: the RACI matrix, where Accountable can only be one person who signs off on work the Responsible party does; the legal sense, where responsibility is a factual cause/effect relationship while accountability (liability) carries punishment; and the military sense, where accountability means both positive and negative consequences tied to a chain of command.
 
-## Fichamento
+## Reading notes
 
 - His core claim is that most organizations don't need to separate accountability from responsibility; when they insist on the split, it usually signals a deeper cultural problem rather than a terminology gap.
 - He lists the people who tend to push for the separation: managers who want unilateral control, upper management looking for someone to blame without understanding the details, and team members avoiding consequences for their own actions.

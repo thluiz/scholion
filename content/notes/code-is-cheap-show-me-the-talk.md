@@ -18,7 +18,7 @@ Kailash Nadh flips Linus Torvalds's famous line from 2000. Talk used to be cheap
 
 The reversal changes what counts as evidence of a good developer, a good codebase, and even what FOSS collaboration is for. It also has a cost: juniors who lean on LLMs before building their own fundamentals risk becoming dependent on a tool they don't understand, with fewer seniors around who still have a reason to teach them.
 
-## Fichamento
+## Reading notes
 
 - The old rule-of-thumb signals for judging a codebase or a FOSS project (tidy documentation, a clear README, consistent style and comments) no longer say much about quality, since LLMs can produce all of that instantly regardless of who's behind the keyboard.
 - Work that used to take weeks or months now takes hours; the physiological and cognitive cost of producing software has dropped by orders of magnitude, freeing time for architecture and thinking instead of typing.

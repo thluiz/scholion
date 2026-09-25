@@ -19,7 +19,7 @@ sources:
 
 "Palindrome" comes from the Greek for "running back again," and the device shows up in Latin, Hebrew, and Sanskrit as far back as 79 AD. English poet John Taylor was among the first to write one deliberately, with "Lewd did I live, & evil I did dwel." The Guinness Book of World Records started tracking the longest palindrome in 1971, when the record stood at 242 words; by 1980 it had grown to 11,125.
 
-## Fichamento
+## Reading notes
 
 - The Guinness-recognized longest English palindrome is "detartrated," a chemistry term with 11 letters, modest next to two 25-letter Finnish palindromes.
 - James Joyce coined "tattarrattat" in Ulysses, an onomatopoeia for someone knocking on a door, which the Oxford English Dictionary lists as the longest palindromic English word.

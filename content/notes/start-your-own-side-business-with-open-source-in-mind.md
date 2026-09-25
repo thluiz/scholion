@@ -17,7 +17,7 @@ sources:
 
 The author says they started a DevRel advisory business and built a simple website quickly, with static parts set up in less than two days. The post walks through the tools used for hosting, site building, contact forms, scheduling, and real-time calls.
 
-## Fichamento
+## Reading notes
 
 - The site is built around open-source tools and a simple stack that can be expanded over time.
 - Vercel is used for hosting and deployment, including domain connection and CI/CD.

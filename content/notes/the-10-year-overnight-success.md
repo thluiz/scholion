@@ -3,7 +3,7 @@ title: "The 10-Year Overnight Success"
 date: '2026-09-24T22:57:35+01:00'
 category: webclip
 summary: 'Apostar no “sucesso overnight” distorce o tempo real do crescimento. O texto defende que resultados explosivos vêm de anos invisíveis de tentativa, falha, persistência e compounding.'
-tags: ["compounding", "persistencia", "startup"]
+tags: ["compounding", "persistence", "startup"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,7 +19,7 @@ The text argues that overnight success is a misleading idea in business. What lo
 
 It says media stories compress long timelines into neat arcs and hide the middle years, which are the substance of the story. The same pattern appears in companies, careers, art, literature, music, and science, where the breakout moment is followed by a rewritten narrative.
 
-## Fichamento
+## Reading notes
 
 - “Overnight success” is presented as a misleading label because it hides a long, mostly invisible process of experiments, failures, dead ends, and small gains.
 - Media narratives compress long periods into a simple before-and-after story and leave out the years in between.

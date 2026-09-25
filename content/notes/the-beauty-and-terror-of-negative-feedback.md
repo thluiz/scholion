@@ -19,7 +19,7 @@ sources:
 
 Amanda Mayfield's first conference talk went well by her own account, until an anonymous review landed at a bare 4/10 with no explanation attached. The low score touched an insecurity she'd carried since planning the talk: her accessibility strategy was to read the presentation content explicitly, so hard-of-hearing and visually impaired attendees could follow along, and she'd already worried in private that the choice made the delivery too literal.
 
-## Fichamento
+## Reading notes
 
 - The talk drew mostly positive feedback, including one thoughtful 7/10 review with critiques she agreed with, before the anonymous 4/10 arrived.
 - Vague feedback from someone she doesn't know, with no way to ask a follow-up question, is what she struggles with most. More than criticism from people she knows and respects.

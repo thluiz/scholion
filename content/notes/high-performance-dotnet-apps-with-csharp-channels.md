@@ -21,7 +21,7 @@ C# Channels, from `System.Threading.Channels`, connect a Writer and a Reader acr
 
 A background processor pattern reads from `channel.Reader.ReadAllAsync()` in a loop inside a `BackgroundService`, which ends once the producer calls `.Writer.Complete()`. The post applies this to a write-back caching strategy for a shopping cart: writes land in the cache immediately and get pushed as an event onto a bounded channel, while a separate background service drains that channel and persists the cart to the database, giving fast writes during traffic spikes while the database catches up asynchronously.
 
-## Fichamento
+## Reading notes
 
 - Bounded channels make the producer wait once the channel is full, useful for backpressure when a consumer might lag behind a bursty producer.
 - Unbounded channels never block the producer, which only makes sense when the data rate is reliably low; otherwise memory can run out.

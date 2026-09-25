@@ -17,7 +17,7 @@ sources:
 
 Default interface implementations in C# let interfaces ship methods with default bodies, which helps API evolution but can hide tricky behavior when inheritance enters the picture. The article shows a service that returns the interface default after a base class is added, even though the concrete class still defines the method.
 
-## Fichamento
+## Reading notes
 
 - Default interface implementations were introduced in C# 8.0 and let interfaces define methods with default bodies.
 - The feature helps add methods without breaking existing implementations and improves interoperation with platforms like Android and iOS.

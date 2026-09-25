@@ -2,8 +2,8 @@
 title: "How content creation helped me land my first tech job?"
 date: '2026-09-24T23:54:28+01:00'
 category: webclip
-summary: 'O autor conta que, após muitas candidaturas sem retorno, passou a criar e compartilhar conteúdo online; isso atraiu um empregador, gerou uma vaga e levou a uma transição para front-end.'
-tags: ["content-creation", "job-search", "tech-career"]
+summary: 'The author says that after many applications with no response, he started creating and sharing content online; this attracted an employer, created a job opportunity, and led to a transition to front-end.'
+tags: ["content-creation","job-search","tech-career"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,13 +19,13 @@ The author says that applying for many jobs brought no reply, so he shifted to c
 
 That choice led to a call from an employer who found his work online. He created a video for the company’s product, was hired as a Support Engineer, and two months later moved to a front-end developer role. He also suggests simple ways to begin content creation, such as videos, blogging, tweeting, and writing about projects, problems solved, daily learning, books, or new tech.
 
-## Fichamento
+## Reading notes
 
-- O autor relata que a busca tradicional por emprego trouxe muitas candidaturas sem retorno e poucas chamadas para avaliação.
-- Ele passou a criar vídeos no YouTube e artigos, além de compartilhar tudo no Twitter, enquanto fazia projetos freelance.
-- Um empregador encontrou seu trabalho online e entrou em contato com ele.
-- Após criar um vídeo para o produto da empresa, ele recebeu uma oferta para atuar como Support Engineer.
-- Depois de dois meses, mudou para uma vaga de front-end developer na mesma empresa.
-- O texto diz que o conteúdo pode ser vídeo, blog ou tweets, conforme o que a pessoa conseguir manter.
-- Entre os temas sugeridos estão projetos feitos, problemas resolvidos, aprendizados do dia, livros lidos e opiniões sobre novas tecnologias.
-- O autor recomenda começar e compartilhar o conteúdo em redes sociais, mesmo que seja apenas um tweet ou um artigo simples.
+- The author reports that the traditional job search brought many applications with no response and few calls for evaluation.
+- He started creating videos on YouTube and articles, in addition to sharing everything on Twitter, while doing freelance projects.
+- An employer found his work online and contacted him.
+- After creating a video for the company’s product, he received an offer to work as a Support Engineer.
+- After two months, he moved to a front-end developer position at the same company.
+- The text says that the content can be video, blog, or tweets, according to what the person can maintain.
+- Among the suggested topics are completed projects, solved problems, lessons of the day, books read, and opinions about new technologies.
+- The author recommends starting and sharing the content on social media, even if it is just a tweet or a simple article.

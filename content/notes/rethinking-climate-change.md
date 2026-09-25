@@ -17,7 +17,7 @@ sources:
 
 The page summarizes a RethinkX report arguing that current technologies can drive deep emissions cuts if policymakers choose to accelerate them. It says the biggest opportunities are in energy, transportation, and food, and that these disruptions can also lower costs, expand access to electricity, and help reach net zero and then go beyond it.
 
-## Fichamento
+## Reading notes
 
 - RethinkX released a report called “Rethinking Climate Change” about cutting emissions through disruptions in energy, transportation, and food.
 - The report says the world already has the technologies needed to reduce more than 90% of greenhouse gas emissions within 15 years.

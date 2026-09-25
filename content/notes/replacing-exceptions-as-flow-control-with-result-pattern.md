@@ -22,7 +22,7 @@ Andrew Lock opens the first post of a series on the result pattern by responding
 
 The post is a worked refactor of a hypothetical UserProvisioningService, walked through three stages to make the trade-offs concrete. The happy-path version hides its failure modes entirely: nothing signals what happens if claim validation comes back empty or tenant lookup fails. Adding exceptions for each failure case fixes that but introduces its own cost, verbose try/catch wrapping and exception types the caller has no way to discover from the method signature alone. Replacing those exceptions with a basic Result<T> class (an IsSuccess flag plus Value or Error) makes failure explicit, but Lock's first version still lets you access Value or Error incorrectly, and only avoids that at the cost of a Switch()-based version whose nested callbacks produce a "pyramid of doom" that's harder to read than either of the two versions it replaced.
 
-## Fichamento
+## Reading notes
 
 - Lock's stated case for the result pattern: exceptions are performance-expensive as ordinary control flow in .NET, and returning Result<T> instead of T makes failure conditions explicit in the method signature rather than hidden in undocumented throws.
 - He acknowledges Miller's specific complaint (Result<T> objects threaded through mediator handlers into MVC, adding abstraction) without disputing it directly, framing his own argument as about the pattern's core benefit rather than every implementation of it.

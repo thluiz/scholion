@@ -22,7 +22,7 @@ Alexandru Nedelcu asks whether programming language choice still matters once AI
 
 The hope rests on two things: a fast feedback loop for the agent, and reviewability for the human. A compiler with an expressive static type system, as in Scala, Haskell, or Rust, lets an agent iterate against real errors instead of guessing, which is why agents can produce working code even in something as fresh as Scala 3's macro system. But someone still has to read what was generated. Nedelcu names a specific risk he calls comprehension debt: agents have no persistent memory of the reasoning behind a change, so if no one on the team understands the system anymore, the project is in trouble regardless of how clean the code looks.
 
-## Fichamento
+## Reading notes
 
 - A language's popularity in AI training data is self-reinforcing: more Python in the corpus produces more working Python from agents, which produces more Python.
 - Static, expressive type systems (Scala, Haskell, Rust) give agents a faster feedback loop than unit tests alone, letting them converge on compiling code through iteration against compiler errors.

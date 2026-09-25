@@ -19,7 +19,7 @@ sources:
 
 On the Conversations with Tyler podcast, Anthropic co-founder Jack Clark says he'd buy an AI-powered bunny or teddy bear to keep his child entertained during ordinary chores. The article sets this beside OpenAI CEO Sam Altman's own public comments that he would not want an AI best friend for his son.
 
-## Fichamento
+## Reading notes
 
 - Clark's stated use case is narrow and domestic: a "smart AI friend" that keeps a child engaged while a parent is doing dishes or making dinner, something closer to an upgraded Barbie doll than a companion meant to replace human contact.
 - He frames the appeal as widely shared among parents, not a personal quirk. Most parents, he argues, would take a well-meaning AI friend that provides occasional entertainment when their child is being "very trying."

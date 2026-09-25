@@ -21,7 +21,7 @@ Moss names a pattern behind the projects that get real mileage out of coding age
 
 The argument is about where an engineer's attention goes. Without back pressure, the engineer spends their own time on trivial corrections instead of the larger problem. With it, they can hand off progressively harder tasks and trust the loop to catch mistakes before the result reaches them.
 
-## Fichamento
+## Reading notes
 
 - Agents given only file-editing tools rely on a human for every piece of feedback, which limits delegation to simple, closely supervised tasks.
 - Giving an agent a bash tool to run a build lets it read the failure and correct itself, freeing the engineer from checking syntactic correctness line by line.

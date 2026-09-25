@@ -19,7 +19,7 @@ sources:
 
 Verna has lived through cloud migration, digital transformation, mobile, SaaS and product-led growth. AI, she says, "feels 10x bigger. And 10x faster." Her core feeling is being behind, specifically the sense of possibly already operating on an outdated mental model. Growth, marketing, product management and sales, crafts she spent a decade building intuition in, are losing leverage as AI flattens the gap between someone who spent years earning judgment and someone who can produce a plausible version of the same work in minutes.
 
-## Fichamento
+## Reading notes
 
 - The specific feeling under the AI shift: "am I already operating on an outdated mental model" behind, sharper than casual "I should test that tool" behind.
 - A social dynamic underneath it: everyone performs having a system or workflow that changed their life, which discourages people from asking basic questions even though most are equally unsure.

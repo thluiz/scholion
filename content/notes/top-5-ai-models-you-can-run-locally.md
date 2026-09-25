@@ -2,8 +2,8 @@
 title: "Top 5 AI Models You Can Run Locally on Your Device"
 date: '2026-09-24T23:48:49+01:00'
 category: webclip
-summary: 'O texto defende rodar modelos de IA localmente por segurança, estabilidade e privacidade, e sugere GPT4All com cinco modelos open source para perfis e máquinas diferentes.'
-tags: ["ai-local", "gpt4all", "open-source-models", "privacy"]
+summary: 'The text argues for running AI models locally for security, stability, and privacy, and suggests GPT4All with five open source models for different profiles and machines.'
+tags: ["ai-local","gpt4all","open-source-models","privacy"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -15,17 +15,15 @@ sources:
     kind: repo
 ---
 
-The article argues that running AI models on your own device can improve security, stability, and privacy compared with using AI APIs. It recommends GPT4All as an easy cross-platform way to do this and lists five open source models with different sizes and hardware requirements.
+## Reading notes
 
-## Fichamento
-
-- Rodar modelos de IA no próprio dispositivo evita depender de servidores externos e de uma conexão de internet para acessar a IA.
-- O texto diz que muitas APIs de IA enviam mensagens em texto simples e que algumas empresas coletam dados de conversa ou fazem revisão humana de chats.
-- Para uso local, o autor escolhe o GPT4All por ser fácil de usar e ter suporte multiplataforma, em vez de CLI como Ollama.
-- O artigo avisa que os modelos podem ocupar de 2 a 6 GB e que é preciso verificar espaço em disco antes de baixar.
-- Nous Hermes 2 Mistral DPO é apresentado como um modelo geral, rápido, ajustado e com cerca de 7 bilhões de parâmetros.
-- Qwen2-1.5B-Instruct é indicado para dispositivos fracos, mas o texto alerta que ele pode alucinar com facilidade.
-- Llama 3 8B Instruct é descrito como um modelo open source, com boa qualidade e personalidade amigável.
-- Mini Orca (Small) é sugerido como modelo pequeno e rápido, mais útil para explicações do que para conversa, e também sujeito a alucinações, sobretudo em matemática.
-- Mistral Instruct é apontado como um modelo geral com licença para uso comercial e sem limitações éticas.
-- O texto ensina a abrir a aba de modelos, baixar um modelo e, depois, ir à aba de chats, criar uma nova conversa e carregar um modelo para testar.
+- Running AI models on your own device avoids depending on external servers and an internet connection to access AI.
+- The text says that many AI APIs send messages in plain text and that some companies collect conversation data or perform human review of chats.
+- For local use, the author chooses GPT4All because it is easy to use and has multiplatform support, instead of CLI like Ollama.
+- The article warns that models can take up 2 to 6 GB and that it is necessary to check disk space before downloading.
+- Nous Hermes 2 Mistral DPO is presented as a general, fast, tuned model with about 7 billion parameters.
+- Qwen2-1.5B-Instruct is indicated for weak devices, but the text warns that it can hallucinate easily.
+- Llama 3 8B Instruct is described as an open source model with good quality and a friendly personality.
+- Mini Orca (Small) is suggested as a small and fast model, more useful for explanations than for conversation, and also subject to hallucinations, especially in math.
+- Mistral Instruct is pointed out as a general model with a license for commercial use and without ethical limitations.
+- The text teaches how to open the models tab, download a model, and then go to the chats tab, create a new conversation, and load a model to test.

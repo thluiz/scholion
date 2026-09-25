@@ -3,7 +3,7 @@ title: "A Go Microservices Demo using Go kit And API Gateway Pattern"
 date: '2026-09-25T00:34:03+01:00'
 category: webclip
 summary: 'The article shows how to turn go-kit stringsvc3 into a more practical demo by adding Consul-based service discovery, an API gateway client, Docker images, and round-robin load balancing.'
-tags: ["go-kit", "microservices", "api-gateway", "service-discovery"]
+tags: ["go-kit","microservices","api-gateway","service-discovery"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,24 +17,24 @@ sources:
 
 The article says go-kit is useful but its examples can be hard to follow, so the author combines stringsvc3 with the apigateway example to build a more practical microservices demo. The focus is on implementing the API gateway with Consul-based service discovery, then packaging the services with Docker and testing them through a client that routes requests to multiple service instances.
 
-## Fichamento
+## Reading notes
 
-- O autor diz que encontrou go-kit interessante, mas com exemplos pouco claros, e que o tutorial stringsvc e a implementação de stringsvc3 o confundiram.
-- Ele conclui que o exemplo original só simulava um API gateway, o que seria pouco prático no mundo real.
-- Para montar uma demo mais útil, ele combina stringsvc3 com o exemplo apigateway.
-- O texto afirma que a implementação vai focar no API gateway, não nos conceitos básicos de endpoint, transport ou service.
-- A arquitetura usa service discovery como parte central da solução de microsserviços.
-- O exemplo escolhe Consul para fazer um service discovery simples do lado do cliente.
-- Na registration, o serviço stringsvc é registrado no Consul com um ID único, nome do serviço, address e port.
-- O texto menciona que é preciso informar o endereço do Consul por variável de ambiente ou arquivo de configuração.
-- Antes de encerrar o programa, o autor destaca que é importante chamar Deregister.
-- Para empacotar a aplicação, ele cria uma imagem Docker do stringsvc com Go modules e um build em duas etapas.
-- O gateway é outro projeto Go modules, chamado stringclient.
-- Nesse cliente, o código cria um instancer do Consul para obter instâncias do serviço registradas.
-- O autor explica que o quarto parâmetro de consul.NewInstancer filtra serviços por tags e o último controla se só instâncias saudáveis devem ser retornadas.
-- O cliente cria endpoints para uppercase e count, usa round-robin load balancing e aplica retry.
-- A função serviceFactoryBuilder monta uma factory que transforma uma instância em endpoint HTTP apontando para o path correto.
-- O deploy usa Docker Compose com um contêiner do Consul, três instâncias de stringsvc e um stringclient exposto na porta 8080.
-- Os testes mostram chamadas para uppercase e count, com respostas FOO e 3.
-- Em uma sequência de chamadas, os logs mostram que as três instâncias do serviço são chamadas uma por uma.
-- O texto atribui esse comportamento à política round-robin usada ao criar o endpoint.
+- The author says he found go-kit interesting, but with unclear examples, and that the stringsvc tutorial and the stringsvc3 implementation confused him.
+- He concludes that the original example only simulated an API gateway, which would be too impractical in the real world.
+- To put together a more useful demo, he combines stringsvc3 with the apigateway example.
+- The text says the implementation will focus on the API gateway, not on the basic concepts of endpoint, transport, or service.
+- The architecture uses service discovery as a central part of the microservices solution.
+- The example chooses Consul to perform simple client-side service discovery.
+- In the registration, the stringsvc service is registered in Consul with a unique ID, service name, address, and port.
+- The text mentions that it is necessary to provide the Consul address through an environment variable or configuration file.
+- Before ending the program, the author highlights that it is important to call Deregister.
+- To package the application, he creates a Docker image of stringsvc with Go modules and a two-stage build.
+- The gateway is another Go modules project, called stringclient.
+- In this client, the code creates a Consul instancer to obtain registered service instances.
+- The author explains that the fourth parameter of consul.NewInstancer filters services by tags and the last one controls whether only healthy instances should be returned.
+- The client creates endpoints for uppercase and count, uses round-robin load balancing, and applies retry.
+- The serviceFactoryBuilder function builds a factory that turns an instance into an HTTP endpoint pointing to the correct path.
+- The deployment uses Docker Compose with a Consul container, three stringsvc instances, and a stringclient exposed on port 8080.
+- The tests show calls to uppercase and count, with FOO and 3 responses.
+- In a sequence of calls, the logs show that the three service instances are called one by one.
+- The text attributes this behavior to the round-robin policy used when creating the endpoint.

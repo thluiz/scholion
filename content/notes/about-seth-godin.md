@@ -22,7 +22,7 @@ Seth Godin's own about page runs mostly as a list of projects rather than a narr
 
 He's discussed the mechanics of running systems well before, including why removing slack from a system causes cascading failures once real-world variability hits. See [Why Eliminating Slack Breaks the System](/notes/why-eliminating-slack-breaks-the-system/).
 
-## Fichamento
+## Reading notes
 
 - His blog has run daily for more than a decade and is approaching 10,000 posts as of this page.
 - He has published 20 bestselling books, translated into nearly 40 languages; the three most recent are This Is Marketing, The Practice, and The Song of Significance.

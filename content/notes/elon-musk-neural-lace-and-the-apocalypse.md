@@ -2,8 +2,8 @@
 title: "Elon Musk, Neural Lace and the Apocalypse"
 date: '2026-09-24T22:16:55+01:00'
 category: webclip
-summary: 'O texto reúne as preocupações de Elon Musk com a IA e apresenta a neural lace como uma possível resposta: um elo entre córtex e extensão digital para aproximar humanos e inteligência artificial.'
-tags: ["inteligencia-artificial", "elon-musk", "neural-lace"]
+summary: 'The text brings together Elon Musk''s concerns about AI and presents neural lace as a possible response: a bridge between the cortex and a digital extension to bring humans and artificial intelligence closer together.'
+tags: ["artificial-intelligence","elon-musk","neural-lace"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,7 +19,7 @@ The post argues that Musk’s warnings about artificial intelligence deserve att
 
 It then presents neural lace as Musk’s proposed answer: an AI-human symbiote that would add a digital layer to the brain, lift limits on the cerebral cortex, and let people think in the brain and on the cloud at the same time. The text closes by saying that, if things go badly, neural lace may at least make it easier to submit paperless requests to robot overlords.
 
-## Fichamento
+## Reading notes
 
 - Musk treats AI as a serious risk and warns that the threat of singularity could arrive within five to ten years.
 - The text says AI could be used by governments or individuals for power, oppression, and war.

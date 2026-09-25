@@ -2,8 +2,8 @@
 title: "Daily JavaScript Challenge #JS-126: Rotate Matrix 90 Degrees Clockwise"
 date: '2026-09-24T23:57:26+01:00'
 category: webclip
-summary: 'Desafio de JavaScript pede uma função que rotacione uma matriz N x N 90 graus no sentido horário, fazendo a operação in-place e testando a solução nos casos fornecidos.'
-tags: ["javascript", "matrix-manipulation", "coding-challenge"]
+summary: 'JavaScript challenge asks for a function that rotates an N x N matrix 90 degrees clockwise, performs the operation in-place, and tests the solution on the provided cases.'
+tags: ["javascript","matrix-manipulation","coding-challenge"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,10 +17,10 @@ sources:
 
 This page presents a Medium JavaScript challenge on matrix manipulation. The task is to write a function that rotates an N x N matrix 90 degrees clockwise in-place, then test the solution against the provided cases and share the approach in the comments.
 
-## Fichamento
+## Reading notes
 
-- A challenge pede uma função para rotacionar uma matriz N x N 90 graus no sentido horário.
-- A solução deve ser feita in-place.
-- O post informa que a dificuldade é Medium e o tema é matrix manipulation.
-- A página convida a forkear o desafio, escrever a solução, testar com os casos fornecidos e comentar a abordagem.
-- Há um link para documentação sobre rotation matrix e um convite para discutir a estratégia, edge cases e o principal aprendizado.
+- The challenge asks for a function to rotate an N x N matrix 90 degrees clockwise.
+- The solution must be done in-place.
+- The post says the difficulty is Medium and the topic is matrix manipulation.
+- The page invites you to fork the challenge, write the solution, test with the provided cases, and comment on the approach.
+- There is a link to documentation about rotation matrix and an invitation to discuss the strategy, edge cases, and the main learning.

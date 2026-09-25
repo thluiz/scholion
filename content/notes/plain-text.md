@@ -2,8 +2,8 @@
 title: "Plain Text"
 date: '2026-09-24T22:29:54+01:00'
 category: webclip
-summary: 'A nota defende o uso de plain text para anotações e escrita por sua portabilidade, longevidade e independência de apps, com Markdown como única camada extra aceitável.'
-tags: ["plain-text", "note-taking", "markdown"]
+summary: 'A note argues for using plain text for note-taking and writing because of its portability, longevity, and independence from apps, with Markdown as the only acceptable extra layer.'
+tags: ["plain-text","note-taking","markdown"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,16 +19,16 @@ Plain text note-taking is presented as a durable habit because the notes stay re
 
 It also says plain text supports quick notes, team writing and easy migration between apps, while Markdown is the only extra formatting the author accepts. The limits are that the experience depends on supporting tools and that it can be harder to maintain discipline without built-in rules.
 
-## Fichamento
+## Reading notes
 
-- Defende que anotar em plain text é um hábito que traz retorno ao longo do tempo.
-- Relata a mudança de várias ferramentas de notas para um fluxo mais simples e baseado em plain text.
-- A ideia central é tratar o conteúdo como dado em primeiro lugar e usar ferramentas por cima disso.
-- O autor prefere arquivos separados em vez de notas presas a banco de dados e formatos de exportação.
-- A manipulação direta dos arquivos permite que apps diferentes coexistam, mudem ou sejam trocados sem prender as notas a uma plataforma.
-- Para escrita em equipe, o critério é usar o que facilitar melhor o trabalho do grupo.
-- Plain text é descrito como universal, leve, pesquisável, portátil e fácil de manipular.
-- O texto destaca que esse formato funciona mesmo sem web servers ou Internet.
-- A única formatação adicional aceita é Markdown, por continuar legível para humanos.
-- Entre as desvantagens, o texto aponta dependência das ferramentas e dificuldade maior para manter disciplina.
-- As referências reunidas incluem artigos, coletivos e ferramentas ligadas a plain text, workflows, markdown e organização de conhecimento.
+- Argues that taking notes in plain text is a habit that pays off over time.
+- Describes the change from several note tools to a simpler workflow based on plain text.
+- The central idea is to treat content as data first and use tools on top of that.
+- The author prefers separate files instead of notes locked into a database and export formats.
+- Direct manipulation of files allows different apps to coexist, change, or be replaced without locking the notes to a platform.
+- For team writing, the criterion is to use whatever best facilitates the group's work.
+- Plain text is described as universal, lightweight, searchable, portable and easy to manipulate.
+- The text highlights that this format works even without web servers or Internet.
+- The only additional formatting accepted is Markdown, because it remains readable to humans.
+- Among the disadvantages, the text points to dependence on tools and greater difficulty in maintaining discipline.
+- The references gathered include articles, collectives and tools related to plain text, workflows, markdown and knowledge organization.

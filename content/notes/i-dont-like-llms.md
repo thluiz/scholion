@@ -18,7 +18,7 @@ Fowler feels both fascination and fear about AI. But when he talks to LLMs direc
 
 He separates the discomfort, a personal signal, from a technical objection. Jessica Kerr's case still holds for him: ignoring LLMs is irresponsible, given the gains in usefulness and speed.
 
-## Fichamento
+## Reading notes
 
 - Fowler holds fascination with AI's potential (productivity gains, even cures) alongside fear of what it could enable, from infrastructure takeover to designed bioweapons.
 - The feeling that dominates comes from direct use: dislike. LLMs talk in an uncanny valley of human conversation, and confabulate with the same confidence they show when they're right.

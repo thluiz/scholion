@@ -2,8 +2,8 @@
 title: "How to handle external dependencies of your domain in a command-event architecture"
 date: '2026-09-25T09:07:11+01:00'
 category: webclip
-summary: 'O artigo compara cinco formas de lidar com dependências externas num domínio de command-event architecture, da injeção clássica ao reader monad, e conclui a favor de comandos internos com dependências explícitas.'
-tags: ["command-event-architecture", "dependency-injection", "fsharp", "reader-monad"]
+summary: 'The article compares five ways to handle external dependencies in a command-event architecture domain, from classic injection to the reader monad, and concludes in favor of internal commands with explicit dependencies.'
+tags: ["command-event-architecture","dependency-injection","fsharp","reader-monad"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,25 +19,25 @@ The article walks through several ways to handle external data needed by a domai
 
 Its main point is that the best fit, for the author, is to keep the domain execute function pure and move the needed data into internal commands instead of one growing dependency record. The reader monad is presented as interesting, but not clearly better for this example.
 
-## Fichamento
+## Reading notes
 
-- O artigo trata de como gerir dependências externas e dados adicionais num domínio de command-event architecture.
-- O autor avisa que o foco não é modelar melhor o domínio, mas lidar com a gestão das dependências.
-- No exemplo, uma invoice precisa de customer e product data para ser criada e enriquecida com linhas.
-- O modelo guarda name, address, price e quantity dentro dos eventos e do estado da invoice.
-- Na abordagem clássica OOP, o aggregate root recebe repositórios no construtor e chama esses repositórios nos métodos de comando.
-- Essa abordagem é direta, mas exige mais boilerplate e testes mais pesados com mocks.
-- Na abordagem mais idiomática em F#, a lógica vira funções execute, apply e applyEvents.
-- Nessa versão, as funções de acesso a dados entram como parâmetros e depois são parcialmente aplicadas no service.
-- O autor diz que isso continua a espalhar dependências pelos parâmetros e não melhora muito os testes.
-- Numa tentativa de esconder dependências, ele agrupa funções de acesso num registro Dependencies.
-- Essa versão reduz a lista de parâmetros, mas desloca o problema para o crescimento do próprio registro.
-- Depois, o artigo torna o execute puro ao mover as chamadas externas para o service e deixar nele apenas dados já carregados.
-- Nesse cenário, o service monta um registro de dependências com customer ou product e chama o execute puro.
-- O autor observa que isso melhora a testabilidade, mas ainda centraliza demais as dependências num único registro.
-- Na última abordagem antes do reader monad, ele separa ExternalCommand e Command internos.
-- Os comandos internos carregam customer ou product opcionais no payload, e cada comando passa a levar suas próprias dependências.
-- O autor prefere essa solução por dar mais clareza e separar melhor responsabilidades.
-- Na versão com reader monad, ele cria uma interface única IDependencies e encapsula a injeção no computation expression dependency.
-- Mesmo assim, para este exemplo, ele não vê vantagem clara sobre passar a interface diretamente ao executeCommand.
-- Ele conclui que o reader monad pode fazer mais sentido quando a aplicação crescer e houver mais dependências para esconder.
+- The article is about how to manage external dependencies and additional data in a command-event architecture domain.
+- The author warns that the focus is not on modeling the domain better, but on handling dependency management.
+- In the example, an invoice needs customer and product data to be created and enriched with lines.
+- The model stores name, address, price, and quantity inside the events and the invoice state.
+- In the classic OOP approach, the aggregate root receives repositories in the constructor and calls those repositories in the command methods.
+- This approach is straightforward, but it requires more boilerplate and heavier tests with mocks.
+- In the more idiomatic F# approach, the logic becomes execute, apply, and applyEvents functions.
+- In this version, the data access functions come in as parameters and are then partially applied in the service.
+- The author says that this still spreads dependencies across parameters and does not improve tests much.
+- In an attempt to hide dependencies, he groups access functions into a Dependencies record.
+- This version reduces the parameter list, but shifts the problem to the growth of the record itself.
+- Then, the article makes execute pure by moving external calls into the service and leaving only already loaded data there.
+- In this scenario, the service builds a dependencies record with customer or product and calls the pure execute.
+- The author notes that this improves testability, but still centralizes too many dependencies in a single record.
+- In the last approach before the reader monad, he separates ExternalCommand and internal Command.
+- The internal commands carry optional customer or product in the payload, and each command starts carrying its own dependencies.
+- The author prefers this solution because it gives more clarity and better separates responsibilities.
+- In the version with the reader monad, he creates a single IDependencies interface and encapsulates injection in the dependency computation expression.
+- Even so, for this example, he does not see a clear advantage over passing the interface directly to executeCommand.
+- He concludes that the reader monad may make more sense when the application grows and there are more dependencies to hide.

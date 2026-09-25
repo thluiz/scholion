@@ -2,8 +2,8 @@
 title: "Don't use MediatR by default on all .NET projects"
 date: '2026-09-25T09:00:42+01:00'
 category: webclip
-summary: 'O texto defende que MediatR não deve entrar por padrão em todo projeto .NET: a escolha depende do caso de uso, e usar mensageria interna em contextos dependentes pode criar complexidade desnecessária.'
-tags: ["net", "mediatr", "clean-architecture", "cqrs"]
+summary: 'The text argues that MediatR should not be added by default to every .NET project: the choice depends on the use case, and using internal messaging in dependent contexts can create unnecessary complexity.'
+tags: ["net","mediatr","clean-architecture","cqrs"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,19 +19,19 @@ The article argues that MediatR became common in .NET templates and tutorials, b
 
 It also warns against using internal messaging between dependent contexts, especially when the operations must stay atomic. In that case, the text prefers direct service adapters over commands sent through MediatR, and says the same caution applies to other libraries such as EF Core and FluentValidation.
 
-## Fichamento
+## Reading notes
 
-- MediatR virou quase sinônimo de Clean Architecture em projetos .NET, mas isso não o torna uma dependência obrigatória.
-- A biblioteca facilita o padrão mediator e o desacoplamento entre camadas, porém sua adoção deve ser pensada caso a caso.
-- O texto propõe manter uma arquitetura centrada em casos de uso sem depender do sistema interno de mensagens do MediatR.
-- A estrutura sem MediatR usa interfaces próprias para comandos e handlers, com declaração parecida à da biblioteca.
-- As rotas da API ficam praticamente iguais nas duas abordagens, mudando apenas a injeção do handler ou do sender.
-- A configuração sem MediatR pode ser feita com registro explícito do handler no container, e o autor diz que isso também poderia ser automatizado com uma extensão parecida com RegisterServicesFromAssemblies.
-- O texto evita usar CQRS como rótulo para esse exemplo, porque associa CQRS a separação de leitura e escrita em banco de dados.
-- A principal vantagem da abordagem sem MediatR é permitir voltar à biblioteca depois, com mudanças pequenas nas interfaces e nas declarações dos endpoints.
-- Usar MediatR para disparar outras operações dentro de um handler vira um problema quando as operações são dependentes entre si.
-- Se a criação de um goat e a gravação de um audit trail forem independentes, o texto defende publicar um evento ao final do processamento.
-- Se as operações forem atômicas, enviar comandos depois do handler termina pode atrasar validações como a checagem de créditos.
-- Nesse cenário, chamar outro contexto dentro do handler por meio de mensageria interna aumenta a complexidade e mistura serviços dependentes.
-- A alternativa sugerida é usar adapters de serviço para comunicação entre contextos, mantendo a relação atômica quando ela for necessária.
-- A conclusão amplia a crítica para outras bibliotecas usadas por hábito, como EFCore e FluentValidation, e pergunta se a escolha técnica é necessidade real ou gosto de desenvolvedor.
+- MediatR became almost synonymous with Clean Architecture in .NET projects, but that does not make it a mandatory dependency.
+- The library facilitates the mediator pattern and decoupling between layers, but its adoption should be considered case by case.
+- The text proposes maintaining a use-case-centered architecture without depending on MediatR's internal messaging system.
+- The structure without MediatR uses its own interfaces for commands and handlers, with declarations similar to the library's.
+- The API routes stay practically the same in both approaches, changing only the injection of the handler or the sender.
+- Configuration without MediatR can be done with explicit registration of the handler in the container, and the author says this could also be automated with an extension similar to RegisterServicesFromAssemblies.
+- The text avoids using CQRS as a label for this example, because it associates CQRS with separating reads and writes in the database.
+- The main advantage of the approach without MediatR is allowing a return to the library later, with small changes to the interfaces and endpoint declarations.
+- Using MediatR to trigger other operations inside a handler becomes a problem when the operations depend on each other.
+- If creating a goat and recording an audit trail are independent, the text argues for publishing an event at the end of processing.
+- If the operations are atomic, sending commands after the handler finishes can delay validations such as credit checking.
+- In this scenario, calling another context inside the handler through internal messaging increases complexity and mixes dependent services.
+- The suggested alternative is to use service adapters for communication between contexts, keeping the atomic relationship when it is necessary.
+- The conclusion broadens the criticism to other libraries used out of habit, such as EF Core and FluentValidation, and asks whether the technical choice is a real need or developer preference.

@@ -2,8 +2,8 @@
 title: "Designing Intelligence: System Design in AI/ML Evolution"
 date: '2026-09-24T23:41:54+01:00'
 category: webclip
-summary: 'A peça liga princípios como simplicidade, contexto, resiliência, ética e decisão a escolhas de design em ML, defendendo soluções úteis, interpretáveis e alinhadas ao negócio.'
-tags: ["ai-ml", "system-design", "machine-learning", "ethics"]
+summary: 'A piece connects principles like simplicity, context, resilience, ethics, and decision making to machine learning design choices, arguing for useful, interpretable solutions aligned with the business.'
+tags: ["ai-ml","system-design","machine-learning","ethics"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -15,9 +15,7 @@ sources:
     kind: repo
 ---
 
-Designing intelligence, here, means choosing machine learning solutions that improve human experience and solve business problems with practical value. The text links that goal to simplicity, context, reliability, fairness, privacy, and better decision making.
-
-## Fichamento
+## Reading notes
 
 - Favor practical solutions over hype, trends, or choices made only because they look impressive.
 - Keep ML design simple, interpretable, and robust so users can understand predictions and trust the system.

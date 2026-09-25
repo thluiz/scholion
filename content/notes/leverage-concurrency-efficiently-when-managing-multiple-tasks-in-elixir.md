@@ -22,7 +22,7 @@ Walks through Elixir's Task module for running work concurrently, building from 
 
 Task.async_stream/3 is the fix. It processes an enumerable concurrently while bounding how many processes run at once, closing the gap between Task.start/1 (fire-and-forget, no result) and Task.async/1 combined with Enum.map/2 (gets the result, but spawns one process per item with no ceiling).
 
-## Fichamento
+## Reading notes
 
 - Task.start/1 fires a process and returns {:ok, pid} without the function's own result. It fits background jobs that track completion elsewhere, such as a status column in a database, not work that needs its return value read back.
 - Task.async/1 returns a %Task{} struct. Task.await/2 retrieves the result and raises past the 5-second default timeout; Task.yield/2 returns nil instead of crashing the caller.

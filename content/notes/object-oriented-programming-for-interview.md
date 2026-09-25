@@ -17,7 +17,7 @@ sources:
 
 OOP is presented as a programming paradigm that uses objects to solve real-world problems. The page walks through the main concepts, contrasts class and object, and then covers abstraction, encapsulation, inheritance, polymorphism, dynamic binding, dynamic typing, dynamic loading, abstract classes, interfaces, structs, constructors, and destructors.
 
-## Fichamento
+## Reading notes
 
 - OOP is described as a programming paradigm that uses objects to solve real-world problems.
 - The page lists C++, Java, Python, Javascript, Ruby, Swift, Objective-c, and C# as languages that follow the OOPS paradigm.

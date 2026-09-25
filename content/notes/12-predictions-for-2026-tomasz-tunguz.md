@@ -19,7 +19,7 @@ sources:
 
 Tunguz scored 7.85 out of 10 on his 2025 predictions and follows up with twelve for 2026, mostly about AI agents reshaping infrastructure, spending, and the web itself.
 
-## Fichamento
+## Reading notes
 
 - Businesses start paying more for AI agents than for people on rote tasks, following the pattern already seen with Waymo rides costing 31% more than Uber yet growing in demand.
 - 2026 becomes a record liquidity year: SpaceX, OpenAI, Anthropic, Stripe, and Databricks IPO, some among the ten largest offerings ever, while fear of AI disruption drives over $25B in defensive acquisitions.

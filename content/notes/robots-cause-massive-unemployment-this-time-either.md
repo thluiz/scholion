@@ -3,7 +3,7 @@ title: "The Robots Won't Cause Massive Unemployment This Time, Either"
 date: '2026-09-25T08:49:27+01:00'
 category: webclip
 summary: 'The article argues that automation usually changes jobs by automating only part of a task bundle, which can raise the value of human workers, cut costs, and expand demand rather than cause mass unemployment.'
-tags: ["automation", "jobs", "labor-market"]
+tags: ["automation","jobs","labor-market"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,19 +19,19 @@ The article argues that translation is a useful case for thinking about automati
 
 It uses a task-based and O-Ring view of jobs to show why automating many tasks does not make the last task less important. The text says this can lower costs, let translators handle more projects, and potentially increase demand for translation services. It then connects this pattern to earlier cases such as cotton picking, bank tellers, and radiologists, and to long-run U.S. labor data that do not show sustained large-scale technological unemployment.
 
-## Fichamento
+## Reading notes
 
-- A tradução é apresentada como um bom caso para pensar a relação entre automação e emprego, porque a tecnologia já produz rascunhos melhores e, ainda assim, tradutores seguem sendo contratados.
-- O texto diz que empregos são conjuntos de tarefas, e que a automação costuma cobrir só parte delas, deixando tarefas como contato com o cliente, esclarecimento de trechos ambíguos e conferência de lacunas fora do alcance do software.
-- A abordagem baseada em tarefas é ligada a economistas como Erik Brynjolfsson, Daniel Rock e Michael Kremer.
-- O modelo O-Ring é usado para mostrar que, em certos trabalhos, um erro em uma tarefa pode comprometer o resultado inteiro.
-- Num exemplo com dez tarefas, automatizar nove delas melhora bastante o desempenho total, mas a última tarefa continua decisiva.
-- Nessa situação, o empregador racional tende a valorizar mais a pessoa capaz de fazer bem a tarefa que restou fora da automação.
-- O texto afirma que isso vale para tradutores, como no caso citado da Duolingo, que ainda usa humanos para manter consistência de estilo e tom.
-- A automação parcial também reduz o custo do serviço e permite que o tradutor acompanhe mais projetos, em vez de produzir todos os rascunhos sozinho.
-- Com preços menores, pode surgir mais demanda por outros tipos de tradução, como sites, campanhas de email, garantias e cartões de registro.
-- O autor diz que é mais fácil enxergar a destruição causada pela tecnologia do que a criação de novas formas de trabalho.
-- O texto menciona previsões erradas sobre o descaroçador mecânico de algodão, caixas bancários e radiologistas.
-- A conclusão é que o padrão mais amplo da história recente é o aumento constante da demanda por trabalho humano junto com o progresso tecnológico.
-- Os gráficos citados de força de trabalho, número total de empregos, taxa de desemprego e emprego entre adultos em idade principal não mostram desemprego tecnológico grande e duradouro.
-- O texto encerra dizendo que quantidade de emprego não garante qualidade uniforme do trabalho, mas esse tema fica para outro momento.
+- Translation is presented as a good case for thinking about the relationship between automation and employment, because technology already produces better drafts and, even so, translators are still hired.
+- The text says jobs are bundles of tasks, and that automation usually covers only part of them, leaving tasks such as client contact, clarifying ambiguous passages, and checking gaps outside the software's reach.
+- The task-based approach is linked to economists such as Erik Brynjolfsson, Daniel Rock and Michael Kremer.
+- The O-Ring model is used to show that, in certain jobs, an error in one task can compromise the entire result.
+- In an example with ten tasks, automating nine of them greatly improves total performance, but the last task remains decisive.
+- In this situation, the rational employer tends to value more the person capable of doing well the task that remained outside automation.
+- The text states that this applies to translators, as in the Duolingo case cited, which still uses humans to maintain consistency of style and tone.
+- Partial automation also lowers the cost of the service and allows the translator to handle more projects, instead of producing all the drafts alone.
+- With lower prices, more demand may arise for other types of translation, such as websites, email campaigns, warranties and registration cards.
+- The author says it is easier to see the destruction caused by technology than the creation of new forms of work.
+- The text mentions mistaken predictions about the mechanical cotton gin, bank tellers and radiologists.
+- The conclusion is that the broader pattern of recent history is the constant increase in demand for human labor alongside technological progress.
+- The cited charts of labor force, total number of jobs, unemployment rate and employment among prime-age adults do not show large and lasting technological unemployment.
+- The text ends by saying that the amount of employment does not guarantee uniform job quality, but that topic is left for another time.

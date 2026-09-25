@@ -17,7 +17,7 @@ sources:
 
 The page walks through a tutorial for building a stock value dashboard with Taipy, Plotly, and a Kaggle dataset. It says the app can dynamically filter data, display graphs, and handle user inputs using Python alone, without HTML, CSS, or JavaScript.
 
-## Fichamento
+## Reading notes
 
 - The article presents Taipy as an open-source library that simplifies building data apps.
 - The tutorial uses Taipy, Plotly, and a Kaggle dataset to build a stock value dashboard.

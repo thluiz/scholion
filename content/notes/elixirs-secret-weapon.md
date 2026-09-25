@@ -21,7 +21,7 @@ Drew Olson starts from the Erlang-borrowed idiom of tagged tuples: functions ret
 
 The with special form fixes that. It runs a list of operations against <- patterns, carrying forward each successful match's bindings into the next operation, and stops at the first operation whose result doesn't match, returning that unmatched value directly. An optional else clause intercepts that unmatched value and pattern-matches on it explicitly, instead of just passing it through as the form's return value.
 
-## Fichamento
+## Reading notes
 
 - Tagged tuples ({:ok, value} / {:error, reason}) turn errors into values a function always returns, letting the caller pattern-match on success and failure explicitly rather than relying on exceptions.
 - Chaining several tagged-tuple operations that each depend on the last one's result forces nested case statements, one level of nesting per operation.

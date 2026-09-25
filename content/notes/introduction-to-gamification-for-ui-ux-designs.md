@@ -2,8 +2,8 @@
 title: "Introduction to Gamification for UI/UX Designs"
 date: '2026-09-24T22:11:01+01:00'
 category: webclip
-summary: 'O texto apresenta gamification como uso de mecânicas de jogo para engajar usuários em sites e apps, com exemplos de badges, progresso e easter eggs, e alerta para seu uso forçado.'
-tags: ["gamification", "ui-ux-design", "user-engagement"]
+summary: 'The text presents gamification as the use of game mechanics to engage users in sites and apps, with examples of badges, progress, and easter eggs, and warns against its forced use.'
+tags: ["gamification","ui-ux-design","user-engagement"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,14 +17,14 @@ sources:
 
 The post introduces gamification as the use of game design techniques and mechanics in non-game contexts, especially in websites and web apps. It notes that the topic gained prominence around 2010 and points to examples such as badges, progress indicators, and hidden features.
 
-## Fichamento
+## Reading notes
 
-- O autor relata uma palestra no WebApp 2012 sobre “Gamification in UI/UX Designs” e diz que a leitura dos slides, sozinha, não faz jus à sessão sem as notas e a interação com a plateia.
-- Ele afirma que o artigo reescreve a sessão com links, exemplos e mais informação para introduzir gamification em interface e experiência de usuário.
-- O texto diz que gamification não é nova e que o termo ganhou destaque por volta de 2010, popularizado por profissionais de marketing e gestão para engajar clientes.
-- O autor cita Gabe Zichermann como uma das figuras mais importantes na divulgação de gamification em design e desenvolvimento de produtos.
-- Como exemplo, o texto mostra badges, achievements e accolades virtuais, usando Foursquare e CodeAcademy para ilustrar como recompensas digitais estimulam avanço e satisfação.
-- O texto trata o progresso como técnica de gamification e cita barras de progresso, perfis do LinkedIn e sugestões do Twitter para incentivar o usuário a completar etapas.
-- Há também a ideia de easter eggs virtuais, com referências ao Konami Code, ao site The Oat Meal, ao Google e ao Kickstarter.
-- O texto alerta para o lado negativo da gamification quando ela é usada para forçar o usuário a comprar ou a agir contra o próprio interesse, como em alguns registradores de domínio.
-- No fecho, o autor diz que gamification pode aumentar engajamento, ROI, confiança e lealdade, mas só funciona como meio para um objetivo maior e não substitui conteúdo, serviço e site ruins.
+- The author reports on a talk at WebApp 2012 about “Gamification in UI/UX Designs” and says that reading the slides alone does not do justice to the session without the notes and interaction with the audience.
+- He states that the article rewrites the session with links, examples, and more information to introduce gamification in interface and user experience.
+- The text says that gamification is not new and that the term gained prominence around 2010, popularized by marketing and management professionals to engage customers.
+- The author cites Gabe Zichermann as one of the most important figures in spreading gamification in product design and development.
+- As an example, the text shows badges, achievements, and virtual accolades, using Foursquare and CodeAcademy to illustrate how digital rewards stimulate progress and satisfaction.
+- The text treats progress as a gamification technique and cites progress bars, LinkedIn profiles, and Twitter suggestions to encourage the user to complete steps.
+- There is also the idea of virtual easter eggs, with references to the Konami Code, the site The Oat Meal, Google, and Kickstarter.
+- The text warns about the negative side of gamification when it is used to force the user to buy or to act against their own interest, as in some domain registrars.
+- At the end, the author says that gamification can increase engagement, ROI, trust, and loyalty, but only works as a means to a larger goal and does not replace content, service, and bad sites.

@@ -2,8 +2,8 @@
 title: "Why I Use JetBrains Rider for .NET Development"
 date: '2026-09-25T01:16:43+01:00'
 category: webclip
-summary: 'O autor diz que o Rider melhora o dia a dia do desenvolvimento .NET com desempenho, suporte multiplataforma, ferramentas integradas e Copilot, embora tenha custo e algumas limitações.'
-tags: ["jetbrains-rider", "dotnet", "ide", "github-copilot"]
+summary: 'The author says Rider improves day-to-day .NET development with performance, cross-platform support, integrated tools, and Copilot, although it has a cost and some limitations.'
+tags: ["jetbrains-rider","dotnet","ide","github-copilot"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,7 +19,7 @@ The author says Rider became his preferred .NET IDE because it runs well on Wind
 
 He highlights Rider’s Copilot integration as a practical productivity boost for completion, prototyping, and learning APIs. He also notes drawbacks such as the commercial license, some missing extensions or Windows-specific features, and the possibility that team standards may still favor Visual Studio.
 
-## Fichamento
+## Reading notes
 
 - Rider is presented as a modern, cross-platform IDE for .NET that comes from the ReSharper team.
 - The author prefers it because it works across Windows and Mac and lets him keep the same IDE and settings.

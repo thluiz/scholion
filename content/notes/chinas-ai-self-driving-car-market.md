@@ -20,7 +20,7 @@ China runs 2,300 robotaxis across 30 cities through five companies. Waymo, the o
 
 Consumer trust and habits matter as much as infrastructure. Only about 40% of Chinese households own a car, against more than 90% in the U.S., pushing the economics of autonomous vehicles toward fleets, ride-hailing, delivery, logistics, rather than personal ownership. Chinese consumers are also more comfortable with the technology, 85% versus 39% of Americans in a 2023 survey, and trust AI generally at more than double the American rate. That confidence took a hit in March, when a Xiaomi SU7 crashed fatally in Anhui province seconds after its driver took control from the self-driving system. Regulators responded by banning the term "smart driving" in ads and requiring driver-monitoring systems that can't be disabled, and Chinese AV companies have been downplaying autonomous features in sales conversations since. In the U.S., by contrast, safety liability is being worked out case by case in court: a Florida jury recently found Tesla partly responsible for a fatal 2019 Autopilot crash, awarding $243 million.
 
-## Fichamento
+## Reading notes
 
 - China runs 2,300 robotaxis across 30 cities through five companies; the U.S. equivalent is Waymo alone, with about 700 vehicles across five cities.
 - Bill Russo's contrast for infrastructure: reliable signal at 15,000 feet in remote Chinese mountains, against losing connectivity while driving around Reno, Nevada.

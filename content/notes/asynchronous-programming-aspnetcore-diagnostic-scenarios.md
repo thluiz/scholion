@@ -2,8 +2,8 @@
 title: "Asynchronous Programming"
 date: '2026-09-25T08:55:21+01:00'
 category: webclip
-summary: 'A página reúne orientações para código assíncrono em .NET e ASP.NET Core, destacando armadilhas como async void, sync over async, bloqueios, cancelamento e uso correto de AsyncLocal e TaskCompletionSource.'
-tags: ["async-await", "dotnet", "aspnet-core", "threading"]
+summary: 'The page collects guidance for writing asynchronous code in .NET and ASP.NET Core. It emphasizes that async should propagate through the call stack, and it warns against blocking patterns, fire-and-forget mistakes, and misuse of task and cancellation APIs.'
+tags: ["async-await","dotnet","aspnet-core","threading"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,7 +19,7 @@ The page collects guidance for writing asynchronous code in .NET and ASP.NET Cor
 
 It also covers lower-level scenarios such as timer callbacks, concurrent dictionary caching, constructors, impersonation, and AsyncLocal usage, including cases where execution context capture can cause leaks or unexpected behavior.
 
-## Fichamento
+## Reading notes
 
 - Once a code path becomes async, the callers should also be async, because partial asynchrony can be worse than staying synchronous.
 - `async void` is always bad in ASP.NET Core because exceptions can crash the process and the method cannot be tracked.

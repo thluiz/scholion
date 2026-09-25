@@ -2,8 +2,8 @@
 title: "Falco"
 date: '2026-09-25T08:57:25+01:00'
 category: webclip
-summary: 'Toolkit para criar aplicações web full-stack em F# com ASP.NET Core, focado em simplicidade, integração com bibliotecas .NET e recursos como routing, request handling e autenticação.'
-tags: ["fsharp", "aspnet-core", "web-apps", "framework"]
+summary: 'Toolkit for building full-stack web applications in F# with ASP.NET Core, focused on simplicity, integration with .NET libraries, and features like routing, request handling, and authentication.'
+tags: ["fsharp","aspnet-core","web-apps","framework"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,19 +17,19 @@ sources:
 
 Falco is presented as a functional-first toolkit for building full-stack web applications in F#. It builds on ASP.NET Core, integrates with .NET Core middleware and libraries, and aims to stay simple, lightweight, and easy to learn.
 
-## Fichamento
+## Reading notes
 
-- Baseia-se nos componentes de alto desempenho do ASP.NET Core.
-- Integra-se com middleware e bibliotecas existentes do .NET Core.
-- Traz uma API de routing simples e poderosa.
-- Oferece uma API uniforme para acessar qualquer dado da request.
-- Inclui um view engine nativo em F#.
-- Suporta request handling assíncrono.
-- Reúne utilitários de autenticação e segurança.
-- Tem suporte nativo para uploads grandes e respostas binárias.
-- Define como metas ser simples, extensível e fácil de aprender.
-- Indica a documentação como melhor ponto de partida.
-- Menciona libraries relacionadas, projetos da comunidade, artigos e vídeos sobre o ecossistema Falco.
-- Diz que contribuições devem passar por issue ou discussion, incluir testes e atualizar a documentação quando a API mudar.
-- Explica o nome com referência a Kestrel e ao gênero de falcões conhecido como Falco.
-- Informa licença Apache License 2.0.
+- Is based on the high-performance components of ASP.NET Core.
+- Integrates with existing middleware and libraries from .NET Core.
+- Brings a simple and powerful routing API.
+- Offers a uniform API for accessing any request data.
+- Includes a native view engine in F#.
+- Supports asynchronous request handling.
+- Brings together authentication and security utilities.
+- Has native support for large uploads and binary responses.
+- Defines its goals as being simple, extensible, and easy to learn.
+- Points to the documentation as the best starting point.
+- Mentions related libraries, community projects, articles, and videos about the Falco ecosystem.
+- Says that contributions should go through an issue or discussion, include tests, and update the documentation when the API changes.
+- Explains the name with a reference to Kestrel and to the genus of falcons known as Falco.
+- States Apache License 2.0.

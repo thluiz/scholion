@@ -17,7 +17,7 @@ sources:
 
 The article argues that security is a necessity in full stack development and focuses on three JavaScript security areas: CSRF, clickjacking, and content integrity. It explains each threat and shows prevention measures for Node.js and browser environments, including tokens, SameSite cookies, headers, CSP, and SRI.
 
-## Fichamento
+## Reading notes
 
 - CSRF is described as an attack in which a malicious site tricks a user’s browser into carrying out unwanted actions on a trusted site where the user is authenticated.
 - On the server side, the article recommends CSRF tokens, with middleware such as tiny-csrf generating unique tokens for each session or form submission and validating them on state-changing requests.

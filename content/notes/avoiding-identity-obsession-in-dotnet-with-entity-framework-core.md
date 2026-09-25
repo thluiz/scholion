@@ -22,7 +22,7 @@ Peter Ritchie follows up an earlier post on Identity Obsession (the practice of 
 
 The mechanism is EF Core's shadow properties: identifiers configured on the entity type without existing as properties on the C# class itself. The `DbContext` owns the responsibility of generating and reading that shadow key; the repository owns the domain concern of allocating the actual SSN.
 
-## Fichamento
+## Reading notes
 
 - `IEntityTypeConfiguration<Client>` declares a shadow `Id` property (GUID stored as `varchar(36)`) as the primary key, and a shadow `Ssn` property with a `HasConversion` mapping between the `Ssn` value type and its string column representation.
 - The `Client` class itself carries no identifier property. It only exposes domain behavior, in this example a `ChangeName` method.

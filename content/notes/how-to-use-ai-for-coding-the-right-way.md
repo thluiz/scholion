@@ -2,8 +2,8 @@
 title: "How to use AI for coding the right way"
 date: '2026-09-25T00:14:18+01:00'
 category: webclip
-summary: 'O autor defende usar IA como apoio de programação com contexto, prompts, revisão e testes, enquanto mantém atenção para evitar erros, alucinações e uso preguiçoso.'
-tags: ["ia-para-programacao", "cursor", "code-review"]
+summary: 'The author argues for using AI as programming support with context, prompts, review, and tests, while staying attentive to avoid errors, hallucinations, and lazy use.'
+tags: ["ai-for-programming", "cursor", "code-review"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,15 +19,15 @@ The author argues that AI for coding works best when treated like a very knowled
 
 He describes a workflow built around Claude 3.5 Sonnet in Cursor, system prompts, uploaded documentation, error messages, file linking, and occasional second opinions from another LLM. He also recommends using AI to review its own code, asking it to explain code line by line, and relying on reviews, tests, or senior devs when the context is incomplete.
 
-## Fichamento
+## Reading notes
 
-- O autor compara IA de programação a um estagiário muito competente, ou a devs terceirizados, que ainda precisam de direção humana para acertar o contexto e a aplicação.
-- Ele diz que usa Claude 3.5 Sonnet no Cursor para pensar as etapas gerais e a arquitetura antes de escrever código.
-- Também usa system prompts e documentação enviada ao Cursor para dar um enquadramento melhor às respostas.
-- O texto sugere usar a própria IA como revisora, pedindo que ela aponte erros, verifique boas práticas e confira convenções do codebase.
-- O autor conta que às vezes abre outra janela com outro modelo, como Llama 3.1 ou GPT-4o, para conferir bugs e ter uma segunda opinião.
-- Ele destaca que fornecer o arquivo certo, mensagens de erro e links para componentes específicos ajuda mais do que marcar todo o codebase o tempo todo.
-- Segundo o texto, contexto demais também pode confundir a IA e gerar sugestões estranhas.
-- O autor diz que usa cmd-K para editar linhas diretamente e também pede explicações linha a linha para entender o código.
-- Ele afirma que a disciplina está em não usar IA só para copiar e colar, mas para perguntar, raciocinar e aprender a cada uso.
-- O texto diz que, com esse processo, ele consegue resolver bugs na maior parte do tempo, e que os casos restantes costumam exigir devs mais seniores, reviews ou testes.
+- The author compares coding AI to a very competent intern, or to outsourced devs, who still need human direction to get the context and application right.
+- He says he uses Claude 3.5 Sonnet in Cursor to think through the general steps and the architecture before writing code.
+- He also uses system prompts and documentation sent to Cursor to give better framing to the responses.
+- The text suggests using the AI itself as a reviewer, asking it to point out errors, check best practices, and verify codebase conventions.
+- The author says that he sometimes opens another window with another model, such as Llama 3.1 or GPT-4o, to check bugs and get a second opinion.
+- He emphasizes that providing the right file, error messages, and links to specific components helps more than tagging the entire codebase all the time.
+- According to the text, too much context can also confuse the AI and generate strange suggestions.
+- The author says he uses cmd-K to edit lines directly and also asks for line-by-line explanations to understand the code.
+- He states that the discipline lies in not using AI just to copy and paste, but to ask questions, reason, and learn with each use.
+- The text says that, with this process, he manages to solve bugs most of the time, and that the remaining cases usually require more senior devs, reviews, or tests.

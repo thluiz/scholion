@@ -17,7 +17,7 @@ sources:
 
 The page opens by defining effective, efficient, and effortless, then says personal time management helps people take control of time as a basic resource. It presents this as a set of tools for planning work and using time with more care.
 
-## Fichamento
+## Reading notes
 
 - The text defines effective as having a definite or desired effect, efficient as producing with minimum waste or effort, and effortless as seeming natural and easy.
 - Personal time management is described as a way to assume control of time as a basic resource.

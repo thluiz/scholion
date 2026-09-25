@@ -17,7 +17,7 @@ sources:
 
 The page quotes Steve Jobs describing a very typical time in which he was single and only needed a cup of tea, a light, and his stereo. It also identifies Diana Walker as the source and says her book The Bigger Picture includes the photo of Steve Jobs’ apartment shown here.
 
-## Fichamento
+## Reading notes
 
 - Steve Jobs says this was a very typical time when he was single.
 - He says he only needed a cup of tea, a light, and his stereo.

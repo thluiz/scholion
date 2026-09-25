@@ -17,7 +17,7 @@ sources:
 
 The author says they work best with less context switching, but sometimes priorities are out of their control. The post gathers tactics for handling task transitions, keeping work organized, and making it easier to return to a task after interruptions.
 
-## Fichamento
+## Reading notes
 
 - Start the day by setting goals and estimating time for each task, and move lower-priority goals to another day if the list is too full.
 - Group browser tabs or use separate windows so small references are easier to find later.

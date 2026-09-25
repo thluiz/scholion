@@ -2,8 +2,8 @@
 title: "An introduction to thinking about risk"
 date: '2026-09-25T09:16:47+01:00'
 category: webclip
-summary: 'A série define risco como a combinação de probabilidade e impacto, mostra quando medir em números ou em matrizes simples, e prepara a discussão sobre mitigação.'
-tags: ["risk", "likelihood", "impact", "risk-matrix"]
+summary: 'The series defines risk as the combination of likelihood and impact, shows when to measure it numerically or with simple matrices, and prepares the discussion on mitigation.'
+tags: ["risk","likelihood","impact","risk-matrix"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,19 +17,19 @@ sources:
 
 Jacob Kaplan-Moss opens a series on risk from his work in security and his outdoor hobbies, where he deals with questions about danger, benefit, and tradeoffs. He defines risk as the potential for both benefit and loss, then breaks it into likelihood and impact, with simple matrices as the usual way to compare scenarios.
 
-## Fichamento
+## Reading notes
 
-- O autor diz que passa boa parte do tempo pensando em risco, tanto no trabalho em segurança de software quanto em atividades ao ar livre.
-- Ele observa que pessoas que trabalham com risco criam ferramentas e quadros mentais mais refinados, enquanto quem não vive nisso costuma achar a conversa difícil.
-- O texto usa exemplos de voo, carro e viagem ao Alasca para mostrar como o julgamento de risco pode ser enganoso.
-- A série é apresentada como uma introdução rápida aos conceitos mais importantes para quem encontra risco de vez em quando.
-- A definição inicial de risco vem de Deb Ajango: risco envolve a possibilidade de ganho e de perda.
-- O autor aplica essa definição a viagens na natureza e ao lançamento de software antes de uma revisão de segurança suficiente.
-- Risco é então tratado como algo que toda ação voltada a um benefício carrega junto com a chance de perda.
-- O texto divide risco em dois componentes, likelihood e impact, e usa os exemplos do deploy quebrado e do roubo de credenciais do CFO para comparar cenários muito diferentes.
-- Ele menciona que algumas áreas acrescentam um terceiro fator, exposure.
-- O texto diz que é possível medir risco com números, inclusive calculando um valor esperado, mas que isso costuma ser raro na prática e muito trabalhoso.
-- Em vez disso, o autor recomenda categorizar riscos em níveis simples, como em matrizes 2x2 ou 3x3.
-- A matriz 2x2 aparece como útil para distinguir entre escolhas como atravessar um rio na hora ou procurar outra opção.
-- No contexto de segurança da informação, a matriz 3x3 é a forma mais comum, e o OWASP Risk Rating Methodology é citado como referência.
-- O encerramento diz que esse enquadramento ajuda a discutir risco com mais clareza e prepara o terreno para a próxima parte, sobre mitigação.
+- The author says that he spends much of his time thinking about risk, both in software security work and in outdoor activities.
+- He notes that people who work with risk create more refined tools and mental frameworks, while people who do not live in that world usually find the conversation difficult.
+- The text uses examples of flying, driving, and traveling to Alaska to show how risk judgment can be misleading.
+- The series is presented as a quick introduction to the most important concepts for people who encounter risk only occasionally.
+- The initial definition of risk comes from Deb Ajango: risk involves the possibility of gain and loss.
+- The author applies this definition to trips in the wilderness and to releasing software before enough security review.
+- Risk is then treated as something that every action aimed at a benefit carries along with the chance of loss.
+- The text divides risk into two components, likelihood and impact, and uses the examples of a broken deployment and the theft of the CFO's credentials to compare very different scenarios.
+- It mentions that some areas add a third factor, exposure.
+- The text says that it is possible to measure risk with numbers, including calculating an expected value, but that this is usually rare in practice and very labor-intensive.
+- Instead, the author recommends categorizing risks into simple levels, as in 2x2 or 3x3 matrices.
+- The 2x2 matrix appears as useful for distinguishing between choices such as crossing a river right away or looking for another option.
+- In the context of information security, the 3x3 matrix is the most common form, and the OWASP Risk Rating Methodology is cited as a reference.
+- The closing says that this framing helps discuss risk more clearly and sets the stage for the next part, on mitigation.

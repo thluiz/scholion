@@ -2,8 +2,8 @@
 title: "15+ Best Icon Libraries for 2026"
 date: '2026-09-25T01:19:10+01:00'
 category: webclip
-summary: 'O texto compara bibliotecas de ícones para 2026 e destaca opções com mais ícones, melhor integração, customização e formatos diversos, com foco em designers e desenvolvedores.'
-tags: ["icon-libraries", "design", "development"]
+summary: 'The article argues that the icon library market in 2026 has moved beyond FontAwesome, with several libraries offering larger collections, better platform integration, and more customization. It presents a curated list for designers and developers, based on popularity, customization, design variation, integration, available formats, and free icon counts.'
+tags: ["icon-libraries","design","development"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,25 +17,25 @@ sources:
 
 The article argues that the icon library market in 2026 has moved beyond FontAwesome, with several libraries offering larger collections, better platform integration, and more customization. It presents a curated list for designers and developers, based on popularity, customization, design variation, integration, available formats, and free icon counts.
 
-## Fichamento
+## Reading notes
 
-- O texto diz que, em 2026, algumas bibliotecas passaram a superar o FontAwesome por reunirem mais ícones, integração mais ampla e mais opções de personalização.
-- A seleção considera popularidade, customização, variações de estilo, facilidade de integração, formatos disponíveis e quantidade de ícones gratuitos.
-- Lineicons V5 aparece como destaque por reunir 30.000+ ícones, 2.000+ gratuitos, 10 estilos, integração com Figma e frameworks como React, Next.js, Vue e Svelte, além de CDN, editor e vários formatos.
-- Heroicons é descrita como uma biblioteca minimalista criada pelos autores do Tailwind CSS, com 316+ ícones, foco em clareza e suporte a SVG, React e Vue.
-- Lucide é apresentada como open source, com 1.500+ ícones consistentes, leves, escaláveis e customizáveis, mantidos pela comunidade.
-- Uicons oferece 6.640+ ícones em formatos como SVG, PNG e IconFont, com opções free e premium para diferentes projetos.
-- Iconify reúne mais de 100 bibliotecas em um único framework, com 200.000+ ícones e suporte a React, Vue, Svelte e HTML.
-- Streamline Icons é apontada como uma biblioteca ampla, com 350.000+ ícones, atenção ao detalhe e suporte a SVG, Figma, Sketch e PNG.
-- React Icons é apresentada como a opção voltada a desenvolvedores React, com 10.000+ ícones e importação modular.
-- Nucleo é descrita como uma biblioteca profissional, com 30.000+ ícones e suporte a SVG, PNG, IconFont, Figma e Sketch.
-- Ionicons é mostrada como leve e customizável, com 400+ ícones e formatos SVG e Webfont.
-- Bootstrap Icons é a biblioteca oficial do Bootstrap, com 1.800+ ícones e foco em projetos baseados no framework.
-- Feather Icons é descrita como minimalista, open source e leve, com 300+ ícones em SVG e JSX.
-- Material UI Icons segue as diretrizes do Material Design e oferece 2.000+ ícones em SVG e React.
-- Iconsax é a biblioteca oficial do Vuesax, com 6.000+ ícones, seis estilos, grade de 24 px e licença gratuita com restrições.
-- Boxicons oferece 1.500+ ícones limpos e modernos, com CDN gratuito, personalização e licença MIT.
-- Tabler Icons é apresentada como open source, minimalista e nítida, com 4.926 ícones e pesos de traço ajustáveis.
-- IconMonstr reúne 4.700+ ícones monocromáticos gratuitos e sem atribuição.
-- Orion Icons oferece 6.000+ ícones, opções free e premium e um editor interativo.
-- Iconoir é uma biblioteca open source com 1.597 ícones, suporte a modos claro e escuro e integração com SVG, JSX e Figma.
+- The text says that, in 2026, some libraries have begun to surpass FontAwesome by bringing together more icons, broader integration, and more customization options.
+- The selection considers popularity, customization, style variations, ease of integration, available formats, and the number of free icons.
+- Lineicons V5 stands out for bringing together 30,000+ icons, 2,000+ free, 10 styles, integration with Figma and frameworks like React, Next.js, Vue, and Svelte, plus CDN, editor, and several formats.
+- Heroicons is described as a minimalist library created by the authors of Tailwind CSS, with 316+ icons, a focus on clarity, and support for SVG, React, and Vue.
+- Lucide is presented as open source, with 1,500+ consistent, lightweight, scalable, and customizable icons, maintained by the community.
+- Uicons offers 6,640+ icons in formats such as SVG, PNG, and IconFont, with free and premium options for different projects.
+- Iconify brings together more than 100 libraries in a single framework, with 200,000+ icons and support for React, Vue, Svelte, and HTML.
+- Streamline Icons is pointed out as a broad library, with 350,000+ icons, attention to detail, and support for SVG, Figma, Sketch, and PNG.
+- React Icons is presented as the option aimed at React developers, with 10,000+ icons and modular import.
+- Nucleo is described as a professional library, with 30,000+ icons and support for SVG, PNG, IconFont, Figma, and Sketch.
+- Ionicons is shown as lightweight and customizable, with 400+ icons and SVG and Webfont formats.
+- Bootstrap Icons is the official Bootstrap library, with 1,800+ icons and a focus on projects based on the framework.
+- Feather Icons is described as minimalist, open source, and lightweight, with 300+ icons in SVG and JSX.
+- Material UI Icons follows Material Design guidelines and offers 2,000+ icons in SVG and React.
+- Iconsax is the official library of Vuesax, with 6,000+ icons, six styles, a 24 px grid, and a free license with restrictions.
+- Boxicons offers 1,500+ clean and modern icons, with a free CDN, customization, and an MIT license.
+- Tabler Icons is presented as open source, minimalist, and crisp, with 4,926 icons and adjustable stroke weights.
+- IconMonstr brings together 4,700+ monochromatic icons that are free and require no attribution.
+- Orion Icons offers 6,000+ icons, free and premium options, and an interactive editor.
+- Iconoir is an open source library with 1,597 icons, support for light and dark modes, and integration with SVG, JSX, and Figma.

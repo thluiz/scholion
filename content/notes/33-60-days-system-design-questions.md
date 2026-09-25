@@ -16,7 +16,7 @@ sources:
 
 A daily.dev post from Joud Awad, day 33 of a 60-day system design series, frames a concrete failure: an order service backed by Postgres stores only current state, so every overwritten row erases how an order got there. A billing dispute surfaces the gap directly, with two orders sharing an ID and different totals and no way to reconstruct what happened.
 
-## Fichamento
+## Reading notes
 
 - The failure case: an order service taking 200 writes/sec, backed by Postgres storing current state only, with every UPDATE overwriting the previous row and no audit log, event history, or replay.
 - The trigger: a billing dispute over Order #8471, where the current schema can't reconstruct what actually happened to that order over time.

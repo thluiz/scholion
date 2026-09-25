@@ -17,7 +17,7 @@ sources:
 
 The comic centers on a being named “Utility Monster.” The title and caption link it to the idea of “the greatest happiness possible” through utility.
 
-## Fichamento
+## Reading notes
 
 - A comic titled “The Greatest Happiness Possible” presents a character called “Utility Monster.”
 - The caption says, “They named him ‘Utility Monster’,” tying the character to utility as a way of thinking about happiness.

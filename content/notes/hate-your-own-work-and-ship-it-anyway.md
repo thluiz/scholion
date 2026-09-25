@@ -21,7 +21,7 @@ Aaron Stannard argues that self-criticism and shipping are not in tension, they 
 
 He grounds this in the parable of the ceramics class from *Art & Fear* (David Bayles and Ted Orland), where the group graded on quantity produced the best pots, because they were iterating and learning from mistakes while the group graded on a single "perfect" pot spent the term theorizing instead of making.
 
-## Fichamento
+## Reading notes
 
 - The core advice given to team members taking on more ownership: "hate your own work product and still ship it anyway."
 - Two reasons to ship despite known flaws: self-criticism opens you up to feedback and starts improvement early, and only shipping lets you test whether your assumptions about the work's quality were correct.

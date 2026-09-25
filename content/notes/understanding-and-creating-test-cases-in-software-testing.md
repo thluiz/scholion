@@ -19,7 +19,7 @@ The page explains that test cases validate an application’s functionality, qua
 
 It also describes functional, non-functional, regression, negative, boundary, smoke, and integration test cases. The page covers statement, branch, and condition coverage, names several coverage tools, and says generative AI and tools like Keploy can help identify edge cases and generate realistic scenarios.
 
-## Fichamento
+## Reading notes
 
 - Test cases are described as actions, conditions, and inputs used to verify a software feature or function.
 - A well-written test case includes an ID, description, prerequisites, steps, test data, expected result, and actual result.

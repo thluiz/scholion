@@ -19,7 +19,7 @@ sources:
 
 Tim Ferriss introduces Leo Babauta, whose Zen Habits blog grew from one reader (his wife) into a top-100 Technorati blog in under a year, while Babauta quit smoking, lost 40 pounds, went from non-runner to marathoner, and paid off his debt. Ferriss excerpts the method from Babauta's book The Power of Less.
 
-## Fichamento
+## Reading notes
 
 - The method rests on tackling one habit per month rather than several at once, so all effort concentrates on a single change.
 - A written plan names the daily goal, the trigger that precedes it (an existing routine the new habit attaches to), and who will hear about the results.

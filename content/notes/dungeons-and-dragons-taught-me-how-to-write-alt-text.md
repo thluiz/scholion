@@ -2,8 +2,8 @@
 title: "Dungeons & Dragons taught me how to write alt text"
 date: '2026-09-25T08:36:48+01:00'
 category: webclip
-summary: 'O texto usa Dungeons & Dragons para defender que alt text deve começar pelo que é mais importante, adaptar detalhe ao contexto e considerar tom, emoção, autonomia e uso por screen readers.'
-tags: ["alt-text", "acessibilidade", "screen-readers", "dungeons-and-dragons"]
+summary: 'The text uses Dungeons & Dragons to argue that alt text should start with the most important information, adapt detail to context, and consider tone, emotion, autonomy, and screen reader use.'
+tags: ["alt-text","accessibility","screen-readers","dungeons-and-dragons"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,7 +19,7 @@ The post argues that writing alt text can borrow from Dungeons & Dragons: start 
 
 It connects this to screen readers, which announce alt text linearly and let users stop when they have enough information. The author frames image description as a question of power and autonomy, and says alt text can be practiced and improved.
 
-## Fichamento
+## Reading notes
 
 - The author says playing Dungeons & Dragons led them to think about how to describe things by prioritizing what matters most.
 - An advice column in Dragon magazine suggested describing the most important thing first, then adding detail in an order that helps understanding.

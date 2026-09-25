@@ -2,8 +2,8 @@
 title: "Everything You Want to Know About the Record Type in .NET… But Were Afraid to Ask"
 date: '2026-09-25T08:24:53+01:00'
 category: webclip
-summary: 'O texto explica como record types reduzem boilerplate em DTOs, usam init e with para imutabilidade e contam com igualdade, hash e ToString gerados. Também compara desempenho com classes e structs.'
-tags: ["dotnet-5", "record-types", "immutabilidade", "performance"]
+summary: 'The article presents record types in .NET 5 as a fit for model types such as DTOs and POCOs, with less boilerplate and built-in support for immutability. It also notes that records generate equality members, GetHashCode(), and a useful ToString(), while mentioning a custom PropertiesToString() for collection properties.'
+tags: ["dotnet-5","record-types","immutability","performance"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,7 +17,7 @@ sources:
 
 The article presents record types in .NET 5 as a fit for model types such as DTOs and POCOs, with less boilerplate and built-in support for immutability. It also notes that records generate equality members, GetHashCode(), and a useful ToString(), while mentioning a custom PropertiesToString() for collection properties.
 
-## Fichamento
+## Reading notes
 
 - Record types were introduced in .NET 5 to reduce boilerplate code.
 - The author uses record types mainly for model types such as DTOs and POCOs.

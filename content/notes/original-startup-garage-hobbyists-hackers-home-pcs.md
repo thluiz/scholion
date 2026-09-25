@@ -2,8 +2,8 @@
 title: "Original Startup Garage: Hobbyists, Hackers, and Home PCs"
 date: '2026-09-24T22:52:20+01:00'
 category: webclip
-summary: 'A página mostra como a garagem virou mito de origem do Vale do Silício, ligada a hobbyistas, hackers e PCs domésticos, mas sustenta que redes, capital e timing pesaram mais.'
-tags: ["silicon-valley", "startups", "home-computers", "hobbyists"]
+summary: 'The page shows how the garage became a myth of origin for Silicon Valley, tied to hobbyists, hackers, and home PCs, but argues that networks, capital, and timing mattered more.'
+tags: ["silicon-valley","startups","home-computers","hobbyists"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,22 +17,22 @@ sources:
 
 The page argues that the garage became the symbolic birthplace of Silicon Valley, tied to HP, Apple, and Google, and to a culture of hobbyists, hackers, and home PC tinkerers. It also says the myth matters more as symbolism than as a literal account of how companies were built.
 
-## Fichamento
+## Reading notes
 
-- A garagem virou a imagem de origem de empresas como Hewlett-Packard, Apple e Google.
-- HP começou em 1939, quando Bill Hewlett e Dave Packard abriram a empresa numa garagem de um carro em Palo Alto e passaram a montar osciladores de áudio ali.
-- A Apple I foi montada na garagem dos pais de Steve Jobs, mas o texto diz que o trabalho real acontecia sobretudo em quartos e salas de jantar.
-- Google também usou uma garagem em Menlo Park, alugada de Susan Wojcicki, já como gesto simbólico de continuidade dessa origem.
-- O Homebrew Computer Club aparece como o núcleo cultural mais importante, com troca de esquemas, demonstrações de software e hacks entre membros como Wozniak, Jobs e Lee Felsenstein.
-- O texto liga esse ambiente à parceria entre Wozniak e Jobs e à origem da Apple.
-- A carta de Bill Gates aos hobbyists surge como reação à cópia do Altair BASIC e como sinal da tensão entre colaboração aberta e software proprietário.
-- A cultura hacker é descrita como improvisação, uso de peças reaproveitadas e busca por soluções baratas e funcionais.
-- Wozniak reduziu o número de chips do Apple I para baratear o projeto, enquanto Jobs empurrava a ideia de embalagem e acabamento.
-- Paul Allen e Bill Gates escreveram o interpretador BASIC para o Altair 8800 antes de terem uma máquina para testar, usando um mainframe de Harvard.
-- O Altair 8800 é apresentado como um kit que permitiu a muitos hobbyists imaginar um computador próprio.
-- A expansão dos computadores domésticos veio com Commodore, Atari e IBM, e levou adolescentes a programar em BASIC em casa.
-- A página diz que a revolução foi cultural também, porque o computador deixou de ser institucional e passou a ser pessoal.
-- Incubadoras e aceleradoras continuam a reutilizar a estética e o imaginário da garagem, e Y Combinator é citado como exemplo.
-- O texto afirma que a mitologia simplifica demais, porque Apple, Microsoft e Google também dependeram de investimento, educação de elite, acesso a recursos e tempo certo.
-- O que permanece é o valor simbólico da garagem como sinal de começo modesto, improvisação e possibilidade de escalar projetos pequenos para algo maior.
-- No fim, o texto transfere essa ideia para o presente digital, com GitHub, Discord, no-code e equipes pequenas com crédito em nuvem.
+- The garage became the image of the origin of companies such as Hewlett-Packard, Apple, and Google.
+- HP began in 1939, when Bill Hewlett and Dave Packard opened the company in a car garage in Palo Alto and started assembling audio oscillators there.
+- The Apple I was assembled in Steve Jobs's parents' garage, but the text says the real work happened mainly in bedrooms and dining rooms.
+- Google also used a garage in Menlo Park, rented from Susan Wojcicki, as a symbolic gesture of continuity with this origin.
+- The Homebrew Computer Club appears as the most important cultural nucleus, with exchange of schematics, software demonstrations, and hacks among members such as Wozniak, Jobs, and Lee Felsenstein.
+- The text links this environment to the partnership between Wozniak and Jobs and to the origin of Apple.
+- Bill Gates's letter to hobbyists appears as a reaction to the copying of Altair BASIC and as a sign of the tension between open collaboration and proprietary software.
+- Hacker culture is described as improvisation, use of reused parts, and a search for cheap and functional solutions.
+- Wozniak reduced the number of chips in the Apple I to make the project cheaper, while Jobs pushed the idea of packaging and finish.
+- Paul Allen and Bill Gates wrote the BASIC interpreter for the Altair 8800 before having a machine to test it on, using a Harvard mainframe.
+- The Altair 8800 is presented as a kit that allowed many hobbyists to imagine a computer of their own.
+- The expansion of home computers came with Commodore, Atari, and IBM, and led teenagers to program in BASIC at home.
+- The page says the revolution was cultural too, because the computer ceased to be institutional and became personal.
+- Incubators and accelerators continue to reuse the aesthetics and imagery of the garage, and Y Combinator is cited as an example.
+- The text states that the mythology oversimplifies, because Apple, Microsoft, and Google also depended on investment, elite education, access to resources, and the right timing.
+- What remains is the symbolic value of the garage as a sign of a modest beginning, improvisation, and the possibility of scaling small projects into something bigger.
+- In the end, the text transfers this idea to the digital present, with GitHub, Discord, no-code, and small teams with cloud credit.

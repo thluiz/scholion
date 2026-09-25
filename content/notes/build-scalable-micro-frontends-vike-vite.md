@@ -21,7 +21,7 @@ The tutorial walks through combining Vike, the SSR/SSG framework formerly known 
 
 The worked example builds two projects: a standalone Vite + Vue app that exposes a Card component through `remoteEntry.js`, and a Vike-react app that imports that same component as `remoteApp/Card`. Each app keeps its own framework, build process, and deploy path; only the exposed module crosses the boundary.
 
-## Fichamento
+## Reading notes
 
 - Vike is pitched on being zero-config by default while still giving control where it matters, and on working across React, Vue, Svelte, or other frameworks rather than locking a project into one.
 - Bati, Vike's scaffolding tool, lets a new project pick CSS library, auth method, database, and data-fetching library at creation time, as an alternative to Vike's own bare-bones starter.

@@ -21,7 +21,7 @@ Ewerlöf argues that Engineering Managers are accountable for both the people on
 
 The piece locates the role's real value outside any single team. A Staff Engineer scoped to one team is framed as a temporary arrangement, useful during onboarding or while clearing legacy debt. Across teams, the role works as glue: fewer meetings than an EM, more time in the technical depth, mapped to Will Larson's four archetypes for the role.
 
-## Fichamento
+## Reading notes
 
 - EM accountability covers people and the technical artifacts the team ships; when the load exceeds capacity, EMs delegate admin work or hand technical load to a Staff Engineer.
 - A Staff Engineer acting as a translation layer for a non-technical EM is called out as an anti-pattern, not a fix.

@@ -21,7 +21,7 @@ A friend's Engineering Manager offer, and his plan to decline it, pushes Zaides 
 
 Zaides stays an EM himself for two reasons. He's optimistic that experienced, still-hands-on managers keep skills like system design and code review relevant. And he says plainly that he enjoys the job more than he'd enjoy being an IC, even while believing IC is the smarter move in 2026.
 
-## Fichamento
+## Reading notes
 
 - Companies still need people to run teams, but competition above EM level now includes experienced leaders laid off from flattened orgs.
 - Getting promoted as an EM now mostly means managing more people rather than gaining scope in place, and that path may not be open right now.

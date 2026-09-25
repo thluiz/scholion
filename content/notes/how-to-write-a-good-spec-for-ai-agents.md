@@ -22,7 +22,7 @@ Addy Osmani lays out a framework for writing specs that keep AI coding agents li
 
 Osmani closes with failure modes drawn from the same GitHub study: vague prompts, context dumped without summarization, skipped human review, and treating exploratory "vibe coding" the same as production engineering. He also cites Simon Willison's "lethal trifecta" of speed, non-determinism, and cost as the combination that makes unreviewed agent output dangerous.
 
-## Fichamento
+## Reading notes
 
 - Throwing a massive, RFC-sized spec at an agent in one shot doesn't work: context window limits and the model's "attention budget" get in the way.
 - Principle 1: start with a concise goal statement and let the agent draft the detailed spec.md from it. Claude Code's Plan Mode (Shift+Tab) keeps the agent read-only while it explores the codebase and drafts.

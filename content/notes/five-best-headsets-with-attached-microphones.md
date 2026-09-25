@@ -19,7 +19,7 @@ sources:
 
 Lifehacker asked readers to nominate their favorite headsets with an attached microphone, then rounded up the five that got the most votes, from budget open-back cans to a $250+ wireless system.
 
-## Fichamento
+## Reading notes
 
 - Sennheiser's discontinued PC 350 SE tops the list on audio quality: readers praised its noise-cancelling boom mic and the fact it doubles as a plain pair of headphones when the mic isn't in use.
 - The Razer Kraken 7.1 Chroma splits opinion: readers liked the customizable EQ profiles and virtual surround, but called the music playback muddy at best.

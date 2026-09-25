@@ -22,7 +22,7 @@ Matteo Baglini interviews Scott Wlaschin, author of fsharpforfunandprofit.com an
 
 The DDD connection rests on composability. DDD asks subsystems to stay composable and autonomous, and FP's absence of mutable state makes that easier to sustain in practice than OO's theoretical support for the same properties. He also credits FP's algebraic type system, where AND/OR map directly onto domain choices, with modeling a domain more concisely than OO subclassing does.
 
-## Fichamento
+## Reading notes
 
 - FP predates object-oriented programming and keeps surfacing inside OO languages, through features like Java's lambdas and C#'s immutable records.
 - FP suits data-transformation pipelines; a distributed system of independent components fits an actor model instead, the way Erlang works, and behavior-heavy code such as a GUI widget library fits OO.

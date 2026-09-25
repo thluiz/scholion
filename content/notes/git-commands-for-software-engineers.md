@@ -17,7 +17,7 @@ sources:
 
 The page collects the Git commands a software engineer is likely to use, starting with setup and basic repository work and then moving through branching, merging, rebasing, logging, diffs, stashes, and remote operations. It also includes commands for inspecting history, recovering changes, handling tags, submodules, patches, and repository maintenance.
 
-## Fichamento
+## Reading notes
 
 - The guide treats Git as a core tool for version control, collaboration, and project management.
 - It groups commands by use, covering configuration, repository creation and cloning, and status and staging.

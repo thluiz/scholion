@@ -20,7 +20,7 @@ sources:
 
 Bessemer Venture Partners builds its AI pricing framework around one number: AI companies see 50-60% gross margins against 80-90% for classic SaaS, because every query carries a real compute cost that a new SaaS customer never added. Jacob Jackson, co-founder of Supermaven and ML lead at Cursor, puts it to Bessemer this way: "When you receive $10 from the customer, you can't just spend 10 cents on AWS." The charge metric a founder picks, tokens, completed workflows, or resolved outcomes, decides how much of that cost variability the company absorbs.
 
-## Fichamento
+## Reading notes
 
 - Three charge metrics dominate. Consumption (per token or API call) keeps margins predictable but works only for technical buyers who think in those units. Workflow (per completed task, like booking a meeting or drafting a contract) has variable cost but lets customers calculate time saved. Outcome (per resolved ticket, per signed document) locks in the clearest value for the customer, at the price of absorbing the cost of whatever it takes the AI to get there.
 - Leena AI's own pivot illustrates the trap of consumption pricing: charging per use made customers wary of using the product at all. Switching to an outcomes model, tickets closed by its automated agents, gave customers a number they could budget against.

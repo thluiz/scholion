@@ -19,7 +19,7 @@ sources:
 
 The pattern starts from a gap in MVC: it separates UI widgetry from domain objects, but says nothing about how the domain talks to the outside world (persistence, network protocols, whatever sits past the object model). Four Layer Architecture answers by splitting the application into View, ApplicationModel, DomainModel and Infrastructure, each with a distinct job and a boundary the next layer doesn't cross.
 
-## Fichamento
+## Reading notes
 
 - View holds the physical windows and widgets, plus any Controller classes; a window-builder tool generates most of it.
 - ApplicationModel mediates between UI components and the domain, translating UI events into domain messages and driving navigation between screens.

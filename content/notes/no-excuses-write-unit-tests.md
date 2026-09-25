@@ -2,8 +2,8 @@
 title: "No excuses, write unit tests"
 date: '2026-09-25T00:12:27+01:00'
 category: webclip
-summary: 'O texto defende que testes unitários mostram como o código se comporta, ajudam a detectar mudanças que quebram APIs e deslocam a correção de bugs para antes da produção.'
-tags: ["unit-testing", "software-testing", "code-quality"]
+summary: 'The text argues that unit testing is worth the upfront time because it exposes how functions behave, makes API changes visible, and catches bugs before they reach production. It also says that writing tests often leads to clearer, smaller, easier-to-test code.'
+tags: ["unit-testing","software-testing","code-quality"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,7 +17,7 @@ sources:
 
 The text argues that unit testing is worth the upfront time because it exposes how functions behave, makes API changes visible, and catches bugs before they reach production. It also says that writing tests often leads to clearer, smaller, easier-to-test code.
 
-## Fichamento
+## Reading notes
 
 - Unit testing is presented as a useful practice even when teams worry about time, coverage disagreements, or broken tests.
 - A unit can be any isolated block of code, including a function, though groups of functions are harder to test because they have more moving parts.

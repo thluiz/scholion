@@ -22,7 +22,7 @@ Kurt Kleiner, writing for Knowable Magazine and republished by Ars Technica, cov
 
 The appeal is carbon. Steel and concrete together account for close to 15 percent of global CO2 emissions, and wood is renewable. But the article is careful about the fire, moisture, and accounting problems that come with building this way, and about how much of the climate case still rests on assumptions researchers haven't fully verified.
 
-## Fichamento
+## Reading notes
 
 - Mass timber elements can be stronger than steel by weight, but need more bulk to match that strength, so very tall buildings like Ascent still combine wood with steel and concrete.
 - Fire codes historically limited wood construction to low-rise buildings; testing showing that char forms on the timber's surface and insulates the interior helped convince regulators, and the International Building Code now allows mass timber up to 18 stories.

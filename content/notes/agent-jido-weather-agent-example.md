@@ -22,7 +22,7 @@ Jido is an agent framework built in [Elixir](/notes/elixir/), and this post walk
 
 Actions are typed, schema-validated units of functionality, such as `Jido.Tools.Weather`, which wraps the OpenWeatherMap API; an AI Skill routes incoming messages by signal type and renders them into a prompt template before an Action runs; the Agent process holds state and exposes the public API that ties both together.
 
-## Fichamento
+## Reading notes
 
 - `Jido.Action` validates parameters against a declared schema automatically, and its `to_tool/0` function converts the Action's definition into a JSON schema an LLM framework like Langchain can call as a tool.
 - Every user message becomes a `Jido.Signal`, Jido's standard messaging format, wrapping the message with a type like `"jido.ai.tool.response"` before it reaches the agent process.

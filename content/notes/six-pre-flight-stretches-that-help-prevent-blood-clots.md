@@ -19,7 +19,7 @@ sources:
 
 Sitting for long stretches, like on a cross-country or international flight, raises the risk of deep vein thrombosis. This piece lists a six-stretch pre-flight routine meant to lower that risk, sourced from a Travel + Leisure video with a fitness expert and a medical editor from Health Magazine.
 
-## Fichamento
+## Reading notes
 
 - Downdog calf stretch: downward dog position, alternating heel presses to the ground.
 - Inchworm: from standing, hands to the ground, walk forward into plank, drop the hips, then inch back to start.

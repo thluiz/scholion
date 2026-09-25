@@ -2,8 +2,8 @@
 title: "33 JavaScript Concepts Every Developer Should Know"
 date: '2026-09-25T08:57:01+01:00'
 category: webclip
-summary: 'Repositório com 33 conceitos centrais de JavaScript, cada um com explicações, exemplos práticos e recursos curados, além de extensões sobre mecânica da linguagem, objetos, memória, eventos e dados.'
-tags: ["javascript", "conceitos", "programacao", "web"]
+summary: 'Repository with 33 core JavaScript concepts, each with explanations, practical examples, and curated resources, plus extensions on language mechanics, objects, memory, events, and data.'
+tags: ["javascript", "concepts", "programming", "web"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,11 +17,11 @@ sources:
 
 This repository is organized as a guide to core JavaScript concepts, with each topic paired with explanations, practical code examples, and curated resources. It also points to translations, contributing guidelines, and an extended set of topics beyond the original 33.
 
-## Fichamento
+## Reading notes
 
-- O repositório ajuda desenvolvedores a dominar conceitos centrais de JavaScript.
-- Cada conceito inclui explicações claras, exemplos de código práticos e recursos selecionados.
-- A lista principal cobre fundamentos, funções e execução, plataforma web, JavaScript orientado a objetos, programação assíncrona, programação funcional e tópicos avançados.
-- Há uma seção “Beyond 33: Extended Concepts” com temas adicionais sobre mecânica da linguagem, sistema de tipos, objetos e propriedades, memória e performance, sintaxe moderna, armazenamento no navegador, eventos, observer APIs e tratamento de dados.
-- O projeto informa que foi traduzido para mais de 40 idiomas pela comunidade.
-- O repositório também direciona para guia de contribuição e licença MIT.
+- The repository helps developers master core JavaScript concepts.
+- Each concept includes clear explanations, practical code examples, and selected resources.
+- The main list covers fundamentals, functions and execution, the web platform, object-oriented JavaScript, asynchronous programming, functional programming, and advanced topics.
+- There is a section “Beyond 33: Extended Concepts” with additional themes about language mechanics, type system, objects and properties, memory and performance, modern syntax, browser storage, events, observer APIs, and data handling.
+- The project states that it has been translated into more than 40 languages by the community.
+- The repository also points to the contribution guide and MIT license.

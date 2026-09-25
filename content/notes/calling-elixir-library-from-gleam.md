@@ -22,7 +22,7 @@ Michael Lynch wanted to see Gleam's flagship interop feature in action, calling 
 
 The core difficulty is the type mismatch between a statically typed language and a dynamically typed one running on the same virtual machine. [Elixir](/notes/elixir/) and Gleam both compile to BEAM bytecode, so Gleam can call Elixir functions directly, but Gleam has no native concept of Elixir's `Enumerable` protocol, and the wrapper has to bridge that gap by hand.
 
-## Fichamento
+## Reading notes
 
 - Gleam calls Elixir code through the `@external(erlang, "Elixir.CSV", "encode")` attribute, using the `Elixir.` prefix because that's the namespace Elixir functions get compiled to on BEAM.
 - `CSV.encode` takes a list of lists of strings and returns something typed as Elixir's `Enumerable`, which has no Gleam equivalent, so Lynch defines an opaque `ElixirEnumerable` placeholder type just to receive it.

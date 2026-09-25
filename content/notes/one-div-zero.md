@@ -18,7 +18,7 @@ The page presents a parody creed about yak shaving in programming. It treats the
 
 It also portrays the programmer as studying the yak in detail and becoming entangled with it, much like with the previous yak. By the end, the programmer swears that both of them are what blocks productivity and delays release, and that this continues until the code ships and nothing remains but hair.
 
-## Fichamento
+## Reading notes
 
 - The text is written as a mock oath centered on yak shaving.
 - The yak is described as personally attached to the speaker and central to their work life.

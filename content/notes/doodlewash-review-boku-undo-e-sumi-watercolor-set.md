@@ -3,7 +3,7 @@ title: "Doodlewash Review: Boku-Undo E-Sumi Watercolor Set + Gansai + Exotic Pap
 date: '2026-09-25T08:06:56+01:00'
 category: webclip
 summary: 'A review of Boku-Undo’s six-color E-Sumi set finds rich, matte, opaque washes that work well on mixed media, Tomoe River, rice paper, and especially Yupo.'
-tags: ["watercolor-review", "gansai", "japanese-art-supplies"]
+tags: ["watercolor-review","gansai","japanese-art-supplies"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,21 +17,21 @@ sources:
 
 The post reviews Boku-Undo’s E-Sumi Watercolor Paint 6 Colors Set as a Japanese gansai-style watercolor with strong pigment, muted dark colors, and a matte finish. It compares the set with other Japanese paints, notes that the colors can be hard to tell apart in the pans, and shows how they behave on several papers, especially Yupo.
 
-## Fichamento
+## Reading notes
 
-- O conjunto tem seis godês grandes, vem numa caixa de papelão com textura e traz amostras de cor sob a tampa.
-- A autora classifica as tintas como gansai japonês tradicional, feitas pela Boku-Undo Co., Ltd., em Nara, no Japão, uma empresa com mais de 200 anos.
-- As cores lembram, em parte, a Muted Collection da Liquitex, mas aqui a tinta é opaca e seca sem brilho.
-- A tinta carrega muito pigmento com pouco contato do pincel, mistura bem e levanta com facilidade.
-- O conjunto é de tons escuros e suaves, que a autora descreve como variações de vermelho, amarelo, verde, azul, roxo e marrom escuros.
-- As cores na tampa não são precisas e, nos godês, os tons ficam difíceis de distinguir, o que leva a autora a querer marcar a caixa e rotular a base dos panos.
-- As tintas podem ser usadas espessas e opacas ou mais diluídas para uma aplicação transparente.
-- Em papel mixed media da Canson XL e em Arches cold press, o conjunto mostrou boa resposta em camadas diluídas e em aplicação mais carregada.
-- Em Tomoe River paper dentro de um Hobonichi Techo, as tintas funcionaram muito bem e mantiveram um clima noturno forte.
-- A autora diz que passou a usá-las mais diluídas e às vezes misturadas com outras tintas.
-- Em seus estudos rápidos, ela percebeu pouca diferença entre o azul e o roxo, embora em alguns papéis a distinção fique um pouco mais clara.
-- Em papel arroz, a diferença entre azul escuro e roxo escuro aparece só de forma sutil, e ela usa feltro por baixo por causa da espessura do papel.
-- Em Yupo, ela acha que as tintas mostram seu melhor resultado, porque o papel pede mais controle e entrega mais caos.
-- O texto também menciona LUMI Accent Color e Kuretake Gansai Tambi como referências de produtos relacionados.
-- No fim, a autora fala de panos de algodão planos e não branqueados, comprados como fraldas de pano, que ela usa para limpar pincéis e considera mais úteis que papel-toalha.
-- A resenha é apresentada como ajuda para quem quer escolher materiais de arte, e a autora convida o leitor a procurar outras reviews no site.
+- The set has six large pans, comes in a textured cardboard box, and includes color swatches under the lid.
+- The author classifies the paints as traditional Japanese gansai, made by Boku-Undo Co., Ltd., in Nara, Japan, a company with more than 200 years of history.
+- The colors partly resemble Liquitex’s Muted Collection, but here the paint is opaque and dries without shine.
+- The paint carries a lot of pigment with little brush contact, mixes well, and lifts easily.
+- The set is made of dark, subdued tones, which the author describes as variations of dark red, yellow, green, blue, purple, and brown.
+- The colors on the lid are not accurate, and in the pans the tones become hard to distinguish, which leads the author to want to mark the box and label the base of the cloths.
+- The paints can be used thick and opaque or more diluted for a transparent application.
+- On Canson XL mixed media paper and on Arches cold press, the set showed a good response in diluted layers and in heavier application.
+- On Tomoe River paper inside a Hobonichi Techo, the paints worked very well and maintained a strong night mood.
+- The author says she started using them more diluted and sometimes mixed with other paints.
+- In her quick studies, she noticed little difference between blue and purple, although on some papers the distinction becomes a bit clearer.
+- On rice paper, the difference between dark blue and dark purple appears only subtly, and she uses felt underneath because of the paper’s thickness.
+- On Yupo, she thinks the paints show their best result, because the paper demands more control and delivers more chaos.
+- The text also mentions LUMI Accent Color and Kuretake Gansai Tambi as references for related products.
+- At the end, the author talks about flat, unbleached cotton cloths, bought as cloth diapers, that she uses to clean brushes and considers more useful than paper towels.
+- The review is presented as help for anyone who wants to choose art materials, and the author invites the reader to look for other reviews on the site.

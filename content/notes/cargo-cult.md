@@ -3,7 +3,7 @@ title: "Cargo Cult"
 date: '2026-09-24T22:33:01+01:00'
 category: webclip
 summary: 'The post uses Feynman’s idea of cargo cult science to argue that rituals can imitate successful methods without the essential honesty, care, and self-checking that make them work.'
-tags: ["cargo-cult", "richard-feynman", "scientific-integrity"]
+tags: ["cargo-cult","richard-feynman","scientific-integrity"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,13 +19,13 @@ The post uses Richard Feynman’s 1974 remarks to describe cargo cult science as
 
 It also stresses that conversations fail quickly when they begin with labels like “You’re an idiot,” and it highlights Feynman’s emphasis on scientific integrity, honest explanation, testing theories against more than their original inspiration, and the need not to fool oneself.
 
-## Fichamento
+## Reading notes
 
 - Feynman defines cargo cult science as work that follows the visible forms of science but lacks the essential element that makes the planes land.
-- O texto liga essa imagem à divisão do mundo em facções, em que cada lado acredita estar certo e vê os outros como errados.
-- O autor diz que chamar alguém de “idiota” encerra a conversa antes de ela começar.
-- A fala de Feynman é apresentada como válida não só para cientistas, mas para humanos civilizados em geral.
-- O texto destaca a integridade científica como honestidade rigorosa e cuidado para não se enganar.
-- Também destaca que uma teoria precisa acertar algo além do que motivou sua formulação.
-- Feynman afirma que outros experimentadores repetirão o teste e que a natureza confirmará ou negará a teoria.
-- O trecho final ressalta que o primeiro princípio é não se enganar, porque essa é a tarefa mais fácil de falhar.
+- The text links this image to the division of the world into factions, in which each side believes it is right and sees the others as wrong.
+- The author says that calling someone an “idiot” ends the conversation before it begins.
+- Feynman’s speech is presented as valid not only for scientists, but for civilized humans in general.
+- The text highlights scientific integrity as rigorous honesty and care not to fool oneself.
+- It also highlights that a theory needs to get something right beyond what motivated its formulation.
+- Feynman states that other experimenters will repeat the test and that nature will confirm or deny the theory.
+- The final passage emphasizes that the first principle is not to fool oneself, because that is the easiest task to fail at.

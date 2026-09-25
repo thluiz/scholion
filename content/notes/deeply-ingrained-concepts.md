@@ -17,7 +17,7 @@ sources:
 
 The page says some concepts are so fundamental in Western culture that they are hard to see, including Cartesian dualism, free will, individualism, and linear time. It then points to science and other cultures as ways of thinking differently about them.
 
-## Fichamento
+## Reading notes
 
 - The page says embodied cognition suggests thinking is distributed throughout the body and shaped by sensory experience.
 - It says modern botanical science and studies of colonial insects suggest emergent behaviors and structures beyond current information processing.

@@ -19,7 +19,7 @@ sources:
 
 Jasmine Sun's viral New York Times essay "Silicon Valley Is Bracing For A Permanent Underclass" describes a private consensus among AI industry insiders: automation will strip the median worker of economic leverage, regardless of what companies say in public. No single AI company can afford to slow automation without ceding ground to rivals. OpenAI and Anthropic have each floated redistributive policy ideas in white papers, but neither has named specific legislation it actually supports.
 
-## Fichamento
+## Reading notes
 
 - Sun's reporting describes a "San Francisco consensus," cutting across engineers, VCs, doomers and accelerationists, that AI will displace millions of jobs while concentrating wealth and power with AI companies and existing capital owners.
 - The market logic Bowen describes is closed: no company or nation can slow down without risking being outcompeted, so layoffs and automation proceed even before executives know whether AI can actually replace a given role.

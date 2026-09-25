@@ -3,7 +3,7 @@ title: "How to Think About Time"
 date: '2026-09-25T08:40:09+01:00'
 category: webclip
 summary: 'The guide separates physical time from civil time, defines instants, durations, datetimes, periods, and time zones, and warns about ambiguous math, storage, and wall-clock use.'
-tags: ["time", "date-time", "time-zones"]
+tags: ["time","date-time","time-zones"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,28 +19,28 @@ The guide builds time from two distinct realms. Physical time uses instants and 
 
 It also warns about several practical pitfalls: negative durations and periods, month-based math, storing values without thinking through time-zone changes, and using wall time to measure elapsed time. UTC is useful as a reference, but zone-independent code should stay in physical time and use types that model instants and durations only.
 
-## Fichamento
+## Reading notes
 
-- O texto propõe um modelo mental para datas e horas baseado em conceitos separados, em vez de práticas soltas.
-- O tempo físico é descrito como uma timeline com instantes e durações, medidos em segundos.
-- Durações são diferenças entre instantes; meses e anos não têm significado preciso nesse uso.
-- Durações negativas são possíveis, mas o texto recomenda evitá-las por causa de bugs e expectativas implícitas.
-- As operações válidas no tempo físico são instant menos instant igual a duração, instant mais ou menos duração igual a instant, duração com duração, e duração vezes ou dividido por número real.
-- Um instante particular só pode ser referido com ajuda de uma duração em relação a um instante de referência, chamado epoch.
-- O tempo civil é apresentado como um conjunto de conceitos humanos como meses, anos, dias úteis, feriados e calendários.
-- No calendário gregoriano, data é ano, mês e dia; hora do dia é hora, minuto e segundo; datetime combina esses seis campos.
-- O texto trata o calendário gregoriano prolepticamente para estender o sistema a toda a história.
-- Fuso horário não é um sétimo campo do civil datetime; é o conjunto de regras que converte entre instante e datetime.
-- Os melhores fusos horários são os da base IANA, como `America/New_York` e `Asia/Kolkata`.
-- Códigos de três letras como `PST` são apontados como ruins porque geram ambiguidade e comportamento inconsistente.
-- UTC é descrito como o fuso mais simples, com deslocamento fixo zero, usado como ponto de referência.
-- Para código independente de fuso, o texto recomenda ficar apenas no tempo físico e usar tipos que modelam instantes e durações.
-- Guardar instantes ou datetimes exige pensar em mudanças de fuso do usuário e em alterações nas regras de fuso.
-- O texto desaconselha tipos que misturam datetime ou instante com fuso horário, porque eles juntam tempo físico e civil e tornam a serialização ambígua.
-- Wall time é aproximado, pode sofrer correções e não deve ser usado para medir tempo decorrido.
-- Tempo decorrido deve ser medido com uma ferramenta própria, como Stopwatch.
-- Leap seconds são tratados como exceções raras que geralmente podem ser ignoradas, embora afetem leituras de relógio.
-- Midnight nem sempre existe em um dia local; às vezes o correto é falar em start of day.
-- Recorrências são regras para selecionar datas ou datetimes sucessivos, distintas da aritmética de períodos.
-- O texto recomenda escrever datas em formato ISO `YYYY-MM-DD` para evitar ambiguidade cultural.
-- A seção final lista APIs por linguagem que representam cada conceito de forma separada.
+- The text proposes a mental model for dates and times based on separate concepts, rather than loose practices.
+- Physical time is described as a timeline with instants and durations, measured in seconds.
+- Durations are differences between instants; months and years do not have precise meaning in this use.
+- Negative durations are possible, but the text recommends avoiding them because of bugs and implicit expectations.
+- The valid operations in physical time are instant minus instant equals duration, instant plus or minus duration equals instant, duration with duration, and duration times or divided by a real number.
+- A particular instant can only be referred to with the help of a duration in relation to a reference instant, called epoch.
+- Civil time is presented as a set of human concepts such as months, years, business days, holidays, and calendars.
+- In the Gregorian calendar, date is year, month, and day; time of day is hour, minute, and second; datetime combines these six fields.
+- The text treats the proleptic Gregorian calendar to extend the system to all history.
+- Time zone is not a seventh field of civil datetime; it is the set of rules that converts between instant and datetime.
+- The best time zones are those from the IANA database, such as `America/New_York` and `Asia/Kolkata`.
+- Three-letter codes like `PST` are pointed out as bad because they generate ambiguity and inconsistent behavior.
+- UTC is described as the simplest time zone, with fixed zero offset, used as a reference point.
+- For zone-independent code, the text recommends staying only in physical time and using types that model instants and durations.
+- Storing instants or datetimes requires thinking about user time-zone changes and changes in time-zone rules.
+- The text advises against types that mix datetime or instant with time zone, because they join physical and civil time and make serialization ambiguous.
+- Wall time is approximate, can be adjusted, and should not be used to measure elapsed time.
+- Elapsed time should be measured with a dedicated tool, such as Stopwatch.
+- Leap seconds are treated as rare exceptions that can usually be ignored, although they affect clock readings.
+- Midnight does not always exist in a local day; sometimes the correct term is start of day.
+- Recurrences are rules for selecting successive dates or datetimes, distinct from period arithmetic.
+- The text recommends writing dates in ISO `YYYY-MM-DD` format to avoid cultural ambiguity.
+- The final section lists APIs by language that represent each concept separately.

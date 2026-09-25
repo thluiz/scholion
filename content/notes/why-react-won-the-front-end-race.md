@@ -17,7 +17,7 @@ sources:
 
 React is presented as the front-end choice that dominates in 2024 because it is backed by Meta and has stayed relevant through steady maintenance. The page also says its popularity comes from the freedom it gives developers to assemble their own stack, even if that freedom often turns into extra dependencies and complexity.
 
-## Fichamento
+## Reading notes
 
 - React is described as the front-end tool that has come out ahead in 2024, with Meta’s backing treated as a major reason for its staying power.
 - The text stresses that React is a library, not a framework, and says its appeal is the flexibility to choose routing, state management and project structure.

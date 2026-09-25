@@ -2,8 +2,8 @@
 title: "My first experience as a Tech Lead"
 date: '2026-09-25T00:54:46+01:00'
 category: webclip
-summary: 'O autor descreve como liderar exigiu avaliar comunicação, interesse e contexto dos candidatos, além de código, e como a função o afastou da programação direta.'
-tags: ["soft-skills", "tech-lead", "project-management"]
+summary: 'The author describes how leadership required him to assess candidates'' communication, interest, and context, in addition to code, and how the role moved him away from direct programming.'
+tags: ["soft-skills","tech-lead","project-management"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,15 +17,15 @@ sources:
 
 The author says this experience changed how he looked at hiring and leadership. In the selection process, communication, interest in the role and the context a candidate presents became relevant alongside the code. In a leadership role, he also had to think about team composition, project management methods, architecture and coordination with management, which moved him farther from day-to-day coding.
 
-## Fichamento
+## Reading notes
 
-- Na seleção, ele percebeu que HR, entrevista técnica, líder técnico e manager faziam parte de um processo que antes lhe parecia quase burocrático.
-- Ao colaborar com HR para preparar um teste e o formato da entrevista, ele passou a considerar comunicação, interesse na vaga e adequação ao contexto do candidato como pontos tão relevantes quanto o código.
-- Ele afirma que, para vagas mais avançadas, soft skills como comunicação, documentação, adaptabilidade e proatividade podem ser decisivas junto com a técnica.
-- O texto diz que senioridade varia muito e que não há um padrão universal para definir o que é um senior.
-- Para ele, um senior resolve problemas complexos de código e arquitetura, mantém qualidade, segue boas práticas e conhece gestão de projetos.
-- Ele acrescenta que o senior atua de forma autônoma, colabora com equipes de níveis e áreas diferentes e ajuda a formar outros desenvolvedores.
-- Na primeira liderança de projeto, ele precisou estudar metodologias como Pert e Planning Poker para responder quantas pessoas e que tipo de perfil seriam necessários.
-- O trabalho incluiu decidir stack, plataforma, arquitetura, acompanhar métricas, observar o nível de cada desenvolvedor e fazer muitas reuniões com a gestão.
-- Ele diz que, com o tempo, ficou mais distante do código e passou a sugerir melhorias, corrigir bugs críticos e coordenar tarefas com a equipe.
-- No fechamento, ele relata ter conhecido diferentes tipos de seniors, alguns pouco comunicativos, outros bons em ensinar e outros mais voltados a over-engineering, mas todos com algo a ensinar.
+- In the selection process, he realized that HR, the technical interview, the technical lead, and the manager were part of a process that had previously seemed almost bureaucratic to him.
+- While collaborating with HR to prepare a test and the interview format, he began to consider communication, interest in the position, and fit with the candidate's context as points as relevant as the code.
+- He states that, for more advanced positions, soft skills such as communication, documentation, adaptability, and proactivity can be decisive along with technical skill.
+- The text says that seniority varies greatly and that there is no universal standard for defining what a senior is.
+- For him, a senior solves complex code and architecture problems, maintains quality, follows good practices, and knows project management.
+- He adds that the senior acts autonomously, collaborates with teams of different levels and areas, and helps train other developers.
+- In his first project leadership role, he needed to study methodologies such as Pert and Planning Poker to answer how many people and what kind of profile would be necessary.
+- The work included deciding stack, platform, architecture, tracking metrics, observing each developer's level, and having many meetings with management.
+- He says that, over time, he became further removed from the code and began suggesting improvements, fixing critical bugs, and coordinating tasks with the team.
+- In closing, he says he met different kinds of seniors, some not very communicative, others good at teaching, and others more focused on over-engineering, but all with something to teach.

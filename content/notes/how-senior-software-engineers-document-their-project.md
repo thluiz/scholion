@@ -3,7 +3,7 @@ title: "How Senior Software Engineers Document Their Project"
 date: '2026-09-25T00:25:18+01:00'
 category: webclip
 summary: 'The article argues that ADRs help teams record architectural changes, their impact, and what was learned, so future developers can understand decisions and avoid relying on memory.'
-tags: ["software-documentation", "adr", "architecture", "team-process"]
+tags: ["software-documentation","adr","architecture","team-process"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,15 +19,15 @@ The article says software engineers often dislike documentation, but documenting
 
 It also says ADRs can live in a repository, Notion, or JIRA, and that linking changes to issues can help teams remember technical decisions months or years later.
 
-## Fichamento
+## Reading notes
 
-- O texto defende que documentar decisões de arquitetura ajuda porque a memória falha com o tempo.
-- ADR significa Architectural Decision Record e serve para registrar a mudança feita, o impacto dela e o que foi aprendido.
-- O autor compara o ADR a um diário pessoal, mas usado pela equipe.
-- O texto diz que documentar mudanças ajuda outros desenvolvedores a entender por que uma escolha foi feita, inclusive quem entra depois no projeto.
-- O autor descreve um projeto fintech em que a equipe avançou rápido e não priorizou planejamento de escalabilidade.
-- Ele diz que, ao pesquisar, encontrou o ADR como uma convenção de documentação que lhe agradou.
-- O texto mostra um modelo de ADR com contexto, problema, fatores de decisão, opções consideradas, resultado da decisão, consequências, confirmação, prós e contras e mais informações.
-- Também afirma que esse tipo de documento pode ficar no repositório do projeto, no Notion ou no JIRA.
-- O autor relata que, na empresa anterior, usavam issues do GitLab e ligavam cada mudança a uma branch para acompanhar os motivos das alterações.
-- A conclusão do texto reforça que ADRs ajudam líderes de time, colegas e pessoas que chegam depois a entender decisões técnicas passadas.
+- The text argues that documenting architecture decisions helps because memory fails over time.
+- ADR means Architectural Decision Record and serves to record the change made, its impact, and what was learned.
+- The author compares the ADR to a personal diary, but used by the team.
+- The text says that documenting changes helps other developers understand why a choice was made, including those who join the project later.
+- The author describes a fintech project in which the team moved fast and did not prioritize scalability planning.
+- He says that, in researching, he found ADR as a documentation convention that he liked.
+- The text shows an ADR template with context, problem, decision factors, options considered, decision outcome, consequences, confirmation, pros and cons, and more information.
+- It also states that this type of document can be kept in the project repository, in Notion, or in JIRA.
+- The author reports that, at the previous company, they used GitLab issues and linked each change to a branch to track the reasons for the changes.
+- The conclusion of the text reinforces that ADRs help team leaders, colleagues, and people who arrive later understand past technical decisions.

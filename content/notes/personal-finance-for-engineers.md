@@ -2,8 +2,8 @@
 title: "Personal Finance for Engineers 🏦"
 date: '2026-09-25T09:10:01+01:00'
 category: webclip
-summary: 'O texto defende que engenheiros precisam tratar finanças pessoais como parte da carreira, porque renda alta, volatilidade do mercado e juros compostos tornam cedo o hábito de poupar, investir e automatizar decisões.'
-tags: ["financas-pessoais", "engenharia", "investimentos", "planejamento-financeiro"]
+summary: 'The article argues that personal finance matters for engineers because they often earn well, face career volatility, and can benefit a lot from starting early. It ties money habits to long-term outcomes like savings, retirement, and flexibility in choosing jobs.'
+tags: ["personal-finance", "engineering", "investments", "financial-planning"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,7 +19,7 @@ The article argues that personal finance matters for engineers because they ofte
 
 It then lays out a practical starting point: track spending, calculate a savings rate, set short- and long-term goals, understand risk tolerance, and automate savings and bill payments. It also describes a money toolkit that includes an emergency fund, high-yield savings accounts, retirement accounts, bonds, ETFs, individual stocks, and a small "fun money" allocation, followed by example portfolio allocations and a list of resources.
 
-## Fichamento
+## Reading notes
 
 - The article says engineers often make good money, but that can lead to spending more than they should.
 - It links personal finance to career volatility in tech, including layoffs, startup risk, and stronger competition.

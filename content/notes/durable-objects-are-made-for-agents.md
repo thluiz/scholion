@@ -21,7 +21,7 @@ A Durable Object combines three things: a serverless V8 isolate keyed by ID, a p
 
 The author's own multi-agent workload runs at roughly $10/month on this setup, where the same footprint on AWS would cost 10 to 50 times more. Local dev through `wrangler` mirrors production closely since everything runs SQLite, and bindings to other DOs, services or R2 buckets skip the VPC and security-group configuration AWS or GCP would require.
 
-## Fichamento
+## Reading notes
 
 - The concurrency model has a sharp edge: some functions carry readable/writable gates, and an LLM call left inside one before a storage write can hang every subscriber for tens of seconds.
 - First-class support is Typescript only; Rust, Golang and Python have fewer examples and options, and the author gave up on Wrangler's typegen in favor of hand-written types.

@@ -19,7 +19,7 @@ Startup Saturday is presented as an event series run by the team behind HeadStar
 
 The post says the author will take part more actively in the Mumbai chapter from 8 November 2008 and will give a presentation on bootstrapping a startup. That talk is described as covering idea validation, team formation, finances, trade-offs, investor views, acquisition-friendly startups, and building big while staying frugal.
 
-## Fichamento
+## Reading notes
 
 - Startup Saturday is organized by the team behind HeadStart.in and is held in several cities in India.
 - The event is framed as a place for entrepreneurs and startups to discuss, present, network, and learn from people in and around the ecosystem.

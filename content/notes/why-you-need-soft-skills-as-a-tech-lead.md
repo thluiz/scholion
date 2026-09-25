@@ -21,7 +21,7 @@ Anemari Fiser says she assumed technical skill alone would carry her as a Tech L
 
 Her second case is a team that had the knowledge, time, and product buy-in to address technical debt but still wasn't moving on it. The missing piece wasn't capability, it was nobody taking ownership of driving the initiative forward. She could have stepped in and taken charge herself, but frames that as unsustainable; the fix she went with was enabling a senior team member to own the process instead.
 
-## Fichamento
+## Reading notes
 
 - Her core claim, stated directly: most tech problems are people problems, and solving them requires soft skills rather than more technical depth.
 - Case 1 (library dispute): what looked like a technical disagreement was a proxy for an unrelated ongoing personal conflict between the two developers; resolving the library question wouldn't have resolved anything.

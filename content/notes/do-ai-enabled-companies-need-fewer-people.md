@@ -21,7 +21,7 @@ Seldo checks his own year-old prediction that AI-driven automation would unlock 
 
 AI-native startups run 40% smaller teams than non-AI SaaS companies while raising bigger rounds: $51.9M average Series A versus $39.9M, $3.48M revenue per employee versus $580K (6x higher), and 15-20 people at $10M ARR versus 50-70 for traditional companies.
 
-## Fichamento
+## Reading notes
 
 - Tech layoffs hit over 126,000 workers at US companies in 2025, continuing into 2026 even as layoff counts trend down overall.
 - AI-related companies captured $211 billion of 2025's $425 billion total global VC funding, an 85% year-over-year jump in AI's own share.

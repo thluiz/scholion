@@ -21,7 +21,7 @@ Gregor Hohpe builds the essay around a line from Eli Goldratt: technology only b
 
 He runs that lens over several constraints he says have quietly weakened in enterprise IT without the corresponding behavior catching up. Cloud computing removed the constraint on provisioning lead time, but IT managers still price cloud servers by multiplying hourly cost by 720 hours, the same math they used to compare against owned hardware, ignoring that instant provisioning changes the calculation entirely. Server size is the constraint he spends the most space on: most enterprise architectures assume a single machine can't handle the workload, an assumption he says a modern high-end server (240+ cores, 16TB RAM) makes false for the overwhelming majority of real business workloads, not just hypothetically. He extends the same logic to "loose coupling," arguing the constraint that justified it (change being hard to locate and hard to make) has been substantially reduced by better tooling, so the old default toward looser coupling may no longer be worth its cost everywhere.
 
-## Fichamento
+## Reading notes
 
 - Central mechanism, from Goldratt: technology helps only by removing a limitation, but removing the limitation doesn't automatically change behavior shaped by it, since the constraint is usually baked into practice without being explicitly named.
 - Requirements-list example: business users learned that adding requirements later was expensive or impossible, so they front-load every possible requirement; removing that constraint through agile practices doesn't automatically unwind the habit.

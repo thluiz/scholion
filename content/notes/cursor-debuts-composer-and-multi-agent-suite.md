@@ -19,7 +19,7 @@ sources:
 
 Cursor 2.0 bundles two separate releases: Composer, the company's first in-house coding model, and a multi-agent interface built around the model. Composer is pitched on speed over raw capability, with most tasks completing in under 30 seconds and training that leaned on codebase-wide semantic search for navigating large repositories. The interface change is aimed at teams running several agents in parallel, coordinated through git worktrees or remote machines, with a native browser tool letting agents test and refine their own code until it passes.
 
-## Fichamento
+## Reading notes
 
 - Composer is Cursor's first coding model, built for agent-driven generation and editing, claimed to respond up to four times faster than comparable models with most tasks under 30 seconds.
 - Its training incorporated codebase-wide semantic search, aimed at more accurate navigation of large, complex codebases; early users reportedly trusted it more for multi-step tasks requiring broad project context.

@@ -18,7 +18,7 @@ Indeed's career-advice page compiles 35 tech lead interview questions split into
 
 The sample answers read as generic templates meant to be adapted by any candidate, but two of them name a concrete technique rather than staying abstract: the SMART framework for goal-setting, and a two-step research process for evaluating a team member's tool suggestion.
 
-## Fichamento
+## Reading notes
 
 - 35 questions split into three groups: 12 on general fit (motivation, leadership readiness, work style), 12 on experience and background (languages, project management, code review process), and 11 on in-depth scenarios (team performance, onboarding, handling disagreements).
 - The sample answer for "why do you want a leadership position" leans on confidence built from mentoring less experienced developers and a track record of meeting deadlines.

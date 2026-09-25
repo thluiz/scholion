@@ -20,7 +20,7 @@ sources:
 
 Ebenezer Don rounds up ten Git commands added since version 2.23, aimed at developers who know the basics but haven't tracked what Git shipped in the years after. The commands fall into four groups: safer replacements for `checkout`'s overloaded behavior, tools that automate repository maintenance, commands for inspecting merges and rewritten history, and features for working across branches without disrupting the current one.
 
-## Fichamento
+## Reading notes
 
 - `git switch` (Git 2.23) separates branch switching from `git checkout`, which used to also restore files and check out commits, so changing branches carries less risk of touching files by accident.
 - `git restore` (Git 2.23) isolates undoing changes to files from branch operations that used to live inside `checkout` and `reset`, both of which could alter branch state if used carelessly.

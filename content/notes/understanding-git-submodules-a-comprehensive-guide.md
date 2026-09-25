@@ -2,8 +2,8 @@
 title: "Understanding Git Submodules: A Comprehensive Guide"
 date: '2026-09-25T00:51:01+01:00'
 category: webclip
-summary: 'A página explica o que são Git submodules, por que usá-los e como adicioná-los, cloná-los, atualizá-los, removê-los no Windows e mantê-los sob controle em projetos.'
-tags: ["git", "submodules", "version-control"]
+summary: 'The page explains what Git submodules are, why to use them, and how to add, clone, update, remove them on Windows, and keep them under control in projects.'
+tags: ["git","submodules","version-control"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,7 +19,7 @@ Git submodules are described as repositories nested inside another Git repositor
 
 It also shows the basic commands for adding a submodule, adding a local repository as a submodule, cloning repositories with submodules, listing and checking submodule status, updating a submodule, and removing one on Windows by editing `.gitmodules` and `.git/config`, running `git rm --cached`, deleting the directory, and committing the change.
 
-## Fichamento
+## Reading notes
 
 - Git submodules are repositories nested inside a main Git repository, which lets a separate project live inside the larger one.
 - The text presents them as useful for external libraries or components that need to stay as separate repositories.

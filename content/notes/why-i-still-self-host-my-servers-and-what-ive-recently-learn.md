@@ -2,8 +2,8 @@
 title: "Why I still self host my servers (and what I've recently learned)"
 date: '2026-09-24T23:13:41+01:00'
 category: webclip
-summary: 'O autor explica por que ainda self-hosting vale a pena: independência, aprendizado prático e melhor entendimento de sistemas complexos, apesar do trabalho e das falhas recentes.'
-tags: ["self-hosting", "linux", "distributed-systems", "sysadmin"]
+summary: 'The author explains why self-hosting still remains worthwhile: independence, practical learning, and a better understanding of complex systems, despite the work and recent failures.'
+tags: ["self-hosting","linux","distributed-systems","sysadmin"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,23 +19,23 @@ The post argues that self-hosting still pays off because it supports independenc
 
 It also lists recent problems and fixes from the last six months, including power and UPS failures, redundant DNS, Proxmox on ARM, ZFS memory tuning, hardware crashes, VPS outages, storage performance, object storage tradeoffs, and CrowdSec for intrusion prevention.
 
-## Fichamento
+## Reading notes
 
-- Mantém quase tudo em casa, exceto email, num cluster Proxmox com vários serviços e um VPS externo.
-- Defende self-hosting por dois motivos centrais: autonomia frente a grandes empresas e aprendizado prático.
-- Liga a experiência de operar infraestrutura própria à capacidade de entender sistemas distribuídos no trabalho.
-- Usa exemplos de Linux, networking, Kubernetes, Kafka, Flink e outros componentes para mostrar essa sobreposição entre hobby e profissão.
-- Relata falhas recentes como falta de energia, baterias de UPS mortas, DNS sem redundância, um host Proxmox que caía toda noite e um VPS fora do ar por dias.
-- Diz que é possível self-hostar VS Code no navegador com code-server, útil em dispositivos como iPad ou Mac.
-- Observa que baterias de UPS domésticas morrem silenciosamente e rápido, e passou a testar a UPS mensalmente.
-- Reorganizou DHCP e DNS para ter dois caches Pi-hole disponíveis aos clientes e mapear IPs e dispositivos físicos.
-- Colocou um Raspberry Pi 5 como nó Proxmox com apoio de um projeto de GitHub, embora a solução seja não suportada.
-- Ajustou o consumo de memória do ZFS no Proxmox para evitar OOM kills em VMs durante backups.
-- Descobriu que uma falha noturna vinha de um disco antigo e não redundante usado em backup; trocar o drive resolveu.
-- Passou a usar LibreNMS com SNMPv3 para monitoramento e mapeamento da rede.
-- Desconfiou do VPS da Contabo após dias de indisponibilidade e suporte que atribuiu o problema a DNS sem base.
-- Migrou para um VPS da Hetzner, que em benchmark apareceu mais rápido que o anterior.
-- Testou armazenamento remoto via CIFS e SSHFS e concluiu que ambos ficaram lentos, sobretudo com latência transatlântica.
-- Avalia storage de objeto como solução barata para arquivos do Nextcloud, mas reconhece lentidão em listas e arquivos pequenos.
-- Usa Wasabi para dados do Nextcloud via external storage, aceitando o custo e as limitações de S3.
-- Adota CrowdSec como ferramenta de prevenção de intrusão e destaca os banimentos e métricas mostrados pela CLI.
+- Keeps almost everything at home, except email, in a Proxmox cluster with several services and an external VPS.
+- Defends self-hosting for two central reasons: autonomy from big companies and practical learning.
+- Links the experience of operating one’s own infrastructure to the ability to understand distributed systems at work.
+- Uses examples of Linux, networking, Kubernetes, Kafka, Flink, and other components to show this overlap between hobby and profession.
+- Reports recent failures such as power outages, dead UPS batteries, DNS without redundancy, a Proxmox host that went down every night, and a VPS that was offline for days.
+- Says it is possible to self-host VS Code in the browser with code-server, useful on devices such as an iPad or Mac.
+- Notes that home UPS batteries die silently and quickly, and started testing the UPS monthly.
+- Reorganized DHCP and DNS to have two Pi-hole caches available to clients and map IPs and physical devices.
+- Put a Raspberry Pi 5 as a Proxmox node with help from a GitHub project, although the solution is unsupported.
+- Adjusted ZFS memory consumption in Proxmox to avoid OOM kills in VMs during backups.
+- Discovered that a nightly failure came from an old, non-redundant disk used for backup; replacing the drive fixed it.
+- Started using LibreNMS with SNMPv3 for network monitoring and mapping.
+- Became suspicious of Contabo’s VPS after days of unavailability and support that blamed the issue on DNS without evidence.
+- Migrated to a Hetzner VPS, which benchmarking showed to be faster than the previous one.
+- Tested remote storage via CIFS and SSHFS and concluded that both were slow, especially with transatlantic latency.
+- Evaluates object storage as a cheap solution for Nextcloud files, but recognizes slowness with lists and small files.
+- Uses Wasabi for Nextcloud data via external storage, accepting the cost and S3 limitations.
+- Adopts CrowdSec as an intrusion prevention tool and highlights the bans and metrics shown by the CLI.

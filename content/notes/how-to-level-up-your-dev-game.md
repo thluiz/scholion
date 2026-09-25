@@ -2,8 +2,8 @@
 title: "How to Level Up Your Dev Game"
 date: '2026-09-25T00:22:47+01:00'
 category: webclip
-summary: 'A autora diz que sua carreira melhorou ao se envolver com a comunidade, experimentar práticas, escrever um blog, ir a conferências, fazer palestras, criar meetup, cultivar conexões e reservar tempo para descanso.'
-tags: ["desenvolvimento", "comunidade", "carreira", "autocuidado"]
+summary: 'The author says her career improved by getting involved with the community, experimenting with practices, writing a blog, going to conferences, giving talks, creating a meetup, cultivating connections, and setting aside time for rest.'
+tags: ["development", "community", "career", "self-care"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -15,16 +15,16 @@ sources:
     kind: repo
 ---
 
-A autora relata que deixou de se frustrar com o trabalho e passou a gostar mais de ser developer quando se aproximou da comunidade, passou a experimentar novas práticas e passou a registrar o que aprende. Ela também destaca conferências, palestras, meetup, networking e tempo longe das telas como partes desse avanço.
+The author reports that she stopped feeling frustrated with work and started to enjoy being a developer more when she got closer to the community, started experimenting with new practices, and started recording what she learns. She also highlights conferences, talks, meetup, networking, and time away from screens as parts of this progress.
 
-## Fichamento
+## Reading notes
 
-- entrar na comunidade online ajuda a encontrar apoio, pessoas para seguir e um ambiente mais acolhedor
-- manter presença consistente em LinkedIn, Twitter e blog facilita que outras pessoas encontrem e reconheçam você
-- questionar práticas e testar abordagens novas pode reduzir tempo de desenvolvimento e linhas de código
-- escrever no blog o que aprendeu ajuda a guardar referências e a rever informações depois
-- ir a conferências permite aprender, voltar mais renovado e conversar com pessoas mais experientes
-- falar em conferências amplia contatos locais e pode abrir caminhos para ajuda e trabalho
-- participar ou criar meetup atende uma necessidade da comunidade e fortalece conexões profissionais
-- fazer network para contribuir com os outros ajuda a construir relações duradouras
-- reservar tempo para descanso, natureza e hobbies ajuda a aliviar a pressão de aprender tudo e voltar renovado
+- joining the online community helps to find support, people to follow, and a more welcoming environment
+- maintaining a consistent presence on LinkedIn, Twitter, and blog makes it easier for other people to find and recognize you
+- questioning practices and testing new approaches can reduce development time and lines of code
+- writing on the blog what you learned helps to keep references and review information later
+- going to conferences allows you to learn, come back more renewed, and talk to more experienced people
+- speaking at conferences expands local contacts and can open paths for help and work
+- participating in or creating a meetup meets a need in the community and strengthens professional connections
+- networking to contribute to others helps build lasting relationships
+- setting aside time for rest, nature, and hobbies helps relieve the pressure to learn everything and come back renewed

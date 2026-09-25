@@ -22,7 +22,7 @@ Sindhu Pillai and Gregor Hohpe describe serverless infrastructure-as-code as som
 
 They name this technique "serverless refactoring," borrowing Martin Fowler's definition of refactoring, restructuring code without changing its external behavior, and applying it across the application/automation boundary.
 
-## Fichamento
+## Reading notes
 
 - Moving message-sending logic from application code into the runtime (via Lambda Destinations) decouples business logic from topology: changing where a message goes no longer requires touching application code.
 - Automation code keeps service dependencies in one place, which existing code analysis and refactoring tools can reason about, instead of relying on naming conventions buried in environment variables.

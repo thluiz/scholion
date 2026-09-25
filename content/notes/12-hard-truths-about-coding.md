@@ -19,7 +19,7 @@ sources:
 
 The author got fired from a first job, took down a database with a bad query, and got rejected by a FAANG. In the post, he frames most of the twelve lessons that followed as failures of communication.
 
-## Fichamento
+## Reading notes
 
 - Estimates are guesses. The problem shows up when your guess doesn't overlap with everyone else's guess.
 - Splitting a four-day task into smaller pieces shows progress; grinding on the whole thing in silence doesn't.

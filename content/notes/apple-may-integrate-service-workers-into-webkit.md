@@ -19,7 +19,7 @@ sources:
 
 Apple's WebKit Feature Status page listed Service Workers as "In Development" in August 2017. The API lets browsers run background scripts, which is what makes Progressive Web Apps possible.
 
-## Fichamento
+## Reading notes
 
 - PWAs skip the download step: users point a browser at a site, and the app can be added to a home screen from there, push notifications included.
 - Service Workers let a PWA fetch cached content and run without a network connection, and also improve how well the app gets indexed by search engines.

@@ -19,7 +19,7 @@ sources:
 
 The breakdown targets a request-level rate limiter for a social platform's API at a stated scale of 1 million requests per second across 100 million daily users, under 5ms latency overhead. Placement (gateway, microservice, or in-process) and client identification (user ID, IP, API key) get decided first. The comparison across four limiting algorithms is where the real design decisions happen, along with keeping that algorithm's state consistent across every gateway instance without adding a coordination bottleneck of its own.
 
-## Fichamento
+## Reading notes
 
 - Three placement options compared: in-process (fast, but each server only sees its own slice of traffic, so a 100/minute limit becomes 500/minute effective across 5 servers); dedicated microservice (global state and rich business context, at the cost of a network round trip on every request and a new point of failure); API gateway/load balancer, the pick, centralized and with no added service call per request, but limited to whatever context lives in the HTTP request itself, like headers and IP.
 - Client identification layers three keys: user ID (from a JWT), IP address (from X-Forwarded-For, unreliable behind NATs), API key. The piece notes production systems often layer per-user, per-IP, global and endpoint-specific rules at once, enforcing whichever is most restrictive.

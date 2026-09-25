@@ -22,7 +22,7 @@ Addy Osmani calls his approach "AI-assisted engineering," a label chosen to sepa
 
 The throughline across every step is that Osmani treats AI output the way he'd treat a junior developer's pull request: useful, fast, and never trusted without review. [Code is cheap. Show me the talk.](/notes/code-is-cheap-show-me-the-talk/) argues a version of the same shift from a different angle, that LLMs made code abundant enough that accountability and articulation now carry the weight code used to carry.
 
-## Fichamento
+## Reading notes
 
 - He avoids monolithic prompts entirely, breaking projects into tickets tackled one at a time, since large asks tend to produce what one developer called "10 devs worked on it without talking to each other."
 - Context packing means dumping goals, invariants, examples of good solutions, and explicit warnings about approaches to avoid into the prompt before coding starts, sometimes automated with tools like gitingest or repo2txt.

@@ -2,8 +2,8 @@
 title: "Notepad++"
 date: '2026-09-24T22:40:58+01:00'
 category: webclip
-summary: 'Notepad++ é um editor de código e substituto do Bloco de Notas para Windows, escrito em C++, baseado em Scintilla e voltado tanto a uso simples quanto a recursos avançados de desenvolvimento.'
-tags: ["editor-de-texto", "windows", "c-plus-plus"]
+summary: 'Notepad++ is a code editor and Notepad replacement for Windows, written in C++, based on Scintilla, and aimed at both simple use and advanced development features.'
+tags: ["text-editor","windows","c-plus-plus"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -15,12 +15,12 @@ sources:
     kind: repo
 ---
 
-Notepad++ é apresentado como um editor de código gratuito e substituto do Bloco de Notas que suporta várias linguagens. O texto diz que ele foi escrito em C++, usa a API Win32 e STL, e que isso contribui para maior velocidade e menor tamanho do programa.
+Notepad++ is presented as a free code editor and Notepad replacement that supports multiple languages. The text says that it was written in C++, uses the Win32 API and STL, and that this contributes to greater speed and a smaller program size.
 
-## Fichamento
+## Reading notes
 
-- O projeto começou em setembro de 2003 com Don Ho, então estudante de ciência da computação na Université Paris Diderot.
-- A aplicação foi construída para Microsoft Windows.
-- O autor considerou, mas descartou, portar o programa para Mac OS X e Unix com wxWidgets.
-- A primeira versão foi lançada no SourceForge em 25 de novembro de 2003, como aplicativo apenas para Windows.
-- O editor é descrito como simples para quem quer algo direto, mas também oferece destaque de sintaxe, abas para múltiplos documentos e suporte a dezenas de linguagens de programação.
+- The project started in September 2003 with Don Ho, then a computer science student at Université Paris Diderot.
+- The application was built for Microsoft Windows.
+- The author considered, but discarded, porting the program to Mac OS X and Unix with wxWidgets.
+- The first version was released on SourceForge on 25 November 2003, as a Windows-only application.
+- The editor is described as simple for those who want something straightforward, but it also offers syntax highlighting, tabs for multiple documents, and support for dozens of programming languages.

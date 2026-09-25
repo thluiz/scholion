@@ -17,7 +17,7 @@ sources:
 
 The post argues that founding a startup and being a parent both demand time, skill, and dedication, and that a healthy balance between work and family is necessary. It recommends finding a personal time-management style, setting work hours, and making family time part of the daily schedule.
 
-## Fichamento
+## Reading notes
 
 - Startup founders who are parents need to manage time well to keep both the business and the home life working.
 - Planning the day ahead, keeping a list of tasks, and deciding the next day’s priorities before bed are presented as useful habits.

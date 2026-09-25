@@ -17,7 +17,7 @@ sources:
 
 The post treats productivity as the value created by work relative to the time, effort, and tool costs involved. It argues for choosing high-impact, low-effort tasks, maintaining momentum, and using a set of habits and techniques to keep work moving while adapting to change.
 
-## Fichamento
+## Reading notes
 
 - Productivitity is defined in terms of value created versus inputs such as work time and tool costs, and the author prefers measuring output by value rather than merged pull requests or closed tickets.
 - The text splits productivity into effectiveness and efficiency, where effectiveness means doing the right things and efficiency means doing things right.

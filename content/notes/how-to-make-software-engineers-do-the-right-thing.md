@@ -2,8 +2,8 @@
 title: "How to Make Software Engineers Do the 'Right Thing'"
 date: '2026-09-25T09:04:25+01:00'
 category: webclip
-summary: 'O texto propõe prioridades para criar cultura de responsabilidade em times de engenharia: registrar bugs, fazer RCA sem culpa, manter CI verde, acompanhar logs e reforçar melhoria contínua.'
-tags: ["engenharia-de-software", "cultura-de-equipe", "qualidade-de-software", "ci"]
+summary: 'The text proposes priorities for creating a culture of responsibility in engineering teams: logging bugs, doing blameless RCAs, keeping CI green, monitoring logs, and reinforcing continuous improvement.'
+tags: ["software-engineering","team-culture","software-quality","ci"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,13 +19,13 @@ The text argues that teams should build a culture of ownership and accountabilit
 
 It also says these practices need repetition, clear ownership, public alerts, and team-wide responsibility. Over time, the goal is a culture where fixing alerts, broken builds, and bugs is treated as the team’s highest priority.
 
-## Fichamento
+## Reading notes
 
-- Defende que a base é criar uma cultura de ownership e accountability, e que isso precisa começar de imediato.
-- Diz que equipes muitas vezes não registram nem priorizam bugs e defeitos em produção, o que dificulta discutir trocas entre qualidade, estabilidade e novas features.
-- Propõe RCAs ou incident reports para issues importantes, com foco sem culpa, transparência, aprendizado e autonomia.
-- Afirma que dívida técnica está na raiz de muitos problemas e que RCAs ajudam a priorizar correções e follow-ups frente a outros trabalhos.
-- Sustenta que um build contínuo e verde no CI é essencial, e que testes flaky devem ser excluídos até serem corrigidos, com ownership claro sobre eles.
-- Diz que saúde do sistema e logs exigem esforço de todo o time, com thresholds acordados, alertas em canal público e resposta ativa a problemas.
-- Recomenda documentar os princípios, workshop com o time, alinhamento com produto e stakeholders, e cobrança contínua de melhoria.
-- Lista como próximos passos melhorar testes, acelerar builds, reduzir handoffs, shift left da qualidade, colaborar melhor com produto e design e medir qualidade, uptime e cycle time.
+- Defends that the foundation is creating a culture of ownership and accountability, and that this needs to start immediately.
+- Says teams often do not record or prioritize bugs and defects in production, which makes it hard to discuss trade-offs between quality, stability, and new features.
+- Proposes RCAs or incident reports for important issues, with a blameless focus, transparency, learning, and autonomy.
+- States that technical debt is at the root of many problems and that RCAs help prioritize fixes and follow-ups over other work.
+- Argues that a continuous and green build in CI is essential, and that flaky tests should be excluded until they are fixed, with clear ownership over them.
+- Says system health and logs require effort from the whole team, with agreed thresholds, alerts in a public channel, and active response to problems.
+- Recommends documenting the principles, running a workshop with the team, aligning with product and stakeholders, and continuously pushing for improvement.
+- Lists as next steps improving tests, speeding up builds, reducing handoffs, shifting quality left, collaborating better with product and design, and measuring quality, uptime, and cycle time.

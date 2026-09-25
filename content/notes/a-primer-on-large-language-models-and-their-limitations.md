@@ -22,7 +22,7 @@ Sandra Johnson and David Hyland-Wood's fourth section, "Risks and Mitigations," 
 
 They propose replacing "hallucination" with Harry Frankfurt's philosophical account of bullshit: speech indifferent to truth, distinct from a deliberate lie. They argue the decoder only extrapolates from token patterns in its input, with no built-in fact-checking against external reality. The authors cite Hannigan et al.'s term for the result: botshit.
 
-## Fichamento
+## Reading notes
 
 - Catastrophic forgetting: sequential fine-tuning on new tasks degrades performance on tasks the model previously handled well, because the fine-tuning updates weights to fit the new task at the old task's expense. Mitigations include regularisation methods like elastic weight consolidation, replay methods that mix old and new training data, and architectural methods like progressive neural networks with per-task subnetworks.
 - Model collapse: as more of the public internet becomes LLM-generated, future models increasingly train on their predecessors' output, mixed with human-generated text they cannot tell apart from it. Data-provenance labeling is a proposed mitigation, but it breaks whenever a system or user skips the provenance tag; the authors call current fixes insufficient.

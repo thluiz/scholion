@@ -2,8 +2,8 @@
 title: "How We Got to Now: Six Innovations That Made the Modern World"
 date: '2026-09-24T22:36:54+01:00'
 category: webclip
-summary: 'O livro de Steven Johnson mostra como vidro, frio, som, limpeza, tempo e luz moldaram o mundo moderno e geraram efeitos inesperados em áreas diferentes.'
-tags: ["inovacao", "historia-da-tecnologia", "steven-johnson"]
+summary: 'Steven Johnson’s book shows how glass, cold, sound, clean, time, and light shaped the modern world and produced unexpected effects in different areas.'
+tags: ["innovation", "history-of-technology", "steven-johnson"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,13 +17,13 @@ sources:
 
 Steven Johnson’s book argues that six innovations shaped the modern world: glass, cold, sound, clean, time, and light. The post says small ideas can have large effects, and that many everyday technologies emerged in surprising and unexpected ways.
 
-## Fichamento
+## Reading notes
 
-- O livro liga a história de seis invenções centrais ao mundo atual: vidro, frio, som, limpeza, tempo e luz.
-- A ideia central é que inovações pequenas podem produzir efeitos grandes e inesperados.
-- O vidro permitiu óculos, microscópios e, mais tarde, fibra óptica e internet.
-- O frio trouxe refrigeração, envio de gelo, conservação de alimentos e medicamentos, além de ar-condicionado.
-- O som inclui fonógrafo, rádio, telefone e sonar, com impacto em música, comunicação e transmissão digital.
-- A limpeza aparece como resultado de saneamento, esgoto, água potável e encanamento interno, com redução de doenças.
-- O tempo exato dependeu do relógio mecânico e depois do relógio atômico, com uso em trens, navegação, GPS e internet.
-- A luz passou de velas e lampiões para lâmpada, fotografia, flash e laser, com usos em cirurgia, armazenamento de dados e fusão nuclear.
+- The book links the history of six central inventions to the current world: glass, cold, sound, clean, time, and light.
+- The central idea is that small innovations can produce large and unexpected effects.
+- Glass made possible glasses, microscopes and, later, fiber optics and the internet.
+- Cold brought refrigeration, ice shipping, food and medicine preservation, as well as air conditioning.
+- Sound includes the phonograph, radio, telephone, and sonar, with an impact on music, communication, and digital transmission.
+- Clean appears as a result of sanitation, sewage, drinking water, and indoor plumbing, with a reduction in diseases.
+- Exact time depended on the mechanical clock and later the atomic clock, with use in trains, navigation, GPS, and the internet.
+- Light went from candles and lanterns to the light bulb, photography, flash, and laser, with uses in surgery, data storage, and nuclear fusion.

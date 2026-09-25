@@ -21,7 +21,7 @@ The script runs as an xbar plugin, refreshing every minute. It stores the curren
 
 Once running, it totals the day's logged sessions plus the current one, and prints the current session length and daily total to the menu bar, switching to a warning icon past an hour. It fires a native notification, via `terminal-notifier` if installed, falling back to `osascript`, once per hour of continuous work, tracked separately so it doesn't repeat mid-hour.
 
-## Fichamento
+## Reading notes
 
 - Reboot detection compares the stored session file against `sysctl kern.boottime`. If the session predates the last boot, it's logged as ending at boot time and a fresh session starts.
 - Sleep or away detection uses a separate "last check" timestamp file: any gap over 120 seconds between runs is treated as the user having stepped away, closing out the previous session.

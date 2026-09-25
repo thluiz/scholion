@@ -22,7 +22,7 @@ Mo Bitar traces a common arc for engineers who take AI coding seriously: a small
 
 That's why he went back to writing most of his code by hand, and says he's faster, more accurate, and more creative once the full cost of the process is priced in, not just tokens per hour. [Code is cheap. Show me the talk.](/notes/code-is-cheap-show-me-the-talk/) makes a related argument: AI-written code reads as slop once there's no visible human cost, and no one to hold accountable for it.
 
-## Fichamento
+## Reading notes
 
 - Serious engineers using AI for real work follow a predictable arc: amazement at small tasks, then bigger ones, then an attempt at the one big refactor nobody wants to touch.
 - When output disappoints, the instinct is to blame the prompt as under-specified, which pushes toward writing exhaustive spec documents before building anything.

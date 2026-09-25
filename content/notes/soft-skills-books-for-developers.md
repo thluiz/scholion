@@ -22,7 +22,7 @@ Addy Osmani read more than 40 books on productivity, leadership, and psychology 
 
 The selection leans toward workplace psychology and team leadership: focus, habit formation, feedback and candor, team dysfunction, and how the job of a manager changes from first report to VP. Osmani frames soft skills as carrying as much weight in a programming career as any language or framework, and closes with a pointer to his own book on the topic, Software Engineering: The Soft Parts.
 
-## Fichamento
+## Reading notes
 
 - Deep Work and The Effective Executive both argue for protecting long blocks of uninterrupted time for high-leverage work instead of reacting to notifications and meetings.
 - Atomic Habits and The Power of Habit treat habit change as a design problem: control the cues, make the routine easy to start, keep the reward consistent.

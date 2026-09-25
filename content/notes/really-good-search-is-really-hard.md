@@ -22,7 +22,7 @@ Abhi's starting premise is that search built for humans doesn't transfer to agen
 
 Index runs on Postgres with pgvector instead of a dedicated vector database, combining TSVector full-text search, fuzzy ranking and vector similarity in one hybrid query, with metadata filtering happening at the SQL level before any vector computation.
 
-## Fichamento
+## Reading notes
 
 - The ingestion pipeline has six steps per document: recursive chunking, hash-based change detection, embedding of changed chunks, LLM-generated summaries for agent grounding, upsert to the database, and deletion of stale chunks.
 - Migrating the chunk store from Supabase to PlanetScale's Metal infrastructure cut P99 search latency from 475ms to 209ms, more than half, under thousands of parallel indexing queries.

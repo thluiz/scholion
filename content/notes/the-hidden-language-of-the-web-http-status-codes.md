@@ -17,7 +17,7 @@ sources:
 
 HTTP status codes are three-digit messages exchanged between browser and server. The page groups them into informational, success, redirection, client error, and server error ranges, and shows how they help with debugging, performance, and SEO.
 
-## Fichamento
+## Reading notes
 
 - 1xx codes mean the request has been received and is still being processed, with 100 Continue and 101 Switching Protocols as examples.
 - 2xx codes mean the request succeeded, including 200 OK, 201 Created, and 204 No Content.

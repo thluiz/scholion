@@ -17,7 +17,7 @@ sources:
 
 The post argues that developers should not depend on a single income source and presents practical ways to build side revenue. It groups options that can produce direct payments, recurring income, portfolio value, or long-term credibility, while noting that some methods are easier to start than others.
 
-## Fichamento
+## Reading notes
 
 - Open source bounties can pay from $200 to $10k for a single pull request and also help build credibility and a portfolio.
 - Guest technical writing can pay well, be done remotely, and grow a developer’s reach if they can explain technical concepts clearly.

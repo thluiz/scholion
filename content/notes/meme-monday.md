@@ -2,8 +2,8 @@
 title: "Meme Monday"
 date: '2026-09-24T23:46:05+01:00'
 category: webclip
-summary: 'A postagem abre a thread de memes da DEV com um aviso de que humor de mau gosto será rebaixado pelos moderadores. Os comentários trazem memes e reações curtas dos usuários.'
-tags: ["meme", "dev-community", "comments"]
+summary: 'The post opens DEV’s meme thread with a warning that bad-taste humor will be downranked by moderators. The comments bring memes and short user reactions.'
+tags: ["meme","dev-community","comments"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -15,11 +15,11 @@ sources:
     kind: repo
 ---
 
-A postagem apresenta o “Meme Monday” na DEV, mostra a imagem de capa vinda da thread da semana anterior e avisa que a plataforma é um espaço inclusivo. O trecho também diz que humor de mau gosto será rebaixado pelos moderadores.
+The post presents “Meme Monday” on DEV, shows the cover image coming from the previous week’s thread, and warns that the platform is an inclusive space. The excerpt also says that bad-taste humor will be downranked by moderators.
 
-## Fichamento
+## Reading notes
 
-- Abre a thread “Meme Monday” na DEV e informa que a imagem de capa vem da discussão da semana anterior.
-- Afirma que a DEV é um espaço inclusivo e que humor de mau gosto será rebaixado pelos moderadores.
-- Registra 52 comentários e reúne imagens de memes e respostas curtas dos usuários.
-- Nos comentários, aparecem reações como risadas, aprovação, dúvidas e observações sobre memes de IA, regex de e-mail e PHP.
+- Opens the “Meme Monday” thread on DEV and informs that the cover image comes from the previous week’s discussion.
+- States that DEV is an inclusive space and that bad-taste humor will be downranked by moderators.
+- Records 52 comments and gathers meme images and short user responses.
+- In the comments, reactions appear such as laughter, approval, doubts, and observations about AI memes, email regex, and PHP.

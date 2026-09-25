@@ -19,7 +19,7 @@ sources:
 
 The piece recommends questions that reveal values, recent changes, and small turning points, in place of first-date small talk.
 
-## Fichamento
+## Reading notes
 
 - Ask about a cheap purchase that mattered. It reveals taste more than budget does.
 - Beliefs someone dropped in the last few years say more about them than beliefs they've always held.

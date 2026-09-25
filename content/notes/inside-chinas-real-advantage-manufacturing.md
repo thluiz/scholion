@@ -22,7 +22,7 @@ Rui Ma spent two days touring Liyang, a county-level city in Jiangsu that anchor
 
 That last point runs against how foreign investors read Chinese manufacturing. Thin margins discourage new entrants and buy endurance in a system built for survival under pressure. The same logic extends to the energy transition: continued cost-cutting in solar aims to make tomorrow's applications, like green hydrogen, viable.
 
-## Fichamento
+## Reading notes
 
 - Liyang, roughly an hour from Shanghai by high-speed rail, hosts more than 100 power battery companies and generates over 100 billion RMB (about $14 billion) in output.
 - Local governments compete on execution quality rather than subsidies. Liyang's "1220" program promises one working day for business registration, two for real estate transactions, twenty for construction permits.

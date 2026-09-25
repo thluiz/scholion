@@ -21,7 +21,7 @@ Gearflow runs two Phoenix applications maintained by the same team and needed th
 
 The team names the cost up front. Calling into another app's modules as if they were local creates implicit coupling: no API contract, no versioning, no compile-time warning when a remote function signature changes. Their bet is that catching an occasional breaking change quickly costs less than maintaining internal API infrastructure every day, given that the two apps already share a deploy pipeline and a Slack channel for coordinating releases.
 
-## Fichamento
+## Reading notes
 
 - The standard alternative, an internal API, was rejected for now: authentication between services, HTTP connection pools, retries, circuit breakers, schema versioning, and documentation are real costs that Gearflow judges premature at their current team size.
 - Node discovery, not the RPC call itself, was the harder problem. `libcluster`'s DNS-poll strategy failed because Fly.io appends an image hash to each node name, and the static basename it expects doesn't account for that.

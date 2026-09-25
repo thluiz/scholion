@@ -2,8 +2,8 @@
 title: "How To Quit Your Job And Become A Freelancer"
 date: '2026-09-24T22:19:20+01:00'
 category: webclip
-summary: 'O texto defende que sair do emprego para freelancing começa por escolher o que você gosta de fazer, transformar isso em oferta para vários clientes e montar um site simples para apresentar serviços, portfólio e contacto.'
-tags: ["freelancing", "site-para-freelancer", "carreira"]
+summary: 'The text argues that leaving employment for freelancing begins by choosing what you like to do, turning it into an offer for multiple clients, and setting up a simple website to present services, portfolio, and contact.'
+tags: ["freelancing","site-for-freelancer","career"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -15,19 +15,19 @@ sources:
     kind: repo
 ---
 
-O texto diz que a necessidade de salário mantém muita gente no emprego, mas que trabalhar como freelancer pode trazer mais felicidade, liberdade e prosperidade. Para isso, recomenda escolher uma atividade de que você goste, pensar em como ser pago por vários clientes, montar um plano de negócio e lançar um site para mostrar o que faz.
+The text says that the need for a salary keeps many people in employment, but that working as a freelancer can bring more happiness, freedom, and prosperity. For that, it recommends choosing an activity you like, thinking about how to be paid by multiple clients, putting together a business plan, and launching a website to show what you do.
 
-Também sugere que o site seja simples e barato de criar, com layout responsivo para computador e telemóvel. Para um site de freelancer, indica cerca de cinco páginas, incluindo About, Services, Portfolio, Testimonials e Contact Form. Se ainda não houver material, o texto propõe fazer trabalho gratuito para conseguir amostras e depoimentos. No fim, apresenta duas formas de sair para o freelancing: pedir demissão de vez ou ir construindo o negócio à noite e aos fins de semana.
+It also suggests that the website be simple and cheap to create, with a responsive layout for computer and mobile phone. For a freelancer website, it indicates about five pages, including About, Services, Portfolio, Testimonials and Contact Form. If there is still no material, the text proposes doing free work to get samples and testimonials. In the end, it presents two ways to move into freelancing: resigning for good or building the business at night and on weekends.
 
-## Fichamento
+## Reading notes
 
-- O emprego é mantido pelo salário, mas a passagem para o freelancing é apresentada como caminho para mais liberdade e prosperidade.
-- O primeiro passo é identificar uma atividade de que você gosta e pensar em como ganhar dinheiro com vários clientes.
-- O texto pede um plano de negócio com o máximo de detalhes possível antes do lançamento.
-- Um site é tratado como a forma mais prática de apresentar o trabalho e atrair clientes.
-- O site pode ser criado de forma rápida e barata com ferramentas de arrastar e soltar.
-- O site precisa funcionar bem em desktop, laptop, smartphone e tablet.
-- A estrutura sugerida para um site de freelancer fica em torno de cinco páginas.
-- As páginas recomendadas são About, Services, Portfolio, Testimonials e Contact Form.
-- Quem ainda não tem portfólio ou depoimentos pode fazer trabalho gratuito para obter amostras e feedback.
-- O texto diz que há duas saídas para começar: largar o emprego de uma vez ou construir o negócio fora do horário de trabalho.
+- Employment is maintained by salary, but the move to freelancing is presented as a path to more freedom and prosperity.
+- The first step is to identify an activity you like and think about how to make money with multiple clients.
+- The text asks for a business plan with as much detail as possible before launch.
+- A website is treated as the most practical way to present the work and attract clients.
+- The website can be created quickly and cheaply with drag-and-drop tools.
+- The website needs to work well on desktop, laptop, smartphone, and tablet.
+- The suggested structure for a freelancer website is around five pages.
+- The recommended pages are About, Services, Portfolio, Testimonials and Contact Form.
+- Anyone who still does not have a portfolio or testimonials can do free work to obtain samples and feedback.
+- The text says there are two ways to start: leave the job all at once or build the business outside working hours.

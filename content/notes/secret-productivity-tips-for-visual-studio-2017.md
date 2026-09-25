@@ -17,7 +17,7 @@ sources:
 
 The post collects Visual Studio 2017 features that are disabled by default and shows how to turn them on locally or globally. It focuses on tools that help with package suggestions, search, solution analysis, loading, unit testing, style enforcement, and keyboard shortcuts.
 
-## Fichamento
+## Reading notes
 
 - Most of the features in the post are disabled by default, so they must be enabled locally per project or globally.
 - The NuGet-based using suggestion recommends a NuGet package when the editor finds an unrecognized type.

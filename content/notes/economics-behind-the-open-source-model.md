@@ -19,7 +19,7 @@ The text compares open source to economics by focusing on resource management, t
 
 It also says open source supports business operations, web 2.0 development, and revenue generation for companies of different sizes. Its main condition for long-term success is the ability to deliver value to businesses, contributors, and consumers.
 
-## Fichamento
+## Reading notes
 
 - Economics is presented as the management of resources in a system, and open source is described as involving work that is not necessarily tied to the free element.
 - Open source and economics are linked through the need to quantify and measure time and effort from both producers and consumers.

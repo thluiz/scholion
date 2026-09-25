@@ -21,7 +21,7 @@ Daniel Na names a negotiation tactic after the rap battle scene that closes the 
 
 He ties the tactic to two established ideas. Getting to Yes argues that durable negotiations are mutually beneficial, so winning a short-term exchange at the other side's expense damages the relationship long-term. The Steel Man Argument asks that you engage the strongest version of an opposing case rather than a weak one. Both point to the same question at work: what does the other party actually need, and how does anticipating it change your plan?
 
-## Fichamento
+## Reading notes
 
 - Names the tactic after the final rap battle in 8 Mile: Eminem's character goes first and lists his own "white trash" background before his opponent can use it against him, leaving the opponent with nothing to attack.
 - Connects the tactic to Getting to Yes: durable negotiations are mutually beneficial, and winning an exchange at the other side's expense costs the long-term relationship.

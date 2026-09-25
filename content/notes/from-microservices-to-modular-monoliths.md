@@ -21,7 +21,7 @@ Steve Smith argues that teams who broke a legacy monolith into microservices and
 
 He's blunt about who benefits from microservices beyond what a given system needs: cloud vendors selling hosting and management tooling, consultants billing for the migration and the scaling work that follows, and developers padding a resume with distributed-systems experience.
 
-## Fichamento
+## Reading notes
 
 - Microservices break a monolith into smaller, independently scalable pieces, but bring their own management, latency, and complexity costs as the number of services grows.
 - Cloud vendors, consultants, and developers chasing resume-driven development all have incentives to push microservices past what the problem requires.

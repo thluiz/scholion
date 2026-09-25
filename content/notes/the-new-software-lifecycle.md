@@ -22,7 +22,7 @@ Addy Osmani co-wrote Google's "The New SDLC With Vibe Coding" whitepaper and pic
 
 That reframes where he debugs agent failures: harness first, model second. A missing tool, an overly loose rule, a forgotten guardrail, or a context window full of junk usually explains more than the model choice does. [My LLM coding workflow going into 2026](/notes/llm-coding-workflow-2026/) works through the same territory from the day-to-day practitioner side, spec.md and plan.md files, small iterative chunks, heavy context packing, where this piece works through the underlying paper's framing.
 
-## Fichamento
+## Reading notes
 
 - Agent context splits into six types (instructions, knowledge, memory, examples, tools, guardrails), and the load-bearing decision is what goes in static context (loaded every turn, expensive) versus dynamic context (loaded on demand via Agent Skills, cheap per turn).
 - Verification is what separates vibe coding from agentic engineering on the same underlying agent. Tests cover deterministic input-output pairs; evals split into output evaluation (is the result correct) and trajectory evaluation (was the path to it sound).

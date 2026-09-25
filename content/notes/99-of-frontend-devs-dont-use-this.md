@@ -18,7 +18,7 @@ In a list rendered with `.map()`, Antonio Moruno Gracia contrasts `onClick={() =
 
 With `React.memo` or `useCallback` in place, recreating the closure on every render changes the function reference and invalidates the memoization those tools depend on.
 
-## Fichamento
+## Reading notes
 
 - With `data-*`, metadata attaches straight to the DOM element. A single stable `handleClick` function reads the id back out through `e.currentTarget.dataset` instead of a new closure getting created for each item in the list.
 - Since the function reference stays the same across renders, memoization actually prevents the re-render it's supposed to prevent. A fresh closure defeats that every time, regardless of `React.memo` or `useCallback` being in place.

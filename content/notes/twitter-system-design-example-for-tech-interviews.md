@@ -2,8 +2,8 @@
 title: "Twitter System Design Example for Tech Interviews"
 date: '2026-09-25T01:04:31+01:00'
 category: webclip
-summary: 'Guia de system design para entrevistas que estrutura a criação de um Twitter/X.com em requisitos, estimativas de capacidade, APIs, banco de dados, arquitetura e trade-offs.'
-tags: ["system-design", "twitter", "interview-prep"]
+summary: 'Guia de system design para interviews that structures the creation of a Twitter/X.com into requirements, capacity estimates, APIs, database, architecture, and trade-offs.'
+tags: ["system-design","twitter","interview-prep"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,33 +17,33 @@ sources:
 
 The post frames Twitter or X.com as a common system design interview problem and says the main challenge is explaining a structured design within 40 minutes. It walks through requirements, capacity estimation, QPS, API design, database design, storage, high-level architecture, detailed components, trade-offs, failure scenarios, and bottlenecks.
 
-## Fichamento
+## Reading notes
 
-- O texto apresenta Twitter ou X.com como um caso típico de entrevista de system design e insiste na necessidade de uma resposta estruturada para caber no tempo da conversa.
-- Propõe um template para organizar a resposta e diz que seguir essa estrutura ajuda a articular melhor o raciocínio na entrevista.
-- Nos requisitos funcionais, lista publicar tweets, seguir usuários e favoritar tweets.
-- Nos requisitos não funcionais, destaca escalabilidade, alta disponibilidade e estabilidade.
-- Na estimativa de capacidade, assume 500 milhões de usuários.
-- A partir dessa base, estima 500 milhões de tweets por dia, 10 páginas de feed por usuário por dia, 100 seguidores em média por usuário e 5 favoritos por dia.
-- Converte essas hipóteses em carga aproximada de 15k QPS para escrita, 75k QPS para leitura e 30k QPS para favoritos.
-- Estima 140 GB de novos dados por dia para tweets e 10 TB por dia para mídia, chegando a 50 TB por ano para tweets e 4 PB por ano para mídia.
-- Na API de tweeting, propõe um método para postar tweet com userId, texto, localização e data.
-- Na API de follow, propõe métodos para seguir e deixar de seguir usuários.
-- Na API de favorites, propõe métodos para favoritar e desfavoritar tweets.
-- Para o feed, propõe uma API de obtenção de timelines com paginação.
-- No banco de dados, define tabelas para informações de usuários, tweets e relações de seguidores.
-- A tabela de usuários guarda userId, userName, status e outros dados de perfil.
-- A tabela de tweets guarda tweetId, userId, conteúdo, postTime, modifyTime e status.
-- A tabela de followers guarda userId, followerId e followedTime.
-- Na camada de storage, sugere MySQL para dados estruturados e Amazon S3 para imagens e vídeos.
-- Na arquitetura em alto nível, descreve clientes, load balancers, rate limiter, CDN, serviços de tweet, usuário, follow e feed, além de Redis, MySQL e S3 na camada de dados.
-- No fluxo de requisição, a chamada passa pelo load balancer, segue para um servidor, passa pelo rate limiter, grava em MySQL e Redis e usa CDN para mídia nas leituras.
-- No design detalhado, recomenda múltiplos load balancers em cluster e algoritmos como round-robin, least connections ou IP hash.
-- Para CDN, sugere caching pull e push e ajuste de TTL para melhorar taxa de acerto.
-- Para Redis, sugere cluster, replicação master-slave e Sentinel para failover.
-- Para MySQL, sugere arquitetura master-slave e particionamento horizontal.
-- Nos trade-offs, escolhe MySQL em vez de NoSQL por causa de consultas complexas e suporte a transações.
-- Também escolhe Redis em vez de Memcached por causa de tipos de dados, recursos avançados e escalabilidade horizontal.
-- Entre os cenários de falha, propõe modelo híbrido de pull e push para usuários que seguem muita gente.
-- Para hotspots de leitura, recomenda cache em Redis com cache-aside e uso de cache local.
-- Como melhoria futura, sugere estratégia multi-região active-active para disaster recovery e alta disponibilidade.
+- The text presents Twitter or X.com as a typical system design interview case and insists on the need for a structured answer to fit within the time of the conversation.
+- It proposes a template to organize the answer and says that following this structure helps articulate the reasoning better in the interview.
+- In the functional requirements, it lists posting tweets, following users, and favoriting tweets.
+- In the non-functional requirements, it highlights scalability, high availability, and stability.
+- In the capacity estimate, it assumes 500 million users.
+- From this base, it estimates 500 million tweets per day, 10 feed pages per user per day, 100 followers on average per user, and 5 favorites per day.
+- It converts these assumptions into an approximate load of 15k QPS for writes, 75k QPS for reads, and 30k QPS for favorites.
+- It estimates 140 GB of new data per day for tweets and 10 TB per day for media, reaching 50 TB per year for tweets and 4 PB per year for media.
+- In the tweeting API, it proposes a method to post a tweet with userId, text, location, and date.
+- In the follow API, it proposes methods to follow and unfollow users.
+- In the favorites API, it proposes methods to favorite and unfavorite tweets.
+- For the feed, it proposes an API for obtaining timelines with pagination.
+- In the database, it defines tables for user information, tweets, and follower relationships.
+- The users table stores userId, userName, status, and other profile data.
+- The tweets table stores tweetId, userId, content, postTime, modifyTime, and status.
+- The followers table stores userId, followerId, and followedTime.
+- In the storage layer, it suggests MySQL for structured data and Amazon S3 for images and videos.
+- In the high-level architecture, it describes clients, load balancers, rate limiter, CDN, tweet, user, follow, and feed services, plus Redis, MySQL, and S3 in the data layer.
+- In the request flow, the call passes through the load balancer, goes to a server, passes through the rate limiter, writes to MySQL and Redis, and uses CDN for media on reads.
+- In the detailed design, it recommends multiple load balancers in a cluster and algorithms such as round-robin, least connections, or IP hash.
+- For CDN, it suggests pull and push caching and TTL tuning to improve hit rate.
+- For Redis, it suggests a cluster, master-slave replication, and Sentinel for failover.
+- For MySQL, it suggests a master-slave architecture and horizontal partitioning.
+- In the trade-offs, it chooses MySQL over NoSQL because of complex queries and transaction support.
+- It also chooses Redis over Memcached because of data types, advanced features, and horizontal scalability.
+- Among failure scenarios, it proposes a hybrid pull and push model for users who follow many people.
+- For read hotspots, it recommends Redis cache with cache-aside and use of local cache.
+- As a future improvement, it suggests an active-active multi-region strategy for disaster recovery and high availability.

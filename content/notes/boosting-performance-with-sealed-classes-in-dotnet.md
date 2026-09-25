@@ -2,8 +2,8 @@
 title: "Boosting Performance With Sealed Classes in .NET"
 date: '2026-09-24T23:20:41+01:00'
 category: webclip
-summary: 'O artigo compara classes abertas e sealed em C# e mostra ganhos de desempenho em chamadas de métodos, casting, type-checking e arrays, com exceção de método estático. Também aponta o custo para mocking em testes.'
-tags: ["sealed-classes", "performance", "csharp", "dotnet"]
+summary: 'The article compares open and sealed classes in C# and shows gains in performance in method calls, casting, type checking, and arrays, with an exception for static methods. It also points out the cost for mocking in tests.'
+tags: ["sealed-classes","performance","csharp","dotnet"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,9 +17,9 @@ sources:
 
 The article compares sealed and open classes in C# and shows that sealed classes are faster in most measured operations, including void methods, methods with return values, casting, type checks, and array insertion. Static method calls are an exception, and the JIT can make open-class calls as fast as sealed ones when the actual type is known inside the method.
 
-## Fichamento
+## Reading notes
 
-- Classes sealed block inheritance, and the article uses them to improve performance in .NET projects.
+- Sealed classes block inheritance, and the article uses them to improve performance in .NET projects.
 - The benchmark compares an open `Bear` class with a sealed `Husky` class that both inherit from `Animal`.
 - Sealed classes are faster when calling overridden void methods and methods that return `int`.
 - Calling the static `Walk()` method from the parent class produces similar results for sealed and open classes.

@@ -21,7 +21,7 @@ Chaos engineering injects failures into a system on purpose, then watches how it
 
 Netflix is the reference case. Chaos Monkey, part of its Simian Army suite, randomly disables production instances to force the streaming service to prove it can absorb that kind of failure without users noticing. The piece credits that practice with meaningfully improving Netflix's resilience and treats it as the benchmark other companies now measure against.
 
-## Fichamento
+## Reading notes
 
 - Recommended practice is to start small, with low-risk experiments simulating minor failures, and build up from there rather than testing worst-case scenarios first.
 - Chaos experiments are meant to run inside CI/CD, as continuous resilience testing, not as a one-off exercise.

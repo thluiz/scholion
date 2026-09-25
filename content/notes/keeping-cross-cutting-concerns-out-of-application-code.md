@@ -22,7 +22,7 @@ Mark Seemann starts from a Stack Overflow question about testing a `MyApi` class
 
 He walks the refactor in three moves: wrap `IOrganizationService` in a `ResilientOrganizationService` Decorator that owns the Polly pipeline, strip `MyApi` down to just the interface it actually needs, then wire the Decorator into `MyApi` at the Composition Root. What's left of `MyApi` has no Polly reference at all, and the resulting unit test needs only a mock of `IOrganizationService`.
 
-## Fichamento
+## Reading notes
 
 - The `ResilientOrganizationService` Decorator implements `IOrganizationService` itself while wrapping another instance of it, executing every call through the injected `ResiliencePipeline`. `MyApi` never sees Polly again.
 - Constructor design follows Nikola Malovic's 4th law of DI, cited directly: a resolved class's constructor should do nothing but accept its own dependencies. The Decorator takes a ready-made `ResiliencePipeline` rather than a `ResiliencePipelineProvider` it would have to call `GetPipeline` on.

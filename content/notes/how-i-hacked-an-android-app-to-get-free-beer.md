@@ -3,7 +3,7 @@ title: "How I Hacked an Android App to Get Free Beer"
 date: '2026-09-24T23:05:09+01:00'
 category: webclip
 summary: 'The post shows how the app’s point authorization can be abused by intercepting HTTPS traffic and replacing the PIN flow with beacon data broadcast openly over BLE.'
-tags: ["android-security", "https-interception", "ble-beacons", "mobile-apps"]
+tags: ["android-security","https-interception","ble-beacons","mobile-apps"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,15 +19,15 @@ The page describes an Android app used in pubs, restaurants, and cafes to grant 
 
 It then walks through intercepting the app’s HTTPS traffic with Fiddler and later with an L2TP/IPsec VPN plus SSLsplit. After capturing both PIN-based and beacon-based authorization packets, the author confirms that the beacon’s UUID, Major, and Minor values are sent to the server and can be swapped into a request to earn points.
 
-## Fichamento
+## Reading notes
 
-- O app dá pontos por compras em estabelecimentos e autoriza a operação com PIN ou com um beacon físico do local.
-- O autor identifica que os beacons da Estimote transmitem UUID, Major e Minor por BLE e que o app usa esses valores como chave de autorização.
-- A verificação por beacon depende da proximidade medida pelo sinal e os dados do beacon são enviados ao servidor para validar a pontuação.
-- O tráfego HTTPS do app é interceptado com Fiddler em rede local e depois com VPN e SSLsplit em conexão móvel.
-- O app não usa certificate pinning, o que permite aceitar certificados forjados e ler o conteúdo das requisições.
-- A requisição de pontos envia authentication_token, promoted_products_ids, pin, place_id, latitude e longitude em JSON.
-- O servidor bloqueia tentativas repetidas de PIN por 30 minutos após poucas falhas.
-- Quando a autorização usa beacon, a requisição inclui main_beacon com major, minor e uuid, junto com os demais dados da compra.
-- O autor confirma que os valores capturados no app da Estimote são os mesmos enviados na requisição de autorização.
-- O texto propõe usar hash do estado da conta, obfuscação, Secure UUID, certificate pinning, beacon de curto alcance e validação no dispositivo do vendedor para aumentar a segurança.
+- The app gives points for purchases at establishments and authorizes the operation with a PIN or with a physical beacon from the place.
+- The author identifies that Estimote beacons transmit UUID, Major, and Minor over BLE and that the app uses these values as an authorization key.
+- Beacon verification depends on proximity measured by the signal, and the beacon data are sent to the server to validate the points.
+- The app’s HTTPS traffic is intercepted with Fiddler on a local network and later with VPN and SSLsplit on a mobile connection.
+- The app does not use certificate pinning, which allows forged certificates to be accepted and the request content to be read.
+- The points request sends authentication_token, promoted_products_ids, pin, place_id, latitude and longitude in JSON.
+- The server blocks repeated PIN attempts for 30 minutes after a few failures.
+- When authorization uses a beacon, the request includes main_beacon with major, minor and uuid, along with the other purchase data.
+- The author confirms that the values captured in the Estimote app are the same as those sent in the authorization request.
+- The text proposes using a hash of the account state, obfuscation, Secure UUID, certificate pinning, short-range beacon and on-device validation at the seller’s device to increase security.

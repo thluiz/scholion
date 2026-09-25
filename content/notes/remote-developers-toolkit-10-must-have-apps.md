@@ -17,7 +17,7 @@ sources:
 
 The page argues that the right tools can make remote work productive instead of frustrating. It groups ten apps around note-taking, launching tools, project tracking, pair programming, whiteboarding, noise removal, cloud development, server management, and asynchronous communication.
 
-## Fichamento
+## Reading notes
 
 - Obsidian keeps notes and documents in local markdown files instead of using a conventional note-taking app.
 - Raycast is a fast, scriptable launcher that lets you control tools with a few keystrokes.

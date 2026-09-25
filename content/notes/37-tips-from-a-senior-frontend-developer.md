@@ -2,8 +2,8 @@
 title: "37 Tips from a Senior Frontend Developer"
 date: '2026-09-24T23:34:40+01:00'
 category: webclip
-summary: 'O texto reúne conselhos de carreira e prática para frontend: dominar fundamentos, praticar, pedir ajuda, comunicar valor, aprender continuamente e colaborar bem com o time.'
-tags: ["frontend", "carreira", "javascript", "trabalho-em-equipe"]
+summary: 'The text brings together career and practice advice for frontend: mastering fundamentals, practicing, asking for help, communicating value, learning continuously, and collaborating well with the team.'
+tags: ["frontend","career","javascript","teamwork"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,42 +17,42 @@ sources:
 
 The post collects 37 tips from more than 5 years as a software developer. It stresses strong fundamentals in HTML, CSS, and JavaScript, learning by doing, asking for help in the right way, and avoiding blind trust in copied code or online advice. It also argues for shipping done work, breaking tasks down, focusing on value, communication, teamwork, and building depth in one area while continuing to learn.
 
-## Fichamento
+## Reading notes
 
-- Dominar HTML, CSS e JavaScript antes de depender de frameworks.
-- Entender como a web funciona ajuda a perceber por que existem tantas ferramentas no frontend.
-- Conhecer estruturas de dados, algoritmos e suas complexidades é necessário para programas mais complexos e para avaliar eficiência.
-- Aprender praticando é melhor do que só ler ou assistir tutoriais.
-- Pedir ajuda quando travar evita perder tempo em problemas já resolvidos por outros.
-- Pedir ajuda do jeito certo inclui pesquisar antes, entender o objetivo, registrar tentativas falhas e não repetir a mesma dúvida sem anotar a resposta.
-- Não copiar e colar código sem entender, porque isso pode gerar código inseguro, difícil de debugar e difícil de explicar.
-- Não aplicar conselhos online de forma automática; é preciso ver se o conselho serve ao seu contexto.
-- Assumir boa intenção e confiar que a empresa quer que você dê certo, usando colegas como apoio.
-- Priorizar algo pronto em vez de tentar deixar perfeito, evitando procrastinação e complexidade excessiva.
-- Quebrar projetos em tarefas menores reduz a sobrecarga, facilita revisão de PRs e dá sensação de progresso.
-- Ser visto como alguém confiável inclui saber pedir ajuda quando necessário e comunicar problemas.
-- Mostrar entusiasmo no trabalho ajuda, especialmente quando a pessoa está começando.
-- Permanecer aberto a novas ferramentas e métodos acompanha a evolução do frontend.
-- Dominar as ferramentas de desenvolvimento, como IDE, controle de versão e navegador, acelera o trabalho.
-- Escrever código que gere valor para clientes, empresa e stakeholders é a prioridade.
-- Tornar o próprio trabalho visível por meio de textos, demos e outras formas de exposição evita que ele passe despercebido.
-- Preferir código claro a código “esperto”, porque ele é lido mais vezes do que é escrito.
-- O gerente é apresentado como aliado que apoia crescimento e objetivos.
-- Ajudar o gerente com tarefas como documentação e suporte ao trabalho facilita receber apoio de volta.
-- Entender o contexto das tarefas, seu valor e o papel delas na estratégia da empresa é parte do avanço na carreira.
-- Contribuir com documentação, demos e tech talks também melhora o time e mostra habilidades.
-- Desenvolver profundidade em uma área específica pesa mais para promoções do que ser mediano em várias áreas.
-- Comunicação é tratada como requisito para RFCs, demos e apresentações.
-- Fazer pausas quando ficar preso num problema costuma trazer ideias mais frescas.
-- Trabalhar a partir dos pontos fortes, em vez de insistir em fraquezas, é a estratégia sugerida.
-- Assumir a própria trajetória de carreira exige criar um plano para 1, 2 e 5 anos.
-- Conviver com outros devs ajuda a lidar com síndrome do impostor e trocar aprendizados.
-- Mentorar devs mais novos ajuda a reconhecer o próprio conhecimento e reforça a posição profissional.
-- Resolver problemas variados evita estagnação e amplia o repertório de abordagens.
-- Ter mentores ajuda a manter os pés no chão e a evitar erros já cometidos por eles.
-- Escolher um framework JavaScript e dominá-lo é suficiente quando os fundamentos de JavaScript estão sólidos.
-- Pensar continuamente na experiência do usuário envolve estados de carregamento, feedback e comunicação de progresso.
-- Saber dizer não ajuda a priorizar pedidos alinhados aos próprios objetivos.
-- Investir continuamente nas próprias habilidades é parte da carreira em frontend.
-- Quando houver trabalho demais, reduzir funcionalidades é preferível a sacrificar a qualidade do código.
-- Entender e respeitar designers, backend devs e PMs melhora a colaboração e o ambiente de trabalho.
+- Master HTML, CSS, and JavaScript before depending on frameworks.
+- Understanding how the web works helps you see why there are so many tools in frontend.
+- Knowing data structures, algorithms, and their complexities is necessary for more complex programs and to evaluate efficiency.
+- Learning by practicing is better than only reading or watching tutorials.
+- Asking for help when you get stuck avoids wasting time on problems others have already solved.
+- Asking for help the right way includes researching first, understanding the goal, recording failed attempts, and not repeating the same question without noting the answer.
+- Do not copy and paste code without understanding it, because that can produce insecure code that is hard to debug and hard to explain.
+- Do not apply online advice automatically; you need to see whether the advice fits your context.
+- Assume good intentions and trust that the company wants you to succeed, using colleagues as support.
+- Prioritizing something finished instead of trying to make it perfect avoids procrastination and excessive complexity.
+- Breaking projects into smaller tasks reduces overload, makes PR review easier, and gives a sense of progress.
+- Being seen as someone reliable includes knowing how to ask for help when needed and communicate problems.
+- Showing enthusiasm at work helps, especially when the person is starting out.
+- Staying open to new tools and methods keeps up with frontend’s evolution.
+- Mastering development tools, such as the IDE, version control, and browser, speeds up work.
+- Writing code that generates value for customers, the company, and stakeholders is the priority.
+- Making your own work visible through writing, demos, and other forms of exposure avoids letting it go unnoticed.
+- Preferring clear code over “clever” code matters because it is read more times than it is written.
+- The manager is presented as an ally who supports growth and goals.
+- Helping the manager with tasks such as documentation and support for the work makes it easier to receive support in return.
+- Understanding the context of tasks, their value, and their role in the company’s strategy is part of career growth.
+- Contributing documentation, demos, and tech talks also improves the team and shows skills.
+- Developing depth in a specific area weighs more for promotions than being average in several areas.
+- Communication is treated as a requirement for RFCs, demos, and presentations.
+- Taking breaks when you get stuck on a problem often brings fresher ideas.
+- Working from strengths, instead of insisting on weaknesses, is the suggested strategy.
+- Taking ownership of your own career path requires creating a plan for 1, 2, and 5 years.
+- Living with other devs helps deal with impostor syndrome and exchange learnings.
+- Mentoring younger devs helps you recognize your own knowledge and reinforces your professional position.
+- Solving varied problems avoids stagnation and broadens your range of approaches.
+- Having mentors helps keep you grounded and avoid mistakes they have already made.
+- Choosing a JavaScript framework and mastering it is enough when JavaScript fundamentals are solid.
+- Thinking continuously about the user experience involves loading states, feedback, and communication of progress.
+- Knowing how to say no helps prioritize requests aligned with your own goals.
+- Continuously investing in your own skills is part of a frontend career.
+- When there is too much work, reducing features is preferable to sacrificing code quality.
+- Understanding and respecting designers, backend devs, and PMs improves collaboration and the work environment.

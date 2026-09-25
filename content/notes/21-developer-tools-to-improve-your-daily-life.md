@@ -2,8 +2,8 @@
 title: "21 Developer Tools to Improve Your Daily Life as Developer ⚡🎁"
 date: '2026-09-25T01:07:10+01:00'
 category: webclip
-summary: 'Lista 21 ferramentas, projetos e pacotes que o autor considera realmente úteis para devs, cobrindo UI, testes, dados, SQL, automação, colaboração e produtividade.'
-tags: ["developer-tools", "frontend", "data-tools", "ai-tools"]
+summary: 'The text gathers 21 tools, projects, and packages that the author says are truly useful for everyday development work. The selection covers Python interfaces, responsive development, document signing, bug reporting, data and SQL support, AI automation, visual collaboration, and work management.'
+tags: ["developer-tools","frontend","data-tools","ai-tools"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -15,29 +15,27 @@ sources:
     kind: repo
 ---
 
-O texto reúne 21 ferramentas, projetos e pacotes que o autor diz considerar realmente úteis para o dia a dia de desenvolvimento. A seleção cobre interface para Python, desenvolvimento responsivo, assinatura de documentos, relatórios de bugs, apoio a dados e SQL, automação com IA, colaboração visual e gestão de trabalho.
+## Reading notes
 
-## Fichamento
-
-- A publicação critica a grande quantidade de ferramentas de developer que ficam abaixo do esperado e diz que, por isso, seleciona 21 opções úteis.
-- Taipy é apresentado como uma biblioteca Python open source para criar apps de ponta a ponta com interface gráfica, com foco em desempenho, análises what-if, execução de pipelines, agendamento e deploy.
-- Mitosis converte componentes JSX para vários frameworks e runtimes, permitindo escrever a interface uma vez e reutilizá-la em Angular, React, Vue, Svelte, Solid, Qwik e React Native.
-- Responsively é um navegador modificado para desenvolvimento responsivo que mostra vários dispositivos ao mesmo tempo, replica cliques e rolagens, salva conjuntos de dispositivos e inclui inspetor unificado.
-- Documenso é descrito como uma forma simples de assinar documentos digitais, útil para freelancers, com fluxo de upload, definição de partes, campos de assinatura e aviso por e-mail.
-- Jam é uma extensão gratuita de Chrome para registrar bugs com mais eficiência, capturando console, rede, passos de reprodução, info do navegador e suporte a integrações.
-- Can I Use fornece tabelas atualizadas de suporte de navegador para tecnologias web, comparação entre navegadores e filtros para explorar os dados.
-- AppFlowy é mostrado como uma alternativa open source ao Notion, com workspace seguro, visualização em tabelas, boards e calendários, apps móveis e opção de self-hosting com Supabase.
-- Copycat gera valores falsos determinísticos para uso em fluxo de desenvolvimento, retornando o mesmo valor para a mesma entrada em qualquer ambiente.
-- Litlyx oferece analytics em uma linha de código para frameworks JavaScript e TypeScript, com apoio de IA para consultas sobre os dados, dashboards, relatórios automáticos e exportação CSV.
-- Requestly é apresentado como um interceptador HTTP para navegadores que permite testar e depurar sem múltiplos ciclos de deploy, além de redirecionar requisições, alterar headers, injetar scripts e mockar GraphQL.
-- Music for Programming reúne mixes pensados para ouvir enquanto se programa, com reprodução aleatória e foco em inspirar a mente.
-- Obsidian é descrito como um app de escrita privado e flexível, com plugins, colaboração, histórico de versões, publicação paga e suporte para plugins próprios.
-- Vanna é um framework Python open source para gerar SQL com RAG, treinando um modelo sobre os dados e depois respondendo perguntas que viram queries.
-- Seed gera dados sintéticos realistas a partir do schema do banco, com cliente, CLI e componente de IA, e é compatível com PostgreSQL, SQLite e MySQL.
-- Hyperswitch é um switch de pagamentos open source em Rust, com APIs para muitos países, métodos de pagamento e processadores, além de roteamento para reduzir custos.
-- Chat2DB é uma plataforma de gestão e análise de dados com IA que converte linguagem natural em SQL, gera relatórios e trabalha com vários bancos de dados.
-- Micro Agent cria testes e iterativa o código até que os casos passem, tentando entregar código gerado por IA com menos falhas.
-- Miro AI é apresentado como um workspace visual com IA para colaboração, mapas, diagramas, briefs e resumos a partir do conteúdo do quadro.
-- Codium AI gera testes relevantes a partir do código, docstrings e comentários, e também oferece ferramentas de revisão e extensão para editores.
-- Opire é uma plataforma de recompensas para open source, permitindo criar e resolver bounties, apoiar mantenedores e pagar por testes técnicos.
-- Mantine Hooks oferece mais de 60 hooks prontos para estado e UI, cobrindo desde local storage e paginação até scroll, intersection, color picker e seleção de texto.
+- The publication criticizes the large number of developer tools that fall short of expectations and says that, for that reason, it selects 21 useful options.
+- Taipy is presented as an open source Python library for creating end-to-end apps with a graphical interface, with a focus on performance, what-if analysis, pipeline execution, scheduling, and deployment.
+- Mitosis converts JSX components to several frameworks and runtimes, allowing you to write the interface once and reuse it in Angular, React, Vue, Svelte, Solid, Qwik, and React Native.
+- Responsively is a modified browser for responsive development that shows multiple devices at the same time, mirrors clicks and scrolling, saves device sets, and includes a unified inspector.
+- Documenso is described as a simple way to sign digital documents, useful for freelancers, with a flow for uploading, defining parties, signature fields, and email notifications.
+- Jam is a free Chrome extension for recording bugs more efficiently, capturing console, network, reproduction steps, browser info, and integration support.
+- Can I Use provides updated browser support tables for web technologies, browser comparisons, and filters to explore the data.
+- AppFlowy is shown as an open source alternative to Notion, with a secure workspace, table, board, and calendar views, mobile apps, and a self-hosting option with Supabase.
+- Copycat generates deterministic fake values for use in the development flow, returning the same value for the same input in any environment.
+- Litlyx offers analytics in one line of code for JavaScript and TypeScript frameworks, with AI support for queries about the data, dashboards, automatic reports, and CSV export.
+- Requestly is presented as an HTTP interceptor for browsers that allows testing and debugging without multiple deploy cycles, as well as redirecting requests, changing headers, injecting scripts, and mocking GraphQL.
+- Music for Programming brings together mixes designed to be listened to while programming, with random playback and a focus on inspiring the mind.
+- Obsidian is described as a private and flexible writing app, with plugins, collaboration, version history, paid publishing, and support for custom plugins.
+- Vanna is an open source Python framework for generating SQL with RAG, training a model on the data and then answering questions that become queries.
+- Seed generates realistic synthetic data from the database schema, with a client, CLI, and AI component, and is compatible with PostgreSQL, SQLite, and MySQL.
+- Hyperswitch is an open source payment switch in Rust, with APIs for many countries, payment methods, and processors, plus routing to reduce costs.
+- Chat2DB is a data management and analysis platform with AI that converts natural language into SQL, generates reports, and works with multiple databases.
+- Micro Agent creates tests and iterates the code until the cases pass, trying to deliver AI-generated code with fewer failures.
+- Miro AI is presented as a visual workspace with AI for collaboration, maps, diagrams, briefs, and summaries from the board content.
+- Codium AI generates relevant tests from code, docstrings, and comments, and also offers review tools and extensions for editors.
+- Opire is a rewards platform for open source, allowing you to create and resolve bounties, support maintainers, and pay for technical tests.
+- Mantine Hooks offers more than 60 ready-made hooks for state and UI, covering everything from local storage and pagination to scroll, intersection, color picker, and text selection.

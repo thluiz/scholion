@@ -19,7 +19,7 @@ sources:
 
 BairesDev launched the Dev Barometer, a quarterly survey of the senior software engineers it works with as a nearshore partner. The first edition surveyed 1,129 developers and 50 project managers across 125 projects in 63 countries, most with 8+ years of experience. Developers have adopted AI deeply enough to measure real time savings and are actively reinvesting that time into AI-specific upskilling. The companies employing them mostly remain at early, pilot-stage AI maturity, with no clear strategy to capture the productivity already happening on their teams.
 
-## Fichamento
+## Reading notes
 
 - Developers save an average of 7.3 hours per week using AI for coding; 48% say 10-50% of their code is now AI-assisted, with an average AI-assisted share of 23.5%.
 - The saved time gets reinvested in upskilling, roughly 4 hours a week on average. The piece profiles Jorge García, a senior Ruby developer who moved into an AI Engineer role, and Ahmed Somarribas, who says AI helped him go from junior to near-senior level in JavaScript within a couple of months.

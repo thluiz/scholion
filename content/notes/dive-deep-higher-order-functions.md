@@ -20,7 +20,7 @@ A Higher-Order Function takes one or more functions as arguments, returns a func
 
 The three everyday examples are `map` (transform each item), `filter` (select items by a condition) and `reduce` (combine items into one result). The article calls these the backbone of collection processing across JavaScript, Python, Java, Kotlin, Scala and Haskell. Function composition and currying build on the same base, chaining functions together or turning a multi-argument function into a sequence of single-argument ones.
 
-## Fichamento
+## Reading notes
 
 - HOFs abstract away repetitive patterns, shifting code from describing how to do something to describing what needs to be done.
 - The piece links twenty external resources spanning Medium, Kotlin's own docs, university lecture PDFs (Utrecht, CMU), FreeCodeCamp, O'Reilly and language-specific guides for JavaScript, Java, C#, Python and Go.

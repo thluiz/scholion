@@ -3,7 +3,7 @@ title: "Why you can't be a good .NET developer"
 date: '2026-09-24T17:55:00+01:00'
 category: webclip
 summary: 'The post argues that developers leave .NET to escape teams and shops that choose tools and practices for the least capable members, which blocks progress and pushes people elsewhere.'
-tags: ["dotnet", "desenvolvimento-de-software", "equipes", "cultura-empresa"]
+tags: ["dotnet", "software-development", "teams", "workplace-culture"]
 has_commentary: false
 sources:
   - title: "Why you can't be a good .NET developer"
@@ -18,7 +18,7 @@ The post argues that developers do not leave .NET out of self-loathing. It says 
 
 The author gives examples of teams staying with TFS because git seemed too hard, sticking with ASP.NET Web Forms because MVC concepts would slow people down, and resisting shifts toward things like F# for the same reason. He describes many .NET shops as enterprise environments that keep reproducing weak decisions, and says developers who want to be more effective often end up moving to other communities or contexts where teams are expected to be more self-reliant.
 
-## Fichamento
+## Reading notes
 
 - The author rejects the idea that developers leave .NET because they dislike themselves or their platform.
 - He says it is impossible to be a good .NET developer when team choices are repeatedly shaped by the lowest common denominator.

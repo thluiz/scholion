@@ -2,8 +2,8 @@
 title: "Part 2: Design Principles in Software Development"
 date: '2026-09-25T00:38:36+01:00'
 category: webclip
-summary: 'A página apresenta cinco princípios de design em software, explicando como abstrações, separação de responsabilidades e redução de duplicação ajudam a manter o código mais limpo, fácil de manter e de expandir.'
-tags: ["software-development", "design-principles", "solid", "maintainability"]
+summary: 'A page presents five software design principles, explaining how abstractions, separation of responsibilities, and reducing duplication help keep code cleaner, easier to maintain, and easier to extend.'
+tags: ["software-development","design-principles","solid","maintainability"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,7 +17,7 @@ sources:
 
 The page outlines five design principles in software development and says they help keep a codebase clean and efficient. It explains Dependency Inversion, Separation of Concerns, Single Responsibility, DRY, and Persistence Ignorance through short examples.
 
-## Fichamento
+## Reading notes
 
 - Dependency Inversion says high-level modules should depend on abstractions, not concrete details, so implementations can be swapped without changing the dependent class.
 - Separation of Concerns divides a web application into presentation, business logic, and data access layers, with each layer handling a specific part of the work.

@@ -17,7 +17,7 @@ sources:
 
 The post reviews journals for wet media and compares how different brands handle watercolor, ink, and mixed use. It favors bound books over spiral ones, notes that paper warp is common, and points to Stillman & Birn and Pentalic as stronger options for watercolor use.
 
-## Fichamento
+## Reading notes
 
 - The review focuses on journals that work for wet media and points out some that do not.
 - The author says the topic is large because many journals exist and many people are looking for the best one for their needs.

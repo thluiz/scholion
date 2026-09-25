@@ -2,8 +2,8 @@
 title: "What makes a great Product Manager"
 date: '2026-09-24T22:04:36+01:00'
 category: webclip
-summary: 'O texto adapta uma resposta do Quora para dizer que um bom product manager assume o produto, persuade, entende a parte técnica, mantém o time positivo, divide crédito, inclui os outros e fala com coragem.'
-tags: ["product-management", "leadership", "teamwork"]
+summary: 'The text adapts a Quora answer to say that a good product manager owns the product, persuades, understands the technical side, keeps the team positive, shares credit, includes others, and speaks with courage.'
+tags: ["product-management","leadership","teamwork"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,7 +17,7 @@ sources:
 
 Edward Ho’s answer is adapted here into a general list of qualities for a great product manager. The post says the role involves owning the product, being persuasive, understanding how the product is built, keeping the team positive, avoiding self-promotion, being inclusive, and speaking fearlessly with higher-ups.
 
-## Fichamento
+## Reading notes
 
 - Assume ownership of the product and of the issues tied to it, including bugs, user communication, notes, emails, triage, and quick mockups.
 - Persuade people by being convincing rather than commanding, especially when you are already working alongside the team.

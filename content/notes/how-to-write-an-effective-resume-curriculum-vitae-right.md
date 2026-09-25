@@ -17,7 +17,7 @@ sources:
 
 The post treats a resume as the first document a potential employer sees and says it should present relevant experience and education clearly. It also says hiring is not only about technical skill, because attitude, personal zeal, and eagerness matter, and that people can be chosen for their willingness to learn and train well.
 
-## Fichamento
+## Reading notes
 
 - A resume is a summary of relevant job experience and education used to secure a new job.
 - It is often the first thing a potential employer sees, so it carries a lot of importance.

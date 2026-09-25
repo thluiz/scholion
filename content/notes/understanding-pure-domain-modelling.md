@@ -21,7 +21,7 @@ Bart Wullems names a bias he keeps running into during domain modelling workshop
 
 He calls the alternative "pure domain modelling": building a conceptual model of the business as close to reality as possible, deliberately set apart from any existing system or technology.
 
-## Fichamento
+## Reading notes
 
 - Domain experts anchored to their current system tend to describe the domain the way it's implemented, which constrains the model to that system's existing limitations and design choices.
 - Business rules absent from the current system get left out of the model even when they matter, because experts describe what the system does rather than what the business actually needs.

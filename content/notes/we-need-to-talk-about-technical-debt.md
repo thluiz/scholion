@@ -22,7 +22,7 @@ Harry Roberts argues that technical debt and bad code get conflated, and that co
 
 He frames debt through a borrowing analogy: good debt (a mortgage, a student loan, a business loan) secures the means to pay itself back; bad debt (a loan shark, a payday loan) doesn't. Applied to code, a hacked-in CSS theme to close a big client is good debt only if the team goes back and builds theming properly afterward. Skip the repayment and every subsequent theme request piles hacks on top of hacks, until a full rewrite becomes unavoidable, at a cost higher than disciplined repayment would have taken.
 
-## Fichamento
+## Reading notes
 
 - Technical debt, by definition, is entered into knowingly and strategically. Debt doesn't happen by accident.
 - Example: a team hacks a client-requested theme into a CSS architecture never built for theming, in exchange for closing a big sale. That decision is technical debt.

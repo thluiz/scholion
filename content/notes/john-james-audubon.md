@@ -3,7 +3,7 @@ title: "John James Audubon"
 date: '2026-09-25T08:34:27+01:00'
 category: webclip
 summary: 'French-American artist and ornithologist who turned bird study into The Birds of America, but whose work and legacy are marked by disputed claims, fraud accusations, and slaveholding.'
-tags: ["artist", "ornithology", "birds-of-america", "slavery"]
+tags: ["artist","ornithology","birds-of-america","slavery"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,18 +19,18 @@ John James Audubon was a French-American artist, naturalist, explorer, and ornit
 
 His life moved from birth in Saint-Domingue to upbringing in France and later immigration to the United States. The page also says his scientific record and autobiography are controversial, with accusations of fraud, plagiarism, scientific misconduct, false claims, slaveholding, grave robbing, and trafficking in Native American remains.
 
-## Fichamento
+## Reading notes
 
-- Nasceu em Saint-Domingue, foi criado na França e depois foi para os Estados Unidos, onde passou a usar o nome John James Audubon.
-- Trabalhou como artista, naturalista, explorador e ornitólogo, com interesse central nas aves.
-- O projeto mais conhecido foi registrar visualmente as aves da América do Norte de forma completa.
-- Sua obra principal foi *The Birds of America*, acompanhada de *Ornithological Biography*.
-- Desenvolveu desenhos e estudos de campo, e a obra foi impressa com gravações e colorização manual em grande formato.
-- O livro teve sucesso na Grã-Bretanha e na Europa, e recebeu apoio de assinantes, reis e instituições científicas.
-- A página afirma que suas contribuições científicas foram consideráveis, mas também controversas.
-- O texto registra acusações de fraude, plágio, manipulação de dados e má conduta científica.
-- A página diz que ele também foi criticado por comprar e vender pessoas escravizadas, roubo de cadáveres e tráfico de restos humanos indígenas.
-- Parte de seu legado público permanece em nomes de lugares, sociedades e instituições, embora algumas organizações tenham mudado de nome.
-- Seus métodos de ilustração incluíam matar os pássaros, usar arames para posicioná-los e desenhá-los em poses naturais.
-- O texto observa que suas imagens influenciaram a ornitologia, a história natural e a arte do livro, além de terem sido citadas por Charles Darwin.
-- No fim da vida, sua saúde piorou, e ele morreu em Nova York em 1851.
+- Was born in Saint-Domingue, was raised in France, and later went to the United States, where he began using the name John James Audubon.
+- Worked as an artist, naturalist, explorer, and ornithologist, with a central interest in birds.
+- His best-known project was to visually record the birds of North America in a complete way.
+- His main work was *The Birds of America*, accompanied by *Ornithological Biography*.
+- He developed drawings and field studies, and the work was printed with engravings and hand coloring in large format.
+- The book was successful in Great Britain and Europe, and received support from subscribers, kings, and scientific institutions.
+- The page states that his scientific contributions were considerable, but also controversial.
+- The text records accusations of fraud, plagiarism, data manipulation, and scientific misconduct.
+- The page says that he was also criticized for buying and selling enslaved people, grave robbing, and trafficking in Indigenous human remains.
+- Part of his public legacy remains in place names, societies, and institutions, although some organizations have changed names.
+- His illustration methods included killing the birds, using wires to position them, and drawing them in natural poses.
+- The text notes that his images influenced ornithology, natural history, and the art of the book, and were also cited by Charles Darwin.
+- Near the end of his life, his health declined, and he died in New York in 1851.

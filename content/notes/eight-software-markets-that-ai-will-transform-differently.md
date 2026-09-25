@@ -2,8 +2,8 @@
 title: "Eight Software Markets That AI Will Transform Differently"
 date: '2026-09-24T23:32:03+01:00'
 category: webclip
-summary: 'O texto argumenta que AI coding não vai afetar “software” de forma uniforme: o impacto depende do mercado, do que hoje limita a produção e de como a procura reage ao barateamento.'
-tags: ["ai-coding", "software-markets", "jevons-paradox", "productivity"]
+summary: 'The text argues that AI coding will reshape software unevenly because different markets have different constraints. Where the limit is developer time or skill, AI can unlock more production and create Jevons-style growth. Where the limit is procurement, regulation, safety, or market demand, cheaper code changes less.'
+tags: ["ai-coding","software-markets","jevons-paradox","productivity"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,7 +19,7 @@ The text argues that AI coding will reshape software unevenly because different 
 
 It walks through eight markets and separates them by likely impact. Internal tools, vernacular software, games, academic research, and startups should see strong expansion, while enterprise SaaS, government software, and safety-critical systems are less likely to grow just because building code gets cheaper.
 
-## Fichamento
+## Reading notes
 
 - Software should not be treated as a single commodity, because different markets face different constraints and different demand elasticities.
 - If the binding constraint is implementation skill, AI helps a lot; if it is domain knowledge, politics, or regulation, AI helps much less.

@@ -20,7 +20,7 @@ Extension methods have worked the same way since .NET 3.5: a static method with 
 
 The new syntax wraps a method or property in an `extension(){ }` block that takes the receiver type, and for instance members a named receiver parameter, instead of putting `this` on the first argument. It adds three new kinds of member beyond the old instance extension method: static extension methods, static extension properties, and instance extension properties, with extension operators following in a later preview. Lock ported his own NuGet package, NetEscapades.EnumGenerators, to the new syntax and found it trivial: the generator's existing static helper methods just needed wrapping in an `extension(global::MyColours) { }` block to become callable directly on the enum type itself.
 
-## Fichamento
+## Reading notes
 
 - The extension member syntax is optional. Existing `this`-parameter extension methods keep compiling exactly as before, to the same IL either way.
 - Converting one means wrapping it in an `extension<T>(IEnumerable<T> target) { }` block, moving the type parameters and receiver into that block, and dropping `static` from the method itself.

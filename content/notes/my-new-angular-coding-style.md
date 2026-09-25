@@ -22,7 +22,7 @@ Kevin Kreuzer rewrote a large Angular codebase around Signals and Signal-based A
 
 The more opinionated calls follow from committing to signals fully. Since signals need an initial value at field creation, initialization logic that used to live in a constructor mostly disappears, and effects or the newer afterRender/afterNextRender hooks can be assigned directly to private class fields instead of being wired up inside a constructor body, leaving many of his components with no constructor at all. He also argues for replacing async pipes with toSignal() conversions before binding data in templates (RxJS still handles the HTTP layer) and for replacing TypeScript's private keyword, a compile-time-only restriction, with JavaScript's # private field syntax, which is enforced at runtime.
 
-## Fichamento
+## Reading notes
 
 - Angular 19 makes standalone components the default and adds a strictStandalone compiler flag that errors on any component, directive, or pipe that isn't standalone.
 - Kreuzer treats full adoption of the signal APIs (signals, computed signals, signal inputs, signal queries) as foundational, framing it as both a reactivity improvement and preparation for Angular's move to Zoneless change detection.

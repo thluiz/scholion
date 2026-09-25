@@ -22,7 +22,7 @@ Fei-Fei Li and the World Labs team propose a way to cut through the overloaded t
 
 The essay treats simulation as the central component, because it provides the physically grounded state that both rendering and planning depend on. Renderers are the most commercially mature but optimize for visual plausibility rather than physical accuracy. Planners are the most nascent, still confined mostly to constrained lab demos.
 
-## Fichamento
+## Reading notes
 
 - The three-function split traces back to the POMDP loop from reinforcement learning: an agent takes actions, actions affect world state, the agent only perceives partial observations of that state, and new observations drive new actions.
 - The term "world model" itself predates AI: Kenneth Craik proposed in 1943 that minds reason by running small-scale models of reality, and the phrase entered neural networks in the late 1980s and early 1990s.

@@ -22,7 +22,7 @@ Andrew Chen splits work into a power law: a small number of "10x" tasks that def
 
 He argues 10x work can be engineered for even though it can't be scheduled: it clusters at the frontier of a field before status hierarchies and best practices exist, it comes from acting on your own plan instead of reacting to other people's requests, and it compounds through leverage: content, products, or communities that keep working while you sleep. He borrows Scott Adams's idea that the reliable path to something extraordinary isn't being the best at one thing (near-impossible) but being top 25% at two or three things, an argument Naval Ravikant extends by pointing out how fast a "3,728th best" combination of skills becomes globally rare once stacked together.
 
-## Fichamento
+## Reading notes
 
 - Daily routines (meetings, inbox, checklists) are mostly 1x or sub-1x work: comfortable, low-risk, and incapable of adding up to a career-defining outcome no matter the volume.
 - The difference between a grinder and someone lazy is roughly 3x in hours worked, but real-world output differences between people run far higher. The gap is explained by what work gets chosen, not effort alone.

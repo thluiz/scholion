@@ -19,7 +19,7 @@ sources:
 
 A good name compresses multiple meanings into one word, the way Deadspin promises ESPN with an unexpected angle, or Voldemort reads as a villain on sight. This piece walks through five tools for getting there, worked through a running example: naming a dating app for gym goers.
 
-## Fichamento
+## Reading notes
 
 - OneLook searches by partial word or topic and lets you combine constraints, useful for building word lists around shared letters or syllables (searching "*:exercise" then "*f*:dating" chains toward candidate names).
 - RhymeZone finds homophones, near-rhymes, and phrases, sortable by syllable count or popularity, for punning on an existing word.

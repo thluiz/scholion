@@ -22,7 +22,7 @@ Anthony Giretti documents the migration of Azure Durable Functions from .NET 6 i
 
 The core pattern across all four blocks is the same: WebJobs-namespaced packages and interfaces (`IDurableOrchestrationContext`, `IDurableEntityContext`, `IDurableOrchestrationClient`) give way to Worker-namespaced replacements (`TaskOrchestrationContext`, `TaskEntityDispatcher`, `DurableTaskClient`), and the generic `GetInput<T>()` call disappears in favor of typing the input directly as a function parameter.
 
-## Fichamento
+## Reading notes
 
 - The `.csproj` needs `TargetFramework` set to `net8.0`, `AzureFunctionsVersion` to `v4`, and `OutputType` to `Exe` for isolated mode to run at all.
 - A "Function already exists" crash is fixed by adding `<FunctionsEnableWorkerIndexing>False</FunctionsEnableWorkerIndexing>` to the csproj.

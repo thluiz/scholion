@@ -2,8 +2,8 @@
 title: "Windows Phone 7"
 date: '2026-09-24T21:57:30+01:00'
 category: webclip
-summary: 'O texto apresenta o Windows Phone 7 como um novo sistema móvel da Microsoft, com tela inicial em tiles, integração social, Xbox Live, Zune e um conjunto padronizado de hardware.'
-tags: ["windows-phone", "microsoft", "smartphone", "mobile-os"]
+summary: 'The text presents Windows Phone 7 as a new mobile system from Microsoft, with a tile-based home screen, social integration, Xbox Live, Zune and a standardized hardware set.'
+tags: ["windows-phone","microsoft","smartphone","mobile-os"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,7 +17,7 @@ sources:
 
 Microsoft’s Windows Phone 7 is presented as a new mobile OS that brings contacts, photos, music, video, web content, applications and services into one view. The post describes a Start screen built from live tiles, social networking built into the system, and integrations with Xbox Live and Zune.
 
-## Fichamento
+## Reading notes
 
 - The system is described as a way to gather contacts, photos, music, video, web content, applications and services into a single mobile experience.
 - The Start screen can be customized with live tiles that show updates from the web.

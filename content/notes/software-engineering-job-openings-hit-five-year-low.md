@@ -22,7 +22,7 @@ Gergely Orosz reads Indeed's job-posting index and finds software developer vaca
 
 He walks through several candidate explanations rather than settling on one. Section 174 (the 2023 US accounting change requiring software engineering costs to be amortized over five years) correlates with the timing but can't be the main driver, since it doesn't apply outside the US and the UK shows a similar drop anyway. The end of zero-interest-rate policy explains more of the macro picture but doesn't by itself explain why profitable Big Tech companies have slowed hiring or run layoffs. AI productivity gains, a hiring hangover from the 2021-2022 overrecruitment boom, and a shift toward smaller, more efficient engineering teams (Linear at 25 engineers, Bluesky at 13) round out the list, alongside a caveat that Indeed's own crawl coverage may undercount postings, especially at companies like Microsoft.
 
-## Fichamento
+## Reading notes
 
 - Indeed-tracked software developer vacancies: 65% of January 2020 levels, down 35%; 3.5x fewer than the mid-2022 peak; 8% down year-over-year as of the article's data.
 - Cross-industry comparison for the same 2020-2025 window: all jobs +10%, banking and finance -7%, sales -8%, marketing -19%, software development -34%, hospitality and tourism -18%. Software dev had both the biggest 2022 boom and the steepest subsequent bust of any tracked segment.

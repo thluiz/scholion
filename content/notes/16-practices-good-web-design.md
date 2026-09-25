@@ -21,7 +21,7 @@ Bart Krawczyk builds the list on a single split: fast thinkers who skim and deci
 
 Several of the sixteen practices push against design instincts that feel right but test worse. Clever, novel copy loses to plain copy that says what the product is. Multiple calls to action on one screen split attention that a single CTA would have captured whole. Debating which color converts best matters less than making sure that color contrasts with everything around it, since a red CTA only "won" one A/B test because the page around it was green.
 
-## Fichamento
+## Reading notes
 
 - Forms lose conversions to friction that has nothing to do with the product: extra fields not required for the service, multi-column layouts, error messages that all appear at once after submission instead of inline as each field is filled.
 - Stock photography and AI-generated images both cost trust rather than build it. The same handful of stock photos recur across too many sites to read as genuine, and AI-generated faces are increasingly recognizable as fake.

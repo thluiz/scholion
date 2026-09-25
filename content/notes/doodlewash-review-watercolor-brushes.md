@@ -17,7 +17,7 @@ sources:
 
 The post surveys watercolor brushes as a matter of personal preference and shows a range of brands, types, and specialty brushes. It also points to resources on fiber, brush sizes, brush shapes, cleaning, and travel brushes.
 
-## Fichamento
+## Reading notes
 
 - The author says the overview is meant to give ideas about what is available, since brush choice depends on preference, affordability, and availability.
 - The post lists brands and types including Raphaël, Princeton, Rosemary & Co., Escoda, Da Vinci, Royal & Langnickel, Loew-Cornell, travel brushes, bamboo brushes, hake brushes, and water brushes.

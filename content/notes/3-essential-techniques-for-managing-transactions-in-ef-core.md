@@ -22,7 +22,7 @@ Ali Hamza Ansari walks through three ways EF Core wraps database writes in a tra
 
 Automatic transactions come free: each call to SaveChangesAsync wraps its own changes as a transaction and rolls them back on failure, with no extra code required. That scope is also the limit, since each call is its own transaction and the technique can't tie together operations that depend on each other across multiple calls. Manual transactions fix that by wrapping several SaveChangesAsync calls between Database.BeginTransaction and an explicit Commit or Rollback, trading simplicity for full control over multi-insert scenarios. The strategy-based technique goes further: CreateExecutionStrategy wraps a transaction so that a transient failure retries the entire block from the start, suited to writes across dependent entities, such as a Building row and the BuildingUnit rows that reference it.
 
-## Fichamento
+## Reading notes
 
 - Automatic transactions: each SaveChangesAsync call auto-wraps its own changes and rolls back on failure. Simplest option, runs asynchronously by default, but scopes to a single call and can't cover operations that depend on each other across multiple calls.
 - Manual transactions: Database.BeginTransaction opens a transaction that spans several SaveChangesAsync calls, closed by an explicit transaction.Commit() or transaction.Rollback() inside a try/catch. Full control and per-exception handling, at the cost of more code and manual bookkeeping.

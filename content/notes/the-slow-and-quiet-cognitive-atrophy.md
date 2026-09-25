@@ -20,7 +20,7 @@ sources:
 
 Elmar Chavez names the danger after Pieter Bruegel's The Blind Leading the Blind. He describes the prompt-accept-repeat workflow of AI-assisted coding as something that quietly removes the review step that used to catch mistakes and build understanding. The UI looks right and the AI-generated tests pass. In his account, that's enough for engineers to accept a change without reading it. The same habit moves through the code review chain. A junior's trust in AI output cascades into a senior's trust in the junior, all the way to production.
 
-## Fichamento
+## Reading notes
 
 - Skill decay from over-reliance on AI isn't unique to software, but the "prompt, accept, repeat" workflow removes the review step that used to catch small mistakes before they accumulate.
 - Doing a task yourself, rather than just directing an AI to do it, is what forces attention to edge cases, UX decisions, and which tests actually matter.

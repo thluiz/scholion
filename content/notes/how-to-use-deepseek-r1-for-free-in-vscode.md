@@ -17,7 +17,7 @@ sources:
 
 The page argues that DeepSeek R1 is a free, open-source option that performs well in reasoning, mathematics, and code generation. It then explains how to run it locally with LM Studio, Ollama, or Jan and connect it to Visual Studio Code through Cline or Roo Code.
 
-## Fichamento
+## Reading notes
 
 - DeepSeek R1 is presented as a free, open-source model that competes with and outperforms models such as GPT-4, o1-mini, and Claude 3.5 in the author's test.
 - The model can be used for chat at chat.deepseek.com, but running it locally avoids token or API costs.

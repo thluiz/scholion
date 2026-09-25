@@ -2,8 +2,8 @@
 title: "Challenges in writing a programming book"
 date: '2026-09-25T01:15:59+01:00'
 category: webclip
-summary: 'O autor relata o trabalho de escrever um livro de software, os custos de tempo e dinheiro, e observa que desenvolvedores tendem a ler em diagonal, preferir estrutura clara e valorizar vídeo.'
-tags: ["software-engineering", "writing", "developer-content", "video"]
+summary: 'The author describes the work of writing a software book, the time and money costs, and observes that developers tend to skim, prefer clear structure, and value video.'
+tags: ["software-engineering","writing","developer-content","video"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -15,15 +15,15 @@ sources:
     kind: repo
 ---
 
-O autor conta que a ideia de escrever um livro sobre frameworks cresceu a partir de uma série de posts e acabou virando "The Framework Field Guide", uma trilogia que ele está tornando gratuita. Para isso, passou mais de dois anos entre organizar o material, criar o site do livro, refazer a plataforma de blog, escrever o primeiro volume e preparar exemplos de código, tudo enquanto mantinha o trabalho como líder de equipe de engenharia.
+The author says that the idea of writing a book about frameworks grew out of a series of posts and ended up becoming "The Framework Field Guide", a trilogy that he is making free. To do that, he spent more than two years organizing the material, creating the book website, rebuilding the blog platform, writing the first volume, and preparing code examples, all while keeping his job as an engineering team lead.
 
-## Fichamento
+## Reading notes
 
-- Escrever um livro é lento e envolve bem mais do que redigir capítulos, porque o projeto acabou exigindo reorganização de conteúdo, site de marketing, plataforma de publicação, revisão e exemplos de código.
-- O autor diz que vendas de livros são difíceis e que o esforço pode render menos do que consultoria, além de obrigar a pensar em preço baixo, que desvaloriza o trabalho, ou alto, que afasta leitores.
-- Ele resume que é preciso escrever por motivação própria e manter resiliência, porque o resultado pode valer o esforço.
-- Desenvolvedores costumam ler de relance, então artigos funcionam melhor quando são curtos, divididos com imagens, destaque em negrito e itálico, listas e código.
-- Títulos de seção precisam dizer com clareza o que será aprendido, porque títulos divertidos podem ser ignorados.
-- O autor recomenda comentar o código dentro do próprio bloco, já que muita gente copia e cola exemplos e aprende ajustando o que vê.
-- Ele afirma que conteúdo em vídeo tende a ter retorno maior para desenvolvedores do que texto, citando a diferença entre as visualizações de um artigo seu e um vídeo de Theo no YouTube.
-- No fim, ele diz que produzir conteúdo é trabalhoso, mas que publicar um livro pode melhorar o currículo, trazer orgulho e ajudar outras pessoas a aprender.
+- Writing a book is slow and involves much more than drafting chapters, because the project ended up requiring content reorganization, a marketing site, a publishing platform, editing, and code examples.
+- The author says book sales are difficult and that the effort may pay less than consulting, in addition to forcing you to think about a low price, which devalues the work, or a high one, which puts readers off.
+- He sums up that you need to write from your own motivation and stay resilient, because the result may be worth the effort.
+- Developers usually skim, so articles work better when they are short, split up with images, bold and italic emphasis, lists, and code.
+- Section titles need to clearly say what will be learned, because funny titles may be ignored.
+- The author recommends commenting code inside the block itself, since many people copy and paste examples and learn by adjusting what they see.
+- He states that video content tends to have a higher return for developers than text, citing the difference between the views on one of his articles and a Theo video on YouTube.
+- In the end, he says producing content is laborious, but publishing a book can improve your résumé, bring pride, and help other people learn.

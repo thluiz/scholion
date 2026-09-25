@@ -17,7 +17,7 @@ sources:
 
 PWAs are described as web applications that combine features of traditional websites and native mobile apps, with faster loading, offline use, installation on the home screen, SEO visibility, and HTTPS security. The article then walks through making an app installable with a manifest, adding offline support with service workers and Workbox, and checking performance, accessibility, and SEO with Lighthouse.
 
-## Fichamento
+## Reading notes
 
 - PWAs combine traits of websites and native mobile apps and aim to feel fast, reliable, and engaging.
 - The article lists improved performance, offline functionality, push notifications, home screen installation, SEO discoverability, and HTTPS as PWA benefits.

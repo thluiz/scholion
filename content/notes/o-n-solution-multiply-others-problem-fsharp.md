@@ -19,7 +19,7 @@ sources:
 
 The problem is a Facebook interview classic: given an array, produce a new array where each position holds the product of every other element, without using division and in O(n) time. Yan Cui shares an F# implementation of a solution built on two auxiliary arrays.
 
-## Fichamento
+## Reading notes
 
 - One array accumulates products left to right, the other right to left. Position i in the first array holds the product of everything before it; position i in the second holds the product of everything after it.
 - Multiplying the two arrays position by position gives the final answer, computed with one forward pass and one backward pass.

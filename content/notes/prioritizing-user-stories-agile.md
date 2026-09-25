@@ -21,7 +21,7 @@ MoSCoW, created by Dai Clegg at Oracle in the early 2000s, sorts stories into mu
 
 Each method carries its own failure mode. MoSCoW breaks when too many stories get labeled must have, since a backlog that's all top priority makes deadlines impossible; the piece recommends aiming for an even split across the four categories instead. RICE breaks on bad inputs, particularly the impact score, since it forces a number onto something that's closer to a gut feeling, and Intercom's own confidence variable exists specifically to flag when that number shouldn't be trusted.
 
-## Fichamento
+## Reading notes
 
 - MoSCoW's must-have test is a checklist, not a gut call: is the story replaceable, is there a workaround, is the product meaningful or safe without it, does it solve the customer's problem without it.
 - The "won't have" category in MoSCoW isn't a rejection. It just means the team lacks time or resources right now, and a story there can move up if its importance later increases.

@@ -20,7 +20,7 @@ sources:
 
 Robbie Clutton draws on conversations with clients scaling their pay structures to lay out the mechanics behind a compensation philosophy. He starts from role hierarchy (function, family, track and level), moves through where companies get benchmarking data, then into the compa ratio math that turns that data into actual pay bands, and closes on how companies handle regional pay differences in a remote-first world.
 
-## Fichamento
+## Reading notes
 
 - Role hierarchy has three layers: Job Function (engineering, product, marketing), Job Family (software engineering, SRE, QA within engineering), and Career Track. Tracks split into Professional (Associate → Engineer → Senior → Staff → Principal), Managerial (Associate → Manager → Senior Manager → Director → Senior Director), and Executive (VP → SVP → President → C-suite).
 - Level alignment across tracks: a Principal on the Professional track tends to sit at the same level as a Director on the Managerial track, and a Senior at the same level as a Manager.

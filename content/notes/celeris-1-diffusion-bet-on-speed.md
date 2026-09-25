@@ -18,7 +18,7 @@ Celeris.ai's launch announcement for celeris-1: diffusion-based inference instea
 
 On raw throughput, celeris-1 reaches 1,280 tokens per second against 144 for Gemini 3.5 Flash-Light, measured on a reconstructed version of Artificial Analysis's benchmark dataset. Replies on X pushed back quickly on the "near-GPT-5" framing, given that gap on the same benchmark.
 
-## Fichamento
+## Reading notes
 
 - Celeris-1 replaces autoregressive generation with a diffusion-based inference architecture, which the company presents as the source of its speed gains without losing ground on the MMLU-Pro score cited alongside it.
 - Its p50 response latency is 157ms, about 15x faster than GPT-5-mini and 17x faster than GPT-5.

@@ -20,7 +20,7 @@ sources:
 
 The Erlang VM was designed as a runtime for distributed, fault-tolerant systems; functional programming principles provided the foundation that got it there.
 
-## Fichamento
+## Reading notes
 
 - Fault-tolerance requires isolating entities that touch the same data into separate processes with no shared state, so one failing doesn't corrupt what another depends on.
 - Concurrency bugs in object-oriented and imperative languages mostly come from shared mutable state; making immutability the default narrows down where race conditions can actually occur.

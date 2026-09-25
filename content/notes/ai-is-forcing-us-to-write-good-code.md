@@ -22,7 +22,7 @@ Steve Krenzel argues that practices teams have called "best practice" for decade
 
 His six-person team's response is a set of specific, sometimes controversial investments built around that idea, treating the agent's working environment as the actual lever on code quality, not the model itself.
 
-## Fichamento
+## Reading notes
 
 - The team requires 100% code coverage, not as a bug-prevention metric but as a guarantee that the agent has demonstrated, with an executable example, how every line it wrote behaves.
 - Krenzel argues 100% is a qualitatively different target from 95% or 99.99%: at 100%, any uncovered line is unambiguously something just introduced, removing the judgment calls about what's "important enough" to test.

@@ -19,7 +19,7 @@ The page introduces SOLID as five architecture principles for assembling code we
 
 Each principle is illustrated with a small example. The article shows SRP as one module serving one actor, OCP as extending behavior without changing existing code, LSP as subclasses fitting where the parent class is expected, ISP as splitting interfaces so clients only depend on what they use, and DIP as depending on abstractions instead of concrete implementations.
 
-## Fichamento
+## Reading notes
 
 - SOLID is presented as a set of five architecture principles meant to help with how code is assembled.
 - The Single Responsibility Principle says a module should have one responsibility tied to one actor.

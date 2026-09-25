@@ -17,7 +17,7 @@ sources:
 
 The article presents YAGNI, KISS, and DRY as principles that support effective software development. It says YAGNI helps avoid unnecessary complexity by delaying features until they are needed, KISS favors straightforward solutions, and DRY reduces repetition by keeping a single source of truth.
 
-## Fichamento
+## Reading notes
 
 - YAGNI recommends implementing features only when they are actually needed, so the code stays simple and avoids over-engineering.
 - KISS encourages the simplest solution that meets the requirements, which makes code easier to read, debug, extend, and maintain.

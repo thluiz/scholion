@@ -20,7 +20,7 @@ sources:
 
 Nikunj Kothari, a VC at a boutique fund, points to a recurring acquihire pattern reshaping loyalty in tech: Microsoft paying Inflection $650M in licensing fees while absorbing its CEO and most of the team, Amazon doing the same with Adept, Google buying back the Character.AI founders and repeating the move with Windsurf and Hume. These deals skip a formal acquisition and its regulatory review, and carry no obligation to bring along anyone besides the people a buyer wants. Founders are also leaving the companies they built once an exit lands, which Kothari says undercuts the incentive for anyone else to stay.
 
-## Fichamento
+## Reading notes
 
 - The 2022 Adobe-Figma deal being blocked by regulators pushed Big Tech toward "acqui-hire" structures instead: license the technology, hire the CEO and top talent, leave everyone else behind.
 - Two co-founders of a $12 billion startup recently returned to their previous employer, and a year earlier a CEO left his own $32 billion company for a competitor.

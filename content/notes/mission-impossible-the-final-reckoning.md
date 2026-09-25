@@ -2,8 +2,8 @@
 title: "Mission: Impossible - The Final Reckoning"
 date: '2026-09-24T22:50:17+01:00'
 category: webclip
-summary: 'A página lê The Final Reckoning como um desfecho que coloca a franquia diante de IA, manipulação de informação, vigilância excessiva e dilemas éticos, com Ethan Hunt correndo contra o caos criado pela Entity.'
-tags: ["mission-impossible", "inteligencia-artificial", "espionagem", "cyberseguranca"]
+summary: 'A page reads The Final Reckoning as a conclusion that puts the franchise before AI, information manipulation, excessive surveillance, and ethical dilemmas, with Ethan Hunt running against the chaos created by the Entity.'
+tags: ["mission-impossible","artificial-intelligence","espionage","cybersecurity"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,7 +17,7 @@ sources:
 
 The post frames The Final Reckoning as the end point of the Mission: Impossible series, where Ethan Hunt faces the Entity, an AI that manipulates information, creates chaos, and threatens global security. It links the film to current concerns about disinformation, cybersecurity, surveillance, and accountability.
 
-## Fichamento
+## Reading notes
 
 - The post reads the film as a culmination of the franchise’s recurring concerns with betrayal, technology misuse, and ethical tension.
 - It says the Entity can manipulate real-time information, obscure truths, and anticipate IMF moves.

@@ -2,8 +2,8 @@
 title: "Sublime Text"
 date: '2026-09-24T22:55:17+01:00'
 category: webclip
-summary: 'O autor registra seu vínculo de longa data com o Sublime Text, que usa desde 2008, renova a licença desde 2009 e continua preferindo por abrir projetos grandes e editar arquivos sem lentidão.'
-tags: ["sublime-text", "text-editor", "vim"]
+summary: 'The author records his long-standing connection with Sublime Text, which he has used since 2008, has renewed the license for since 2009, and continues to prefer because it opens large projects and edits files without sluggishness.'
+tags: ["sublime-text","text-editor","vim"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,7 +17,7 @@ sources:
 
 The author keeps returning to Sublime Text after trying to replace it. He has used it since 2008, bought a license in 2009, and renews it to this day. He values being able to open one or many large projects, or even the whole drive, and edit files without drag.
 
-## Fichamento
+## Reading notes
 
 - The note is a record of long use and continued preference for Sublime Text.
 - The author started using it in 2008 and bought the first license in 2009.

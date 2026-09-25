@@ -19,7 +19,7 @@ sources:
 
 Tim Ferriss pulls a recurring question from The Tim Ferriss Show, "what book have you gifted most often, and why," and compiles the answers from guests like Peter Thiel, Tony Robbins, Ed Catmull, and chess prodigy Josh Waitzkin.
 
-## Fichamento
+## Reading notes
 
 - Peter Thiel names a single title: René Girard's Things Hidden Since the Foundation of the World.
 - Tony Robbins lists a mix of self-development classics (As a Man Thinketh, Man's Search for Meaning) alongside William Strauss's generational-cycle books, The Fourth Turning and Generations.

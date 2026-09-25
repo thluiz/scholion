@@ -22,7 +22,7 @@ Nick Moore set out to write about protecting developer flow state from Slack mes
 
 His core finding: external interruptions get all the attention, but internal fragmentation, developers interrupting their own flow with rote tasks like writing commit messages, does more damage. A 2018 study found 81% of participants predicted internal interruptions would be less disruptive than external ones, and were wrong.
 
-## Fichamento
+## Reading notes
 
 - Flow requires a specific alignment of skill and challenge, not just uninterrupted time. Work that's emotionally hard but low-skill produces alertness, not flow; work that's high-skill but low-challenge produces confidence, not flow.
 - A 2023 study grouped flow barriers into three categories: situational (interruptions, distractions), personal (work too easy or too hard), and interpersonal (poor management, poor team dynamics).

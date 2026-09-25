@@ -2,8 +2,8 @@
 title: "Lessons learned in 35 years of making software"
 date: '2026-09-24T23:32:59+01:00'
 category: webclip
-summary: 'Jim Grey reúne lições de 35 anos na indústria de software: simplicidade, entrega frequente, visibilidade, rede de contatos, disposição para aprender e foco em relações e poder.'
-tags: ["software-development", "career", "relationships", "production"]
+summary: 'Jim Grey says 35 years in software taught him lessons about simplicity, frequent delivery, visibility, networking, willingness to learn, and focusing on relationships and power.'
+tags: ["software-development","career","relationships","production"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,16 +19,16 @@ Jim Grey says that 35 years in and around software taught him recurring lessons 
 
 He also says to be willing to take on unknown tasks, to chase interesting work over salary and title, and to stretch beyond natural tendencies. He adds that white-collar work depends more on relationships and power than on work alone, that perfection often means overdoing it, and that software will eventually be decommissioned anyway.
 
-## Fichamento
+## Reading notes
 
-- Ele defende fazer o caminho mais simples possível, sem soluções espertas nem sobrecarga antecipada.
-- Sustenta que software em Production vale mais do que projetos longos aguardando perfeição.
-- Diz que avançar na carreira e ver uma visão virar realidade depende de relações dentro da empresa.
-- Afirma que o trabalho precisa ser visível para que liderança perceba o que a pessoa consegue entregar.
-- Relata que uma rede de contatos fora da empresa já o ajudou a recuperar empregos e a conseguir o cargo atual.
-- Diz que aceitar tarefas sem saber fazer e descobrir o caminho depois ajuda a aprender e a ganhar confiança da chefia.
-- Recomenda buscar aventura e interesse em vez de salário e cargo, porque isso trouxe variedade e crescimento à carreira dele.
-- Explica que, por tendência, ele prefere trabalhar sozinho e evitar competição, mas precisou aprender a mostrar valor de forma constante.
-- Observa que, no mundo de colarinho branco, relações e poder pesam mais do que o esforço isolado, apesar da expectativa que ele tinha por vir da classe trabalhadora.
-- Afirma que, quando o resultado parece pronto demais do ponto de vista pessoal, é provável que já tenha passado do necessário para a empresa.
-- Diz que o software acaba sendo desativado com o tempo, então vale entregar incrementos pequenos e iterar em vez de superconstruir.
+- He argues for making the simplest possible path, without clever solutions or upfront overengineering.
+- He maintains that software in Production is worth more than long projects waiting for perfection.
+- He says that advancing in a career and seeing a vision become reality depends on relationships within the company.
+- He states that work needs to be visible so that leadership notices what the person can deliver.
+- He reports that a network of contacts outside the company has already helped him recover jobs and get his current role.
+- He says that accepting tasks without knowing how to do them and figuring out the path afterward helps learning and gaining the boss's confidence.
+- He recommends seeking adventure and interest instead of salary and title, because that has brought variety and growth to his career.
+- He explains that, by tendency, he prefers to work alone and avoid competition, but he had to learn to show value consistently.
+- He notes that, in the white-collar world, relationships and power weigh more than isolated effort, despite the expectation he had from coming from the working class.
+- He states that, when the result seems too ready from a personal point of view, it is likely that it has already gone beyond what the company needed.
+- He says that software ends up being decommissioned over time, so it is worth delivering small increments and iterating instead of overbuilding.

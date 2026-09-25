@@ -22,7 +22,7 @@ NorthernDev spent years feeling guilty every Saturday morning, convinced real de
 
 He feared his skills would stagnate. Instead, problems started resolving themselves while he was away from the keyboard, hiking or washing dishes, and Monday mornings got noticeably faster. He also became easier to work with, less burned out and more patient in architecture meetings, and ties that shift to the promotion that followed.
 
-## Fichamento
+## Reading notes
 
 - Years of guilt came from an industry ethos that equates passion with hours logged on nights and weekends.
 - Before the change: 50-hour work weeks plus 15 weekend hours on side projects that went nowhere, leaving him exhausted and sloppy by Monday.

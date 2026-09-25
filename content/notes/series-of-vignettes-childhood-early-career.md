@@ -22,7 +22,7 @@ Jason Scheirer opens with a warning he got around 1996: object-oriented programm
 
 The piece tracks a pattern he's watched repeat since middle school: multimedia was going to make every tool obsolete overnight, IntelliJ's refactoring tools were going to divide developers into haves and have-nots, the dot-com crash was going to kill the internet as a business. Each time, the technology stuck around and got boring, and the collapse never arrived on schedule.
 
-## Fichamento
+## Reading notes
 
 - The 1996 warning specifically framed OOP as the end of programming: once a problem was solved by "someone much smarter than any of us," it would never need solving again.
 - The "Multimedia Age" of 1993 demanded every tool be multimedia-ready or get left behind. It fizzled into a `<video>` tag and normalcy; no industry collapsed, and audio/video specialists stayed rare.

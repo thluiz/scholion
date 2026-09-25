@@ -17,7 +17,7 @@ sources:
 
 The article says web development is more than moving data between UI and server. It centers on the layers between frontend and backend, where UX, performance, accessibility, reliability, and team coordination shape whether a project feels complete.
 
-## Fichamento
+## Reading notes
 
 - The initial idea of web development as frontend plus backend is useful to start, but it limits growth because real apps fail in the system around them.
 - Projects can work technically and still feel unfinished when images are not optimized, caching is missing, validation happens too late, or error messages confuse users.

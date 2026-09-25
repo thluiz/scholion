@@ -3,7 +3,7 @@ title: "Performance Improvements in .NET 9"
 date: '2026-09-25T07:57:45+01:00'
 category: webclip
 summary: 'A release tour of .NET 9 performance work across the JIT, GC, runtime, libraries, and tooling, with benchmarked gains in casts, loops, bounds checks, vectorization, LINQ, regex, JSON, networking, and more.'
-tags: ["dotnet", "performance", "jit", "runtime"]
+tags: ["dotnet","performance","jit","runtime"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,14 +17,14 @@ sources:
 
 The post surveys performance work in .NET 9 across the stack. It highlights JIT changes such as dynamic PGO for casts and lengths, tier 0 boxing fixes, loop and bounds-check optimizations, stronger branch reasoning, and new AVX512, Arm64, and SVE code generation. It also covers GC, threading, reflection, Native AOT, and many library updates that reduce allocation, remove unnecessary work, and improve throughput.
 
-## Fichamento
+## Reading notes
 
-- O texto diz que .NET 9 reúne mais de 350 pull requests focados em desempenho, com melhorias em JIT, GC, VM, Mono, Native AOT, reflection, numerics, strings, LINQ, compression, cryptography, networking, JSON e diagnostics.
-- No JIT, o post destaca dynamic PGO para otimizar casts e tamanhos comuns, além de mudanças que reduzem boxing em tier 0 e melhoram loops, bounds checks, branches, inlining e operações com `Nullable<T>`.
-- Em código vetorial e intrínsecos, o texto aponta suporte a SVE e AVX10.1, melhorias em AVX512, novas instruções e mudanças que aceleram `SearchValues`, `TensorPrimitives`, `BigInteger`, `Base64`, `Hex`, `BitArray`, `Quaternion` e outras rotinas numéricas.
-- O post relata que o GC em modo server passou a usar DATAS por padrão, que há menos custo em write barriers, e que houve mudanças para reduzir alocações em várias rotinas do runtime e da biblioteca base.
-- Em reflexão e metaprogramação, o texto mostra ganhos em `Delegate.EnumerateInvocationList`, `ActivatorUtilities.CreateInstance`, `FieldInfo`, `UnsafeAccessor`, `Type.GetType`, `Enum.Parse` e `JsonSerializer` com enumeração e caches mais baratos.
-- Em LINQ, o texto descreve uma grande reorganização interna dos iteradores, com menos dispatch de interface, novos atalhos para arrays e listas, melhorias em `ToArray`, `ToList`, `ToDictionary`, `OrderBy`, `GroupBy`, `Distinct`, `Union`, `Any`, `First`, `Single`, `SequenceEqual`, `Chunk` e `DefaultIfEmpty`.
-- Em strings, spans e regex, o post destaca `SearchValues<string>`, `IndexOfAny`, `ContainsAny`, `EndsWith`, `Split` sobre spans, `Regex.EnumerateSplits`, e uso mais amplo de vetorização para buscas e comparações.
-- Em networking, o texto menciona ganhos em `SslStream`, handshake TLS, resumption, HTTP/1.1 connection pooling, `HttpClient`, `WebUtility`, `HttpUtility`, `WebSocket` e `Uri`, além de novas APIs para `JsonSerializer` sobre `PipeWriter`.
-- No fim, o autor explica que escreve esses posts para aprender, testar, agradecer contribuições, divulgar ganhos gratuitos de desempenho e mostrar técnicas que leitores podem aplicar no próprio código.
+- The text says that .NET 9 brings together more than 350 pull requests focused on performance, with improvements in JIT, GC, VM, Mono, Native AOT, reflection, numerics, strings, LINQ, compression, cryptography, networking, JSON, and diagnostics.
+- In the JIT, the post highlights dynamic PGO to optimize common casts and sizes, as well as changes that reduce boxing in tier 0 and improve loops, bounds checks, branches, inlining, and operations with `Nullable<T>`.
+- In vector code and intrinsics, the text points to support for SVE and AVX10.1, improvements in AVX512, new instructions, and changes that speed up `SearchValues`, `TensorPrimitives`, `BigInteger`, `Base64`, `Hex`, `BitArray`, `Quaternion`, and other numerical routines.
+- The post reports that server-mode GC now uses DATAS by default, that there is less cost in write barriers, and that there were changes to reduce allocations in several runtime and base library routines.
+- In reflection and metaprogramming, the text shows gains in `Delegate.EnumerateInvocationList`, `ActivatorUtilities.CreateInstance`, `FieldInfo`, `UnsafeAccessor`, `Type.GetType`, `Enum.Parse`, and `JsonSerializer` with cheaper enumeration and caches.
+- In LINQ, the text describes a major internal reorganization of iterators, with less interface dispatch, new shortcuts for arrays and lists, improvements in `ToArray`, `ToList`, `ToDictionary`, `OrderBy`, `GroupBy`, `Distinct`, `Union`, `Any`, `First`, `Single`, `SequenceEqual`, `Chunk`, and `DefaultIfEmpty`.
+- In strings, spans, and regex, the post highlights `SearchValues<string>`, `IndexOfAny`, `ContainsAny`, `EndsWith`, `Split` over spans, `Regex.EnumerateSplits`, and broader use of vectorization for searches and comparisons.
+- In networking, the text mentions gains in `SslStream`, TLS handshake, resumption, HTTP/1.1 connection pooling, `HttpClient`, `WebUtility`, `HttpUtility`, `WebSocket`, and `Uri`, as well as new APIs for `JsonSerializer` over `PipeWriter`.
+- At the end, the author explains that they write these posts to learn, test, thank contributors, share free performance gains, and show techniques that readers can apply in their own code.

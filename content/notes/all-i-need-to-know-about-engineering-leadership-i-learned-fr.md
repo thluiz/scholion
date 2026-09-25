@@ -2,8 +2,8 @@
 title: "All I Need to Know About Engineering Leadership I Learned From Leave No Trace"
 date: '2026-09-25T09:17:20+01:00'
 category: webclip
-summary: 'A articulação de Leave No Trace com liderança de engenharia vira sete princípios aplicados a software: planejar, usar tecnologia durável, limpar dívida técnica, devolver melhorias e tratar segurança como cuidado com impactos amplos.'
-tags: ["engineering-leadership", "leave-no-trace", "management"]
+summary: 'A articulation of Leave No Trace with engineering leadership becomes seven principles applied to software: plan, use durable technology, clean up technical debt, give back improvements, and treat security as care with broad impacts.'
+tags: ["engineering-leadership","leave-no-trace","management"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,12 +17,12 @@ sources:
 
 The post maps the seven Leave No Trace principles to engineering leadership. It treats planning, durable technology choices, cleanup of old software, upstream contributions, security, and understanding existing systems as habits of good leaders.
 
-## Fichamento
+## Reading notes
 
-- Planejar e preparar é apresentado como algo óbvio para bons líderes em qualquer contexto.
-- “Travel & Camp on Durable Surfaces” vira a ideia de escolher tecnologia provada, porque ela é mais compreendida e previsível, e isso torna a engenharia mais sustentável.
-- “Dispose of Waste Properly” é traduzido como pagar dívida técnica e limpar software antigo antes de introduzir coisas novas.
-- “Leave What You Find” vira contribuir de volta para o upstream, tanto em software open source quanto em sistemas mantidos por outra equipe.
-- “Minimize Campfire Impacts” é ligado a prevenir e mitigar vazamentos de dados, com atenção especial ao impacto sobre usuários finais.
-- “Respect Wildlife” é ligado a Chesterton’s Fence e à necessidade de entender por que um sistema existe antes de removê-lo ou alterá-lo.
-- “Be Considerate of Others” aparece sem tradução, como princípio final aplicado à liderança de engenharia.
+- Planning and preparation is presented as something obvious for good leaders in any context.
+- “Travel & Camp on Durable Surfaces” becomes the idea of choosing proven technology, because it is better understood and more predictable, and that makes engineering more sustainable.
+- “Dispose of Waste Properly” is translated as paying technical debt and cleaning up old software before introducing new things.
+- “Leave What You Find” becomes contributing back upstream, both in open source software and in systems maintained by another team.
+- “Minimize Campfire Impacts” is linked to preventing and mitigating data leaks, with special attention to the impact on end users.
+- “Respect Wildlife” is linked to Chesterton’s Fence and the need to understand why a system exists before removing or changing it.
+- “Be Considerate of Others” appears without translation, as the final principle applied to engineering leadership.

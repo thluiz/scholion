@@ -20,7 +20,7 @@ sources:
 
 A Google AI team built DinoDesk AI, a LEGO-bodied desk robot running a hybrid local/cloud architecture. Gemma 4, running locally through LM Studio, handles routine chat with near-instant response and full privacy, since the robot has no camera. Gemini Flash takes over for heavier reasoning, coding help, or complex explanations, with a router on the user's PC deciding which engine answers each request. A five-state finite state machine coordinates the robot's LCD eyes, 8-bit sound, and motor movements so the character reads as alive rather than assembled from separate parts.
 
-## Fichamento
+## Reading notes
 
 - A Raspberry Pi on the desk sends identical requests over Wi-Fi to a Hybrid LLM Gateway on the user's PC, regardless of which engine ends up answering.
 - Local mode, Gemma 4 via LM Studio, delivers about 200ms first-token latency for casual chat, fully offline and private. Cloud mode, Gemini Flash, takes over for coding help or deep explanations at roughly 800ms first token.

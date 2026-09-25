@@ -2,8 +2,8 @@
 title: "Dependency Injection made simple"
 date: '2026-09-24T23:58:50+01:00'
 category: webclip
-summary: 'A página explica dependency injection como passar um objeto para o construtor ou setter de uma classe dependente, o que desacopla o código, facilita testes e usa interfaces em linguagens fortemente tipadas.'
-tags: ["dependency-injection", "javascript", "csharp", "interfaces"]
+summary: 'The page explains dependency injection as passing an object to the constructor or setter of a dependent class, which decouples the code, makes testing easier, and uses interfaces in strongly typed languages.'
+tags: ["dependency-injection","javascript","csharp","interfaces"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -15,17 +15,17 @@ sources:
     kind: repo
 ---
 
-A página define dependency injection como uma forma simples de lidar com objetos que dependem de outros objetos. Primeiro mostra um exemplo acoplado em JavaScript e depois troca a criação direta da conexão por injeção no construtor, para permitir usar conexões diferentes sem alterar a rota.
+A page defines dependency injection as a simple way to deal with objects that depend on other objects. It first shows a coupled example in JavaScript and then replaces direct connection creation with injection in the constructor, to allow using different connections without changing the route.
 
-## Fichamento
+## Reading notes
 
-- Dependency injection é apresentada como o ato de passar um objeto para o construtor ou setter de uma classe que depende dele.
-- O exemplo inicial mostra uma rota de posts que cria diretamente uma DatabaseConnection, o que deixa o código acoplado e pouco flexível.
-- A alternativa com SQLiteConnection e MySqlConnection passa a conexão ao construtor de PostsRouter, permitindo trocar a implementação usada.
-- O texto diz que essa abordagem desacopla os objetos e facilita o gerenciamento do código.
-- Também afirma que dependency injection ajuda nos testes, porque é possível passar um mock object para o post router.
-- Em linguagens fortemente tipadas, o texto diz que é preciso definir um tipo para o objeto passado.
-- Para isso, a página introduz interfaces como estrutura de tipos sem implementação de métodos ou propriedades.
-- No exemplo em C#, as classes SQLiteConnection e MySqlConnection implementam IDb.
-- PostsRouter recebe IDb no construtor e usa a conexão por meio da interface.
-- O texto encerra com um exemplo completo em C# usando SQLiteConnection e MySqlConnection em dois objetos PostsRouter diferentes.
+- Dependency injection is presented as the act of passing an object to the constructor or setter of a class that depends on it.
+- The initial example shows a posts route that directly creates a DatabaseConnection, which leaves the code coupled and not very flexible.
+- The alternative with SQLiteConnection and MySqlConnection passes the connection to the PostsRouter constructor, allowing the implementation used to be changed.
+- The text says that this approach decouples the objects and makes code management easier.
+- It also states that dependency injection helps with tests, because it is possible to pass a mock object to the post router.
+- In strongly typed languages, the text says that it is necessary to define a type for the object passed.
+- For this, the page introduces interfaces as a type structure without implementation of methods or properties.
+- In the C# example, the SQLiteConnection and MySqlConnection classes implement IDb.
+- PostsRouter receives IDb in the constructor and uses the connection through the interface.
+- The text ends with a complete example in C# using SQLiteConnection and MySqlConnection in two different PostsRouter objects.

@@ -2,8 +2,8 @@
 title: "Patterns & Best Practices in Event-Driven Systems — Kogan.com Dev Blog"
 date: '2026-09-25T07:54:20+01:00'
 category: webclip
-summary: 'O texto apresenta padrões de EDA como event notification, ECST, event sourcing, choreography e orchestration, além de práticas para idempotência, versionamento, schema management e correlation IDs.'
-tags: ["event-driven-architecture", "event-sourcing", "microservices", "correlation-ids"]
+summary: 'The text presents EDA patterns such as event notification, ECST, event sourcing, choreography, and orchestration, as well as practices for idempotency, versioning, schema management, and correlation IDs.'
+tags: ["event-driven-architecture","event-sourcing","microservices","correlation-ids"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,7 +17,7 @@ sources:
 
 Event-driven architecture is presented as a way to build decoupled, scalable systems that can evolve independently. The post walks through core patterns, compares choreography with orchestration, and adds practices for replay, versioning, schema management, idempotency, and tracing.
 
-## Fichamento
+## Reading notes
 
 - Event-driven architecture lets teams build decoupled systems that scale and evolve independently.
 - Event notification is a small message that only says something happened, which is useful when consumers can fetch the details they need.

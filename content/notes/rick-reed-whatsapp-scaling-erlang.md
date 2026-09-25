@@ -20,7 +20,7 @@ sources:
 
 This is Rick Reed's speaker profile for Erlang Factory SF Bay Area 2012, where he worked as an engineer/architect at WhatsApp focused on the performance and scalability of the company's server systems. His talk covers the tuning work behind WhatsApp's ability to hold millions of simultaneous connections on Erlang.
 
-## Fichamento
+## Reading notes
 
 - Before WhatsApp, Reed spent 12 years as a Distinguished Engineer at Yahoo, on platform infrastructure.
 - Earlier: Member of Technical Staff at SGI, building interactive TV services and a disk-based broadcast VTR system; an internet services gateway for a distributed decision-support system at Metaphor Computer Systems; the platform for an expert-system development environment at Aion Corporation.

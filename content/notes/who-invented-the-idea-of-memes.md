@@ -17,7 +17,7 @@ sources:
 
 Dawkins is credited with naming “memes” in *The Selfish Gene*, and the essay treats that naming as the version that made the idea durable. It also argues that the broader notion of ideas spreading and changing had already appeared before 1976 and keeps resurfacing in later work.
 
-## Fichamento
+## Reading notes
 
 - Dawkins coined “meme” in *The Selfish Gene* as a name for a unit of cultural transmission or imitation.
 - The essay says memetics has had major difficulty becoming a science because no solid account explains culture through variation, heredity, and differential reproduction.

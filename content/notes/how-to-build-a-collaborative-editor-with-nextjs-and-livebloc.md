@@ -3,7 +3,7 @@ title: "How to Build a Collaborative Editor with Next.js and Liveblocks"
 date: '2026-09-25T00:54:01+01:00'
 category: webclip
 summary: 'The guide explains how collaborative editors work, why WebSockets matter, and how Liveblocks simplifies presence, syncing, and room management in a Next.js text editor.'
-tags: ["nextjs", "liveblocks", "websockets", "collaborative-editing"]
+tags: ["nextjs","liveblocks","websockets","collaborative-editing"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,16 +17,16 @@ sources:
 
 The guide walks through building a collaborative text editor with Next.js and Liveblocks. It starts from the idea of real-time collaboration, then covers WebSockets, user presence, room access, and document synchronization.
 
-## Fichamento
+## Reading notes
 
-- O texto define editores colaborativos como ferramentas em que várias pessoas trabalham no mesmo documento ao mesmo tempo e veem as mudanças em tempo real.
-- A explicação de funcionamento passa por comunicação em tempo real entre cliente e servidor, com o servidor recebendo edições e distribuindo as atualizações a todos os participantes.
-- WebSockets aparecem como a base técnica para manter uma conexão aberta e permitir troca contínua de dados entre cliente e servidor.
-- Liveblocks é apresentado como uma biblioteca que simplifica colaboração em tempo real ao oferecer presence, storage e room management.
-- O guia usa Next.js, Liveblocks, Tiptap e Yjs para montar um editor colaborativo de texto com edição em tempo real e indicação de usuários online.
-- A configuração inclui criar um projeto Next.js, instalar dependências do Liveblocks e do Tiptap e definir tipos globais para presence e user metadata.
-- O fluxo de interface inclui componentes para toolbar, avatares, tratamento de erros, conexão a uma room e leitura do roomId pela URL.
-- O componente do editor cria um Y.Doc, conecta o LiveblocksYjsProvider e usa extensões de colaboração e cursor do Tiptap.
-- O artigo descreve um endpoint `liveblocks-auth` que prepara a sessão do usuário, libera acesso completo à room e usa dados fictícios de usuário para demonstração.
-- O `LiveblocksProvider` e o `RoomProvider` são usados para autenticação, sessão e sincronização dos participantes da room.
-- O teste final consiste em rodar o servidor de desenvolvimento, entrar com um room ID e usar a mesma room em dois navegadores para ver a colaboração em tempo real.
+- The text defines collaborative editors as tools in which several people work on the same document at the same time and see changes in real time.
+- The explanation of how it works goes through real-time communication between client and server, with the server receiving edits and distributing updates to all participants.
+- WebSockets appear as the technical basis for maintaining an open connection and allowing continuous data exchange between client and server.
+- Liveblocks is presented as a library that simplifies real-time collaboration by offering presence, storage, and room management.
+- The guide uses Next.js, Liveblocks, Tiptap, and Yjs to build a collaborative text editor with real-time editing and indication of online users.
+- The setup includes creating a Next.js project, installing Liveblocks and Tiptap dependencies, and defining global types for presence and user metadata.
+- The interface flow includes components for toolbar, avatars, error handling, connection to a room, and reading the roomId from the URL.
+- The editor component creates a Y.Doc, connects the LiveblocksYjsProvider, and uses collaboration and cursor extensions from Tiptap.
+- The article describes a `liveblocks-auth` endpoint that prepares the user session, grants full access to the room, and uses fake user data for demonstration.
+- The `LiveblocksProvider` and the `RoomProvider` are used for authentication, session, and synchronization of room participants.
+- The final test consists of running the development server, entering a room ID, and using the same room in two browsers to see real-time collaboration.

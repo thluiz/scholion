@@ -19,7 +19,7 @@ sources:
 
 Mike Dariano went from reading a book a month to a book a week. This piece, a guest post on Mike Vardy's Productivityist, lists five habits behind that change.
 
-## Fichamento
+## Reading notes
 
 - Keep a "book buffet": more books on hand (library, wishlist) than time to read them, mostly picked from other people's recommendations rather than active searching.
 - Quit books freely. Finishing out of obligation, the way people clean a plate, isn't a reason to keep reading something that isn't landing. Antifragile took him three attempts before it clicked; some books, like Seth Godin's, never do.

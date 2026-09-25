@@ -21,7 +21,7 @@ Joshua Barretto opens with Feynman's line, "what I cannot create, I do not under
 
 A toy program stays useful by staying underbuilt. Crash on unimplemented paths instead of handling them, skip anything not required to reach the goal, and resist the instinct to make it production-ready.
 
-## Fichamento
+## Reading notes
 
 - The post lists 21 toy projects he's built over 15 years, each rated for difficulty and time: a regex engine, an x86 kernel, a GameBoy/NES emulator, a physics engine, a tree-walking interpreter, a C-like compiler, a text editor, an async runtime, a hash map, a software rasteriser, an SDF renderer, a voxel engine, a threaded VM, a GUI toolkit, an orbital mechanics simulator, a 64-bit-state game jam constraint, an ECS framework, a CHIP-8 emulator, a chess engine, and a POSIX shell.
 - Knowledge from these projects transfers sideways into paid work, most often as a head start diagnosing a bug in a tool or library he wouldn't otherwise understand from the inside.

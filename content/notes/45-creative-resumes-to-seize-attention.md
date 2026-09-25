@@ -19,7 +19,7 @@ sources:
 
 The article's case for a creative resume: unconventional layout, personalized branding and an unusual color scheme signal individuality in a stack of applications where a standard resume can't. It backs that case with 45 real examples pulled from designers' own portfolios.
 
-## Fichamento
+## Reading notes
 
 - Formats range from the literal (a resume folded into a 3D box, one printed on a paper cup, tissue paper or a receipt) to the wearable (a resume T-shirt by BlackBirdTees).
 - Several turn the resume into a timeline: one maps daily tasks and personal milestones from age 0 to 32, another lays out education and work history since high school.

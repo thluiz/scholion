@@ -3,7 +3,7 @@ title: "An AI engineer’s tips for writing better AI prompts"
 date: '2026-09-24T23:14:49+01:00'
 category: webclip
 summary: 'The article says better prompts come from more detail, personas, examples, and step-by-step tasks. It also warns that AI output still needs review and editing.'
-tags: ["ai-prompts", "enterprise-ai", "prompting"]
+tags: ["ai-prompts","enterprise-ai","prompting"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,12 +19,12 @@ The article argues that prompt quality affects precision, efficiency, and how ta
 
 It also says that too much detail can hurt results, and that even strong prompts do not guarantee perfect output. AI-generated content still needs proofreading and touch-ups.
 
-## Fichamento
+## Reading notes
 
-- Mais contexto e detalhes no pedido inicial tendem a produzir respostas melhores, sobretudo em tarefas de geração de conteúdo.
-- Pedidos com detalhe demais também podem falhar, porque muitas instruções longas não são seguidas com garantia.
-- Pedir que a IA assuma uma persona ajuda a ajustar tom e contexto, inclusive em pedidos de feedback.
-- Em tarefas repetitivas, indicar o formato esperado e incluir exemplos melhora a consistência das respostas.
-- Em tarefas complexas, dividir o trabalho em etapas aumenta a precisão do resultado.
-- A IA também pode mostrar o próprio processo antes de executar uma tarefa, para permitir revisão e ajuste humano.
-- Não existe prompt perfeito, então o conteúdo gerado ainda precisa de revisão e retoque.
+- More context and detail in the initial request tend to produce better responses, especially in content generation tasks.
+- Requests with too much detail can also fail, because many long instructions are not guaranteed to be followed.
+- Asking the AI to assume a persona helps adjust tone and context, including in feedback requests.
+- In repetitive tasks, indicating the expected format and including examples improves the consistency of the responses.
+- In complex tasks, dividing the work into stages increases the accuracy of the result.
+- The AI can also show its own process before carrying out a task, to allow human review and adjustment.
+- There is no perfect prompt, so the generated content still needs review and touch-up.

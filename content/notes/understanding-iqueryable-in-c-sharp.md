@@ -19,7 +19,7 @@ The post presents IQueryable<T> as a more advanced LINQ interface that works wit
 
 It also shows how extension methods can wrap filtering, sorting, pagination, and execution around IQueryable<Post> to keep query code cleaner. In the example, ApplyFilter, ApplySorting, ApplyPagination, and Execute are chained to build the final query before ToListAsync is called.
 
-## Fichamento
+## Reading notes
 
 - IQueryable<T> is introduced as a LINQ interface meant for querying data from sources like SQL databases and in-memory collections.
 - Deferred execution means the query is not carried out until the data is actually needed, such as during enumeration in a foreach loop.

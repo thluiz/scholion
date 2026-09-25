@@ -2,8 +2,8 @@
 title: "What Makes A Senior Software Engineer"
 date: '2026-09-25T00:24:33+01:00'
 category: webclip
-summary: 'O texto defende que a diferença entre júnior e sênior está em construir sobre os trilhos ou construir os trilhos, criando tecnologias que aumentam a produtividade de outros engenheiros.'
-tags: ["software-engineering", "senior-engineer", "engineering-productivity"]
+summary: 'The text argues that the jump from junior to senior lies in moving from building on what already exists to creating the foundation others will use. A senior engineer multiplies their own work by designing technologies and architectures that enable others to write better code.'
+tags: ["software-engineering","senior-engineer","engineering-productivity"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -15,16 +15,16 @@ sources:
     kind: repo
 ---
 
-O texto argumenta que o salto de júnior para sênior está em passar de construir sobre o que já existe para criar a base que outros vão usar. Um engenheiro sênior multiplica o próprio trabalho ao desenhar tecnologias e arquiteturas que permitem a outros escrever código melhor.
+The text argues that the jump from junior to senior lies in moving from building on what already exists to creating the foundation others will use. A senior engineer multiplies their own work by designing technologies and architectures that enable others to write better code.
 
-## Fichamento
+## Reading notes
 
-- A distinção central entre júnior e sênior é resumida como construir sobre os trilhos versus construir os trilhos.
-- Júnior trabalha em cima do que engenheiros mais experientes já fizeram; sênior amplia o trabalho ao criar estruturas que ajudam outros engenheiros.
-- O exemplo dos XMAs mostra esse papel: uma mudança pequena no backend e outra em cada cliente passou a bastar para criar novos tipos de mensagem.
-- Antes disso, adicionar novos tipos de mensagem exigia mudanças em toda a pilha, em várias camadas de abstração, nos clientes e no backend.
-- Com os XMAs, o desenvolvimento de novos recursos ficou mais simples e a produtividade dos desenvolvedores aumentou.
-- O texto diz que a tecnologia dos XMAs foi baseada em Story Attachments, que havia sido criada por outro engenheiro do Facebook.
-- Esse outro engenheiro é descrito como alguém que atuava em um nível acima de sênior porque habilitava outros engenheiros a habilitar ainda mais engenheiros.
-- A conclusão liga crescimento na engenharia à capacidade de fazer com que mais e mais engenheiros consigam realizar mais trabalho.
-- A pergunta sugerida no fim é como habilitar outros engenheiros a serem melhores.
+- The central distinction between junior and senior is summarized as building on the rails versus building the rails.
+- A junior works on top of what more experienced engineers have already done; a senior expands the work by creating structures that help other engineers.
+- The example of XMAs shows this role: a small change in the backend and one in each client was enough to create new types of messages.
+- Before that, adding new message types required changes across the entire stack, in several layers of abstraction, in the clients, and in the backend.
+- With XMAs, developing new features became simpler and developers' productivity increased.
+- The text says that XMAs technology was based on Story Attachments, which had been created by another Facebook engineer.
+- This other engineer is described as someone who operated at a level above senior because he enabled other engineers to enable even more engineers.
+- The conclusion links growth in engineering to the ability to get more and more engineers to accomplish more work.
+- The suggested question at the end is how to enable other engineers to be better.

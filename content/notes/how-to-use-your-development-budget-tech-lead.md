@@ -19,7 +19,7 @@ sources:
 
 Anemari Fiser opens with a number: nine out of ten techies she talks to never use their development budget. Her reading of why is that people treat requesting it as upsetting someone, when letting it expire is the actual waste. She walks through how to ask, how to convince a manager, and nineteen concrete ways to spend it.
 
-## Fichamento
+## Reading notes
 
 - Not using the budget isn't a favor to anyone. It's a missed opportunity, and using it is a right, not a request for special treatment.
 - Requesting it is usually simpler than it looks: check the company's documentation, or ask the manager about the process directly in the next 1-1.

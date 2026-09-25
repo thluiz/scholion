@@ -3,7 +3,7 @@ title: "DOODLEWASH REVIEW: Homemade Travel Palettes"
 date: '2026-09-25T08:08:54+01:00'
 category: webclip
 summary: 'The post reviews homemade travel palettes and shows how tins, pans, brushes, and simple adhesives can be combined for portable watercolor setups. It also notes a few ready-made and related options.'
-tags: ["watercolor", "travel-palettes", "art-supplies"]
+tags: ["watercolor","travel-palettes","art-supplies"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,20 +17,20 @@ sources:
 
 The post reviews homemade travel palettes and shows several ways to build a portable watercolor setup from tins, empty pans, brushes, and simple adhesives. It also mentions a few ready-made alternatives and related sketching tools.
 
-## Fichamento
+## Reading notes
 
-- Mostra ideias para montar uma paleta de viagem com latas vazias, como Altoids, latas de chá, latas de cartões e outras embalagens reaproveitadas.
-- Diz que as pessoas usam bandejas vazias de aquarela, massinha Fimo ou Sculpey, embalagem vazia de chiclete, Legos invertidos e tampas de garrafa como espaços para tinta.
-- Relata que a lata de cartão com leão comporta vários pans cheios e um pincel de viagem Da Vinci, e que outros pincéis de viagem também cabem sobre os pans.
-- Informa que as latas Celestial Seasonings comportam quatorze half pans ou sete full pans.
-- Informa que a lata pequena de Altoids comporta quatorze half pans, sete full pans ou uma combinação dos dois, além de pincéis de viagem e um pedaço de esponja.
-- Diz que a parte interna de algumas latas pode ser pintada com spray para evitar ferrugem e melhorar a representação das cores.
-- Lista materiais usados na montagem, como Goo Gone, tinta spray esmalte, rubber cement, caneta Sharpie e empty watercolor half pans.
-- Diz que rubber cement é um adesivo removível, barato e fácil de usar, e que outras opções incluem ímãs, fita dupla face e Loctite adhesive putty.
-- Explica que a Sharpie preta é usada para escrever a marca e o nome da tinta nas laterais dos pans, e que o autor rotula todos os seus pans.
-- Indica o post sobre Metal Travel Palettes para quem quer saber onde comprar empty watercolor half ou full pans.
-- Cita o relato de Marion Younan de que uma homemade mint tin pode cair das mesas, porque essas latas são leves.
-- Mostra exemplos de paletas feitas por Yukari Bromfield e diz que ela usou Sculpey para fazer o interior de uma lata de Altoids.
-- Afirma que, se a pessoa não quiser fazer a própria paleta, pode comprar uma parecida no The Pocket Painter, no Etsy.
-- Mostra um conjunto com Niji Waterbrush e Hobonichi Techo e diz que o caderno usa Tomoe River paper, descrito como paper muito bom para escrever e pintar.
-- Diz que o autor vai ficar duas semanas desenhando fora e deseja que o leitor aproveite o próprio sketching.
+- Shows ideas for making a travel palette with empty tins, such as Altoids, tea tins, card tins, and other reused packaging.
+- Says that people use empty watercolor trays, Fimo or Sculpey clay, empty chewing gum packaging, inverted Legos, and bottle caps as spaces for paint.
+- Reports that the card tin with the lion holds several full pans and a Da Vinci travel brush, and that other travel brushes also fit over the pans.
+- States that Celestial Seasonings tins hold fourteen half pans or seven full pans.
+- States that the small Altoids tin holds fourteen half pans, seven full pans, or a combination of the two, as well as travel brushes and a piece of sponge.
+- Says that the inside of some tins can be spray painted to prevent rust and improve color representation.
+- Lists materials used in the setup, such as Goo Gone, enamel spray paint, rubber cement, Sharpie pen, and empty watercolor half pans.
+- Says that rubber cement is a removable, inexpensive, and easy-to-use adhesive, and that other options include magnets, double-sided tape, and Loctite adhesive putty.
+- Explains that the black Sharpie is used to write the brand and paint name on the sides of the pans, and that the author labels all of their pans.
+- Points to the Metal Travel Palettes post for anyone who wants to know where to buy empty watercolor half or full pans.
+- Cites Marion Younan's account that a homemade mint tin can fall off tables, because these tins are lightweight.
+- Shows examples of palettes made by Yukari Bromfield and says that she used Sculpey to make the inside of an Altoids tin.
+- States that, if the person does not want to make their own palette, they can buy a similar one at The Pocket Painter on Etsy.
+- Shows a set with a Niji Waterbrush and Hobonichi Techo and says that the notebook uses Tomoe River paper, described as very good paper for writing and painting.
+- Says that the author will be out drawing for two weeks and wishes the reader to enjoy their own sketching.

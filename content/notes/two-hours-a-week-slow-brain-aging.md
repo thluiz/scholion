@@ -21,7 +21,7 @@ Researchers analyzed 20 years of data from more than 30,000 US adults in the Hea
 
 Sae Hwang Han, the study's lead author, names social connection and a sense of purpose as the mechanism, and adds that helping others may cut stress and inflammation, both linked to cognitive decline on their own. Neuroscientist Faye Begeti flags retirement as the point where she most often sees people scale back mental challenge, and recommends volunteering specifically as a way to stay cognitively active after leaving work.
 
-## Fichamento
+## Reading notes
 
 - The study appears in Social Science & Medicine; Han is at UT Austin's Department of Human Development and Family Sciences, Begeti at Oxford University Hospitals.
 - In-person help is framed as the strongest version of the effect, though remote or virtual volunteering still counts if it's cognitively stimulating or builds real connection.

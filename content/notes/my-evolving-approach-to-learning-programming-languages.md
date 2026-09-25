@@ -22,7 +22,7 @@ Dan Lew picks Python back up for a new job after 15 years away from it and notic
 
 The five: how many steps does it take to run this code on another machine (a novice used whatever Python came preinstalled and never updated dependencies), how to run unit tests (a novice saw testing as a waste of time), how to get type checking (a novice knew a small codebase well enough not to need it), how to hide implementation details behind a public API, and how to make an immutable structured collection of data.
 
-## Fichamento
+## Reading notes
 
 - Reproducible environment: as a novice he relied on whatever Python version came preinstalled on his machine and the server, avoided libraries, and never updated the ones he used. Now he wants a small, deterministic number of steps to run checked-out code on another machine.
 - Unit testing: he used to see automated tests as a waste of time. Test-driven development is now his default, both as a faster way to verify his own code and as protection when he refactors later.

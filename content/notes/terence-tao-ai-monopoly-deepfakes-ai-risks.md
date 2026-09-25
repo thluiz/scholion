@@ -3,7 +3,7 @@ title: "Terence Tao: AI should not be a monopoly held by one or two companies"
 date: '2026-09-25T08:36:17+01:00'
 category: webclip
 summary: 'Terence Tao says AI is powerful but still limited, useful as an assistant, and risky for deepfakes and trust. He also warns against monopoly control and calls for some regulation.'
-tags: ["artificial-intelligence", "deepfakes", "regulation"]
+tags: ["artificial-intelligence","deepfakes","regulation"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,10 +19,10 @@ Tao says AI is theoretically capable of doing many kinds of work and could be us
 
 He also says it is not good for something as important as AI to be a monopoly controlled by one or two companies. He notes that open-source models exist, though they lag behind big commercial systems, and says some regulation will be needed because AI can damage trust in photos, videos, and elections.
 
-## Fichamento
+## Reading notes
 
-- Tao considera a IA uma tecnologia muito poderosa, com potencial para afetar quase tudo o que fazemos, mas diz que os sistemas atuais ainda são limitados e bons sobretudo em adivinhar respostas.
-- Ele vê risco de uso da IA para deepfakes, propaganda e influência em eleições, embora diga que o cenário de superinteligência que domina o planeta ainda esteja distante.
-- Tao afirma que não é bom que a IA fique em monopólio de uma ou duas empresas, porque a tecnologia é importante demais para depender só de poucos agentes.
-- Ele diz que existem modelos abertos, ainda atrasados em relação aos comerciais, e que o custo para treinar grandes sistemas deve cair com o tempo.
-- Tao defende alguma regulação da IA e alerta que a possibilidade de falsificar vídeos e fotos pode fazer as pessoas deixarem de confiar até em registros genuínos.
+- Tao considers AI a very powerful technology, with the potential to affect almost everything we do, but says current systems are still limited and good mainly at guessing answers.
+- He sees a risk of AI being used for deepfakes, propaganda, and influence in elections, although he says the scenario of superintelligence dominating the planet is still far off.
+- Tao states that it is not good for AI to be in a monopoly of one or two companies, because the technology is too important to depend only on a few agents.
+- He says that there are open models, still behind commercial ones, and that the cost of training large systems should fall over time.
+- Tao advocates some regulation of AI and warns that the possibility of falsifying videos and photos can make people stop trusting even genuine records.

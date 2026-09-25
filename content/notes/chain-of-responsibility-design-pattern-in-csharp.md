@@ -2,8 +2,8 @@
 title: "Chain of Responsibility Design Pattern in C#"
 date: '2026-09-24T23:17:17+01:00'
 category: webclip
-summary: 'O artigo explica o padrão Chain of Responsibility em C#, mostra o caso de middleware no ASP.NET Core e refatora um fluxo de empréstimo de livros em handlers encadeados.'
-tags: ["chain-of-responsibility", "csharp", "design-patterns", "aspnet-core"]
+summary: 'The article explains the Chain of Responsibility pattern in C#, shows the middleware case in ASP.NET Core, and refactors a book loan flow into chained handlers.'
+tags: ["chain-of-responsibility","csharp","design-patterns","aspnet-core"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,19 +17,19 @@ sources:
 
 The article presents Chain of Responsibility as a behavioral pattern for splitting a complex task into independent handlers linked in sequence. It uses ASP.NET Core middleware and a library rental request as the main examples, then shows how to move from a monolithic service to separate handler classes.
 
-## Fichamento
+## Reading notes
 
-- O padrão passa uma requisição por uma cadeia de handlers, e cada handler decide se processa a requisição ou se a encaminha ao próximo.
-- Ele é apresentado como útil para quebrar lógica em partes menores, cada uma com responsabilidade própria, o que favorece baixo acoplamento e o Single Responsibility Principle.
-- O texto aponta o middleware do ASP.NET Core como exemplo direto desse padrão, porque múltiplos handlers podem tratar a mesma requisição de forma independente.
-- Na descrição geral, a cadeia é formada pelo cliente, que organiza os handlers em sequência e inicia a execução no primeiro deles.
-- O artigo distingue um fluxo com vários handlers, em que a requisição pode avançar por várias etapas, de um fluxo com um único handler efetivo, em que a cadeia só segue até encontrar o handler adequado.
-- No exemplo da biblioteca, um `RentalAssistService` monolítico reúne verificação de disponibilidade do livro, elegibilidade do membro, saldo e emissão, o que deixa a classe acoplada e difícil de evoluir.
-- A refatoração proposta transforma cada etapa em um handler independente e liga esses handlers com um método `SetNext()` que armazena a referência para o próximo.
-- O código exemplo mostra um `BookAvailabilityCheckHandler` que valida a disponibilidade do livro e, se houver próximo handler, encaminha a requisição adiante.
-- O fluxo completo monta a cadeia com verificação de disponibilidade, verificação de acesso do membro, verificação de saldo e emissão do livro.
-- O artigo destaca que o cliente passa a cuidar só da ordem dos handlers e da chamada inicial de `Handle()`.
-- Um uso implícito do padrão é montar uma cadeia menor para apenas avaliar a requisição, sem chegar à etapa de emissão do livro.
-- Entre os problemas, o texto cita a necessidade de definir bem a ordem dos handlers, porque uma etapa de validação colocada depois de um processamento pode deixar uma requisição inválida avançar.
-- Também aponta que a troca de estados entre handlers pode aumentar a complexidade e gerar acoplamento entre etapas.
-- Outro risco é que a requisição pode não ser tratada por nenhum handler, caso todos apenas encaminhem a execução.
+- The pattern passes a request through a chain of handlers, and each handler decides whether to process the request or forward it to the next one.
+- It is presented as useful for breaking logic into smaller parts, each with its own responsibility, which favors low coupling and the Single Responsibility Principle.
+- The text points to ASP.NET Core middleware as a direct example of this pattern, because multiple handlers can treat the same request independently.
+- In the general description, the chain is formed by the client, which organizes the handlers in sequence and starts execution at the first one.
+- The article distinguishes a flow with multiple handlers, in which the request can advance through several stages, from a flow with a single effective handler, in which the chain only continues until it finds the appropriate handler.
+- In the library example, a monolithic `RentalAssistService` brings together book availability checks, member eligibility, balance, and issuance, which leaves the class coupled and difficult to evolve.
+- The proposed refactoring turns each stage into an independent handler and links these handlers with a `SetNext()` method that stores the reference to the next one.
+- The example code shows a `BookAvailabilityCheckHandler` that validates the book's availability and, if there is a next handler, forwards the request onward.
+- The complete flow assembles the chain with availability check, member access check, balance check, and book issuance.
+- The article highlights that the client then only takes care of the order of the handlers and the initial `Handle()` call.
+- An implicit use of the pattern is to build a smaller chain to only evaluate the request, without reaching the book issuance stage.
+- Among the problems, the text mentions the need to define the order of the handlers well, because a validation stage placed after a processing stage can let an invalid request advance.
+- It also points out that passing states between handlers can increase complexity and create coupling between stages.
+- Another risk is that the request may not be handled by any handler, if they all only forward execution.

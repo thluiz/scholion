@@ -19,7 +19,7 @@ sources:
 
 Goedecke compares AI to tests and type checks. Nobody decides to run those manually each time; they run continuously through CI, pre-push hooks and IDE highlighting, and a developer benefits from them even without consciously triggering them. He argues AI in the software development lifecycle should work the same way, a pattern he calls "continuous AI," a term he attributes to GitHub. Having Copilot PR reviews turned on by default changed his mind. One in five or ten catches something he missed; skimming past the rest costs him almost nothing.
 
-## Fichamento
+## Reading notes
 
 - Draws the core analogy explicitly: using AI "on tap" (going to get it when there's a problem) is like manually running unit tests or a type checker instead of having CI and IDE highlighting do it continuously.
 - Defines continuous AI as any way AI tooling gets automatically integrated into existing development flows, running via CI, hooks or a schedule on its own. Tools like Claude Code or Devin still need a developer to actively invoke them each time.

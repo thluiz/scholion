@@ -17,7 +17,7 @@ sources:
 
 The article says architectural choices should balance theory with practical implementation. It describes how the author combines Clean Architecture, DDD, and Hexagonal Architecture in TimeMates, while avoiding strict rules that create unnecessary boilerplate.
 
-## Fichamento
+## Reading notes
 
 - Clean Architecture is presented as a separation of presentation, domain, and data layers, with business logic kept out of the presentation layer.
 - The domain layer should hold business rules, and the presentation layer should focus on UI and platform-specific work.

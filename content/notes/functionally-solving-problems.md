@@ -19,7 +19,7 @@ sources:
 
 This chapter of Learn You Some Erlang takes two problems borrowed from Learn You a Haskell and works through Erlang solutions for both, on the premise that once you understand functional concepts, the same shape of solution carries across languages with very different syntax.
 
-## Fichamento
+## Reading notes
 
 - The reverse Polish notation calculator tokenizes an expression, then folds over the tokens treating Erlang's list as a stack: numbers get pushed, operators pop two values and push the result back.
 - Reading a string as a number needs a small wrapper, since Erlang has no single built-in that parses both integers and floats.

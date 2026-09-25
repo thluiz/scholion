@@ -22,7 +22,7 @@ The piece argues that self-serving bias hides low performance from the person do
 
 After the checklist, it lays out a process for fixing what the self-assessment turns up: separate personal causes from team-level ones, ask managers and peers for specific feedback, then set a plan with measurable goals and regular check-ins.
 
-## Fichamento
+## Reading notes
 
 - Sitting on blockers for days instead of raising them early is framed as a habit common among junior engineers; escalating isn't weakness, it's a way to keep project momentum.
 - Consistently picking simpler tasks and avoiding hard ones stalls growth; the underlying cause can be domain mismatch, low motivation, or burnout.

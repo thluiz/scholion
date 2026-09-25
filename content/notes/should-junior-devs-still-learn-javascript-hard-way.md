@@ -24,7 +24,7 @@ The author blames the teaching method for making fundamentals feel pointless, po
 
 Related: [The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer](/notes/the-slow-and-quiet-cognitive-atrophy/) covers a nearby problem, the skill erosion that follows from no longer reviewing AI-generated code.
 
-## Fichamento
+## Reading notes
 
 - Defines "the hard way" as vanilla JavaScript, no frameworks at first, and understanding what happens under the hood, distinguishing it from watching tutorials at 1.5x speed, copy-pasting code until it works, or asking AI to "fix this" without reading the output.
 - Notes that generating code faster than you can read it works fine until something breaks, at which point the question becomes whether you understand JavaScript or just the framework.

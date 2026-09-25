@@ -19,7 +19,7 @@ sources:
 
 At a live interview during Recode's Code Conference 2016, Walt Mossberg and Kara Swisher pressed Elon Musk on whose AI ambitions worried him most. Musk answered that exactly one company did, then wouldn't say which, staring at the floor and repeating the same line when pushed again.
 
-## Fichamento
+## Reading notes
 
 - Musk sat down with Mossberg and Swisher at Code Conference 2016 to talk about where AI was headed.
 - Asked point-blank about Google and Facebook's AI push, Musk said there was only one company that had him worried, without naming it.

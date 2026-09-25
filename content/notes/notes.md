@@ -2,8 +2,8 @@
 title: "Notes"
 date: '2026-09-24T22:51:04+01:00'
 category: webclip
-summary: 'A página descreve um sistema de notas dividido entre Pocket, Journal, Commonplace e Kids, com passagem de rascunhos para registros e simplificação do material físico para A5 e A7.'
-tags: ["notes", "journaling", "obidian", "commonplace-book"]
+summary: 'The page describes a note system divided between Pocket, Journal, Commonplace, and Kids, with drafts moving into records and the physical material simplified to A5 and A7.'
+tags: ["notes","journaling","obidian","commonplace-book"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,12 +19,12 @@ The page lays out a note-taking setup built around temporary capture, longer-ter
 
 As of April 2025, the physical notebooks are Midori MD Paper and the digital plain-text notes are managed in Obsidian. The author has also simplified the physical notebooks to two paper sizes, A5 and A7.
 
-## Fichamento
+## Reading notes
 
-- Pocket e Apple Notes funcionam como ponto de entrada para anotações temporárias, rascunhadas e efêmeras.
-- Parte dessas notas pode ser transferida para o Journal ou para o Commonplace.
-- O Journal é um caderno físico, e nele o autor também escreve uma versão em texto puro da história da própria vida, em formato de memória.
-- O Commonplace funciona como base de conhecimento em caderno físico e em texto puro digital, escrito em Markdown.
-- O caderno Kids é um caderno físico exclusivo para as filhas, com histórias escritas para elas lerem.
-- Em abril de 2025, os cadernos físicos são Midori MD Paper, e as notas digitais em texto puro são geridas no Obsidian.
-- O autor decidiu simplificar os cadernos físicos para dois tamanhos padrão, A5 e A7.
+- Pocket and Apple Notes function as an entry point for temporary, rough, and ephemeral notes.
+- Part of these notes can be transferred to the Journal or to the Commonplace.
+- The Journal is a physical notebook, and in it the author also writes a plain-text version of the story of their own life, in memoir form.
+- The Commonplace functions as a knowledge base in a physical notebook and in digital plain text, written in Markdown.
+- The Kids notebook is a physical notebook exclusively for the daughters, with stories written for them to read.
+- In April 2025, the physical notebooks are Midori MD Paper, and the plain-text digital notes are managed in Obsidian.
+- The author decided to simplify the physical notebooks to two standard sizes, A5 and A7.

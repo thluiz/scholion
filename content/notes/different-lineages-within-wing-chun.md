@@ -21,7 +21,7 @@ The article, written by a practitioner within the Ip Man lineage, counts eight d
 
 The lineage traced runs through the Red Boat Opera troupe: Leung Yee Tai, Wong Wah Bo and Dai Fa Min Kam structured the system into forms, training sets and the Wooden Pole. Leung Yee Tai's line passed to Leung Jan, who later left Foshan for his home village and reworked his teaching there, splitting what had been one long form into Sil Lim Tao, Chum Kiu and Bil Jee, and distilling a faster, separate-technique method (San Sao) for beginners to build fighting skill quickly.
 
-## Fichamento
+## Reading notes
 
 - Leung Jan called the beginner method the 22 Essential Movement (Sansau) Set, taught to his sons and a few close disciples.
 - The article frames the basic movements as a vessel for underlying principles; advanced students are meant to outgrow literal form execution and apply the principles freely, including with weapons.

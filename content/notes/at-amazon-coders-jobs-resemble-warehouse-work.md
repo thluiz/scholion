@@ -20,7 +20,7 @@ sources:
 
 Noam Scheiber draws a historical parallel: past waves of automation in auto-making, meatpacking and secretarial work rarely eliminated jobs outright. They degraded them, breaking skilled work into simpler, faster, more repetitive tasks. Scheiber reports the same pattern at Amazon: three engineers describe rising output goals, tighter deadlines, and managers pushing AI adoption over the past year, while the company's official line calls the technology augmentation.
 
-## Fichamento
+## Reading notes
 
 - One Amazon engineer said a website feature that used to take a few weeks must now often ship in a few days, achieved by leaning on AI for code generation and cutting meetings held to solicit feedback and explore alternatives; a second engineer reported more modest gains, since usage intensity varies by team across Amazon's 10,000+ engineers.
 - Labor economist Lawrence Katz frames the shift as removing the "slack" that used to let a complicated project run a month or two unmonitored. Now the whole thing is monitored and expected to move fast, which he says can benefit accomplished programmers while resembling a speed-up for less experienced ones.

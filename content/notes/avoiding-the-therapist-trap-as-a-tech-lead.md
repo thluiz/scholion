@@ -22,7 +22,7 @@ Anemari Fiser names a trap she says most Tech Leads fall into: taking on every t
 
 The cost she lays out goes beyond one bad outcome: constant over-involvement burns leaders out, breeds resentment toward the team, stakeholders and themselves, and makes the leader the automatic point of blame when something goes wrong instead of distributing accountability across the team.
 
-## Fichamento
+## Reading notes
 
 - The trap starts from a good impulse (wanting to help) but the pattern to watch is the shift from "how can I help?" to "I'll do it for you". The second one removes the team member's ownership.
 - Fiser's own story: she took over a colleague's relocation paperwork, including skipping standups to attend appointments with him; the relationship soured when the process hit roadblocks and he blamed her for not delivering what she'd implicitly promised.

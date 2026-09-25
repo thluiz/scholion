@@ -19,7 +19,7 @@ sources:
 
 0to255 pitches itself against the standard slider-based color picker. With over 16 million possible hex codes and much of that space perceptually indistinguishable, fine-tuning a color by dragging sliders wastes time comparing options the eye can't tell apart anyway.
 
-## Fichamento
+## Reading notes
 
 - The tool replaces sliders with a grid where similar colors are clustered together, so the eye scans toward the right region instead of adjusting values blind.
 - The workflow has three steps: pick an approximate color from the grid, refine it against neighboring shades displayed around it, then copy the result in whatever format the project needs.

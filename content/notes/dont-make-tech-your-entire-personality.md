@@ -19,7 +19,7 @@ sources:
 
 Tanay Dwivedi traces a narrowing effect in developers who spend the workday immersed in tech and then socialize mainly at tech meetups and hackathons: communication with unfamiliar audiences stops getting practiced, and the unfamiliarity compounds over time. His fix is building an offline life with no connection to tech, treating those interactions as ends in themselves rather than networking exercises.
 
-## Fichamento
+## Reading notes
 
 - A mentally demanding, screen-based workday leaves little bandwidth to socialize afterward, so people default to the circle that already understands their work and vocabulary.
 - The result is a cycle: less practice talking to unfamiliar people makes those conversations feel harder each time, which reduces the practice further.

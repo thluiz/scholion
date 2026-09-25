@@ -17,7 +17,7 @@ sources:
 
 Eco-mode is described as a dishwasher setting that conserves water and electricity while taking longer than a standard cycle. The post explains this through lower water use, reduced heating, slower pumping, and air drying.
 
-## Fichamento
+## Reading notes
 
 - Eco-mode is presented as a longer dishwasher cycle designed to save water and energy.
 - It uses less water than a regular cycle, including water recycling in some stages and a lower spray flow rate.

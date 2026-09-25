@@ -19,7 +19,7 @@ sources:
 
 Simon Willison suggests the gap between people who find LLMs genuinely useful for coding and people who find them a hindrance comes down to automated tests. He has followed the "Perfect Commit" discipline for over five years, bundling implementation, tests and documentation into a single unit. As a result, nearly everything he works on already has solid coverage before an LLM ever touches it.
 
-## Fichamento
+## Reading notes
 
 - Comprehensive tests derisk LLM-generated code. If a model produces something weird or convoluted that still solves the problem, tests prove it works, and the model can then refactor until the code looks right while staying green throughout.
 - LLMs also help write the tests themselves. Willison calls this having a pair programmer who reliably remembers how to use `unittest.mock`.

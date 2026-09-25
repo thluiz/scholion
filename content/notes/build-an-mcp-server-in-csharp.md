@@ -21,7 +21,7 @@ Montemagno builds a minimal MCP server with the new C# SDK: a console app hostin
 
 He registers a `MonkeyService` (querying a small HTTP API for monkey data) via dependency injection and exposes it as `GetMonkeys`/`GetMonkey` tools returning JSON. In the walkthrough, GitHub Copilot's Agent mode calls those tools to render the results as a table, a Mermaid diagram, or the XAML for a .NET MAUI screen. The post closes with packaging: containerizing the server with the .NET SDK's built-in support, publishing to a registry, and a note on SSE transport for streaming server-to-client communication in remote MCP servers.
 
-## Fichamento
+## Reading notes
 
 - An MCP server built with the SDK is a console app: `AddMcpServer().WithStdioServerTransport().WithToolsFromAssembly()` sets up the transport and scans the assembly for tools.
 - Tools are static methods marked `[McpServerTool]` inside a class marked `[McpServerToolType]`. The `Description` attribute on each becomes what a connecting client, GitHub Copilot's Agent mode in the walkthrough, reads to decide which tool to call.

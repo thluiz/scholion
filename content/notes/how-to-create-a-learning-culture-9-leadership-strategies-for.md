@@ -17,7 +17,7 @@ sources:
 
 The page argues that a learning culture helps drive innovation, adaptability, and long-term success. It presents nine patterns leaders can use to shape workplace culture around continuous growth, including openness to failure, experimentation, learning time, and decentralized decision-making.
 
-## Fichamento
+## Reading notes
 
 - A learning culture is framed as a key strategy for innovation, adaptability, and long-term success.
 - Learning moments should be celebrated, with failures and missteps treated as opportunities for growth.

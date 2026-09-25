@@ -19,7 +19,7 @@ The post is a refresher on Big O notation for coding interviews. It explains tha
 
 It covers O(1) for constant-time access, O(n) for scanning every item, O(n^2) for nested loops, O(log n) for binary search and tree traversal, O(n log n) for merge sort, O(2^n) for branching recursion like Fibonacci, and O(n!) for permutations and the Traveling Salesman Problem.
 
-## Fichamento
+## Reading notes
 
 - Big O notation classifies algorithms by how runtime or space requirements grow as input size grows.
 - O(n) appears when the algorithm needs to inspect every element, such as finding the maximum in an unsorted array.

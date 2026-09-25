@@ -3,7 +3,7 @@ title: "5 Reasons Why Your Side Projects Fail to Make Money And How to Avoid The
 date: '2026-09-25T01:21:36+01:00'
 category: webclip
 summary: 'The article says side projects often fail when people do not test ideas, rush building, skip feedback, or launch too quietly, and argues for validation, speed, and a planned launch.'
-tags: ["side-projects", "startup", "product-launch", "validation"]
+tags: ["side-projects","startup","product-launch","validation"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,10 +17,10 @@ sources:
 
 The article explains why many side projects fail to make money and says the common problems are not trying ideas early, weak ideation, building too long, lacking user feedback, and launching too quietly. It argues for validating ideas, moving fast, and planning a visible launch.
 
-## Fichamento
+## Reading notes
 
-- O texto defende que tentar a ideia cedo é better than never trying, because even a failed project can bring skills, market learning, and experience.
-- Na fase de ideação, recomenda validar a ideia, verificar se ela resolve um problema real e avaliar se há tempo, dinheiro e habilidade para executá-la.
-- O artigo alerta contra o build infinito e sugere evitar aprender tecnologia nova só por novidade; o foco deve ser criar a solução usando ferramentas conhecidas e avançar rápido.
-- Também diz que é preciso lançar cedo e buscar feedback de usuários reais, porque sem isso não dá para saber se o produto atende a uma necessidade de verdade.
-- Sobre o lançamento, afirma que ele deve ser planejado e adaptado ao público e à plataforma, com materiais de divulgação e presença ativa depois da estreia.
+- The text argues that trying the idea early is better than never trying, because even a failed project can bring skills, market learning, and experience.
+- In the ideation phase, it recommends validating the idea, checking whether it solves a real problem, and evaluating whether there is time, money, and skill to execute it.
+- The article warns against infinite building and suggests avoiding learning new technology just for novelty; the focus should be on creating the solution using known tools and moving fast.
+- It also says it is necessary to launch early and seek feedback from real users, because without this it is not possible to know whether the product meets a real need.
+- About the launch, it states that it should be planned and adapted to the audience and the platform, with promotional materials and active presence after the debut.

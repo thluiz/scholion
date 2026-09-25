@@ -19,7 +19,7 @@ The post says Lean Startup began as a disciplined method for learning faster thr
 
 It argues that the original approach depends on testing the riskiest assumption, gathering trustworthy user data, and using speed as learning speed rather than shipping speed. The post frames Lean Startup as a craft built on rigor and humility, not a shortcut for sloppy execution.
 
-## Fichamento
+## Reading notes
 
 - Lean Startup started as a way to reduce waste by testing the riskiest assumption with small, rigorous experiments.
 - The MVP was meant to be the simplest version of an idea that could validate a core hypothesis, not a sloppy prototype.

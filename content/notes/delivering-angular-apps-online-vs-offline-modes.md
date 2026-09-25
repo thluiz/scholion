@@ -21,7 +21,7 @@ The tutorial builds an Angular PWA that keeps working when a user loses connecti
 
 Caching behavior lives entirely in `ngsw-config.json`. `assetGroups` covers static files like HTML, CSS, and JS; `dataGroups` covers API calls, each with its own strategy, max age, and timeout. The worked example adds a `dataGroups` entry for the JSONPlaceholder posts endpoint with both a "performance" and a "freshness" cache strategy, then confirms the behavior directly: load the app once online so the service worker populates the cache, then go offline and refresh, and the same data loads from cache instead of failing.
 
-## Fichamento
+## Reading notes
 
 - The browser's own `navigator.onLine` property, wrapped in a small Angular service with `online`/`offline` event listeners, is enough to build a reactive online-status stream that a component subscribes to and surfaces through a snack bar notification.
 - `navigator.onLine` only reflects network interface state, not real internet access. `ng-connection-service` addresses that gap by periodically sending an HTTP request to a heartbeat URL, so it can tell network connectivity and actual internet access apart.

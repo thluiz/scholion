@@ -19,7 +19,7 @@ sources:
 
 Joel Spolsky argues great developers rarely appear on the job market because employers spot them fast and keep them. Dan Luu points out that this assumption contradicts itself: if greatness is that easy to spot, any competitor could just offer double the salary and poach them. Akerlof's market-for-lemons model, built on used cars, requires information asymmetry to work; Spolsky's own premise reduces that asymmetry.
 
-## Fichamento
+## Reading notes
 
 - Information asymmetry frequently runs the other way. A developer doing unglamorous but critical work (the "Bob" case) can be underrated internally while their reputation outside the company is strong enough to get them a job at market rate.
 - Good teams don't spring into existence on demand. A team with a hostile lead can bleed away three of seven engineers in a year while a well-run team fills up and stays full, so joining "a random team" mostly means joining a churning one.

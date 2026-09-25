@@ -21,7 +21,7 @@ The post argues against the common advice to "hire great people, set clear goals
 
 The piece draws the line between the two by intent, not proximity. Micromanagers dictate; leaders who stay in the details collaborate, ask questions, and remove blockers without taking over execution themselves.
 
-## Fichamento
+## Reading notes
 
 - Leaders who fully step back from execution risk disconnecting from their teams until issues reach crisis scale, an outcome the post frames through Paul Graham's critique of absentee leadership.
 - Steve Jobs is offered as the model for engaged-without-dictating: he partnered with Jony Ive's design studio rather than running it from outside.

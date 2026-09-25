@@ -17,7 +17,7 @@ sources:
 
 The page introduces watercolor sketching as something readers should try and invites them to share their work with the #WorldWatercolorGroup. It then lists the basic supplies needed to begin, points readers to tutorials, books, and classes, and ends by framing doodlewashing as part of the #doodlewash movement.
 
-## Fichamento
+## Reading notes
 
 - Recommends starting watercolor sketching and making doodlewashes.
 - Invites readers to share their work with #WorldWatercolorGroup so it can be found on social media.

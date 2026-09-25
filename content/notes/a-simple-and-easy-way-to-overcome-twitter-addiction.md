@@ -2,8 +2,8 @@
 title: "A Simple and Easy way to overcome your Twitter Addiction"
 date: '2026-09-24T22:11:46+01:00'
 category: webclip
-summary: 'O autor diz que o uso do Twitter tomou tempo e produtividade e descreve um método gradual para reduzir a dependência, mantendo acesso limitado e afastando dispositivos de trabalho.'
-tags: ["twitter", "produtividade", "disciplina", "redes-sociais"]
+summary: 'The author says the use of Twitter took time and productivity and describes a gradual method for reducing dependence, while keeping limited access and keeping work devices away.'
+tags: ["twitter","productivity","discipline","social-media"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,7 +17,7 @@ sources:
 
 The author says Twitter is useful for talking to people, connecting with like-minded users, and listening to people he appreciates, but it also takes a toll on time and productivity. He describes a self-imposed method to reduce the habit, based on gradual change rather than stopping all at once.
 
-## Fichamento
+## Reading notes
 
 - Replaces the regular Twitter client with a leaner way to tweet, using AlfredTweet through Alfred’s Powerpack.
 - Keeps tweeting possible, but makes reading Twitter streams require opening twitter.com.

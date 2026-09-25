@@ -24,7 +24,7 @@ Margaret's fix is the generator function, marked with an asterisk (`function*`).
 
 Related: [Should Junior Developers Still Learn JavaScript the Hard Way?](/notes/should-junior-devs-still-learn-javascript-hard-way/) argues for learning closures, scope, and the event loop before frameworks, a different JavaScript fundamental than generators but the same case for understanding the language itself.
 
-## Fichamento
+## Reading notes
 
 - `yield` doesn't end the function. It pauses execution, saves the local variables, and hands a value to the caller; execution resumes exactly where it left off on the next call.
 - Calling a generator function doesn't run its body. It returns a Generator Object, and the function only starts executing once `.next()` is called on that object.

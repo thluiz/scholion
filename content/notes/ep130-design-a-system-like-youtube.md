@@ -20,7 +20,7 @@ sources:
 
 A ByteByteGo refresher pairs two topics: eight Software Development Life Cycle models and a 9-step pipeline for a video platform shaped like YouTube.
 
-## Fichamento
+## Reading notes
 
 - SDLC models: Waterfall runs linear phases (requirements, design, implementation, verification, maintenance); Agile works in sprints under Scrum, Kanban, or XP; V-Model pairs each development phase with its own testing phase; Iterative builds the system incrementally; Spiral combines iteration with Waterfall's risk analysis; Big Bang skips planning and integrates everything at once; RAD prioritizes rapid prototyping; Incremental designs, builds, and tests in stages until the product is done.
 - Video upload starts with the user submitting the video file and its details, which go to object storage (S3) while metadata is saved to a database and a cache.

@@ -21,7 +21,7 @@ Any X user can reply to a photo, tag Grok, and ask it to "put a swastika bikini 
 
 Decoherence Media tested the same prompts against ChatGPT, Gemini and Claude. ChatGPT and Gemini both generated a normal bikini instead of refusing outright, with Gemini overlaying the bikini bottom on the woman's jeans and ChatGPT removing the jeans entirely. Claude was the only model of the four to refuse the edit altogether, citing an inability to manipulate images of real people that way.
 
-## Fichamento
+## Reading notes
 
 - Requests escalate to detailed physical alteration ("make her thinner, give her dark hair, pale skin, green eyes") and additional Nazi imagery (placing Hitler beside the subject, a Roman salute).
 - One targeted account had 8 followers, meaning the moderation gap isn't limited to public figures.

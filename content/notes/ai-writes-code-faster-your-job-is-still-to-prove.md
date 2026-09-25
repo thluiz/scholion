@@ -22,7 +22,7 @@ Addy Osmani argues AI didn't eliminate code review. It made the burden of proof 
 
 His core framework is the PR Contract: state intent, show proof it works, name the risk tier and which parts AI generated, and flag where review attention should go. Without that, a pull request doesn't ship faster. It just moves the work downstream to whoever reviews it.
 
-## Fichamento
+## Reading notes
 
 - By early 2026, over 30% of senior developers report shipping mostly AI-generated code, and logic errors show up about 75% more often in that code.
 - Solo devs "trust the vibe": review only the key parts, and lean on automated tests (often targeting >70% coverage) as the real backstop.

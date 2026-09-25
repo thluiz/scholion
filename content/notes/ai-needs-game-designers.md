@@ -22,7 +22,7 @@ Steve Yegge's Gas Town runs 20-30 Claude Code instances in parallel under a huma
 
 For Kaye, the gap is the interface. There's no way to monitor and intervene across many agents without reading everything each one produces. Gas Town currently runs on tmux, and Yegge tells users they'll have to learn it or wait for someone to build a better UI. Kaye points to StarCraft 2's control groups, minimaps and alert systems as thirty years of R&D on that same problem, letting one person direct many autonomous agents without reading every line each one produces. His conclusion is that game designers are best positioned to design that interface.
 
-## Fichamento
+## Reading notes
 
 - Gas Town runs 20-30 Claude Code instances at once, assigning them roles (Mayor, Polecats, Refinery, Witness) and routing work through "convoys" that start, execute and land without a human present.
 - Kaye maps RTS skills directly onto agent orchestration: parallel attention management (watching everything, intervening selectively), and systems that run without the operator, the way Factorio factories and StarCraft economies keep producing unattended.

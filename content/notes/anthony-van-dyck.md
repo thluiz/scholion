@@ -3,7 +3,7 @@ title: "Anthony van Dyck"
 date: '2026-09-25T08:30:30+01:00'
 category: webclip
 summary: 'Flemish Baroque painter who became Charles I’s leading court painter, shaped English portraiture for more than 150 years, and was known for portraits, etchings, and religious works.'
-tags: ["flemish-baroque", "court-painting", "portraiture", "etching"]
+tags: ["flemish-baroque","court-painting","portraiture","etching"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,15 +19,15 @@ Anthony van Dyck was born in Antwerp in 1599 and trained early as a painter. He 
 
 He also painted mythological, allegorical, and biblical subjects, including altarpieces, and was an important innovator in watercolour and etching. His _Iconography_ series of portrait etchings was highly successful, and his style in England combined relaxed elegance with authority. He was knighted, married Mary Ruthven in 1640, and died in London in 1641.
 
-## Fichamento
+## Reading notes
 
-- Nascido em Antuérpia em 1599, entrou cedo na pintura e tornou-se mestre na Guild of Saint Luke em 1617.
-- Trabalhou no ateliê de Peter Paul Rubens, cuja influência foi decisiva em sua formação.
-- Passou por Londres, Flandres e Itália, ficando sobretudo em Gênova entre 1621 e 1627.
-- Em 1630 foi pintor da corte da arquiduquesa Isabella e, em 1632, voltou a Londres como principal pintor da corte de Charles I.
-- Ficou conhecido sobretudo pelos retratos da aristocracia, especialmente Charles I, sua família e seus associados.
-- Seu retrato de corte ajudou a transformar o gênero e marcou a pintura inglesa por mais de 150 anos.
-- Também pintou temas mitológicos, alegóricos e bíblicos, além de retábulos.
-- Desenvolveu e ampliou a _Iconography_, série de retratos em gravura de contemporâneos notáveis.
-- Produziu desenhos, gravuras e estudos em aquarela, com papel importante na tradição flamenga de paisagem em aquarela na Inglaterra.
-- Recebeu a cavalaria de Charles I, casou-se com Mary Ruthven em 1640 e morreu em Londres em 1641.
+- Born in Antwerp in 1599, he entered painting early and became a master in the Guild of Saint Luke in 1617.
+- Worked in Peter Paul Rubens's workshop, whose influence was decisive in his formation.
+- Passed through London, Flanders, and Italy, staying mainly in Genoa between 1621 and 1627.
+- In 1630 he was painter to the court of the Archduchess Isabella and, in 1632, returned to London as Charles I's main court painter.
+- He became known above all for portraits of the aristocracy, especially Charles I, his family, and his associates.
+- His court portrait helped transform the genre and marked English painting for more than 150 years.
+- He also painted mythological, allegorical, and biblical subjects, as well as altarpieces.
+- He developed and expanded the _Iconography_, a series of engraved portraits of notable contemporaries.
+- He produced drawings, engravings, and watercolor studies, with an important role in the Flemish tradition of watercolor landscape in England.
+- He received knighthood from Charles I, married Mary Ruthven in 1640, and died in London in 1641.

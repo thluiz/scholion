@@ -17,7 +17,7 @@ sources:
 
 The article says _Clean Code_ had a major impact on developers by making code quality, readability and maintainability central concerns. It highlights advice on naming, tests, SRP, DRY, CQS, boundaries, data abstractions and code smells, while also arguing that some recommendations are outdated or too dogmatic.
 
-## Fichamento
+## Reading notes
 
 - The book helped create awareness around code quality and made readability and maintainability a larger focus in programming.
 - It gives lasting advice on naming, exception handling, unit tests, SRP, pure functions, CQS, DRY, boundaries and data abstractions.

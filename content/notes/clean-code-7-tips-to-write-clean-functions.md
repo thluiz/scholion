@@ -3,7 +3,7 @@ title: "Clean Code: 7 tips to write clean functions"
 date: '2026-09-24T23:24:13+01:00'
 category: webclip
 summary: 'The post argues that clean functions are small, easy to understand, well named, limited in parameters, free of nested conditionals and booleans, and preferably pure.'
-tags: ["clean-code", "functions", "refactoring", "testing"]
+tags: ["clean-code","functions","refactoring","testing"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,15 +19,15 @@ The post says functions should be easy to understand quickly, because complex co
 
 It also suggests naming functions after the business domain, using verbs, keeping team naming conventions, and using one word per concept. For structure, it prefers few parameters, guard clauses instead of nested ifs, pure functions, enums instead of booleans, and descriptive names instead of comments.
 
-## Fichamento
+## Reading notes
 
-- Funções devem ser compreensíveis em poucos segundos; quando isso demora, o texto defende refatoração.
-- Funções complexas aumentam erros, dificultam mudanças e atrasam a entrada de novos desenvolvedores.
-- O ideal é fazer funções pequenas e pragmáticas, sem virar dogma nem encher o código de funções demais.
-- Nomes de função devem refletir a linguagem do domínio e dizer claramente o que a função faz.
-- O texto recomenda usar verbos, seguir convenções do time e manter um termo só para cada conceito.
-- O número ideal de argumentos é zero, e o texto sugere no máximo três parâmetros, agrupando dados relacionados quando necessário.
-- Em vez de IFs aninhados, o texto propõe inverter as condições e usar guard clauses.
-- Funções puras têm o mesmo resultado para a mesma entrada e não têm side effects; isso as torna mais previsíveis, fáceis de testar e paralelizáveis.
-- Booleanos como parâmetro deixam a chamada ambígua; o texto prefere enums para tornar o código autoexplicativo.
-- Quando uma função não fica clara, o texto diz para priorizar bons nomes em vez de recorrer a comentários, que envelhecem mal e muitas vezes repetem o código.
+- Functions should be understandable in a few seconds; when that takes longer, the text argues for refactoring.
+- Complex functions increase errors, make changes harder, and slow down onboarding for new developers.
+- The ideal is to make functions small and pragmatic, without turning it into dogma or filling the code with too many functions.
+- Function names should reflect the domain language and clearly say what the function does.
+- The text recommends using verbs, following the team’s conventions, and keeping one term for each concept.
+- The ideal number of arguments is zero, and the text suggests at most three parameters, grouping related data when necessary.
+- Instead of nested IFs, the text proposes inverting conditions and using guard clauses.
+- Pure functions have the same result for the same input and have no side effects; this makes them more predictable, easier to test, and parallelizable.
+- Booleans as parameters make the call ambiguous; the text prefers enums to make the code self-explanatory.
+- When a function is not clear, the text says to prioritize good names instead of resorting to comments, which age badly and often repeat the code.

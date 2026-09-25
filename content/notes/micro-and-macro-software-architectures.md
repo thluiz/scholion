@@ -21,7 +21,7 @@ Zaid Qureshi splits architecture decisions into two levels. Macro architecture c
 
 Locking too much into macro architecture has a cost he names directly: a company that mandates a single programming language for everything can block engineers from picking the right tool for a given job, and that kind of rigidity tends to show up later as stale technology and harder hiring.
 
-## Fichamento
+## Reading notes
 
 - Micro-frontends are the example he uses for where micro architecture pays off: once integration and security are fixed at the macro level, each team can pick its own stack, its own deploy cadence, and its own branching strategy without touching the rest of the system.
 - Not every architecture decision has a clean answer. He expects teams to sometimes pick the "least bad" option and revisit it later, rather than hold out for a perfect one.

@@ -20,7 +20,7 @@ sources:
 
 Martin Fowler posts a batch of notes from the Thoughtworks Future of Software Development Retreat and The Pragmatic Summit. The thread running through all of them is what happens to programmers once LLM agents take over more of the coding itself.
 
-## Fichamento
+## Reading notes
 
 - Senior developers at the retreat stayed optimistic about their own relevance. Hands-on practice with LLMs converted more skeptics than argument did, and some who'd drifted away from coding found agents brought them back to it.
 - Mid-level developers face the roughest transition: they built their careers before LLMs existed, but haven't yet reached the experience seniors have to drive agents effectively.

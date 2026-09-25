@@ -21,7 +21,7 @@ Bart Krawczyk maps a design thinking workshop onto the same five steps as the fu
 
 His own departure from convention is at the ideation and prototyping ends. For ideating, he runs several short cycles rather than one long one, splitting a 30-minute block into three rounds of seven minutes of ideation and three of sharing rather than 20 and 10, on the logic that urgency and frequent sharing keep energy and cross-pollination higher than one long stretch would. For prototyping, he skips it inside the workshop entirely. Attention is already spent by that point, and the actual build is better left to the designers who'll execute it, with feedback gathered along the way instead.
 
-## Fichamento
+## Reading notes
 
 - For choosing between generated solutions, he prioritizes the option that teaches the most from testing it, over frameworks like ICE or an impact matrix that rank for immediate value, arguing the extra learning compounds into every future initiative.
 - His group-size range is five to eight people, stretching to twelve only for a genuinely complex problem, with at least one representative from support, marketing, product, design, sales, and tech to cover the relevant perspectives.

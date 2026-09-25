@@ -2,8 +2,8 @@
 title: "Enterprise AI can do so much more than just answer questions"
 date: '2026-09-24T23:15:35+01:00'
 category: webclip
-summary: 'O texto defende que IA empresarial vai além de responder perguntas: com acesso aos dados certos, ela conecta informações, gera insights, transforma achados em ação e aproxima equipes dentro do fluxo de trabalho.'
-tags: ["enterprise-ai", "coda-brain", "knowledge-management", "workflow"]
+summary: 'The text argues that enterprise AI goes beyond answering questions: with access to the right data, it connects information, generates insights, turns findings into action, and brings teams closer together within the workflow.'
+tags: ["enterprise-ai","coda-brain","knowledge-management","workflow"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -15,19 +15,19 @@ sources:
     kind: repo
 ---
 
-O texto compara a IA generativa ao answering machine e diz que isso só cobre uma parte do seu potencial. Em contexto empresarial, com acesso aos dados certos e ao contexto da empresa, a IA vira uma ferramenta de conectividade, capaz de cruzar informações, respeitar permissões e devolver respostas úteis em texto, tabelas ou gráficos.
+The text compares generative AI to an answering machine and says that this only covers part of its potential. In an enterprise context, with access to the right data and the company context, AI becomes a connectivity tool, capable of crossing information, respecting permissions, and returning useful answers in text, tables, or charts.
 
-A ideia central é que Coda Brain vai além de responder perguntas: organiza conhecimento institucional, ajuda a identificar riscos, campanhas eficazes, oportunidades de venda e feedback de clientes, e converte consultas em ações. Integrado aos docs da Coda, ele gera resumos, listas de tarefas, análises e roadmaps que ficam vivos e compartilháveis entre equipes.
+The central idea is that Coda Brain goes beyond answering questions: it organizes institutional knowledge, helps identify risks, effective campaigns, sales opportunities, and customer feedback, and converts queries into actions. Integrated with Coda docs, it generates summaries, task lists, analyses, and roadmaps that stay alive and shareable across teams.
 
-## Fichamento
+## Reading notes
 
-- A IA generativa costuma ser usada como um answering machine ligado à internet, mas o texto diz que isso fica aquém do seu potencial em empresas.
-- Com o acesso adequado aos dados da empresa, a IA pode funcionar como uma ferramenta de conectividade parecida com um smartphone, e não como um instrumento de resposta isolada.
-- A Coda é apresentada como uma plataforma em que documentos reúnem dados, roadmaps, comunicação e integrações com mais de 500 apps, funcionando como fonte única de verdade.
-- O texto contrasta IA de consumo, como o ChatGPT, com sistemas empresariais como Glean e Coda Brain, que trabalham com dados sensíveis no contexto de uma companhia.
-- Coda Brain usa RAG, cita suas fontes e respeita permissões de acesso, evitando puxar informações sensíveis indevidas.
-- Além de coletar informação, Coda Brain ajuda a criar conexões novas, formular ideias e explorar perguntas mais especulativas, como riscos de projetos, campanhas passadas ou oportunidades de vendas.
-- As respostas podem virar tabelas ao vivo, atualizadas conforme novos dados entram no sistema.
-- Integrado aos docs da Coda, Coda Brain transforma etapas manuais em ações de um comando só, como organizar feedback, gerar resumos de reuniões e criar listas de tarefas personalizadas.
-- As saídas são compartilháveis e atualizáveis, o que facilita levar respostas para hubs de equipe, relatórios e discussões internas.
-- O texto conclui que a IA empresarial se torna mais útil quando protege dados, move projetos e conecta pessoas e informações ao longo da organização.
+- Generative AI is often used as an answering machine connected to the internet, but the text says this falls short of its potential in companies.
+- With proper access to company data, AI can function as a connectivity tool similar to a smartphone, rather than as an isolated response instrument.
+- Coda is presented as a platform in which documents bring together data, roadmaps, communication, and integrations with more than 500 apps, functioning as a single source of truth.
+- The text contrasts consumer AI, such as ChatGPT, with enterprise systems like Glean and Coda Brain, which work with sensitive data in the context of a company.
+- Coda Brain uses RAG, cites its sources, and respects access permissions, avoiding pulling sensitive information improperly.
+- In addition to collecting information, Coda Brain helps create new connections, formulate ideas, and explore more speculative questions, such as project risks, past campaigns, or sales opportunities.
+- The answers can become live tables, updated as new data enters the system.
+- Integrated with Coda docs, Coda Brain transforms manual steps into one-command actions, such as organizing feedback, generating meeting summaries, and creating personalized task lists.
+- The outputs are shareable and updatable, which makes it easier to bring answers into team hubs, reports, and internal discussions.
+- The text concludes that enterprise AI becomes more useful when it protects data, moves projects forward, and connects people and information across the organization.

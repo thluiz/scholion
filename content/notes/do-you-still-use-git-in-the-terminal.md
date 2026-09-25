@@ -3,7 +3,7 @@ title: "Do You Still Use Git in the Terminal?"
 date: '2026-09-25T00:16:02+01:00'
 category: webclip
 summary: 'The author says they still default to Git in the terminal for most tasks, even though GUIs like GitKraken, SourceTree, and VS Code’s Git integration may be easier for others, and asks what tools people use.'
-tags: ["git", "terminal", "gui-tools"]
+tags: ["git","terminal","gui-tools"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,12 +17,12 @@ sources:
 
 The author says they still use the terminal for almost everything Git-related because typing commands and getting immediate feedback feels satisfying, especially for rebasing, cherry-picking, and fixing commits. They also note that many GUI tools and VS Code’s built-in Git support can streamline workflows, but they have not moved away from the terminal.
 
-## Fichamento
+## Reading notes
 
-- O autor ainda usa o terminal como padrão para tarefas de Git no dia a dia.
-- Ele associa o terminal a mais satisfação e feedback imediato ao executar comandos.
-- Rebasing, cherry-picking e ajuste de commits são exemplos das tarefas em que prefere o terminal.
-- O texto reconhece que há GUIs e outras ferramentas que simplificam fluxos de Git.
-- Entre os exemplos citados estão GitKraken, SourceTree e a integração de Git do VS Code.
-- O autor diz que não consegue se afastar do terminal e sugere que isso pode ser apenas hábito ou apego ao controle.
-- A página termina perguntando se as pessoas ainda usam Git no terminal ou se já migraram para uma ferramenta, e qual seria a favorita.
+- The author still uses the terminal as the default for day-to-day Git tasks.
+- He associates the terminal with more satisfaction and immediate feedback when running commands.
+- Rebasing, cherry-picking, and commit fixing are examples of the tasks in which he prefers the terminal.
+- The text recognizes that there are GUIs and other tools that simplify Git workflows.
+- Among the examples mentioned are GitKraken, SourceTree, and VS Code’s Git integration.
+- The author says he cannot stay away from the terminal and suggests this may just be habit or attachment to control.
+- The page ends by asking whether people still use Git in the terminal or have already migrated to a tool, and what their favorite would be.

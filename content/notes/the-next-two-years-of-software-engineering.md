@@ -22,7 +22,7 @@ Addy Osmani frames five open questions on where AI takes software engineering th
 
 He pairs each question with separate advice tracks for junior and senior developers, and closes on the idea that none of the scenarios are mutually exclusive: some companies will cut junior hiring while others expand it into new domains, and the same developer might spend a morning reviewing AI output and an afternoon on architecture.
 
-## Fichamento
+## Reading notes
 
 - Junior hiring: a Harvard study of 62 million workers found that genAI adoption drops junior developer employment by about 9-10% within six quarters, while senior employment barely moves. Big tech hired 50% fewer fresh graduates over the past three years. The Bureau of Labor Statistics still projects about 15% growth in software jobs from 2024 to 2034.
 - Skills: 84% of developers now use AI assistance regularly. The entry-level skill is shifting from implementing algorithms to prompting and verifying AI output. The counter-scenario has humans handling the hardest 20% (architecture, integrations, edge cases) while AI covers the routine 80%, making deep expertise more valuable, not less.

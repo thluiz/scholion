@@ -3,7 +3,7 @@ title: "The 190 things you need to know to be an AWS Certified Solutions Archite
 date: '2026-09-24T23:40:51+01:00'
 category: webclip
 summary: 'Checklist de tópicos e regras do exame AWS SAA: EC2, S3, VPC, Lambda, RDS, DynamoDB, redes, cache, segurança, resiliência e otimização de custos.'
-tags: ["aws-saa", "ec2", "s3", "vpc"]
+tags: ["aws-saa","ec2","s3","vpc"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,7 +17,7 @@ sources:
 
 I passed the AWS Certified Solutions Architect – Associate certification and want to share the 190 things you need to know for this exam. The page is a compact study list organized by exam domain, covering high performance, cost optimization, security, and resilience across core AWS services and networking patterns.
 
-## Fichamento
+## Reading notes
 
 - EC2 termination deletes the attached EBS root volume by default, unless the delete-on-termination setting is changed.
 - ECS pricing depends on the launch type: EC2 launch type is billed for EC2 instances and EBS volumes, while Fargate is billed for requested vCPU and memory.

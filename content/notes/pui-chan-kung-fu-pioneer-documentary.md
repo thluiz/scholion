@@ -19,7 +19,7 @@ sources:
 
 The documentary follows Pui Chan, a Chinese immigrant, through the kung fu training that the film frames as the vehicle for hard work and perseverance on the way to the American dream. The synopsis credits him as the pioneer who first brought traditional kung fu from China to the United States.
 
-## Fichamento
+## Reading notes
 
 - Directed and produced by Mimi Chan, released in 2012, running 1 hour 25 minutes.
 - Follows Pui Chan's journey as a Chinese immigrant, with kung fu training as the thread connecting hard work to the American dream.

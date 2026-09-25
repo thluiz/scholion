@@ -20,7 +20,7 @@ A businessman named Wei sued a real estate developer, Qin Youhui, in 2013. Qin p
 
 The fifth and cheapest hitman, Ling Xiansi, decided the payout wasn't worth a possible life sentence, so he contacted Wei directly and staged a fake murder. Wei agreed to be photographed bound and gagged at a cafe, then walked straight to the police station. The full chain, five hitmen plus the original businessman who ordered the hit, was jailed last week, with sentences from two years and seven months to five years.
 
-## Fichamento
+## Reading notes
 
 - The chain ran Qin (two million yuan) to Xi Guangan, then Mo Tianxiang, then Yang Kangsheng, then Yang Guangsheng, and finally Ling Xiansi for 100,000 yuan, five percent of what Qin originally paid.
 - Each hitman handed the job down for less money than they'd received, keeping a cut and passing the rest along in the hope someone further down the chain would actually do it.

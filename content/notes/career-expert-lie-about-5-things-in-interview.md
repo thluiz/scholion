@@ -20,7 +20,7 @@ Papalia advises softening honest answers on five specific questions, without inv
 
 Hobbies should sound professional and specific enough to say something about the candidate, rather than an honest "I watch Netflix." A job title or description can be embellished somewhat when the candidate has genuinely been doing more than their formal role covers. Papalia frames this as giving fuller context to a resume that already undersells the work.
 
-## Fichamento
+## Reading notes
 
 - On the five-year question, Papalia's suggested answer is "I see myself here at this organization." Personal plans like grad school or having kids read, in her framing, as a lack of commitment to the job itself.
 - Recruiter Leah Stevens' rule for why you're leaving: never badmouth a previous employer, because it raises questions about the candidate more than about the employer being described.

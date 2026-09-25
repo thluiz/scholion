@@ -3,7 +3,7 @@ title: "Bluesky and Decentralization -- Dustycloud Brainstorms"
 date: '2026-09-25T08:28:25+01:00'
 category: webclip
 summary: 'The post argues that Bluesky uses useful decentralization techniques and credible exit, but is not decentralized or federated under the author’s definitions, and that full self-hosting would create quadratic scaling costs.'
-tags: ["bluesky", "decentralization", "activitypub", "atproto"]
+tags: ["bluesky","decentralization","activitypub","atproto"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,14 +19,14 @@ The post responds to Bryan Newbold’s reply and says the exchange was generally
 
 A central claim is that ATProto’s public shared-heap model does not scale well toward meaningful self-hosting. The author argues that message-passing systems can keep per-node costs flat while a fully decentralized shared-heap system makes each node receive all messages, producing quadratic whole-network costs. The post also contrasts Bluesky’s goals with ActivityPub and Spritely, and says credible exit is valuable but not enough to make the system decentralized.
 
-## Fichamento
+## Reading notes
 
-- O texto responde à réplica de Bryan Newbold e diz que a troca foi respeitosa, mas mantém as críticas técnicas e conceituais ao Bluesky.
-- O autor sustenta que as definições usadas por Bryan e por Mark Nottingham enfraquecem demais “decentralization” e “federation” porque deixam de lado a distribuição de poder.
-- A discussão sobre Paul Baran aparece para mostrar que a definição citada por Bryan vinha de um contexto em que “decentralized” ainda era um tipo de centralização hierárquica.
-- O post afirma que “credible exit” é útil, mas não basta para chamar o sistema de descentralizado.
-- O autor defende que ActivityPub e sistemas de message passing escalam melhor quando a rede cresce e quando mais nós entram no sistema.
-- Para ATProto, ele argumenta que a arquitetura de shared heap com firehose público impõe custos quadráticos quando se tenta levar a descentralização até a participação plena dos usuários.
-- O texto diz que self-hosting real exigiria mudanças fundamentais na arquitetura, aproximando o sistema de algo mais parecido com ActivityPub.
-- Há uma distinção entre os valores e objetivos declarados por Bluesky, ActivityPub e Spritely, com ênfase em controle de dados, agência, colaboração e comunidades saudáveis.
-- O fechamento afirma que o autor não quer seguir em um vai-e-vem infinito e prefere colaborar em soluções que construam o futuro.
+- The text responds to Bryan Newbold’s reply and says that the exchange was respectful, but maintains the technical and conceptual criticisms of Bluesky.
+- The author maintains that the definitions used by Bryan and by Mark Nottingham weaken “decentralization” and “federation” too much because they leave out the distribution of power.
+- The discussion of Paul Baran appears to show that the definition Bryan cited came from a context in which “decentralized” was still a type of hierarchical centralization.
+- The post states that “credible exit” is useful, but not enough to call the system decentralized.
+- The author argues that ActivityPub and message passing systems scale better when the network grows and when more nodes enter the system.
+- For ATProto, he argues that the shared heap architecture with a public firehose imposes quadratic costs when one tries to take decentralization all the way to full user participation.
+- The text says that real self-hosting would require fundamental changes to the architecture, bringing the system closer to something more like ActivityPub.
+- There is a distinction between the values and stated goals of Bluesky, ActivityPub, and Spritely, with emphasis on data control, agency, collaboration, and healthy communities.
+- The closing states that the author does not want to continue an endless back-and-forth and prefers to collaborate on solutions that build the future.

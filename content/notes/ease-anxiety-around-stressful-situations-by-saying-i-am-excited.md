@@ -19,7 +19,7 @@ sources:
 
 Saying "I am excited" out loud, instead of trying to calm down, is the piece's suggestion for stressful situations like public speaking or karaoke.
 
-## Fichamento
+## Reading notes
 
 - Anxiety doesn't go away on its own. Relabeling it as excitement changes the mindset without needing to eliminate the feeling.
 - Harvard Business School's Alison Wood Brooks, cited from an Atlantic video, points to anxiety and excitement as the same arousal state of emotion.

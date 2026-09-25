@@ -18,7 +18,7 @@ The page describes how the Ranger community’s approach to backlog management c
 
 The backlog model that emerged uses one Epic per product to define the minimum viable product, sponsor, and the what, when, and why at program level. Each Epic is split into one to three Features for a release, with the product owner remaining responsible for Epics and Features on the product backlog, while teams own the rest of the backlog. Teams then handle Features in their own way, often breaking them into PBIs and sometimes Tasks, with many using the Kanban board to collaborate, track progress, capture child work items, and maintain TODO lists. The page argues that the main factor behind this working model is trust between program leadership and teams, together with keeping the system simple so attention stays on delivering value to users.
 
-## Fichamento
+## Reading notes
 
 - The Ranger community presents backlog and to-do list management as part of a broader series on how the community evolved.
 - The group originally used Microsoft Solutions Framework because it provided principles, governance, checkpoints, and an iterative process suited to longer roadmaps.

@@ -2,8 +2,8 @@
 title: "Futurists have their heads in the clouds"
 date: '2026-09-25T08:38:27+01:00'
 category: webclip
-summary: 'O texto critica futuristas por apostarem em cenários sci-fi pouco plausíveis e defende previsões por extrapolação de tendências já visíveis. Em seguida, lista mudanças prováveis até 2050 em tecnologia, sociedade, família e política.'
-tags: ["futuro", "previsoes", "tecnologia", "sociedade"]
+summary: 'The text criticizes futurists for betting on implausible sci-fi scenarios and argues for predictions based on extrapolating already visible trends. It then lists likely changes by 2050 in technology, society, family, and politics.'
+tags: ["future","predictions","technology","society"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -15,29 +15,29 @@ sources:
     kind: repo
 ---
 
-O texto argumenta que futuristas erram quando imaginam tecnologias inéditas e subestimam continuidades do presente. A proposta é prever 2050 pela extrapolação de tendências já em curso, especialmente nos EUA e no mundo rico globalizado.
+The text argues that futurists are wrong when they imagine new technologies and underestimate continuities of the present. The proposal is to predict 2050 by extrapolating trends already underway, especially in the US and the globalized rich world.
 
-## Fichamento
+## Reading notes
 
-- Futuristas tendem a parecer escritores de ficção científica sem enredo, porque se fixam em possibilidades tecnológicas e metáforas associadas.
-- Para prever melhor, é preciso ser incrementalista e assumir que a natureza humana muda pouco na maior parte dos eixos.
-- O que mais importa no futuro costuma ser a continuação de tendências já nascentes, não invenções totalmente novas.
-- Em 2050, haverá uma colônia marciana civil, com cidade em crescimento e participação de empresas privadas, NASA e outros programas nacionais.
-- A vida econômica será fortemente mercantilizada, com atenção, tempo e tokens entrando em mercados voláteis e gerando ganhos extremos.
-- A IA corporativa será a mudança futurista mais presente no cotidiano, ajudando com agenda, escrita e apresentações, ao mesmo tempo em que ameaça trabalhadores de escritório e artistas.
-- O supersensorium de entretenimento continuará a crescer, com realidade virtual ganhando espaço e aumentando a exposição contínua a estímulos.
-- A sociedade terá menos lojas físicas e mais entregas rápidas por aplicativo, drone ou pequeno robô.
-- A maior parte da educação acontecerá online, com tutores privados, MOOCs e centros de prova substituindo boa parte da experiência universitária tradicional.
-- A engenharia genética de embriões para evitar doenças será comum, mas sem melhorar de modo significativo inteligência, atlética ou atratividade.
-- Tecnologias de anti-idade vão ampliar a saúde dos ricos e tornar mais visível a diferença entre quem tem mais e quem tem menos recursos.
-- O padrão de vida continuará subindo, com casas inteligentes, carros elétricos, óculos de realidade aumentada e uma estética mais integrada e discreta.
-- Famílias terão menos peso social, com alta presença de lares monoparentais e maior intervenção do Estado em cuidados e renda básica.
-- Mulheres terão domínio crescente na economia e na sociedade, com mais diplomas, mais renda em áreas urbanas e maior presença institucional.
-- O throuple e outras formas de poliamoria ganharão mais aceitação pública e possivelmente legalização nacional.
-- A população não branca será maioria nos Estados Unidos, enquanto minorias seguirão se destacando em universidades, empresas e áreas criativas.
-- Guerras entre grandes potências seguirão raras, com continuidade da paz nuclear e sem uma Terceira Guerra Mundial.
-- Ao mesmo tempo, redes sociais intensificarão guerras culturais internas, linchamentos públicos e instabilidade social.
-- O Ocidente ficará mais parecido com a China, com maior controle de discurso, censura e policiamento de ideias em parceria entre governos e grandes plataformas.
-- Cultura e comportamento ficarão mais cautelosos e menos arriscados, com menos sexo, drogas, affairs e criatividade.
-- O período 2000-2020 é visto como fraco em comparação com 1950-1970 em arte, música, literatura, cinema e descobertas científicas.
-- O autor encerra com uma reflexão pessoal sobre envelhecer até 2050, ver o fechamento da livraria da família e imaginar a colônia em Marte como consolo.
+- Futurists tend to seem like science fiction writers without a plot, because they focus on technological possibilities and associated metaphors.
+- To predict better, it is necessary to be incrementalist and assume that human nature changes little on most axes.
+- What matters most in the future is usually the continuation of trends already emerging, not entirely new inventions.
+- In 2050, there will be a civilian Martian colony, with a growing city and participation by private companies, NASA, and other national programs.
+- Economic life will be strongly commodified, with attention, time, and tokens entering volatile markets and generating extreme gains.
+- Corporate AI will be the futuristic change most present in daily life, helping with scheduling, writing, and presentations, while also threatening office workers and artists.
+- The entertainment supersensorium will continue to grow, with virtual reality gaining space and increasing continuous exposure to stimuli.
+- Society will have fewer physical stores and more fast deliveries by app, drone, or small robot.
+- Most education will take place online, with private tutors, MOOCs, and testing centers replacing much of the traditional university experience.
+- Genetic engineering of embryos to avoid diseases will be common, but without significantly improving intelligence, athletics, or attractiveness.
+- Anti-aging technologies will expand the health of the rich and make more visible the difference between those who have more and those who have fewer resources.
+- The standard of living will continue rising, with smart homes, electric cars, augmented reality glasses, and a more integrated and discreet aesthetic.
+- Families will have less social weight, with a high presence of single-parent households and greater state intervention in care and basic income.
+- Women will have growing dominance in the economy and society, with more degrees, more income in urban areas, and greater institutional presence.
+- Throuple and other forms of polyamory will gain more public acceptance and possibly national legalization.
+- The nonwhite population will be the majority in the United States, while minorities will continue to stand out in universities, companies, and creative areas.
+- Wars between great powers will remain rare, with the continuity of nuclear peace and no Third World War.
+- At the same time, social networks will intensify internal culture wars, public lynchings, and social instability.
+- The West will become more like China, with greater control of speech, censorship, and policing of ideas in partnership between governments and large platforms.
+- Culture and behavior will become more cautious and less risky, with less sex, drugs, affairs, and creativity.
+- The 2000-2020 period is seen as weak compared with 1950-1970 in art, music, literature, cinema, and scientific discoveries.
+- The author ends with a personal reflection on aging until 2050, seeing the family bookstore close, and imagining the colony on Mars as consolation.

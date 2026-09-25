@@ -19,7 +19,7 @@ sources:
 
 Taylor, of powerpainters.org, argues that most of what blocks artists isn't skill but the mental state they bring into the session: self-doubt, an inner critic, low energy. His five points are habits to shift that state before and during the work, not drawing techniques.
 
-## Fichamento
+## Reading notes
 
 - Before starting, breathe slowly and let tension release from jaw, chest, neck; the point is entering the session relaxed enough to access more of one's creative range.
 - Take a break every 25-35 minutes and step back to look at the piece from a distance, since viewers will often meet the work as a thumbnail before they see it in detail.

@@ -17,7 +17,7 @@ sources:
 
 The page presents 16 data structures and algorithms patterns as a way to solve problems efficiently. It groups them with use cases and short Java examples, covering arrays, strings, linked lists, trees, heaps, dynamic programming, and graph traversal.
 
-## Fichamento
+## Reading notes
 
 - Sliding window is used to track a subset of data that shifts over time, with maximum subarray sum as the example.
 - Two pointers move from different ends of an array to find pairs, such as two numbers that sum to a target.

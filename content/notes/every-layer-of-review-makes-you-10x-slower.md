@@ -22,7 +22,7 @@ Avery Pennarun (CEO of Tailscale) opens with a rule of thumb he can't find a the
 
 He works through why simply skipping review isn't the answer either, using W. E. Deming's critique of stacked QA passes in manufacturing. Adding more inspection stages looks like it should multiply quality (two 90%-effective QA passes should catch 99% of defects), but in practice each team downstream relies on the one before it to catch mistakes, so nobody upstream works as carefully as they would without a safety net. His prescription borrows Deming's actual fix, the one that worked at Toyota and didn't transfer cleanly to the US auto industry: trust. Build small teams that own quality end-to-end, replace review layers with an actual culture where anyone can "stop the line," and only then remove the review stages, because removing reviews without replacing the trust structure just produces slop faster.
 
-## Fichamento
+## Reading notes
 
 - Central claim, stated as a rule of thumb with no theory behind it but consistent empirical support: each layer of approval in a process multiplies its wall-clock duration roughly 10x (30 min → half a day with peer review → a week with architecture approval → a quarter with cross-team scheduling → years at the executive level).
 - His argument for why AI coding speed doesn't solve this: making code generation faster (Claude writes in 3 minutes what took 30) doesn't remove the review bottleneck, it just produces more code for the same slow review pipeline to choke on, whether that means a human re-reviewing unverified AI output or a "monstrosity" project needing to be sliced into review-sized chunks anyway.

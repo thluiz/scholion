@@ -18,7 +18,7 @@ Lucian Radu Teodorescu names a pattern he's used across multiple codebases but n
 
 The design gives every consumer a consistent snapshot without ever blocking on the producer's work, at the cost of memory: multiple versions of the document can be alive at once, and each publish still costs a copy and an allocation. Teodorescu frames it as a relative of double-buffering and of read-copy-update (RCU), then extends it to handle multiple producers (optimistic retry against the last-seen version) and to cheapen the copy for large documents (persistent data structures, or sharing unchanged subparts via nested shared pointers).
 
-## Fichamento
+## Reading notes
 
 - Requirements driving the pattern: producer constantly produces, consumer constantly consumes, consumer always uses the latest version, and consuming must never be delayed by a slow produce.
 - The `published<T>` template holds a `std::shared_ptr<const T>` guarded by a small mutex, with just two operations: `publish()` (swap in a new version) and `get()` (return a copy of the current pointer).

@@ -2,8 +2,8 @@
 title: "Networking is easy, fun, and probably not what you think it is."
 date: '2026-09-25T00:55:40+01:00'
 category: webclip
-summary: 'A página defende que networking não se resume a eventos de tecnologia; ele acontece sobretudo nas conexões humanas do dia a dia, e costuma render oportunidades quando há curiosidade, gentileza e abertura.'
-tags: ["networking", "carreira", "relacoes-humanas", "introversao"]
+summary: 'The page argues that networking is not limited to tech events; it happens mainly through everyday human connections, and tends to create opportunities when there is curiosity, kindness, and openness.'
+tags: ["networking","career","human-relations","introversion"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,7 +19,7 @@ Networking, according to the page, is not mainly about meet-ups, pizza, or Linke
 
 The author illustrates this with two stories that led to a dream job, then adds a privilege note and a final point for introverts: social contact can be tiring, but it is a skill that can be trained.
 
-## Fichamento
+## Reading notes
 
 - Networking is described as extremely important for a career, but the page argues that its common image as a tech-event ritual is too narrow.
 - The author says opportunities usually arise organically from living life, not from forcing a specific networking format.

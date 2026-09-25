@@ -3,7 +3,7 @@ title: "How to Set the Technical Direction for Your Team"
 date: '2026-09-25T00:16:48+01:00'
 category: webclip
 summary: 'The post argues that teams need both a long-term technical vision and short-term milestones. It ties that balance to Amazon’s Think Big and Bias for Action principles.'
-tags: ["technical-direction", "software-leadership", "amazon-leadership-principles"]
+tags: ["technical-direction","software-leadership","amazon-leadership-principles"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,20 +19,20 @@ The post says productive teams need a shared understanding of the team’s techn
 
 For the long-term vision, the post recommends staying abstract, using diagrams to clarify components and boundaries, and avoiding specific technologies or excessive detail. For short-term planning, it recommends concrete milestones that can be reached in about 3 to 6 months, chosen for impact and aligned with the long-term direction so the team can get feedback, adjust course, and avoid overplanning.
 
-## Fichamento
+## Reading notes
 
-- Uma equipe fica mais produtiva quando todos entendem a direção técnica e como o trabalho atual contribui para ela.
-- O papel de um sênior inclui ajudar o time a definir uma direção técnica clara e um plano para chegar lá.
-- A direção técnica é ligada a dois princípios da Amazon: Think Big e Bias for Action.
-- Think Big sustenta a visão de longo prazo; Bias for Action sustenta avanços rápidos e evita analysis paralysis.
-- A visão de longo prazo precisa ser clara, estável e abstrata o bastante para abrir espaço para caminhos criativos.
-- Diagramas de arquitetura ajudam a mostrar componentes e relações com mais clareza.
-- A visão não deve tentar resolver tudo em um único desenho nem chegar ao nível de classes.
-- O texto recomenda manter a visão genérica, sem escolher tecnologias específicas, e definir bem fronteiras e responsabilidades.
-- A visão de curto prazo deve sair do mundo ideal e virar um plano incremental para lançar algo real rápido.
-- Milestones de curto prazo devem caber em cerca de 3 a 6 meses e, de preferência, falar com clientes.
-- Esses passos precisam ser concretos, com tecnologias específicas e justificativa para as escolhas.
-- O texto usa a matriz impacto versus esforço para orientar a busca por tarefas de baixo esforço e impacto médio-alto que apontem para a visão de longo prazo.
-- O texto alerta contra planos detalhados de vários anos, porque eles sobrecarregam a equipe e desmotivam.
-- Avançar com ganhos rápidos cria impulso e confiança, e o que já foi aprendido pode tornar novos milestones mais viáveis.
-- O modelo é descrito como adaptativo e descentralizado, o que fortalece as equipes.
+- A team becomes more productive when everyone understands the technical direction and how the current work contributes to it.
+- A senior's role includes helping the team define a clear technical direction and a plan to get there.
+- The technical direction is linked to two Amazon principles: Think Big and Bias for Action.
+- Think Big supports the long-term vision; Bias for Action supports rapid progress and avoids analysis paralysis.
+- The long-term vision needs to be clear, stable, and abstract enough to leave room for creative paths.
+- Architecture diagrams help show components and relationships more clearly.
+- The vision should not try to solve everything in a single drawing nor reach the class level.
+- The text recommends keeping the vision generic, without choosing specific technologies, and clearly defining boundaries and responsibilities.
+- The short-term vision should leave the ideal world and become an incremental plan to launch something real quickly.
+- Short-term milestones should fit within about 3 to 6 months and, preferably, involve talking to customers.
+- These steps need to be concrete, with specific technologies and justification for the choices.
+- The text uses the impact versus effort matrix to guide the search for low-effort and medium-high-impact tasks that point toward the long-term vision.
+- The text warns against detailed multi-year plans, because they overload and demotivate the team.
+- Moving forward with quick wins creates momentum and confidence, and what has already been learned can make new milestones more feasible.
+- The model is described as adaptive and decentralized, which strengthens teams.

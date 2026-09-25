@@ -22,7 +22,7 @@ The page foregrounds a run of startups Brajeshwar Oinam founded or co-founded, w
 
 In 1999, he had no computer of his own, so he finished the graphic editing test for that first job at an internet café near the Mumbai University hostel where he was staying, an hour before the interview.
 
-## Fichamento
+## Reading notes
 
 - Oinam Software (founded 2005) took on client work for Adobe, Disney, Macromedia and Tata Consultancy Services, and describes itself as a ghost developer for other contractors' successful projects.
 - Mixercast acquired the Oinam Software team in 2006. The company was dissolved in 2009 after selling its IP to Google.

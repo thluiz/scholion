@@ -19,7 +19,7 @@ Watercolor painting is a painting method that uses pigments suspended in a water
 
 The page traces watercolor from early traditions in Europe and East Asia to its later development in England, the United States, and other regions. It also describes the medium’s materials, commercial forms, conservation concerns, and techniques such as washes, wet-on-wet, glazing, dry brush, lifting, and masking.
 
-## Fichamento
+## Reading notes
 
 - Watercolor is a painting method made with pigments suspended in a water-based solution, and the word names both the medium and the finished artwork.
 - Paper is the usual support, though other materials are listed, and watercolor paper is often cotton-based to improve texture and reduce distortion when wet.

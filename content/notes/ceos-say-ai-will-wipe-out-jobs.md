@@ -20,7 +20,7 @@ Ford CEO Jim Farley told Walter Isaacson at the Aspen Ideas Festival that AI "is
 
 Not every executive agrees on the scale. OpenAI COO Brad Lightcap told the "Hard Fork" podcast he sees no evidence yet of wholesale entry-level replacement, though he still expects displacement and labor-market shifts. IBM's Arvind Krishna offered a concrete accounting either way: AI replaced the work of a couple hundred HR employees, but the company hired more programmers and salespeople in the same period, a pattern AT&T's CFO Pascal Desroches says is genuinely unclear at the aggregate level, even as some companies, Shopify among them, are freezing hiring unless a manager can prove AI can't do the job.
 
-## Fichamento
+## Reading notes
 
 - Ford CEO Jim Farley's claim, AI replacing "literally half of all white-collar workers," came in a public interview with Walter Isaacson, which the article frames as new for an executive outside Silicon Valley.
 - JPMorgan's Marianne Lake told investors in May she expects the bank's consumer operations head count to fall 10% as AI tools take hold.

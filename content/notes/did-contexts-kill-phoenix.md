@@ -21,7 +21,7 @@ Phoenix rates as one of the most admired web frameworks in the Stack Overflow de
 
 Contexts follow domain-driven design in theory: expose to the web layer only the functions a business domain actually needs. In practice, naming a context forces beginners to commit to a domain boundary before they know what the app even needs, and the author has watched contexts fill up with thin wrapper functions around `Repo` calls, adding indirection without much architectural payoff on small projects.
 
-## Fichamento
+## Reading notes
 
 - Nothing technically forces contexts; a controller can call `Repo` directly, but the docs imply everything should route through one.
 - The author has taught thousands of Phoenix beginners and reports contexts as a consistent, recurring source of confusion.

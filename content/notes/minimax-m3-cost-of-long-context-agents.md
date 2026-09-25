@@ -18,7 +18,7 @@ Elvis (omarsar0) argues that MiniMax M3 is now the real destination for long-hor
 
 With MSA holding the attention budget fixed at 16 blocks per query regardless of context length, an agent's per-step cost stops climbing as it accumulates hours of code, logs, and tool output on a single task.
 
-## Fichamento
+## Reading notes
 
 - Despite GLM 5.2 dominating the AI conversation, MiniMax M3 leads it in real Open Router token usage by more than 50%. It delivers comparable long-horizon capability at a fraction of the cost.
 - The real bottleneck for long-horizon agents is the cost of attention over a growing context. Cost scales with the square of context length under standard dense attention, so every additional hour of agent work gets more expensive.

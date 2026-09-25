@@ -22,7 +22,7 @@ Tomas Trajan, a Google Developer Expert for Angular, argues that architecture kn
 
 The mistakes cluster around two failures: not enforcing boundaries between lazy features, or between lazy features and the eager core, and not using available tooling to catch violations before they compound. Trajan pairs each mistake with a concrete fix, from picking one routing style to scoping services to specific lazy routes.
 
-## Fichamento
+## Reading notes
 
 - Skipping architecture planning entirely produces a tangled dependency graph, visualized as an "overconnected ball of mud" with circular imports, that turns "move fast and break things" into "change one thing, break everything."
 - Not separating eager (core) from lazy (feature) code lets a single import, such as a core service reaching into a feature service, pull that feature and everything it imports into the eager bundle, hurting both performance and architecture.

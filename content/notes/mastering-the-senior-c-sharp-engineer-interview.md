@@ -3,7 +3,7 @@ title: "Mastering the Senior C# Engineer Interview"
 date: '2026-09-25T00:08:50+01:00'
 category: webclip
 summary: 'A page with 30 senior-level C# interview questions and answers for financial systems, covering retries, deadlocks, concurrency, security, distributed systems, logging, and scaling.'
-tags: ["c-sharp", "senior-interview", "distributed-systems", "financial-systems"]
+tags: ["c-sharp","senior-interview","distributed-systems","financial-systems"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,38 +17,38 @@ sources:
 
 This page gathers more than 30 senior-level interview questions for a C# engineer, framed around financial systems and real-world scenarios. It focuses on transaction handling, distributed systems, performance, security, system design, and production concerns.
 
-## Fichamento
+## Reading notes
 
-- Propõe avaliar experiência prática com cenários reais de engenharia C# sênior.
-- Reúne perguntas e respostas sobre falhas de transação, deadlocks, concorrência, segurança, logging, APIs e design de sistemas.
-- Para falhas de transação, recomenda retry com idempotência, política de retry com Polly, fila de jobs em background e rastreamento em banco.
-- Para deadlocks em transações SQL, sugere ordem consistente das operações, redução do escopo de lock e retry em caso de deadlock.
-- Para concorrência de alto volume, o texto trata do problema em contexto de transações e pagamentos.
-- Para evitar double-spending em transações distribuídas, o texto inclui uma seção dedicada ao tema.
-- Para consultas em tempo real, recomenda indexação de banco e paginação em consultas grandes.
-- Para requisições de API e autenticação, há uma seção específica sobre segurança de chamadas e autenticação.
-- Para processos longos em .NET, o texto apresenta uma abordagem própria para esse tipo de tarefa.
-- Para race conditions em ambiente multithread, recomenda transações de banco com locks por linha.
-- Para logging e monitoramento em produção, há uma seção voltada a esse tema.
-- Para falhas de API em arquitetura de microsserviços, o texto dedica uma questão específica.
-- Para concorrência em sistema bancário, há uma questão focada em gerenciamento desse cenário.
-- Para abuso de rate limit, o texto trata de prevenção de uso excessivo da API.
-- Para consistência de dados entre microsserviços, há uma seção específica.
-- Para armazenamento seguro de dados sensíveis de usuário, o texto propõe uma abordagem dedicada.
-- Para detecção de fraude em tempo real, o texto inclui uma questão sobre esse sistema.
-- Para vazamentos de memória em serviços longos, há uma questão específica.
-- Para logging escalável, o texto propõe uma solução voltada a esse objetivo.
-- Para fusos horários em sistema financeiro global, o texto aborda o tema diretamente.
-- Para escalar uma API .NET para milhões de requisições, há uma questão dedicada.
-- Para otimizar SQL em processamento de grandes volumes, o texto traz outra seção específica.
-- Para relatórios grandes em sistema financeiro, há uma pergunta voltada a esse caso.
-- Para consistência eventual em sistemas distribuídos, o texto inclui uma questão separada.
-- Para circuit breakers em microsserviços, há uma seção própria.
-- Para prevenir transações não autorizadas, o texto trata de controle de acesso e segurança.
-- Para cache em dados bancários em tempo real, o texto apresenta uma questão específica.
-- Para armazenamento seguro de chaves de API, há uma seção dedicada.
-- Para WebSockets e SignalR em atualizações em tempo real, o texto compara esses caminhos.
-- Para transferências massivas de fundos, há uma questão sobre eficiência nesse fluxo.
-- Para RBAC em um aplicativo bancário, o texto inclui uma seção específica.
-- Para uma arquitetura orientada a eventos em notificações bancárias, o texto traz uma questão própria.
-- Para CQRS em aplicativo financeiro, há uma seção sobre modelos separados de leitura e escrita.
+- It proposes assessing practical experience with real C# senior engineering scenarios.
+- It brings together questions and answers about transaction failures, deadlocks, concurrency, security, logging, APIs, and system design.
+- For transaction failures, it recommends retry with idempotency, a retry policy with Polly, a background job queue, and database tracing.
+- For deadlocks in SQL transactions, it suggests a consistent order of operations, reducing the lock scope, and retrying in case of deadlock.
+- For high-volume concurrency, the text addresses the problem in the context of transactions and payments.
+- To avoid double-spending in distributed transactions, the text includes a dedicated section on the topic.
+- For real-time queries, it recommends database indexing and pagination in large queries.
+- For API requests and authentication, there is a specific section on call security and authentication.
+- For long-running processes in .NET, the text presents its own approach for this type of task.
+- For race conditions in a multithreaded environment, it recommends database transactions with row-level locks.
+- For logging and monitoring in production, there is a section focused on this topic.
+- For API failures in a microservices architecture, the text dedicates a specific question.
+- For concurrency in a banking system, there is a question focused on managing this scenario.
+- For rate limit abuse, the text addresses preventing excessive API use.
+- For data consistency between microservices, there is a specific section.
+- For securely storing sensitive user data, the text proposes a dedicated approach.
+- For real-time fraud detection, the text includes a question about this system.
+- For memory leaks in long-running services, there is a specific question.
+- For scalable logging, the text proposes a solution aimed at this goal.
+- For time zones in a global financial system, the text addresses the topic directly.
+- For scaling a .NET API to millions of requests, there is a dedicated question.
+- For optimizing SQL in large-volume processing, the text brings another specific section.
+- For large reports in a financial system, there is a question focused on this case.
+- For eventual consistency in distributed systems, the text includes a separate question.
+- For circuit breakers in microservices, there is a dedicated section.
+- To prevent unauthorized transactions, the text addresses access control and security.
+- For caching real-time banking data, the text presents a specific question.
+- For securely storing API keys, there is a dedicated section.
+- For WebSockets and SignalR in real-time updates, the text compares these paths.
+- For massive fund transfers, there is a question about efficiency in this flow.
+- For RBAC in a banking application, the text includes a specific section.
+- For an event-driven architecture in banking notifications, the text brings its own question.
+- For CQRS in a financial application, there is a section about separate read and write models.

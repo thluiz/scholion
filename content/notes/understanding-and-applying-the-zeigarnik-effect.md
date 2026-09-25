@@ -22,7 +22,7 @@ Bart Krawczyk walks through the Zeigarnik effect: people remember unfinished tas
 
 The piece covers progress bars, checklists, and loyalty cards as ways product teams already trigger the effect, and warns that piling on too many open tasks at once can overwhelm users instead of pulling them toward completion.
 
-## Fichamento
+## Reading notes
 
 - Progress indicators are the most direct application: a progress bar or step counter raises completion odds both within a single lesson (Duolingo) and across a whole course or checkout flow.
 - Checklists left after signup work the same way. LinkedIn's profile-completion reminder is the example cited: users keep coming back to clear the list even though ignoring it costs nothing concrete.

@@ -2,8 +2,8 @@
 title: "Goodbye Power BI! 📊 In 2025 Build AI/ML Dashboards Entirely Within Python 🤖"
 date: '2026-09-25T01:10:28+01:00'
 category: webclip
-summary: 'O texto defende o Taipy como alternativa ao Power BI e ao Tableau para dashboards de IA/ML, por manter o trabalho em Python e integrar bibliotecas e fluxos de machine learning.'
-tags: ["taipy", "python", "dashboards", "machine-learning"]
+summary: 'The text argues that Taipy is an alternative to Power BI and Tableau for AI/ML dashboards because it keeps work in Python and integrates machine learning libraries and workflows.'
+tags: ["taipy","python","dashboards","machine-learning"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,18 +17,18 @@ sources:
 
 The page argues that business intelligence tools like Power BI and Tableau can be awkward for AI/ML work because they rely on proprietary languages, limited Python integration, and separated workflows. It presents Taipy and Taipy Designer as an open-source, Python-native way to build dashboards and applications without leaving the Python ecosystem.
 
-## Fichamento
+## Reading notes
 
-- Aponta que a adoção de decisões orientadas por dados levou empresas a buscar ferramentas para dashboards e aplicações dinâmicas.
-- Diz que soluções como Power BI exigem aprender linguagens proprietárias, como DAX e PowerQuery.
-- Sugere ficar inteiramente em Python, a linguagem já usada em data science e machine learning, para evitar essa fricção.
-- Apresenta Taipy Designer e Taipy como uma solução open-source para criar dashboards e aplicações sem sair do ecossistema Python.
-- Afirma que o Taipy é gratuito para uso e customização, e que isso o torna uma alternativa econômica a ferramentas proprietárias.
-- Descreve o Taipy Designer como um construtor no-code de interface gráfica pensado especificamente para usuários de Python.
-- Indica que a ferramenta se integra ao Taipy Enterprise Suite e permite criar aplicações interativas orientadas por IA.
-- Menciona que ela serve tanto para visualizar modelos de machine learning quanto para análises de IA em tempo real.
-- Lista como benefícios para equipes de negócios a interface de arrastar e soltar, a entrega mais rápida de aplicações e a integração com bibliotecas Python.
-- Lista como benefícios para cientistas de dados e praticantes de IA a visualização e operacionalização de modelos, a experimentação rápida e a integração com TensorFlow, PyTorch e Scikit-learn.
-- Registra depoimentos sobre impacto em empresas e cita Gilles Corde, da IFP Energies Nouvelles, como alguém que destacou mudanças nos fluxos de trabalho.
-- Explica que o ecossistema Taipy vai além de visualização, permitindo orquestrar fluxos de dados e criar interfaces avançadas.
-- Informa que a plataforma também se integra com Databricks, Snowflake, IBM WatsonX e Amazon SageMaker.
+- Points out that the adoption of data-driven decisions led companies to seek tools for dashboards and dynamic applications.
+- Says that solutions like Power BI require learning proprietary languages, such as DAX and PowerQuery.
+- Suggests staying entirely in Python, the language already used in data science and machine learning, to avoid that friction.
+- Presents Taipy Designer and Taipy as an open-source solution to create dashboards and applications without leaving the Python ecosystem.
+- States that Taipy is free for use and customization, and that this makes it a cost-effective alternative to proprietary tools.
+- Describes Taipy Designer as a no-code graphical interface builder designed specifically for Python users.
+- Indicates that the tool integrates with the Taipy Enterprise Suite and allows the creation of interactive AI-driven applications.
+- Mentions that it serves both to visualize machine learning models and for real-time AI analyses.
+- Lists as benefits for business teams the drag-and-drop interface, faster delivery of applications, and integration with Python libraries.
+- Lists as benefits for data scientists and AI practitioners the visualization and operationalization of models, rapid experimentation, and integration with TensorFlow, PyTorch, and Scikit-learn.
+- Records testimonials about impact in companies and cites Gilles Corde, from IFP Energies Nouvelles, as someone who highlighted changes in workflows.
+- Explains that the Taipy ecosystem goes beyond visualization, allowing the orchestration of data flows and the creation of advanced interfaces.
+- Informs that the platform also integrates with Databricks, Snowflake, IBM WatsonX, and Amazon SageMaker.

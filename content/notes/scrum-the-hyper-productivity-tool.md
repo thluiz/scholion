@@ -2,8 +2,8 @@
 title: "Scrum - the Hyper Productivity Tool?"
 date: '2026-09-24T20:32:21+01:00'
 category: webclip
-summary: 'O texto descreve Scrum como um método ágil de gestão de projetos, usado para aumentar a produtividade de equipes e aplicável também a outros contextos de trabalho em grupo.'
-tags: ["scrum", "gestao-de-projetos", "metodo-agil"]
+summary: 'The text describes Scrum as an agile project management method, used to increase team productivity and also applicable to other group work contexts.'
+tags: ["scrum","project-management","agile-method"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,15 +17,15 @@ sources:
 
 Scrum is presented as an agile method for project management that has been described as a “hyper-productivity tool.” The text says it can dramatically improve productivity in teams that were previously slowed by heavier methodologies, and that it may also be applied to other group settings with a common goal.
 
-## Fichamento
+## Reading notes
 
-- Scrum é apresentado como um método ágil de gestão de projetos.
-- O texto afirma que ele já foi descrito como uma “hyper-productivity tool”.
-- Segundo o texto, Scrum pode melhorar de forma acentuada a produtividade de equipes travadas por metodologias mais pesadas.
-- O texto diz que Scrum foi documentado pela primeira vez por Takeuchi e Nonaka em “The New New Product Development Game”, na Harvard Business Review, em jan.-fev. de 1986.
-- O uso previsto é a gestão de projetos de desenvolvimento de software.
-- O texto afirma que Scrum foi usado com sucesso para “wrap” Extreme Programming e outras metodologias de desenvolvimento.
-- O texto também diz que, em teoria, Scrum pode ser aplicado a qualquer contexto em que um grupo precise trabalhar junto para alcançar um objetivo comum, como montar uma escola pequena, fazer pesquisa científica ou planejar um casamento.
-- O autor diz que pensa em começar de modo simples com uma mensagem de scrum para cada equipe de módulo ou projeto.
-- O modelo proposto reúne tópicos como completed, in progress, tomorrow’s plan e the week ahead.
-- O texto traz um rascunho de e-mail com seções de completed, in progress, tomorrow e week ahead.
+- Scrum is presented as an agile method for project management.
+- The text states that it has already been described as a “hyper-productivity tool”.
+- According to the text, Scrum can sharply improve the productivity of teams slowed down by heavier methodologies.
+- The text says Scrum was first documented by Takeuchi and Nonaka in “The New New Product Development Game”, in the Harvard Business Review, in Jan.-Feb. 1986.
+- The intended use is the management of software development projects.
+- The text states that Scrum was successfully used to “wrap” Extreme Programming and other development methodologies.
+- The text also says that, in theory, Scrum can be applied to any context in which a group needs to work together to achieve a common goal, such as building a small school, doing scientific research, or planning a wedding.
+- The author says they think of starting simply with a scrum message for each module or project team.
+- The proposed model brings together topics such as completed, in progress, tomorrow’s plan and the week ahead.
+- The text includes an email draft with sections for completed, in progress, tomorrow and week ahead.

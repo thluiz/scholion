@@ -22,7 +22,7 @@ In Visual Studio 2026, GitHub Copilot app modernization runs an upgrade or Azure
 
 Human approval happens at plan.md: only after that file is reviewed does the agent apply any change. If it hits an error it can't resolve, it stops and asks for input instead of guessing.
 
-## Fichamento
+## Reading notes
 
 - Two entry points start a session: right-click the project in Solution Explorer and choose Modernize, or type `@modernize` in Copilot Chat.
 - The assessment stage lists outdated NuGet packages with recommended target versions, project count and upgrade complexity, and an API analysis of potential breaking changes, before anything is touched.

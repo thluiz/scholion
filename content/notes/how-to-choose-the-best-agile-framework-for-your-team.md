@@ -2,8 +2,8 @@
 title: "How To Choose The Best Agile Framework For Your Team"
 date: '2026-09-25T08:50:29+01:00'
 category: webclip
-summary: 'O texto compara Scrum, Kanban, Scrumban, XP e FDD, destacando como cada framework organiza trabalho, colaboração e entrega. Também mostra como o Assembla apoia planejamento, rastreamento e release.'
-tags: ["agile", "scrum", "kanban", "feature-driven-development"]
+summary: 'The text compares Scrum, Kanban, Scrumban, XP and FDD, highlighting how each framework organizes work, collaboration and delivery. It also shows how Assembla supports planning, tracking and release.'
+tags: ["agile","scrum","kanban","feature-driven-development"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -15,16 +15,17 @@ sources:
     kind: repo
 ---
 
-O texto apresenta os principais frameworks Agile e descreve como cada um organiza o trabalho do time. Scrum usa sprints curtos, Kanban controla o fluxo e o trabalho em andamento, Scrumban mistura os dois, XP depende de comunicação presencial e pair programming, e FDD divide projetos em histórias e features menores.
+## Reading notes
+The text presents the main Agile frameworks and describes how each one organizes the team’s work. Scrum uses short sprints, Kanban controls flow and work in progress, Scrumban mixes the two, XP depends on face-to-face communication and pair programming, and FDD divides projects into smaller stories and features.
 
-Também diz que a escolha depende do tamanho do time, do nível de colaboração presencial e da estrutura da empresa. No fim, a página afirma que o Assembla oferece ferramentas para planejar, acompanhar, desenvolver, testar e lançar features, com cardwalls, task boards, tickets de bugs e integração com repositórios.
+It also says that the choice depends on team size, the level of face-to-face collaboration, and the company’s structure. In the end, the page states that Assembla offers tools to plan, track, develop, test and launch features, with cardwalls, task boards, bug tickets and integration with repositories.
 
-## Fichamento
-- Agile surgiu com o Manifesto Agile em 2001, com foco em colaboração, flexibilidade e adaptação, e privilegia pessoas, auto-organização e equipes multifuncionais.
-- Scrum trabalha com equipes multifuncionais, sprints de 2 a 4 semanas, reunião de planejamento, review, retrospectiva e check-in diário, com ajuste rápido por feedback.
-- Scrum é indicado para times menores; em equipes maiores, o texto cita LeSS, SoS, SAFe e S@S como formas de escalar o método.
-- Kanban organiza o trabalho de modo visual em colunas e limita o trabalho em progresso, permitindo fluxo contínuo e revisão regular de status, prioridades e riscos.
-- Scrumban combina sprints e reuniões do Scrum com visualização em colunas para acompanhar o progresso e equilibrar a carga de trabalho.
-- XP destaca comunicação face a face, colaboração no mesmo escritório, participação ativa do cliente e pair programming, com releases trimestrais.
-- FDD divide o trabalho em user stories e features planejadas em até duas semanas, com participação do cliente nas reuniões de design e foco em equipes maiores.
-- O texto diz que o Assembla ajuda a planejar, acompanhar, desenvolver, testar e liberar features, com backlog management, cardwalls, task boards, criação de tickets de bugs e integração com Git, Perforce e Subversion.
+## Reading notes
+- Agile emerged with the Agile Manifesto in 2001, with a focus on collaboration, flexibility and adaptation, and prioritizes people, self-organization and cross-functional teams.
+- Scrum works with cross-functional teams, 2- to 4-week sprints, planning meeting, review, retrospective and daily check-in, with quick adjustment through feedback.
+- Scrum is indicated for smaller teams; in larger teams, the text mentions LeSS, SoS, SAFe and S@S as ways to scale the method.
+- Kanban organizes work visually in columns and limits work in progress, allowing continuous flow and regular review of status, priorities and risks.
+- Scrumban combines Scrum sprints and meetings with visualization in columns to track progress and balance workload.
+- XP emphasizes face-to-face communication, collaboration in the same office, active customer participation and pair programming, with quarterly releases.
+- FDD divides the work into user stories and features planned in up to two weeks, with customer participation in design meetings and a focus on larger teams.
+- The text says that Assembla helps plan, track, develop, test and release features, with backlog management, cardwalls, task boards, bug ticket creation and integration with Git, Perforce and Subversion.

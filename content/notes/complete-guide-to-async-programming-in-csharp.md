@@ -16,7 +16,7 @@ sources:
 
 A thread is the smallest unit of execution, and a long-running operation on the main thread blocks everything else until it finishes. Async I/O sidesteps that by releasing the thread back to the pool once an operation like a file read is registered with the OS, then resuming the calling code once the runtime gets notified the result is ready.
 
-## Fichamento
+## Reading notes
 
 - A blocking `File.ReadAllText` call ties up the thread until the file finishes reading. The async `File.ReadAllTextAsync` version frees the thread immediately and resumes the rest of the method automatically once the I/O completes.
 - Calling `Task.Delay(1000);` without `await` starts the operation but returns immediately without waiting for it, a pattern the guide calls fire-and-forget.

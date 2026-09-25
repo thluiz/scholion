@@ -2,8 +2,8 @@
 title: "AI Workflows vs AI Agents, Explained with LEGOs"
 date: '2026-09-25T00:59:05+01:00'
 category: webclip
-summary: 'O texto compara workflows de IA a montagens de LEGO com passo fixo e agentes a construções com meta, mostrando quando usar cada um e por que abordagens híbridas fazem sentido.'
-tags: ["ai-workflows", "ai-agents", "llm", "agentic-workflows"]
+summary: 'The text compares AI workflows to LEGO-style assemblies with fixed steps and agents to constructions with a goal, showing when to use each and why hybrid approaches make sense.'
+tags: ["ai-workflows","ai-agents","llm","agentic-workflows"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,7 +17,7 @@ sources:
 
 The page explains AI workflows as fixed, predefined sequences, like following a LEGO manual. It contrasts them with AI agents, which get a goal and tools and decide what to do next at runtime. The practical takeaway is that workflows fit predictable tasks, agents fit messy situations, and hybrid systems combine both.
 
-## Fichamento
+## Reading notes
 
 - AI workflows follow a fixed control path, with a predefined sequence of steps.
 - In the example given, the model queries a calendar, extracts the relevant event, summarizes it, and responds.

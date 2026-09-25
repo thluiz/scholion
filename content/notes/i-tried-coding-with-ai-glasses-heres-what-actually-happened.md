@@ -2,8 +2,8 @@
 title: "I Tried Coding With AI Glasses. Here’s What Actually Happened."
 date: '2026-09-25T00:15:06+01:00'
 category: webclip
-summary: 'O autor testa óculos de IA para coding e conclui que eles ainda não ajudam muito a programar, mas funcionam melhor como ferramenta para capturar a rotina e refletir sobre o dia.'
-tags: ["ai-glasses", "coding", "self-tracking"]
+summary: 'The author says the glasses were a gift and that he would not have bought them himself, but used them to see whether they could improve his life as a developer. His first tests with AI help for code explanations were disappointing, so he shifted to a different use case focused on recording daily life.'
+tags: ["ai-glasses","coding","self-tracking"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,14 +19,14 @@ The author says the glasses were a gift and that he would not have bought them h
 
 He proposes “life commits”, where the glasses capture moments during the day, classify the image with Apple’s Vision framework, and attach an emotional score through hand gestures or manual input. The resulting timeline is meant to show where time is spent, which environments are common, and how they relate to mood. He says the glasses do not fundamentally change coding, but they do change how he captures and reflects on his life.
 
-## Fichamento
+## Reading notes
 
-- Recebeu os óculos de IA como presente e quis avaliar se eles melhorariam sua vida como desenvolvedor.
-- Tentou usar a IA integrada para explicar código na tela, mas os resultados foram ruins porque o sistema não reconhecia com precisão o contexto visual.
-- Pensou em uma cadeia mais complexa com captura de imagem, OCR, modelo de visão e LLM, mas considerou essa solução trabalhosa, cara e menos confiável do que pedir ajuda diretamente no editor.
-- Mudou o foco para “life commits”, uma ideia em que os óculos registram momentos do dia como se fossem commits de Git.
-- Descreve um fluxo em que o app pede uma captura a cada hora e classifica a imagem com o Apple Vision framework em categorias como workspace, outdoors, social, exercise, indoors e screen time.
-- Associa uma pontuação emocional a cada momento por gestos manuais detectados com `VNDetectHumanHandPoseRequest()` ou por entrada manual no app.
-- Diz que isso cria uma linha do tempo do que a pessoa faz, dos ambientes em que fica e de como esses ambientes se relacionam com o estado emocional.
-- Afirma que a música pelos óculos, a conversa com a IA durante o código e a captura rápida de fotos e vídeos são usos convenientes.
-- Conclui que os óculos ainda parecem hardware em fase inicial, não mudam de forma fundamental como ele codifica, mas podem ser úteis para capturar e refletir sobre a vida.
+- Received the AI glasses as a gift and wanted to evaluate whether they would improve his life as a developer.
+- Tried using the integrated AI to explain code on the screen, but the results were bad because the system did not accurately recognize the visual context.
+- Thought about a more complex chain with image capture, OCR, vision model, and LLM, but considered this solution cumbersome, expensive, and less reliable than asking for help directly in the editor.
+- Shifted the focus to “life commits”, an idea in which the glasses record moments of the day as if they were Git commits.
+- Describes a flow in which the app asks for a capture every hour and classifies the image with the Apple Vision framework into categories such as workspace, outdoors, social, exercise, indoors and screen time.
+- Associates an emotional score with each moment through manual gestures detected with `VNDetectHumanHandPoseRequest()` or through manual input in the app.
+- Says this creates a timeline of what the person does, the environments they stay in, and how these environments relate to emotional state.
+- States that music through the glasses, talking to the AI during code, and quickly capturing photos and videos are convenient uses.
+- Concludes that the glasses still seem like early-stage hardware, do not fundamentally change how he codes, but can be useful for capturing and reflecting on life.

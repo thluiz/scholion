@@ -2,8 +2,8 @@
 title: "Data evolution with set-theoretic types"
 date: '2026-09-24T23:31:16+01:00'
 category: webclip
-summary: 'O texto propõe usar tipos conjuntistas e revisões em structs para manter compatibilidade ao evoluir dados, preservando segurança de tipo entre versões antigas e novas.'
-tags: ["elixir", "types", "structs"]
+summary: 'The text proposes using set-theoretic types and revisions in structs to maintain compatibility as data evolves, preserving type safety between old and new versions.'
+tags: ["elixir","types","structs"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,27 +19,27 @@ The article argues that libraries need a way to evolve public data definitions w
 
 It proposes that the compiler rewrite a generic `Schema.t()` signature into version-aware signatures that preserve the revision of the input. The same idea is extended to multiple fields, transitive dependencies, downcasting, and higher-order functions, with the compiler enforcing that each new revision is a supertype of the previous one.
 
-## Fichamento
+## Reading notes
 
-- O texto parte de um caso em Rust e C em que um campo que deveria aceitar `null` acabou causando incompatibilidade entre bibliotecas.
-- A mudança mais correta seria tornar o campo `name` opcional, mas isso quebraria usuários existentes da biblioteca.
-- Converter `null` em string vazia preserva compatibilidade, mas mantém o tipo divergente da especificação.
-- O artigo quer mostrar como tipos conjuntistas podem ajudar bibliotecas a evoluir definições públicas de dados sem perder segurança de tipo.
-- A discussão toma Elixir como campo de testes para explorar structs, subtipos estruturais e revisões.
-- Em tipos nominais, mudar a definição de uma struct altera o tipo associado a todos os valores instanciados com ela.
-- Com subtipagem estrutural, o tipo depende dos campos efetivos do valor, então ampliar a definição da struct não altera os dados já instanciados.
-- O problema aparece nas funções: uma função que recebia uma struct com `name` como string passa a falhar na tipagem quando o campo passa a aceitar `nil`.
-- O texto defende que uma versão nova da struct pode coexistir com a antiga sem tornar inválido o código antigo, porque a presença de `nil` ainda não existe nos valores antigos.
-- Para isso, o artigo propõe revisões explícitas nas structs, com a revisão 1 correspondendo aos campos originais e a revisão 2 ampliando tipos.
-- `Schema.t()` passa a representar a revisão mais recente, mas o tipo pode ser refinado explicitamente por campo.
-- A propriedade central proposta é que uma função preserve a revisão recebida: se entra uma revisão antiga, sai a mesma revisão; se entra uma revisão nova, sai a revisão nova.
-- O texto diz que isso pode ser expresso com tipos de interseção, gerando assinaturas diferentes para cada revisão compatível.
-- Quando há vários campos revisados, o número de casos a verificar cresce com o número de campos alterados.
-- O autor sugere que usuários escolham explicitamente quais revisões aceitam, sendo mais útil para autores de bibliotecas do que para aplicações comuns.
-- A configuração de revisões se aplica também a dependências transitivas, permitindo combinações válidas desde que revisões não sejam removidas ao descer na árvore de dependências.
-- O texto mostra que é possível fazer downcast de uma revisão nova para uma antiga, seja preenchendo o campo com string vazia, seja falhando em tempo de execução quando o valor não for compatível.
-- Na formalização, o compilador gera uma cláusula por revisão, com domínio restrito pelos tipos anteriores e codomínio acumulando as revisões anteriores e atuais.
-- O texto também trata de funções de ordem superior e mostra que a semântica resultante preserva a leitura mais segura possível para entradas e saídas.
-- As mudanças permitidas em uma revisão são tornar um campo mais amplo, adicionar campo com valor padrão e marcar campo como obsoleto.
-- Remover campos, estreitar tipos ou usar tipos disjuntos é tratado como mudança quebradora.
-- A conclusão é que revisões poderiam tornar a evolução de dados progressiva e segura para bibliotecas, especialmente no ecossistema Elixir.
+- The text starts from a case in Rust and C in which a field that should accept `null` ended up causing incompatibility between libraries.
+- The most correct change would be to make the `name` field optional, but that would break existing users of the library.
+- Converting `null` into an empty string preserves compatibility, but keeps the type divergent from the specification.
+- The article wants to show how set-theoretic types can help libraries evolve public data definitions without losing type safety.
+- The discussion takes Elixir as a testbed to explore structs, structural subtypes, and revisions.
+- In nominal types, changing the definition of a struct changes the type associated with all values instantiated with it.
+- With structural subtyping, the type depends on the effective fields of the value, so broadening the definition of the struct does not change already instantiated data.
+- The problem appears in functions: a function that received a struct with `name` as a string starts to fail type checking when the field starts to accept `nil`.
+- The text argues that a new version of the struct can coexist with the old one without invalidating old code, because the presence of `nil` does not yet exist in the old values.
+- For this, the article proposes explicit revisions in structs, with revision 1 corresponding to the original fields and revision 2 broadening types.
+- `Schema.t()` comes to represent the most recent revision, but the type can be explicitly refined by field.
+- The central property proposed is that a function preserve the revision it receives: if it receives an old revision, it returns the same revision; if it receives a new revision, it returns the new revision.
+- The text says this can be expressed with intersection types, generating different signatures for each compatible revision.
+- When there are multiple revised fields, the number of cases to check grows with the number of changed fields.
+- The author suggests that users explicitly choose which revisions they accept, being more useful for library authors than for common applications.
+- The revision configuration also applies to transitive dependencies, allowing valid combinations as long as revisions are not removed when going down the dependency tree.
+- The text shows that it is possible to downcast a new revision to an old one, either by filling the field with an empty string or by failing at runtime when the value is not compatible.
+- In the formalization, the compiler generates one clause per revision, with the domain restricted by the previous types and the codomain accumulating the previous and current revisions.
+- The text also discusses higher-order functions and shows that the resulting semantics preserve the safest possible reading for inputs and outputs.
+- The changes allowed in a revision are making a field broader, adding a field with a default value, and marking a field as obsolete.
+- Removing fields, narrowing types, or using disjoint types is treated as a breaking change.
+- The conclusion is that revisions could make data evolution progressive and safe for libraries, especially in the Elixir ecosystem.

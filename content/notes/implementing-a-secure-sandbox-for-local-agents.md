@@ -3,7 +3,7 @@ title: "Implementing a secure sandbox for local agents"
 date: '2026-09-24T23:26:51+01:00'
 category: webclip
 summary: 'Cursor describes a sandbox for coding agents that cuts approval interruptions, preserves security, and adapts to macOS, Linux, and Windows limits while teaching agents when escalation is needed.'
-tags: ["agent-sandboxing", "coding-agents", "security"]
+tags: ["agent-sandboxing","coding-agents","security"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,14 +17,14 @@ sources:
 
 Cursor says coding agents gain power when they can run terminal commands automatically, but that also raises the risk of deleted databases, broken code, and leaked secrets. Requiring approval for every command leads to approval fatigue, especially when several agents run at once. The team rolled out agent sandboxing on macOS, Linux, and Windows so agents can work inside a controlled environment and ask for approval mainly when they need to go outside it, often for internet access. They report 40% fewer stops than unsandboxed agents.
 
-## Fichamento
+## Reading notes
 
-- O texto apresenta o sandbox como uma forma de reduzir interrupções sem abrir mão da segurança dos agentes locais.
-- Ele descreve o problema das aprovações manuais acumuladas, que fazem os usuários deixarem de revisar cada pedido com cuidado.
-- A implementação usa uma API uniforme, mas com mecanismos diferentes em cada sistema operacional.
-- No macOS, a equipe avaliou App Sandbox, containers, máquinas virtuais e Seatbelt, e ficou com Seatbelt via sandbox-exec.
-- No Linux, a solução combina Landlock e seccomp, com arquivos ignorados ficando inacessíveis ao processo em sandbox.
-- No Windows, o Cursor executa o sandbox Linux dentro do WSL2 enquanto trabalha com a Microsoft por primitivas nativas mais adequadas.
-- O texto também diz que o harness do agente precisou ser ajustado para explicar as restrições do sandbox e indicar quando a escalada de permissões é necessária.
-- Depois dessas mudanças, o comportamento de recuperação melhorou e a avaliação offline também melhorou.
-- O rollout gradual em produção confirmou o uso do recurso, e a empresa diz ver um terço das requisições em plataformas suportadas rodando com o sandbox.
+- The text presents the sandbox as a way to reduce interruptions without giving up the security of local agents.
+- It describes the problem of accumulated manual approvals, which make users stop reviewing each request carefully.
+- The implementation uses a uniform API, but with different mechanisms on each operating system.
+- On macOS, the team evaluated App Sandbox, containers, virtual machines, and Seatbelt, and settled on Seatbelt via sandbox-exec.
+- On Linux, the solution combines Landlock and seccomp, with ignored files becoming inaccessible to the sandboxed process.
+- On Windows, Cursor runs the Linux sandbox inside WSL2 while working with Microsoft on more suitable native primitives.
+- The text also says the agent harness had to be adjusted to explain the sandbox's restrictions and indicate when permission escalation is necessary.
+- After these changes, recovery behavior improved and the offline evaluation also improved.
+- The gradual rollout in production confirmed use of the feature, and the company says it sees one third of requests on supported platforms running with the sandbox.

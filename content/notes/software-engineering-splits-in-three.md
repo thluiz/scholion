@@ -22,7 +22,7 @@ AI-assisted coding didn't just speed up how software gets written. It moved the 
 
 Tier 1 (Big Tech and digital-native giants) treats AI as a force multiplier for senior engineers who review generated code and catch what fails at scale. Tier 2 (large enterprises like banks and insurers) leans on platforms with guardrails already built in and brings in fractional senior consultants for the judgment calls it can't staff internally. Tier 3 (small and mid-market businesses) gets custom software for the first time, built cheaply by local developers who work less like architects and more like plumbers. The three tiers used to run similar work at different pay scales; now the work itself diverges, closing off the career ladder that once let engineers move between them.
 
-## Fichamento
+## Reading notes
 
 - For decades enterprises had two bad options: build in-house (expensive, slow, reserved for core systems) or buy/outsource (senior rates paid for junior delivery, knowledge walking out the door when the contract ended).
 - The real change is economic: the cost of turning a defined requirement into working code has collapsed, though someone still has to know if the implementation is correct, understand the business problem well enough to define the requirement, and maintain the system as the business evolves.

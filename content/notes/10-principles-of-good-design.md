@@ -2,8 +2,8 @@
 title: "10 principles of Good Design"
 date: '2026-09-24T21:58:21+01:00'
 category: webclip
-summary: 'Dieter Rams apresenta dez princípios de bom design, centrados em utilidade, clareza, honestidade, durabilidade, atenção ao detalhe, impacto ambiental e redução ao essencial.'
-tags: ["design", "dieter-rams", "principios"]
+summary: 'Dieter Rams presents ten principles of good design, centered on utility, clarity, honesty, durability, attention to detail, environmental impact, and reduction to the essential.'
+tags: ["design","dieter-rams","principles"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -15,17 +15,17 @@ sources:
     kind: repo
 ---
 
-Dieter Rams lista dez princípios de “good design” e os organiza como critérios para avaliar produtos. O texto defende que o bom design acompanha a inovação tecnológica, serve ao uso, torna o produto compreensível e evita excessos, ao mesmo tempo em que preserva a expressão do usuário e reduz impacto ambiental.
+Dieter Rams lists ten principles of “good design” and organizes them as criteria for evaluating products. The text argues that good design follows technological innovation, serves use, makes the product understandable, and avoids excess, while preserving the user’s expression and reducing environmental impact.
 
-## Fichamento
+## Reading notes
 
-- A inovação em design continua aberta, mas depende do avanço tecnológico e não deve ser um fim em si mesma.
-- Um produto precisa ser útil e atender critérios funcionais, psicológicos e estéticos.
-- A qualidade estética faz parte da utilidade, porque os produtos são usados no dia a dia e afetam o bem-estar.
-- O design deve esclarecer a estrutura do produto e, quando possível, torná-lo autoexplicativo.
-- Produtos com propósito devem ser neutros e contidos para não competir com a expressão do usuário.
-- O design não deve exagerar capacidades nem prometer mais do que o produto realmente entrega.
-- O bom design evita modismos e procura durar por muitos anos.
-- Cada detalhe deve ser tratado com cuidado e precisão, sem arbitrariedade.
-- O design deve conservar recursos e reduzir poluição física e visual ao longo do ciclo de vida do produto.
-- Menos design, mas melhor, significa concentrar-se no essencial e eliminar o que é supérfluo.
+- Innovation in design remains open, but it depends on technological progress and should not be an end in itself.
+- A product needs to be useful and meet functional, psychological, and aesthetic criteria.
+- Aesthetic quality is part of usefulness, because products are used in everyday life and affect well-being.
+- Design should clarify the structure of the product and, when possible, make it self-explanatory.
+- Products with a purpose should be neutral and restrained so as not to compete with the user’s expression.
+- Design should not exaggerate capabilities or promise more than the product actually delivers.
+- Good design avoids trends and seeks to last for many years.
+- Every detail should be treated with care and precision, without arbitrariness.
+- Design should conserve resources and reduce physical and visual pollution throughout the product’s life cycle.
+- Less design, but better, means focusing on the essential and eliminating what is superfluous.

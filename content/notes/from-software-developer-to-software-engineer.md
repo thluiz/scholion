@@ -21,7 +21,7 @@ Gergely Orosz pulls together two people's answers to a question job titles rarel
 
 Hartley Brody's version stacks three levels instead of two: hacker, developer, engineer. A hacker solves problems without being able to explain how. A developer follows best practices without knowing why they work. An engineer understands the platform well enough to know why the best practices are best practices in the first place.
 
-## Fichamento
+## Reading notes
 
 - Brayshaw's framing: engineers "insist upon designing software first," question what they're doing before doing it, and stay involved through every step of a project rather than just writing code to spec.
 - Brody's three-tier framing: hackers produce working solutions they can't fully explain afterward; developers apply best practices they've heard from others without understanding the reasoning underneath; engineers understand both the practices and the platform-level reasons behind them.

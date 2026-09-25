@@ -3,7 +3,7 @@ title: "Riemann hypothesis"
 date: '2026-09-25T08:35:07+01:00'
 category: webclip
 summary: 'The hypothesis says every non-trivial zero of the Riemann zeta function has real part 1/2. It is still unproved, but it controls many results about primes and arithmetic functions.'
-tags: ["number-theory", "zeta-function", "prime-numbers"]
+tags: ["number-theory","zeta-function","prime-numbers"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,19 +19,19 @@ The Riemann hypothesis is the conjecture that the non-trivial zeros of the Riema
 
 It is tied to the distribution of prime numbers through Riemann’s explicit formula. The text also says it has many equivalent statements and consequences, including bounds for prime-counting errors, growth of arithmetic functions, and analogues for other zeta and L-functions.
 
-## Fichamento
+## Reading notes
 
-- Conjectura que todos os zeros não triviais da função zeta de Riemann têm parte real igual a 1/2.
-- Os zeros triviais ocorrem nos inteiros pares negativos.
-- É descrita como um dos problemas em aberto mais importantes da matemática pura.
-- Interessa à teoria dos números porque implica resultados sobre a distribuição dos números primos.
-- O enunciado foi proposto por Bernhard Riemann.
-- Há forte evidência numérica a favor, mas nenhuma prova conhecida.
-- A hipótese é equivalente a várias afirmações sobre a função zeta, funções aritméticas e a sequência de Farey.
-- O artigo liga a hipótese a limites para o erro na função contadora de primos e à função de Mertens.
-- Também relaciona a hipótese a critérios analíticos como Riesz, Nyman-Beurling, Salem, Weil, Li e Speiser.
-- O texto registra consequências para lacunas entre primos e para o comportamento de funções como μ, σ e φ.
-- A hipótese tem generalizações para funções L de Dirichlet, funções zeta de corpos de números e outros contextos.
-- Há analogias provadas em campos finitos, curvas, grafos, funções de Selberg e funções de Ihara.
-- O comportamento dos zeros na linha crítica é comparado a matrizes hermitianas aleatórias e a ideias de caos quântico.
-- O artigo também reúne verificações numéricas e resultados parciais sobre zeros na linha crítica.
+- Conjecture that all non-trivial zeros of the Riemann zeta function have real part equal to 1/2.
+- The trivial zeros occur at the negative even integers.
+- It is described as one of the most important open problems in pure mathematics.
+- It is of interest to number theory because it implies results about the distribution of prime numbers.
+- The statement was proposed by Bernhard Riemann.
+- There is strong numerical evidence in favor, but no known proof.
+- The hypothesis is equivalent to several statements about the zeta function, arithmetic functions, and the Farey sequence.
+- The article links the hypothesis to bounds for the error in the prime-counting function and to the Mertens function.
+- It also relates the hypothesis to analytic criteria such as Riesz, Nyman-Beurling, Salem, Weil, Li, and Speiser.
+- The text records consequences for gaps between primes and for the behavior of functions such as μ, σ, and φ.
+- The hypothesis has generalizations for Dirichlet L-functions, zeta functions of number fields, and other contexts.
+- There are proven analogies in finite fields, curves, graphs, Selberg functions, and Ihara functions.
+- The behavior of zeros on the critical line is compared to random Hermitian matrices and to ideas of quantum chaos.
+- The article also brings together numerical checks and partial results about zeros on the critical line.

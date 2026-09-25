@@ -2,8 +2,8 @@
 title: "Dead Internet Theory"
 date: '2026-09-24T22:34:31+01:00'
 category: webclip
-summary: 'O texto diz que a internet antiga morreu e foi substituída por máquinas que escrevem como humanos, mas sem verdade ou vida. Ainda há pessoas reais, em lugares quebrados e em sites próprios.'
-tags: ["internet", "bots", "writing"]
+summary: 'The text says the old internet died and was replaced by machines that write like humans, but without truth or life. Real people still exist, in broken places and on their own sites.'
+tags: ["internet","bots","writing"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -19,14 +19,14 @@ The post treats the internet as something that used to be alive, with people wri
 
 It says the real internet can still be found in broken places, misspelled words, rough edges, and writing that carries pain, joy, and anger. It also points to people who still make their own sites and write about things they have seen themselves, as a sign that the internet is not dead yet.
 
-## Fichamento
+## Reading notes
 
-- O texto descreve a internet antiga como um espaço em que pessoas escreviam pensamentos próprios e respondiam umas às outras.
-- Afirma que agora as máquinas escrevem como humanos, mas sem sentimento, verdade ou vida.
-- Diz que corporações mostram números como engajamento e taxa de clique para sustentar a ideia de que a internet está viva, mas o texto desconfia desses números.
-- Apresenta a internet atual como um lugar entre vida e morte, onde máquinas e মানুষ competem pelo controle da verdade.
-- Sugere que os sinais da internet real estão nos lugares quebrados, nas palavras erradas e nas bordas ásperas.
-- Defende que a verdade vem de dor, amor e perda, e não pode ser fingida por máquina.
-- Afirma que ainda existem pessoas honestas, com sites próprios e código próprio, resistindo às máquinas.
-- Usa o exemplo de uma mulher que escreveu sobre pássaros que viu com os próprios olhos para mostrar uma escrita que tem vida.
-- Conclui que a internet não está morta, mas já não é como antes e se tornou outra coisa.
+- The text describes the old internet as a space where people wrote their own thoughts and responded to one another.
+- It claims that now machines write like humans, but without feeling, truth, or life.
+- It says corporations show numbers like engagement and click-through rate to support the idea that the internet is alive, but the text distrusts those numbers.
+- It presents the current internet as a place between life and death, where machines and people compete for control of the truth.
+- It suggests that the signs of the real internet are in broken places, in wrong words, and on rough edges.
+- It argues that truth comes from pain, love, and loss, and cannot be faked by a machine.
+- It states that there are still honest people, with their own sites and their own code, resisting the machines.
+- It uses the example of a woman who wrote about birds she saw with her own eyes to show writing that has life.
+- It concludes that the internet is not dead, but it is no longer as it once was and has become something else.

@@ -2,8 +2,8 @@
 title: "An Orwellian Year in Review"
 date: '2026-09-24T21:55:12+01:00'
 category: webclip
-summary: 'O texto compara 2010 a Orwell, dizendo que Facebook, a perseguição a Julian Assange e as notícias dominadas por governos e conglomerados ampliaram vigilância, censura e perda de privacidade.'
-tags: ["orwell", "privacidade", "facebook", "wikileaks"]
+summary: 'The text compares 2010 to Orwell, saying that Facebook, the persecution of Julian Assange, and news dominated by governments and conglomerates increased surveillance, censorship, and loss of privacy.'
+tags: ["orwell", "privacy", "facebook", "wikileaks"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -15,15 +15,15 @@ sources:
     kind: repo
 ---
 
-2010 é descrito como um ano em que a privacidade diminuiu ainda mais. O texto liga isso às mudanças nas configurações de privacidade do Facebook e à perseguição a WikiLeaks e Julian Assange, que aparece como ataque à independência da imprensa.
+2010 is described as a year in which privacy diminished even further. The text links this to changes in Facebook’s privacy settings and to the persecution of WikiLeaks and Julian Assange, which appears as an attack on press independence.
 
-## Fichamento
+## Reading notes
 
-- O autor apresenta 2010 como um ano em que o mundo se aproximou de um cenário orwelliano, com perda de privacidade e de domínio sobre a própria vida.
-- Facebook é comparado ao Big Brother por causa das mudanças em seus controles de privacidade e do alcance crescente da plataforma sobre a vida online.
-- A frase atribuída a Mark Zuckerberg, de que “privacy is no longer a social norm”, aparece como exemplo da normalização do fim da privacidade.
-- A perseguição a Julian Assange é ligada ao papel do “Ministry of Truth”, que no texto representa propaganda, Newspeak e repressão a quem diz a verdade.
-- O texto afirma que os grandes meios de comunicação seguem a linha do poder e que WikiLeaks seria uma das poucas vozes restantes.
-- A comparação com as quatro ministries de 1984 é usada para dizer que guerra, mentira, tortura e pobreza continuam presentes em 2010.
-- O autor menciona a guerra no Iraque, a tortura em Guantánamo Bay e o avanço de leis draconianas como sinais de um controle cada vez maior.
-- A conclusão diz que 1984 finalmente chegou, com vigilância constante, notícias alteradas por quem está no poder e liberdades civis praticamente inexistentes.
+- The author presents 2010 as a year in which the world moved closer to an Orwellian scenario, with a loss of privacy and control over one’s own life.
+- Facebook is compared to Big Brother because of changes in its privacy controls and the platform’s growing reach over online life.
+- The phrase attributed to Mark Zuckerberg, that “privacy is no longer a social norm”, appears as an example of the normalization of the end of privacy.
+- The persecution of Julian Assange is linked to the role of the “Ministry of Truth”, which in the text represents propaganda, Newspeak, and repression of those who tell the truth.
+- The text states that the major media outlets follow the line of power and that WikiLeaks would be one of the few remaining voices.
+- The comparison with the four ministries of 1984 is used to say that war, lies, torture, and poverty remain present in 2010.
+- The author mentions the war in Iraq, torture in Guantánamo Bay, and the advance of draconian laws as signs of ever greater control.
+- The conclusion says that 1984 has finally arrived, with constant surveillance, news altered by those in power, and civil liberties practically nonexistent.

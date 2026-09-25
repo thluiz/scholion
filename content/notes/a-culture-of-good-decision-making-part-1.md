@@ -3,7 +3,7 @@ title: "A Culture of Good Decision-Making (Part 1)"
 date: '2026-09-25T09:12:29+01:00'
 category: webclip
 summary: 'The article argues that better decisions come from separating important from minor choices, decentralizing authority, defining ownership, and sharing context so teams can decide faster with less friction.'
-tags: ["decision-making", "product-management", "empowered-teams", "context-sharing"]
+tags: ["decision-making","product-management","empowered-teams","context-sharing"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,20 +17,20 @@ sources:
 
 The article argues that many organizations spend too much time on decisions that have little impact, while the decisions that matter most deserve slower and more deliberate attention. It also says decision-making improves when authority is pushed to the level where the relevant knowledge and expertise live, supported by clear ownership, loose coupling, aligned goals, and shared context.
 
-## Fichamento
+## Reading notes
 
-- Muitas organizações têm decisões lentas e ruins por causa de processos ineficazes, dificuldade com perguntas abertas, falta ou excesso de informação e problemas organizacionais.
-- Nem toda decisão precisa do mesmo nível de cuidado; o texto distingue entre decisões importantes e menos importantes, e diz que a energia deve acompanhar a importância.
-- No exemplo do Gmail, a escolha do nome de uma aba consumiu tempo demais para o efeito que teria.
-- Jeff Bezos separa decisões do tipo 1, que devem ser tratadas com mais lentidão e deliberação, e do tipo 2, que podem ser feitas mais rápido e com menos atrito.
-- O texto sugere avaliar importância por impacto positivo, risco negativo e custo de implementação e suporte.
-- Em organizações centralizadas, decisões passam por gestores ou comitês, o que pode gerar gargalos, reuniões em excesso e funcionários menos engajados.
-- Peter Drucker defende que trabalhadores do conhecimento devem tomar suas próprias decisões, com gestores definindo objetivos e deixando a ação para quem está mais perto do trabalho.
-- O modelo de mission-command mostra como decisões podem ser descentralizadas em camadas, com autoridade local para agir conforme a situação.
-- A descentralização não elimina o papel dos gestores, que ainda acompanham o trabalho e podem aprovar decisões importantes.
-- Times bem organizados precisam de propriedade clara sobre áreas funcionais, missão definida e métricas consistentes ligadas a objetivos maiores.
-- Dependências técnicas, comitês sucessivos e big-room planning enfraquecem a autonomia das equipes.
-- Para liberar os times, o texto recomenda ajustar a topologia das equipes, definir interfaces claras, usar testes automatizados e aceitar alguma velocidade com risco controlado.
-- Em Netflix, a liderança deve oferecer contexto e clareza em vez de tentar controlar tudo.
-- O contexto deve fluir em duas direções: objetivos, estratégia e riscos descem; aprendizados de mercado, tecnologia e usuários sobem.
-- O texto conclui que decisões melhores e mais rápidas dependem de descentralização, responsabilidades claras, metas alinhadas e bastante compartilhamento de contexto.
+- Many organizations have slow and bad decisions because of ineffective processes, difficulty with open-ended questions, lack or excess of information, and organizational problems.
+- Not every decision needs the same level of care; the text distinguishes between important and less important decisions, and says that the energy should match the importance.
+- In the Gmail example, the choice of a tab name took too much time for the effect it would have.
+- Jeff Bezos separates type 1 decisions, which should be handled with more slowness and deliberation, and type 2 decisions, which can be made faster and with less friction.
+- The text suggests assessing importance by positive impact, negative risk, and implementation and support cost.
+- In centralized organizations, decisions pass through managers or committees, which can create bottlenecks, too many meetings, and less engaged employees.
+- Peter Drucker argues that knowledge workers should make their own decisions, with managers defining goals and leaving action to those closest to the work.
+- The mission-command model shows how decisions can be decentralized in layers, with local authority to act according to the situation.
+- Decentralization does not eliminate the role of managers, who still follow the work and can approve important decisions.
+- Well-organized teams need clear ownership over functional areas, a defined mission, and consistent metrics tied to larger objectives.
+- Technical dependencies, successive committees, and big-room planning weaken team autonomy.
+- To free teams, the text recommends adjusting team topology, defining clear interfaces, using automated tests, and accepting some speed with controlled risk.
+- In Netflix, leadership should offer context and clarity instead of trying to control everything.
+- Context should flow in two directions: goals, strategy, and risks flow down; learnings from the market, technology, and users flow up.
+- The text concludes that better and faster decisions depend on decentralization, clear responsibilities, aligned goals, and a lot of context sharing.

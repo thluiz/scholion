@@ -2,8 +2,8 @@
 title: "TBM 333: Lean Graph Theory"
 date: '2026-09-24T23:27:39+01:00'
 category: webclip
-summary: 'A nota defende que empresas operam com sobreposições de path, DAG e network, e que princípios Lean só funcionam bem quando o modelo usado combina com o contexto e com onde o peso do problema está.'
-tags: ["lean", "graph-theory", "organization-design", "product-development"]
+summary: 'A note argues that organizations are best understood through three overlapping models: path, DAG, and network. Different company situations make different models more useful, and Lean ideas matter most when they are matched to the current context and to where the main friction sits.'
+tags: ["lean","graph-theory","organization-design","product-development"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
@@ -17,19 +17,19 @@ sources:
 
 The note argues that organizations are best understood through three overlapping models: path, DAG, and network. Different company situations make different models more useful, and Lean ideas matter most when they are matched to the current context and to where the main friction sits.
 
-## Fichamento
+## Reading notes
 
-- O texto diz que ideias de Lean costumam ser aplicadas de modo seletivo, e isso aparece tanto em empresas de crescimento rápido quanto em grandes empresas mais estruturadas.
-- Ele propõe três modelos para entender uma organização como sistema sociotécnico: path graph, directed acyclic graph e network graph.
-- O modelo de path serve para processos lineares, fluxos sequenciais, pipelines, assembly lines, schedules, resolução de tickets e jornadas com etapas fixas.
-- O DAG serve para fluxos de aprovação, propagação de mudanças, desdobramento de metas, gestão de dependências, planejamento de força de trabalho e projetos com restrições.
-- O network serve para cadeias de suprimento, grafos de conhecimento, colaboração entre equipes, loops de feedback, comportamento emergente, resiliência e dependências cíclicas.
-- O texto afirma que humanos, organizações e desenvolvimento de produto são complexos, então os três modelos aparecem ao mesmo tempo e em diferentes escalas.
-- No exemplo de lançamento de produto, liderança, equipes, GTM e serviços de plataforma usam os três modelos em conjunto, com diferentes graus de sobreposição.
-- A empresa hipotética cresceu rapidamente entre 2022 e 2025, acumulou dívida organizacional, priorizou receita em vez do ecossistema de plataforma e ficou desalinhada com a estratégia do momento.
-- Em 2025, a pressão por entregar projetos grandes e transversais aumenta, enquanto a autonomia de equipes pesa menos e a colaboração entre áreas vira requisito central.
-- O texto diz que discussões sobre Lean em trabalho de produto costumam ser mais úteis em empresas grandes, com dependências complexas e estrutura desalinhada, onde o objetivo é estabilizar e entregar valor.
-- Em empresas com equipes independentes, parte do Lean funciona localmente, mas ampliar isso para toda a organização pode parecer pesado e excessivamente centralizado.
-- O autor relata dificuldade para fazer empresas de crescimento rápido adotarem kanban em nível de portfólio, mesmo quando isso teria ajudado.
-- A conclusão é que Lean tem ideias úteis em qualquer nível, mas elas precisam ser usadas com cuidado, conforme o contexto e o peso atual do problema.
-- O texto encerra dizendo que uma organização de produto com suporte de plataforma e enablement tende a se mover mais para modelos de network e DAG.
+- The text says that Lean ideas are often applied selectively, and this shows up both in fast-growing companies and in larger, more structured companies.
+- It proposes three models for understanding an organization as a sociotechnical system: path graph, directed acyclic graph and network graph.
+- The path model serves linear processes, sequential flows, pipelines, assembly lines, schedules, ticket resolution and journeys with fixed stages.
+- The DAG serves approval flows, change propagation, goal decomposition, workforce management and projects with constraints.
+- The network serves supply chains, knowledge graphs, collaboration between teams, feedback loops, emergent behavior, resilience and cyclical dependencies.
+- The text states that humans, organizations and product development are complex, so the three models appear at the same time and at different scales.
+- In the product launch example, leadership, teams, GTM and platform services use the three models together, with different degrees of overlap.
+- The hypothetical company grew quickly between 2022 and 2025, accumulated organizational debt, prioritized revenue over the platform ecosystem and became misaligned with the strategy of the moment.
+- In 2025, pressure to deliver large cross-functional projects increases, while team autonomy matters less and collaboration across areas becomes a central requirement.
+- The text says that discussions about Lean in product work are usually more useful in large companies, with complex dependencies and misaligned structure, where the goal is to stabilize and deliver value.
+- In companies with independent teams, part of Lean works locally, but scaling that to the whole organization can seem heavy and overly centralized.
+- The author reports difficulty getting fast-growing companies to adopt portfolio-level kanban, even when it would have helped.
+- The conclusion is that Lean has useful ideas at any level, but they need to be used carefully, according to the context and the current weight of the problem.
+- The text ends by saying that a product organization with platform and enablement support tends to move more toward network and DAG models.
