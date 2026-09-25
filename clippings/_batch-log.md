@@ -319,3 +319,6 @@
 - SKIP https://m.signalvnoise.com/if-you-ask-for-my-permission-you-wont-have-my-permission-9d8bb4f9c940 — failed — soft_404 — Signal v. Noise "Missing article" page, not the essay
 - SKIP https://m.signalvnoise.com/its-ok-to-be-pragmatic-with-a-little-help-from-the-crazy-ones-461f7773a176 — failed — soft_404 — Signal v. Noise "Missing article" page, not the essay
 - SKIP https://mail.google.com/mail/u/0/#inbox — failed — soft_404 — Gmail inbox bookmark, rendered only the sign-in page (login wall)
+- SKIP https://medium.freecodecamp.com/finding-time-to-become-a-better-developer-eebc154881b2 — failed — soft_404 — old medium.freecodecamp link redirects; composed from freeCodeCamp donation footer, article missing
+- SKIP https://medium.productcoalition.com/software-engineers-are-not-fungible-9293947f3a2c — failed — blocked_domain — medium.productcoalition.com is known to block scraping; not attempting a fetch
+- SKIP https://microservices.io/post/architecture/2024/10/06/premium-smaller-safe-reversible-steps-part-3-canary-deployments.html?ref=dailydev — failed — soft_404 — premium (members-only) post; only sidebar promo captured, article body absent
