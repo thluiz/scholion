@@ -2,7 +2,7 @@
 title: "Twitter System Design Example for Tech Interviews"
 date: '2026-09-25T01:04:31+01:00'
 category: webclip
-summary: 'Guia de system design para interviews that structures the creation of a Twitter/X.com into requirements, capacity estimates, APIs, database, architecture, and trade-offs.'
+summary: 'A system design guide for interviews that structures the creation of a Twitter/X.com into requirements, capacity estimates, APIs, database, architecture, and trade-offs.'
 tags: ["system-design","twitter","interview-prep"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
