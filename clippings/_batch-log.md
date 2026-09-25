@@ -258,3 +258,6 @@
 - SKIP https://dev.to/jagroop2001/building-a-chat-with-pdfs-using-pinataopenai-and-streamlit-3jb7?context=digest — failed — soft_404 — soft 404 title: 404: Page Not Found; nothing written
 - SKIP https://dev.to/miketalbot/interview-question-ensure-you-only-virus-scan-once-349j? — failed — fetch_timeout — rendering https://dev.to/miketalbot/interview-question-ensure-you-only-virus-scan-once-349j? exceeded the internal timeout (30000ms)
 - SKIP https://dev.to/nikl/why-good-developers-never-use-regex-to-verify-emails-3h2a?context=digest — skipped — build_failed — Exception 0xc0000005 0x8 0xc018eef260 0xc018eef260
+- SKIP https://devblogs.microsoft.com/oldnewthing/20240628-01?ref=dailydev — failed — thin_content — extracted content is only 155 chars, below the 400 minimum
+- SKIP https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/edit?tab=t.0 — failed — fetch_timeout — rendering https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/edit?tab=t.0 exceeded the internal timeout (30000ms)
+- SKIP https://doctorow.medium.com/the-end-of-the-road-to-serfdom-bfad6f3b35a9 — failed — blocked_domain — doctorow.medium.com is known to block scraping; not attempting a fetch
