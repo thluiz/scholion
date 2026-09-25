@@ -273,3 +273,15 @@
 - SKIP https://hbr.org/2016/11/why-some-people-get-burned-out-and-others-dont?utm_content=buffer9a1f1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer — failed — soft_404 — consent/privacy wall captured instead of article; note summarized the cookie notice; files discarded
 - SKIP https://hybridhacker.email/p/what-is-a-staff-engineer?r=2ri1g3&utm_medium=ios&utm_campaign=post&ref=dailydev&triedRedirect=true — failed — thin_content — extracted content is only 339 chars, below the 400 minimum
 - SKIP https://insights.hpe.com/content/hpe-nxt/en/articles/2017/08/how-to-never-deal-with-users-again.html — failed — fetch_failed — could not render https://insights.hpe.com/content/hpe-nxt/en/articles/2017/08/how-to-never-deal-with-users-again.html: goto: net::ERR_HTTP2_PROTOCOL_ERROR at ht
+- SKIP https://itnext.io/10-refactorings-to-boost-your-clean-code-skills-3a1e142d63f3 — failed — blocked_domain — itnext.io is known to block scraping; not attempting a fetch
+- SKIP https://itnext.io/a-few-unshakable-principles-for-writing-better-code-2be0aecf4b37 — failed — blocked_domain — itnext.io is known to block scraping; not attempting a fetch
+- SKIP https://itnext.io/architectural-metapatterns-1834bdbc4221 — failed — blocked_domain — itnext.io is known to block scraping; not attempting a fetch
+- SKIP https://itnext.io/creating-envless-angular-application-0ce3c2ecaddd — failed — blocked_domain — itnext.io is known to block scraping; not attempting a fetch
+- SKIP https://itnext.io/dependency-inversion-in-architectural-patterns-aab2323f4118 — failed — blocked_domain — itnext.io is known to block scraping; not attempting a fetch
+- SKIP https://itnext.io/object-inputs-are-still-dangerous-even-with-angular-signals-9103a25d5e45 — failed — blocked_domain — itnext.io is known to block scraping; not attempting a fetch
+- SKIP https://itnext.io/orchestration-368c642f34de — failed — blocked_domain — itnext.io is known to block scraping; not attempting a fetch
+- SKIP https://itnext.io/stop-adding-repetitive-code-in-components-use-ngtemplateoutlet-instead-f7c0150df53d — failed — blocked_domain — itnext.io is known to block scraping; not attempting a fetch
+- SKIP https://itnext.io/system-design-sketches-d8cb8e1d539f — failed — blocked_domain — itnext.io is known to block scraping; not attempting a fetch
+- SKIP https://itnext.io/why-is-grpc-so-much-faster-than-a-json-based-rest-api-df09cb69fae5 — failed — blocked_domain — itnext.io is known to block scraping; not attempting a fetch
+- SKIP https://jacobin.com.br/2020/12/ludwig-van-beethoven-foi-um-genio-revolucionario/ — failed — fetch_timeout — rendering https://jacobin.com.br/2020/12/ludwig-van-beethoven-foi-um-genio-revolucionario/ exceeded the internal timeout (30000ms)
+- SKIP https://jacobin.com.br/2021/05/inventando-o-fim-de-semana/ — failed — fetch_timeout — rendering https://jacobin.com.br/2021/05/inventando-o-fim-de-semana/ exceeded the internal timeout (30000ms)
