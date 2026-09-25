@@ -304,3 +304,14 @@
 - SKIP https://journal.helabs.com/tenho-uma-ideia-que-vai-me-deixar-rico-99fd5c721779 — failed — fetch_failed — could not render https://journal.helabs.com/tenho-uma-ideia-que-vai-me-deixar-rico-99fd5c721779: goto: net::ERR_NAME_NOT_RESOLVED at https://journal.helabs.com/
 - SKIP https://jrsinclair.com/articles/2022/why-would-anyone-need-javascript-generator-functions/ — failed — thin_content — extracted content is only 318 chars, below the 400 minimum
 - SKIP https://justinjackson.ca/ai-coding?utm_source=tldrai — failed — fetch_timeout — rendering https://justinjackson.ca/ai-coding?utm_source=tldrai exceeded the internal timeout (60000ms)
+- SKIP https://levelup.gitconnected.com/5-engineering-management-philosophies-i-have-found-helpful-0316297d2007 — failed — blocked_domain — levelup.gitconnected.com is known to block scraping; not attempting a fetch
+- SKIP https://levelup.gitconnected.com/5-ways-to-promote-out-of-the-box-thinking-as-a-developer-a91ad9830b38 — failed — blocked_domain — levelup.gitconnected.com is known to block scraping; not attempting a fetch
+- SKIP https://levelup.gitconnected.com/6-characteristics-of-successful-senior-engineers-f84f902fa9e2 — failed — blocked_domain — levelup.gitconnected.com is known to block scraping; not attempting a fetch
+- SKIP https://levelup.gitconnected.com/9-laws-that-every-software-developer-should-know-a5518bfef022 — failed — blocked_domain — levelup.gitconnected.com is known to block scraping; not attempting a fetch
+- SKIP https://levelup.gitconnected.com/an-event-driven-approach-is-not-a-golden-hammer-b1b9265ec7d6 — failed — blocked_domain — levelup.gitconnected.com is known to block scraping; not attempting a fetch
+- SKIP https://levelup.gitconnected.com/api-design-101-from-basics-to-best-practices-a0261cdf8886 — failed — blocked_domain — levelup.gitconnected.com is known to block scraping; not attempting a fetch
+- SKIP https://levelup.gitconnected.com/backend-for-frontend-bff-architecture-64fa9f316a5a — failed — blocked_domain — levelup.gitconnected.com is known to block scraping; not attempting a fetch
+- SKIP https://levelup.gitconnected.com/continuous-learning-framework-802c48c73743 — failed — blocked_domain — levelup.gitconnected.com is known to block scraping; not attempting a fetch
+- SKIP https://levelup.gitconnected.com/effective-technical-leads-43bf15a1c7b7 — failed — blocked_domain — levelup.gitconnected.com is known to block scraping; not attempting a fetch
+- SKIP https://levelup.gitconnected.com/how-software-development-is-changing-with-agentic-coding-4e9d48b7d0fd — failed — blocked_domain — levelup.gitconnected.com is known to block scraping; not attempting a fetch
+- SKIP https://levelup.gitconnected.com/how-to-improve-your-documentation-with-diagrams-f093be8cec75 — failed — blocked_domain — levelup.gitconnected.com is known to block scraping; not attempting a fetch
