@@ -322,3 +322,6 @@
 - SKIP https://medium.freecodecamp.com/finding-time-to-become-a-better-developer-eebc154881b2 — failed — soft_404 — old medium.freecodecamp link redirects; composed from freeCodeCamp donation footer, article missing
 - SKIP https://medium.productcoalition.com/software-engineers-are-not-fungible-9293947f3a2c — failed — blocked_domain — medium.productcoalition.com is known to block scraping; not attempting a fetch
 - SKIP https://microservices.io/post/architecture/2024/10/06/premium-smaller-safe-reversible-steps-part-3-canary-deployments.html?ref=dailydev — failed — soft_404 — premium (members-only) post; only sidebar promo captured, article body absent
+- SKIP https://newsletter.eng-leadership.com/p/how-to-start-with-public-speaking?ref=dailydev — failed — soft_404 — paid-subscriber teaser; clipping stops at "let's get to the first step", the how-to steps are paywalled
+- SKIP https://newsletter.eng-leadership.com/p/my-advice-for-engineers-and-engineering?ref=dailydev — failed — thin_content — extracted content is only 200 chars, below the 400 minimum
+- SKIP https://newsletter.programmingdigest.net/p/on-being-a-senior-engineer?ref=dailydev — failed — soft_404 — newsletter subscribe landing page captured instead of the "On being a senior engineer" article
