@@ -268,3 +268,4 @@
 - SKIP https://dresdencodak.com/2024/09/24/the-dark-science-kickstarter-is-here/ — failed — fetch_timeout — rendering https://dresdencodak.com/2024/09/24/the-dark-science-kickstarter-is-here/ exceeded the internal timeout (30000ms)
 - SKIP https://faun.pub/a-guide-to-git-branching-strategies-c7c22c4848d3 — failed — blocked_domain — faun.pub is known to block scraping; not attempting a fetch
 - SKIP https://functional.works-hub.com/blog/My-reasons-to-love-F- — failed — thin_content — extracted content is only 352 chars, below the 400 minimum
+- SKIP https://github.com/BaldissaraMatheus/Tasks.md?ref=noted.lol — skipped — audit_unresolved — 
