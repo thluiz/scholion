@@ -360,3 +360,5 @@ Call log:
 - SKIP https://papodehomem.com.br/super-herois-pais-e-filhos — failed — language_mismatch — PT note with English tags (superheroes, fatherhood, comic-books)
 - SKIP https://qntm.org/ — failed — personal_homepage — qntm.org site homepage (section links + recent posts), not an article
 - SKIP https://qz.com/987170/coding-is-not-fun-its-technically-and-ethically-complex/ — failed — blocked_domain — qz.com is known to block scraping; not attempting a fetch
+- SKIP https://regex101.com/ — failed — thin_content — extracted content is only 95 chars, below the 400 minimum
+- SKIP https://risingstars.js.org/2024/en#section-framework — failed — soft_404 — project ranking listing: note is only a list of repo taglines (link-digest page), no article content
