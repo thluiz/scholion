@@ -266,3 +266,5 @@
 - SKIP https://doodlewash.com/portfolio/free-reference-photos-for-artists-nature/ — skipped — audit_unresolved — verdict red: A nota está factual e bem ancorada nas fontes, mas usa travessão/en dash como inciso/apposição em prosa autoral (padrão que reprova no filtro). Remover ou substituir por parênteses/preposição resolve.
 - SKIP https://doodlewash.com/watercolor-tutorials-for-watercolour-sketching/ — failed — soft_404 — title: / Page not found - Doodlewash®
 - SKIP https://dresdencodak.com/2024/09/24/the-dark-science-kickstarter-is-here/ — failed — fetch_timeout — rendering https://dresdencodak.com/2024/09/24/the-dark-science-kickstarter-is-here/ exceeded the internal timeout (30000ms)
+- SKIP https://faun.pub/a-guide-to-git-branching-strategies-c7c22c4848d3 — failed — blocked_domain — faun.pub is known to block scraping; not attempting a fetch
+- SKIP https://functional.works-hub.com/blog/My-reasons-to-love-F- — failed — thin_content — extracted content is only 352 chars, below the 400 minimum
