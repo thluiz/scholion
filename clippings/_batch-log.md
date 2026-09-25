@@ -359,3 +359,4 @@ Call log:
 - SKIP https://papodehomem.com.br/articles/flow/date/2017-05-21 — failed — thin_content — extracted content is only 181 chars, below the 400 minimum
 - SKIP https://papodehomem.com.br/super-herois-pais-e-filhos — failed — language_mismatch — PT note with English tags (superheroes, fatherhood, comic-books)
 - SKIP https://qntm.org/ — failed — personal_homepage — qntm.org site homepage (section links + recent posts), not an article
+- SKIP https://qz.com/987170/coding-is-not-fun-its-technically-and-ethically-complex/ — failed — blocked_domain — qz.com is known to block scraping; not attempting a fetch
