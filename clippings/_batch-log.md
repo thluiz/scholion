@@ -334,3 +334,10 @@
 - SKIP https://productcoalition.com/product-backlog-anit-patterns-31c8b303fc23 — failed — thin_content — extracted content is only 200 chars, below the 400 minimum
 - SKIP https://programmingdigest.net/newsletters/1800?ref=dailydev — failed — soft_404 — newsletter digest issue (link listing); note summarized only the first link blurb
 - SKIP https://pt.slideshare.net/giancosta86/introduction-to-erlang-64035190 — failed — soft_404 — SlideShare "A pagina ja nao existe" + cookie consent banner
+- SKIP http://cbn.globoradio.globo.com/comentaristas/mauro-halfeld/2013/12/03/QUERO-FAZER-UMA-APLICACAO-PARA-FINANCIAR-A-FACULDADE-OU-O-INTERCAMBIO-DA-MINHA-FILHA.htm — failed — thin_content — extracted content is only 58 chars, below the 400 minimum
+- SKIP http://chrisvalleskey.com/fillerama/ — failed — blocked_domain — chrisvalleskey.com is known to block scraping; not attempting a fetch
+- SKIP http://money.usnews.com/money/blogs/outside-voices-careers/articles/2016-05-31/5-things-never-to-ask-in-a-job-interview — failed — fetch_timeout — rendering http://money.usnews.com/money/blogs/outside-voices-careers/articles/2016-05-31/5-things-never-to-ask-in-a-job-interview exceeded the internal timeout (30000ms)
+- SKIP http://www.browserswarm.com/?utm_source=javascriptweekly&utm_medium=email — failed — soft_404 — Cloudflare 522 connection timed out error page
+- SKIP https://autonomialiteraria.com.br/loja/teoria-politica/desejo-pos-capitalista-ultimas-aulas/ — failed — promo_page — bookstore product page (loja) for Mark Fisher book
+- SKIP https://blog.bitsrc.io/3-design-patterns-every-developer-should-learn-71a51568ac9d — failed — fetch_timeout — rendering https://blog.bitsrc.io/3-design-patterns-every-developer-should-learn-71a51568ac9d exceeded the internal timeout (30000ms)
+- SKIP https://blog.bitsrc.io/single-responsibility-principle-practical-guide-to-writing-maintainable-code-50ec261819b7 — failed — fetch_timeout — rendering https://blog.bitsrc.io/single-responsibility-principle-practical-guide-to-writing-maintainable-code-50ec261819b7 exceeded the internal timeout (30000ms)
