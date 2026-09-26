@@ -3,7 +3,7 @@ title: "Don’t Ignore Thread Safety — Design for Concurrency from Day One"
 date: '2025-12-26T08:32:15+00:00'
 category: webclip
 summary: 'The article argues that thread safety should be built into software design from the start because concurrency bugs are hard to reproduce, appear under load, and can be reduced with safer patterns and automated review.'
-tags: ["thread-safety", "concurrency", "code-review", "coderrabbit"]
+tags: ["thread-safety", "concurrency", "code-review", "coderabbit"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
