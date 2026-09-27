@@ -62,6 +62,8 @@
                   <span class="scholion-card-type scholion-card-type--walk" title="caminhada">🗺</span>
                 {{ else if eq $noteType "webclip" }}
                   <span class="scholion-card-type scholion-card-type--webclip" title="webclip">📎</span>
+                {{ else if eq $noteType "tablature" }}
+                  <span class="scholion-card-type scholion-card-type--tablature" title="tablature">🎼</span>
                 {{ else if eq $noteType "place" }}
                   <span class="scholion-card-type scholion-card-type--place"
                         title="{{ if in (.Params.kinds | default slice) "restaurante" }}restaurante{{ else }}local com flores{{ end }}">📍</span>

@@ -466,6 +466,21 @@
   color: #f87171;
 }
 
+/* Tablatura */
+.scholion-card--tablature {
+  border-left: 3px solid #65a30d;
+}
+.dark .scholion-card--tablature {
+  border-left: 3px solid #a3e635;
+}
+
+.scholion-card-type--tablature {
+  color: #65a30d;
+}
+.dark .scholion-card-type--tablature {
+  color: #a3e635;
+}
+
 /* Pesquisa viva */
 .scholion-card--research {
   border-left: 3px solid #6366f1;
@@ -559,6 +574,13 @@
 }
 .dark .scholion-type-badge--webclip {
   color: #f87171;
+}
+
+.scholion-type-badge--tablature {
+  color: #65a30d;
+}
+.dark .scholion-type-badge--tablature {
+  color: #a3e635;
 }
 
 /* Escalas de 0 a 5 (Nota, Morbius, …) — 5 slots, os não-atingidos esmaecidos.
@@ -676,6 +698,13 @@
 }
 .dark .scholion-note--webclip {
   border-left: 4px solid #f87171;
+}
+
+.scholion-note--tablature {
+  border-left: 4px solid #65a30d;
+}
+.dark .scholion-note--tablature {
+  border-left: 4px solid #a3e635;
 }
 
 /* Pesquisa viva — single page */
