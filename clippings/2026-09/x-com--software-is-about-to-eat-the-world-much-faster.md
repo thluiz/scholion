@@ -1,0 +1,26 @@
+---
+url: "https://x.com/pmarca/status/2097762851788398971?utm_source=tldrai"
+captured_at: "2026-09-09T19:03:33+00:00"
+title: "Software is about to eat the world much faster"
+domain: "x-com"
+---
+
+Fifteen years ago, I wrote that software is eating the world - at the time, a controversial claim. The main prediction of the essay has come true. As a simple measure, technology’s share of the market capitalization among the ten largest businesses in the world has gone from 31.5% to 94.4% over that period. Amazingly, this happened even though only 1 in 300 people on earth wrote software, and every line of it had to be written by hand. Software has been eating the world at the speed of human hands. It is about to eat the world at the speed of compute.
+
+Three years ago, when Scott Wu and his team began building Devin, the term “coding agent” barely existed. Today, if you talk to any software engineer at a leading company, they’ll tell you that agents write almost all of their code. In the past year, Devin has gone from writing 13% of Cognition’s production code to more than 90%.
+
+When agents write 90% of the code, engineers can literally do ten times as much. The 10x engineer becomes the 100x engineer, as they shift from writing artisanal code to operating as the CTO of a fleet of agents. The 1000x engineer isn’t too far behind. As Scott puts it: “Within our lifetime, engineers will go from bricklayers to architects, focusing on the creativity of designing systems rather than the manual labor of putting them together.”
+
+At Mercedes Benz, engineers turned what would have been an eight month long COBOL migration into 8 days of work with Devin. Rivian teams increased their test generation velocity by 10x. Devin triages and patches vulnerabilities across thousands of repos at some of the world’s largest financial institutions like Itau, where 70% of security vulnerabilities are automatically remediated by Devin.
+
+Every time programmers get more leverage, doomers predict the end of software engineering. Compilers were supposed to shrink the profession. So was open source. So was the cloud. Instead, each leap made software cheaper to build, and demand for software, and engineers, exploded. It keeps happening because, as Milton Friedman observed, human wants and needs are infinite, so economic demand is infinite, and job growth can continue forever (see The Techno-Optimist Manifesto). Technology is how we unlock that demand. Technology gives us leverage, lowers the cost to produce, and makes previously uneconomical use cases economical. For software, Devin provides that leverage.
+
+It is tempting to think of this as just another application of AI - one vertical among many. But if software continues to eat the world, the automation of software itself accelerates every industry.
+
+This future is core to how we at a16z see the world. We have always believed that software expands markets, that technical founders with seemingly unreasonable ambition create the future, and that small teams armed with powerful tools can change entire industries. Cognition is a powerful expression of those beliefs: a deeply technical company taking on an enormous problem, moving at extraordinary speed, and building for a market whose ultimate size is difficult to comprehend.
+
+Our conviction in Cognition comes from personally knowing Scott for over seven years. We first backed him at Lunchclub, where he and his team built a system for bringing people together and created relationships that have lasted through the years since. Scott is one of the most accomplished competitive programmers of his generation: a three-time gold medalist at the International Olympiad in Informatics and a world champion at 17. But after working with him for many years, we know that his technical brilliance is only part of what makes him exceptional. Scott has an unusual combination of speed, judgment, competitiveness, and leadership. He sees important technical shifts early. He holds himself and everyone around him to an extraordinarily high standard. He cares deeply about his customers, recruits exceptional people, and has built a culture that moves with the urgency of the opportunity. One of Cognition’s values is “every second counts.” They mean it.
+
+An infinite market demands infinite ambition. Scott’s ambition and vision match the scale of the market and we are proud to back him for the second time. Scott, Steven, Walden, Russell and the entire Cognition team are working toward a world in which anyone can turn an idea into software.
+
+I ended my 2011 essay with one line: “I know where I'm putting my money.” Fifteen years later, I still do.
