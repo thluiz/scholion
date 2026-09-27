@@ -30,7 +30,7 @@ mostrar ao autor antes de qualquer preview, escrita ou commit.
 **Regras rígidas — sem exceção:**
 
 - `verdict: red` → **não pode salvar**. A key desta skill (`add-scholion-webclip-skill`, role `write`) não tem `webclip.save.force` — só a key `admin` do Thiago tem, de propósito (ver Decision 3 do README do scholion-webclipper). Não existe "forçar" a partir daqui: o caminho é ajustar o que motivou o red (ex.: pedir pro autor decidir sobre um `relatedNotes` mal escolhido) e chamar `compose` de novo.
-- `verdict: yellow` → mostrar findings ao autor, ele decide caso a caso.
+- `verdict: yellow` → **seguir sem pedir decisão**. Listar os findings no preview (uma linha cada: regra + trecho curto), só pra registro, e salvar após a aprovação normal do preview. Nota webclip é resumo de texto alheio: se o conteúdo saiu do original, não há o que alterar por estilo (decisão do Thiago, 2026-09-27). Também **não recompor** só para tentar zerar o yellow.
 - `verdict: green` → seguir.
 - **PROIBIDO substituir por checklist mental.** Sem o JSON da resposta do `compose` visto, a auditoria não aconteceu.
 - **Fail-open**: se `http://localhost:8080/api/webclip/health` não responder, dizer isso explicitamente ao autor e perguntar como proceder — **não** cair silenciosamente para composição manual. Isso reabriria o problema de custo de token que essa API existe pra resolver.
@@ -92,6 +92,8 @@ Se o autor apontar notas: **recompor** — chamar `compose` de novo, mesma URL/t
 ```powershell
 $body = @{ url = '<mesma url>'; relatedNotes = @(@{ slug = '<slug>'; title = '<título>'; hint = '<por que conecta, opcional>' }) } | ConvertTo-Json -Depth 6
 ```
+
+`relatedNotes` só entra como contexto no prompt do modelo — o link **não** é renderizado deterministicamente e pode não aparecer na nota (aconteceu em `dia-das-maes-8-frases-que-as-maes-gostariam-de-parar-de-ouvi`). Conferir no preview se o link está no corpo e avisar o autor se não estiver.
 
 Isso gera um `operationId` novo (já auditado de novo) — usar esse daqui pra frente; o anterior simplesmente expira sem uso (nunca é salvo). Se nada relevante no search-first, seguir com o `operationId` do passo 1.
 
