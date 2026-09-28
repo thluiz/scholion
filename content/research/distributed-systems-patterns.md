@@ -34,31 +34,31 @@ Links: [Part 9 — Backpressure](https://dev.to/pckrishnadas88/building-distribu
 
 ### 1. State in a process
 
-Part 1: [Building a Stateful Process in Elixir Without GenServer](https://dev.to/pckrishnadas88/building-a-stateful-process-in-elixir-without-genserver-58eb) (2026-07-30). Related: [erlang](/notes/erlang), [elixir](/notes/elixir), [otp-open-telecom-platform](/notes/otp-open-telecom-platform), [thinking-in-actors-part-1](/notes/thinking-in-actors-part-1), [jonas-boner-actor-model-akka-reactive-programming-microservi](/notes/jonas-boner-actor-model-akka-reactive-programming-microservi). ?
+Part 1: [Building a Stateful Process in Elixir Without GenServer](https://dev.to/pckrishnadas88/building-a-stateful-process-in-elixir-without-genserver-58eb) (2026-07-30). Scholion webclip: [building-a-stateful-process-in-elixir-without-genserver](/notes/building-a-stateful-process-in-elixir-without-genserver). Related: [erlang](/notes/erlang), [elixir](/notes/elixir), [otp-open-telecom-platform](/notes/otp-open-telecom-platform), [thinking-in-actors-part-1](/notes/thinking-in-actors-part-1), [jonas-boner-actor-model-akka-reactive-programming-microservi](/notes/jonas-boner-actor-model-akka-reactive-programming-microservi). ?
 
 ### 2. Request–reply and service communication
 
-Part 2: [Correlated Request–Reply](https://dev.to/pckrishnadas88/building-distributed-systems-with-elixir-02-correlated-request-reply-4b2a) (2026-08-06). Related: [must-know-service-communication-patterns](/notes/must-know-service-communication-patterns), [cross-app-communication-with-rpc-in-elixir](/notes/cross-app-communication-with-rpc-in-elixir), [retries-have-an-evil-twin-duplicates](/notes/retries-have-an-evil-twin-duplicates). ?
+Part 2: [Correlated Request–Reply](https://dev.to/pckrishnadas88/building-distributed-systems-with-elixir-02-correlated-request-reply-4b2a) (2026-08-06). Scholion webclip: [building-distributed-systems-with-elixir-02-correlated-reque](/notes/building-distributed-systems-with-elixir-02-correlated-reque). Related: [must-know-service-communication-patterns](/notes/must-know-service-communication-patterns), [cross-app-communication-with-rpc-in-elixir](/notes/cross-app-communication-with-rpc-in-elixir), [retries-have-an-evil-twin-duplicates](/notes/retries-have-an-evil-twin-duplicates). ?
 
 ### 3. Failure detection
 
-Part 3: [Process Monitoring](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-3-process-monitoring-5b5p) (2026-08-13). Part 4: [Process Linking](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-4-process-linking-okb) (2026-08-14). Related: [heartbeats-in-distributed-systems](/notes/heartbeats-in-distributed-systems). ?
+Part 3: [Process Monitoring](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-3-process-monitoring-5b5p) (2026-08-13). Part 4: [Process Linking](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-4-process-linking-okb) (2026-08-14). Scholion webclips: [building-distributed-systems-in-elixir-part-3-process-monito](/notes/building-distributed-systems-in-elixir-part-3-process-monito), [building-distributed-systems-in-elixir-part-4-process-linkin](/notes/building-distributed-systems-in-elixir-part-4-process-linkin). Related: [heartbeats-in-distributed-systems](/notes/heartbeats-in-distributed-systems). ?
 
 ### 4. Supervision and resiliency
 
-Part 5: [Supervisor From Scratch](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-5-supervisor-from-scratch-32mh) (2026-08-18). Related: [must-known-resiliency-patterns-for-distributed-systems](/notes/must-known-resiliency-patterns-for-distributed-systems), [building-robust-distributed-systems](/notes/building-robust-distributed-systems), [http-best-practices-using-asp-net-core-and-polly](/notes/http-best-practices-using-asp-net-core-and-polly). ?
+Part 5: [Supervisor From Scratch](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-5-supervisor-from-scratch-32mh) (2026-08-18). Scholion webclip: [building-distributed-systems-in-elixir-part-5-supervisor-fro](/notes/building-distributed-systems-in-elixir-part-5-supervisor-fro). Related: [must-known-resiliency-patterns-for-distributed-systems](/notes/must-known-resiliency-patterns-for-distributed-systems), [building-robust-distributed-systems](/notes/building-robust-distributed-systems), [http-best-practices-using-asp-net-core-and-polly](/notes/http-best-practices-using-asp-net-core-and-polly). ?
 
 ### 5. Naming and discovery
 
-Part 6: [Named Processes](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-6-named-processes-l3) (2026-08-19). ?
+Part 6: [Named Processes](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-6-named-processes-l3) (2026-08-19). Scholion webclip: [building-distributed-systems-in-elixir-part-6-named-processe](/notes/building-distributed-systems-in-elixir-part-6-named-processe). ?
 
 ### 6. Worker pools
 
-Part 7: [Worker Pool](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-7-worker-pool-f23) (2026-08-24). Related: [dont-ignore-thread-safety-design-for-concurrency-from-day-on](/notes/dont-ignore-thread-safety-design-for-concurrency-from-day-on). ?
+Part 7: [Worker Pool](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-7-worker-pool-f23) (2026-08-24). Scholion webclip: [building-distributed-systems-in-elixir-part-7-worker-pool](/notes/building-distributed-systems-in-elixir-part-7-worker-pool). Related: [dont-ignore-thread-safety-design-for-concurrency-from-day-on](/notes/dont-ignore-thread-safety-design-for-concurrency-from-day-on). ?
 
 ### 7. Publish/subscribe and events
 
-Part 8: [Publish / Subscribe](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-8-publish-subscribe-cl3) (2026-09-14). Related: [distributed-pubsub-in-elixir](/notes/distributed-pubsub-in-elixir), [understanding-concepts-in-event-driven-architectures](/notes/understanding-concepts-in-event-driven-architectures), [the-dual-nature-of-events-in-event-driven-architecture](/notes/the-dual-nature-of-events-in-event-driven-architecture), [patterns-best-practices-event-driven-systems](/notes/patterns-best-practices-event-driven-systems), [serverless-event-driven-systems](/notes/serverless-event-driven-systems). ?
+Part 8: [Publish / Subscribe](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-8-publish-subscribe-cl3) (2026-09-14). Scholion webclip: [building-distributed-systems-in-elixir-part-8-publish-subscr](/notes/building-distributed-systems-in-elixir-part-8-publish-subscr). Related: [distributed-pubsub-in-elixir](/notes/distributed-pubsub-in-elixir), [understanding-concepts-in-event-driven-architectures](/notes/understanding-concepts-in-event-driven-architectures), [the-dual-nature-of-events-in-event-driven-architecture](/notes/the-dual-nature-of-events-in-event-driven-architecture), [patterns-best-practices-event-driven-systems](/notes/patterns-best-practices-event-driven-systems), [serverless-event-driven-systems](/notes/serverless-event-driven-systems). ?
 
 ### 8. Backpressure
 
