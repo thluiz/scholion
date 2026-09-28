@@ -62,7 +62,7 @@ Part 8: [Publish / Subscribe](https://dev.to/pckrishnadas88/building-distributed
 
 ### 8. Backpressure
 
-Part 9: [Backpressure](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-9-backpressure-4o5i) (2026-09-22). ⚠ From a first read, not yet checked line by line: three experiments, going from uncoordinated push (the consumer's mailbox grows without bound), to stop-and-wait with acknowledgements, to a consumer-driven demand window; mentions GenStage and Broadway as the production form of the demand protocol. Related: [notes-on-distributed-systems-for-young-bloods](/notes/notes-on-distributed-systems-for-young-bloods), [high-performance-dotnet-apps-with-csharp-channels](/notes/high-performance-dotnet-apps-with-csharp-channels). ?
+Part 9: [Backpressure](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-9-backpressure-4o5i) (2026-09-22). ⚠ From a first read, not yet checked line by line: three experiments, going from uncoordinated push (the consumer's mailbox grows without bound), to stop-and-wait with acknowledgements, to a consumer-driven demand window; mentions GenStage and Broadway as the production form of the demand protocol. Scholion webclip: [building-distributed-systems-in-elixir-part-9-backpressure](/notes/building-distributed-systems-in-elixir-part-9-backpressure). Related: [elixir-makes-you-make-good-decisions](/notes/elixir-makes-you-make-good-decisions), [notes-on-distributed-systems-for-young-bloods](/notes/notes-on-distributed-systems-for-young-bloods), [high-performance-dotnet-apps-with-csharp-channels](/notes/high-performance-dotnet-apps-with-csharp-channels). ?
 
 ### 9. Clustering and consistency
 
