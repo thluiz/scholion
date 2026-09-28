@@ -1,6 +1,6 @@
 ---
 url: "https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-9-backpressure-4o5i"
-captured_at: "2026-09-28T15:00:02+01:00"
+captured_at: "2026-09-28T15:13:04+01:00"
 title: "Building Distributed Systems in Elixir: Part 9 — Backpressure"
 domain: "dev-to"
 ---
