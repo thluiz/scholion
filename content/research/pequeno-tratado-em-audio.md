@@ -17,6 +17,7 @@ toc: true
 - **Destino é roteiro de áudio**, não ensaio escrito. Cada bloco de pesquisa por virtude precisa caber em 5-15 minutos de fala — sobrevoo do argumento de Comte-Sponville, 1-2 pontes para o Scholion, 1 paralelo oriental ou Kung Fu, eventualmente uma anedota.
 - **Eixo paralelo fixo: 德 (dé / dak)**. Toda virtude do Comte-Sponville passa por uma pergunta: o que dela aparece (ou se desfaz) quando lida pela tradição chinesa de virtude como força-em-via?
 - **Fonte primária privada**: edição Martins Fontes 2016, no submódulo `fontes-privadas/pequeno-tratado-das-grandes-virtudes.{pdf,txt}`. O site público apenas referencia. Por se tratar de obra sob direito autoral, episódios e notas extraídas paráfrasem; só citações curtas literais.
+- **Conversas de voz**: o dossiê de apoio fica em `fontes-privadas/pequeno-tratado-dossie-voz.md`; cada fechamento é exportado para `fontes-privadas/pequeno-tratado-fechamentos/<data>-<virtude>.md`, incorporado aqui e apagado do claude.ai.
 
 ## Estado
 
