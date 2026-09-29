@@ -39,7 +39,7 @@ O projeto de podcast vem da intuição oposta à do tratado: cada uma das 18 vir
 (Apenas as suas. A IA propõe direções abaixo, marcadas como "a confirmar".)
 
 - O que ocupa o lugar do "fim" numa definição de virtude como o que qualifica alguém a agir de forma adequada a um fim?
-- Abrir a série com a ideia de que forma sem conteúdo é perigosa (o nazismo como êxito de uma sociedade educada) cria que problema? O autor comparou o risco a um impasse lógico, "lei de Gödel". A precisar. Ver [teorema-da-incompletude-de-godel](/notes/teorema-da-incompletude-de-godel/).
+- Abrir a série com a ideia de que forma sem conteúdo é perigosa (o nazismo como êxito de uma sociedade educada) cria que problema? O risco é cair na lei de Godwin logo no primeiro episódio: a comparação com o nazismo, que numa discussão longa acaba sempre aparecendo e banaliza o argumento. Ver [godwin-law](/notes/godwin-law/).
 
 ## Direções a mapear / Leituras
 
