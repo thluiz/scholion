@@ -20,8 +20,8 @@ toc: true
 
 ## Estado
 
-- **Em foco**: definir agrupamento dos 18 capítulos em episódios. Algumas virtudes pedem solo, outras parecem agrupáveis por afinidade.
-- **Próximo**: escolher o episódio piloto.
+- **Em foco**: episódio de abertura sobre o que é uma virtude (decisão do autor, 2026-09-29). A definição do prefácio, "uma cumeada entre dois abismos", não cobre a Polidez nem as virtudes sem par de vícios. Ver direção 5.
+- **Próximo**: (a) cruzar as 18 virtudes no livro para separar as que têm par claro de vícios das que não têm; isso decide os agrupamentos. (b) Fontes para o mapa de definições (5.3). (c) Polidez como primeiro episódio de conteúdo.
 - **Pesquisas-irmãs**:
   - [discursos-protrepticos](/research/discursos-protrepticos/) — Comte-Sponville é um protréptico moderno explícito; o tratado é exercício de conversão à filosofia prática.
   - [estoicismo-lusitano](/research/estoicismo-lusitano/) — sabedoria vivida como virtude difusa, ponte para a tradição estoica que Comte-Sponville cita o tempo inteiro.
@@ -37,6 +37,9 @@ O projeto de podcast vem da intuição oposta à do tratado: cada uma das 18 vir
 ## Perguntas em aberto
 
 (Apenas as suas. A IA propõe direções abaixo, marcadas como "a confirmar".)
+
+- O que ocupa o lugar do "fim" numa definição de virtude como o que qualifica alguém a agir de forma adequada a um fim?
+- Abrir a série com a ideia de que forma sem conteúdo é perigosa (o nazismo como êxito de uma sociedade educada) cria que problema? O autor comparou o risco a um impasse lógico, "lei de Gödel". A precisar. Ver [teorema-da-incompletude-de-godel](/notes/teorema-da-incompletude-de-godel/).
 
 ## Direções a mapear / Leituras
 
@@ -91,6 +94,77 @@ Notas que não pertencem a uma virtude específica mas ao argumento global:
 
 - [etimologia-de-dak-de](/notes/etimologia-de-dak-de/) — a palavra chinesa para virtude. O ideograma une 彳 (andar) + 直 (reto) + 心 (coração): virtude é caminho reto do coração. Glosa clássica: "外得於人內得於已也" (o que se obtém externamente nos outros e internamente em si mesmo). Eixo retórico recorrente da série.
 - Vários nomes da linhagem Moy Yat carregam 德 — [moy-mo-tak](/notes/moy-mo-tak/), [moy-on-dak-wah](/notes/moy-on-dak-wah/), [moy-tan-dak](/notes/moy-tan-dak/), [moy-dak-bei](/notes/moy-dak-bei/). Cabe um episódio (ou inserção) sobre a linhagem como prática de 德.
+
+### 5. Arquitetura da série — conversa de 2026-09-29
+
+Conversa de voz sobre a Polidez que acabou na arquitetura da série.
+
+#### 5.1. Decisões do autor
+
+- **Abertura**: um episódio sobre o que é uma virtude, antes de qualquer virtude específica.
+- **Polidez ganha episódio próprio.** Não é virtude do mesmo tipo que as outras dezessete: é porta de entrada. A criança finge respeito antes de senti-lo; imitando as maneiras da virtude, ganha a chance de se tornar virtuosa (paráfrase do cap. 1).
+- **Par de vícios da Polidez** ⚠ formulação do autor, o livro não dá: apatia (quem nem se importa com os usos) e desrespeito ativo (o grosseiro que ofende de propósito).
+- **Agrupamento Polidez + Doçura**, a confirmar. Critério: a apatia como abismo comum. O prefácio põe a doçura "entre cólera e apatia".
+
+#### 5.2. Três tipos de virtude
+
+⚠ Hipótese do autor, candidatas ainda não conferidas capítulo a capítulo:
+
+| Tipo | Candidatas |
+|---|---|
+| Porta de entrada | Polidez |
+| Cumeada entre dois vícios | Prudência, Temperança, Coragem, Tolerância, Boa-fé |
+| Sem par de vícios | Justiça, Compaixão, Gratidão, Amor |
+
+Se a hipótese se sustenta, "cumeada entre dois abismos" não serve como definição única: exclui a Polidez e o Amor.
+
+#### 5.3. O que é uma virtude — mapa de definições
+
+- **Comte-Sponville**: toda virtude é um ápice entre dois vícios, "uma cumeada entre dois abismos" (prefácio). ✓ edição Martins Fontes 2016.
+- **Aristóteles**: aretê como adequação ao *ergon*, a função própria de cada coisa. ✓ ver [arete-adequacao-ao-cosmos](/notes/arete-adequacao-ao-cosmos/) (*Ética a Nicômaco* I.7).
+- **Aristóteles**: virtude como meio-termo entre excesso e falta; o próprio texto exclui ações que não admitem meio (roubo, adultério, assassinato). ? conferir *EN* II.6.
+- **Aristóteles**: virtude se forma pelo hábito. ✓ ver [durant-excelencia-habito](/notes/durant-excelencia-habito/). Sustenta o argumento da criança.
+- **Tomás de Aquino**: aceita o meio-termo nas virtudes morais, mas não nas teológicas (fé, esperança, caridade). ? conferir *Suma Teológica* I-II.
+- **Estoicos**: virtude sem graus nem meio-termo, viver conforme a natureza. ? conferir.
+- **Tradição chinesa**: virtudes (仁, 義, 禮) definidas em função do 道. ? conferir; ver [etimologia-de-dak-de](/notes/etimologia-de-dak-de/).
+- **Proposta do autor** ⚠: trocar "bem" por "adequado". Virtude é o que qualifica alguém a agir de forma adequada a um fim, qualquer que seja o fim. Paralelos: a aretê como adequação ao *ergon* (acima); o *kathékon* estoico, "o apropriado" (? conferir).
+
+#### 5.4. 文/武
+
+- Analectos 19.22, fala de Zigong, não de Confúcio: 文、武之道，未墜於地，在人 ("o caminho de Wen e Wu não caiu por terra, está nas pessoas"). ✓ [Wikisource](https://zh.wikisource.org/wiki/論語/子張第十九).
+- Frase atribuída a Moy Yat, "a erudição e a marcialidade se completam". ? fonte pendente. Eixo 文/武 já mapeado em [arte-marcial](/research/arte-marcial/), direção 4.
+
+#### 5.5. Notas que apareceram
+
+- [etimologia-de-lai-li](/notes/etimologia-de-lai-li/) (禮)
+- [vladimir-anchieta-saber-se-adaptar-ao-outro](/notes/vladimir-anchieta-saber-se-adaptar-ao-outro/)
+- [moy-wu-lai](/notes/moy-wu-lai/)
+- [marcio-lopes-arete-arte-da-excelencia](/notes/marcio-lopes-arete-arte-da-excelencia/)
+
+### 6. Episódios do Vox relacionados
+
+Levantamento por título, descrição e anotações (2026-09-29). Nenhum episódio trata do livro de Comte-Sponville.
+
+**O que é virtude**
+
+- [Falando nIsso 554 — Estoicismo: filosofia da crise ou disciplina machista?](https://vox.thluiz.com/2026/09/W39/estoicismo-filosofia-da-crise-ou-disciplina-machista-falando-nisso-554/) — vício e virtude com o intervalo da indiferença (*adiáphora*) entre eles; terceira estrutura, nem meio-termo nem binário simples.
+- [Falando nIsso 552 — O que é liderança?](https://vox.thluiz.com/2026/09/W38/o-que-e-lideranca-falando-nisso-552/) — virtudes clássicas a partir do Sonho de Cipião: coragem, prudência, justiça, magnificência, e a graça como síntese (clemência, perdão).
+- [Gregory Sadler — Stoic Philosophy and Practice: The Four Virtues](https://vox.thluiz.com/2022/03/W10/stoic-philosophy-and-practice-the-basics-the-four-virtues-gregory-sadler/) — as quatro virtudes estoicas.
+- [Imposturas Filosóficas #293 — Espinosa, conatus](https://vox.thluiz.com/2025/06/W23/293-essencialmente-desejante-espinosa-conatus/) — a virtude como prêmio da própria virtude; ética do que produz alegria.
+- [HoP 494 — Tell the Truth While Laughing: The French Moralists](https://vox.thluiz.com/2026/05/W22/hop-494-tell-the-truth-while-laughing-the-french-moralists/) — a virtude como máscara do amor-próprio (eixo meta-virtude, direção 3).
+- [Massimo Pigliucci — Stoicism as a philosophy for an ordinary life](https://vox.thluiz.com/2018/09/W39/stoicism-as-a-philosophy-for-an-ordinary-life-massimo-pigliucci-tedxathens/) e [The struggle for the good life](https://vox.thluiz.com/2025/09/W38/the-struggle-for-the-good-life-massimo-pigliucci-on-ancient-philosophy-for-the-m/).
+
+**Virtudes específicas**
+
+- [Filosofia Vermelha — O estoicismo de Musônio Rufo](https://vox.thluiz.com/2025/11/W46/o-estoicismo-de-musonio-rufo/) — a alimentação como campo de batalha mais frequente da virtude (Temperança); origem de [comer-para-viver-nao-para-prazer](/notes/comer-para-viver-nao-para-prazer/).
+- [Filosofia Vermelha — O verdadeiro filósofo e o charlatão](https://vox.thluiz.com/2026/04/W18/o-verdadeiro-filosofo-e-o-charlatao/) — Epicteto e os três vícios capitais (Temperança); origem de [preparacao-corpo-tres-vicios-capitais](/notes/preparacao-corpo-tres-vicios-capitais/).
+- [Elefantes na Neblina #133 — Culpados](https://vox.thluiz.com/2026/09/W37/133-culpados/) — virtudes e defeitos coexistindo nas épocas pagãs; culpa e perdão (Misericórdia).
+- [Popcult #31 — Um ensaio sobre The Rehearsal](https://vox.thluiz.com/2022/09/W36/31-um-ensaio-sobre-the-rehearsal-com-gregorio-duvivier-e-pedro-falcao/) — protocolos e polidez como ensaio social; *O Homem Invisível* e o comportamento sem vigilância (Polidez, forma vazia).
+
+**Eixo chinês**
+
+- [Filosofia Pop #113 — Pensamento Chinês, Giorgio Sinedino](https://vox.thluiz.com/2020/12/W50/113-pensamento-chines-giorgio-sinedino/) — confucionismo, taoísmo e budismo; transmissão mestre-discípulo no modelo da família.
+- [História FM 172 — Três Reinos](https://vox.thluiz.com/2024/06/W26/172-tres-reinos-a-fragmentacao-do-imperio-chines/) — Confúcio como transmissor; passagem do legalismo Qin ao confucionismo Han.
 
 ## Notas extraídas
 
