@@ -10,7 +10,7 @@ toc: true
 ## Estado
 
 - **Em foco**: Jaspers, *Einführung in die Philosophie* — direção 7.
-- **Próximo**: a confirmar após Jaspers. Deleuze/Guattari (direção 5) é o candidato natural seguinte, pelo contraste.
+- **Próximo**: a confirmar após Jaspers. Deleuze/Guattari (direção 5) é o candidato natural seguinte, pelo contraste. Direção 8 (contra-história, Onfray) aberta em 2026-09-29 para retomar.
 - Pesquisas-irmãs: [Ontologia](/research/ontologia), [Heidegger](/research/heidegger), [Wittgenstein](/research/wittgenstein).
 
 ## Motivação
@@ -63,6 +63,14 @@ Carnap, Quine, Wittgenstein do *Tractatus*: filosofia se reduz a análise lógic
 *Einführung in die Philosophie* (1950, conferências radiofónicas em Basileia). 12 conferências curtas que abrem pela pergunta "o que é filosofia?". Define filosofia negativamente contra a ciência (sem progresso, sem resultado universalmente vinculante) e positivamente pelas fontes do filosofar: espanto, dúvida, situações-limite (*Grenzsituationen*). Filosofia está sempre *unterwegs* — a caminho.
 
 ⚠ Reconstruído de memória; verificar contra o texto. Edição a determinar (alemão, inglês ou tradução portuguesa).
+
+### 8. Onfray — a contra-história da filosofia
+
+Não é a anti-filosofia da direção 6 (que reduz a filosofia a análise lógica): é a tese de que existe uma história oficial da filosofia e outra que ela deixou de fora.
+
+- **Onfray**, *Contre-histoire de la philosophie*: ciclo de cursos na Université populaire de Caen (2002-2015), transmitido pela France Culture e publicado pela Grasset. Resgata correntes marginalizadas pela história oficial: materialismo, hedonismo, epicurismo, cinismo, libertinos. ✓ [Wikipédia FR](https://fr.wikipedia.org/wiki/Contre-histoire_de_la_philosophie).
+- **Rogério de Almeida** no [Não Obstante #01 — A filosofia morreu?](https://vox.thluiz.com/2015/03/W10/01-a-filosofia-morreu/) (00:38:47-00:39:52) traz o termo de Onfray para a pergunta sobre a morte da filosofia: o que morre é "um tipo de filosofia que se escreveu historicamente como a filosofia oficial", contestada por "filosofias vitalistas, que vão apostar numa força vital como mais forte do que um argumento racional" ou do que um sistema explicativo do sentido da vida. Morre uma filosofia para reabilitar outra. ✓ transcript do episódio.
+- Ligação com a pergunta desta pesquisa, a confirmar: se há uma filosofia oficial e uma contra-filosofia, o "modo filosófico" é um só ou é disputado entre as duas tradições?
 
 ## Notas do Scholion já relacionadas
 
