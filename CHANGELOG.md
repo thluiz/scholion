@@ -16,6 +16,11 @@ e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
   termina bem; se a máquina estiver desligada às 03:00 ou o deploy falhar, a
   execução seguinte faz o fullsync. Nas demais execuções, segue incremental a
   cada 30 minutos.
+- **Backup automático de `fontes-privadas/`.** Antes do deploy, cada execução
+  de `\Claude\ScholionPublish` commita (`auto: snapshot <data hora>`) o que
+  houver de mudança no submódulo e dá push no repo privado. Best-effort: HEAD
+  destacado ou push com falha só geram aviso no log, sem bloquear o deploy. O
+  ponteiro do submódulo no repo público continua sendo atualizado à mão.
 - **Skill `dossie-voz`**: monta, a partir de uma pesquisa viva, o dossiê que
   uma IA lê no celular para conversar por voz com o autor, e depois incorpora
   o fechamento dessa conversa na pesquisa. Dossiê e fechamentos ficam no

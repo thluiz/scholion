@@ -19,6 +19,32 @@ $lastFull = if (Test-Path $FULL_SYNC_MARK) { (Get-Content $FULL_SYNC_MARK -Raw).
 $fullSync = ($now.Hour -ge $FULL_SYNC_HOUR) -and ($lastFull -ne $today)
 if ($fullSync) { Write-Host "==> fullsync diario (ultimo: $(if ($lastFull) { $lastFull } else { 'nunca' }))" }
 
+# Backup do submodulo privado fontes-privadas: se houver mudanca, commit + push
+# automatico no repo privado. Best-effort: falha aqui so vai pro log, nao bloqueia
+# o deploy. O ponteiro do submodulo no repo publico NAO e atualizado aqui.
+$FP = "E:\scholion\fontes-privadas"
+try {
+    if (-not (Test-Path "$FP\.git")) {
+        Write-Host "==> fontes-privadas: submodulo ausente, pulando"
+    } elseif (-not (git -C $FP symbolic-ref -q HEAD)) {
+        Write-Host "==> fontes-privadas: HEAD destacado, pulando backup (resolver a mao)" -ForegroundColor Yellow
+    } else {
+        if (git -C $FP status --porcelain) {
+            git -C $FP add -A
+            git -C $FP commit -q -m "auto: snapshot $(Get-Date -Format 'yyyy-MM-dd HH:mm')"
+            Write-Host "==> fontes-privadas: snapshot commitado"
+        }
+        $ahead = git -C $FP rev-list --count '@{u}..HEAD' 2>$null
+        if ($ahead -and [int]$ahead -gt 0) {
+            git -C $FP push -q 2>&1 | Out-Host
+            if ($LASTEXITCODE -eq 0) { Write-Host "==> fontes-privadas: push de $ahead commit(s)" }
+            else { Write-Host "AVISO: push de fontes-privadas falhou (exit $LASTEXITCODE)" -ForegroundColor Yellow }
+        }
+    }
+} catch {
+    Write-Host "AVISO: backup de fontes-privadas falhou - $($_.Exception.Message)" -ForegroundColor Yellow
+}
+
 # Deploy: este sim reporta erro/exit code. O git pull acontece dentro do deploy.ps1.
 try {
     if ($fullSync) { & "E:\scholion\deploy.ps1" -ForceFullSync } else { & "E:\scholion\deploy.ps1" }
