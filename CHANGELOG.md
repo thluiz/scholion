@@ -5,6 +5,18 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
+## [0.5.12] — 2026-09-29
+
+### Adicionado
+
+- **Fullsync diário na publicação agendada.** A primeira execução de
+  `\Claude\ScholionPublish` a partir das 03:00 chama `deploy.ps1
+  -ForceFullSync` (hash de todo o `public/`, upload só do que diferir). O dia
+  fica marcado em `last-full-sync.txt` (ignorado no git) só quando o deploy
+  termina bem; se a máquina estiver desligada às 03:00 ou o deploy falhar, a
+  execução seguinte faz o fullsync. Nas demais execuções, segue incremental a
+  cada 30 minutos.
+
 ## [0.5.11] — 2026-08-15
 
 ### Adicionado
