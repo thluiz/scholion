@@ -1,13 +1,13 @@
 ---
-title: "Node.js is so ubiquitous that it’s become an accepted, invisible element of the development workflow"
+title: "Gmail sign in"
 date: '2018-08-02T15:57:34-03:00'
 category: webclip
-summary: 'The text says Node.js has become an accepted, invisible part of the development workflow. It is not the only platform, but it is presented as a universal one.'
-tags: ["node-js", "development-workflow", "platform"]
+summary: 'The page is a Gmail sign-in screen that asks for an email or phone number, offers email recovery, suggests private browsing on a shared computer, and provides a create-account option.'
+tags: ["gmail", "sign-in", "account-recovery", "private-browsing"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
-  - title: "Node.js is so ubiquitous that it’s become an accepted, invisible element of the"
+  - title: "Gmail"
     url: "https://mail.google.com/mail/u/0/#inbox/FMfcgxvxBPTPxJvkJnPtBtFShgHgPXNt"
     kind: article
   - title: "Raw clipping (archived copy)"
@@ -15,10 +15,12 @@ sources:
     kind: repo
 ---
 
-Node.js is described as so widespread that it has become an accepted, invisible part of the development workflow. The text also says it is not the only platform, while still calling it a universal platform.
+The page is a Gmail sign-in screen. It asks for an email or phone number, offers a forgotten-email recovery link, suggests using a private browsing window on a shared computer, and includes a create-account option.
 
 ## Reading notes
 
-- Node.js is presented as a routine part of development work rather than something people actively notice.
-- The text says it is not the only platform available.
-- It also describes Node.js as a universal platform.
+- Prompts the user to sign in to continue to Gmail.
+- Accepts either an email address or a phone number.
+- Provides a forgotten-email recovery link.
+- Recommends private browsing when using a computer that is not yours.
+- Includes a link to create a new account.
