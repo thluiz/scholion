@@ -8,8 +8,9 @@ has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
   - title: "Cory House - Code Katas"
-    url: "https://twitter.com/i/bookmarks"
-    kind: article
+    author: "Cory House (@housecor)"
+    url: "https://twitter.com/housecor/status/1351547634847199233"
+    kind: web
   - title: "Raw clipping (archived copy)"
     url: "https://github.com/thluiz/scholion/blob/main/clippings/2021-01/twitter-com--cory-house-code-katas.md"
     kind: repo

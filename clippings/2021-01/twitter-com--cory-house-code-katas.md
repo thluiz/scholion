@@ -1,5 +1,5 @@
 ---
-url: "https://twitter.com/i/bookmarks"
+url: "https://twitter.com/housecor/status/1351547634847199233"
 captured_at: "2021-01-23T16:04:37-03:00"
 title: "Cory House - Code Katas"
 domain: "twitter-com"
