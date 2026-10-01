@@ -1,147 +1,126 @@
 ---
 name: dossie-voz
-description: Monta o dossiê de uma pesquisa viva do Scholion para conversar por voz no Claude do celular, e depois incorpora o fechamento dessa conversa de volta na pesquisa. Use quando o autor pedir para preparar uma conversa, caminhada ou papo de voz sobre uma pesquisa, ou trouxer o fechamento de uma.
-argument-hint: "<slug da pesquisa> [foco] | fechar <link do doc ou texto>"
+description: Mantém o Claude Doc de marcos consolidados de uma pesquisa viva do Scholion, que o Claude da web lê pelo conector para conversar por voz com o autor no celular, e depois incorpora o fechamento dessa conversa de volta na pesquisa. Use quando o autor pedir para preparar uma conversa, caminhada ou papo de voz sobre uma pesquisa, para atualizar o doc consolidado, ou quando trouxer o fechamento de uma conversa.
+argument-hint: "<slug da pesquisa> [foco] | fechar [link do doc de fechamento ou texto]"
 ---
 
 # Dossiê de voz
 
 Duas pontas do mesmo ciclo:
 
-1. **Montar**: transforma `content/research/<slug>.md` num dossiê que outra IA lê no celular e usa para conversar com o autor enquanto ele anda ou dirige.
-2. **Fechar**: pega o fechamento que essa conversa produziu, incorpora na pesquisa, arquiva o original e apaga o doc do claude.ai.
+1. **Consolidar**: cria ou atualiza, a partir de `content/research/<slug>.md`, um Claude Doc privado com os marcos consolidados da pesquisa. O Claude da web lê esse doc pelo conector Claude Docs e conversa com o autor enquanto ele anda ou dirige. Nada é anexado à mão.
+2. **Fechar**: pega o doc de fechamento que a conversa produziu, incorpora na pesquisa, arquiva o fechamento, atualiza o doc consolidado e apaga o doc de fechamento do claude.ai.
 
-Tudo vive no submódulo privado `fontes-privadas/` (GitHub privado, com backup):
+Onde cada coisa vive:
 
 ```
-fontes-privadas/voz/<slug>/dossie.md
+claude.ai (Claude Docs, privado)       "<Título curto da pesquisa> — marcos consolidados"
+fontes-privadas/voz/<slug>/README.md   link do doc consolidado + data da última atualização
 fontes-privadas/voz/<slug>/fechamentos/<AAAA-MM-DD>-<tema>.md
 ```
 
-Privado porque o dossiê parafraseia fontes com direito autoral e carrega material ainda não verificado. O site público só recebe o que passa pelo source-or-silence na hora de fechar.
+O doc consolidado é derivado da pesquisa: a fonte de verdade continua sendo `content/research/<slug>.md`. Não guardar cópia local do doc; se ele se perder, refaz-se a partir da pesquisa. Os fechamentos, ao contrário, são material original do autor e ficam arquivados no submódulo privado `fontes-privadas/` (GitHub privado, com backup).
 
-Modelo de referência: `fontes-privadas/voz/pequeno-tratado-em-audio/dossie.md`.
+Doc de referência: "Pequeno Tratado em Áudio — marcos consolidados", link em `fontes-privadas/voz/pequeno-tratado-em-audio/README.md`.
 
-## Modo 1 — Montar o dossiê
+## Antes de qualquer chamada de docs
 
-Argumento: slug da pesquisa, e opcionalmente um foco (uma direção, um capítulo, uma pergunta). Sem foco, o dossiê cobre a pesquisa inteira, priorizando **Em foco** e **Próximo** do Estado.
+Carregar a skill de docs (`anthropic-skills:docs`) e seguir as instruções do conector: `guide( items = ["topic.index"] )` uma vez por sessão, abrir o doc com `Artifact` (`action: "open"`) logo depois de criá-lo, preencher uma seção por chamada. Nunca usar WebFetch em link de doc.
+
+## Modo 1 — Consolidar
+
+Argumento: slug da pesquisa, e opcionalmente um foco (uma direção, um capítulo, uma virtude). Sem foco, o doc cobre a pesquisa inteira, priorizando **Em foco** e **Próximo** do Estado.
 
 ### Passos
 
-1. **Ler a pesquisa inteira**, Estado primeiro. Se já existe `voz/<slug>/dossie.md`, ler também e perguntar ao autor se é para atualizar ou refazer.
-2. **Ler as notas linkadas** que o dossiê vai usar (frontmatter + corpo). Delas saem as citações, sempre com autor e obra como estão na nota.
-3. **Fontes privadas**: se a pesquisa aponta uma fonte em `fontes-privadas/` (livro em `.txt`), usar para as fichas. Citação literal só se conferida contra o texto; o resto é paráfrase.
-4. **Escrever o dossiê** no formato abaixo.
-5. **Preview**: mostrar ao autor o esqueleto (seções e fichas, uma linha cada) e as frases que vão entre aspas. Gravar só depois da aprovação.
-6. **Gravar, commitar e entregar** (ver Operacionais).
+1. **Ler a pesquisa inteira**, Estado primeiro. Ler `fontes-privadas/voz/<slug>/README.md`: se já existe doc consolidado, ele é atualizado, nunca recriado.
+2. **Ler as notas linkadas** que o doc vai usar. Delas saem as citações, com autor e obra como estão na nota.
+3. **Fontes privadas**: se a pesquisa aponta um livro em `fontes-privadas/` (`.txt`), usar para conferir citações. Citação literal só se conferida contra o texto; o resto é paráfrase.
+4. **Preview**: mostrar ao autor o esqueleto (seções, uma linha cada) e as frases que vão entre aspas. Escrever no doc só depois da aprovação.
+5. **Escrever**:
+   - Doc novo: nascer com o esqueleto (um bloco `pending` por seção), abrir, preencher seção a seção.
+   - Doc existente: ler (`read` com `sinceRev` ou `outline`), trocar só as seções que mudaram. Edições que o autor fez no doc vencem; nunca usar `force`.
+6. **Registrar**: atualizar `fontes-privadas/voz/<slug>/README.md` (link + data). Commit no submódulo + push, e ponteiro no Scholion.
+7. **Entregar**: uma linha com o link e como usar: abrir o Claude no celular, conversa nova com o conector Claude Docs ativo, pedir "leia o doc <título>" e ligar o modo voz.
 
-### Formato do dossiê
+### Seções do doc consolidado
 
-```markdown
-# <Tema> — dossiê para conversa de voz
+1. **Para a IA que conversa comigo**: bloco fixo abaixo.
+2. **A pesquisa em cinco linhas**: pergunta central, Em foco, Próximo, decisões do autor, perguntas em aberto (as do autor, literais).
+3. **Marcos consolidados**: uma seção por resultado fechado (definições, decisões, eixos, tabelas de teste). Formulações do autor literais e marcadas [autor]; contribuições da IA marcadas ⚠.
+4. **Fontes conferidas**: só o que está ✓ na pesquisa, com citação curta e referência.
+5. **Pendências e modelo de fechamento**: o que está ⚠ ou `?` na pesquisa, para a IA não afirmar como certo; e o modelo de fechamento.
 
-<Uma linha: para que serve. Base: pesquisa `content/research/<slug>.md`, fontes principais.>
-
-Uso privado. <O que é paráfrase e o que é citação conferida.>
-
----
-
-## Para a IA que conversa comigo
-
-<Bloco fixo abaixo, adaptado só no nome do tema e na unidade de conversa.>
-
----
-
-## A pesquisa em cinco linhas
-- Pergunta central, Em foco, Próximo, decisões já tomadas pelo autor, perguntas em aberto (as do autor, literais).
-
-## <Contexto necessário>
-Uma ou duas seções curtas com o que a IA precisa saber para não inventar: o mapa das direções, o eixo fixo da pesquisa, definições já estabelecidas.
-
-# Fichas
-Uma ficha por unidade de conversa (direção, capítulo, autor, pergunta). Cada ficha:
-
-## N. <Nome>
-**Em uma frase** — a tese central.
-**O argumento** — 3 a 6 bullets curtos.
-**Com quem ele/ela pensa** — autores e obras citados na pesquisa.
-**Citações conferidas** — só o que está ✓ na pesquisa ou na nota de origem, com a referência.
-**Tensões para puxar** — sugestões da IA que montou o dossiê, marcadas como tal.
-**Perguntas para caminhar** — 3 a 4, na segunda pessoa do autor, concretas.
-**Do Scholion** — notas relacionadas pelo slug, com uma linha cada.
-**Pendências** — o que está ⚠ ou ? na pesquisa, para a IA não afirmar como certo.
-
-# Fontes
-- Fontes principais com edição; notas citadas pelo slug; a pesquisa de origem.
-```
+Quando o foco pede profundidade (um capítulo, um autor), acrescentar uma aba com fichas, uma por unidade de conversa: **Em uma frase**, **O argumento** (3 a 6 bullets), **Com quem pensa**, **Citações conferidas**, **Tensões para puxar** (marcadas como sugestão), **Perguntas para caminhar** (3 a 4, na segunda pessoa do autor), **Do Scholion**, **Pendências**.
 
 ### Bloco fixo "Para a IA que conversa comigo"
 
-Copiar e ajustar só `<tema>` e `<unidade>` (virtude, direção, capítulo…):
+Ajustar só `<tema>` e `<unidade>` (virtude, direção, capítulo…):
 
 ```markdown
-Leia isto antes de tudo. O resto do documento é consulta.
+Leia isto antes de tudo. O resto do documento é o estado consolidado da pesquisa `content/research/<slug>.md` do Scholion, conferido em <data>. Uso privado.
 
-**Situação.** Estou andando na rua ou dirigindo, falando no celular. Vou escolher uma <unidade> (ou pedir que você sorteie) e pensar em voz alta sobre ela. Você é o interlocutor: alguém que leu a pesquisa e as fontes com atenção, conhece minhas notas e puxa conversa.
+**Situação.** Estou andando na rua ou dirigindo, falando no celular. Vou escolher uma <unidade> (ou pedir que você sorteie) e pensar em voz alta. Você é o interlocutor: leu a pesquisa e as fontes com atenção e puxa conversa.
 
 **Como falar**
-- Frases curtas. Uma ideia por fala, uma pergunta por vez. Nada de listas faladas, nada de ler a ficha em voz alta.
-- Comece perguntando qual <unidade>. Depois abra com a tese da ficha em uma ou duas frases e me devolva a palavra.
-- Siga o meu fio. Traga uma tensão, uma nota do Scholion ou um paralelo só quando a conversa pedir, ou quando eu travar.
+- Frases curtas. Uma ideia por fala, uma pergunta por vez. Nada de listas faladas, nada de ler este documento em voz alta.
+- Comece perguntando qual <unidade>. Depois abra com o que já está fechado sobre ela em uma ou duas frases e me devolva a palavra.
+- Siga o meu fio. Traga uma tensão, uma fonte ou um paralelo só quando a conversa pedir, ou quando eu travar.
 - Pode discordar de mim e dos autores. Diga de onde vem a objeção.
-- Se eu ficar calado ou disser "e aí?", ofereça uma das "Perguntas para caminhar" da ficha.
 
 **Honestidade com as fontes**
-- Só atribua a um autor as frases que estão entre aspas no dossiê. O resto é paráfrase: diga "ele argumenta que…", nunca invente citação.
-- As notas do Scholion trazem autor e obra. Cite como estão. Se uma nota diz que a atribuição é falsa ou incerta, diga isso.
-- Se eu perguntar algo que não está aqui, você pode responder com o que sabe, mas marque: "isso não está no dossiê, é de memória, precisa conferir".
-- Ideia sua é ideia sua: diga "uma sugestão minha" ou "uma analogia minha".
-- Nunca coloque na minha boca uma conclusão que eu não disse.
+- Só atribua a um autor as frases que estão entre aspas aqui, com a referência dada. O resto é paráfrase: diga "ele argumenta que…", nunca invente citação.
+- O que está marcado ⚠ é formulação minha ou da IA, não do autor estudado. O que está em Pendências não é fato.
+- Se eu perguntar algo que não está aqui, responda com o que sabe, mas marque: "isso não está no documento, é de memória, precisa conferir".
+- Ideia sua é ideia sua: diga "uma sugestão minha". Nunca coloque na minha boca uma conclusão que eu não disse.
 
-**Registro.** Se você tiver onde escrever (um documento), crie um chamado "Fechamento — <tema> — <data>" e vá anotando conforme a conversa avança, sem me interromper para isso.
+**Registro.** Crie um documento chamado "Fechamento — <tema> — <data>" e vá anotando conforme a conversa avança, sem me interromper. Não edite este documento: ele é atualizado a partir da pesquisa.
 
-**Fechamento.** Quando eu disser "fechar", "resumo" ou "vamos encerrar", pare de conversar e preencha o bloco abaixo, em texto corrido e curto. É ele que vou levar para a pesquisa.
+**Fechamento.** Quando eu disser "fechar", "resumo" ou "vamos encerrar", preencha no documento de fechamento o modelo que está no fim deste documento.
+```
 
+Modelo de fechamento (vai na última seção do doc):
+
+```
 FECHAMENTO — <unidade> — <data>
 1. O que eu disse (minhas formulações, com as minhas palavras, sem polir)
 2. Onde concordei / discordei dos autores
-3. Notas do Scholion que apareceram (slugs)
+3. Notas do Scholion que apareceram
 4. Paralelos que surgiram (outra tradição, ideograma, passagem)
-5. Ideias ou exemplos novos que surgiram — marcar de quem: [eu] ou [IA]
+5. Ideias ou exemplos novos, marcando de quem: [eu] ou [IA]
 6. Coisas a verificar (afirmações sem fonte que apareceram)
 7. Próximo passo ou semente de texto: título provisório + a pergunta que abre
 ```
 
 ### Regras de conteúdo
 
-- **Source-or-silence vale no dossiê.** A IA de voz repete o que lê como fato. Nada de etimologia, datação ou atribuição sem fonte; o que a pesquisa marca ⚠ ou ? vai para "Pendências", nunca para "O argumento".
+- **Source-or-silence vale no doc.** A IA de voz repete o que lê como fato. Nada de etimologia, datação ou atribuição sem fonte; o que a pesquisa marca ⚠ ou `?` vai para Pendências.
 - **Citações**: só as conferidas, curtas (obra com direito autoral: frases, não parágrafos), com referência.
-- **Tensões e perguntas** são proposta de quem montou o dossiê. Servem para puxar conversa, não para concluir nada pelo autor.
-- **Tamanho**: fichas de ~50 linhas; o dossiê inteiro abaixo de ~150 KB, para caber no contexto da conversa de voz.
+- **O doc é privado.** Nunca compartilhar: carrega paráfrase e citação de obras com direito autoral. Texto integral de obra protegida não vai para o doc.
 - **Escrita**: frases curtas, PT-BR, sem floreio. A IA vai falar isso em voz alta.
-
-### Operacionais (montar)
-
-- Gravar em `fontes-privadas/voz/<slug>/dossie.md`.
-- Commit **dentro do submódulo** e push (repositório privado): `voz: dossiê de <slug>`. Depois commit do ponteiro do submódulo no Scholion.
-- Sem `Co-Authored-By` em commit nenhum.
-- **Entrega no celular**: se a sessão tem `SendUserFile`, mandar o `dossie.md` para o autor. Dizer em uma linha como usar: abrir o Claude no celular, anexar o arquivo numa conversa nova, pedir "leia o dossiê" e ligar o modo voz. Sem `SendUserFile`, informar o caminho do arquivo.
 
 ## Modo 2 — Fechar a conversa
 
-Argumento: `fechar` + o link do Claude Doc do fechamento, ou o texto colado. Sem argumento, listar os artifacts do autor (`Artifact` com `action: "list"`) e procurar os títulos "Fechamento — …".
+Argumento: `fechar` + o link do doc de fechamento, ou o texto colado. Sem link, listar os artifacts do autor (`Artifact` com `action: "list"`) e procurar os títulos "Fechamento — …".
 
 ### Passos
 
-1. **Ler o fechamento inteiro.** Doc: carregar a skill de docs e ler pelas ferramentas de docs (nunca web-fetch). Texto colado: usar como está.
-2. **Resumir para o autor** o que saiu da conversa e **apontar problemas**: afirmações sem fonte, citações a conferir, nomes que a transcrição de voz pode ter trocado (ex.: "lei de Gödel" que era lei de Godwin), slugs de notas que não existem.
+1. **Ler o fechamento inteiro** pelas ferramentas de docs. O `export` em markdown volta em base64 inline; para docs grandes, ler o corpo com `read( ref = {"object":"node","id":"<body id>"}, engine = "prose" )`: o resultado é salvo em arquivo e `python .claude/skills/dossie-voz/doc2md.py <arquivo salvo> <saída.md>` converte o XML em markdown. Se o autor colar trecho da conversa (link de share), usar o texto colado; não abrir o link.
+2. **Resumir para o autor** o que saiu da conversa e **apontar problemas**: afirmações sem fonte, citações a conferir, nomes que a transcrição de voz pode ter trocado, slugs que não existem, contradições internas do fechamento.
 3. **Search-first**: buscar no vault (`content/notes/`, `content/research/`) o que se conecta aos temas novos; listar e esperar o autor apontar o que linkar.
-4. **Preview da atualização da pesquisa**: Estado (Em foco, Próximo), decisões do autor, perguntas em aberto que o autor levantou (literais), e uma seção nova "Conversa de <data>" com o que entrou. Tudo com ✓ / ⚠ / ? conforme a convenção da skill `research`. O que não tem fonte fica de fora e é avisado no chat.
-5. **Gravar só depois da aprovação.** `hugo --quiet`, commit `research: <ação> em <tema>`.
-6. **Arquivar o fechamento**: exportar o doc em markdown para `fontes-privadas/voz/<slug>/fechamentos/<AAAA-MM-DD>-<tema>.md`, com um cabeçalho de procedência (de onde veio, onde foi incorporado, correções feitas). Commit no submódulo + push, e ponteiro no Scholion.
-7. **Apagar o doc do claude.ai** (`Artifact` com `action: "delete"`) só depois do arquivo estar commitado e com push feito. O autor confirma a exclusão.
+4. **Conferir** o que o autor pedir. Fontes primárias em sites distintos podem ir para subagentes em paralelo, um site por agente, fetches seriais dentro de cada um.
+5. **Preview da atualização da pesquisa**: Estado, decisões do autor, perguntas em aberto que o autor levantou (literais), e uma seção nova com o que entrou. Tudo com ✓ / ⚠ / `?` conforme a convenção da skill `research`. O que não tem fonte fica de fora e é avisado no chat.
+6. **Gravar só depois da aprovação.** `hugo --quiet`, commit `research: <ação> em <tema>`.
+7. **Arquivar o fechamento** em `fontes-privadas/voz/<slug>/fechamentos/<AAAA-MM-DD>-<tema>.md`, com cabeçalho de procedência (de onde veio, onde foi incorporado, correções feitas, decisões posteriores do autor). Commit no submódulo + push, e ponteiro no Scholion.
+8. **Atualizar o doc consolidado** (Modo 1, passo 5, doc existente) com o que entrou na pesquisa.
+9. **Apagar o doc de fechamento do claude.ai** (`Artifact` com `action: "delete"`) só depois do arquivo commitado e com push feito. O autor confirma a exclusão. O doc consolidado não é apagado.
 
 ## O que esta skill não faz
 
 - Não escreve texto na voz do autor nem compõe o "Texto em andamento" da pesquisa. Isso segue com `ghost-writer` e `research`.
-- Não publica nada: dossiê e fechamentos ficam no repositório privado; só a atualização da pesquisa vai para o site.
+- Não publica nada no site: o doc é privado e os fechamentos ficam no repositório privado; só a atualização da pesquisa vai para o Scholion.
+
+## Operacionais
+
+- Sem `Co-Authored-By` em commit nenhum.
+- O hook ghost-audit do `git commit` audita tudo o que está staged no Scholion, inclusive em commits do submódulo. Se ele travar por causa de nota alheia staged, avisar o autor; não liberar o gate por conta própria.
