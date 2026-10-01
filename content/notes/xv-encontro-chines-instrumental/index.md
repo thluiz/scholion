@@ -57,7 +57,7 @@ Na quarta seguinte, 07/10, às 19h do Brasil, o encontro tenta o novo horário, 
 
 Guilherme entrou já com o Siu Nim Tau andando, e Si Fu pediu a Thiago Silva e a Daniel que gastassem um tempo, depois que ele saísse, sintonizando Guilherme com as viradas do dia. Resumiu para ele a mudança, que é transformar o curso de cantonês num curso de pensamento baseado na língua, a partir dos termos instrumentais do Kung Fu, falando de cultura e de pensamento.
 
-Para Guilherme, abonado 100%, a contrapartida é a participação ativa. Em alguns encontros, Si Fu vai pedir que ele se apresente, como Thiago Silva fez naquele dia. E, a cada encontro, quer que Guilherme gere um material e o publique antes do encontro seguinte. Naquele dia, como chegou tarde, a tarefa foi assistir à gravação. Si Fu avisou, rindo, que tem um programinha que detecta se alguém jogou o vídeo numa ferramenta para resumir.
+De Guilherme, Si Fu espera participação ativa. Em alguns encontros, Si Fu vai pedir que ele se apresente, como Thiago Silva fez naquele dia. E, a cada encontro, quer que Guilherme gere um material e o publique antes do encontro seguinte. Naquele dia, como chegou tarde, a tarefa foi assistir à gravação. Si Fu avisou, rindo, que tem um programinha que detecta se alguém jogou o vídeo numa ferramenta para resumir.
 
 ### Depois da saída de Si Fu
 
