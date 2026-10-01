@@ -4,6 +4,7 @@ date: '2026-09-17T15:39:00-03:00'
 summary: 'Anotações do décimo terceiro encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira, Thiago Silva e Daniel Araújo. Tópicos percorridos: o ideograma dentro do quadrado e a noção de forma lateral, a decomposição de Faat 法 como a água que varre, os cinco elementos chineses contra os quatro ocidentais, as três energias contidas no homem e as duas externas a ele, o ideograma de humanidade como pessoa mais dois, a leitura dos domínios pelos elementos, o caminho do Sei Jong ao Maai Saang Jong, a elasticidade da interpretação, a etimologia como mecanismo de lembrança, o cuidado com a internet e com a inteligência artificial, e interno e externo lidos como direção.'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental", "etimologia", "dominios"]
 has_commentary: true
+toc: true
 thumb: "cover-livro-capa.jpg"
 sources:
   - title: "Ideogramas e a Cultura Chinesa"

@@ -4,6 +4,7 @@ date: '2026-09-23T15:36:00-03:00'
 summary: 'Anotações do décimo quarto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira, Thiago Silva e Daniel Araújo. Tópicos revisados: Siu Nim Tau 小念頭 como nome e como termos separados, os três sentidos de Siu (pequeno, embrionário, insignificante), a precisão do gesto que vem da precisão do pensamento, Nim como atualização do Sam, o tempo que atravessa a pessoa parada, cronos e kairós, o tempo cíclico das sociedades agrícolas, Nim como ideia, pensamento e lembrança, Tau como cabeça, início e mais importante, e o exercício de escrever e combinar os sentidos.'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental", "siu-nim-tau", "tempo"]
 has_commentary: true
+toc: true
 thumb: "encontro-cover.jpg"
 sources: []
 ---

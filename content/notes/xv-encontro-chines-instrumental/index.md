@@ -4,6 +4,7 @@ date: '2026-09-30T15:59:00-03:00'
 summary: 'Anotações do décimo quinto encontro de Chinês Instrumental, conduzido por Si Fu, com Thiago Silva e Daniel Araújo, e Guilherme Farias a partir da metade. Na primeira parte, os ajustes do formato: o novo nome Idioma, Cultura e Pensamento Chinês, o horário de quarta às 19h com o Mo Gun, a aula aberta de 07/10 e a convocação de Guilherme. Na segunda, o Siu Nim Tau: a apresentação de Thiago Silva, Nim Tau como vontade manipulatória, o Ging como intenção fraca, as combinações dos três sentidos de cada termo, a passagem da ideia para a interação inteligente, a pequena lembrança do mais importante, e o comunicar no lugar do falar.'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental", "siu-nim-tau"]
 has_commentary: true
+toc: true
 thumb: "encontro-cover.jpg"
 sources:
   - title: "Ip Chun"

@@ -4,6 +4,7 @@ date: '2026-04-08T22:00:00+01:00'
 summary: Anotações do quarto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O eixo do dia foi a etimologia de Cham Kiu (尋橋), com escavação caractere por caractere, contraste entre…
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "etimologia", "np-chines-instrumental", "cham-kiu"]
 has_commentary: true
+toc: true
 thumb: "encontro-cover.jpg"
 sources: []
 ---

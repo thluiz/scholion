@@ -4,6 +4,7 @@ date: '2026-06-12T10:22:00-03:00'
 summary: 'Anotações do oitavo encontro de Chinês Instrumental, conduzido por Si Fu com Claudio Teixeira e Thiago Silva. A sessão continuou com a prática de caligrafia ideográfica, aprofundou os ideogramas Gwan 棍 e Dim 點, e chegou na leitura de Si Fu sobre os pontos do Luk Dim Bun Gwan 六點半棍: projeções da ponta do bastão, não áreas nem ângulos fixos.'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental", "luk-dim-bun-gwan", "caligrafia", "etimologia"]
 has_commentary: true
+toc: true
 sources: []
 ---
 

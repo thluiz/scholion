@@ -4,6 +4,7 @@ date: '2026-06-05T10:58:00-03:00'
 summary: 'Anotações do sétimo encontro de Chinês Instrumental, conduzido por Si Fu com Claudio Teixeira e Thiago Silva. A sessão entrou no Mui Fa Jong 梅花樁 pelos três caracteres do nome. Decupou a estrutura radical-fonético com Jong 樁 e Fa 花 como pares contrastantes, trabalhou a ordem dos traços do radical de madeira 木, abriu a simbologia da ameixeira 梅 nas cinco pétalas e na dicotomia galho-rígido/pétala-redonda, e chegou na leitura de Si Fu sobre o nível superior inicial: consolidar a capacidade de transformar o que em si é fixo.'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental", "mui-fa-jong", "caligrafia", "etimologia"]
 has_commentary: true
+toc: true
 sources: []
 ---
 

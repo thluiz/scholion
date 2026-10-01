@@ -4,6 +4,7 @@ date: '2026-04-22T09:56:00-03:00'
 summary: 'Anotações do quinto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O encontro virou o método de estudo: em vez de seguir vertical num tema, decupar trechos bilíngues do Hai Tong de Si Taai Gung Moy Yat como balizador. O trecho do dia abre a seção do Biu Ji.'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "etimologia", "np-chines-instrumental", "biu-ji", "kuen-to"]
 has_commentary: true
+toc: true
 thumb: "encontro-cover.jpg"
 sources: []
 ---

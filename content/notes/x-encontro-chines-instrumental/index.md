@@ -4,6 +4,7 @@ date: '2026-08-07T17:59:00-03:00'
 summary: 'Anotações do décimo encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira e Thiago Silva. O encontro percorreu a distância entre a gramática chinesa dos termos de tratamento e o uso que cada família Kung Fu faz deles: por que Si Fu não é soma de dois ideogramas, os termos emprestados como Si Hing e Sin Saang, a Si Nai e o Dai Si Fu da família de Leung Ting, a diferença entre Si Fu pai e Si Fu mestre, os termos cunhados para gerações vivas (Si Gung, Si Taai Gung, Gung Gung), o protocolo dos antepassados (Si Jo) e o relato da titulação do próprio Si Fu, em 2003.'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental", "titulos-de-tratamento", "parentesco"]
 has_commentary: true
+toc: true
 thumb: "encontro-cover.jpg"
 sources: []
 ---

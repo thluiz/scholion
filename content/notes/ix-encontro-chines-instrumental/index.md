@@ -4,6 +4,7 @@ date: '2026-07-10T17:57:00-03:00'
 summary: 'Anotações do nono encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira e Thiago Silva. O encontro decupou o nome Baat Jaam Do 八斬刀 caractere por caractere: 八 (a sorte como aleatório neutro e as oito direções), 斬 (o corte que decapita, 車 mais 斤) e 刀 (a faca, o Ving Tsun Do), com o contraste do 切 de cozinha, a lógica das oito partes e das oito sequências, e a discussão sobre fluxo, peso da faca e sorte ativa.'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental", "baat-jaam-do", "etimologia"]
 has_commentary: true
+toc: true
 thumb: "encontro-cover.jpg"
 sources: []
 ---

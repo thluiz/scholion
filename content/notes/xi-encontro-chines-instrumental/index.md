@@ -4,6 +4,7 @@ date: '2026-09-01T14:55:00-03:00'
 summary: 'Anotações do décimo primeiro encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira e o novo participante Daniel Araújo. Tópicos revisados a pedido de Claudio: Mandarim como idioma oficial, Cantonês sem sistema de transliteração próprio, a Denominação Moy Yat Ving Tsun como jargão de compromisso, o Cantonês relevante pela província de Guangdong e não pelo toisanês de Si Taai Gung, o papel do contexto contra a homofonia e os tons, a escuta chinesa contida, a língua chinesa como ordenadora do pensamento, o caso do ideograma de Lap Sau fora do MDBG, e o fechamento sobre revisão e prontidão.'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental", "tons", "denominacao"]
 has_commentary: true
+toc: true
 thumb: "encontro-cover.jpg"
 sources: []
 ---
