@@ -10,7 +10,7 @@ sources: []
 
 Anotações do segundo encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O eixo do dia foi o vocabulário cantonês de mestria e linhagem: o substantivo *Si* e a teia de termos derivados que organizam quem é quem dentro da família Kung Fu, do tratamento mais cotidiano até as formas que só servem em contexto cerimonial. Cada termo abriu uma camada de etimologia e uma instrução de uso prático.
 
-![Si Fu no segundo encontro de Chinês Instrumental](encontro-cover.jpg)
+![Thiago Silva fala no segundo encontro de Chinês Instrumental, com um quadro de ideogramas na parede ao fundo](encontro-cover.jpg)
 
 ### Si (師): mestre é substantivo
 

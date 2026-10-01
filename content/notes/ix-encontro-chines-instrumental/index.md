@@ -10,7 +10,7 @@ sources: []
 
 Anotações do nono encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira e Thiago Silva. O eixo do dia foi o nome **Baat Jaam Do** 八斬刀, decupado caractere por caractere: [八](/notes/etimologia-de-baat-ba-516b/) *baat*, oito; [斬](/notes/etimologia-de-jaam-zhan-65ac/) *jaam*, o corte; [刀](/notes/etimologia-de-do-dao-5200/) *do*, a faca. A aula passou pela sorte chinesa como aleatório neutro, pelas oito direções, pelo contraste entre o *jaam* que decapita e o [切](/notes/etimologia-de-chit-qie-5207/) *chit* de cozinha, pela nomeação da faca na família, pela lógica das oito partes e oito sequências, e fechou na relação entre fluxo, peso da faca e sorte ativa.
 
-![Si Fu no nono encontro de Chinês Instrumental](encontro-cover.jpg)
+![Claudio Teixeira recapitula a pedido de Si Fu o que foi visto no encontro](encontro-cover.jpg)
 
 ### O Do como amarração e como corte
 

@@ -10,7 +10,7 @@ sources: []
 
 Anotações do terceiro encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O eixo do dia foi *siu nim tau* (小念頭) tomado como domínio: como se pronuncia em Mandarim e em Cantonês, como cada um dos três ideogramas se decompõe em sentido, e como a expressão inteira opera quando se entende o que ela aconselha. Houve também uma rodada inicial sobre a correção da caligrafia, mais curta do que nos encontros anteriores, e ela fica registrada por completude.
 
-![Si Fu no terceiro encontro de Chinês Instrumental](encontro-cover.jpg)
+![Claudio Teixeira fala na rodada de devolução ao fim do terceiro encontro de Chinês Instrumental](encontro-cover.jpg)
 
 ### Caligrafia: a necessidade de um modelo
 

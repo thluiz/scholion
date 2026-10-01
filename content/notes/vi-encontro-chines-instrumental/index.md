@@ -10,7 +10,7 @@ sources: []
 
 Anotações do sexto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O encontro retomou a advertência da aula anterior sobre dicionários e IA, e entrou no [Biu Ji](/notes/etimologia-de-biu-ji-biao-zhi/) 標指 pelas duas expressões que o Hai Tong registra: 標準[指南針](/notes/etimologia-de-jam-zhen-91dd/), de que 標指 é abreviatura, e 借喻指南針, a leitura correta segundo Si Taai Gung. Apareceu a história da bússola padrão (de Si Gung) e da bússola de alta precisão (cunhada por Si Fu), e voltou a discussão sobre o Biu Ji como técnica de emergência.
 
-![Si Fu no sexto encontro de Chinês Instrumental](encontro-cover.jpg)
+![Claudio Teixeira comenta no início do encontro que não encontrou referência à bússola de alta precisão](encontro-cover.jpg)
 
 ### Verdade canônica e coerência relacional
 

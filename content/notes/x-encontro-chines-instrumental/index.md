@@ -10,7 +10,7 @@ sources: []
 
 Anotações do décimo encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira e Thiago Silva. O registro começa com a gravação já em curso, no meio da decomposição de Si Fu como termo composto, e dali se desenrola toda a distância entre a gramática chinesa dos termos de tratamento e o uso que cada família Kung Fu faz deles.
 
-![Si Fu no décimo encontro de Chinês Instrumental](encontro-cover.jpg)
+![Thiago Silva no décimo encontro de Chinês Instrumental](encontro-cover.jpg)
 
 ### Si Fu não é a soma de dois ideogramas
 

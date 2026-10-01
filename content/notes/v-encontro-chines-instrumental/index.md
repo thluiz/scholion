@@ -10,7 +10,7 @@ sources: []
 
 Anotações do quinto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. Si Fu propôs decupar trechos bilíngues do Hai Tong de Si Taai Gung Moy Yat como balizador, aproveitando termos já estudados em encontros anteriores e ancorando o estudo dentro do próprio sistema. 
 
-![Si Fu no quinto encontro de Chinês Instrumental](encontro-cover.jpg)
+![Si Fu mostra a capa do dicionário chinês-português que recomenda consultar em papel](encontro-cover.jpg)
 
 O trecho escolhido foi o que abre a seção do Biu Ji 標指. A escavação pousou em *kuen to* 拳套, na natureza do Biu Ji como retorno, na inversão de ordem entre *kuen to* e *to kuen*, no termo dispositivo (*jiu sik* 招式) cunhado por Si Gung e na expressão *cheung ak* 掌握 que aparece adiante no mesmo trecho.
 

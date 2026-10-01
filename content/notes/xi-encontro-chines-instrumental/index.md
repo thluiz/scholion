@@ -10,7 +10,7 @@ sources: []
 
 Anotações do décimo primeiro encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira e Daniel Araújo, em sua primeira aula na série. Claudio propôs revisar os conceitos básicos para receber Daniel, e Si Fu aceitou refazer, com ele no comando, a mesma aula de abertura que já tinha dado a Claudio no início da série.
 
-![Si Fu no décimo primeiro encontro de Chinês Instrumental](encontro-cover.jpg)
+![Daniel Araújo em sua primeira aula na série de Chinês Instrumental](encontro-cover.jpg)
 
 ### Cavar a própria cova
 

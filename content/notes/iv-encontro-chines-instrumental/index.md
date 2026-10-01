@@ -10,7 +10,7 @@ sources: []
 
 Anotações do quarto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O eixo do dia foi a etimologia de *Cham Kiu* (尋橋), com escavação caractere por caractere, contraste entre Mandarim e Cantonês, passagem pelas leituras concorrentes do termo no jargão Ving Tsun, e fechamento na leitura específica da nossa linhagem.
 
-![Si Fu no quarto encontro de Chinês Instrumental](encontro-cover.jpg)
+![Chi Yau Si Moy mostra a folha quadriculada em que praticou à mão o ideograma 念](encontro-cover.jpg)
 
 ### Cópia à mão e a técnica do cinza claro
 

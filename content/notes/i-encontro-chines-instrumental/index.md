@@ -19,7 +19,7 @@ sources:
 
 Anotações do primeiro encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O recorte combinado foi Chinês instrumental, mas esse primeiro encontro percorreu o mapa todo: como se escreve o ideograma, por que isso importa para quem ensina, o que separa Mandarim de Cantonês, o que o Pinyin é de fato, e como tudo isso se amarra ao projeto de unificação do Império do Centro. As próximas aulas pousam em ideogramas específicos; este encontro foi para deixar o terreno claro.
 
-![*Ideogramas*, de Tai Hsuan-An, o livro que Si Fu recomendou no fim do encontro](encontro-cover.jpg)
+![Si Fu explica o grid em que se treina o ideograma, um quadrado dividido em quatro](encontro-cover.jpg)
 
 ### A escrita do ideograma e o grid
 
