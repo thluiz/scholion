@@ -2,7 +2,7 @@
 title: VI Encontro de Chinês Instrumental
 date: '2026-04-30T12:02:00-03:00'
 summary: 'Anotações do sexto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O encontro entrou no Biu Ji 標指 pelas duas expressões do Hai Tong, 標準指南針 (que Biu Ji abrevia) e 借喻指南針 (a leitura correta), decupou bússola padrão e bússola de alta precisão, mostrou os limites da decupação etimológica que viaja sem ancoragem na transmissão e reabriu a leitura do Biu Ji como técnica de emergência.'
-tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "biu-ji", "etimologia"]
+tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental", "biu-ji", "etimologia"]
 has_commentary: true
 toc: true
 thumb: "encontro-cover.jpg"
