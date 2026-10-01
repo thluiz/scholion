@@ -19,9 +19,9 @@ Anotações do décimo quinto encontro de Chinês Instrumental, conduzido por [S
 
 ### Repensar o formato
 
-Si Fu propôs repensar o formato ao mesmo tempo em que se traz mais gente para o time, vendo se é isso que se mantém, se é para ajustar ou para refinar. Por isso pensou em chamar Guilherme. Daniel já tinha se colocado sobre o tema no grupo.
+Si Fu propôs repensar o formato ao mesmo tempo em que se traz mais gente para o time, vendo se é isso que se mantém, se é para ajustar ou para refinar. Thiago Silva pensou em chamar Guilherme. Daniel já tinha se colocado sobre o tema no grupo.
 
-A questão principal, para Si Fu, parecia ser a financeira. Guilherme fica totalmente abonado, pelo trabalho que já faz e pela dedicação que tem. Quanto ao valor em geral, Si Fu quer que a coisa seja justa. Não gosta, e sobretudo não quer estimular na família Kung Fu, o processo em que a pessoa fica com a sensação de "me dei bem, ganhei", uma certa malandragem. Para quem não tem isso, ele opera de outro jeito. A intenção é que o encontro chegue a mais pessoas e chegue com a devida valorização. Se for preciso ajustar o valor, ajusta-se; se for preciso pensar outros formatos, pensam-se outros formatos.
+Quanto ao valor, Si Fu quer que a coisa seja justa. Não gosta, e sobretudo não quer estimular na família Kung Fu, o processo em que a pessoa fica com a sensação de "me dei bem, ganhei", uma certa malandragem. Para quem não tem isso, ele opera de outro jeito. A intenção é que o encontro chegue a mais pessoas e chegue com a devida valorização. Se for preciso ajustar o valor, ajusta-se; se for preciso pensar outros formatos, pensam-se outros formatos.
 
 Si Fu chamou de base da família o *vamos ajustar, vamos melhorar sempre*. O ponto vai além do dinheiro e do evento. Se três pessoas estão juntas ali, são as três que decidem.
 
