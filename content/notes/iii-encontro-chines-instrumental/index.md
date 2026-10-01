@@ -4,10 +4,13 @@ date: '2026-04-04T17:00:00+01:00'
 summary: 'Anotações do terceiro encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O eixo do dia foi siu nim tau (小念頭) tomado como domínio: como se pronuncia em Mandarim e em Cantonês,…'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "siu-nim-tau", "np-chines-instrumental"]
 has_commentary: true
+thumb: "encontro-cover.jpg"
 sources: []
 ---
 
 Anotações do terceiro encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O eixo do dia foi *siu nim tau* (小念頭) tomado como domínio: como se pronuncia em Mandarim e em Cantonês, como cada um dos três ideogramas se decompõe em sentido, e como a expressão inteira opera quando se entende o que ela aconselha. Houve também uma rodada inicial sobre a correção da caligrafia, mais curta do que nos encontros anteriores, e ela fica registrada por completude.
+
+![Si Fu no terceiro encontro de Chinês Instrumental](encontro-cover.jpg)
 
 ### Caligrafia: a necessidade de um modelo
 
@@ -19,9 +22,13 @@ Si Fu sugeriu a Claudio uma caneta um pouco mais grossa, observando que o ideogr
 
 A estética por trás disso é o oposto do que se passa no Ocidente. Aqui, a tecnologia da escrita reformou o que se considera boa caligrafia. Lá, o esforço é manter a estética original da tinta, que gera nuances no traçado pela pressão e pela velocidade da mão. É por isso que o gancho não pode ser colado: ele é o efeito final de quem entende a ordem dos traços (de cima para baixo, da esquerda para a direita, de dentro para fora) e visualiza o ideograma como um contínuo de pressão e relaxamento.
 
+![Si Fu traça no ar o movimento da mão que puxa para cima ao fim do traço, ao explicar o gancho como consequência do gesto](si-fu-traca-o-gesto-no-ar.jpg)
+
 ### Pronúncia de *Siu Nim Tau* em Mandarim
 
 A aula revisou *Siu Nim Tau* (小念頭) na pronúncia mandarim, *Xiǎo Niàn Tóu*, e revisitou os quatro tons do Mandarim para localizar cada sílaba: *Xiǎo* no terceiro tom, *Niàn* no quarto, *Tóu* no segundo. Si Fu insistiu em algo prático: a fala precisa correr, sem freio, sem medo de soar ridícula. A vergonha de errar tom é o maior obstáculo de quem está aprendendo, e ela trava justamente o lugar onde o ouvido se calibra.
+
+![Si Fu marca com a mão a subida do segundo tom de *Tóu*](si-fu-marca-a-subida-do-tom.jpg)
 
 ### Cantonês: tons mais próximos, ouvido mais treinado
 
@@ -44,6 +51,8 @@ Surgiu no caminho a aproximação com o *shao* de Shaolin (少林), graficamente
 ### *Tau* (頭): cabeça, início, guarda do importante
 
 *Tau* (頭) significa cabeça, e por isso carrega o sentido de início e de o que é mais importante. A cabeça abre o corpo e abre a sequência. A composição do ideograma sugere ainda a ideia de guardar coisas importantes, o que abre uma camada extra: cabeça é também o lugar onde o que tem valor fica protegido. Lendo os três caracteres em sequência ao pé da letra, *Siu Nim Tau* pode ser tomado como uma "pequena ideia no início" que vira "pensamento embrionário" no presente e, depois, "lembrança" no passado.
+
+![Si Fu mostra no livro as formas arcaicas do signo pictográfico de cabeça, com o traço de cima em forma de chifre](si-fu-mostra-formas-arcaicas-de-cabeca.jpg)
 
 ### *Nim Tau* (念頭) como intenção
 

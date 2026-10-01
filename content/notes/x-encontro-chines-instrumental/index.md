@@ -4,10 +4,13 @@ date: '2026-08-07T17:59:00-03:00'
 summary: 'Anotações do décimo encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira e Thiago Silva. O encontro percorreu a distância entre a gramática chinesa dos termos de tratamento e o uso que cada família Kung Fu faz deles: por que Si Fu não é soma de dois ideogramas, os termos emprestados como Si Hing e Sin Saang, a Si Nai e o Dai Si Fu da família de Leung Ting, a diferença entre Si Fu pai e Si Fu mestre, os termos cunhados para gerações vivas (Si Gung, Si Taai Gung, Gung Gung), o protocolo dos antepassados (Si Jo) e o relato da titulação do próprio Si Fu, em 2003.'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental", "titulos-de-tratamento", "parentesco"]
 has_commentary: true
+thumb: "encontro-cover.jpg"
 sources: []
 ---
 
 Anotações do décimo encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira e Thiago Silva. O registro começa com a gravação já em curso, no meio da decomposição de Si Fu como termo composto, e dali se desenrola toda a distância entre a gramática chinesa dos termos de tratamento e o uso que cada família Kung Fu faz deles.
+
+![Si Fu no décimo encontro de Chinês Instrumental](encontro-cover.jpg)
 
 ### Si Fu não é a soma de dois ideogramas
 
@@ -52,7 +55,11 @@ Outro termo da mesma família é Dai Si Fu. Usado com frequência, funciona como
 
 A pergunta de Cláudio Teixeira reabriu o caso mais delicado da aula: por que, em alguns filmes, alguém que não é To Dai chama um mestre qualquer de Si Fu? Si Fu respondeu decompondo o próprio termo: Si é mestre, e Fu tem duas leituras, mestre quando a referência não é familiar e pai quando é, com o mesmo som em mandarim e em cantonês, mas grafia diferente.
 
+![Claudio Teixeira pergunta por que, em alguns filmes, quem não é To Dai chama um mestre de Si Fu](claudio-teixeira-pergunta-sobre-si-fu-nos-filmes.jpg)
+
 A distinção já tem [nota própria](/notes/os-dois-si-fu/): o Fu de pai (父) desenha um homem de peito aberto empunhando duas armas para proteger a família; o Fu de mestre (傅) é outro ideograma. Si Fu recorreu à mesma imagem em aula: falando com o próprio To Dai, é o Fu pai; apresentando o mestre a terceiros pelo nome completo, "Si Fu Julio Camacho", por exemplo, é o Fu mestre. A comparação que ele deu: "eu comi a manga" e "eu arregacei a manga" usam a mesma palavra para duas coisas diferentes, resolvidas pelo contexto.
+
+![Si Fu ergue os braços na posição que usou para ilustrar o Fu de pai, um homem de peito aberto com duas armas para proteger a família](si-fu-postura-do-fu-pai.jpg)
 
 Si Fu foi categórico: dentro da família ninguém chama o próprio Si Fu pelo nome. Isso preserva "Si Fu" como referência única, sem ambiguidade, e obriga quem tem outro Si Fu de fora da família a usar outro termo (Si Suk, Si Baak, o próprio nome) para se referir a ele. Fora da família, ao apresentar o próprio Si Fu para terceiros, soma-se o nome, "meu Si Fu, Si Fu Julio Camacho", o primeiro no sentido de pai, o segundo, de mestre.
 
@@ -75,6 +82,8 @@ Hoje coexistem, e a genealogia viva obrigou a cunhar termos como Si Gung e Si Ta
 A rigor, todos os antecessores são Si Jo. O termo soa estranho a um ouvido chinês quando aplicado a alguém vivo, porque carrega a mesma implicação de "antepassados" em português: pressupõe morte. Por isso, na convenção que Si Fu descreveu, Si Jo fica reservado para quem já se foi; enquanto o Si Gung está vivo, chama-se Si Gung, mesmo sendo tecnicamente também um antepassado.
 
 Si Fu estendeu isso ao protocolo do mural de retratos da família: o quadro de uma pessoa viva não entra na mesma linha dos quadros de quem já morreu, ainda que possa entrar abaixo. Um problema concreto complica esse arranjo, disse ele: o próprio To Dai pode morrer antes do Si Fu. A solução é virar a parede, abrindo uma linha nova, em vez de misturar vivos e mortos lado a lado; misturar seria um desrespeito ao To Dai que morreu antes do próprio Si Fu. Na montagem que Si Fu descreveu, os quadros ancestrais vêm primeiro, e depois entram Ip Man, Moy Yat, Leo Imamura e ele próprio.
+
+![Si Fu ergue a mão ao descrever a virada da parede no mural de retratos da família](si-fu-virada-da-parede.jpg)
 
 Esse arranjo antes contava com uma distância etária que hoje aparece menos. Como via de regra o Si Fu era bem mais velho que o To Dai, e a pessoa começava a praticar cedo, a ordem das mortes tendia a seguir a ordem das gerações. Isso deixou de valer.
 

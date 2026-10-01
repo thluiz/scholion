@@ -4,10 +4,13 @@ date: '2026-07-10T17:57:00-03:00'
 summary: 'Anotações do nono encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira e Thiago Silva. O encontro decupou o nome Baat Jaam Do 八斬刀 caractere por caractere: 八 (a sorte como aleatório neutro e as oito direções), 斬 (o corte que decapita, 車 mais 斤) e 刀 (a faca, o Ving Tsun Do), com o contraste do 切 de cozinha, a lógica das oito partes e das oito sequências, e a discussão sobre fluxo, peso da faca e sorte ativa.'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental", "baat-jaam-do", "etimologia"]
 has_commentary: true
+thumb: "encontro-cover.jpg"
 sources: []
 ---
 
 Anotações do nono encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira e Thiago Silva. O eixo do dia foi o nome **Baat Jaam Do** 八斬刀, decupado caractere por caractere: [八](/notes/etimologia-de-baat-ba-516b/) *baat*, oito; [斬](/notes/etimologia-de-jaam-zhan-65ac/) *jaam*, o corte; [刀](/notes/etimologia-de-do-dao-5200/) *do*, a faca. A aula passou pela sorte chinesa como aleatório neutro, pelas oito direções, pelo contraste entre o *jaam* que decapita e o [切](/notes/etimologia-de-chit-qie-5207/) *chit* de cozinha, pela nomeação da faca na família, pela lógica das oito partes e oito sequências, e fechou na relação entre fluxo, peso da faca e sorte ativa.
+
+![Si Fu no nono encontro de Chinês Instrumental](encontro-cover.jpg)
 
 ### O Do como amarração e como corte
 
@@ -95,6 +98,8 @@ Uma das leituras do nome liga o oito a essas oito partes. Se é um Do, ele faz o
 
 Claudio levantou se esses oito amarram o todo, todas as possibilidades que o Do oferece. Si Fu preferiu a leitura do oito que sobra um: as oito e mais uma, imprevista. Não pega todas, pega oito, e sempre sobra a nona, o vazio no meio do ideograma. A face lateral da lâmina, com seus oito setores, também pode ser associada, mas o principal são as oito partes, cada uma especializando um *jaam*, não um corte qualquer.
 
+![Si Fu indica com as mãos a face lateral da lâmina ao contar os oito setores da faca](si-fu-setores-da-lamina.jpg)
+
 ### As oito sequências e os vinte e sete estudos
 
 Cada uma das oito partes é uma sequência própria, com três andamentos. Um estacionário, o **Bat Yi Dung Ma Bo** [不](/notes/etimologia-de-bat-bu-4e0d/)移動[馬](/notes/etimologia-de-maa-ma-99ac/)[步](/notes/etimologia-de-bo-bu-6b65/), sem deslocamento. E dois em deslocamento, o **Yi Dung Ma Bo** [移](/notes/etimologia-de-yi-yi-79fb/)[動](/notes/etimologia-de-dung-dong-52d5/)馬步: o **Jun-Toei** [進](/notes/etimologia-de-jun-jin-9032/)[退](/notes/etimologia-de-toei-tui-9000/), avançando, e o **Toei** 退, recuando.
@@ -102,6 +107,8 @@ Cada uma das oito partes é uma sequência própria, com três andamentos. Um es
 Pelo número rigoroso, três andamentos vezes oito partes dariam vinte e quatro. Mas na sequência completa aparecem três estudos que fogem da conta: a abertura da sequência, na primeira parte, e a segunda parte que possui duas abordagens dos deslocamentos. Dá vinte e sete estudos dentro das supostas vinte e quatro porções.
 
 A parte estacionária inicial tem oito movimentos, e Si Fu mostrou por que oito. Quatro movimentos de um lado e quatro do outro, e quatro movimentos geram três transições. A sequência espelha um lado no outro, mas não repete. Si Fu apontou a simetria (quatro de cada lado) e as transições, ressalvando que o mais útil é a atenção a que cada gesto é diferente do seguinte.
+
+![Si Fu mostra quatro dedos ao contar os movimentos de cada lado da parte estacionária inicial](si-fu-quatro-movimentos.jpg)
 
 ### Fluxo e peso: a sorte que não se corta
 
@@ -114,3 +121,5 @@ O gesto precisa de continuidade. Interrompido no meio, corta a sorte: volta a po
 Surgiu a curiosidade sobre o peso da faca, que é robusta e pesada de propósito. Uma faca leve não ajuda a identificar o fluxo nem a própria linha da lâmina. O paralelo é com o Gwan: um Gwan leve é mais gostoso, mas mais difícil de manobrar, e o Gwan ensina a roubar peso pela alavanca. No Gwan, o treino enfatiza a alavanca; no Do, a continuidade do movimento.
 
 A faca pesada sempre desce. Ao invés de brigar com ela, o praticante se aproveita da inércia: completou um gesto, já vira para o próximo, favorecendo a faca a subir de volta. Parar e voltar a jogar corta a sorte, na expressão de Si Fu, e mantendo a continuidade o peso passa a trabalhar a favor. Um bom Do, com o peso, ganha ajuda; um Do todo picotado é atrapalhado pelo mesmo peso.
+
+![Si Fu estende o braço ao explicar que jogar a faca e parar corta a sorte](si-fu-continuidade-da-faca.jpg)

@@ -4,10 +4,13 @@ date: '2026-09-01T14:55:00-03:00'
 summary: 'Anotações do décimo primeiro encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira e o novo participante Daniel Araújo. Tópicos revisados a pedido de Claudio: Mandarim como idioma oficial, Cantonês sem sistema de transliteração próprio, a Denominação Moy Yat Ving Tsun como jargão de compromisso, o Cantonês relevante pela província de Guangdong e não pelo toisanês de Si Taai Gung, o papel do contexto contra a homofonia e os tons, a escuta chinesa contida, a língua chinesa como ordenadora do pensamento, o caso do ideograma de Lap Sau fora do MDBG, e o fechamento sobre revisão e prontidão.'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental", "tons", "denominacao"]
 has_commentary: true
+thumb: "encontro-cover.jpg"
 sources: []
 ---
 
 Anotações do décimo primeiro encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira e Daniel Araújo, em sua primeira aula na série. Claudio propôs revisar os conceitos básicos para receber Daniel, e Si Fu aceitou refazer, com ele no comando, a mesma aula de abertura que já tinha dado a Claudio no início da série.
+
+![Si Fu no décimo primeiro encontro de Chinês Instrumental](encontro-cover.jpg)
 
 ### Cavar a própria cova
 
@@ -57,6 +60,8 @@ Surgiu na aula a observação de que as interações online, sobretudo depois da
 
 O alfabeto ocidental corre numa só direção, da esquerda para a direita, enquanto o chinês pode ser escrito da direita para a esquerda ou de cima para baixo, nunca de baixo para cima. Isso obriga quem lê a captar o todo da frase antes de decifrar a ordem das palavras.
 
+![Si Fu ergue a mão ao falar das direções em que o chinês pode ser escrito](si-fu-escrita-de-cima-para-baixo.jpg)
+
 Si Fu usou nomes próprios como exemplo. Quem já processou visualmente "Julio Camacho" ou "Daniel Araújo" reconhece de imediato que o nome está invertido se aparecer ao contrário, sem precisar ler letra por letra. O mesmo vale para um ideograma como o de cavalo: dá para reconhecer a imagem sem saber pronunciar o som, porque a língua chinesa não se apoia apenas na junção de fonemas como as línguas ocidentais.
 
 Surgiu na aula o ponto de que, em chinês, o verbo costuma vir depois na frase, o que reforça a necessidade de esperar o fim para entender. Si Fu confirmou a regra geral e observou que há frases sem verbo, tal como em português.
@@ -66,6 +71,8 @@ Surgiu na aula o ponto de que, em chinês, o verbo costuma vir depois na frase, 
 O Cantonês tem uma característica que soa estranha à primeira vista. Existem palavras faladas que parecem não ter ideograma associado a elas nos dicionários abertos. O lap de Lap Sau, técnica associada ao Siu Nim Tau, foi um desses casos discutidos na aula.
 
 Como exercício, o grupo pediu o termo a um modelo de linguagem, que devolveu dois ideogramas candidatos, e depois conferiu cada um no MDBG. O primeiro carrega a ideia de puxar para si, que é o sentido de Lap Sau, mas não se pronuncia lap. O segundo se pronuncia lap, e quer dizer agarrar, que não é o que a técnica faz.
+
+![Si Fu segura o próprio antebraço ao explicar que Lap Sau tem mais de puxar do que de agarrar](si-fu-lap-sau-puxar.jpg)
 
 Ou seja, um tem o sentido certo e o som errado, o outro tem o som certo e o sentido errado. Segundo Si Fu, é o segundo que aparece com mais frequência na literatura do sistema, justamente por falta de um ideograma exato.
 
@@ -87,6 +94,8 @@ Como ilustração, Si Fu trouxe "I Don't Wanna Talk About It", na gravação de 
 Si Fu anunciou que os encontros, até então quinzenais, passam a ter 45 minutos semanais, com temas propostos pelos próprios participantes, podendo repetir ou aprofundar temas anteriores. Ele lembrou que a série já usou os textos de Si Taai Gung Moy Yat como material de partida, e que outras fontes cabem, desde que o uso siga instrumental.
 
 Daniel contou que veio com a expectativa de que a aula fosse sobre aprender Cantonês como língua, mas encontrou algo mais próximo do que já buscava, um encontro instrumental de análise do sistema e da cultura. Ele também comentou que tinha saído do Programa de Mestrado por sentir que não estava pronto, e que hoje sente o oposto: que é o momento de entrar. Si Fu respondeu que a ideia de estar pronto não combina com a experiência da vida, e explicou por quê. Prontidão é estado do que é inanimado. Uma cadeira serve para sentar, e existe um momento em que ela está pronta; depois desse momento, resta só decadência, até o dia em que deixa de existir. Para pessoas, esse estado não é estável: o que aparece é a sensação de que faltam pré-requisitos básicos, um vazio a ser preenchido.
+
+![Daniel Araújo comenta suas expectativas para o encontro](daniel-araujo-expectativas.jpg)
 
 Si Fu propôs uma leitura etimológica para a palavra rever. O termo se aproxima de respeitar, no sentido de que só se volta a coisas importantes. Voltar a um tema, para Si Fu, é a melhor ferramenta de aprendizado, porque a segunda vez revela o que a primeira não mostrou, diferente da revisão escolar de só reler o mesmo texto. Si Fu ligou isso ao tamanho do currículo do sistema, de seis níveis. É bem mais curto que o de outras artes marciais, como o Karatê e seus vários graus de faixa, a ponto de muito praticante não saber dizer quantos níveis a própria arte tem. Si Fu tratou a brevidade como vantagem: currículo pequeno percorrido durante muito tempo é o que devolve o conceito de rever ao corpo. Entre o básico e o avançado só existe um nível, o intermediário, e é isso que alimenta a sensação legítima de não estar pronto.
 

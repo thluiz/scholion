@@ -4,10 +4,13 @@ date: '2026-04-30T12:02:00-03:00'
 summary: 'Anotações do sexto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O encontro entrou no Biu Ji 標指 pelas duas expressões do Hai Tong, 標準指南針 (que Biu Ji abrevia) e 借喻指南針 (a leitura correta), decupou bússola padrão e bússola de alta precisão, mostrou os limites da decupação etimológica que viaja sem ancoragem na transmissão e reabriu a leitura do Biu Ji como técnica de emergência.'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "biu-ji", "etimologia"]
 has_commentary: true
+thumb: "encontro-cover.jpg"
 sources: []
 ---
 
 Anotações do sexto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O encontro retomou a advertência da aula anterior sobre dicionários e IA, e entrou no [Biu Ji](/notes/etimologia-de-biu-ji-biao-zhi/) 標指 pelas duas expressões que o Hai Tong registra: 標準[指南針](/notes/etimologia-de-jam-zhen-91dd/), de que 標指 é abreviatura, e 借喻指南針, a leitura correta segundo Si Taai Gung. Apareceu a história da bússola padrão (de Si Gung) e da bússola de alta precisão (cunhada por Si Fu), e voltou a discussão sobre o Biu Ji como técnica de emergência.
+
+![Si Fu no sexto encontro de Chinês Instrumental](encontro-cover.jpg)
 
 ### Verdade canônica e coerência relacional
 
@@ -40,6 +43,8 @@ A pesquisa autônoma do discípulo é estimulada justamente para que se entenda 
 ### Linha central como bússola padrão
 
 Si Fu propôs que se pense o braço como agulha de uma bússola normal, e a [linha central](/notes/etimologia-de-jung-zhong-4e2d/) como a bússola padrão. Bússola normal gira; bússola padrão é a referência fixa por onde as outras se calibram. No sistema, esse lugar é da linha central.
+
+![Si Fu aponta com o dedo ao propor a linha central como bússola padrão e o braço como agulha de uma bússola normal](si-fu-linha-central-bussola-padrao.jpg)
 
 ### Sam Pai Fat 三拜佛 e Pai Fat Sao 拜佛手
 
@@ -76,6 +81,8 @@ Na linha contrária, surgiu a posição atribuída a Rodrigo Moreira: ver o Biu 
 Apareceu na aula uma reformulação alternativa, vinda do estudo dentro da prática: o Biu Ji como desafio. A construção feita nos níveis anteriores precisa ser desafiada, e o próprio Biu Ji oferece os elementos do desafio. O argumento se sustenta inclusive como justificativa para construir melhor o que vem antes, para que o desafio possa ser maior.
 
 Si Fu acolheu a leitura mas advertiu contra um delírio de superpotência embutido nela. Quando se diz que a base ficou tão consistente que ela é a referência para a qual se volta com segurança, subentende-se controle sobre tudo. Situações vão acontecer sem que a pessoa as escolha. O exemplo recorrente é o teto que cai na cabeça.
+
+![Si Fu leva a mão à cabeça ao dar o exemplo do teto que cai](si-fu-exemplo-teto-que-cai.jpg)
 
 O Biu Ji atende as duas pontas. Há o improviso calculado: estender o limite no Yi Maa, disparar o cotovelo no Gwai Jaang 跪踭, jogar o pé para frente na ponta como um [piu](/notes/etimologia-de-biu-ji-biao-zhi/), cair para trás no Sam Pai Fat com a base subindo. Cada um é desafio escolhido, com risco real. Se o tornozelo sobe ou se o quadril perde linha, é parte do experimento.
 

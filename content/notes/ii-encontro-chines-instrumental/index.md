@@ -4,10 +4,13 @@ date: '2026-03-29T12:33:00+01:00'
 summary: 'Anotações do segundo encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O eixo do dia foi o vocabulário cantonês de mestria e linhagem: o substantivo Si e a teia de termos…'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "linhagem", "np-chines-instrumental"]
 has_commentary: true
+thumb: "encontro-cover.jpg"
 sources: []
 ---
 
 Anotações do segundo encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O eixo do dia foi o vocabulário cantonês de mestria e linhagem: o substantivo *Si* e a teia de termos derivados que organizam quem é quem dentro da família Kung Fu, do tratamento mais cotidiano até as formas que só servem em contexto cerimonial. Cada termo abriu uma camada de etimologia e uma instrução de uso prático.
+
+![Si Fu no segundo encontro de Chinês Instrumental](encontro-cover.jpg)
 
 ### Si (師): mestre é substantivo
 
@@ -24,6 +27,8 @@ Quando o instrutor de tropa envelhece e ganha experiência, vira 老師 (*Lou Si
 A grafia que o chinês de Hong Kong escuta naturalmente é 師傅 (primeiro tom, sexto tom), o "mestre-mestre". O *Fu* aqui é o de mestria, o que executa e transmite, como um maestro. Não carrega conotação familiar. Usa-se com nome próprio, como em "Mestre Julio Camacho". É o Si Fu de quando se fala *sobre* alguém para terceiros.
 
 A outra grafia é 師父. Mesmo som, outro *Fu*: o de pai. Pictograficamente, um homem de peito aberto com duas armas, protegendo a família. Esse é o líder de família Kung Fu. Não se conjuga com nome próprio, porque a pessoa só tem um. Misturar os termos, ou pior, dizer "meu Si Fu Fulano" usando esse *Fu*, é gafe. Os dois *Fu* são homófonos, ambos sexto tom.
+
+![Si Fu ergue os dois punhos para mostrar a ideia pictográfica do Fu de pai, um homem de peito aberto com duas armas em punho](si-fu-gesto-pictografico-do-fu-de-pai.jpg)
 
 Provérbio chinês citado por Si Fu: o aprendiz deve *aprender a amar* o Si Fu e *respeitar* o pai. A inversão é o ponto. O respeito ao pai vem dado, o afeto pelo Si Fu se constrói.
 
@@ -54,6 +59,8 @@ A posição do caractere é convenção, e ela diferencia trilhas. *Si* (師) na
 ### Moon Paai (門派): galho ligado é linhagem, galho descolado é seita
 
 門派 (*Moon Paai*; mandarim *ménpài*, cantonês *mun4 paai3*) significa literalmente "ramificação de alguma coisa", os galhos de uma árvore. *Moon* (門, *mén* / *mun4*) sozinho é abreviatura de *Moon Paai* e aparece muito traduzido como "seita". O conceito encaixa porque uma seita é, etimologicamente, um galho que se desligou do processo, da árvore principal. A diferença entre *Paai* (派, *pài* / *paai3*) como seita e *Paai* como continuidade está na conexão: o galho que continua ligado é linhagem, o galho que se descolou é seita. O critério não é o tamanho do ramo, é se ele ainda passa seiva pelo tronco.
+
+![Si Fu abre os braços para descrever os galhos de uma árvore ao explicar Moon Paai](si-fu-galhos-da-arvore-moon-paai.jpg)
 
 ### Senioridade é tempo de mestria
 

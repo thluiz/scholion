@@ -4,10 +4,13 @@ date: '2026-09-08T14:59:00-03:00'
 summary: 'Anotações do décimo segundo encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira, Thiago Silva e Daniel Araújo. Tópicos revisados: a diferença entre transliteração, tradução e interpretação, a origem budista do Sam Faat 心法 como um método de transmissão entre outros, sua mecânica nas caminhadas com o mestre, o silêncio como campo de reflexão, as categorias idioma, dialeto e língua, os tons e a convenção de escrita da linhagem, os ideogramas Sam (coração/mente) e Fat (método), o fonetismo por trás dos nomes chineses de países, e o pensamento chinês organizado por movimento, não por posição.'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental", "sam-faat", "budismo"]
 has_commentary: true
+thumb: "encontro-cover.jpg"
 sources: []
 ---
 
 Anotações do décimo segundo encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira, Thiago Silva e Daniel Araújo. O encontro abriu corrigindo um vocabulário impreciso e disso desdobrou o tema do dia. O grupo passou pela origem budista do Sam Faat 心法, pela mecânica desse método de transmissão, e pelos dois ideogramas que o compõem.
+
+![Si Fu no décimo segundo encontro de Chinês Instrumental](encontro-cover.jpg)
 
 ### Transliterar não é traduzir
 
@@ -85,6 +88,8 @@ A inveja ilustra o mesmo mecanismo. Fome, sede, inveja não têm materialidade, 
 
 Si Fu apoiou a leitura na etimologia: inveja vem do latim *invidia*, a incapacidade de ver. Daí os invejosos da Divina Comédia, castigados justamente nos olhos, com espinhos ou grampos, punidos com o não ver. Invejar vai além de cobiçar: chega perto de desejar o mal de quem mostra ter aquilo que falta a quem inveja.
 
+![Si Fu leva as mãos à altura dos olhos ao contar que, na Divina Comédia, o ferimento dos invejosos ficava nos olhos](si-fu-inveja-olhos-divina-comedia.jpg)
+
 Ele mesmo apontou o limite da associação: se a inveja nasce de algo que só se ouviu falar, e nunca se viu, ela continua sendo inveja, e continua localizada no olho. A associação é representacional, e o corpo entra por ser onde a coisa se sente, não por ser onde ela acontece.
 
 Dizer que Sam é coração separado de mente, ou de cérebro, é a mesma imprecisão: Sam cobre tanto o processo mais emocional quanto o mais racional. Surgiu na aula a observação de que o MDBG também lista Sam como inteligência, e Si Fu concordou, dizendo não ter reparado antes.
@@ -109,6 +114,8 @@ Si Fu ressalvou que o som é ponto de partida, não critério único: como há m
 
 Segundo Si Fu, o pensamento chinês prioriza o movimento sobre a posição estática, tanto na língua quanto em conceitos do sistema. Energia interna e energia externa, em português, soam como localização, uma energia que fica dentro, outra que fica fora. Em chinês, o mesmo par de termos aponta para direção de movimento, uma energia que vai de fora para dentro ou de dentro para fora, dependendo do contexto, não um endereço fixo.
 
+![Si Fu estende o braço para fora ao explicar a energia interna como movimento que sai de dentro e aponta para fora](si-fu-energia-interna-para-fora.jpg)
+
 O Ocidente serve como referência, nunca como comparação. Comparar embute antagonismo, sugere que uma coisa é o oposto da outra. Pensando em português e em categorias ocidentais, é mais fácil partir daí e referenciar o resto do que tentar abrir mão disso; o erro está em tomar a base como polo contrário.
 
 Si Fu testou a ideia com outros sistemas de escrita: onde entrariam o árabe, ou o cirílico? Nenhum dos dois cabe em qualquer um dos lados, o que mostra que se trata de diferença, e não de oposição. O finlandês oferece outro exemplo, tendendo a acumular verbos no início da frase e substantivos no final, embora Si Fu tenha ficado em dúvida entre finlandês e islandês e deixado o ponto para confirmação.
@@ -116,5 +123,7 @@ Si Fu testou a ideia com outros sistemas de escrita: onde entrariam o árabe, ou
 ### O que ficou do encontro
 
 Ficou combinado deixar a decomposição de Fat para o próximo encontro, a pedido de Claudio, que quer chegar com mais tempo de estudo prévio. Daniel perguntou se o método de Sam Faat seria do tipo cartesiano, dado o contraste entre um coração fluido e um método que endurece. Si Fu descartou a hipótese. O cuidado com a tradução existe justamente para não empacotar Sam Faat dentro de categorias ocidentais rígidas que não lhe cabem.
+
+![Daniel Araújo pergunta se o método de Sam Faat seria do tipo cartesiano](daniel-araujo-pergunta-metodo-cartesiano.jpg)
 
 Antes de encerrar, Si Fu comentou uma possível viagem à Califórnia na terceira semana de novembro, aberta a quem quisesse ir, e pediu a Thiago Silva que alinhasse os detalhes com Marcos Davi.

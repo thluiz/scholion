@@ -4,10 +4,13 @@ date: '2026-04-22T09:56:00-03:00'
 summary: 'Anotações do quinto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O encontro virou o método de estudo: em vez de seguir vertical num tema, decupar trechos bilíngues do Hai Tong de Si Taai Gung Moy Yat como balizador. O trecho do dia abre a seção do Biu Ji.'
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "etimologia", "np-chines-instrumental", "biu-ji", "kuen-to"]
 has_commentary: true
+thumb: "encontro-cover.jpg"
 sources: []
 ---
 
 Anotações do quinto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. Si Fu propôs decupar trechos bilíngues do Hai Tong de Si Taai Gung Moy Yat como balizador, aproveitando termos já estudados em encontros anteriores e ancorando o estudo dentro do próprio sistema. 
+
+![Si Fu no quinto encontro de Chinês Instrumental](encontro-cover.jpg)
 
 O trecho escolhido foi o que abre a seção do Biu Ji 標指. A escavação pousou em *kuen to* 拳套, na natureza do Biu Ji como retorno, na inversão de ordem entre *kuen to* e *to kuen*, no termo dispositivo (*jiu sik* 招式) cunhado por Si Gung e na expressão *cheung ak* 掌握 que aparece adiante no mesmo trecho.
 
@@ -79,11 +82,15 @@ A escavação por etimologia abre risco quando o dicionário é geral. O MDBG é
 
 Si Fu foi explícito quanto ao recurso a IAs (ChatGPT, Gemini, similares): evitar. E foi explícito quanto ao recurso ao dicionário de papel: vale a pena, dá mais trabalho, fixa melhor. Entre as duas edições do mesmo dicionário que ele tem em mãos, a versão vermelha (mais antiga) lhe parece mais concreta do que a azul (revisão posterior, dez anos depois). Para o estudo dos ideogramas vale o esforço de procurar no papel.
 
+![Si Fu mostra a edição azul do dicionário chinês-português que recomenda consultar em papel](si-fu-mostra-dicionario-chines-portugues.jpg)
+
 ### Cheung ak 掌握: dominar o kuen lei 拳理
 
 O trecho do Hai Tong fecha dizendo que, com o auxílio do primeiro e do segundo *to kuen*, se passa a dominar o *kuen lei* [拳](/notes/etimologia-de-kuen-quan/)[理](/notes/etimologia-de-lei-li-7406/) e a pôr em ação a veemência do Biu Ji. Traduz-se *cheung ak* [掌](/notes/etimologia-de-jeung-zhang/)[握](/notes/etimologia-de-ak-wo-63e1/) como dominar porém a etimologia diz muito: *Cheung* 掌 é palma, mão aberta. *Ak* 握 é segurar, agarrar com a mão fechada. A composição cobre o intervalo entre os dois extremos: do mais aberto ao mais fechado, em todas as gradações intermediárias. Os três caracteres (手 *sau*, mão; 拳 *kuen*, punho fechado; 掌 *cheung*, palma aberta) partilham o mesmo radical de mão, e foi a comparação visual entre os três que abriu a leitura.
 
 *Cheung ak* 掌握 não é, então, dominar no sentido fraco de fazer bem. É domínio soberano, controle completo na transformação inteira da mão, de ponta-a-ponta. Penso na ideia de conhecer como a palma da mão. Aplicado ao *kuen lei*, a lógica interna do punho, é o controle na variação que o sistema admite. Só se experimenta o Biu Ji em sua plenitude se houver maestria nos dominios anteriores.
+
+![Si Fu fecha a mão em punho ao explicar *kuen* 拳 como a mão fechada](si-fu-punho-kuen.jpg)
 
 ### A função prática do instrumental
 

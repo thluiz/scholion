@@ -4,10 +4,13 @@ date: '2026-04-08T22:00:00+01:00'
 summary: Anotações do quarto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O eixo do dia foi a etimologia de Cham Kiu (尋橋), com escavação caractere por caractere, contraste entre…
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "etimologia", "np-chines-instrumental", "cham-kiu"]
 has_commentary: true
+thumb: "encontro-cover.jpg"
 sources: []
 ---
 
 Anotações do quarto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O eixo do dia foi a etimologia de *Cham Kiu* (尋橋), com escavação caractere por caractere, contraste entre Mandarim e Cantonês, passagem pelas leituras concorrentes do termo no jargão Ving Tsun, e fechamento na leitura específica da nossa linhagem.
+
+![Si Fu no quarto encontro de Chinês Instrumental](encontro-cover.jpg)
 
 ### Cópia à mão e a técnica do cinza claro
 
@@ -19,11 +22,15 @@ Essa técnica casou com a lembrança de um livro que Si Fu encontrou na Fenac, q
 
 Encerrada a parte da escrita, a aula entrou no termo *Cham Kiu*. Claudio resumiu o que tinha levantado em pesquisa preliminar: numa leitura simplificada, "procurar a ponte", mas uma busca mais aprofundada apontou referência a uma medida antiga de oito pés, correspondente à envergadura de uma pessoa de mãos abertas. Claudio concluiu que o conceito também envolvia "se ajustar, se adequar, tatear" e construir uma conexão.
 
+![Claudio Teixeira apresenta a pesquisa preliminar sobre Cham Kiu](claudio-teixeira-apresenta-pesquisa-cham-kiu.jpg)
+
 Surgiu também a referência a um documento de 2018 sobre Si Gung Moy Yat, em que *Chum Kiu* aparece como abreviação de "buscar a ponte" ou "cobiçar a ponte". Si Fu pediu que esse documento fosse compartilhado no grupo do WhatsApp. Para Si Fu, esse trabalho de escavação detalhada será determinante para o programa de mestrado, e funciona, na prática, como uma aula particular dentro da aula coletiva.
 
 ### Mandarim antes de Cantonês
 
 Si Fu insistiu numa orientação de método: começar pelo Mandarim para ter visão ampla, e só depois descer para o Cantonês, para não ficar limitado a um nicho. A pronúncia do termo em Mandarim é *xún*, segundo tom, ascendente. Em Cantonês é *Cham Kiu*, quarto tom, cortado, seco, que Si Fu associou à ideia de morte.
+
+![Si Fu marca com a mão a subida do segundo tom do Mandarim](si-fu-mostra-tom-com-a-mao.jpg)
 
 Houve uma revisão rápida dos tons, com a regra mnemônica de que o primeiro é horizontal, o segundo ascendente, o terceiro um "vezinho", e o quarto cortado. Chi Yau Si Moy comentou que a pronúncia é bastante musical e que o Gemini estava fazendo a transcrição com precisão. Si Fu pediu que fosse gerado um resumo sucinto dos pontos principais das quatro aulas anteriores, para distribuir no grupo.
 
@@ -58,6 +65,8 @@ Como exemplo, Si Fu pegou *A Arte da Guerra*, cujo título original é *Sun Tzu 
 ### Cham Kiu de Moy Yat: atravessar a ponte curta
 
 Na nossa linhagem, a tradução mais usual de *Cham Kiu* não é nenhuma das anteriores. É "ponte curta". E isso tem a ver com uma camada de *Cham* que não tinha aparecido até aqui: *Cham*, em uso antigo, é também uma medida, "uma braça", a distância de punho a punho com os braços abertos, sem contar a mão. Medida subjetiva, variável de pessoa para pessoa.
+
+![Si Fu abre os braços para mostrar uma braça, a medida de punho a punho](si-fu-mostra-uma-braca.jpg)
 
 Uma "ponte curta", de um *Cham* só, sugere risco, ou bloqueio: a pessoa não conseguiria atravessar para o outro lado sem ela, mesmo que a distância seja, em número, pequena. *Cham Kiu* passa a significar então "atravessar uma ponte curta". E daí o termo se estende para todas as travessias possíveis dentro do sistema, da base para o topo, do Kung Fu básico para o avançado, do que se sabe fazer para o que ainda não se sabe.
 
