@@ -1,14 +1,14 @@
 [
   {
+    "date": "2026-10-01",
+    "subject": "Gerando histórico de notas"
+  },
+  {
     "date": "2026-09-11",
     "subject": "note: corta menção a pagamento pendente no XII Encontro"
   },
   {
     "date": "2026-09-11",
     "subject": "note: corta anedota pessoal do XII Encontro"
-  },
-  {
-    "date": "2026-09-11",
-    "subject": "note: resolve TODO do TikTok no XII Encontro"
   }
 ]

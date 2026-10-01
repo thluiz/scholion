@@ -1,14 +1,14 @@
 [
   {
+    "date": "2026-10-01",
+    "subject": "Gerando histórico de notas"
+  },
+  {
     "date": "2026-04-17",
     "subject": "chore: normaliza tags de notas — formato bracket + tag de episódio"
   },
   {
     "date": "2026-04-09",
     "subject": "edit: ver também — links cruzados para tons de Pinyin e Jyutping no I encontro"
-  },
-  {
-    "date": "2026-03-21",
-    "subject": "feat: I Encontro de Chinês Instrumental"
   }
 ]
