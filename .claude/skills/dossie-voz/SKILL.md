@@ -96,7 +96,8 @@ FECHAMENTO — <unidade> — <data>
 
 - **Source-or-silence vale no doc.** A IA de voz repete o que lê como fato. Nada de etimologia, datação ou atribuição sem fonte; o que a pesquisa marca ⚠ ou `?` vai para Pendências.
 - **Citações**: só as conferidas, curtas (obra com direito autoral: frases, não parágrafos), com referência.
-- **O doc é privado.** Nunca compartilhar: carrega paráfrase e citação de obras com direito autoral. Texto integral de obra protegida não vai para o doc.
+- **O doc é privado.** Nunca compartilhar: carrega paráfrase, citação e, por decisão do autor, o texto integral das fontes privadas que ele usa como base de pesquisa.
+- **Fontes integrais**: aba "Fontes" com os textos de domínio público (trecho usado + link) e, em sub-abas, o texto integral da fonte privada, um capítulo por aba. No modo automático o upload de texto protegido é barrado pelo classificador; fazer com o autor fora do modo automático, aprovando o passo.
 - **Escrita**: frases curtas, PT-BR, sem floreio. A IA vai falar isso em voz alta.
 
 ## Modo 2 — Fechar a conversa
@@ -114,6 +115,16 @@ Argumento: `fechar` + o link do doc de fechamento, ou o texto colado. Sem link, 
 7. **Arquivar o fechamento** em `fontes-privadas/voz/<slug>/fechamentos/<AAAA-MM-DD>-<tema>.md`, com cabeçalho de procedência (de onde veio, onde foi incorporado, correções feitas, decisões posteriores do autor). Commit no submódulo + push, e ponteiro no Scholion.
 8. **Atualizar o doc consolidado** (Modo 1, passo 5, doc existente) com o que entrou na pesquisa.
 9. **Apagar o doc de fechamento do claude.ai** (`Artifact` com `action: "delete"`) só depois do arquivo commitado e com push feito. O autor confirma a exclusão. O doc consolidado não é apagado.
+
+## Subir texto longo para uma aba
+
+O conteúdo de um arquivo local não passa pelas chamadas de docs; ele sobe como anexo e o conector o lê do anexo:
+
+1. `Artifact( action = "publish", url = <link do doc>, asset = true, file_path = <arquivo .md> )`: um arquivo de texto por chamada; devolve o id do asset.
+2. `batch`: `create` do blob (`{"object":"blob","engine":"blob","payload":{"asset":"<id>"}}`) + a aba (file + node com um parágrafo provisório + pointer) + o `patch` que nomeia e aninha a aba (`subtabOf`, `order`). O blob não pode ser lido dentro do `batch`.
+3. `update` isolado no node da aba: `replace` do parágrafo provisório (com `ifHash`/`ifRev` do ack) por `{"from":{"kind":"blob","id":"<id do blob>"},"as":"markdown"}`.
+
+Para dividir um livro `.txt` por capítulo, localizar os títulos pelo texto da linha (não por número de linha: há quebras de linha mistas) e juntar as linhas quebradas em parágrafos.
 
 ## O que esta skill não faz
 
