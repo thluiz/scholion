@@ -22,7 +22,7 @@ toc: true
 ## Estado
 
 - **Em foco**: episódio de abertura sobre o que é uma virtude, com a definição fechada em 2026-10-01 (7.1), a sabedoria como horizonte (8.2) e os três presentes de Agostinho como possível arquitetura da série (7.4). A série tem 21 episódios (8.1).
-- **Próximo**: (a) dossiê das 18 virtudes capítulo por capítulo, com trechos citáveis (pedido do autor). (b) Dar família às virtudes que ainda não têm (7.4). (c) Desenvolver a noção de "papel". (d) A curiosidade como candidata (7.5). (e) Os `?` que restam em 5.3: estoicos, *kathékon*, tradição chinesa. (f) Curar a lista de outras virtudes pelo filtro da definição (8.3).
+- **Próximo**: (a) dossiê das 18 virtudes capítulo por capítulo, com trechos citáveis (pedido do autor). (b) Dar família às virtudes que ainda não têm (7.4). (c) Desenvolver a noção de "papel". (d) A curiosidade como candidata (7.5). (e) Os `?` que restam em 5.3: estoicos, *kathékon*, tradição chinesa. (f) Curar a lista de outras virtudes pelo filtro da definição (8.3). (g) Decidir onde Weil entra: no episódio do amor ou no da humildade (9.3).
 - **Pesquisas-irmãs**:
   - [discursos-protrepticos](/research/discursos-protrepticos/) — Comte-Sponville é um protréptico moderno explícito; o tratado é exercício de conversão à filosofia prática.
   - [estoicismo-lusitano](/research/estoicismo-lusitano/) — sabedoria vivida como virtude difusa, ponte para a tradição estoica que Comte-Sponville cita o tempo inteiro.
@@ -223,6 +223,8 @@ Ideia do autor: a memória e o tempo separam famílias de virtudes.
 | Atenção | do presente | simplicidade, pureza, tolerância, humor; amor como cume |
 | Espera | do futuro | coragem, generosidade, esperança |
 
+A atenção é o chão da família do presente, não uma virtude a mais (9.2).
+
 ⚠ Distribuição proposta na conversa, não fechada. A esperança não está entre as 18. Polidez, prudência, temperança, justiça, compaixão, doçura e boa-fé ainda sem família.
 
 #### 7.5. Método: a definição como filtro
@@ -329,6 +331,35 @@ Título provisório sugerido pela IA: "O que ficou de fora". Pergunta que abre: 
 #### 8.5. Polidez: achado
 
 - Nietzsche ✓: "Die guten Vier. — Redlich gegen uns und was sonst uns Freund ist; tapfer gegen den Feind; grossmüthig gegen den Besiegten; höflich — immer: so wollen uns die vier Cardinaltugenden" (*Aurora* §556). A cortesia entra entre as quatro virtudes cardeais. Links: [eKGWB](http://www.nietzschesource.org/#eKGWB/M-556).
+
+### 9. Simone Weil e a atenção: conversa de voz de 2026-10-02
+
+Fechamento arquivado em `fontes-privadas/voz/pequeno-tratado-em-audio/fechamentos/2026-10-02-weil-atencao.md`. Passagens conferidas nas "Réflexions sur le bon usage des études scolaires en vue de l'amour de Dieu", em *Attente de Dieu* (Fayard, 1966), na paginação do PDF dos Classiques des sciences sociales, pp. 67-75 ([UQAM](https://classiques.uqam.ca/classiques/weil_simone/attente_de_dieu/attente_de_dieu_1966.pdf)).
+
+#### 9.1. O que chamou a atenção do autor
+
+- [autor] "atenção ser suspender o pensamento". Depois de ler o conceito no texto: "estou achando difícil encaixar isso. mas gosto dessa leitura de atenção".
+- Weil ✓: "L'attention est un effort, le plus grand des efforts peut-être, mais c'est un effort négatif. Par lui-même il ne comporte pas la fatigue" (pp. 71-72).
+- ⚠ Paradoxo apontado pela IA: a definição pede disposição adquirida pelo trabalho, e o trabalho da atenção é parar. Mesmo problema da simplicidade (7.6).
+
+#### 9.2. A atenção como chão da família do presente
+
+- ⚠ Proposta da IA, aceita pelo autor ("alivia"): a atenção não precisa entrar como virtude. É o chão da família do presente, o *contuitus* de Agostinho (7.4), num lugar parecido com o da sabedoria (8.2).
+- Weil ✓: "Bien qu'aujourd'hui on semble l'ignorer, la formation de la faculté d'attention est le but véritable et presque l'unique intérêt des études" (p. 67).
+- Weil ✓: "La clef d'une conception chrétienne des études, c'est que la prière est faite d'attention" (p. 67).
+
+#### 9.3. O que o ensaio toca no dossiê
+
+- **Humildade** ✓: "s'astreindre rigoureusement à regarder en face, à contempler avec attention, pendant longtemps, chaque exercice scolaire manqué, dans toute la laideur de sa médiocrité, sans se chercher aucune excuse"; "Surtout la vertu d'humilité, trésor infiniment plus précieux que tout progrès scolaire, peut être acquise ainsi" (p. 70).
+- **Talento e virtude** ✓: o esforço muscular, alunos que "froncer les sourcils, retenir la respiration, contracter les muscles"; estudos que dão boas notas "malgré l'effort et grâce aux dons naturels" (pp. 70-71).
+- **Vontade e desejo** ✓: a vontade "n'a presque aucune place dans l'étude. L'intelligence ne peut être menée que par le désir" (p. 71).
+- **Nenhum esforço se perde** ✓: "Jamais, en aucun cas, aucun effort d'attention véritable n'est perdu" (p. 68).
+- **Esperar em vez de buscar** ✓: os erros vêm "de ce que la pensée s'est précipitée hâtivement sur quelque chose [...] La cause est toujours qu'on a voulu être actif ; on a voulu chercher" (p. 72); "Les biens les plus précieux ne doivent pas être cherchés, mais attendus" (pp. 72-73); o homem na montanha que vê "beaucoup de forêts et de plaines" sem olhar para elas (p. 72).
+- **Amor ao próximo** ✓: o infeliz existe "non pas comme unité dans une collection [...] mais en tant qu'homme, exactement semblable à nous"; o olhar em que "l'âme se vide de tout contenu propre pour recevoir en elle-même l'être qu'elle regarde tel qu'il est" (pp. 74-75). Ver [weil-quel-est-ton-tourment](/notes/weil-quel-est-ton-tourment/).
+- Fio aberto pelo autor: Weil cabe no episódio do amor, mas também toca a humildade (família da memória), pelo encarar o próprio erro. O autor encerrou antes de decidir.
+- Título provisório sugerido pela IA: "Esperar em vez de buscar". Pergunta: prestar atenção é fazer força ou parar de fazer?
+- `?` Em *A gravidade e a graça*, a atenção pura como oração: de memória, não conferido.
+- Ver [weil-attention-suspendre-sa-pensee](/notes/weil-attention-suspendre-sa-pensee/), [attention-as-the-purest-form-of-generosity](/notes/attention-as-the-purest-form-of-generosity/), [genuine-attention-clearing-space-not-forcing-will](/notes/genuine-attention-clearing-space-not-forcing-will/), [tempo-em-agostinho](/notes/tempo-em-agostinho/); para a humildade, [aristoteles-magnanimidade-unduly-humble](/notes/aristoteles-magnanimidade-unduly-humble/), [spinoza-humility-is-not-a-virtue](/notes/spinoza-humility-is-not-a-virtue/), [hume-monkish-virtues](/notes/hume-monkish-virtues/); outras de Weil, [democracia-sem-partido](/notes/democracia-sem-partido/) e [porque-a-historia-das-mortes-dos-filosofos](/notes/porque-a-historia-das-mortes-dos-filosofos/).
 
 ## Notas extraídas
 
