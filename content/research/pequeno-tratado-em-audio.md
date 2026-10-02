@@ -21,8 +21,8 @@ toc: true
 
 ## Estado
 
-- **Em foco**: episódio de abertura sobre o que é uma virtude, com a definição fechada em 2026-10-01 (7.1) e os três presentes de Agostinho como possível arquitetura da série (7.4).
-- **Próximo**: (a) dossiê das 18 virtudes capítulo por capítulo, com trechos citáveis (pedido do autor). (b) Dar família às virtudes que ainda não têm (7.4). (c) Desenvolver a noção de "papel". (d) A curiosidade como candidata (7.5). (e) Os `?` que restam em 5.3: estoicos, *kathékon*, tradição chinesa.
+- **Em foco**: episódio de abertura sobre o que é uma virtude, com a definição fechada em 2026-10-01 (7.1), a sabedoria como horizonte (8.2) e os três presentes de Agostinho como possível arquitetura da série (7.4). A série tem 21 episódios (8.1).
+- **Próximo**: (a) dossiê das 18 virtudes capítulo por capítulo, com trechos citáveis (pedido do autor). (b) Dar família às virtudes que ainda não têm (7.4). (c) Desenvolver a noção de "papel". (d) A curiosidade como candidata (7.5). (e) Os `?` que restam em 5.3: estoicos, *kathékon*, tradição chinesa. (f) Curar a lista de outras virtudes pelo filtro da definição (8.3).
 - **Pesquisas-irmãs**:
   - [discursos-protrepticos](/research/discursos-protrepticos/) — Comte-Sponville é um protréptico moderno explícito; o tratado é exercício de conversão à filosofia prática.
   - [estoicismo-lusitano](/research/estoicismo-lusitano/) — sabedoria vivida como virtude difusa, ponte para a tradição estoica que Comte-Sponville cita o tempo inteiro.
@@ -50,6 +50,8 @@ O projeto de podcast vem da intuição oposta à do tratado: cada uma das 18 vir
 (A confirmar com o autor antes de aprofundar.)
 
 ### 1. Agrupamento dos episódios
+
+Superado em 8.1: a série tem 21 episódios, um por virtude.
 
 Três modos possíveis, não exclusivos:
 
@@ -108,7 +110,7 @@ Conversa de voz sobre a Polidez que acabou na arquitetura da série.
 - **Abertura**: um episódio sobre o que é uma virtude, antes de qualquer virtude específica.
 - **Polidez ganha episódio próprio.** Não é virtude do mesmo tipo que as outras dezessete: é porta de entrada. A criança finge respeito antes de senti-lo; imitando as maneiras da virtude, ganha a chance de se tornar virtuosa (paráfrase do cap. 1).
 - **Par de vícios da Polidez** ⚠ formulação do autor, o livro não dá: apatia (quem nem se importa com os usos) e desrespeito ativo (o grosseiro que ofende de propósito).
-- **Agrupamento Polidez + Doçura**, a confirmar. Critério: a apatia como abismo comum. O prefácio põe a doçura "entre cólera e apatia".
+- **Agrupamento Polidez + Doçura**, a confirmar. Critério: a apatia como abismo comum. O prefácio põe a doçura "entre cólera e apatia". Superado em 8.1: cada virtude tem episódio próprio.
 
 #### 5.2. Três tipos de virtude
 
@@ -273,6 +275,60 @@ Por virtude:
 - Zagzebski ✓, *Virtues of the Mind*, Cambridge, 1996, p. 137: "a deep and enduring acquired excellence of a person, involving a characteristic motivation to produce a certain desired end and reliable success in bringing about that end". A faca tem o sucesso, não a motivação. Links: [IEP](https://iep.utm.edu/virtue-epistemology/).
 - Tomás ✓: "virtus humana, quae est habitus operativus, est bonus habitus, et boni operativus" (*ST* I-II q.55 a.3). A fórmula *habitus operativus bonus* é resumo de comentadores. A definição "bona qualitas mentis, qua recte vivitur..." (q.55 a.4) é, nas palavras de Tomás, colhida de Agostinho ("ex cuius verbis praedicta definitio colligitur"); Pedro Lombardo a registra em *Sentenças* II d.27 c.5. Links: [Corpus Thomisticum](https://www.corpusthomisticum.org/sth2055.html), [Franciscan Archive](https://www.franciscan-archive.org/lombardus/II-Sent.html).
 - Platão ✓, *Protágoras* 329d (as partes da virtude como as do rosto ou como pedaços de ouro) e 361b (se a virtude é conhecimento, pode ser ensinada). Tese socrática discutida no diálogo, não doutrina fechada. Links: [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0178:text=Prot.:section=329d).
+
+### 8. Outras virtudes e estrutura da série: conversa de voz de 2026-10-02
+
+Fechamento arquivado em `fontes-privadas/voz/pequeno-tratado-em-audio/fechamentos/2026-10-02-outras-virtudes.md`. Fontes conferidas em 2026-10-02.
+
+#### 8.1. Estrutura da série
+
+Decisão do autor: 21 episódios. A abertura sobre o que é uma virtude; 18 episódios, um por virtude de Comte-Sponville, na ordem do livro; um episódio sobre outras virtudes; um encerramento.
+
+- Comte-Sponville sobre a ordem ✓: "O fato de este conjunto começar pela polidez, que ainda não é moral, e terminar pelo amor, que não o é mais, obviamente é deliberado" (Preâmbulo).
+
+#### 8.2. A sabedoria como horizonte
+
+Posição do autor: a sabedoria não é uma virtude entre as outras, mas o fim para onde elas apontam. Entra na abertura, como horizonte da série. Responde em parte à pergunta sobre o telos. Decisão do autor (2026-10-02): a sabedoria também entra na lista de candidatas de 8.3, para o episódio de outras virtudes discutir por que ela fica acima das virtudes.
+
+- Comte-Sponville separa prudência e sabedoria ✓: "A phronésis é como que uma sabedoria prática, sabedoria da ação, para a ação, na ação. No entanto, ela não faz as vezes de sabedoria (de verdadeira sabedoria: Sophia), porque tampouco basta agir bem para viver bem, ou ser virtuoso para ser feliz" (cap. A prudência). `?` Que Comte-Sponville trate a sabedoria como fim das virtudes não aparece no *Tratado*.
+- Spinoza ✓, contra a esperança e a favor da razão: "the more we endeavour to be guided by reason, the less do we depend on hope; we endeavour to free ourselves from fear, and, as far as we can, to dominate fortune, directing our actions by the sure counsels of wisdom" (*Ética* IV, prop. 47, nota, trad. Elwes). Links: [Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt).
+
+#### 8.3. O que ficou de fora
+
+Critério de Comte-Sponville ✓: "Perguntei-me quais eram as disposições de coração, natureza ou caráter cuja presença, num indivíduo, aumentava a estima moral que eu tinha por ele e cuja ausência, ao contrário, a diminuía. Isso proporcionou uma lista de cerca de trinta virtudes." Saíram as redundantes, "por exemplo, bondade e generosidade, ou honestidade e justiça", e as que não lhe pareceram indispensáveis: "Restaram dezoito" (Preâmbulo).
+
+Candidatas, todas aceitas pelo autor para a lista, a passar pelo filtro da definição (7.5):
+
+- **Sugeridas pela mãe do autor**: o autocontrole, o controle das emoções como o que nos afasta do animal, e a elegância. O autor lê o autocontrole como racionalidade. [autor] A elegância vem de eleger: tem a ver com as escolhas que a pessoa tem que fazer.
+- **Do autor**: a sabedoria (8.2).
+- **Propostas da IA, ocidentais**: esperança, paciência, curiosidade, magnanimidade, serenidade, discrição, constância; autossuficiência (*autarkeia* estoica), amizade (Aristóteles), honestidade intelectual (Nietzsche), benevolência (Hume), responsabilidade (Hans Jonas).
+- **Propostas da IA, outras tradições**: piedade filial, não-agir, harmonia, não-violência, equanimidade ou desapego, hospitalidade, reciprocidade, custódia da terra, ubuntu, responsabilidade intergeracional.
+
+⚠ Sobreposições apontadas pela IA, para a curadoria: amizade e philia; benevolência e 仁; paciência e *ṣabr*; serenidade e *ḥilm*; autocontrole e temperança; honestidade intelectual e boa-fé; responsabilidade e responsabilidade intergeracional; magnanimidade e a humildade em Aristóteles (7.6). A constância já está na definição ("a constância no presente") e pode ser menos uma virtude a mais do que um traço de todas.
+
+Título provisório sugerido pela IA: "O que ficou de fora". Pergunta que abre: por que estas 18, e não outras?
+
+#### 8.4. Fontes das candidatas
+
+- **Elegância** ✓: "from Latin elegantem (nominative elegans) "choice, fine, tasteful," collateral form of present participle of eligere "select with care, choose"" ([etymonline](https://www.etymonline.com/word/elegant)). O Wiktionary passa por um verbo não atestado, *ēlegāre*, "probably" de *ēligō* ([Wiktionary](https://en.wiktionary.org/wiki/elegans)). Ver [cioran-skepticism-elegance-anxiety](/notes/cioran-skepticism-elegance-anxiety) e [cioran-pas-elegant-dabuser-malchance](/notes/cioran-pas-elegant-dabuser-malchance).
+- **Autocontrole**: ver [epictetus-no-man-is-free-master-of-himself-misattributed](/notes/epictetus-no-man-is-free-master-of-himself-misattributed), frase de atribuição falsa a Epicteto.
+- **Esperança** ✓: Spinoza, "Hope is an inconstant pleasure, arising from the idea of something past or future, whereof we to a certain extent doubt the issue" e "there is no hope unmingled with fear, and no fear unmingled with hope" (*Ética* III, def. dos afetos 12 e 13 e explicação); "Emotions of hope and fear cannot be in themselves good" (IV, prop. 47). Comte-Sponville, na descrição editorial de *Le bonheur, désespérément* (Librio, 2003): "nous sommes séparés du bonheur par l'espérance même qui le poursuit". `?` Por que fé e esperança ficaram fora do *Tratado*. Ver [camus-esperanca-suicidio-filosofico](/notes/camus-esperanca-suicidio-filosofico).
+- **Benevolência** ✓: Hume, "The epithets sociable, good-natured, humane, merciful, grateful, friendly, generous, beneficent, or their equivalents, are known in all languages, and universally express the highest merit, which human nature is capable of attaining" (*Enquiry Concerning the Principles of Morals* II, M 2.1). Links: [davidhume.org](https://davidhume.org/texts/m/2).
+- **Honestidade intelectual** ✓: Nietzsche, "Redlichkeit, gesetzt, dass dies unsre Tugend ist, von der wir nicht loskönnen, wir freien Geister" (*Além do bem e do mal* §227). Links: [eKGWB](http://www.nietzschesource.org/#eKGWB/JGB-227).
+- **Responsabilidade** ✓: Hans Jonas, *Das Prinzip Verantwortung* (1979); *The Imperative of Responsibility* (Chicago, University of Chicago Press, 1984). `?` A formulação literal do imperativo. Links: [University of Chicago Press](https://press.uchicago.edu/ucp/books/book/chicago/I/bo5953283.html).
+- **Amizade**: Comte-Sponville trata a *philia* numa das três seções do capítulo do amor ✓ (7.3).
+- **Serenidade**: ver [etimologia-de-jing-jing-975c](/notes/etimologia-de-jing-jing-975c) (靜).
+- **Tradição chinesa** ✓ ([MDBG](https://www.mdbg.net/chinese/dictionary), [SEP, Confucius](https://plato.stanford.edu/entries/confucius/), [SEP, Daoism](https://plato.stanford.edu/entries/daoism/)): 仁 *rén*, humanidade, benevolência ([confucius-without-ren-cannot-endure](/notes/confucius-without-ren-cannot-endure)); 禮 *lǐ*, rito, propriedade ([etimologia-de-lai-li](/notes/etimologia-de-lai-li)); 義 *yì*, retidão ([confucius-gentleman-understands-rightness](/notes/confucius-gentleman-understands-rightness)); 孝 *xiào*, piedade filial; 智 *zhì*, sabedoria; 無為 *wúwéi*, "the Daoist doctrine of inaction" ([laozi-aprender-perder-cap-48](/notes/laozi-aprender-perder-cap-48)); 德 *dé*, "virtuosity" na tradução da SEP ([etimologia-de-dak-de](/notes/etimologia-de-dak-de)). ⚠ O 禮 conversa com a elegância, além da polidez (observação da IA).
+- **Tradição indiana** ✓ ([wisdomlib](https://www.wisdomlib.org/)): *ahiṃsā*, não-violência, "abstaining from killing or giving pain to others in thought, word or deed"; *dharma*, "religious or moral merit, virtue, righteousness"; *satya*, veracidade; *dāna*, "Giving, liberality"; *karuṇā*, compaixão. O desapego budista aparece como *upekkhā*, "Equanimity"; na tradição hindu, *vairāgya*, "dispassion, detachment, or renunciation".
+- **Tradição islâmica**: *ṣabr* (paciência) e *tawakkul* (confiança em Deus) estão entre as estações sufis listadas por Abū Naṣr al-Sarrāj ✓ ([St Andrews Encyclopaedia of Theology, "Sufism"](https://www.saet.ac.uk/Islam/Sufism)). ⚠ *ḥilm* (paciência, autodomínio) só com fonte não acadêmica. `?` *ʿadl* (justiça) e *karam* (generosidade, hospitalidade) sem fonte acadêmica conferida.
+- **Haudenosaunee** ✓, com correção: a Grande Lei pede ter sempre em vista "not only the present but also the coming generations, even those whose faces are yet beneath the surface of the ground -- the unborn of the future Nation" (§28, [constitution.org](https://www.constitution.org/1-Constitution/cons/iroquois.htm)). A expressão "sétima geração" não está no texto escrito; a Confederação a apresenta como valor central ([Haudenosaunee Confederacy](https://www.haudenosauneeconfederacy.com/values/)).
+- **Ayni** ✓: "Ayni, or reciprocity, historically characterizes Quechua culture as a fundamental aspect of ancient Andean societies" (Curran, Ursinus College, 2020, [Digital Commons](https://digitalcommons.ursinus.edu/spanish_hon/3/)).
+- **Caring for country** ✓: "'Caring for country' means participating in interrelated activities on Aboriginal lands and seas with the objective of promoting ecological, spiritual and human health" (Burgess et al., *Medical Journal of Australia* 190, 2009, [MJA](https://www.mja.com.au/journal/2009/190/10/healthy-country-healthy-people-relationship-between-indigenous-health-status)).
+- **Ubuntu** ✓: o provérbio nguni "umuntu ngumuntu ngabantu", uma pessoa é pessoa por meio das outras; a frase "I am, because we are; and since we are, therefore I am" é de John Mbiti (*African Religions and Philosophy*, 2. ed., 1990, p. 106), que não fala de ubuntu: a ligação é posterior ([HTS Teologiese Studies, 2024](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0259-94222024000100009)).
+
+#### 8.5. Polidez: achado
+
+- Nietzsche ✓: "Die guten Vier. — Redlich gegen uns und was sonst uns Freund ist; tapfer gegen den Feind; grossmüthig gegen den Besiegten; höflich — immer: so wollen uns die vier Cardinaltugenden" (*Aurora* §556). A cortesia entra entre as quatro virtudes cardeais. Links: [eKGWB](http://www.nietzschesource.org/#eKGWB/M-556).
 
 ## Notas extraídas
 
