@@ -17,6 +17,7 @@ toc: true
 ## Estado
 
 - **Em foco**: roteiro de 5 a 10 min para o próximo encontro, retomando a tarefa do [XIII Encontro](/notes/xiii-encontro-chines-instrumental/) que ficou pendente (Claudio ficou com Siu Nim Tau, Thiago Silva com Cham Kiu; Claudio não veio no dia e Thiago apresentou o Siu Nim Tau no lugar — ver [XV Encontro](/notes/xv-encontro-chines-instrumental/)).
+- **Leitura do domínio**: trocada a leitura por elementos (terra/água/fogo, do XIII Encontro) por 守破離 Sau Po Lei (seguir/quebrar/sair da regra) — esta segunda não vem da série, é proposta nova do autor para esta apresentação.
 - **Formato já em uso**: minipodcast de ~5 min com Guilherme, gravado às quintas. Já gravaram o do Siu Nim Tau; "o próximo é o Cham Kiu" (citado no XV Encontro) — provavelmente é este o destino do roteiro.
 - **Próximo**: revisar o roteiro abaixo (seção "Texto em andamento") e decidir se vai para o encontro, para a gravação com Guilherme, ou para os dois.
 
@@ -38,7 +39,7 @@ Tarefa de casa do Programa de Mestrado / Chinês Instrumental, não uma pesquisa
 **O domínio dentro do sistema:**
 
 - [IV Encontro](/notes/iv-encontro-chines-instrumental/) — eixo inteiro no Cham Kiu: decomposição caractere por caractere, "ponte" como braço vs. estrutura, Chau 沉 (afundar) como variante de linhagem.
-- [XIII Encontro](/notes/xiii-encontro-chines-instrumental/) — os três domínios lidos pelos elementos: Siu Nim Tau (terra/raiz), Cham Kiu (água/fluência, o barco em Angra), Biu Ji (fogo/explosão); a sensação específica de cada um (Cham Kiu: quadril, joelho, ombro, cotovelo).
+- [XIII Encontro](/notes/xiii-encontro-chines-instrumental/) — os três domínios lidos pelos elementos (terra/água/fogo); usado aqui só para o detalhe do barco em Angra e da sensação por domínio (Cham Kiu: quadril, joelho, ombro, cotovelo). A leitura por elementos foi descartada nesta apresentação, em favor de 守破離 Sau Po Lei — ver "Texto em andamento".
 - [XV Encontro](/notes/xv-encontro-chines-instrumental/) — o Cham Kiu como lugar onde os gestos do Siu Nim Tau se desenvolvem ("puxa os dois, ou agora vira"); o relato do último vídeo de Ip Man citando Siu Nim Tau, Cham Kiu e Muk Yan Jong.
 
 ## Texto em andamento
@@ -67,26 +68,28 @@ Na nossa linhagem, a tradução que usamos é outra ainda. Cham, em uso antigo, 
 
 E um último detalhe, que vale guardar: o que passa debaixo da ponte é água. Não é caminho, que fica no nível do solo; não é túnel, que passa por baixo. A ponte passa por cima da água.
 
-**3. Onde isso mora dentro do sistema**
+**3. Onde isso mora dentro do sistema — Sau Po Lei**
 
-O sistema lê os três domínios iniciais pelos elementos. O Siu Nim Tau é terra: o primeiro movimento da primeira sequência, o Yi Ji Kim Yeung Ma, é agarrar o solo e criar raiz. É trabalho de enterrar.
+Os três domínios iniciais também podem ser lidos por 守破離, Sau Po Lei: seguir a regra, quebrar a regra, sair da regra.
 
-O Cham Kiu é água. A referência que fica é a de um passeio de barco: a qualidade do barco é estar sempre em reequilíbrio, nunca parado. Em terra, dá para pousar os dois pés sem compensar nada. Na água, a estabilidade não existe — a compensação é obrigatória, o peso vai para um lado e gira, vai para o outro e gira, sempre trocando. A essência do Cham Kiu é essa troca inteligente para se manter em equilíbrio. Equilíbrio como estado parado deixa de ser equilíbrio.
+O Siu Nim Tau é Sau, seguir a regra. A estrutura é fixa, os pés plantados, sem compensação — é a fase de obedecer à forma exatamente como foi ensinada. O primeiro movimento da primeira sequência, o Yi Ji Kim Yeung Ma, é agarrar o solo e criar raiz.
 
-Depois vem o Biu Ji, fogo, o mais explosivo e o que mais aquece.
+O Cham Kiu é Po, quebrar a regra. A estrutura fixa do Siu Nim Tau não resiste a uma situação instável — por isso a imagem do barco: a qualidade do barco é estar sempre em reequilíbrio, nunca parado. Em terra, dá para pousar os dois pés sem compensar nada. Na água não existe essa estabilidade — a compensação é obrigatória, o peso vai para um lado e gira, vai para o outro e gira, sempre trocando. O Cham Kiu quebra a quietude que o Siu Nim Tau ensinou e põe a troca constante no lugar.
 
-Cada domínio deixa uma sensação diferente no corpo. O Siu Nim Tau, em perna, braço, quadril, cabeça, punho. O Cham Kiu, nas juntas: quadril, joelho, ombro, cotovelo. O Biu Ji, no calor.
+Os próprios movimentos do Siu Nim Tau reaparecem no Cham Kiu quebrados, desenvolvidos — a pessoa repara que um gesto que já conhecia agora puxa, ou vira, numa forma diferente, mas com a mesma essência de antes.
 
-E o Cham Kiu também é onde os próprios movimentos do Siu Nim Tau reaparecem, só que desenvolvidos — a pessoa repara que um gesto que já conhecia agora puxa, ou vira, com outra forma, mas com a mesma essência de antes.
+Depois vem o Biu Ji, Lei, sair da regra: o mais intuitivo e o mais explosivo dos três, onde já não se segue passo a passo, se solta.
+
+Cada domínio deixa uma sensação diferente no corpo. O Siu Nim Tau, em perna, braço, quadril, cabeça, punho. O Cham Kiu, nas juntas: quadril, joelho, ombro, cotovelo — exatamente os pontos que travam numa estrutura fixa e que se liberam quando ela é quebrada. O Biu Ji, no calor.
 
 **4. O que a junção indica**
 
 A etimologia e o domínio não foram feitos um em função do outro — isso é elasticidade de interpretação, e vale o cuidado. Mas dá pra notar onde eles se encontram, sem forçar a mão.
 
-A ponte passa por cima da água; o Cham Kiu é o domínio da água. A imagem do dicionário e a imagem do sistema coincidem: atravessar a ponte é, literalmente, estar sobre o elemento que define o domínio — instável, exigindo reequilíbrio constante, como o barco que nunca para.
+A variante de linhagem que troca Cham por Chau 沉, afundar, já tinha nomeado o que o Po de Sau Po Lei descreve: "afundar a ponte" é quebrar a estrutura do outro. O verbo quebrar aparece dos dois lados — na variante do nome e no estágio de aprendizado — mesmo sem ter sido pensado junto.
 
-A tradução que a nossa linhagem rejeita, "procurar o braço", e a que aceita, "ponte curta", apontam para lugares diferentes do corpo — uma para o braço do outro, outra para a estrutura, o quadril, as próprias juntas. E são exatamente as juntas — quadril, joelho, ombro, cotovelo — que o domínio deixa sentidas no corpo de quem pratica. A tradução que afasta o foco do braço é a mesma que combina com onde o Cham Kiu realmente se sente.
+A tradução que a nossa linhagem rejeita, "procurar o braço", e a que aceita, "ponte curta", apontam para lugares diferentes do corpo — uma para o braço do outro, outra para a estrutura, o quadril, as próprias juntas. São exatamente essas juntas — quadril, joelho, ombro, cotovelo — que travam na estrutura fixa do Sau e se liberam no Po. A tradução que afasta o foco do braço é a mesma que combina com onde o Cham Kiu realmente se sente.
 
-E a medida da braça — de punho a punho, com os braços abertos — não é uma régua fixa, é uma medida do próprio corpo de quem atravessa, diferente para cada um. É a mesma lógica da troca de peso no Cham Kiu: não existe um ponto de equilíbrio objetivo e igual para todos, existe o reequilíbrio constante, relativo ao centro de cada praticante.
+E a medida da braça — de punho a punho, com os braços abertos — não é uma régua fixa, é uma medida do próprio corpo de quem atravessa, diferente para cada um. É a mesma lógica da troca de peso no Cham Kiu: não existe um ponto de equilíbrio objetivo e igual para todos, existe o reequilíbrio constante, relativo ao centro de cada praticante. Quebrar a régua fixa é, nos dois casos, o movimento do Po.
 
-*(Fontes de cada ponto: ver "Notas do Scholion já relacionadas" acima — nenhuma informação nova, só organização do que a série já registrou.)*
+*(Fontes de cada ponto: ver "Notas do Scholion já relacionadas" acima, com uma exceção — 守破離 Sau Po Lei não vem da série, é leitura nova proposta para esta apresentação.)*
