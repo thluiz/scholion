@@ -332,4 +332,19 @@ Título provisório sugerido pela IA: "O que ficou de fora". Pergunta que abre: 
 
 ## Notas extraídas
 
-- (vazio — nada a extrair ainda; as notas existentes ficam como pontes)
+Citações conferidas na pesquisa, extraídas em 2026-10-02:
+
+- [maquiavel-agatocles-imperio-nao-gloria](/notes/maquiavel-agatocles-imperio-nao-gloria/): Agátocles e a *virtù* que não dá glória (7.2).
+- [nietzsche-moralinfreie-tugend](/notes/nietzsche-moralinfreie-tugend/): virtude livre de moralina (7.2).
+- [aristoteles-arte-virtude-tres-condicoes](/notes/aristoteles-arte-virtude-tres-condicoes/): *EN* II.4, arte e virtude (7.1).
+- [aristoteles-definicao-virtude-meio-termo](/notes/aristoteles-definicao-virtude-meio-termo/): *EN* II.6, a definição (7.1).
+- [aristoteles-magnanimidade-unduly-humble](/notes/aristoteles-magnanimidade-unduly-humble/): *EN* IV.3, magnanimidade e humildade (7.6).
+- [hume-monkish-virtues](/notes/hume-monkish-virtues/): as virtudes monásticas (7.6).
+- [spinoza-humility-is-not-a-virtue](/notes/spinoza-humility-is-not-a-virtue/): *Ética* IV, prop. 53 (7.6).
+- [seneca-filho-supera-pai-beneficios](/notes/seneca-filho-supera-pai-beneficios/): *De Beneficiis* III, gratidão (7.6).
+- [nietzsche-thier-versprechen-darf](/notes/nietzsche-thier-versprechen-darf/): o animal que pode prometer, fidelidade (7.6).
+- [weil-quel-est-ton-tourment](/notes/weil-quel-est-ton-tourment/): "Quel est ton tourment ?" (7.3).
+- [weil-attention-suspendre-sa-pensee](/notes/weil-attention-suspendre-sa-pensee/): a atenção que suspende o pensamento (7.3).
+- [aquino-virtus-ordo-amoris](/notes/aquino-virtus-ordo-amoris/): a virtude como ordem do amor (7.3).
+- [anscombe-modern-moral-philosophy](/notes/anscombe-modern-moral-philosophy/): as três teses de 1958 (7.7).
+- [zagzebski-virtude-excelencia-adquirida](/notes/zagzebski-virtude-excelencia-adquirida/): a virtude como excelência adquirida (7.7).
