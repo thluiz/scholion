@@ -119,6 +119,8 @@ Convenções:
 
 Ao retomar, ler o arquivo inteiro. O documento contém tudo que é necessário para continuar sem depender de memória ou contexto de sessões anteriores. Ler **Estado** primeiro. Perguntar ao autor o que quer aprofundar.
 
+Se existir `fontes-privadas/voz/<slug>/README.md` (a pesquisa tem dossiê de voz), rodar antes o Modo 3 da skill `dossie-voz` (sincronizar): conversas do chat podem ter avançado a pesquisa desde a última sessão.
+
 ## Operacionais
 
 - Sem `Co-Authored-By Claude` no commit.

@@ -1,7 +1,7 @@
 ---
 name: dossie-voz
-description: Mantém o Claude Doc de marcos consolidados de uma pesquisa viva do Scholion, que o Claude da web lê pelo conector para conversar por voz com o autor no celular, e depois incorpora o fechamento dessa conversa de volta na pesquisa. Use quando o autor pedir para preparar uma conversa, caminhada ou papo de voz sobre uma pesquisa, para atualizar o doc consolidado, ou quando trouxer o fechamento de uma conversa.
-argument-hint: "<slug da pesquisa> [foco] | fechar [link do doc de fechamento ou texto]"
+description: Mantém o Claude Doc de marcos consolidados de uma pesquisa viva do Scholion, que o Claude da web lê pelo conector para conversar por voz com o autor no celular, e depois incorpora o fechamento dessa conversa de volta na pesquisa. Use quando o autor pedir para preparar uma conversa, caminhada ou papo de voz sobre uma pesquisa, para atualizar o doc consolidado, quando trouxer o fechamento de uma conversa, ou pedir para sincronizar (puxar o que avançou nas conversas do chat).
+argument-hint: "<slug da pesquisa> [foco] | sincronizar <slug> | fechar [link do doc de fechamento ou texto]"
 ---
 
 # Dossiê de voz
@@ -74,9 +74,9 @@ Leia isto antes de tudo. O resto do documento é o estado consolidado da pesquis
 - Se eu perguntar algo que não está aqui, responda com o que sabe, mas marque: "isso não está no documento, é de memória, precisa conferir".
 - Ideia sua é ideia sua: diga "uma sugestão minha". Nunca coloque na minha boca uma conclusão que eu não disse.
 
-**Registro.** Crie um documento chamado "Fechamento — <tema> — <data>" e vá anotando conforme a conversa avança, sem me interromper. Não edite este documento: ele é atualizado a partir da pesquisa.
+**Registro.** Assim que o tema estiver claro, crie um documento chamado "Fechamento — <tema> — <data>", com a segunda linha "Status: em andamento · Base: dossiê sincronizado em <data da linha de sincronização>", e deixe um comentário no topo deste documento: "FECHAMENTO: <link> — <tema> — <data>". Vá anotando no Fechamento conforme a conversa avança, sem me interromper. Não edite o texto deste documento: ele é atualizado a partir da pesquisa.
 
-**Fechamento.** Quando eu disser "fechar", "resumo" ou "vamos encerrar", preencha no documento de fechamento o modelo que está no fim deste documento.
+**Fechamento.** Quando eu disser "fechar", "resumo" ou "vamos encerrar", preencha no documento de fechamento o modelo que está no fim deste documento, troque a linha para "Status: fechado", releia o documento e só então diga que está salvo.
 ```
 
 Modelo de fechamento (vai na última seção do doc):
@@ -100,9 +100,30 @@ FECHAMENTO — <unidade> — <data>
 - **Fontes integrais**: aba "Fontes" com os textos de domínio público (trecho usado + link) e, em sub-abas, o texto integral da fonte privada, um capítulo por aba. No modo automático o upload de texto protegido é barrado pelo classificador; fazer com o autor fora do modo automático, aprovando o passo.
 - **Escrita**: frases curtas, PT-BR, sem floreio. A IA vai falar isso em voz alta.
 
+## Sincronização chat ↔ Scholion
+
+O ponto de encontro entre o Claude do chat (que conversa por voz) e esta skill é o próprio dossiê:
+
+- **Caixa de entrada = comentários do dossiê.** Ao criar um Fechamento, o Claude do chat deixa um comentário no topo da aba principal do dossiê com `FECHAMENTO: <link> — <tema> — <data>`. Ele não edita o texto do dossiê.
+- **Status no Fechamento.** A segunda linha do Fechamento é `Status: em andamento` ou `Status: fechado` e `Base: dossiê sincronizado em <data>`. Só se incorpora Fechamento com `Status: fechado`.
+- **Linha de sincronização no dossiê.** Logo abaixo do byline: `Sincronizado com a pesquisa em <data> (<commit>)`. Atualizada a cada incorporação.
+- **Skill do chat.** A versão em uso fica em `fontes-privadas/voz/skills/dossie-de-voz/SKILL.md`; o autor a instala no claude.ai. Mudou o protocolo aqui, mudar lá também e avisar o autor para reinstalar.
+- A listagem de artifacts (`Artifact` `list`) pode não mostrar fechamentos criados no chat. Não confiar nela: a fonte é a caixa de entrada.
+
+## Modo 3 — Sincronizar
+
+Argumento: `sincronizar <slug>`. Também roda quando a skill `research` retoma uma pesquisa que tem dossiê.
+
+1. Ler o link do dossiê em `fontes-privadas/voz/<slug>/README.md`.
+2. Ler os comentários abertos da aba principal: `query( object = "utterance", container = <doc>, payload = {"under":{"object":"node","id":"<body id>"}} )`. Cada comentário `FECHAMENTO: …` não resolvido é um pendente.
+3. Para cada pendente, ler o Fechamento. `Status: em andamento` → só avisar o autor. `Status: fechado` → rodar o Modo 2.
+4. Ler também `read( …, payload = {"kind":"view","sinceRev":<rev registrado no README>} )` do dossiê: edições feitas lá pelo autor entram como insumo e são mostradas a ele.
+5. Ao terminar cada um: responder no comentário com o que entrou (seção da pesquisa + commit) e resolvê-lo; atualizar a linha de sincronização e o `rev` no README.
+6. Nada pendente: dizer isso em uma linha.
+
 ## Modo 2 — Fechar a conversa
 
-Argumento: `fechar` + o link do doc de fechamento, ou o texto colado. Sem link, listar os artifacts do autor (`Artifact` com `action: "list"`) e procurar os títulos "Fechamento — …".
+Argumento: `fechar` + o link do doc de fechamento, ou o texto colado. Sem link, rodar o Modo 3 (caixa de entrada do dossiê); a listagem de artifacts é só último recurso.
 
 ### Passos
 
@@ -114,7 +135,8 @@ Argumento: `fechar` + o link do doc de fechamento, ou o texto colado. Sem link, 
 6. **Gravar só depois da aprovação.** `hugo --quiet`, commit `research: <ação> em <tema>`.
 7. **Arquivar o fechamento** em `fontes-privadas/voz/<slug>/fechamentos/<AAAA-MM-DD>-<tema>.md`, com cabeçalho de procedência (de onde veio, onde foi incorporado, correções feitas, decisões posteriores do autor). Commit no submódulo + push, e ponteiro no Scholion.
 8. **Atualizar o doc consolidado** (Modo 1, passo 5, doc existente) com o que entrou na pesquisa.
-9. **Apagar o doc de fechamento do claude.ai** (`Artifact` com `action: "delete"`) só depois do arquivo commitado e com push feito. O autor confirma a exclusão. O doc consolidado não é apagado.
+9. **Responder e resolver o comentário** do Fechamento na caixa de entrada do dossiê, com a seção da pesquisa e o commit; atualizar a linha de sincronização.
+10. **Apagar o doc de fechamento do claude.ai** (`Artifact` com `action: "delete"`) só depois do arquivo commitado e com push feito. O autor confirma a exclusão. O doc consolidado não é apagado.
 
 ## Subir texto longo para uma aba
 
