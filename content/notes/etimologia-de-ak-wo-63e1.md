@@ -26,6 +26,7 @@ sources:
 - title: 說文解字 (via zdic.net)
   url: https://www.zdic.net
   kind: wiki
+aliases: ["/notes/etimologia-de-aak-wo/"]
 ---
 
 ## 握 (Ak)
