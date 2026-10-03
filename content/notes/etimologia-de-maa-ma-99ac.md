@@ -3,7 +3,7 @@ title: "Etimologia de 馬 (Maa — Mǎ / maa5)"
 date: '2026-06-24T23:59:17+01:00'
 summary: 'O pictograma de um cavalo, radical Kangxi nº 187. O Shuowen lê 怒也武也 — ''o irascível, o marcial'' — e descreve o desenho da cabeça, da crina, da cauda e das quatro patas; a paleografia mostra a juba do cavalo de perfil.'
 toc: true
-tags: ["china", "linguagem", "etimologia", "ideogramas", "radicais"]
+tags: ["china", "linguagem", "etimologia", "ideogramas", "radicais", "ving-tsun"]
 category: etymology
 has_commentary: false
 sources:
@@ -26,6 +26,7 @@ sources:
 - title: 漢語多功能字庫 (CUHK)
   url: https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/
   kind: wiki
+aliases: ["/notes/etimologia-de-ma-ma/"]
 ---
 
 É o radical Kangxi nº 187 (馬, cavalo); o chardb lista 648 caracteres que o contêm como componente. É a chave genérica do cavalo e de termos ligados à montaria, à cavalaria e à criação equina. A forma simplificada é 马 (U+9A6C). Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).

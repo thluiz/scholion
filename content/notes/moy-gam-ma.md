@@ -50,7 +50,7 @@ Gam é homófono de 金 (gam1, ouro, metal, dinheiro). É o mesmo ideograma de G
 
 ### 馬 (mǎ / maa5)
 
-> Ver etimologia completa: [`/notes/etimologia-de-ma-ma/`](/notes/etimologia-de-ma-ma/)
+> Ver etimologia completa: [`/notes/etimologia-de-maa-ma-99ac/`](/notes/etimologia-de-maa-ma-99ac/)
 
 Pictograma. O Shuowen Jiezi define: 怒也武也象馬頭髦尾四足之形, "fúria e marcialidade; representa a forma da cabeça, crina, cauda e quatro patas do cavalo." O xiaoxue regista 35 formas, incluindo 4 em ossos oraculares da dinastia Shang (鐵2.2, 乙9092, 甲1286, 林1.23.20) e bronzes desde os Shang até aos Reinos Combatentes. O chardb define 馬 primeiro como animal doméstico (哺乳綱，馬科) e depois lista acepções figuradas: expressão facial zangada (方言, "puxar a cara como um cavalo"), ficha de jogo, e símbolo dos trigramas 乾, 震 e 坎no Yijing. O som arcaico reconstrói-se como *mɔ (Karlgren) ou *mea (Wang Li), classe da rima 魚 (yú).
 

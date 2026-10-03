@@ -39,7 +39,7 @@ Nome kung fu de Matheus Azevedo.
 
 ### 馬 (mǎ / maa5)
 
-> Ver etimologia completa: [`/notes/etimologia-de-ma-ma/`](/notes/etimologia-de-ma-ma/)
+> Ver etimologia completa: [`/notes/etimologia-de-maa-ma-99ac/`](/notes/etimologia-de-maa-ma-99ac/)
 
 Pictograma. O Shuowen Jiezi define: 怒也武也象馬頭髦尾四足之形, "fúria e marcialidade; representa a forma da cabeça, crina, cauda e quatro patas do cavalo." O xiaoxue regista 35 formas: 4 em osso de oráculo (商 Shang), 13 em bronze (do Shang tardio à Primavera e Outono tardia, incluindo Qi, Yan e Jin dos Reinos Combatentes), 7 em textos dos Reinos Combatentes (楚 Chu e 秦 Qin), 3 selos (Shuowen: texto antigo, zhòuwén e seal) e 8 clerical (do Qin aos Jin Ocidentais).
 
