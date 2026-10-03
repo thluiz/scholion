@@ -99,4 +99,3 @@ A etimologia é uma das mais peculiares do corpus chinês: o caractere 膊 desig
   No uso vulgar moderno, são intercambiáveis. Tecnicamente, 膀 enfatiza o lado/extensão lateral, e 膊 enfatiza a região do braço superior próxima ao ombro.
 - **Atestações antigas**: caractere ausente do oracle e bronze. Primeira atestação clara é o selo Han do Shuowen — caractere de fixação Han, embora o conceito subjacente ("preservar carne") seja antiquíssimo.
 - **Cantonês**: bok3 (tom 3 médio entrando) preserva 入聲 do Guangyun; com a inicial 滂 (aspirada surda labial) → b- jyutping. Forma estável.
-- **Aplicação ao Sistema Ving Tsun**: 側膊 *jak6 bok3* "lado do ombro" aparece no contexto do **Luk Dim Bun Gwan** — manuseio do bastão longo. A técnica usa o *ombro* como ponto de apoio/pivot do bastão. A escolha do caractere 膊 (em vez de 膀 ou 肩 *jiān* "ombro" mais abstrato) preserva a precisão anatômica: a região exata do ombro que recebe e transmite a força ao bastão.

@@ -90,9 +90,3 @@ Apenas 1 atestação registrada pelo xiaoxue (Shuowen seal). Caractere de fixaç
 - **Polifonia tonal moderna**: 叉 desenvolveu 4 leituras tonais em mandarim moderno (chā / chá / chǎ / chà), todas semanticamente próximas mas distintas em uso. Em cantonês, fundem-se em caa1.
 - **Reconstruções OC com cluster sibilante+rótico**: Zhou Fagao e Li Fanggui reconstroem cluster *tsʰr-/*tshr-, refletindo a hipótese da 初母 *chū* como cluster. Karlgren e Zhengzhang não retornaram dados.
 - **Cantonês**: caa1 (tom 1 alto nivelado) preserva o 平聲 次清 do Guangyun.
-- **Aplicação ao Sistema Ving Tsun — Wu Sau Cha 護手叉 e a Bart Cham Do**: a *Bart Cham Do* (八斬刀, literalmente "Faca dos Oito Cortes", também chamada Faca de Borboleta 蝴蝶刀) é uma das armas tradicionais do sistema Ving Tsun — par de facas curtas, manejadas simultaneamente pelas duas mãos. A estrutura da arma inclui:
-  - **Lâmina (刀身)**: curva, com fio na borda exterior.
-  - **Guarda da mão (護手)**: peça metálica em forma de D que protege a mão.
-  - ***Wu Sau Cha* (護手叉)**: saliência em forma de forquilha/gancho na extremidade da guarda — função dupla: (i) capturar/desviar lâminas adversárias; (ii) golpear pontualmente (estoque com o gancho).
-  
-  O conjunto da Bart Cham Do é o último conjunto de armas do Ving Tsun (após Luk Dim Boon Gwan 六點半棍, o conjunto do bastão longo) e codifica princípios técnicos avançados — manejo de duas armas simultâneas, distância média, ataques em ângulos cruzados. A etimologia "叉 = bifurcação/cruzamento" é estruturalmente apropriada: tanto a forma física do *Wu Sau Cha* (gancho bifurcado) quanto o princípio técnico (cruzamento de linhas de ataque-defesa) que ele encarna são iconicamente "叉".

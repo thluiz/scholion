@@ -86,7 +86,6 @@ A revelação filológica é decisiva: 霸 originalmente *não* significava "heg
 - **霸 vs. 魄**: par cognato. 魄 *pò* tomou o sentido astronômico/almico; 霸 ficou para a política. O *Daodejing* fala de 魂魄 (almas etérea e corpórea), em que 魄 é a alma material; 霸 perdeu essa carga para focar em "dominar pela força".
 - **Hegemon vs. Rei — distinção confucionista**: na filosofia política Mengzi/Mencius, há distinção crítica entre 王 *wáng* (rei verdadeiro, governando pela virtude) e 霸 *bà* (hegemon, governando pela força). O Mengzi denuncia o 霸道 *bàdào* "Via Hegemônica" e defende o 王道 *wángdào* "Via Régia". Essa distinção informa a leitura pejorativa de 霸 no chinês clássico.
 - **Cantonês**: baa3 (tom 3 médio nivelado) preserva 去聲 do Guangyun para a leitura moderna. Forma estável.
-- **Aplicação ao Sistema Ving Tsun — ba lik 霸力**: o composto *ba lik* ("força hegemônica") é claramente pejorativo no contexto do Hai Tong. Designa a *força bruta*, dominante, que tenta vencer pela imposição — oposta ao 內力 *noi lik* "força interna" e ao 勁 *jìn* "energia integrada" cultivados pelo VT. A pedagogia VT explicitamente *renuncia* à 霸力 — o praticante não busca "esmagar" o oponente; busca *integrar* a sua força à própria estrutura. O caractere 霸, com sua ressonância política negativa (governo pela força contra governo pela virtude), está em harmonia com a ética do sistema: o ba lik é o que se *evita*, não o que se cultiva.
 - **Distinção 力/勁/霸力**: três níveis de força no léxico VT:
   - 力 *lik*: força física básica.
   - 勁 *ging*: energia integrada, cultivada (ideal pedagógico).

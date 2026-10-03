@@ -88,9 +88,3 @@ Composto ideográfico (會意 *huìyì*): 大 (dà, "pessoa de braços abertos")
 - **Atestação Oracle**: xiaoxue confirma atestação Oracle Shang (*Tieyun Canggui*). Caractere antigo, com uso ritual desde o início.
 - **Reconstruções OC**: convergência alta. Inicial laringal *ʔ-/*0- (zero) em todos os 5 sistemas; rhyme 陽 *yáng* unânime.
 - **Cantonês**: joeng1 (tom 1 alto nivelado) preserva o 平聲 全清 do Guangyun. Forma estável.
-- **Aplicação ao Sistema Ving Tsun — jung yeung 中央**: o composto técnico é central na pedagogia VT. *Jung* (中, meio) + *yeung* (央, centro absoluto). A redundância é intencional: enfatiza que se trata do *centro do centro*, não de "uma posição central qualquer". Tecnicamente, *jung yeung* descreve:
-  - A **linha central** (中線 *zhong sin*): linha vertical do plexo solar à base do tronco, eixo onde ataque e defesa convergem.
-  - O **eixo de coluna**: a verticalidade que sustenta a estrutura corporal.
-  - O **centro de gravidade**: o *dantian* abdominal, ponto de origem do movimento.
-  
-  A etimologia "pessoa de braços abertos no centro do recinto" é tecnicamente apropriada: o praticante VT opera em *jung yeung* — uma figura humana firmada em seu eixo central, dentro do espaço delimitado do combate. A análise do Shuowen (央 vs. 旁) é pedagógica: o praticante que cede o *yeung* (centro) ao adversário fica em 旁 (lateral, periférico). A doutrina VT é manter o *yeung*, atacar pelo *yeung*, recuperar o *yeung* — porque é do centro que tudo se organiza. A glosa do *Yueling* (centro = Terra, elemento estabilizador) acrescenta a leitura cosmológica: estar no *jung yeung* é estar enraizado, como a Terra entre os elementos.

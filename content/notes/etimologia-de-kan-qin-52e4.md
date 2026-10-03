@@ -92,4 +92,3 @@ Shuowen (hanziyuan): 勞也從力堇聲 ("é trabalho árduo; do 力, fonético 
   *勤勉* (kan min) combina os dois — esforço diligente *e* auto-pressionado.
 - **Cantonês**: kan4 (tom 4 baixo nivelado) preserva 平聲 全濁 do Guangyun; com a divisão tonal alta/baixa típica do cantonês ligada à origem da inicial (群 sonora muddy → tom baixo). Forma estável.
 - **勤 e o trabalho ritual**: chardb registra acepção 4 — "atendimento pontual ao trabalho". A pontualidade sustentada é a marca do *勤*. Para a pedagogia kung fu, a *frequência regular* do treino (cada dia, sem falhas) é a forma operacional de *勤*.
-- **Aplicação ao Sistema Ving Tsun — kan min lin jaap**: o composto técnico mostra a estrutura completa da pedagogia VT — *勤* (diligência regular) + *勉* (auto-pressão) + *練* (refinar) + *習* (praticar como o pássaro). Quatro caracteres que descrevem o ato pedagógico em sua complexidade total.

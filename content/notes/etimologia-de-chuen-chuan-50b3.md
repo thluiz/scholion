@@ -106,10 +106,4 @@ A glosa é instrutiva: 傳 originalmente designa o *sistema de relê postal* —
   A distinção é etimologicamente coerente — verbo (ato dinâmico) vs. substantivo (objeto/produto da transmissão).
 - **傳記 zhuàn jì — "biografia"**: a passagem de "transmissão" a "biografia" é elegante: a biografia é precisamente *o que é transmitido* sobre uma pessoa — sua memória, seus feitos, sua vida. Os clássicos chineses incluem 傳 (biografias) ao lado de 紀 *jì* (anais) na estrutura historiográfica.
 - **Cantonês — duas leituras**: cyun4 (verbo) e zyun6 (substantivo). A distinção é preservada no cantonês moderno; alguns falantes usam apenas cyun4 para ambos os sentidos.
-- **Aplicação ao Sistema Ving Tsun — chuen como núcleo da linhagem**: o conceito de 傳 *chuen* é central na pedagogia kung fu:
-  - **真傳 chan chuen** ("transmissão verdadeira"): o conhecimento autêntico recebido diretamente do mestre, em oposição ao aprendizado por imitação ou leitura.
-  - **不傳之秘 bat chuen ji bei** ("segredo não transmitido"): técnicas que não se ensinam — não por sigilo, mas porque exigem vivência incomunicável.
-  - **失傳 sat chuen** ("transmissão perdida"): conhecimento que se rompeu pela morte de um mestre sem sucessor.
-  
-  A pedagogia VT, ao usar 傳, inscreve a arte na lógica imperial-postal: o que se preserva é o que se transmite com fidelidade; o que se perde é o que não chegou ao próximo elo.
 - **傳 e a estrutura familiar do kung fu**: o sistema 師父 → 徒弟 (Si Fu → To Dai) é estruturado pelo 傳. Cada geração é um *relê postal* da arte. A fidelidade da transmissão depende da clareza, da continuidade e da reciprocidade do par mestre-discípulo. A linhagem Moy Yat, ao se nomear como família que *傳* a arte, inscreve-se nessa estrutura imperial-postal — onde cada elo é responsável pela mensagem completa.

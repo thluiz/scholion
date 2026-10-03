@@ -97,4 +97,3 @@ A glose etimológica é uma das mais belas do Shuowen: 之 é o gesto da *erva q
   A frequência mostra: 之 é o cimento sintático das expressões formulares do chinês clássico.
 - **Cantonês**: zi1 (tom 1 alto nivelado) preserva 平聲 全清 do Guangyun; com a inicial 章 (oclusiva surda dental-alveolar palatalizada) → z- jyutping. Forma estável.
 - **Atestações antigas**: caractere de uso primordial no chinês escrito, atestado desde o oracle Shang. Pictograma estável desde o oracle até o selo, com poucas variantes significativas.
-- **Aplicação ao Sistema Ving Tsun**: 之 estrutura toda a sintaxe formular do Hai Tong. Sem 之, as máximas e fórmulas perderiam a estrutura clássica e teriam que ser reformuladas em chinês moderno (com 的). A escolha do registro clássico (e, portanto, do uso de 之) inscreve o Hai Tong na tradição literária chinesa — não é manual técnico em prosa coloquial, é *texto clássico* com peso filosófico.

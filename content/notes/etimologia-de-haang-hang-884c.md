@@ -137,9 +137,4 @@ Formas atestadas: Oracle 144 · Bronze (não retornou contagem detalhada — mú
   - haang4 (verbo "andar/ir"): preserva a forma vernacular do cantonês.
   - hang4 (substantivo "linha/profissão"): leitura literária.
   - hong4 (em compostos como 行業 *hong4 jip6* "indústria"): leitura especial.
-- **Aplicação ao Sistema Ving Tsun — yan haang 演行 e ping haang 平衡**:
-  - **yan haang 演行**: "executar a marcha/conduta" — combinação de 演 (fazer fluir) + 行 (andar/agir). A pedagogia VT trata o gesto como *fluxo de marcha*, não como ato isolado.
-  - **ping haang 平衡**: "equilíbrio horizontal/balanceamento" — combinação de 平 (plano/horizontal) + 行 (linha). O caractere 行 aqui é a leitura *háng* (linha/horizontal), e o composto designa a propriedade estática do equilíbrio em torno do eixo central.
-  
-  As duas expressões mostram a versatilidade de 行 no léxico VT — gesto dinâmico (marcha) e propriedade estática (equilíbrio).
 - **行 e a ética**: 行 (conduta) é categoria ética central no confucionismo — 言行 *yánxíng* "fala e ação" é o par que define o caráter. O Lunyu insiste que conduta (行) prevalece sobre fala. Para a pedagogia kung fu, isso é constitutivo: o praticante é avaliado pelo 行, não pelo 言.

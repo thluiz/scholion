@@ -91,9 +91,3 @@ Apenas 4 atestações registradas pelo xiaoxue. Caractere tardio — antes do Ha
 - **Atestação tardia**: xiaoxue só retorna atestações Han. Caractere tardio na grafia 響 (com 音); a função era veiculada antes por 鄉 (empréstimo fonético).
 - **Reconstruções OC**: convergência alta. Inicial *x-/*h- (fricativa laríngea/velar surda) em todos os 5 sistemas; rhyme 陽 *yáng* unânime.
 - **Cantonês**: hoeng2 (tom 2 alto subindo) preserva o 上聲 次清 do Guangyun. Forma estável.
-- **Aplicação ao Sistema Ving Tsun — gwan mo leung heung 棍無兩響**: o lema é um dos mais famosos da doutrina do bastão. Literalmente: "bastão não-tem dois sons". O sentido técnico tem múltiplas camadas:
-  - **Doutrina executiva**: cada técnica de bastão produz UM impacto sonoro. Se há dois sons (toque inicial + segundo toque), a técnica foi mal executada — houve hesitação, repetição, ou ricochete.
-  - **Doutrina de economia**: nada deve ser repetido. O bastão atinge com um golpe único e definitivo. Repetir o golpe é admitir que o primeiro falhou.
-  - **Doutrina de precisão**: o som único (聲) sem eco (響) significa impacto limpo, sem reverberação parasita. O bastão chegou ao alvo na trajetória precisa, sem oscilação.
-  
-  A glosa de 段注 — 響 como "som-resposta" — esclarece a doutrina: o que se quer evitar é precisamente *heung*, o som que responde ao primeiro. *Leung heung* (dois sons) é quando há *聲* seguido de *響* (som principal + eco). *Mo leung heung* (sem dois sons) é quando há apenas o impacto único, sem residual sonoro. A pedagogia do Luk Dim Bun Gwan trabalha sobre esse princípio: o praticante aprende a sentir, pelo som, se sua técnica está limpa. O ouvido é instrumento de controle de qualidade da execução — a tradição moyat utiliza o som como diagnóstico técnico, e *gwan mo leung heung* é o critério auditivo de excelência.

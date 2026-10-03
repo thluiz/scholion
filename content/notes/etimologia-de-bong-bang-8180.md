@@ -92,4 +92,3 @@ A glosa do Shuowen é precisa e curta: 膀 = 脅 *xié* (flanco/lado do corpo, e
   - **pong4** (tom 4 baixo nivelado): em compostos médicos (膀胱 *páng-guāng* "bexiga") — sentido clássico do "flanco/lado interno".
   
   A divergência cantonesa segue a divergência semântica registrada em chardb.
-- **Aplicação ao Sistema Ving Tsun — Bong Sau**: 膀手 *bong4 sau2* "mão de braço" (mais precisamente: "antebraço de cobertura") é uma das três técnicas-chave do Siu Nim Tao, ao lado de Tan Sau 攤手 e Fuk Sau 伏手. A escolha do caractere 膀 é precisa: a técnica usa o *braço superior* (não a mão fechada nem a palma) como cobertura ascendente, com o cotovelo elevado. A etimologia "flanco/lado" é também relevante — Bong Sau cobre o lado/flanco do corpo, redirecionando ataques laterais. A pedagogia VT, ao escolher 膀 (em vez de 臂 *bì* "braço" ou 肩 *jiān* "ombro"), preserva a precisão anatômica: o gesto envolve o ombro, o braço superior e a estrutura lateral do tronco em conjunto.

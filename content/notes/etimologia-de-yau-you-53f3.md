@@ -97,9 +97,3 @@ A análise de Duan Yucai documenta uma camada importante: o caractere original p
 - **Atestação Oracle**: xiaoxue confirma atestação Oracle Shang. Caractere antiquíssimo, central do vocabulário direcional.
 - **Reconstruções OC**: convergência razoável. Inicial *ɡ-/*ɣ-/*gw- (velar sonora, eventualmente labializada) em 4 sistemas; rhyme 之 *zhī* unânime. Wang Li e Zhengzhang não retornaram dados.
 - **Cantonês**: jau6 (tom 6 baixo descendente) preserva o 上聲 次濁 do Guangyun.
-- **Aplicação ao Sistema Ving Tsun — bilateralidade técnica**: no Ving Tsun, todas as técnicas têm versão bilateral — 左 (esquerda) e 右 (direita). O praticante treina ambas as orientações com igual atenção, princípio que distingue Ving Tsun de muitas tradições marciais que privilegiam o lado dominante. Esta bilateralidade reflete:
-  - **Princípio estrutural**: cada lado do corpo tem função estrutural complementar (membro de ataque e membro de proteção alternam dinamicamente).
-  - **Princípio de simetria pedagógica**: o aprendizado bilateral garante equilíbrio musculoesquelético e neurológico.
-  - **Princípio funcional**: em combate real, não há controle sobre o ângulo de ataque adversário — ambas as orientações precisam estar prontas.
-  
-  No vocabulário cantonês das aulas, *jau6* (右) e *zo2* (左) são marcadores ubíquos: *jau6 sau2* 右手 (mão direita), *jau6 geuk3* 右腳 (pé direito), *jau6 bin1* 右邊 (lado direito). A coordenação ombro-quadril-pé do mesmo lado (右肩 + 右胯 + 右腳) é unidade estrutural fundamental nas posturas do sistema.

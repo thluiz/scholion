@@ -86,8 +86,3 @@ A glose registra a passagem etimológica: 自 originalmente era o pictograma do 
 - **自然 — natural/espontâneo**: o composto 自 (si próprio) + 然 (assim) = "assim por si mesmo" → "natural/espontâneo". Categoria cosmológica daoista central. *Daodejing* 25: 道法自然.
 - **Cantonês**: zi6 (tom 6 baixo nivelado) preserva 去聲 全濁 do Guangyun; com a divisão tonal alta/baixa típica do cantonês ligada à origem da inicial (從 sonora muddy → tom baixo). Forma estável.
 - **Atestações antigas**: caractere atestado em todo o corpus chinês desde o oracle Shang. Pictograma estável.
-- **Aplicação ao Sistema Ving Tsun**:
-  - **ji yin 自然**: estado-alvo do gesto VT — espontâneo, natural, sem força contrária.
-  - **ji jiu 自照**: gesto de auto-contemplação — base da pedagogia reflexiva. *攬鏡自照* "segurar o espelho e contemplar-se" é categoria pedagógica clássica.
-  
-  Para a pedagogia VT, 自 estrutura toda a operação reflexiva: o praticante avançado opera *自然* (espontaneamente) e *自照* (refletindo-se). A etimologia "nariz" lembra que o *si próprio* tem centro físico — não é abstração, é localização cinética concreta.

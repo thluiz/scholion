@@ -91,9 +91,3 @@ Apenas 8 atestações registradas pelo xiaoxue. Caractere de fixação gráfica 
 - **Decidir como 'cortar definitivamente'**: a etimologia do sentido "decidir" deriva diretamente do sentido nuclear "romper". 決𣃔 (jué duàn, "decidir-cortar") é composto frequente que explicita esta semântica de **decisão por corte definitivo** — não há volta. Esta é a categoria semântica nuclear para entender o uso modal 決 em chinês moderno: "決不" (jué bù, "definitivamente não") é "decidi-cortei-definitivamente que não".
 - **Reconstruções OC parcialmente atestadas**: apenas Karlgren e Wang Li retornaram dados. Inicial *k- (oclusiva velar surda); rhyme 月 *yuè* — coerente com a leitura entering tone do Guangyun.
 - **Cantonês**: kyut3 (tom 3 médio descendente) preserva o 入聲 全清 do Guangyun. A leitura cantonesa mantém a oclusiva final -t (do tom entering), perdida em mandarim moderno.
-- **Aplicação ao Sistema Ving Tsun — 決 como categoria modal-técnica**: a categoria 決 (kuet) na pedagogia marcial chinesa cobre:
-  - **Decisão técnica**: a ação tem que ser executada **sem hesitação** — quem hesita perde a estrutura.
-  - **Rompimento estrutural**: a força gerada não é dispersa, é canalizada para romper a defesa adversária — como água que rompe a represa.
-  - **Definitividade**: cada técnica é executada como se fosse definitiva — sem reservas, sem segundo plano.
-  
-  Esta semântica encontra-se em provérbios marciais como 拳要決 (kyun4 jiu3 kyut3, "o punho precisa ser 決" — definitivo, sem hesitação) e em conselhos pedagógicos sobre a qualidade da ação. A etimologia "água rompendo a barragem" é estruturalmente apropriada: a força do Ving Tsun (especialmente o 短橋 *dyun2 kiu4*, ponte curta) busca essa qualidade — energia armazenada que rompe com fluxo descendente, irreversível, eficaz.
