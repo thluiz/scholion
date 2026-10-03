@@ -15,4 +15,4 @@ sources:
 
 Dani Nunes desmonta o discurso do "somos todos de uma só raça, a raça humana" e o aproxima da retórica racista da extrema-direita, que apaga as divisões concretas entre trabalhadores. Um homem branco cisgênero tem mais oportunidade do que uma mulher negra cisgênera no mercado formal de trabalho. A partir da própria pesquisa, Dani Nunes recorre ao pacto da branquitude, de Cida Bento, e o expande para um "pacto da cisgeneridade". Mesmo pessoas progressistas, que cultivam amizades com pessoas trans, na hora de indicar um emprego tendem a lembrar apenas de gente cisgênera. Um exemplo é a coletânea Feminismos Plurais, coordenada por uma filósofa negra, na qual há mais homens cisgêneros escrevendo do que mulheres trans, sinal de que o pacto opera de forma tácita mesmo em campos que se pretendem inclusivos.
 
-Ver também [Becker e o pacto da branquitude](../becker-e-o-pacto-da-branquitude.md).
+Ver também [Becker e o pacto da branquitude](/notes/becker-e-o-pacto-da-branquitude).
