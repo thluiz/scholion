@@ -20,7 +20,7 @@ sources:
     kind: podcast
 ---
 
-Becker calcula o preço da discriminação e Cida Bento descreve como ela se transmite. Em *The Economics of Discrimination* (1957), o empregador de Becker paga mais caro por um trabalhador pior para satisfazer uma preferência que carrega, e num mercado competitivo perderia para quem não discrimina (ver [Discriminação por gosto](../discriminacao-por-gosto-preconceito-tem-preco.md)). Por isso, no modelo, a discriminação dura mais onde há poder de mercado suficiente para absorver esse custo.
+Becker calcula o preço da discriminação e Cida Bento descreve como ela se transmite. Em *The Economics of Discrimination* (1957), o empregador de Becker paga mais caro por um trabalhador pior para satisfazer uma preferência que carrega, e num mercado competitivo perderia para quem não discrimina (ver [Discriminação por gosto](/notes/discriminacao-por-gosto-preconceito-tem-preco)). Por isso, no modelo, a discriminação dura mais onde há poder de mercado suficiente para absorver esse custo.
 
 Cida Bento, em *O Pacto da Branquitude* (2022), descreve como as redes de indicação preservam o privilégio. Quem já ocupa posições de poder as repõe entre pares, por um acordo tácito que funciona sem ser declarado. O que Becker registra como coeficiente corresponde a esses mecanismos de indicação e proteção mútua.
 
