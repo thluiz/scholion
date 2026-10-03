@@ -115,7 +115,7 @@ Exemplos do que não incluir (incidente 2026-04-23):
 - "優 em Moy Yau Lei é o ideograma central do nome — combina excelência com a ressonância do ator ritual."
 - "É o mesmo 士 usado em Moy Chi Yau Si e Moy Shan Si."
 
-Pendência registrada na revisão de 2026-10-03: 117 notas publicadas têm a seção "Aplicação ao Sistema Ving Tsun", que esta regra proíbe. Decisão do autor; até ela, a regra fica como está.
+A seção "Aplicação ao Sistema Ving Tsun" é proibida. Existiu em 117 notas até 2026-10-03; o autor a classificou como perigosa (leitura simbólica sem fonte, ex.: "a escolha do nome 準 por Ip Man marca uma intenção pedagógica") e mandou remover. O teste `test_no_ving_tsun_application_section` em `tests/style/test_structural.py` bloqueia reincidência. O uso atestado de um caractere numa técnica (nome no PMYVTIM ou no Hai Tong) entra, quando entrar, só como linha factual com a fonte, nunca como interpretação.
 
 ## Caracteres tardios
 

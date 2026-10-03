@@ -267,3 +267,25 @@ def test_transition_density(note: Note):
             f"  usar corte seco: começar pela afirmação, não pela dobradiça.",
             pytrace=False,
         )
+
+
+# ---------- 9. Seção "Aplicação ao Sistema Ving Tsun" (proibida desde 2026-10-03) ----------
+#
+# Era leitura simbólica do caractere no contexto do kung fu/linhagem/nome de
+# discípulo, sem fonte (ex.: "a escolha do nome 準 por Ip Man marca uma intenção
+# pedagógica explícita"). O autor classificou como perigosa e mandou remover das
+# 117 notas que a tinham. Regra em
+# .claude/skills/research-chinese-etymology/references/formato-nota.md.
+
+VING_TSUN_APPLICATION = re.compile(r"Aplica[çc][ãa]o ao Sistema Ving Tsun", re.IGNORECASE)
+
+
+def test_no_ving_tsun_application_section(note: Note):
+    if not _is_etymology_note(note):
+        return
+    hits = find_lines(note.body, VING_TSUN_APPLICATION)
+    fail_if_hits(
+        note, hits,
+        "seção 'Aplicação ao Sistema Ving Tsun' proibida (interpretação sem fonte; "
+        "removida de 117 notas em 2026-10-03)",
+    )
