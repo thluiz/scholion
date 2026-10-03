@@ -34,11 +34,12 @@ Lista todas as pesquisas em `E:/scholion/content/research/` com seu estado atual
    - Em foco: <em foco>
    - Próximo: <próximo>
    - Dossiê: <etapa do dossiê de voz>
+   - Treino: <página de treino, só se houver>
 
 2. ...
 ```
 
-Ao final da lista, uma linha de totais: `Dossiês de voz: N ativos, M sem dossiê.`
+Ao final da lista, uma linha de totais: `Dossiês de voz: N ativos, M sem dossiê. Páginas de treino: T.`
 
 Se argumento for `todas`, adicionar seções **Pausadas** e **Concluídas** abaixo, com mesmo formato (mas ocultando "Em foco/Próximo" se a pesquisa estiver pausada/concluída e tiver `Status` próprio nessas categorias).
 
@@ -65,10 +66,12 @@ O dossiê é o Claude Doc privado de marcos consolidados que a skill `dossie-voz
 |---|---|---|
 | Sem dossiê | pasta `voz/<slug>/` não existe | `Dossiê: —` |
 | Só fluxo antigo | pasta existe, mas `README.md` não tem link `claude.ai/artifact/` | `Dossiê: só arquivos do fluxo antigo (anexados à mão)` |
-| Ativo, sem conversa | `README.md` com link, `fechamentos/` vazio ou ausente | `Dossiê: ativo, sincronizado em <data> · nenhuma conversa incorporada` |
-| Ativo, com conversas | `README.md` com link e arquivos em `fechamentos/` | `Dossiê: ativo, sincronizado em <data> · N conversas incorporadas (última: <AAAA-MM-DD> <tema>)` |
+| Ativo, sem conversa | `README.md` com link, `fechamentos/` vazio ou ausente | `Dossiê: ativo, v<N>, sincronizado em <data> · nenhuma conversa incorporada` |
+| Ativo, com conversas | `README.md` com link e arquivos em `fechamentos/` | `Dossiê: ativo, v<N>, sincronizado em <data> · N conversas incorporadas (última: <AAAA-MM-DD> <tema>)` |
 
 - `<data>`: a da linha `Última sincronização:` do README. Sem essa linha, usar a data do último commit do README no submódulo (`git -C fontes-privadas log -1 --format=%as -- voz/<slug>/README.md`).
+- `v<N>`: da mesma linha do README. Sem `v`, mostrar `v?` (dossiê anterior à convenção de versão; recebe v1 na próxima atualização).
+- **Divergência**: comparar o hash de commit da linha `Última sincronização:` com `git -C E:/scholion log -1 --format=%h -- content/research/<slug>.md`. Diferentes → acrescentar `· pesquisa avançou desde a sincronização (agora em <hash atual>)`. Sem hash no README, não afirmar nada.
 - `<tema>`: nome do arquivo de fechamento mais recente, sem a data e sem `.md`.
 - Se o submódulo tiver alteração não commitada em `voz/<slug>/` (`git -C fontes-privadas status --short voz/<slug>`), acrescentar `· alterações locais não commitadas`.
 - Se `fontes-privadas/` estiver vazio (submódulo não inicializado), omitir a linha Dossiê de todas as pesquisas e avisar uma vez no fim.
@@ -76,6 +79,10 @@ O dossiê é o Claude Doc privado de marcos consolidados que a skill `dossie-voz
 Fechamentos ainda não incorporados vivem só na caixa de entrada do doc (comentários `FECHAMENTO:`), que esta skill não lê. Quando houver dossiê ativo, lembrar no fim: `/dossie-voz sincronizar <slug>` para puxar conversas novas.
 
 A pasta `voz/skills/` não é pesquisa; ignorar.
+
+## Página de treino
+
+Se o README da pesquisa em `fontes-privadas/voz/<slug>/` tiver uma linha `Página de treino` com link (skill `treinar-apresentacao`), mostrar `Treino: página publicada em <data> (roteiro no commit <hash>)`, com a data e o hash dessa seção do README. Aplicar a mesma checagem de divergência: se o último commit da pesquisa for outro, acrescentar `· roteiro da pesquisa mudou depois (agora em <hash atual>)`. Sem a linha no README, omitir `Treino:`.
 
 ## Pesquisas sem `status:` no frontmatter
 

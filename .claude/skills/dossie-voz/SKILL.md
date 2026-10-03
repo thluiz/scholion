@@ -23,6 +23,16 @@ O doc consolidado é derivado da pesquisa: a fonte de verdade continua sendo `co
 
 Doc de referência: "Pequeno Tratado em Áudio — marcos consolidados", link em `fontes-privadas/voz/pequeno-tratado-em-audio/README.md`.
 
+## Versão do dossiê
+
+Cada dossiê carrega um número de versão, para que a divergência entre pesquisa e doc salte aos olhos sem comparar hashes:
+
+- **Na pesquisa**, no Estado: `- **Dossiê de voz**: v<N>, sincronizado em <AAAA-MM-DD> (link em fontes-privadas/voz/<slug>/README.md)`.
+- **No doc**, na linha abaixo do byline: `Sincronizado com a pesquisa em <AAAA-MM-DD> (v<N>, commit <hash>)`.
+- **No README**: `Última sincronização: <AAAA-MM-DD>, v<N>, pesquisa no commit <hash>, rev <r> da aba principal`.
+
+`<N>` sobe em 1 a cada atualização do doc (Modo 1 sobre doc existente, ou passo 7 do Modo 2). `<hash>` é o commit da pesquisa que o doc reflete. Como a linha do Estado entra no mesmo commit, o hash só existe depois dele: commit primeiro, depois doc e README. Divergência: `git log -1 --format=%h -- content/research/<slug>.md` diferente do hash do README significa que a pesquisa avançou sem o doc; a skill `research-status` mostra isso e a `research` avisa ao retomar. Docs anteriores a esta convenção recebem v1 na próxima atualização.
+
 ## Antes de qualquer chamada de docs
 
 Carregar a skill de docs (`anthropic-skills:docs`) e seguir as instruções do conector: `guide( items = ["topic.index"] )` uma vez por sessão, abrir o doc com `Artifact` (`action: "open"`) logo depois de criá-lo, preencher uma seção por chamada. Nunca usar WebFetch em link de doc.
@@ -40,7 +50,7 @@ Argumento: slug da pesquisa, e opcionalmente um foco (uma direção, um capítul
 5. **Escrever**:
    - Doc novo: nascer com o esqueleto (um bloco `pending` por seção), abrir, preencher seção a seção.
    - Doc existente: ler (`read` com `sinceRev` ou `outline`), trocar só as seções que mudaram. Edições que o autor fez no doc vencem; nunca usar `force`.
-6. **Registrar**: atualizar `fontes-privadas/voz/<slug>/README.md` (link + data). Commit no submódulo + push, e ponteiro no Scholion.
+6. **Marcar na pesquisa e registrar**: no Estado da pesquisa, a linha `- **Dossiê de voz**: v<N>, sincronizado em <data> (link em fontes-privadas/voz/<slug>/README.md)`; `hugo --quiet`; commit `research: dossiê de voz v<N> em <tema>`. Com o hash desse commit, escrever a linha de sincronização no doc e atualizar `fontes-privadas/voz/<slug>/README.md` (link, data, v<N>, hash, rev). Commit no submódulo + push, e ponteiro no Scholion.
 7. **Entregar**: uma linha com o link e como usar: abrir o Claude no celular, conversa nova com o conector Claude Docs ativo, pedir "leia o doc <título>" e ligar o modo voz.
 
 ### Seções do doc consolidado
@@ -53,31 +63,25 @@ Argumento: slug da pesquisa, e opcionalmente um foco (uma direção, um capítul
 
 Quando o foco pede profundidade (um capítulo, um autor), acrescentar uma aba com fichas, uma por unidade de conversa: **Em uma frase**, **O argumento** (3 a 6 bullets), **Com quem pensa**, **Citações conferidas**, **Tensões para puxar** (marcadas como sugestão), **Perguntas para caminhar** (3 a 4, na segunda pessoa do autor), **Do Scholion**, **Pendências**.
 
-### Bloco fixo "Para a IA que conversa comigo"
+### Bloco "Para a IA que conversa comigo"
 
-Ajustar só `<tema>` e `<unidade>` (virtude, direção, capítulo…):
+As regras gerais de conversa (como falar, honestidade com as fontes, criação do Fechamento e comentário na caixa de entrada, encerramento) vivem na skill do chat `dossie-de-voz`, não no doc. O bloco do doc carrega só o que é desta pesquisa. Ajustar `<tema>`, `<unidade>` (virtude, direção, capítulo, bloco…) e o específico:
 
 ```markdown
 Leia isto antes de tudo. O resto do documento é o estado consolidado da pesquisa `content/research/<slug>.md` do Scholion, conferido em <data>. Uso privado.
 
-**Situação.** Estou andando na rua ou dirigindo, falando no celular. Vou escolher uma <unidade> (ou pedir que você sorteie) e pensar em voz alta. Você é o interlocutor: leu a pesquisa e as fontes com atenção e puxa conversa.
+**Regras gerais** de conversa, registro e fechamento estão na skill `dossie-de-voz`, instalada no claude.ai. Se ela não carregou nesta conversa, diga isso antes de começar.
 
-**Como falar**
-- Frases curtas. Uma ideia por fala, uma pergunta por vez. Nada de listas faladas, nada de ler este documento em voz alta.
-- Comece perguntando qual <unidade>. Depois abra com o que já está fechado sobre ela em uma ou duas frases e me devolva a palavra.
-- Siga o meu fio. Traga uma tensão, uma fonte ou um paralelo só quando a conversa pedir, ou quando eu travar.
-- Pode discordar de mim e dos autores. Diga de onde vem a objeção.
+**Situação.** Estou andando na rua ou dirigindo, falando no celular. Vou escolher uma <unidade> (ou pedir que você sorteie) e pensar em voz alta. Você é o interlocutor: leu a pesquisa e as fontes com atenção e puxa conversa. Comece perguntando qual <unidade>; abra com o que já está fechado sobre ela em uma ou duas frases e me devolva a palavra.
 
-**Honestidade com as fontes**
-- Só atribua a um autor as frases que estão entre aspas aqui, com a referência dada. O resto é paráfrase: diga "ele argumenta que…", nunca invente citação.
+**Específico desta pesquisa**
+- <regras de atribuição próprias: quem é citado, o que é leitura minha sem fonte, o que não apresentar como ensinamento de alguém>
 - O que está marcado ⚠ é formulação minha ou da IA, não do autor estudado. O que está em Pendências não é fato.
-- Se eu perguntar algo que não está aqui, responda com o que sabe, mas marque: "isso não está no documento, é de memória, precisa conferir".
-- Ideia sua é ideia sua: diga "uma sugestão minha". Nunca coloque na minha boca uma conclusão que eu não disse.
 
-**Registro.** Assim que o tema estiver claro, crie um documento chamado "Fechamento — <tema> — <data>", com a segunda linha "Status: em andamento · Base: dossiê sincronizado em <data da linha de sincronização>", e deixe um comentário no topo deste documento: "FECHAMENTO: <link> — <tema> — <data>". Vá anotando no Fechamento conforme a conversa avança, sem me interromper. Não edite o texto deste documento: ele é atualizado a partir da pesquisa.
-
-**Fechamento.** Quando eu disser "fechar", "resumo" ou "vamos encerrar", preencha no documento de fechamento o modelo que está no fim deste documento, troque a linha para "Status: fechado", releia o documento e só então diga que está salvo.
+**Fechamento.** Nome do documento: "Fechamento — <tema> — <data>"; segunda linha "Status: em andamento · Base: dossiê v<N>, sincronizado em <data>". Modelo no fim deste documento.
 ```
+
+Docs criados antes desta convenção ainda trazem o bloco longo com as regras gerais; trocar pelo curto na próxima atualização (Modo 1, passo 5).
 
 Modelo de fechamento (vai na última seção do doc):
 
@@ -105,10 +109,10 @@ FECHAMENTO — <unidade> — <data>
 O ponto de encontro entre o Claude do chat (que conversa por voz) e esta skill é o próprio dossiê:
 
 - **Caixa de entrada = comentários do dossiê.** Ao criar um Fechamento, o Claude do chat deixa um comentário no topo da aba principal do dossiê com `FECHAMENTO: <link> — <tema> — <data>`. Ele não edita o texto do dossiê.
-- **Status no Fechamento.** A segunda linha do Fechamento é `Status: em andamento` ou `Status: fechado` e `Base: dossiê sincronizado em <data>`. Só se incorpora Fechamento com `Status: fechado`.
-- **Linha de sincronização no dossiê.** Logo abaixo do byline: `Sincronizado com a pesquisa em <data> (<commit>)`. Atualizada a cada incorporação.
+- **Status no Fechamento.** A segunda linha do Fechamento é `Status: em andamento` ou `Status: fechado` e `Base: dossiê v<N>, sincronizado em <data>`. Só se incorpora Fechamento com `Status: fechado`. Se a versão da base for anterior à atual do doc, avisar o autor: a conversa partiu de um estado antigo.
+- **Linha de sincronização no dossiê.** Logo abaixo do byline: `Sincronizado com a pesquisa em <data> (v<N>, commit <hash>)`. Atualizada a cada incorporação.
 - **Skill do chat.** A versão em uso fica em `fontes-privadas/voz/skills/dossie-de-voz/SKILL.md`; o autor a instala no claude.ai. Mudou o protocolo aqui, mudar lá também e avisar o autor para reinstalar.
-- A listagem de artifacts (`Artifact` `list`) pode não mostrar fechamentos criados no chat. Não confiar nela: a fonte é a caixa de entrada.
+- A caixa de entrada é a única fonte de fechamentos. Não listar artifacts para procurá-los.
 
 ## Modo 3 — Sincronizar
 
@@ -123,7 +127,7 @@ Argumento: `sincronizar <slug>`. Também roda quando a skill `research` retoma u
 
 ## Modo 2 — Fechar a conversa
 
-Argumento: `fechar` + o link do doc de fechamento, ou o texto colado. Sem link, rodar o Modo 3 (caixa de entrada do dossiê); a listagem de artifacts é só último recurso.
+Argumento: `fechar` + o link do doc de fechamento, ou o texto colado. Sem link, rodar o Modo 3: a caixa de entrada do dossiê é a única fonte.
 
 ### Passos
 
@@ -132,11 +136,14 @@ Argumento: `fechar` + o link do doc de fechamento, ou o texto colado. Sem link, 
 3. **Search-first**: buscar no vault (`content/notes/`, `content/research/`) o que se conecta aos temas novos; listar e esperar o autor apontar o que linkar.
 4. **Conferir** o que o autor pedir. Fontes primárias em sites distintos podem ir para subagentes em paralelo, um site por agente, fetches seriais dentro de cada um.
 5. **Preview da atualização da pesquisa**: Estado, decisões do autor, perguntas em aberto que o autor levantou (literais), e uma seção nova com o que entrou. Tudo com ✓ / ⚠ / `?` conforme a convenção da skill `research`. O que não tem fonte fica de fora e é avisado no chat.
-6. **Gravar só depois da aprovação.** `hugo --quiet`, commit `research: <ação> em <tema>`.
-7. **Arquivar o fechamento** em `fontes-privadas/voz/<slug>/fechamentos/<AAAA-MM-DD>-<tema>.md`, com cabeçalho de procedência (de onde veio, onde foi incorporado, correções feitas, decisões posteriores do autor). Commit no submódulo + push, e ponteiro no Scholion.
-8. **Atualizar o doc consolidado** (Modo 1, passo 5, doc existente) com o que entrou na pesquisa.
-9. **Responder e resolver o comentário** do Fechamento na caixa de entrada do dossiê, com a seção da pesquisa e o commit; atualizar a linha de sincronização.
-10. **Apagar o doc de fechamento do claude.ai** (`Artifact` com `action: "delete"`) só depois do arquivo commitado e com push feito. O autor confirma a exclusão. O doc consolidado não é apagado.
+6. **Gravar só depois da aprovação.** A atualização inclui a linha do Estado `**Dossiê de voz**: v<N+1>, sincronizado em <hoje>`. `hugo --quiet`, commit `research: <ação> em <tema>`.
+7. **Fechar o ciclo**, num passo só, com o hash do commit anterior:
+   - arquivar o fechamento em `fontes-privadas/voz/<slug>/fechamentos/<AAAA-MM-DD>-<tema>.md`, com cabeçalho de procedência (de onde veio, onde foi incorporado, correções feitas, decisões posteriores do autor);
+   - atualizar o README (data, v<N+1>, hash, rev);
+   - um commit no submódulo + push, e um commit de ponteiro no Scholion;
+   - atualizar o doc consolidado (Modo 1, passo 5, doc existente) com o que entrou na pesquisa e a linha de sincronização nova;
+   - responder o comentário do Fechamento na caixa de entrada com a seção da pesquisa e o commit, e resolvê-lo.
+8. **Apagar o doc de fechamento do claude.ai** (`Artifact` com `action: "delete"`) só depois do arquivo commitado e com push feito. O autor confirma a exclusão. O doc consolidado não é apagado.
 
 ## Subir texto longo para uma aba
 

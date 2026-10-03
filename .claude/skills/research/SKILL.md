@@ -121,6 +121,8 @@ Ao retomar, ler o arquivo inteiro. O documento contém tudo que é necessário p
 
 Se existir `fontes-privadas/voz/<slug>/README.md` (a pesquisa tem dossiê de voz), rodar antes o Modo 3 da skill `dossie-voz` (sincronizar): conversas do chat podem ter avançado a pesquisa desde a última sessão.
 
+Ao gravar mudança substantiva numa pesquisa com dossiê, dizer ao autor na mesma resposta que o doc ficou para trás: a linha `**Dossiê de voz**: v<N>` do Estado marca a versão que o doc reflete, e `/dossie-voz <slug>` o atualiza. Não atualizar o doc por conta própria.
+
 ## Operacionais
 
 - Sem `Co-Authored-By Claude` no commit.
