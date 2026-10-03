@@ -20,8 +20,8 @@ toc: true
 - **Leitura do domínio**: trocada a leitura por elementos (terra/água/fogo, do XIII Encontro) por 守破離 Sau Po Lei (seguir/quebrar/sair da regra) — esta segunda não vem da série, é proposta nova do autor para esta apresentação.
 - **Formato já em uso**: minipodcast de ~5 min com Guilherme, gravado às quintas. Já gravaram o do Siu Nim Tau; "o próximo é o Cham Kiu" (citado no XV Encontro) — provavelmente é este o destino do roteiro.
 - **Revisão de 2026-10-02**: roteiro conferido contra as nove notas-fonte e passado pelo ghost-writer. Saíram o travessão de efeito, as taglines e o bloco 4 em três analogias (uma delas misturava a leitura "ponte curta" com a estrutura/quadril, que é da variante Chau 沉). Entraram a pronúncia (xún qiáo / cam4 kiu4), a ponte de corda, o "risco ou bloqueio" da ponte curta e a medida de oito pés que Claudio trouxe no IV Encontro. Cortada a frase "pontos que travam numa estrutura fixa", interpretação sem fonte.
-- **Dossiê de voz**: criado em 2026-10-02 para discutir e treinar a apresentação (link em `fontes-privadas/voz/apresentando-cham-kiu/README.md`).
-- **Próximo**: treinar o roteiro em voz com o dossiê; decidir se vai para o encontro, para a gravação com Guilherme, ou para os dois; decidir como atribuir a origem de 守破離 na fala (não há fonte no vault).
+- **Dossiê de voz**: v1, sincronizado em 2026-10-03, para discutir a apresentação (link em `fontes-privadas/voz/apresentando-cham-kiu/README.md`).
+- **Próximo**: treinar o roteiro em voz alta, cronometrado; decidir se vai para o encontro, para a gravação com Guilherme, ou para os dois; decidir como atribuir a origem de 守破離 na fala (não há fonte no vault).
 
 ## Motivação
 
