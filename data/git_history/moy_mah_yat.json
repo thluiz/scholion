@@ -1,14 +1,14 @@
 [
   {
+    "date": "2026-10-03",
+    "subject": "notes: unificar etimologia de 馬 em etimologia-de-maa-ma-99ac (alias do slug antigo, links atualizados)"
+  },
+  {
     "date": "2026-04-23",
     "subject": "feat: categorias etymology (📜) e disciple (🙇) para notas de etimologia e discípulos"
   },
   {
     "date": "2026-04-23",
     "subject": "feat: adiciona tag moy-jo-lei-ou em todas as 61 notas de discípulo"
-  },
-  {
-    "date": "2026-04-23",
-    "subject": "feat: cross-links moy-*.md -> etimologia individual dos ideogramas"
   }
 ]
