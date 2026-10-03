@@ -1,7 +1,7 @@
 ---
 name: research-status
 description: Lista pesquisas vivas do Scholion com status atual (em foco, próximo passo, etapa do dossiê de voz). Use quando o autor pergunta "o que tenho em andamento?", "quais pesquisas abertas?", ou simplesmente invoca /research-status.
-argument-hint: "[opcional: 'todas' para incluir pausadas/concluídas]"
+argument-hint: "[opcional: 'todas' para incluir pausadas/concluídas/publicadas]"
 ---
 
 # Status das Pesquisas Vivas
@@ -13,7 +13,7 @@ Lista todas as pesquisas em `E:/scholion/content/research/` com seu estado atual
 1. Listar todos os arquivos `.md` em `E:/scholion/content/research/`.
 2. Para cada arquivo, ler o frontmatter e extrair:
    - `title`
-   - `status` (em andamento | pausada | concluída)
+   - `status` (em andamento | pausada | concluída | publicada)
    - `summary`
    - `slug` (nome do arquivo sem `.md`)
 3. Da seção `## Estado` do corpo, extrair:
@@ -41,7 +41,7 @@ Lista todas as pesquisas em `E:/scholion/content/research/` com seu estado atual
 
 Ao final da lista, uma linha de totais: `Dossiês de voz: N ativos, M sem dossiê. Páginas de treino: T.`
 
-Se argumento for `todas`, adicionar seções **Pausadas** e **Concluídas** abaixo, com mesmo formato (mas ocultando "Em foco/Próximo" se a pesquisa estiver pausada/concluída e tiver `Status` próprio nessas categorias).
+Se argumento for `todas`, adicionar seções **Pausadas**, **Concluídas** e **Publicadas** abaixo, com mesmo formato (mas ocultando "Em foco/Próximo" se a pesquisa estiver pausada/concluída e tiver `Status` próprio nessas categorias). Em **Publicadas**, no lugar de Em foco/Próximo mostrar a linha `Publicado em <data> no Silvae: <link>` que `/publish-research` grava na seção `## Texto Publicado`.
 
 Se nenhuma pesquisa em andamento: dizer explicitamente *"Nenhuma pesquisa em andamento."*.
 

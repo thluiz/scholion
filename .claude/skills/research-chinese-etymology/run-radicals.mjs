@@ -1,6 +1,7 @@
 // Usage: node run-radicals.mjs [--limit N] [--only 字字字] [--model NAME] [--no-commit]
 // Orquestra o pipeline dos radicais plenos que faltam:
-//   para cada caractere -> crawl -> audit -> generate (claude -p)
+//   para cada caractere -> crawl -> audit -> generate (vox-intelligence preset
+//   scholion/etymology-note, default model gpt-5.4; `claude -p` was abandoned 2026-07-07)
 // Depois: UM hugo build; se passar, commit-por-nota + push.
 // Resumível: pula radicais que já têm nota (audit por título). Loga em stdout + .crawl/run.log.
 import { readFileSync, writeFileSync, appendFileSync, existsSync, readdirSync } from 'fs';
@@ -88,7 +89,10 @@ if (NO_COMMIT) { log('--no-commit: notas geradas mas não comitadas'); process.e
 for (const d of done) {
   sh('git', ['add', d.file], { shell: true });
   writeFileSync('.crawl/msg.txt', `feat: etimologia de ${d.ch} (radical Kangxi ${d.num})\n`, 'utf8');
-  const c = sh('git', ['commit', '-F', '.crawl/msg.txt', '--no-verify'], { shell: true });
+  // git runs inside node, so the Claude PreToolUse ghost-audit gate (which matches
+  // `git commit` in Bash tool commands) does not see it. The repo has no git
+  // pre-commit/commit-msg hook, so --no-verify was a no-op and was dropped.
+  const c = sh('git', ['commit', '-F', '.crawl/msg.txt'], { shell: true });
   if (c.status !== 0) { log(`  commit falhou (${d.ch}): ${(c.stdout || c.stderr || '').slice(0, 200)}`); }
 }
 log('push...');

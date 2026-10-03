@@ -4,115 +4,56 @@ description: Cria uma nova nota no Scholion (E:/scholion/content/notes/) com sch
 argument-hint: "[título] | [corpo] | [fonte]"
 ---
 
-Cria uma nova nota no **Scholion** em `E:/scholion/content/notes/<slug>.md`.
+Cria uma nota genérica no **Scholion** em `E:/scholion/content/notes/<slug>.md`.
 
-> **Importante:** notas curtas (marginalia, glosas, fragmentos) **não vão mais para silvae**. Sempre criar em scholion. O silvae está congelado para notas — só recebe textos longos (`/text/`, `/post/`).
-
----
-
-## PORTÃO OBRIGATÓRIO — nota NÃO ESTÁ PRONTA sem passar aqui
-
-**Antes** de mostrar preview, **antes** de escrever no disco, **antes** de dizer "passou no ghost-writer", **antes** de qualquer commit, **antes** de mover para Silvae ou qualquer outro destino:
-
-Rodar o `ghost-audit` no HTTP endpoint sobre o corpo composto (frontmatter + corpo) e mostrar o JSON de findings ao autor.
-
-```powershell
-$body = @{ content = '<frontmatter+corpo compostos>'; slug = '<slug>' } | ConvertTo-Json -Depth 5
-$r = Invoke-RestMethod -Uri 'http://localhost:8080/api/vox-intelligence/presets/scholion/ghost-audit' -Method Post -ContentType 'application/json; charset=utf-8' -Body ([Text.Encoding]::UTF8.GetBytes($body)) -TimeoutSec 120
-$r.'x-parsed' | ConvertTo-Json -Depth 6
-```
-
-**Regras rígidas — sem exceção:**
-
-- `verdict: red` → resolver **todos** os findings `block` (source-or-silence, PT-EU) antes do preview. Nunca declarar pronto com red.
-- `verdict: yellow` → mostrar findings ao autor, ele decide caso a caso.
-- `verdict: green` → seguir.
-- **PROIBIDO substituir por checklist mental.** Rodar `grep` de vocabulário banido, ler o texto parágrafo a parágrafo, aplicar os 33 testes de cabeça e declarar "corpo limpo" **NÃO é rodar o ghost-audit**. Se a chamada HTTP não foi feita e o JSON não foi visto, a auditoria não aconteceu — diga isso ao autor em vez de fingir que passou. Esse é o erro recorrente que já quebrou a promessa da skill em pelo menos uma nota publicada.
-- **Fail-open**: se o serviço estiver fora, dizer "auditoria estrutural não rodou — vox-intelligence offline" explicitamente. Nunca fingir verde nem simular findings.
-
-Todas as demais checagens (search-first no vault, checklist ghost-writer em contexto, `/style-test` lexical) **somam** a este portão — nunca substituem. Este é o único passo cujo resultado pode ser reportado como "auditoria feita".
-
----
+Pipeline comum em `references/note-pipeline.md` (passos 1–14). Esta skill só descreve o que é específico da nota genérica.
 
 ## Parâmetros
 
-Os argumentos podem vir em `$ARGUMENTS` no formato livre. Extraia:
-- **título** — string curta (~60 chars). Se não fornecido, pergunte.
-- **corpo** — conteúdo principal em markdown. Se não fornecido, pergunte.
-- **fonte(s)** — URL(s) ou referência(s) bibliográfica(s). Se não fornecido, pergunte. Pode ser múltiplas — separar por linha ou ` · `.
+`$ARGUMENTS` em formato livre. Extrair:
+- **título** — string curta (idealmente ≤ 72 chars).
+- **corpo** — markdown.
+- **fonte(s)** — URL(s) ou referência(s); várias separadas por linha ou ` · `.
 
-Se algum dos três estiver ausente, pergunte antes de continuar.
+Se algum dos três faltar, perguntar antes de continuar.
 
 ## Processo
 
-1. **Search-first interativo** — **ANTES de compor qualquer texto**, buscar no vault (`Grep`/`Glob` em `E:/scholion/content/notes/` e `E:/scholion/content/research/`) por temas, autores e termos relacionados ao corpo. Mostrar os matches com contexto breve (1 linha por nota: título + slug + 1 frase do conteúdo) e **esperar o autor apontar** quais linkar, expandir, ou ignorar antes de redigir. Se nada relevante for encontrado, dizer explicitamente ("nenhuma nota relacionada encontrada") antes de seguir.
+1. **Search-first interativo** — pipeline passo 6 (buscar → listar → esperar).
+2. **Carregar ghost-writer** — ler `ghost-writer/SKILL.md` antes de compor; a checklist é filtro durante a escrita, não revisão posterior.
+3. **Hora real** — pipeline passo 1.
+4. **Slug** — pipeline passo 2.
+5. **Tags** — 2–4, kebab-case, no idioma da nota.
+6. **Summary** — uma frase (~150–200 chars) com o ponto da nota; aparece nos cards.
+7. **has_commentary** — `true` se há texto/análise/conexão original do autor; `false` se é só excerto/glosa de fonte externa. Na dúvida, `false`.
+8. **sources** — pipeline passo 4. Nota genérica **sem** `category`.
+9. **Compor o draft** no formato abaixo, com YAML conforme pipeline passo 3 e links conforme passo 5.
+10. **Portão** — pipeline passo 7 (`/ghost-audit <scratchpad>/<slug>.md`).
+11. **Preview** — pipeline passo 8, sem exceção.
+12. **Write → `/style-test`** — pipeline passo 9.
+13. **Marcador, commit, push** — pipeline passos 10, 11 e 13 (build: passo 12, uma vez por sessão).
 
-2. **Carregar ghost-writer** — **ANTES de compor qualquer texto**, ler a skill `ghost-writer` (SKILL.md) para ter a checklist carregada no contexto. A checklist não é revisão posterior — é filtro ativo durante a escrita. Se este passo não aconteceu, o preview NÃO está pronto para ser mostrado.
+## Formato do arquivo
 
-3. **Hora real do sistema** — rodar `date +"%Y-%m-%dT%H:%M:%S%:z"` para obter o `date` atual. Nunca inventar horários.
+```markdown
+---
+title: "<título>"
+date: <YYYY-MM-DDTHH:MM:SS±HH:MM>
+summary: "<frase curta>"
+tags: ["tag1", "tag2"]
+has_commentary: <true|false>
+sources:
+  - title: "..."
+    url: "..."
+    kind: "..."
+---
 
-4. **Slug** a partir do título: lowercase, remover acentos, substituir espaços e pontuação por `-`, máx ~50 chars.
-
-5. **Tags** inferidas a partir do conteúdo (2–4 tags, kebab-case). Idioma das tags acompanha o idioma da nota — PT para PT, EN para EN.
-
-6. **Summary** — uma frase curta (~150–200 chars) que sintetiza o ponto da nota. Será usada nos cards do mosaico.
-
-7. **has_commentary** — `true` se a nota tem texto/análise/conexão original do usuário; `false` se é só um excerto/citação/glosa de fonte externa. Na dúvida, `false`.
-
-8. **sources** — array estruturado, **não** texto livre. Cada item:
-   ```yaml
-   - title: "Título da fonte"
-     author: "Autor"        # opcional
-     year: 2024             # opcional
-     publisher: "Editora"   # opcional
-     url: "https://..."     # opcional
-     kind: book | article | wiki | podcast | video | paper | poem | repo | film | other
-   ```
-   Se a fonte vier como URL nua, inferir `kind` pelo domínio (wikipedia.org → wiki, vox.thluiz.com → podcast, youtube → video, arxiv/.pdf → paper, etc.).
-
-9. **Criar o arquivo** em `E:/scholion/content/notes/<slug>.md` com este formato:
-
-   ```markdown
-   ---
-   title: "<título>"
-   date: <YYYY-MM-DDTHH:MM:SS±HH:MM>
-   summary: "<frase curta>"
-   tags: ["tag1", "tag2"]
-   has_commentary: <true|false>
-   sources:
-     - title: "..."
-       url: "..."
-       kind: "..."
-   ---
-
-   <corpo em markdown>
-   ```
-
-   **Importante:** sem `Fonte:` no final do corpo — as fontes ficam **só** no frontmatter. Renderização é responsabilidade do template `single.html`.
-
-10. **Auditoria de voz** — executar as duas auditorias sobre o corpo composto e mostrar os findings no preview:
-    - **Lexical** — `/style-test <slug>` (regex, grátis, ~1s): PT-EU, vocabulário banido, travessões, frontmatter, datas.
-    - **Estrutural/semântica** — chamada HTTP ao `ghost-audit` conforme o **PORTÃO OBRIGATÓRIO** no topo desta skill. Não há atalho: rodar o comando, ver o JSON, reportar o verdict. Sem chamada, sem "passou".
-
-11. **Preview** ao usuário (nota + findings da auditoria) e aguardar confirmação antes de escrever (se for rodada interativa; se vier completo nos argumentos, escrever direto).
-
-12. Após o autor aprovar e o arquivo estar escrito:
-    1. `git add content/notes/<slug>.md`
-    2. Gravar o marcador do commit-gate (a nota já foi auditada no passo 10 — evita re-auditoria no portão):
-       ```powershell
-       $o = git -C E:\scholion rev-parse ":content/notes/<slug>.md"
-       New-Item -ItemType Directory -Force E:\scholion\.ghost-audit | Out-Null
-       Set-Content "E:\scholion\.ghost-audit\$o.ok" $o
-       ```
-    3. `git commit -m "note: <título>"` + `git push` (se houver remoto configurado).
+<corpo em markdown>
+```
 
 ## Regras
 
-- **Voz e estilo**: quando gerar texto para o corpo da nota, seguir **todas** as regras da skill `ghost-writer` — vocabulário banido, estrutura banida, tom banido, checklist pós-geração. Notas são mais curtas que posts, mas o filtro anti-IA se aplica igual.
-- **`date` é OBRIGATÓRIO** com formato ISO 8601 + offset real do sistema (`YYYY-MM-DDTHH:MM:SS±HH:MM` — o comando `date` do passo 3 já devolve o offset correto; nunca copiar offset de exemplo).
-- Título idealmente ≤ 72 chars (não há schema enforcer no Hugo, mas mantém os cards consistentes).
-- Sem campo `lang`.
-- Sem `Co-Authored-By Claude` no commit (conteúdo é do usuário).
-- Não tocar em `E:/silva/src/content/note/` — silvae está congelado para notas.
-- **Source-or-silence**: toda afirmação factual no corpo da nota precisa de citação de fonte inline. Se não houver fonte atestada, dizer isso explicitamente e omitir — nunca parafrasear de forma plausível para preencher.
-- Build sanity check: rodar `cd /e/scholion && hugo --quiet` antes do commit final, abortar se exit ≠ 0.
+- **Voz e estilo**: corpo segue todas as regras de `ghost-writer` (vocabulário, estrutura e tom banidos, checklist). Notas são curtas; o filtro se aplica igual.
+- **Source-or-silence**: toda afirmação factual precisa de fonte inline. Sem fonte atestada, omitir e avisar o autor no chat; nunca escrever na nota que a fonte não foi encontrada.
+- Sem `Co-Authored-By` no commit (pipeline passo 11).
+- Silvae congelado para notas (pipeline passo 14).

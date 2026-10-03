@@ -1,199 +1,103 @@
 ---
 name: add-scholion-movie
-description: Cria uma nota de filme no Scholion (E:/scholion/content/notes/). Recebe título e possível diretor, pesquisa ficha técnica, pergunta com quem foi assistido, e cria a nota verificada. Baseada em add-scholion-quote.
+description: "Cria uma nota de filme (category: movie, page bundle com poster local) no Scholion: confirma ficha técnica em IMDb/Wikipedia, pergunta com quem foi assistido (vira tag), registra escalas 0-5 só se o autor der o número. Use quando o usuário disser que viu/assistiu um filme ou pedir para registrar um filme."
 argument-hint: "[título do filme] | [diretor presumido]"
 ---
 
-Cria uma nota de **filme** no **Scholion** em `E:/scholion/content/notes/<slug>.md`.
+Cria uma nota de **filme** (`category: movie`) no **Scholion**, como page bundle em `E:/scholion/content/notes/<slug>/index.md` + `poster.<ext>`.
 
-> **Importante:** notas curtas não vão para silvae. Sempre criar em scholion.
-
----
-
-## PORTÃO OBRIGATÓRIO — nota NÃO ESTÁ PRONTA sem passar aqui
-
-**Antes** de mostrar preview, **antes** de escrever no disco, **antes** de dizer "passou no ghost-writer", **antes** de qualquer commit:
-
-Rodar o `ghost-audit` no HTTP endpoint sobre o corpo composto (frontmatter + corpo) e mostrar o JSON de findings ao autor.
-
-```powershell
-$body = @{ content = '<frontmatter+corpo compostos>'; slug = '<slug>' } | ConvertTo-Json -Depth 5
-$r = Invoke-RestMethod -Uri 'http://localhost:8080/api/vox-intelligence/presets/scholion/ghost-audit' -Method Post -ContentType 'application/json; charset=utf-8' -Body ([Text.Encoding]::UTF8.GetBytes($body)) -TimeoutSec 120
-$r.'x-parsed' | ConvertTo-Json -Depth 6
-```
-
-**Regras rígidas — sem exceção:**
-
-- `verdict: red` → resolver **todos** os findings `block` antes do preview. Nunca declarar pronto com red.
-- `verdict: yellow` → mostrar findings ao autor, ele decide caso a caso.
-- `verdict: green` → seguir.
-- **PROIBIDO substituir por checklist mental.** Aplicar o checklist ghost-writer de cabeça e declarar "corpo limpo" **NÃO é rodar o ghost-audit**. Se a chamada HTTP não foi feita e o JSON não foi visto, a auditoria não aconteceu — diga isso ao autor em vez de fingir que passou.
-- **Fail-open**: se o serviço estiver fora, dizer "auditoria estrutural não rodou — vox-intelligence offline" explicitamente. Nunca fingir verde nem simular findings.
-
-Todas as demais checagens (search-first no vault, pesquisa da ficha, checklist ghost-writer em contexto, `/style-test` lexical) **somam** a este portão — nunca substituem.
-
----
+Pipeline comum em `add-scholion-note/references/note-pipeline.md` (passos 1–14). Aqui só o que é específico do filme.
 
 ## Parâmetros
 
-Os argumentos vêm em `$ARGUMENTS` em formato livre. Extraia:
-- **título** — o nome do filme conforme o usuário lembra. Se não fornecido, pergunte.
-- **diretor presumido** — quem o usuário acredita ser o diretor. Se não fornecido, pergunte (pode ser desconhecido).
-
-Se o título estiver ausente, pergunte antes de continuar.
+`$ARGUMENTS` em formato livre. Extrair:
+- **título** — como o usuário lembra. Se faltar, perguntar.
+- **diretor presumido** — pode ser desconhecido.
 
 ## Processo
 
 ### 1. Search-first interativo
 
-**ANTES de compor qualquer texto**, buscar no vault (`Grep`/`Glob` em `E:/scholion/content/notes/` e `E:/scholion/content/research/`) pelo título, diretor presumido, atores principais e temas adjacentes. Mostrar os matches com contexto breve (1 linha por nota: título + slug + 1 frase do conteúdo) e **esperar o autor apontar** quais linkar, expandir, ou ignorar antes de redigir o corpo. Se nada relevante for encontrado, dizer explicitamente ("nenhuma nota relacionada encontrada") antes de seguir.
+Pipeline passo 6: buscar pelo título, diretor, atores principais e temas adjacentes; listar; esperar o autor apontar.
 
 ### 2. Carregar ghost-writer
 
-**ANTES de compor qualquer texto**, ler a skill `ghost-writer` (SKILL.md) para ter a checklist carregada no contexto.
+Ler `ghost-writer/SKILL.md` antes de compor (vale sobretudo para o parágrafo de comentário).
 
 ### 3. Pesquisa do filme
 
-Usar `WebSearch` e `WebFetch` para confirmar a ficha. Consultar:
+Usar `WebSearch` e `WebFetch`:
 
-1. **IMDb** (imdb.com) — fonte primária para ficha técnica
-2. **Wikipedia** (pt.wikipedia.org / en.wikipedia.org) — sinopse e contexto
-3. **Letterboxd** (letterboxd.com) — opcional, para recepção crítica
+1. **IMDb** — ficha técnica.
+2. **Wikipedia** (pt / en) — sinopse e contexto.
+3. **Letterboxd** — opcional, recepção crítica.
 
-Investigar e registrar:
-- **Título original** — no idioma do país de origem
-- **Título de lançamento em português** (BR) — usado no `title` da nota
-- **Diretor(es)**
-- **Ano de lançamento**
-- **País(es) de origem**
-- **Sinopse curta** — 1–2 frases factuais para o `summary`
+Registrar: título original; título de lançamento em português (BR), usado no `title`; diretor(es); ano; país(es); sinopse curta (1–2 frases factuais). Dado não verificável fica de fora; avisar o autor.
 
-Se algum dado não for verificável, dizer claramente — nunca inventar.
+### 4. Companhia
 
-### 4. Pergunta sobre companhia
+**Obrigatório antes do preview**: perguntar com quem assistiu. Respostas viram tags sem prefixo, kebab-case sem acentos (`claudia`, `filhos`). `sozinho` = nenhuma tag de companhia (caso default).
 
-**OBRIGATÓRIO antes do preview**: perguntar ao usuário com quem assistiu o filme. As respostas viram tags (sem prefixo, apenas nomes em kebab-case).
+### 5. Hora real e slug
 
-Exemplos de resposta esperada:
-- `claudia` → tag `claudia`
-- `claudia, filhos` → tags `claudia`, `filhos`
-- `sozinho` → **nenhuma tag de companhia** (caso default, não precisa ser registrado)
+Pipeline passos 1 e 2. Slug a partir do título em português, **sem o ano**. É bundle: `content/notes/<slug>/index.md`.
 
-Se o usuário responder com nomes próprios, normalizar para kebab-case minúsculo sem acentos.
+### 6. Título
 
-### 5. Hora real do sistema
+Título em português + ` (ano)`: `O Som ao Redor (2012)`, `Parasita (2019)`.
 
-Rodar `date +"%Y-%m-%dT%H:%M:%S%:z"` para obter o `date` atual. Nunca inventar horários.
+### 7. Tags
 
-### 6. Slug
+Kebab-case, sem prefixos. Obrigatórias: diretor(es) (`kleber-mendonca-filho`); companhia, se houver (passo 4). Opcionais: gênero, tema, país (`cinema-brasileiro`, `documentario`).
 
-A partir do título do filme: lowercase, remover acentos, substituir espaços e pontuação por `-`, máx ~50 chars. **Não incluir o ano no slug.**
+### 8. Summary
 
-### 7. Título
+Uma frase (~150–200 chars): o que é o filme, dirigido por quem, ano. Sem spoilers.
 
-Título de lançamento em português + ` (ano)` entre parênteses.
-Exemplos:
-- `O Som ao Redor (2012)`
-- `Cidade de Deus (2002)`
-- `Parasita (2019)`
+### 9. has_commentary
 
-### 8. Tags
+- `false` se é só ficha + companhia.
+- `true` se o autor adicionar comentário próprio.
 
-Tags em kebab-case, sem prefixos. **Obrigatórias**:
-- **Diretor(es)** — ex: `kleber-mendonca-filho`, `bong-joon-ho`
-- **Companhia** (apenas se acompanhado) — nomes de quem assistiu junto, sem prefixo: `claudia`, `filhos`. Se `sozinho`, **nenhuma tag de companhia** — esse é o caso default e não vira tag.
+### 10. Escalas de 0 a 5 (opcionais)
 
-Tags temáticas opcionais conforme o conteúdo: gênero, tema, país, etc. (ex: `cinema-brasileiro`, `documentario`, `terror`).
+Campos inteiros 0–5, renderizados como cinco ícones. O registro canônico é `E:/scholion/data/scales.yaml` — **consultar o arquivo**, escalas novas entram lá sem passar por esta skill. Hoje:
 
-### 9. Summary
+- `rating` — "Nota", 🎫.
+- `morbius` — "Morbius", 🧛. Escala do autor para filmes ruins-divertidos, criada a partir de [Mortal Kombat 2 (2026)](E:/scholion/content/notes/mortal-kombat-2/index.md).
+- `laughs` — "Gargalhadas", 🤣. Comédias.
 
-Uma frase curta (~150–200 chars) com sinopse factual: o que é o filme, dirigido por quem, ano. Será usada nos cards do mosaico.
-
-### 10. has_commentary
-
-- `false` se a nota é apenas a ficha + companhia
-- `true` se o usuário adicionar análise/comentário/conexão própria
-
-### 10b. Escalas de 0 a 5 (opcionais)
-
-Campos de frontmatter com inteiro de 0 a 5, cada um renderizando cinco ícones
-com os não-atingidos esmaecidos. O registro canônico é
-`E:/scholion/data/scales.yaml` — **consultar o arquivo**, porque escalas novas
-entram lá sem passar por esta skill. Hoje:
-
-- `rating` — rótulo "Nota", 🎫. Avaliação geral do filme.
-- `morbius` — rótulo "Morbius", 🧛. Escala do autor para filmes ruins-divertidos,
-  criada a partir de [Mortal Kombat 2 (2026)](E:/scholion/content/notes/mortal-kombat-2/index.md).
-- `laughs` — rótulo "Gargalhadas", 🤣. Para comédias.
-
-São independentes: a nota pode ter as duas, uma só, ou nenhuma.
-
-**Não perguntar os valores.** O campo só entra quando o autor der o número por
-conta própria ("põe 4 Morbius nesse", "nota 3"). Sem valor declarado, o campo
-fica fora do frontmatter — ausente e `0` são coisas diferentes, e 0 significa
-"escala aplicada, deu zero".
-
-No preview, incluir uma linha curta lembrando que as escalas existem e estão
-disponíveis caso ele queira usar. Uma linha, sem insistir.
+Independentes entre si. **Não perguntar os valores**: o campo só entra quando o autor der o número ("põe 4 Morbius", "nota 3"). Ausente e `0` são coisas diferentes. No preview, uma linha lembrando que as escalas existem; sem insistir.
 
 ### 11. Sources
 
-Array estruturado no frontmatter. Cada fonte da pesquisa:
-```yaml
-- title: "Título da fonte"
-  author: "Diretor"      # opcional
-  year: 2024             # opcional
-  url: "https://..."     # opcional
-  kind: film | wiki | article | other
-```
-
-Fontes típicas para filmes:
-- IMDb → `kind: film` (com `url`)
-- Wikipedia → `kind: wiki`
-- Letterboxd → `kind: article`
+Pipeline passo 4. Típicas: IMDb → `kind: film` (com `url`); Wikipedia → `kind: wiki`; Letterboxd → `kind: article`.
 
 ### 12. Poster
 
-Cada nota de filme **deve** ter um poster local. Pipeline:
+Toda nota de filme tem poster local. O download acontece **antes** do preview, mas no scratchpad; a pasta da nota só é criada depois da aprovação.
 
-1. Buscar o URL do poster — ordem de preferência:
-   - Wikipedia (infobox) — usar `WebFetch` na página do filme com prompt: "Return ONLY the full URL of the poster image (upload.wikimedia.org)". Para a versão em alta, remover `/thumb/.../<size>px-<file>` mantendo apenas o caminho até o filename.
-   - Para filmes sem Wikipedia, tentar Cinecartaz (Público), AlloCiné, ou outro site de cinema com infobox de poster.
-2. Baixar via curl (Wikipedia exige User-Agent não-vazio):
+1. URL do poster, em ordem de preferência: infobox da Wikipedia (`WebFetch` com prompt "Return ONLY the full URL of the poster image (upload.wikimedia.org)"; para a versão em alta, tirar `/thumb/.../<size>px-<file>` e manter o caminho até o filename). Sem Wikipedia: Cinecartaz, AlloCiné ou outro site com infobox.
+2. Baixar para o scratchpad (Wikipedia exige User-Agent não-vazio):
    ```bash
-   curl -sSL -A "Mozilla/5.0 (Scholion-bot)" "<URL>" -o content/notes/<slug>/poster.<ext>
+   curl -sSL -A "Mozilla/5.0 (Scholion-bot)" "<URL>" -o "<scratchpad>/<slug>-poster.<ext>"
    ```
-3. Verificar com `file content/notes/<slug>/poster.<ext>` que é uma imagem real e a proporção é razoável (~2:3 vertical típico de poster). Se for banner-shape (largura > altura), avisar o usuário antes de prosseguir — pode ser logo, não poster.
-4. Extensão segue o formato real: `.jpg`, `.png`, `.jpeg`. Se a Wikipedia servir `.jpeg`, salvar como `poster.jpg` para uniformidade só se a renomeação não corromper o conteúdo (curl não corrompe — apenas o sufixo).
+3. Verificar: `file "<scratchpad>/<slug>-poster.<ext>"` deve ser imagem real, proporção ~2:3 vertical. Se for mais largo que alto, avisar o autor (pode ser logo, não poster).
+4. Extensão segue o formato real (`.jpg`, `.png`, `.jpeg`); `.jpeg` pode virar `poster.jpg` (só muda o sufixo).
 
-### 13. Corpo da nota
+### 13. Corpo
 
-Contexto factual em prosa: diretor, ano, país, sinopse curta. Sem resenha, a menos que `has_commentary: true`.
+Prosa factual: diretor, ano, país, premissa. Sem resenha, a menos que `has_commentary: true`.
 
-**Estrutura do corpo:**
-1. **Sinopse factual em blockquote** (`> ...`) — ficha técnica e premissa. Voz externa, encyclopedic. Um parágrafo único prefixado com `> `.
-2. **Linha em branco**.
-3. **Comentário do autor** (se `has_commentary: true`) — prosa direta, sem prefixo. Voz do Thiago.
-4. **Linha em branco**.
-5. **Imagem do poster** — `![Poster de <Título> (<ano>)](poster.<ext>)`.
+1. **Sinopse em blockquote** (`> ...`): um parágrafo, voz externa, enciclopédica.
+2. Linha em branco.
+3. **Comentário do autor** (só se `has_commentary: true`): prosa direta, voz do Thiago.
+4. Linha em branco.
+5. **Poster**: `![Poster de <Título> (<ano>)](poster.<ext>)`.
 
-**Regras do corpo:**
-- Sem floreio, sem "filme imperdível", sem juízo crítico (a não ser que o usuário tenha pedido com `has_commentary: true`)
-- Seguir **todas** as regras da skill `ghost-writer` (especialmente no parágrafo de comentário)
-- Sem `Fonte:` no final — fontes ficam só no frontmatter
-- **Sem spoilers no summary nem no corpo**: revelações centrais (twist, reviravolta, identidade do assassino, motivação oculta, etc.) **não** entram. Falar do gancho/premissa, não do ponto de virada. Se a Wikipedia entrega o spoiler na sinopse, traduzir o que é setup; cortar o que é payoff.
+Sem floreio ("imperdível"), sem juízo crítico fora do comentário. **Sem spoilers** no summary nem no corpo: premissa, não reviravolta; se a Wikipedia entrega o twist, traduzir o setup e cortar o payoff.
 
-### 14. Formato final do arquivo
-
-A nota vai num **folder** `content/notes/<slug>/` com `index.md` + `poster.<ext>`. Estrutura:
-
-```
-content/notes/<slug>/
-├── index.md
-└── poster.jpg   (ou .png, .jpeg conforme original)
-```
-
-Conteúdo do `index.md`:
+### 14. Formato do `index.md`
 
 ```markdown
 ---
@@ -201,64 +105,45 @@ title: "<Título do filme> (<ano>)"
 date: <YYYY-MM-DDTHH:MM:SS±HH:MM>
 category: movie
 summary: "<sinopse curta, sem spoilers>"
-tags: ["diretor", "companhia1", "companhia2", "tema"]   # companhias só se acompanhado
+tags: ["diretor", "companhia1", "tema"]   # companhias só se acompanhado
 has_commentary: <true|false>
-rating: <0-5>                                           # opcional — escala "Nota"; só se o autor declarar
-morbius: <0-5>                                          # opcional — escala "Morbius"; só se o autor declarar
-laughs: <0-5>                                           # opcional — escala "Gargalhadas"; só se o autor declarar
+rating: <0-5>      # opcional; só se o autor declarar
+morbius: <0-5>     # opcional; só se o autor declarar
+laughs: <0-5>      # opcional; só se o autor declarar
 sources:
   - title: "..."
     url: "..."
     kind: "..."
 ---
 
-> Sinopse factual em blockquote, voz externa. Diretor, ano, país, premissa. Sem spoilers.
+> Sinopse factual em blockquote. Diretor, ano, país, premissa. Sem spoilers.
 
-Comentário do autor em prosa direta (omitir se has_commentary é false).
+Comentário do autor (omitir se has_commentary é false).
 
 ![Poster de <Título> (<ano>)](poster.<ext>)
 ```
 
-### 15. Auditoria de voz
+### 15. Portão e preview
 
-Executar as duas auditorias sobre o corpo composto e mostrar os findings no preview:
+Pipeline passos 7 e 8. No preview, mencionar o poster verificado (dimensões) e a linha das escalas.
 
-- **Lexical** — `/style-test <slug>` (regex, grátis, ~1s).
-- **Estrutural/semântica** — chamada HTTP ao `ghost-audit` conforme o **PORTÃO OBRIGATÓRIO** no topo desta skill. Não há atalho: rodar o comando, ver o JSON, reportar o verdict. Sem chamada, sem "passou".
+### 16. Escrita e commit
 
-### 16. Preview e confirmação
+Após a aprovação:
 
-Mostrar a nota completa ao usuário e aguardar confirmação antes de escrever.
-
-### 17. Escrita e commit
-
-Após confirmação:
-1. Criar o folder: `mkdir -p content/notes/<slug>`
-2. Escrever em `E:/scholion/content/notes/<slug>/index.md`
-3. Confirmar que o `poster.<ext>` já está no folder (baixado no passo 12)
-4. Build sanity check: `cd /e/scholion && hugo --quiet` — abortar se exit ≠ 0
-5. `git add content/notes/<slug>/`
-6. Gravar o marcador do commit-gate (a nota já foi auditada no passo 15 — evita re-auditoria no portão):
-   ```powershell
-   $o = git -C E:\scholion rev-parse ":content/notes/<slug>/index.md"
-   New-Item -ItemType Directory -Force E:\scholion\.ghost-audit | Out-Null
-   Set-Content "E:\scholion\.ghost-audit\$o.ok" $o
+1. Criar a pasta e mover o poster:
+   ```bash
+   mkdir -p E:/scholion/content/notes/<slug> && mv "<scratchpad>/<slug>-poster.<ext>" E:/scholion/content/notes/<slug>/poster.<ext>
    ```
-7. `git commit -m "note: <título>"`
-8. `git push` (se houver remoto configurado)
+2. `Write` em `E:/scholion/content/notes/<slug>/index.md`, depois `/style-test` (pipeline passo 9).
+3. Marcador, commit e push: pipeline passos 10, 11 e 13 na forma bundle (`rev-parse ":content/notes/<slug>/index.md"`; `commit --only ... -- content/notes/<slug>/`). Build: passo 12, uma vez por sessão.
 
 ## Regras
 
-- **Voz e estilo**: corpo segue as regras da skill `ghost-writer`.
-- **`date` é OBRIGATÓRIO** com formato ISO 8601 + offset.
-- **`category: movie` é OBRIGATÓRIO** — aciona o ícone 🎦 e a cor azul-céu.
-- **Tags de diretor são OBRIGATÓRIAS**.
-- **Sempre perguntar com quem assistiu** antes do preview. Se acompanhado, gerar uma tag por pessoa (kebab-case, sem prefixo). Se sozinho, **nenhuma tag de companhia** — sozinho é o caso default e não vira tag.
-- **Poster local é OBRIGATÓRIO**: a nota vai num folder `<slug>/` com `index.md` + `poster.<ext>`. Nunca embedar URL externo, sempre baixar o arquivo.
-- **Sem spoilers**: summary e corpo descrevem premissa, não revelam reviravoltas.
-- **Escalas de 0 a 5** (`rating`, `morbius`, e o que houver em `data/scales.yaml`): nunca perguntar o valor. Só registrar se o autor der o número. Mencionar no preview que estão disponíveis.
-- Sem campo `lang`.
-- Sem `Co-Authored-By Claude` no commit.
-- Não tocar em `E:/silva/src/content/note/`.
-- **Nunca inventar ficha técnica** — só registrar dados verificados.
-- Build sanity check antes do commit.
+- **`category: movie` é obrigatório** — aciona o ícone 🎦 e a cor azul.
+- **Tag de diretor é obrigatória.** Companhia só se acompanhado.
+- **Poster local é obrigatório**; nunca embedar URL externo.
+- **Escalas**: nunca perguntar o valor; só registrar se o autor der o número.
+- **Nunca inventar ficha técnica.**
+- Sem `Co-Authored-By` no commit (pipeline passo 11).
+- Silvae congelado para notas (pipeline passo 14).

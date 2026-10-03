@@ -25,7 +25,7 @@ title: "Pesquisa Viva: [Tema]"
 date: <timestamp>
 summary: "[pergunta central ou descrição enxuta]"
 tags: ["pesquisa-viva", ...]
-status: "em andamento"  # em andamento | pausada | concluída
+status: "em andamento"  # em andamento | pausada | concluída | publicada (este último é gravado por /publish-research)
 toc: true
 ---
 ```
@@ -58,6 +58,12 @@ toc: true
 (Para confirmar com o autor antes de aprofundar. Cada uma é exaurida antes de passar à próxima.)
 
 ### 1. ...
+
+- **Fonte** (autor, obra, ano, edição) ✓ — o que foi verificado nela. Links: [Site](URL)
+
+## Texto em andamento
+
+(Só existe quando o autor começa a compor; a IA não cria esta seção por conta própria. É esta seção que `/publish-research` extrai para o Silvae e que `/treinar-apresentacao` usa como roteiro.)
 
 ## Notas do Scholion já relacionadas
 
@@ -94,7 +100,7 @@ Aplicar a todas as pesquisas. Não duplicar nas seções "Método" das pesquisas
 ### Cross-references e navegação
 
 - **Menções a outras notas ou pesquisas devem virar links markdown clicáveis**: `[slug](/notes/slug)` ou `[slug](/research/slug)`. Nunca apenas backticks com o slug nu — quebra a navegação.
-- **Links de fontes externas** ficam inline no bloco da fonte (linha "Links:" no final do bloco). Nunca criar seção separada de "Referências" — duplica informação.
+- **Links de fontes externas** ficam inline no bloco da fonte (linha "Links:" no final do bloco). Nunca criar seção separada de "Referências" — duplica informação. É das linhas `Links:` dos blocos marcados ✓ que `/publish-research` monta as `sources` do post; bloco sem `Links:` não vira source.
 
 ### Notas extraídas
 

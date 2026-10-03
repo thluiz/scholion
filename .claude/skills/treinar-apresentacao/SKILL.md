@@ -1,6 +1,6 @@
 ---
 name: treinar-apresentacao
-description: Publica e mantém uma página web privada (Artifact) para ensaiar uma apresentação oral cujo roteiro está no "Texto em andamento" de uma pesquisa viva do Scholion: relógio real por bloco, texto do roteiro como teleprompter, transcrição ditada pelo teclado, avaliação pelo Claude contra o roteiro e as fontes de cada ponto, histórico de tentativas. Depois, lê as tentativas e propõe ajustes no roteiro da pesquisa. Use quando o autor quiser treinar, ensaiar ou cronometrar uma apresentação, fala, aula ou gravação, ou quando pedir para revisar o roteiro a partir dos treinos.
+description: 'Publica e mantém uma página web privada (Artifact) para ensaiar uma apresentação oral cujo roteiro está no "Texto em andamento" de uma pesquisa viva do Scholion: relógio real por bloco, texto do roteiro como teleprompter, transcrição ditada pelo teclado, avaliação pelo Claude contra o roteiro e as fontes de cada ponto, histórico de tentativas. Depois, lê as tentativas e propõe ajustes no roteiro da pesquisa. Use quando o autor quiser treinar, ensaiar ou cronometrar uma apresentação, fala, aula ou gravação, ou quando pedir para revisar o roteiro a partir dos treinos.'
 argument-hint: "<slug da pesquisa> | atualizar <slug> | revisar <slug>"
 ---
 

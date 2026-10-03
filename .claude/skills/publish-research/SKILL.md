@@ -24,22 +24,29 @@ Extrair apenas o conteúdo da seção `## Texto em andamento` (do heading até o
 
 ### 3. Converter URLs internas
 
-Links internos do Scholion (`/notes/...`, `/tags/...`) precisam virar URLs absolutas para o site do Scholion:
+Links internos do Scholion (`/notes/...`, `/research/...`, `/tags/...`) precisam virar URLs absolutas para o site do Scholion:
 - `/notes/slug/` → `https://scholion.thluiz.com/notes/slug/`
+- `/research/slug/` → `https://scholion.thluiz.com/research/slug/`
 - `/tags/slug/` → `https://scholion.thluiz.com/tags/slug/`
 
 Links externos (https://...) ficam como estão.
 
 ### 4. Extrair fontes
 
-Extrair todas as entradas da seção `## Fontes ✓` da pesquisa. Cada entrada no formato `- Título — [Site](URL) ✓` vira uma source no frontmatter do Silvae:
+As pesquisas não têm seção de referências separada (regra da skill `research`): cada fonte verificada é um bloco marcado ✓ com uma linha `Links:` ao final. Montar as `sources` do post a partir de:
+
+1. Linhas `Links:` dos blocos marcados ✓ em qualquer seção (título do bloco → `title`; cada URL da linha → uma `url`). Blocos sem `Links:` ficam de fora.
+2. Entradas de `## Notas do Scholion já relacionadas` e `## Notas extraídas` → `title` da nota, `url: https://scholion.thluiz.com/notes/<slug>/`.
+3. Se a pesquisa tiver uma seção `## Fontes*` (pesquisas antigas: `## Fontes ✓`, `## Fontes verificadas`, `## Fontes (data)`), incluir as entradas dela também.
+
+Cada source no frontmatter do Silvae:
 
 ```yaml
   - title: "Título"
     url: "URL"
 ```
 
-Fontes de imagens usadas no texto (fotos, capas, screenshots) devem incluir `kind: image` e, se conhecidos, `author`.
+Fontes de imagens usadas no texto (fotos, capas, screenshots) devem incluir `kind: image` e, se conhecidos, `author`. A lista montada entra no preview (ver Regras) para o autor cortar o que o texto publicado não usa.
 
 ### 5. Criar post no Silvae
 
@@ -50,7 +57,7 @@ Criar pasta `E:/silva/src/content/post/<slug>/` e escrever `index.md`:
 title: "<título da pesquisa, sem 'Pesquisa Viva:'>"
 description: "<summary da pesquisa>"
 publishDate: "<YYYY-MM-DD de hoje>"
-tags: [<tags da pesquisa, sem "pesquisa-viva", formato silvae com espaços>]
+tags: [<tags da pesquisa, sem "pesquisa-viva", em kebab-case como no Scholion; o schema do Silvae só aplica lowercase>]
 lang: "pt"
 sources:
   <fontes de imagens primeiro (kind: image), depois fontes textuais>
@@ -79,18 +86,20 @@ No arquivo original da pesquisa:
 
    **Voz e forma do resumo:**
    - **Primeira pessoa.** O autor é o Thiago; nunca referir-se a ele como "o Thiago" ou "a fala do Thiago". Usar "na minha vez", "puxei", "complemento".
-   - **Parágrafos curtos**, não um único bloco corrido. Quebrar por seção lógica do post (abertura, falas dos irmãos, minha fala, comentário do Si Fu, fechamento).
+   - **Parágrafos curtos**, não um único bloco corrido. Quebrar por seção lógica do post (abertura, cada bloco temático, fechamento).
 6. Manter as demais seções (Rascunhos, Notas extraídas, Fontes, Notas de contexto) intactas.
 
 ### 7. Build e commit
 
-1. `cd /e/scholion && hugo --quiet` — abortar se falhar.
-2. No Scholion: `git add content/research/<slug>.md` + commit `"research: publicar [tema]"` + push.
-3. No Silvae: `cd /e/silva && git add src/content/post/<slug>/` + commit `"feat: [título]"` + push.
+1. `hugo --quiet` em `E:/scholion` — abortar se falhar.
+2. No Scholion: `git -C E:/scholion add content/research/<slug>.md` + commit `"research: publicar [tema]"` + push.
+3. No Silvae: `git -C E:/silva add src/content/post/<slug>/` + commit `"feat: [título]"` + push.
 
-### 8. Aguardar pipeline antes de dizer "publicado"
+### 8. Reportar como "pushed", não "publicado"
 
-Após o push do Silvae, o deploy para S3+CloudFront ainda está rodando. Usar "pushed" / "enviado" ao relatar o estado. Só dizer "publicado" / "no ar" / "live" após confirmar `gh run list --repo thluiz/silva --limit 2` mostrar o workflow "Deploy to S3 + CloudFront" como `completed success`.
+Após o push do Silvae, o deploy para S3+CloudFront ainda está rodando. Relatar "pushed" / "enviado" e seguir; não ficar monitorando o pipeline. Só dizer "publicado" / "no ar" / "live" se o autor pedir confirmação e `gh run list --repo thluiz/silva --limit 2` mostrar o workflow "Deploy to S3 + CloudFront" como `completed success`.
+
+Se a pesquisa tiver dossiê de voz ou página de treino (`fontes-privadas/voz/<slug>/README.md`), avisar o autor que eles passam a refletir o texto congelado em `## Texto Publicado`; `/dossie-voz` e `/treinar-apresentacao` não são atualizados por esta skill.
 
 ## Regras
 

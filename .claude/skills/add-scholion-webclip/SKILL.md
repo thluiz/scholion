@@ -35,7 +35,9 @@ mostrar ao autor antes de qualquer preview, escrita ou commit.
 - **PROIBIDO substituir por checklist mental.** Sem o JSON da resposta do `compose` visto, a auditoria não aconteceu.
 - **Fail-open**: se `http://localhost:8080/api/webclip/health` não responder, dizer isso explicitamente ao autor e perguntar como proceder — **não** cair silenciosamente para composição manual. Isso reabriria o problema de custo de token que essa API existe pra resolver.
 
-Notas `quote` (passo 5) continuam usando o fluxo antigo de `add-scholion-quote`, com sua própria chamada de `ghost-audit` HTTP — inalterado por esta skill.
+Notas `quote` (passo 5) seguem `add-scholion-quote`, com seu próprio portão (`/ghost-audit`, pipeline passo 7 de `add-scholion-note/references/note-pipeline.md`) — inalterado por esta skill.
+
+Passos de pipeline que esta skill reaproveita do `note-pipeline.md`: 10 (marcador), 11 (commit `--only`), 13 (push e relato), 14 (Silvae). Hora, slug, YAML, composição e preview são próprios desta skill (vêm do `compose`).
 
 ---
 
@@ -65,6 +67,8 @@ $body = @{ url = '<url original>' } | ConvertTo-Json
 $r = Invoke-RestMethod -Uri 'http://localhost:8080/api/webclip/webclip/compose' -Method Post -Headers @{ 'X-Api-Key' = $webclipKey } -ContentType 'application/json; charset=utf-8' -Body ([Text.Encoding]::UTF8.GetBytes($body)) -TimeoutSec 300
 ```
 
+**Toda chamada de `compose` (modo URL, texto, arquivo, recompose com `relatedNotes`) vai na tool call com `timeout: 330000`.** O default da tool (120 s) é menor que o `-TimeoutSec 300`: o comando é mandado para background e o fluxo trava esperando um resultado que nunca volta.
+
 Sucesso (HTTP 201): `$r` traz `operationId`, `clipping` (title/url/domain/capturedAt/markdown), `note` (slug/title/summary/tags/language/body), `audit` (verdict/findings/summary), `expiresAt`. Guardar `operationId` — é a chave de tudo daqui pra frente.
 
 **Erro — decidir pelo `error.code`** (`Invoke-RestMethod` lança exceção em 4xx/5xx; ler o corpo do erro via `$_.ErrorDetails.Message | ConvertFrom-Json`):
@@ -75,13 +79,13 @@ Sucesso (HTTP 201): `$r` traz `operationId`, `clipping` (title/url/domain/captur
 | `blocked_domain`, `consent_wall_unresolved`, `thin_content` (`retryable: false`) | Cair direto pro fallback Claude in Chrome — repetir a mesma chamada não muda nada. |
 | Serviço inatingível (erro de conexão, não HTTP) | **Fail-open**: avisar o autor explicitamente, perguntar como proceder. Não presumir contingência manual sozinho. |
 
-**Fallback Claude in Chrome** (sessão real e logada do autor, que o Playwright headless do serviço não tem): `tabs_context_mcp` → `tabs_create_mcp` → `navigate(url)` → `get_page_text(tabId)` → capturar título da tab → `tabs_close_mcp`. Depois, repetir o `compose` em modo texto:
+**Fallback Claude in Chrome** (sessão real e logada do autor, que o Playwright headless do serviço não tem): carregar a skill `claude-in-chrome` antes de qualquer tool `mcp__claude-in-chrome__*`; depois `tabs_context_mcp` → `tabs_create_mcp` → `navigate(url)` → `get_page_text(tabId)` → capturar título da tab → `tabs_close_mcp`. Gravar o texto capturado em `<scratchpad>/<dominio>-page.txt` (`Write`, UTF-8) e repetir o `compose` em modo texto, lendo do arquivo — nunca o texto inline em aspas (apóstrofo ou texto longo quebra o comando):
 
 ```powershell
-$body = @{ text = '<texto capturado>'; title = '<título da tab>'; url = '<url original>'; domain = '<dominio sem www., pontos trocados por ->' } | ConvertTo-Json
+$body = @{ text = (Get-Content -Raw -Encoding UTF8 '<scratchpad>/<dominio>-page.txt'); title = '<título da tab>'; url = '<url original>'; domain = '<dominio sem www., pontos trocados por ->' } | ConvertTo-Json
 ```
 
-**Modo arquivo `.md`**: ler o arquivo. Se já tiver frontmatter de clipping (`url`/`title`/`domain`/`captured_at`), reaproveitar todos os quatro — `captured_at` vira `capturedAt` no body do `compose` (o endpoint aceita esse override pra não perder o timestamp original nem o mês `<YYYY-MM>` de captura real). Se não tiver frontmatter, perguntar URL de origem (obrigatória) e título; nesse caso `capturedAt` fica de fora e o endpoint usa "agora". Corpo do arquivo vira `text`.
+**Modo arquivo `.md`**: ler o arquivo. Se já tiver frontmatter de clipping (`url`/`title`/`domain`/`captured_at`), reaproveitar todos os quatro — `captured_at` vira `capturedAt` no body do `compose` (o endpoint aceita esse override pra não perder o timestamp original nem o mês `<YYYY-MM>` de captura real). O servidor exige `capturedAt` no formato `2026-01-09T13:09:52-03:00` e rejeita `2026-01-09T13:09:52 (UTC -03:00)` (forma dos clippings legados): tirar o espaço e o invólucro `(UTC `/`)`, concatenando o offset direto no timestamp. Se não tiver frontmatter, perguntar URL de origem (obrigatória) e título; nesse caso `capturedAt` fica de fora e o endpoint usa "agora". Corpo do arquivo vira `text`, passado via `(Get-Content -Raw -Encoding UTF8 '<path>')` como acima.
 
 ### 2. Search-first interativo
 
@@ -101,6 +105,11 @@ Isso gera um `operationId` novo (já auditado de novo) — usar esse daqui pra f
 
 Mostrar ao autor: `title`, `summary`, `tags`, `body` (resumo + fichamento), e o `audit` inteiro (verdict + findings) — aplicando as regras do PORTÃO OBRIGATÓRIO acima. Um trecho de `clipping.markdown` também ajuda o autor a conferir que a extração pegou o conteúdo certo (não menu/paywall/newsletter). Aguardar confirmação explícita antes de salvar.
 
+**Checklist de idioma** (julgado na nota, não na fonte), conferido no preview:
+- Um idioma só por nota, o da página, incluindo o `title` do frontmatter. Nota em inglês: heading `## Reading notes`, summary/lead/bullets/tags em inglês. Nota em português: heading `## Fichamento`, tudo em PT-BR, inclusive tags. Fonte em PT-EU é aceitável; nota redigida em PT-EU, não.
+- Tags sem acento.
+- **Única edição permitida sem recompor: tags** (tirar acentos; traduzir se só as tags estiverem no idioma errado). Qualquer outra divergência → recompor. Corrigir tags antes do `git add` e antes do marcador.
+
 ### 4. Salvar
 
 ```powershell
@@ -111,23 +120,26 @@ $s = Invoke-RestMethod -Uri "http://localhost:8080/api/webclip/webclip/$($r.oper
 `mode: "return"` — não `"commit"` — porque o commit precisa acontecer no repo local do autor (`E:\scholion`), não no clone próprio do serviço em HermesTools (ver Decision 9 do README do scholion-webclipper: `"commit"` é pro Claudinho/agente autônomo, sem working tree local; `"return"` é pra quem já tem um checkout, como esta skill). `$s` traz `slug`, `notePath`, `clippingPath`, `clippingContent`, `noteContent` prontos — usar como vieram, sem editar (editar exigiria recompor, ver Decision 8).
 
 1. Escrever os dois arquivos em `E:\scholion\<clippingPath>` e `E:\scholion\<notePath>` (criar diretórios se preciso).
-2. `git add` os dois caminhos.
-3. **Marcador do gate, a partir do veredito que já temos** — não deixar o hook `ghost-audit-gate.ps1` reauditar a nota (ela já foi auditada no `compose`; ver Decision 10 do README do scholion-webclipper). Só gravar se `audit.verdict` for `green` ou `yellow` — nunca pra um `red` não resolvido:
+2. `git -C E:\scholion add <clippingPath> <notePath>` (só esses dois caminhos).
+3. **Marcador do gate, a partir do veredito que já temos** (pipeline passo 10) — não deixar o hook `ghost-audit-gate.ps1` reauditar a nota (ela já foi auditada no `compose`; ver Decision 10 do README do scholion-webclipper). Só gravar se `audit.verdict` for `green` ou `yellow` — nunca pra um `red` não resolvido:
    ```powershell
    $o = git -C E:\scholion rev-parse ":$($s.notePath)"
    New-Item -ItemType Directory -Force E:\scholion\.ghost-audit | Out-Null
-   Set-Content "E:\scholion\.ghost-audit\$o.ok" $o
+   Set-Content -LiteralPath "E:\scholion\.ghost-audit\$o.ok" -Value $o
    ```
-4. **Um commit só**, cobrindo clipping + nota juntos (diferente da convenção antiga de dois commits — ver Decision 5/9 do scholion-webclipper: o `save` é uma decisão atômica do autor, não dois artefatos independentes): `git commit -m "webclip: $($s.slug)"`.
-5. `git push` (se houver remoto).
+4. **Um commit só**, cobrindo clipping + nota juntos (diferente da convenção antiga de dois commits — ver Decision 5/9 do scholion-webclipper: o `save` é uma decisão atômica do autor, não dois artefatos independentes), sempre com `--only` e os dois caminhos explícitos (pipeline passo 11; o repo tem stagers concorrentes):
+   ```bash
+   git -C E:/scholion commit --only -m "webclip: <slug>" -- <clippingPath> <notePath>
+   ```
+5. `git -C E:/scholion push` (se houver remoto) e relatar "pushed `<hash>`", nunca "publicado" (pipeline passo 13). Sem build do Hugo (pipeline passo 12).
 
 ### 5. Notas de citação (se houver frases)
 
 Para cada frase recebida, gerar uma nota `category: quote` reaproveitando `add-scholion-quote`, **exceto**:
 - **Pular a pesquisa externa de autoria** (Quote Investigator/Wikiquote/web search) — autor e URL já são conhecidos, vêm do clipping desta mesma página.
-- `sources`: mesma URL do webclip (`$r.clipping.url`), `kind` igual ao inferido pelo endpoint (visível em `renderNote`/`inferSourceKind` do scholion-webclipper, mesma tabela de `add-scholion-note`).
+- `sources`: mesma URL do webclip (`$r.clipping.url`), `kind` igual ao inferido pelo endpoint (`inferSourceKind` em `E:\scholion-webclipper\src\webclip\model.ts`, mesma tabela do pipeline passo 4).
 
-Mantém do `add-scholion-quote`: tag do autor obrigatória, ghost-writer, ghost-audit (chamada própria, separada — inalterada), preview, commit próprio por nota.
+Mantém do `add-scholion-quote`: tag do autor obrigatória, ghost-writer, portão `/ghost-audit` (pipeline passo 7), preview, marcador e commit `--only` próprio por nota (pipeline passos 10–11).
 
 ## Regras
 
@@ -135,9 +147,9 @@ Mantém do `add-scholion-quote`: tag do autor obrigatória, ghost-writer, ghost-
 - **`captured_at`/`date` são OBRIGATÓRIOS** com timestamp real — o `compose` já cuida disso (agora, ou o `capturedAt` do modo arquivo); nunca inventar um valor manualmente.
 - **`category: webclip` é OBRIGATÓRIO** na nota principal — o servidor já garante isso na renderização.
 - Clipping bruto nunca é colado verbatim na nota — a nota é sempre prosa composta (garantido pelo prompt do servidor).
-- **Um commit cobre clipping + nota juntos** (passo 4, item 4) — não é mais "um commit por artefato" pra esses dois; notas `quote` do passo 5 continuam com commit próprio cada.
+- **Um commit cobre clipping + nota juntos** (passo 4, item 4), sempre `--only` com caminhos explícitos — não é mais "um commit por artefato" pra esses dois; notas `quote` do passo 5 continuam com commit próprio cada.
 - Sem `Co-Authored-By Claude` em nenhum commit.
-- Não tocar em `E:/silva/src/content/note/`.
+- Silvae congelado para notas (pipeline passo 14).
 - **Nunca inventar** conteúdo do fichamento além do que está no texto capturado — garantido pelo prompt do servidor, mas o preview (passo 3) é a última checagem humana disso.
 - Sem build do Hugo por nota: quem compila é o `\Claude\ScholionPublish` (a cada 30 min). Um build completo do site por item só gasta CPU.
 - A API key da skill vive só em `C:\Users\conta\.claude\secrets\scholion-webclipper.key` — nunca em texto plano em nenhum arquivo deste repo.
