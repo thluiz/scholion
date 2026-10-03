@@ -50,6 +50,7 @@ Argumento: slug da pesquisa, e opcionalmente um foco (uma direção, um capítul
 5. **Escrever**:
    - Doc novo: nascer com o esqueleto (um bloco `pending` por seção), abrir, preencher seção a seção.
    - Doc existente: ler (`read` com `sinceRev` ou `outline`), trocar só as seções que mudaram. Edições que o autor fez no doc vencem; nunca usar `force`.
+   - Aba "Do Scholion", sempre: o corpo das notas do Scholion que a pesquisa linka (seção "Notas do Scholion já relacionadas" e links do Estado e das direções), uma seção por nota, com slug e URL pública (`https://scholion.thluiz.com/notes/<slug>/`). Sobe pelo mecanismo de "Subir texto longo para uma aba", a partir de um `.md` gerado com os corpos sem frontmatter. Atualizar a aba quando a lista de notas da pesquisa mudar.
 6. **Marcar na pesquisa e registrar**: no Estado da pesquisa, a linha `- **Dossiê de voz**: v<N>, sincronizado em <data> (link em fontes-privadas/voz/<slug>/README.md)`; `hugo --quiet`; commit `research: dossiê de voz v<N> em <tema>`. Com o hash desse commit, escrever a linha de sincronização no doc e atualizar `fontes-privadas/voz/<slug>/README.md` (link, data, v<N>, hash, rev). Commit no submódulo + push, e ponteiro no Scholion.
 7. **Entregar**: uma linha com o link e como usar: abrir o Claude no celular, conversa nova com o conector Claude Docs ativo, pedir "leia o doc <título>" e ligar o modo voz.
 
@@ -101,6 +102,7 @@ FECHAMENTO — <unidade> — <data>
 - **Source-or-silence vale no doc.** A IA de voz repete o que lê como fato. Nada de etimologia, datação ou atribuição sem fonte; o que a pesquisa marca ⚠ ou `?` vai para Pendências.
 - **Citações**: só as conferidas, curtas (obra com direito autoral: frases, não parágrafos), com referência.
 - **O doc é privado.** Nunca compartilhar: carrega paráfrase, citação e, por decisão do autor, o texto integral das fontes privadas que ele usa como base de pesquisa.
+- **Notas do Scholion no doc, não por link.** A IA de voz não tem acesso confiável à web: o modo voz nem sempre tem fetch, e a skill do chat só deixa citar o que está no dossiê. Toda nota que a pesquisa linka vai inteira na aba "Do Scholion"; o link fica como referência, não como fonte.
 - **Fontes integrais**: aba "Fontes" com os textos de domínio público (trecho usado + link) e, em sub-abas, o texto integral da fonte privada, um capítulo por aba. No modo automático o upload de texto protegido é barrado pelo classificador; fazer com o autor fora do modo automático, aprovando o passo.
 - **Escrita**: frases curtas, PT-BR, sem floreio. A IA vai falar isso em voz alta.
 
