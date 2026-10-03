@@ -19,6 +19,7 @@ toc: true
 
 - **Em foco**: direção 1, origem e histórico.
 - **Próximo**: direção 2 (usos atuais), depois 3 e 4 (pesquisa científica e teóricos da pedagogia), e por fim 5 (domínios e fases do Ving Tsun).
+- **Dossiê de voz**: v1, sincronizado em 2026-10-03 (link em fontes-privadas/voz/sau-po-lei/README.md)
 - Pesquisa-irmã: [Apresentando Cham Kiu](/research/apresentando-cham-kiu), onde Sau Po Lei entrou como leitura dos três domínios iniciais e ficou registrada a falta de fonte para a origem da doutrina. Esta pesquisa resolve essa pendência.
 
 ## Motivação
