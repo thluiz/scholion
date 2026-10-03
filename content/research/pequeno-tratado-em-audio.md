@@ -22,6 +22,7 @@ toc: true
 ## Estado
 
 - **Em foco**: episódio de abertura sobre o que é uma virtude, com a definição fechada em 2026-10-01 (7.1), a sabedoria como horizonte (8.2) e os três presentes de Agostinho como possível arquitetura da série (7.4). A série tem 21 episódios (8.1).
+- **Dossiê de voz**: v1, sincronizado em 2026-10-03 (link em `fontes-privadas/voz/pequeno-tratado-em-audio/README.md`).
 - **Próximo**: (a) dossiê das 18 virtudes capítulo por capítulo, com trechos citáveis (pedido do autor). (b) Dar família às virtudes que ainda não têm (7.4). (c) Desenvolver a noção de "papel". (d) A curiosidade como candidata (7.5). (e) Os `?` que restam em 5.3: estoicos, *kathékon*, tradição chinesa. (f) Curar a lista de outras virtudes pelo filtro da definição (8.3). (g) Decidir onde Weil entra: no episódio do amor ou no da humildade (9.3).
 - **Pesquisas-irmãs**:
   - [discursos-protrepticos](/research/discursos-protrepticos/) — Comte-Sponville é um protréptico moderno explícito; o tratado é exercício de conversão à filosofia prática.
