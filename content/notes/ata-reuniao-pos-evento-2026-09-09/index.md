@@ -9,7 +9,7 @@ sources:
   - title: "Reunião de planejamento de eventos — 09/09/2026 (gravação)"
     url: "https://drive.google.com/file/d/1fveW8yJ5ESFVsfp7Ap7ZuMMv7HoVclj3/view?usp=drive_web"
     kind: video
-_build:
+build:
   list: never
   render: always
 ---
