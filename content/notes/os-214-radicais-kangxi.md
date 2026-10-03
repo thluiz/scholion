@@ -52,7 +52,7 @@ Estes são os radicais mais frequentes nos caracteres do dia a dia. Comece por e
 - [火](/notes/etimologia-de-foh-huo-706b/) / 灬 huǒ — fogo (烧, 热)
 - [木](/notes/etimologia-de-muk-mu-6728/) mù — árvore (林, 树)
 - [土](/notes/etimologia-de-tou-tu-571f/) tǔ — terra (地, 城)
-- [山](/notes/etimologia-de-shan-shan/) shān — montanha (岛)
+- [山](/notes/etimologia-de-saan-shan-5c71/) shān — montanha (岛)
 - [日](/notes/etimologia-de-yat-ri-65e5/) rì — sol (时, 明)
 - [月](/notes/etimologia-de-jyut-yue-6708/) yuè — lua (期, 朋)
 - [雨](/notes/etimologia-de-jyu-yu-96e8/) yǔ — chuva (雪, 雷)
@@ -155,7 +155,7 @@ Os radicais que são caracteres plenos têm nota de etimologia própria (`etimol
 | 43 | [尢](/notes/glossario-dos-radicais-primitivos/#尢--radical-43-wang) (尣) | wāng | coxo |
 | 44 | [尸](/notes/etimologia-de-si-shi-5c38/) | shī | cadáver |
 | 45 | [屮](/notes/glossario-dos-radicais-primitivos/#屮--radical-45-che) | chè | broto |
-| 46 | [山](/notes/etimologia-de-shan-shan/) | shān | montanha |
+| 46 | [山](/notes/etimologia-de-saan-shan-5c71/) | shān | montanha |
 | 47 | [巛](/notes/glossario-dos-radicais-primitivos/#巛--radical-47-chuan) (川) | chuān | rio |
 | 48 | [工](/notes/etimologia-de-gung-gong-5de5/) | gōng | trabalho |
 | 49 | [己](/notes/etimologia-de-gei-ji-5df1/) | jǐ | a si mesmo |

@@ -3,7 +3,7 @@ title: "Etimologia de 山 (Saan — Shān / saan1)"
 date: '2026-06-16T15:55:12+01:00'
 summary: "O pictograma de montanha, radical Kangxi nº 46. O Shuowen lê 山 paronomasticamente como 宣也 'difundir', dispersando o qi e gerando os dez mil seres; a paleografia lê três picos lado a lado."
 toc: true
-tags: ["china", "linguagem", "etimologia", "ideogramas", "radicais"]
+tags: ["china", "linguagem", "etimologia", "ideogramas", "radicais", "ving-tsun"]
 category: etymology
 has_commentary: false
 sources:
@@ -26,6 +26,7 @@ sources:
 - title: 漢語多功能字庫 (CUHK)
   url: https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/
   kind: wiki
+aliases: ["/notes/etimologia-de-shan-shan/"]
 ---
 
 É o radical Kangxi nº 46 (山, montanha); o chardb lista 1.009 caracteres que o contêm como componente. É um dos radicais que mantém a mesma forma em qualquer posição — sem variante gráfica abreviada. Ver [Os 214 radicais Kangxi](/notes/os-214-radicais-kangxi/).

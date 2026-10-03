@@ -39,7 +39,7 @@ Nome kung fu de Si Hing (師兄) Carlos Antunes.
 
 ### 山 (shān / saan1)
 
-> Ver etimologia completa: [`/notes/etimologia-de-shan-shan/`](/notes/etimologia-de-shan-shan/)
+> Ver etimologia completa: [`/notes/etimologia-de-saan-shan-5c71/`](/notes/etimologia-de-saan-shan-5c71/)
 
 Pictograma. Três picos, o do meio mais alto. Uma das formas mais antigas do chinês. Não se decompõe em outros caracteres.
 
