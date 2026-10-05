@@ -17,7 +17,7 @@ toc: true
 
 ## Estado
 
-- **Em foco**: direção 1, origem e histórico, fechada no que é possível sem Fujiwara (1993) e sem o 『茶道古典全集』 vol. 10. Revisão de 2026-10-05 corrigiu o rascunho anterior: o termo vem de 兵法 e entra no chá pelo *Chawa-shō*; Fuhaku não o cunha; o poema de Rikyū é provavelmente posterior. Agora: rastrear a origem nos textos militares.
+- **Em foco**: direção 1, origem e histórico, fechada no que é possível sem Fujiwara (1993) e sem o 『茶道古典全集』 vol. 10. Revisão de 2026-10-05 corrigiu o rascunho anterior: o termo vem de 兵法 e entra no chá pelo *Chawa-shō*; Fuhaku não o cunha; o poema de Rikyū é provavelmente posterior. Agora: rastrear a origem nos textos militares. *Kōyō Gunkan* descartado (busca no texto integral); textos mais antigos encontrados (apêndice de Joshinsai, *Fuhaku Hikki*, Chiba) tratam o termo como herdado. Próximo alvo: busca por script em 伝書 de esgrima (天狗芸術論, 一刀斎先生剣法書, 五輪書, 兵法家伝書).
 - **Próximo**: direção 2 (usos atuais), 3 e 4 (pesquisa científica e teóricos da pedagogia), e por fim 5 (domínios e fases do Ving Tsun).
 - **Dossiê de voz**: v1, sincronizado em 2026-10-03 (link em fontes-privadas/voz/sau-po-lei/README.md)
 - Pesquisa-irmã: [Apresentando Cham Kiu](/research/apresentando-cham-kiu), onde Sau Po Lei entrou como leitura dos três domínios iniciais e ficou registrada a falta de fonte para a origem da doutrina. Esta pesquisa resolve essa pendência.
@@ -45,8 +45,12 @@ O autor precisa escrever um guia sobre a doutrina. A pesquisa [Apresentando Cham
 - `?` Data do *Fuhaku Hikki*: 1749 (『剣道事典』, via NDL/Kuki), c. 1760 (blog), 1794 (sem fonte).
 - ✓ Zeami: 守破離 não aparece nos 23 tratados indexados no 『世阿弥伝書用語索引』; o que há é 序破急. Atribuição a Zeami é confusão entre os dois. Links: [NDL/Kuki](https://crd.ndl.go.jp/reference/entry/index.php?id=1000029440&page=ref_view)
 - ⚠ Poema 「規矩作法 守り尽くして 破るとも 離るるとても本を忘るな」, do *Rikyū Hyakushu*: coletânea montada por Gengensai (玄々斎, 1810–1877, 11º da Urasenke) e atribuída a Rikyū. Provavelmente posterior a Fuhaku, não precursor. Falta fonte acadêmica.
-- `?` *Kōyō Gunkan* como fonte militar: afirmado pelo 『角川茶道大事典』, não localizado por leitor de quatro traduções modernas (note.com).
-- ⚠ Chiba Shūsaku, 『剣法秘訣』 (séc. XIX): 「守はまもるをいふて、その流の趣意を守ることにて…」「破はやぶるといふて」「離ははなるるといふて」. Primeiro uso explícito em esgrima localizado; ausente em Musashi e Yagyū Munenori. Via Matsuoka Seigō, resenha de Fujiwara. Links: [1000ya](https://1000ya.isis.ne.jp/1252.html)
+- ✓ 『茶話抄附録(如心齋傳法)』, transcrito em 田中仙樵『茶禅一味』 (光融館, 1905, p. 277–278): 「一軍法には守破離とあり是れ茶道の極意 守は下手 尤も常體の下手とは違ひ候…守株待兎 破は上手 尤も常の破とは違ひて破るなり 時によつて守るも法を破るも法なり 見風使帆 離は名人 尤も常の離れたるとは違ひ事を盡し離れて守る 應無所住而生其心」. A passagem é atribuída à transmissão de Joshinsai, mestre de Fuhaku. Transcrição via OCR da NDL; grafia a conferir na imagem. Links: [NDL Digital, 823364](https://dl.ndl.go.jp/pid/823364/1/149)
+- ✓ Carta de Fuhaku a Sottakusai (啐啄斎), em 田中仙樵『点茶漫筆』 (1932): 「種熟達と申て…前の守破離も是成るべし」. Links: [NDL Digital, 1139739](https://dl.ndl.go.jp/pid/1139739/1/10)
+- ✓ *Kōyō Gunkan*: 守破離 ausente do texto integral no Wikisource (edição Onkodō, 1892–93), buscado por script; os três ideogramas nunca aparecem a menos de 40 caracteres. Transcrição marcada 50%, pode ter lacunas. Contradiz o 『角川茶道大事典』. Links: [Wikisource](https://ja.wikisource.org/wiki/甲陽軍鑑)
+- ✓ Chiba Shūsaku (Narimasa), 『千葉成政先生夜話聞書』 (manuscrito, notas de Yamada Kanji): 「守敗離ト云コトアリ 守ハマモルト云テ其流ノ趣意ヲ守ルコトニテ…敗ハヤフルヽト云テ…離ハハナルヽト云テ…無念無想ノ場ニテ…此上ノナキ処ナリ」. Grafia 守敗離; contexto: redução dos oito graus de licença do Nakanishi-ha Ittō-ryū a três. Chiba também o apresenta como já existente. O 『剣法秘訣』 (Hirose Shinpei, 1884), citado por Matsuoka, é a edição impressa desse material. Links: [NDL Digital, 2538984](https://dl.ndl.go.jp/pid/2538984/1/10), [1000ya](https://1000ya.isis.ne.jp/1252.html)
+- ✓ 隈元実道『武道教範』 (1895): 「守破離三段の位ひに達して、而して元に歸すへし」, com um quarto momento, o retorno à origem. Links: [NDL Digital, 1086788](https://dl.ndl.go.jp/pid/1086788/1/29)
+- `?` Fonte militar anterior a 1750: não localizada. O apêndice de Joshinsai, o *Fuhaku Hikki* e Chiba remetem o termo a algo anterior, mas nenhum dá a fonte.
 - ⚠ Hipótese de Matsuoka Seigō: 守破離 teria começado no budismo, mais provavelmente no zen; nos mosteiros zen depois de Huineng 慧能, 種・花・果 (semente, flor, fruto) seriam lidos como 守・破・離, e o esquema teria passado pelo 苗・秀・実 de Zeami antes de chegar ao chá. O próprio Matsuoka diz que não tem prova: 「ぼくにも確証はない」. Links: [1000ya](https://1000ya.isis.ne.jp/1252.html)
 - Leitura de base pendente: 藤原稜三『守破離の思想』 (Baseball Magazine, 1993).
 - ✓ On-yomi dos três ideogramas (leitura sino-japonesa, via [Jisho.org](https://jisho.org)/KANJIDIC2): 守 = シュ shu / ス su; 破 = ハ ha; 離 = リ ri. Leituras cantonesas e etimologia clássica chinesa já nas notas do Scholion (ver abaixo).
