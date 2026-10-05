@@ -17,8 +17,8 @@ toc: true
 
 ## Estado
 
-- **Em foco**: direção 1, origem e histórico. Origem no chá (Kawakami Fuhaku, *Fuhaku Hikki*/*Chawa-shū*) e on-yomi dos três ideogramas já verificados; falta a formalização nas artes marciais modernas (Ueshiba, Endō Seishirō) e a data exata do *Fuhaku Hikki*.
-- **Próximo**: fechar direção 1 (artes marciais modernas), depois direção 2 (usos atuais), 3 e 4 (pesquisa científica e teóricos da pedagogia), e por fim 5 (domínios e fases do Ving Tsun).
+- **Em foco**: direção 1, origem e histórico, fechada no que é possível sem Fujiwara (1993) e sem o 『茶道古典全集』 vol. 10. Revisão de 2026-10-05 corrigiu o rascunho anterior: o termo vem de 兵法 e entra no chá pelo *Chawa-shō*; Fuhaku não o cunha; o poema de Rikyū é provavelmente posterior. Agora: rastrear a origem nos textos militares.
+- **Próximo**: direção 2 (usos atuais), 3 e 4 (pesquisa científica e teóricos da pedagogia), e por fim 5 (domínios e fases do Ving Tsun).
 - **Dossiê de voz**: v1, sincronizado em 2026-10-03 (link em fontes-privadas/voz/sau-po-lei/README.md)
 - Pesquisa-irmã: [Apresentando Cham Kiu](/research/apresentando-cham-kiu), onde Sau Po Lei entrou como leitura dos três domínios iniciais e ficou registrada a falta de fonte para a origem da doutrina. Esta pesquisa resolve essa pendência.
 
@@ -39,12 +39,16 @@ O autor precisa escrever um guia sobre a doutrina. A pesquisa [Apresentando Cham
 
 ### 1. Origem e histórico
 
-- ✓ Kawakami Fuhaku (川上不白, 1719–1807), mestre de chá do período Edo, fundador da escola Edo Senke, discípulo de Sen no Nyoshinsai (如心斎), 7º mestre da Omotesenke. Links: [Kotobank](https://kotobank.jp/word/%E5%B7%9D%E4%B8%8A%E4%B8%8D%E7%99%BD-15904)
-- ✓ *Fuhaku Hikki* (不白筆記) é o registro escrito por Fuhaku dos ensinamentos orais de Nyoshinsai. Contém a formulação mais antiga localizada do termo: 「守ハマモル、破ハヤブル、離ハはなると申候」. *Chawa-shū* (茶話集) traz uma segunda formulação: 「守は下手、破は上手、離は名人」 ("shu é o principiante, ha é o hábil, ri é o mestre"). Links: [pixy10.org, que cita os dois textos diretamente](https://pixy10.org/archives/5573123.html)
-- `?` Data de composição do *Fuhaku Hikki* não confirmada. Século XVIII, dentro da vida de Fuhaku, mas sem fonte catalográfica conferida diretamente (o catálogo da Biblioteca Nacional do Japão só registra uma reedição de 1979).
-- ⚠ Leitura de pixy10.org (não conferida contra o *Fūshikaden* diretamente): a atribuição comum a Zeami é equívoco. Ele trata de 序破急 (jo-ha-kyū), estrutura de apresentação no Nō, não do composto 守破離.
-- ✓ (citação) Sen no Rikyū, no poema atribuído a ele (*Rikyū Dōka*): 「規矩作法 守り尽くして 破るとも 離るるとても本を忘るな」. ⚠ Leitura de pixy10.org: apresenta os conceitos em prosa, não o composto fechado — seria precursor temático, não a cunhagem do termo. Autoria do poema dentro do corpus atribuído a Rikyū não verificada.
-- Formalização nas artes marciais japonesas modernas (Ueshiba, Endō Seishirō): ainda não verificado.
+- ✓ Kawakami Fuhaku (川上不白, 1719–1807), mestre de chá, discípulo de Joshinsai (如心斎), 7º da Omotesenke; desce a Edo em 1750 e funda a Edo Senke. Links: [Omotesenke](https://www.omotesenke.jp/chanoyu/7_7_23b_win01.html), [Kotobank](https://kotobank.jp/word/%E5%B7%9D%E4%B8%8A%E4%B8%8D%E7%99%BD-15904)
+- ✓ (via 『角川茶道大事典』, 1990, p. 642) 守破離 é originalmente termo de 兵法 (*Kōyō Gunkan* e outros) e entra no chá pelo 『茶話抄』 *Chawa-shō*, de Yokoi Tansho 横井淡所, editado por Fuhaku e Hayama Sōiku: 「守破離といふ事軍法用、尤用方違ひ候へ共、茶道に取て申候はば、守は下手…破は上手…離は名人」. Texto em 『茶道古典全集』 vol. 10 (Tankōsha, 1977). Links: [NDL/Kuki](https://crd.ndl.go.jp/reference/entry/index.php?id=1000029440&page=ref_view), [NDL 1000042957](https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000042957)
+- ⚠ *Fuhaku Hikki* 不白筆記: 「守破離と申三字ハ、軍法ノ習ニ在リ。守ハマモル、破ハヤブル、離ハはなると申候。弟子ニ教ルハ此守と申所計也…」. O próprio Fuhaku atribui o termo ao aprendizado militar. Citação conferida só em blogs, falta conferir no texto. Links: [note.com](https://note.com/tsuma_yasunari/n/n0a1e86e37fab), [pixy10](https://pixy10.org/archives/5573123.html)
+- `?` Data do *Fuhaku Hikki*: 1749 (『剣道事典』, via NDL/Kuki), c. 1760 (blog), 1794 (sem fonte).
+- ✓ Zeami: 守破離 não aparece nos 23 tratados indexados no 『世阿弥伝書用語索引』; o que há é 序破急. Atribuição a Zeami é confusão entre os dois. Links: [NDL/Kuki](https://crd.ndl.go.jp/reference/entry/index.php?id=1000029440&page=ref_view)
+- ⚠ Poema 「規矩作法 守り尽くして 破るとも 離るるとても本を忘るな」, do *Rikyū Hyakushu*: coletânea montada por Gengensai (玄々斎, 1810–1877, 11º da Urasenke) e atribuída a Rikyū. Provavelmente posterior a Fuhaku, não precursor. Falta fonte acadêmica.
+- `?` *Kōyō Gunkan* como fonte militar: afirmado pelo 『角川茶道大事典』, não localizado por leitor de quatro traduções modernas (note.com).
+- ⚠ Chiba Shūsaku, 『剣法秘訣』 (séc. XIX): 「守はまもるをいふて、その流の趣意を守ることにて…」「破はやぶるといふて」「離ははなるるといふて」. Primeiro uso explícito em esgrima localizado; ausente em Musashi e Yagyū Munenori. Via Matsuoka Seigō, resenha de Fujiwara. Links: [1000ya](https://1000ya.isis.ne.jp/1252.html)
+- ⚠ Hipótese de Matsuoka Seigō: 守破離 teria começado no budismo, mais provavelmente no zen; nos mosteiros zen depois de Huineng 慧能, 種・花・果 (semente, flor, fruto) seriam lidos como 守・破・離, e o esquema teria passado pelo 苗・秀・実 de Zeami antes de chegar ao chá. O próprio Matsuoka diz que não tem prova: 「ぼくにも確証はない」. Links: [1000ya](https://1000ya.isis.ne.jp/1252.html)
+- Leitura de base pendente: 藤原稜三『守破離の思想』 (Baseball Magazine, 1993).
 - ✓ On-yomi dos três ideogramas (leitura sino-japonesa, via [Jisho.org](https://jisho.org)/KANJIDIC2): 守 = シュ shu / ス su; 破 = ハ ha; 離 = リ ri. Leituras cantonesas e etimologia clássica chinesa já nas notas do Scholion (ver abaixo).
 - `?` Composto 守破離 em chinês clássico fora do Japão: não localizado. Fontes em chinês contemporâneo tratam o termo como importação do japonês moderno ("源于日本的工作之道"), não o contrário. Isso é ausência de evidência, não uma fonte que afirme categoricamente a inexistência no chinês clássico. Links: [Sohu](https://www.sohu.com/a/157465819_660985), [Zhihu](https://www.zhihu.com/question/19838446)
 
