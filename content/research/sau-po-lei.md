@@ -17,8 +17,8 @@ toc: true
 
 ## Estado
 
-- **Em foco**: direção 1, origem e histórico.
-- **Próximo**: direção 2 (usos atuais), depois 3 e 4 (pesquisa científica e teóricos da pedagogia), e por fim 5 (domínios e fases do Ving Tsun).
+- **Em foco**: direção 1, origem e histórico. Origem no chá (Kawakami Fuhaku, *Fuhaku Hikki*/*Chawa-shū*) e on-yomi dos três ideogramas já verificados; falta a formalização nas artes marciais modernas (Ueshiba, Endō Seishirō) e a data exata do *Fuhaku Hikki*.
+- **Próximo**: fechar direção 1 (artes marciais modernas), depois direção 2 (usos atuais), 3 e 4 (pesquisa científica e teóricos da pedagogia), e por fim 5 (domínios e fases do Ving Tsun).
 - **Dossiê de voz**: v1, sincronizado em 2026-10-03 (link em fontes-privadas/voz/sau-po-lei/README.md)
 - Pesquisa-irmã: [Apresentando Cham Kiu](/research/apresentando-cham-kiu), onde Sau Po Lei entrou como leitura dos três domínios iniciais e ficou registrada a falta de fonte para a origem da doutrina. Esta pesquisa resolve essa pendência.
 
@@ -39,8 +39,14 @@ O autor precisa escrever um guia sobre a doutrina. A pesquisa [Apresentando Cham
 
 ### 1. Origem e histórico
 
-- ⚠ A verificar: atribuição a Kawakami Fuhaku (chá, século XVIII); ligação com Sen no Rikyū; uso por Zeami no Nō (e se o termo que Zeami usa é o mesmo ou um precursor); formalização nas artes marciais japonesas modernas (Ueshiba, Endō Seishirō).
-- ⚠ A verificar: os três ideogramas em japonês (shu, ha, ri) e em cantonês (sau, po, lei); se o composto existe em chinês clássico fora do contexto japonês.
+- ✓ Kawakami Fuhaku (川上不白, 1719–1807), mestre de chá do período Edo, fundador da escola Edo Senke, discípulo de Sen no Nyoshinsai (如心斎), 7º mestre da Omotesenke. Links: [Kotobank](https://kotobank.jp/word/%E5%B7%9D%E4%B8%8A%E4%B8%8D%E7%99%BD-15904)
+- ✓ *Fuhaku Hikki* (不白筆記) é o registro escrito por Fuhaku dos ensinamentos orais de Nyoshinsai. Contém a formulação mais antiga localizada do termo: 「守ハマモル、破ハヤブル、離ハはなると申候」. *Chawa-shū* (茶話集) traz uma segunda formulação: 「守は下手、破は上手、離は名人」 ("shu é o principiante, ha é o hábil, ri é o mestre"). Links: [pixy10.org, que cita os dois textos diretamente](https://pixy10.org/archives/5573123.html)
+- `?` Data de composição do *Fuhaku Hikki* não confirmada. Século XVIII, dentro da vida de Fuhaku, mas sem fonte catalográfica conferida diretamente (o catálogo da Biblioteca Nacional do Japão só registra uma reedição de 1979).
+- ⚠ Leitura de pixy10.org (não conferida contra o *Fūshikaden* diretamente): a atribuição comum a Zeami é equívoco. Ele trata de 序破急 (jo-ha-kyū), estrutura de apresentação no Nō, não do composto 守破離.
+- ✓ (citação) Sen no Rikyū, no poema atribuído a ele (*Rikyū Dōka*): 「規矩作法 守り尽くして 破るとも 離るるとても本を忘るな」. ⚠ Leitura de pixy10.org: apresenta os conceitos em prosa, não o composto fechado — seria precursor temático, não a cunhagem do termo. Autoria do poema dentro do corpus atribuído a Rikyū não verificada.
+- Formalização nas artes marciais japonesas modernas (Ueshiba, Endō Seishirō): ainda não verificado.
+- ✓ On-yomi dos três ideogramas (leitura sino-japonesa, via [Jisho.org](https://jisho.org)/KANJIDIC2): 守 = シュ shu / ス su; 破 = ハ ha; 離 = リ ri. Leituras cantonesas e etimologia clássica chinesa já nas notas do Scholion (ver abaixo).
+- `?` Composto 守破離 em chinês clássico fora do Japão: não localizado. Fontes em chinês contemporâneo tratam o termo como importação do japonês moderno ("源于日本的工作之道"), não o contrário. Isso é ausência de evidência, não uma fonte que afirme categoricamente a inexistência no chinês clássico. Links: [Sohu](https://www.sohu.com/a/157465819_660985), [Zhihu](https://www.zhihu.com/question/19838446)
 
 ### 2. Como é usada hoje
 
