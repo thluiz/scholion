@@ -19,7 +19,7 @@ toc: true
 
 - **Em foco**: direção 1, origem e histórico, fechada no que é possível sem Fujiwara (1993) e sem o 『茶道古典全集』 vol. 10. Revisão de 2026-10-05 corrigiu o rascunho anterior: o termo vem de 兵法 e entra no chá pelo *Chawa-shō*; Fuhaku não o cunha; o poema de Rikyū é provavelmente posterior. Agora: rastrear a origem nos textos militares. *Kōyō Gunkan* descartado (busca no texto integral); textos mais antigos encontrados (apêndice de Joshinsai, *Fuhaku Hikki*, Chiba) tratam o termo como herdado. 伝書 de esgrima também descartados (busca por script em 武術叢書, 剣道集義 e manuscritos do Ittō-ryū). 兵学 Kōshū, Yamaga e Hōjō também descartados; Fujiwara (1993) lido pelos trechos da NDL, sem rastreio filológico. Direção 1 exaurida no que é acessível; fonte militar anterior a 1750 segue `?` (restam manuscritos não digitalizados e o 日本国語大辞典). Decisão do autor: não fechar a direção sem exaurir as opções.
 - **Próximo**: direção 2 (usos atuais), 3 e 4 (pesquisa científica e teóricos da pedagogia), e por fim 5 (domínios e fases do Ving Tsun).
-- **Dossiê de voz**: v1, sincronizado em 2026-10-03 (link em fontes-privadas/voz/sau-po-lei/README.md)
+- **Dossiê de voz**: v2, sincronizado em 2026-10-06 (link em fontes-privadas/voz/sau-po-lei/README.md)
 - Pesquisa-irmã: [Apresentando Cham Kiu](/research/apresentando-cham-kiu), onde Sau Po Lei entrou como leitura dos três domínios iniciais e ficou registrada a falta de fonte para a origem da doutrina. Esta pesquisa resolve essa pendência.
 
 ## Motivação
