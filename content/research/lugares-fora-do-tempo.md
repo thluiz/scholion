@@ -17,7 +17,7 @@ toc: true
 
 No podcast Vox [*É Tudo Culpa da Cultura #02: Amor de Puta*](https://vox.thluiz.com/2023/10/W41/e-tudo-culpa-da-cultura-02-amor-de-puta#00:39:20), Michel Alcoforado solta de passagem que o salão do bordel é um lugar fora do tempo, como o shopping e como a igreja. Sem relógio na parede, e quem está dentro deixa de saber o que acontece lá fora. Natânia Lopes amplia: a sequência vestiário–salão–quarto, com luzes radicalmente diferentes, produz o que ela chama de elipse no tempo.
 
-O comentário cruza com terreno antigo. Cassino, shopping, parque temático, igreja, museu. Tudo isso já foi estudado como espaço que opera por suspensão temporal. A pesquisa mapeia o que está em cada linhagem.
+O comentário aponta para um conjunto de casos recorrentes na literatura sobre espaço e consumo: cassino, shopping, parque temático, igreja, museu. Esta pesquisa mapeia o que está em cada linhagem, direção por direção, abaixo.
 
 ## Perguntas em aberto
 
@@ -71,7 +71,7 @@ A confirmar antes de aprofundar. Cada direção é exaurida antes de passar à p
 
 A confirmar se entra no escopo.
 
-- **Louis Marin**, *Utopiques: jeux d'espaces* (Minuit, 1973). Primeiro a analisar Disneylândia como utopia degenerada.
+- **Louis Marin**, *Utopiques: jeux d'espaces* (Minuit, 1973). Analisa Disneylândia como utopia degenerada.
 - {{verificar: fonte para a leitura de Marin por Foucault, se for incluir essa conexão}}
 - **Jean Baudrillard**, *Simulacres et simulation* (Galilée, 1981).
 - **Michael Sorkin** (org.), *Variations on a Theme Park* (Hill & Wang, 1992).
@@ -88,7 +88,7 @@ Cruzamento com a nota [amor-como-risco-cliente-fixo](/notes/amor-como-risco-clie
 
 Direção trazida pelo autor. Diferença em relação às anteriores: ali o espaço suspende a percepção do tempo enquanto se está dentro dele; aqui o que se suspende é o fechamento da narrativa. A série nunca chega ao fim. Cada entrega termina em gancho e empurra para a próxima.
 
-- **Robert C. Allen**, *Speaking of Soap Operas* (University of North Carolina Press, 1985). Teoriza a soap opera como a única forma narrativa (com a possível exceção do comic strip) fundada na impossibilidade do fechamento: "an indefinitely expandable middle", sem início-meio-fim fixados. ⚠ citação encontrada via agregação secundária (buscas web), ainda não confirmada contra o texto original. O PDF consultado estava ilegível por compressão/OCR.
+- **Robert C. Allen**, *Speaking of Soap Operas* (University of North Carolina Press, 1985), p. 13 ("The Meaning(s) of 'Soap Opera'"). ✓ Define a soap opera como "the only narrative form (with the possible exception of the comic strip) predicated upon the impossibility of closure". Na sequência, cita **Dennis Porter**: para a soap opera, diferente de toda a dramaturgia que pressupõe início-meio-fim, "belongs to a separate genus that is entirely composed of an indefinitely expandable middle". A frase é de Porter, não do próprio Allen. ✓ Fonte da citação, pela nota de rodapé do Allen: **Dennis Porter**, "Soap Time: Thoughts on a Commodity Art Form", em Horace Newcomb (org.), *Television: The Critical View*, 3ª ed. (Oxford UP, 1982), p. 89.
 - **Robert C. Allen** (org.), *To Be Continued...: Soap Operas Around the World* (Routledge, 1995). Estende a tese a formatos fora dos EUA.
 - **Microdrama / 短剧 (duanju)**: formato chinês de vídeo serializado vertical, episódios de 1–3 min, origem por volta de 2018 no Douyin/Kuaishou, formalizado como gênero pela Administração Nacional de Rádio e TV da China (NRTA) em 2020. Cada episódio abre em gancho e fecha em cliffhanger; a série corre por dezenas de episódios. Links: [Wikipedia](https://en.wikipedia.org/wiki/Microdrama). {{verificar: fonte primária/acadêmica sobre duanju (Wikipedia não é fonte final)}}
 - **ReelShort** (lançado nos EUA em agosto de 2022) e **DramaBox**: apps dedicados ao formato, replicando o molde chinês para público ocidental: gancho, escalada, revelação, cliffhanger, episódio seguinte, com monetização por paywall de moedas. Links: [Rolling Stone, "Vertical Short Apps Like ReelShort Are Taking Over Hollywood"](https://www.rollingstone.com/culture/culture-features/vertical-short-industry-hollywood-reelshort-dramabox-1235009933/); [NPR, "Told one minute at a time, micro dramas are soap operas designed to fit in your hand" (2025-03-19)](https://www.npr.org/2025/03/19/nx-s1-5330470/micro-drama-soap-opera-app).
