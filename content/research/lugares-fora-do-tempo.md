@@ -2,7 +2,7 @@
 title: "Pesquisa Viva: Lugares fora do tempo"
 date: 2026-05-08T09:52:38+01:00
 summary: "Mapear a literatura sobre espaços projetados para suspender a noção temporal — cassino, shopping, bordel, igreja, parque temático — e o que se sabe sobre o design que produz essa suspensão."
-tags: ["pesquisa-viva", "tempo", "espaco", "heterotopia", "consumo", "e-tudo-culpa-da-cultura"]
+tags: ["pesquisa-viva", "tempo", "espaco", "heterotopia", "consumo", "e-tudo-culpa-da-cultura", "narrativa-serial"]
 status: "em andamento"
 toc: true
 ---
@@ -15,7 +15,7 @@ toc: true
 
 ## Motivação
 
-No podcast Vox *É Tudo Culpa da Cultura #02*, Michel Alcoforado solta de passagem que o salão do bordel é um lugar fora do tempo — como o shopping, como a igreja. Sem relógio na parede, e quem está dentro deixa de saber o que acontece lá fora. Natânia Lopes amplia: a sequência vestiário–salão–quarto, com luzes radicalmente diferentes, produz o que ela chama de elipse no tempo.
+No podcast Vox [*É Tudo Culpa da Cultura #02: Amor de Puta*](https://vox.thluiz.com/2023/10/W41/e-tudo-culpa-da-cultura-02-amor-de-puta#00:39:20), Michel Alcoforado solta de passagem que o salão do bordel é um lugar fora do tempo, como o shopping e como a igreja. Sem relógio na parede, e quem está dentro deixa de saber o que acontece lá fora. Natânia Lopes amplia: a sequência vestiário–salão–quarto, com luzes radicalmente diferentes, produz o que ela chama de elipse no tempo.
 
 O comentário cruza com terreno antigo. Cassino, shopping, parque temático, igreja, museu. Tudo isso já foi estudado como espaço que opera por suspensão temporal. A pesquisa mapeia o que está em cada linhagem.
 
@@ -29,7 +29,7 @@ A confirmar antes de aprofundar. Cada direção é exaurida antes de passar à p
 
 ### 1. Cassino — Schüll
 
-- **Natasha Dow Schüll**, *Addiction by Design: Machine Gambling in Las Vegas* (Princeton UP, 2012). Etnografia em Las Vegas com designers de cassino, jogadores compulsivos e operadores. Conceitua "the zone": estado em que o jogador perde tempo, dinheiro, lugar e corpo na máquina. Documenta o método — nada de relógios, nada de janelas, padrões de carpete que mantêm o olhar baixo, recompensa contínua das máquinas.
+- **Natasha Dow Schüll**, *Addiction by Design: Machine Gambling in Las Vegas* (Princeton UP, 2012). Etnografia em Las Vegas com designers de cassino, jogadores compulsivos e operadores. Conceitua "the zone": estado em que o jogador perde tempo, dinheiro, lugar e corpo na máquina. Documenta o método: nada de relógios, nada de janelas, padrões de carpete que mantêm o olhar baixo, recompensa contínua das máquinas.
 - **Bill Friedman**, *Designing Casinos to Dominate the Competition* (Reno, 2000). Manual da indústria. Codifica a fórmula "low ceilings, no straight aisles, gambling visible from everywhere".
 - **David G. Schwartz**, *Roll the Bones: The History of Gambling* (Gotham, 2006). Ângulo histórico.
 - {{verificar: tradução brasileira de Schüll?}}
@@ -52,7 +52,7 @@ A confirmar antes de aprofundar. Cada direção é exaurida antes de passar à p
 
 - **Mircea Eliade**, *Le Sacré et le profane* (Gallimard, 1957). Distingue tempo sagrado (cíclico, mítico, reversível) de tempo profano (linear, histórico, irreversível). O espaço sagrado abre janela para o tempo originário.
 - **Victor Turner**, *The Ritual Process* (Aldine, 1969). Liminalidade, *communitas*. No rito de passagem, o tempo se suspende numa fase liminar. *From Ritual to Theatre* (1982) estende a categoria para o lazer e o consumo modernos como **liminóides**.
-- **Émile Durkheim**, *Les Formes élémentaires de la vie religieuse* (1912). Base anterior — efervescência coletiva no ritual suspende a vida cotidiana.
+- **Émile Durkheim**, *Les Formes élémentaires de la vie religieuse* (1912). Base anterior: a efervescência coletiva no ritual suspende a vida cotidiana.
 - {{verificar: alguém já cruzou Eliade-Turner-Foucault sobre suspensão temporal?}}
 
 ### 5. Heterotopia — Foucault e descendência
@@ -71,7 +71,8 @@ A confirmar antes de aprofundar. Cada direção é exaurida antes de passar à p
 
 A confirmar se entra no escopo.
 
-- **Louis Marin**, *Utopiques: jeux d'espaces* (Minuit, 1973). Primeiro a analisar Disneylândia como utopia degenerada. Foucault leu Marin.
+- **Louis Marin**, *Utopiques: jeux d'espaces* (Minuit, 1973). Primeiro a analisar Disneylândia como utopia degenerada.
+- {{verificar: fonte para a leitura de Marin por Foucault, se for incluir essa conexão}}
 - **Jean Baudrillard**, *Simulacres et simulation* (Galilée, 1981).
 - **Michael Sorkin** (org.), *Variations on a Theme Park* (Hill & Wang, 1992).
 
@@ -83,11 +84,22 @@ Cruzamento com a nota [amor-como-risco-cliente-fixo](/notes/amor-como-risco-clie
 - **Viviana Zelizer**, *The Purchase of Intimacy* (Princeton UP, 2005).
 - {{verificar: alguém escreveu especificamente sobre o controle do tempo do programa como técnica de trabalho da puta?}}
 
+### 9. Narrativa serializada sem fechamento — microdramas e conteúdo em série no TikTok/Instagram
+
+Direção trazida pelo autor. Diferença em relação às anteriores: ali o espaço suspende a percepção do tempo enquanto se está dentro dele; aqui o que se suspende é o fechamento da narrativa. A série nunca chega ao fim. Cada entrega termina em gancho e empurra para a próxima.
+
+- **Robert C. Allen**, *Speaking of Soap Operas* (University of North Carolina Press, 1985). Teoriza a soap opera como a única forma narrativa (com a possível exceção do comic strip) fundada na impossibilidade do fechamento: "an indefinitely expandable middle", sem início-meio-fim fixados. ⚠ citação encontrada via agregação secundária (buscas web), ainda não confirmada contra o texto original. O PDF consultado estava ilegível por compressão/OCR.
+- **Robert C. Allen** (org.), *To Be Continued...: Soap Operas Around the World* (Routledge, 1995). Estende a tese a formatos fora dos EUA.
+- **Microdrama / 短剧 (duanju)**: formato chinês de vídeo serializado vertical, episódios de 1–3 min, origem por volta de 2018 no Douyin/Kuaishou, formalizado como gênero pela Administração Nacional de Rádio e TV da China (NRTA) em 2020. Cada episódio abre em gancho e fecha em cliffhanger; a série corre por dezenas de episódios. Links: [Wikipedia](https://en.wikipedia.org/wiki/Microdrama). {{verificar: fonte primária/acadêmica sobre duanju (Wikipedia não é fonte final)}}
+- **ReelShort** (lançado nos EUA em agosto de 2022) e **DramaBox**: apps dedicados ao formato, replicando o molde chinês para público ocidental: gancho, escalada, revelação, cliffhanger, episódio seguinte, com monetização por paywall de moedas. Links: [Rolling Stone, "Vertical Short Apps Like ReelShort Are Taking Over Hollywood"](https://www.rollingstone.com/culture/culture-features/vertical-short-industry-hollywood-reelshort-dramabox-1235009933/); [NPR, "Told one minute at a time, micro dramas are soap operas designed to fit in your hand" (2025-03-19)](https://www.npr.org/2025/03/19/nx-s1-5330470/micro-drama-soap-opera-app).
+- {{verificar: literatura acadêmica (não jornalística) sobre o mecanismo algorítmico TikTok/Instagram que recompensa conteúdo em série; até agora só apareceu blog de marketing, não é fonte confiável}}
+- {{verificar: cruzamento com Schüll (#1): o "the zone" do cassino e o loop de gancho-sem-resolução do microdrama são a mesma estrutura, ou só analogia superficial?}}
+
 ## Notas do Scholion já relacionadas
 
-- [bordel-heterotopia-foucault](/notes/bordel-heterotopia-foucault) — bordel como heterotopia, com paralelo shopping/igreja.
-- [amor-como-risco-cliente-fixo](/notes/amor-como-risco-cliente-fixo) — fronteira entre comercial e pessoal; toca o tempo.
-- [puta-como-outra-alteridade-dos-afetos](/notes/puta-como-outra-alteridade-dos-afetos) — alteridade da puta; chip do mal e separação de identidade.
+- [bordel-heterotopia-foucault](/notes/bordel-heterotopia-foucault): bordel como heterotopia, com paralelo shopping/igreja.
+- [amor-como-risco-cliente-fixo](/notes/amor-como-risco-cliente-fixo): fronteira entre comercial e pessoal; toca o tempo.
+- [puta-como-outra-alteridade-dos-afetos](/notes/puta-como-outra-alteridade-dos-afetos): alteridade da puta; chip do mal e separação de identidade.
 
 ## Notas extraídas
 
