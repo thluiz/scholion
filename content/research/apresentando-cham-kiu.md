@@ -16,13 +16,14 @@ toc: true
 
 ## Estado
 
-- **Em foco**: roteiro de 5 a 10 min para o próximo encontro, retomando a tarefa do [XIII Encontro](/notes/xiii-encontro-chines-instrumental/) que ficou pendente (Claudio ficou com Siu Nim Tau, Thiago Silva com Cham Kiu; Claudio não veio no dia e Thiago apresentou o Siu Nim Tau no lugar — ver [XV Encontro](/notes/xv-encontro-chines-instrumental/)).
+- **Em foco**: apresentação em 2026-10-07, no encontro e na gravação com Guilherme (decisão do autor: os dois). Roteiro de 5 a 10 min, retomando a tarefa do [XIII Encontro](/notes/xiii-encontro-chines-instrumental/) que ficou pendente (Claudio ficou com Siu Nim Tau, Thiago Silva com Cham Kiu; Claudio não veio no dia e Thiago apresentou o Siu Nim Tau no lugar — ver [XV Encontro](/notes/xv-encontro-chines-instrumental/)).
 - **Leitura do domínio**: trocada a leitura por elementos (terra/água/fogo, do XIII Encontro) por 守破離 Sau Po Lei (seguir/quebrar/sair da regra) — esta segunda não vem da série, é proposta nova do autor para esta apresentação.
 - **Formato já em uso**: minipodcast de ~5 min com Guilherme, gravado às quintas. Já gravaram o do Siu Nim Tau; "o próximo é o Cham Kiu" (citado no XV Encontro) — provavelmente é este o destino do roteiro.
 - **Revisão de 2026-10-02**: roteiro conferido contra as nove notas-fonte e passado pelo ghost-writer. Saíram o travessão de efeito, as taglines e o bloco 4 em três analogias (uma delas misturava a leitura "ponte curta" com a estrutura/quadril, que é da variante Chau 沉). Entraram a pronúncia (xún qiáo / cam4 kiu4), a ponte de corda, o "risco ou bloqueio" da ponte curta e a medida de oito pés que Claudio trouxe no IV Encontro. Cortada a frase "pontos que travam numa estrutura fixa", interpretação sem fonte.
 - **Ensaio de 2026-10-07** (conversa de voz, fechamento em andamento): roteiro falado até o bloco 2; a síntese do bloco 4 (braça e reequilíbrio) ficou de fora por esquecimento. Surgiram, na voz do autor: "ponte curta" em dois planos (deslocamentos curtos no próprio Cham Kiu; transição curta Siu Nim Tau → Biu Ji) e a leitura de 尋 pelo Shuowen, 繹理也 / 工、口，亂也；又、寸，分理之 (desembaraçar), já verificada em [etimologia-de-cham](/research/etimologia-de-cham) e [etimologia-de-cham-kiu-xun-qiao](/notes/etimologia-de-cham-kiu-xun-qiao/). Leitura do autor, não do Si Fu, e fora do que foi visto na série. As duas entraram no roteiro (blocos 1 e 2).
-- **Dossiê de voz**: v2, sincronizado em 2026-10-07 (link em `fontes-privadas/voz/apresentando-cham-kiu/README.md`).
-- **Próximo**: decidir (a) o tom da crítica a "ponte é braço"; (b) destino: encontro, gravação ou os dois; (c) atribuição de 守破離, agora com base em [sau-po-lei](/research/sau-po-lei); (d) se o bloco 4 fica. Depois, novo ensaio cronometrado.
+- **Dossiê de voz**: v3, sincronizado em 2026-10-07 (link em `fontes-privadas/voz/apresentando-cham-kiu/README.md`).
+- **Decisões de 2026-10-07**: bloco 4 (braça e reequilíbrio) retirado; o roteiro fecha com a ponte para o Biu Ji, Kung Fu avançado, de alto nível. 守破離 passa na fala sem atribuição de origem, como o bloco 3 já anuncia; a origem segue em paralelo em [sau-po-lei](/research/sau-po-lei). A crítica a "ponte é braço" ganha a formulação do autor no ensaio: a ponte é a conexão entre duas pessoas.
+- **Próximo**: apresentar; depois, se houver, incorporar o que o encontro e a gravação trouxerem.
 
 ## Motivação
 
@@ -84,7 +85,7 @@ No dicionário, Cham Kiu é literalmente "procurar ponte".
 
 **2. As traduções que correm por aí, e a da nossa linhagem**
 
-No jargão do Ving Tsun, "ponte" virou apelido para "braço". Por esse caminho, Cham Kiu vira "procurar o braço", a tradução mais repetida entre as famílias, às vezes "procurar abraço". Si Fu não compra essa leitura: o foco do praticante devia ser a linha central, e quando a ponte vira braço o nome da forma aponta para o lugar errado.
+No jargão do Ving Tsun, "ponte" virou apelido para "braço". Por esse caminho, Cham Kiu vira "procurar o braço", a tradução mais repetida entre as famílias, às vezes "procurar abraço". Si Fu não compra essa leitura: o foco do praticante devia ser a linha central, e quando a ponte vira braço o nome da forma aponta para o lugar errado. A ponte é a conexão entre duas pessoas, não uma parte do corpo.
 
 Tem também uma variante de linhagem que troca Cham por um homófono, Chau 沉, afundar, submergir. Nessa leitura é "afundar a ponte". A ponte aqui é a estrutura, o quadril que conecta braços e pernas, e afundar a ponte é quebrar a estrutura do outro, como num Lap Sau.
 
@@ -108,10 +109,8 @@ O Biu Ji é Lei, sair da regra. É o mais intuitivo e o mais dinâmico dos três
 
 Cada domínio deixa uma sensação diferente no corpo. Terminado o Siu Nim Tau, na perna, no braço, no quadril, na cabeça, no punho. No Cham Kiu, nas juntas: quadril, joelho, ombro, cotovelo. No Biu Ji, o calor.
 
-**4. O que a junção indica**
+**4. Fecho: a ponte para o Biu Ji**
 
-Si Fu já avisou: o ideograma é anterior ao sistema, uma coisa não foi feita em função da outra, e a elasticidade da interpretação serve mais para lembrar do que para interpretar a fundo. Com esse cuidado, um ponto só.
+O Cham Kiu é a ponte curta. Do outro lado dela está o Biu Ji, um Kung Fu avançado, de alto nível.
 
-A braça é medida do corpo de quem mede, diferente para cada um. O reequilíbrio do Cham Kiu também é relativo ao corpo de quem pratica, com o peso trocando de lado em volta do próprio centro.
-
-*(Fontes de cada ponto: ver "Notas do Scholion já relacionadas" acima. Exceções: 守破離 Sau Po Lei não vem da série, é leitura proposta para esta apresentação (origem em [sau-po-lei](/research/sau-po-lei)); a leitura do Shuowen (尋 e 喬) e do 段注 no bloco 1 também não vem da série, e está verificada em [etimologia-de-cham-kiu-xun-qiao](/notes/etimologia-de-cham-kiu-xun-qiao/), [etimologia-de-kiu-qiao-55ac](/notes/etimologia-de-kiu-qiao-55ac/) e [etimologia-de-cham](/research/etimologia-de-cham); a leitura de "ponte curta" em dois planos é do autor, no ensaio de 2026-10-07.)*
+*(Fontes de cada ponto: ver "Notas do Scholion já relacionadas" acima. Exceções: 守破離 Sau Po Lei não vem da série, é leitura proposta para esta apresentação (origem em [sau-po-lei](/research/sau-po-lei)); a leitura do Shuowen (尋 e 喬) e do 段注 no bloco 1 também não vem da série, e está verificada em [etimologia-de-cham-kiu-xun-qiao](/notes/etimologia-de-cham-kiu-xun-qiao/), [etimologia-de-kiu-qiao-55ac](/notes/etimologia-de-kiu-qiao-55ac/) e [etimologia-de-cham](/research/etimologia-de-cham); a leitura de "ponte curta" em dois planos, a ponte como conexão entre duas pessoas e o fecho do bloco 4 são do autor, no ensaio e nas decisões de 2026-10-07.)*
