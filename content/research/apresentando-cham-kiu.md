@@ -23,11 +23,25 @@ toc: true
 - **Ensaio de 2026-10-07** (conversa de voz, fechamento em andamento): roteiro falado até o bloco 2; a síntese do bloco 4 (braça e reequilíbrio) ficou de fora por esquecimento. Surgiram, na voz do autor: "ponte curta" em dois planos (deslocamentos curtos no próprio Cham Kiu; transição curta Siu Nim Tau → Biu Ji) e a leitura de 尋 pelo Shuowen, 繹理也 / 工、口，亂也；又、寸，分理之 (desembaraçar), já verificada em [etimologia-de-cham](/research/etimologia-de-cham) e [etimologia-de-cham-kiu-xun-qiao](/notes/etimologia-de-cham-kiu-xun-qiao/). Leitura do autor, não do Si Fu, e fora do que foi visto na série. As duas entraram no roteiro (blocos 1 e 2).
 - **Dossiê de voz**: v3, sincronizado em 2026-10-07 (link em `fontes-privadas/voz/apresentando-cham-kiu/README.md`).
 - **Decisões de 2026-10-07**: bloco 4 (braça e reequilíbrio) retirado; o roteiro fecha com a ponte para o Biu Ji, Kung Fu avançado, de alto nível. 守破離 passa na fala sem atribuição de origem, como o bloco 3 já anuncia; a origem segue em paralelo em [sau-po-lei](/research/sau-po-lei). A crítica a "ponte é braço" ganha a formulação do autor no ensaio: a ponte é a conexão entre duas pessoas.
-- **Próximo**: apresentar; depois, se houver, incorporar o que o encontro e a gravação trouxerem.
+- **Gravação de 2026-10-07** (vídeo de 5min56s, slides em [deck próprio](https://claude.ai/artifact/3yvQYKBS1PX3oGiAcBX25g)): o autor considerou a gravação fraca e vai regravar. A conferência da fala contra as fontes levou ao Hai Tong (seção "Hai Tong de Moy Yat" abaixo), que muda três pontos: a crítica a "ponte é braço" precisa ser amenizada, porque o Hai Tong aceita braços e pernas como ponte; "ponte curta do básico ao avançado" é leitura da linhagem, não do Si Taai Gung; o fecho passa a citar o Hai Tong.
+- **Próximo**: regravar, com as correções da conferência; depois, se houver, incorporar o que o encontro trouxer.
 
 ## Motivação
 
 Tarefa de casa do Programa de Mestrado / Chinês Instrumental, não uma pesquisa espontânea: o Si Fu dividiu os dois domínios já trabalhados na série (Siu Nim Tau e Cham Kiu) entre Claudio e Thiago Silva, cada um com dez minutos, só com o material da própria série. O Cham Kiu ficou para trás por dois encontros seguidos e precisa ser apresentado.
+
+## Hai Tong de Moy Yat
+
+O Hai Tong faz parte do material da série (trabalhado a partir do [V Encontro](/notes/v-encontro-chines-instrumental/)), então citá-lo não quebra a regra da tarefa. Texto conferido na tradução em português do clã, `OneDrive/Kung Fu/HAI TONG por MOY YAT.txt` (fonte privada; idêntica à cópia em `ving-tsun-guide-fontes/`), em 2026-10-07.
+
+- ✓ **Tradução do nome.** "Trasladado do dialeto cantonês, o significado de Cham Kiu 尋橋 é 'Procurar os Braços-ponte' ('jau cham kiu sau 找尋橋手') e 'Cobiçar a Ponte de Ataque' ('kei yu gung kik dik kiu leung 覬覦攻擊的橋樑')." (seção Cham Kiu)
+- ✓ **Definição de 橋.** "No Ving Tsun Kuen 詠春拳, a definição de 'kiu 橋' é: a ponte que está posta entre os limites (gaai haan 界限) de duas pessoas. Isso significa que poder estabelecer contato com o corpo da outra pessoa serve como medida. Daí, os braços e as pernas poderem ser considerados como ponte." Sustenta a ponte como conexão entre duas pessoas, mas também aceita o braço como ponte: a crítica a "ponte é braço" do roteiro precisa conviver com isso.
+- ✓ **O que se procura.** "Se você deseja entender o que é que se procura, saiba que definitivamente (kuet 決) não é a referida ponte dos dois combatentes, mas, sim, o gung fu 功夫 da estabilidade básica do corpo (san kui gei bun wai gu 身軀基本穩固): o ma bo 馬步 avançar e recuar (jun-tui) 進退 e a harmonia entre braços e pernas."
+- ✓ **Território.** "Quando se calca o território (ling wik 領域) de Cham Kiu 尋橋, no entanto, enfatiza-se manter o equilíbrio entre o corpo e os braços […]". É o único "território" associado a Cham Kiu nas fontes conferidas; não tem relação com o 段注 de 尋.
+- ✓ **Fecho da seção.** "Por essa razão, Cham Kiu 尋橋 é uma ponte que pode levá-lo a aprender profundamente o Ving Tsun Kuen Sut 詠春拳術."
+- ✓ **Ponte curta é do Biu Ji.** "As três seções do Biu Ji 標指 têm como prioridade o duen kiu 短橋, proteger cortando (jaam sau 斬守) o jung sin 中線, a rapidez (gap chuk 急速) e a energia (ging 勁)." (seção Biu Ji)
+- ✓ **Os três são básicos.** "os três kuen faat 拳法 básicos Siu Nim Tau 小念頭, Cham Kiu 尋橋 e Biu Ji 標指" (seção Muk Yan Jong); e "os gung 功 básicos, tais como os to lo 套路 Siu Nim Tau 小念頭, Cham Kiu 尋橋 e Biu Ji 標指, o Muk Yan Jong 木人樁, etc." (seção Luk Dim Bun Gwan). No Hai Tong, o Biu Ji não é "Kung Fu avançado".
+- ✓ **Ausência.** Busca no texto inteiro (ponte, 橋, curto, básico, avançado): o Hai Tong não diz que Cham Kiu é "ponte curta que liga o Kung Fu básico ao avançado". Essa leitura é da linhagem, registrada em [Cham Kiu (尋橋) como atravessar a ponte curta](/notes/cham-kiu-moy-yat-atravessar-a-ponte-curta/) a partir do IV Encontro. Na fala, atribuir à linhagem, não ao Si Taai Gung.
 
 ## Notas do Scholion já relacionadas
 
