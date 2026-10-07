@@ -8,7 +8,7 @@ has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
   - title: "Como economizar água: dicas de sobrevivência no deserto para aplicar no dia a dia"
-    url: "http://papodehomem.com.br/"
+    url: "https://papodehomem.com.br/como-economizar-agua-dicas-de-sobrevivencia-no-deserto-para-aplicar-no-dia-a-dia/"
     kind: article
   - title: "Raw clipping (archived copy)"
     url: "https://github.com/thluiz/scholion/blob/main/clippings/2015-03/papodehomem-com-br--como-economizar-agua-dicas-de-sobrevivencia-no-deserto.md"

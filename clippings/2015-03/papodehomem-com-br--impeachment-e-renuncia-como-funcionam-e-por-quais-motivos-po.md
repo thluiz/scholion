@@ -1,5 +1,5 @@
 ---
-url: "http://papodehomem.com.br/"
+url: "https://papodehomem.com.br/impeachment-e-renuncia-como-funcionam-e-por-quais-motivos-poderiamos-querer-um-presidente-fora-de-seu-cargo/"
 captured_at: "2015-03-16T09:29:25-03:00"
 title: "Impeachment e renúncia: como funcionam e por quais motivos poderíamos querer um presidente fora de seu cargo?"
 domain: "papodehomem-com-br"

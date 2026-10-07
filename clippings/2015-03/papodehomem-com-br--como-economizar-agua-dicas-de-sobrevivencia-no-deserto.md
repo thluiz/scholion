@@ -1,5 +1,5 @@
 ---
-url: "http://papodehomem.com.br/"
+url: "https://papodehomem.com.br/como-economizar-agua-dicas-de-sobrevivencia-no-deserto-para-aplicar-no-dia-a-dia/"
 captured_at: "2015-03-12T14:01:03-03:00"
 title: "Como economizar água: dicas de sobrevivência no deserto para aplicar no dia a dia"
 domain: "papodehomem-com-br"

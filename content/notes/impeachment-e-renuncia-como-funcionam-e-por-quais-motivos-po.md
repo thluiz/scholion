@@ -8,7 +8,7 @@ has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
   - title: "Impeachment e renúncia: como funcionam e por quais motivos poderíamos querer um presidente fora de seu cargo?"
-    url: "http://papodehomem.com.br/"
+    url: "https://papodehomem.com.br/impeachment-e-renuncia-como-funcionam-e-por-quais-motivos-poderiamos-querer-um-presidente-fora-de-seu-cargo/"
     kind: article
   - title: "Raw clipping (archived copy)"
     url: "https://github.com/thluiz/scholion/blob/main/clippings/2015-03/papodehomem-com-br--impeachment-e-renuncia-como-funcionam-e-por-quais-motivos-po.md"
