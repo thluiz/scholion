@@ -20,14 +20,20 @@ toc: true
 - **Leitura do domínio**: trocada a leitura por elementos (terra/água/fogo, do XIII Encontro) por 守破離 Sau Po Lei (seguir/quebrar/sair da regra) — esta segunda não vem da série, é proposta nova do autor para esta apresentação.
 - **Formato já em uso**: minipodcast de ~5 min com Guilherme, gravado às quintas. Já gravaram o do Siu Nim Tau; "o próximo é o Cham Kiu" (citado no XV Encontro) — provavelmente é este o destino do roteiro.
 - **Revisão de 2026-10-02**: roteiro conferido contra as nove notas-fonte e passado pelo ghost-writer. Saíram o travessão de efeito, as taglines e o bloco 4 em três analogias (uma delas misturava a leitura "ponte curta" com a estrutura/quadril, que é da variante Chau 沉). Entraram a pronúncia (xún qiáo / cam4 kiu4), a ponte de corda, o "risco ou bloqueio" da ponte curta e a medida de oito pés que Claudio trouxe no IV Encontro. Cortada a frase "pontos que travam numa estrutura fixa", interpretação sem fonte.
-- **Dossiê de voz**: v1, sincronizado em 2026-10-03, para discutir a apresentação (link em `fontes-privadas/voz/apresentando-cham-kiu/README.md`).
-- **Próximo**: treinar o roteiro em voz alta, cronometrado; decidir se vai para o encontro, para a gravação com Guilherme, ou para os dois; decidir como atribuir a origem de 守破離 na fala (não há fonte no vault).
+- **Ensaio de 2026-10-07** (conversa de voz, fechamento em andamento): roteiro falado até o bloco 2; a síntese do bloco 4 (braça e reequilíbrio) ficou de fora por esquecimento. Surgiram, na voz do autor: "ponte curta" em dois planos (deslocamentos curtos no próprio Cham Kiu; transição curta Siu Nim Tau → Biu Ji) e a leitura de 尋 pelo Shuowen, 繹理也 / 工、口，亂也；又、寸，分理之 (desembaraçar), já verificada em [etimologia-de-cham](/research/etimologia-de-cham) e [etimologia-de-cham-kiu-xun-qiao](/notes/etimologia-de-cham-kiu-xun-qiao/). Leitura do autor, não do Si Fu, e fora do que foi visto na série. As duas entraram no roteiro (blocos 1 e 2).
+- **Dossiê de voz**: v2, sincronizado em 2026-10-07 (link em `fontes-privadas/voz/apresentando-cham-kiu/README.md`).
+- **Próximo**: decidir (a) o tom da crítica a "ponte é braço"; (b) destino: encontro, gravação ou os dois; (c) atribuição de 守破離, agora com base em [sau-po-lei](/research/sau-po-lei); (d) se o bloco 4 fica. Depois, novo ensaio cronometrado.
 
 ## Motivação
 
 Tarefa de casa do Programa de Mestrado / Chinês Instrumental, não uma pesquisa espontânea: o Si Fu dividiu os dois domínios já trabalhados na série (Siu Nim Tau e Cham Kiu) entre Claudio e Thiago Silva, cada um com dez minutos, só com o material da própria série. O Cham Kiu ficou para trás por dois encontros seguidos e precisa ser apresentado.
 
 ## Notas do Scholion já relacionadas
+
+**Pesquisas-irmãs:**
+
+- [Pesquisa: Etimologia de Cham](/research/etimologia-de-cham) — Shuowen e 段注 sobre 尋: 工口 como desordem, 又寸 como pôr em ordem; "ordenar, desembaraçar, buscar e medir".
+- [Pesquisa: Sau Po Lei 守破離](/research/sau-po-lei) — origem e histórico da doutrina usada no bloco 3; resolve a pendência de fonte de 守破離.
 
 **Etimologia dos termos:**
 
@@ -37,6 +43,20 @@ Tarefa de casa do Programa de Mestrado / Chinês Instrumental, não uma pesquisa
 - [Cham: tatear com a mão](/notes/cham-tatear-com-a-mao/) — o sentido físico de "procurar": manipulação concreta, não investigação.
 - [Kiu: a ponte de madeira que se curva](/notes/kiu-ponte-de-madeira-que-se-curva/) — etimologia de 橋.
 - [Ponte como apelido para braço](/notes/ponte-como-apelido-para-braco/) — o jargão Ving Tsun que lê "ponte" como "braço".
+- Componentes de 尋: [又](/notes/etimologia-de-jau-you-53c8/) mão direita · [寸](/notes/etimologia-de-cyun-cun-5bf8/) polegada, o pulso · [工](/notes/etimologia-de-gung-gong-5de5/) trabalho, régua-esquadro · [口](/notes/etimologia-de-hau-kou-53e3/) boca, "nem todo 口 gráfico é boca" · 彐 no [Glossário dos radicais primitivos](/notes/glossario-dos-radicais-primitivos/), que o registra em 尋 como variante de ⺕ (mão).
+- Componente de 橋: [木](/notes/etimologia-de-muk-mu-6728/) árvore, madeira.
+
+**O Shuowen e o comentário:**
+
+- [說文解字 (Shuōwén Jiězì)](/notes/shuowen-jiezi/) — o dicionário de Xu Shen (100 d.C.) citado no bloco 1.
+- [段玉裁 e o 說文解字注](/notes/duan-yucai-shuowen-jiezi-zhu/) — o filólogo Qing (1735–1815) autor do comentário que fala da ponta do fio.
+- [說文解字: Academia Sinica disponibiliza base pública de consulta](/notes/shuowen-jiezi-digital/).
+
+**Os outros domínios e 守破離:**
+
+- [Etimologia de Siu Nim Tau 小念頭](/notes/etimologia-de-siu-nim-tau-xiao-nian-tou/) e [Siu Nim Tau é conselho de diminuir a intenção](/notes/siu-nim-tau-conselho-de-diminuir-a-intencao/).
+- [Etimologia de Biu Ji 標指](/notes/etimologia-de-biu-ji-biao-zhi/) e [Termos V Encontro: 標指](/notes/termos-biu-ji-v-encontro/).
+- [守](/notes/etimologia-de-sau-shou-5b88/) · [破](/notes/etimologia-de-poh-po-7834/) · [離](/notes/etimologia-de-lei-li-96e2/).
 
 **O domínio dentro do sistema:**
 
@@ -56,6 +76,8 @@ Cham Kiu se escreve 尋橋. Em mandarim, xún qiáo, segundo tom. Em cantonês, 
 
 Cham 尋 quer dizer procurar, mas não no sentido de investigar ou pesquisar. É procurar com a mão, tatear, ato físico. A decomposição que fizemos no IV Encontro aponta nessa direção. Em cima, 彐, dedos. Embaixo, 寸, o pulso com o polegar, outro radical de mão. No meio, 工, trabalho, e 口, que Si Fu leu como marcar local, delimitar território, como em 国, país. A busca de Cham é busca física, feita com as duas mãos.
 
+Aqui saio um pouco da série. O Shuowen, o dicionário de Xu Shen, do ano 100, lê o mesmo desenho de outro jeito. Define 尋 como 繹理也, desenrolar e pôr em ordem, e junta os componentes em dois pares: 工 e 口 são a desordem; 又 e 寸, as mãos, separam e arrumam. Duan Yucai, filólogo da dinastia Qing, diz no comentário que para pôr ordem em qualquer desordem é preciso primeiro achar a ponta do fio. Nessa leitura, Cham é buscar o início e o fim de algo para desembaraçar.
+
 Kiu 橋 é ponte. O componente mais importante fica à esquerda: árvore, madeira. O lado direito carrega o som e sugere algo grande que se curva. As duas partes juntas evocam a ponte chinesa tradicional, de madeira, arqueada.
 
 No dicionário, Cham Kiu é literalmente "procurar ponte".
@@ -66,7 +88,7 @@ No jargão do Ving Tsun, "ponte" virou apelido para "braço". Por esse caminho, 
 
 Tem também uma variante de linhagem que troca Cham por um homófono, Chau 沉, afundar, submergir. Nessa leitura é "afundar a ponte". A ponte aqui é a estrutura, o quadril que conecta braços e pernas, e afundar a ponte é quebrar a estrutura do outro, como num Lap Sau.
 
-Na nossa linhagem, a tradução usual é "ponte curta". Cham, em uso antigo, é também uma medida, uma braça: a distância de punho a punho com os braços abertos, sem contar a mão. Claudio já tinha achado isso na pesquisa preliminar dele, no IV Encontro, como medida antiga de oito pés, a envergadura de uma pessoa de mãos abertas. É medida subjetiva, varia de pessoa para pessoa. Uma ponte de um Cham só, ponte curta, sugere risco ou bloqueio: sem ela a pessoa não atravessa para o outro lado, mesmo que a distância em número seja pequena. Cham Kiu passa a ser "atravessar uma ponte curta", e o termo se estende para todas as travessias do sistema, da base para o avançado, do que já se sabe fazer para o que ainda não se sabe.
+Na nossa linhagem, a tradução usual é "ponte curta". Cham, em uso antigo, é também uma medida, uma braça: a distância de punho a punho com os braços abertos, sem contar a mão. Claudio já tinha achado isso na pesquisa preliminar dele, no IV Encontro, como medida antiga de oito pés, a envergadura de uma pessoa de mãos abertas. É medida subjetiva, varia de pessoa para pessoa. Uma ponte de um Cham só, ponte curta, sugere risco ou bloqueio: sem ela a pessoa não atravessa para o outro lado, mesmo que a distância em número seja pequena. Cham Kiu passa a ser "atravessar uma ponte curta". Leio isso em dois planos. Na própria forma, os deslocamentos são curtos. No sistema, o Cham Kiu é a travessia curta entre o básico, o Siu Nim Tau, e o avançado, o Biu Ji. E o termo se estende para todas as travessias, do que já se sabe fazer para o que ainda não se sabe.
 
 A imagem de ponte, nessa leitura, deixa de ser a ponte de madeira arqueada do ideograma. É a ponte de corda, que balança quando se pisa nela e exige equilíbrio físico e emocional para que a travessia aconteça. A ponte é curta porque o desafio não está no comprimento, está no que ela pede de quem atravessa.
 
@@ -92,4 +114,4 @@ Si Fu já avisou: o ideograma é anterior ao sistema, uma coisa não foi feita e
 
 A braça é medida do corpo de quem mede, diferente para cada um. O reequilíbrio do Cham Kiu também é relativo ao corpo de quem pratica, com o peso trocando de lado em volta do próprio centro.
 
-*(Fontes de cada ponto: ver "Notas do Scholion já relacionadas" acima. Exceção: 守破離 Sau Po Lei não vem da série nem tem fonte no vault; é leitura proposta para esta apresentação.)*
+*(Fontes de cada ponto: ver "Notas do Scholion já relacionadas" acima. Exceções: 守破離 Sau Po Lei não vem da série, é leitura proposta para esta apresentação (origem em [sau-po-lei](/research/sau-po-lei)); a leitura do Shuowen e do 段注 no bloco 1 também não vem da série, e está verificada em [etimologia-de-cham-kiu-xun-qiao](/notes/etimologia-de-cham-kiu-xun-qiao/) e [etimologia-de-cham](/research/etimologia-de-cham); a leitura de "ponte curta" em dois planos é do autor, no ensaio de 2026-10-07.)*
