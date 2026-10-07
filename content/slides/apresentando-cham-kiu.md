@@ -184,6 +184,7 @@ Note: O lado direito, 喬, carrega o som e sugere algo grande que se curva. O Sh
 <div class="side" style="gap:36px">
 <p class="eyebrow">梅逸 · Moy Yat, Hai Tong</p>
 <p style="font-size:48px;font-weight:600;line-height:1.3">"a ponte que está posta entre os limites (<span class="accent">界限</span>) de duas pessoas."</p>
+<p class="muted" style="font-size:32px"><span class="cjk accent">界限</span> <b>jiè xiàn · gaai3 haan6</b>: limite, fronteira</p>
 <p style="font-size:40px;color:#3E3933">"poder estabelecer contato com o corpo da outra pessoa serve como medida."</p>
 <p class="muted" style="font-size:32px">"Daí, os braços e as pernas poderem ser considerados como ponte."</p>
 </div>
