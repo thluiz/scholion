@@ -25,6 +25,7 @@ toc: true
 - **Decisões de 2026-10-07**: bloco 4 (braça e reequilíbrio) retirado; o roteiro fecha com a ponte para o Biu Ji, Kung Fu avançado, de alto nível. 守破離 passa na fala sem atribuição de origem, como o bloco 3 já anuncia; a origem segue em paralelo em [sau-po-lei](/research/sau-po-lei). A crítica a "ponte é braço" ganha a formulação do autor no ensaio: a ponte é a conexão entre duas pessoas.
 - **Slides**: [versão permanente no Scholion](/slides/apresentando-cham-kiu/) (markdown + reveal.js, fonte em `content/slides/apresentando-cham-kiu.md`; tecla S abre as notas do apresentador). O deck de trabalho continua no claude.ai.
 - **Gravação de 2026-10-07** (vídeo de 5min56s, slides em [deck próprio](https://claude.ai/artifact/3yvQYKBS1PX3oGiAcBX25g)): o autor considerou a gravação fraca e vai regravar. A conferência da fala contra as fontes levou ao Hai Tong (seção "Hai Tong de Moy Yat" abaixo), que muda três pontos: a crítica a "ponte é braço" precisa ser amenizada, porque o Hai Tong aceita braços e pernas como ponte; "ponte curta do básico ao avançado" é leitura da linhagem, não do Si Taai Gung; o fecho passa a citar o Hai Tong.
+- **Texto em andamento** (2026-10-07): passou a ser o texto a partir da gravação, sem as interrupções da fala e com o slide de cada parte marcado; o roteiro anterior está no commit 6d732311. A página de treino e o dossiê de voz ainda refletem o roteiro anterior.
 - **Próximo**: regravar, com as correções da conferência; depois, se houver, incorporar o que o encontro trouxer.
 
 ## Motivação
@@ -82,50 +83,62 @@ O Hai Tong faz parte do material da série (trabalhado a partir do [V Encontro](
 
 ## Texto em andamento
 
-*(Roteiro de apresentação, 5 a 10 min, na primeira pessoa — texto para ser falado, não lido.)*
+*(Texto a partir da gravação de 2026-10-07, 5min56s, com as interrupções da fala retiradas. Os marcadores indicam o slide de cada parte, na ordem atual dos [slides](/slides/apresentando-cham-kiu/). O roteiro anterior está no histórico do git, commit 6d732311.)*
 
 ### Apresentando Cham Kiu
 
-**1. O nome, caractere por caractere**
+**[Slide 1 · 尋橋]**
 
-Cham Kiu se escreve 尋橋. Em mandarim, xún qiáo, segundo tom. Em cantonês, cam4 kiu4, quarto tom, que Si Fu descreveu no IV Encontro como cortado e seco.
+Sou Thiago Silva, mestre de Ving Tsun Kung Fu. Este material é para o encontro de idiomas, cultura e pensamento chinês para o Kung Fu. Tivemos dois encontros sobre Cham Kiu, e a ideia agora é deixar uma referência para os demais.
 
-Cham 尋 quer dizer procurar, mas não no sentido de investigar ou pesquisar. É procurar com a mão, tatear, ato físico. A decomposição que fizemos no IV Encontro aponta nessa direção. Em cima, 彐, dedos. Embaixo, 寸, o pulso com o polegar, outro radical de mão. No meio, 工, trabalho, e 口, que Si Fu leu como marcar local, delimitar território, como em 国, país. A busca de Cham é busca física, feita com as duas mãos.
+**[Slide 2 · 尋橋 no sistema]**
 
-Aqui saio um pouco da série. O Shuowen, o dicionário de Xu Shen, do ano 100, lê o mesmo desenho de outro jeito. Define 尋 como 繹理也, desenrolar e pôr em ordem, e junta os componentes em dois pares: 工 e 口 são a desordem; 又 e 寸, as mãos, separam e arrumam. Duan Yucai, filólogo da dinastia Qing, diz no comentário que para pôr ordem em qualquer desordem é preciso primeiro achar a ponta do fio. Nessa leitura, Cham é buscar o início e o fim de algo para desembaraçar.
+O Cham Kiu é o segundo domínio do sistema Ving Tsun e faz a ligação entre o Siu Nim Tau e o Biu Ji. Se no Siu Nim Tau falamos da base, do fundamental, no Cham Kiu colocamos isso para andar, com outra referência.
 
-Kiu 橋 é ponte. O componente mais importante fica à esquerda: árvore, madeira. O lado direito, 喬, carrega o som e sugere algo grande que se curva. O Shuowen define 喬 justamente assim: alto e curvo. As duas partes juntas evocam a ponte chinesa tradicional, de madeira, arqueada.
+**[Slide 3 · 尋, Cham]**
 
-No dicionário, Cham Kiu é literalmente "procurar ponte".
+Como este é um encontro de cantonês instrumental, o foco é a etimologia do ideograma. Cham é *seek*, buscar. Uma procura ativa.
 
-**2. As traduções que correm por aí, e a da nossa linhagem**
+**[Slide 4 · 尋: duas mãos]**
 
-No jargão do Ving Tsun, "ponte" virou apelido para "braço". Por esse caminho, Cham Kiu vira "procurar o braço", a tradução mais repetida entre as famílias, às vezes "procurar abraço". Si Fu não compra essa leitura: o foco do praticante devia ser a linha central, e quando a ponte vira braço o nome da forma aponta para o lugar errado. A ponte é a conexão entre duas pessoas, não uma parte do corpo.
+É formado por dois ideogramas de mão. As duas partes de baixo, gong e kou, fazem referência à mão esquerda e à mão direita, e o ideograma traz também a medida.
 
-Tem também uma variante de linhagem que troca Cham por um homófono, Chau 沉, afundar, submergir. Nessa leitura é "afundar a ponte". A ponte aqui é a estrutura, o quadril que conecta braços e pernas, e afundar a ponte é quebrar a estrutura do outro, como num Lap Sau.
+**[Slide 5 · Shuowen]**
 
-Na nossa linhagem, a tradução usual é "ponte curta". Cham, em uso antigo, é também uma medida, uma braça: a distância de punho a punho com os braços abertos, sem contar a mão. Claudio já tinha achado isso na pesquisa preliminar dele, no IV Encontro, como medida antiga de oito pés, a envergadura de uma pessoa de mãos abertas. É medida subjetiva, varia de pessoa para pessoa. Uma ponte de um Cham só, ponte curta, sugere risco ou bloqueio: sem ela a pessoa não atravessa para o outro lado, mesmo que a distância em número seja pequena. Cham Kiu passa a ser "atravessar uma ponte curta". Leio isso em dois planos. Na própria forma, os deslocamentos são curtos. No sistema, o Cham Kiu é a travessia curta entre o básico, o Siu Nim Tau, e o avançado, o Biu Ji. E o termo se estende para todas as travessias, do que já se sabe fazer para o que ainda não se sabe.
+Sobre as duas mãos, Xu Shen escreveu, no ano 100, que 尋 é desenrolar e pôr em ordem. Gong e kou são a desordem. É engraçado, porque gong é trabalho e kou é boca, e trabalhar só com a boca pode gerar desordem; talvez dizer mais do que agir. As mãos separam e arrumam. Daí vem a ideia de medida, que volta adiante.
 
-A imagem de ponte, nessa leitura, deixa de ser a ponte de madeira arqueada do ideograma. É a ponte de corda, que balança quando se pisa nela e exige equilíbrio físico e emocional para que a travessia aconteça. A ponte é curta porque o desafio não está no comprimento, está no que ela pede de quem atravessa.
+**[Slide 6 · Duan Yucai, 緒]**
 
-O que passa debaixo da ponte é água. Si Fu lembrou isso no XIII Encontro: o caminho passa no nível do solo, o túnel passa por baixo, a ponte passa por cima.
+Duan Yucai reforça: para pôr em ordem qualquer desordem, é preciso primeiro achar a ponta do fio, e só então traçar o método para ordená-la. Para ordenar, é preciso achar as duas pontas. Em outros escritos aparece também o território, conhecê-lo de cabo a rabo, de leste a oeste, de um extremo ao outro.
 
-**3. Onde isso mora dentro do sistema: Sau Po Lei**
+**[Slide 7 · 尋, unidade de medida]**
 
-Aqui saio do que foi visto na série. Proponho ler os três domínios iniciais por 守破離, Sau Po Lei: seguir a regra, quebrar a regra, sair da regra.
+Daí a ideia de medida, a última parte do Cham, o shan.
 
-O Siu Nim Tau é Sau, seguir a regra. Os pés plantados, sem compensação, a forma obedecida exatamente como foi ensinada. O primeiro Jiu Sik da primeira sequência, o Yi Ji Kim Yeung Ma, é agarrar o solo e criar raiz.
+**[Slide 8 · 尋: duas mãos medindo, 八尺一尋]**
 
-O Cham Kiu é Po, quebrar a regra. A estrutura fixa do Siu Nim Tau não resiste a uma situação instável. Si Fu usou o passeio de barco em Angra: a qualidade do barco é estar sempre em reequilíbrio, nunca parado. Em terra dá para pousar os dois pés no chão sem compensar nada. Na água a estabilidade não existe e a compensação é obrigatória: o peso vai para um lado e gira, vai para o outro e gira, sempre trocando. Equilíbrio como estado deixa de ser equilíbrio.
+八尺一尋, bā chǐ yī xún, oito pés, um Cham. É a outra ideia do Cham, a medida. No nosso sistema, é mais ou menos a distância que se percorre ao fazer Cham Kiu, razoavelmente curta. É uma braça.
 
-Os movimentos do Siu Nim Tau reaparecem no Cham Kiu desenvolvidos. A pessoa vê que um gesto é igual a outro do Siu Nim Tau, só que agora puxa os dois, ou agora vira, com outra roupagem e a mesma essência.
+**[Slide 9 · 橋, Kiu]**
 
-O Biu Ji é Lei, sair da regra. É o mais intuitivo e o mais dinâmico dos três, e o que mais aquece.
+Kiu é ponte, não há muito o que inventar. No jargão marcial, muita gente traduz ponte como braço, e acho essa ideia um pouco perigosa, talvez infantil, porque leva a dizer que o movimento do Cham Kiu é ir pegar o braço. Eu leria ponte como conexão. Toda ponte serve para atravessar algo, percorrer, conectar duas ideias. No marcial, conectar com o outro.
 
-Cada domínio deixa uma sensação diferente no corpo. Terminado o Siu Nim Tau, na perna, no braço, no quadril, na cabeça, no punho. No Cham Kiu, nas juntas: quadril, joelho, ombro, cotovelo. No Biu Ji, o calor.
+**[Slide 10 · 橋 = 木 + 喬]**
 
-**4. Fecho: a ponte para o Biu Ji**
+Nos radicais, 橋 é formado por muk, árvore, o mesmo de Muk Yan Jong e de Moy. O pilar também usa esse radical.
 
-O Cham Kiu é a ponte curta. Do outro lado dela está o Biu Ji, um Kung Fu avançado, de alto nível.
+**[Slide 11 · 喬]**
 
-*(Fontes de cada ponto: ver "Notas do Scholion já relacionadas" acima. Exceções: 守破離 Sau Po Lei não vem da série, é leitura proposta para esta apresentação (origem em [sau-po-lei](/research/sau-po-lei)); a leitura do Shuowen (尋 e 喬) e do 段注 no bloco 1 também não vem da série, e está verificada em [etimologia-de-cham-kiu-xun-qiao](/notes/etimologia-de-cham-kiu-xun-qiao/), [etimologia-de-kiu-qiao-55ac](/notes/etimologia-de-kiu-qiao-55ac/) e [etimologia-de-cham](/research/etimologia-de-cham); a leitura de "ponte curta" em dois planos, a ponte como conexão entre duas pessoas e o fecho do bloco 4 são do autor, no ensaio e nas decisões de 2026-10-07.)*
+E kiu, que a princípio é só o fonético. Podiam ter escolhido outro, mas kiu é interessante porque vai para cima. É alto, e várias palavras de altura ou elevação usam kiu. Duan Yucai cita 南有喬木, nán yǒu qiáo mù, no sul há árvores muito altas, e o alto ali é kiu. Só que não é só alto, é alto e curvo, e ele salienta isso. Se fosse só alto, teria usado gāo. É um alto meio curvado, que se curva em alguma direção.
+
+**[Slides 12 e 13 · Hai Tong: 橋 e o que se procura]**
+
+*(Sem fala nesta gravação: os dois slides foram criados depois dela.)*
+
+**[Slide 14 · fecho]**
+
+Não sei se para o Si Taai Gung isso era óbvio demais para ser dito, mas o Cham Kiu é essa busca de elevar. O Si Taai Gung escreve que Cham Kiu é uma ponte razoavelmente curta que liga um Kung Fu básico a um avançado. Não sei se esse kiu de ponte é o avançado a que ele se refere, mas me parece pertinente.
+
+Por hoje é isso. Obrigado pela paciência. Até mais.
+
+*(Pontos da fala que divergem das fontes conferidas, ver "Hai Tong de Moy Yat" e as notas de etimologia: gong e kou não são as mãos, que são 左 = 工 + 寸 e 右 = ⺕ + 口; o Duan fala de uma ponta do fio (緒), não de duas, e não fala de território; 南有喬木 é citado pelo Shuowen, não pelo Duan; "ponte curta, do básico ao avançado" é leitura da linhagem, não do Hai Tong.)*
