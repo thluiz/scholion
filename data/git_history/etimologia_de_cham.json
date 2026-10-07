@@ -1,14 +1,14 @@
 [
   {
+    "date": "2026-10-07",
+    "subject": "research: corrigir tradução do 段注 (緒, 引伸之義爲長) em Etimologia de Cham 尋"
+  },
+  {
     "date": "2026-04-22",
     "subject": "research: verificações sobre 工口 e polimento na voz"
   },
   {
     "date": "2026-04-14",
     "subject": "fix: ajustar data da pesquisa Cham para evitar buildFuture=false"
-  },
-  {
-    "date": "2026-04-14",
-    "subject": "research: ajustar sumário em etimologia de Cham 尋"
   }
 ]
