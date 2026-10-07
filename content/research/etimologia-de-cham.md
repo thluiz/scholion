@@ -20,9 +20,9 @@ Quando o senhor comentou "Este dicionário é confiável" fiquei na dúvida se i
 
 Eu também estava incomodado com a ideia de "buscar". O ideograma antigo tem 彡 de medir e muitos comentam que a ideia é que ao medir com uma fita é preciso buscar a outra ponta dela. O fio pode estar embolado, o que leva à ideia de desenvolver.
 
-O Duan Yucai coloca: 謂抽繹而治之。凡治亂必得其緒而後設法治之。引伸之義爲長 — *Xun* (cham) significa extrair e governar. Ao governar o caos, é preciso primeiro compreender seus princípios subjacentes antes de elaborar um método para governá-lo, o que reforça essa ideia da busca.
+O Duan Yucai coloca: 謂抽繹而治之。凡治亂必得其緒而後設法治之。引伸之義爲長 — *Xun* (cham) quer dizer puxar os fios e pôr em ordem. Para pôr ordem em qualquer desordem, é preciso primeiro achar a ponta do fio (緒), e só então traçar o modo de ordená-la, o que reforça essa ideia da busca. Por extensão, o sentido é "longo".
 
-A extensão desse terreno a ser governado ganha a ideia de vasto, longo, e é citada como cham novamente por vários autores sequentes (ex: 方言曰。尋長也 — Fangyan diz: Xun é longo).
+Na minha leitura, esse "longo" é a extensão do terreno a ser ordenado, que ganha a ideia de vasto, e é citada como cham novamente por vários autores sequentes (ex: 方言曰。尋長也 — Fangyan diz: Xun é longo).
 
 O Duan Yucai dá uma viajada sobre como Xun/Cham pode ser quente e frio ao mesmo tempo de acordo com o texto que ainda não entendi (em aberto), mas por final ele fala: 从工口。从又寸。工口、亂也。又寸、分理之也 — É composto por "gong" e "kou", e "you" e "cun". "Gong" e "kou" significam caos. "You" e "cun" significam dividir e administrar (fazendo a referência cíclica de mão esquerda/direita que mandei semana passada). Administrar aqui nesse sentido de ordenar, desembaraçar, buscar e medir. (2000 anos depois o Peter Drucker vai dizer que se algo pode ser medido, então pode ser administrado — garoto jovem.)
 
@@ -42,7 +42,7 @@ De onde eu não concluo nada e por isso não virou texto ainda.
 
 ### Shuowen Jiezi + 段注 Duan Yucai — via shuowen.org
 - ✓ 繹理也。从工从口从又从寸 — verificado contra [shuowen.org](https://www.shuowen.org)
-- ✓ 謂抽繹而治之。凡治亂必得其緒而後設法治之。引伸之義爲長 — 段注 verificado
+- ✓ 謂抽繹而治之。凡治亂必得其緒而後設法治之。引伸之義爲長 — 段注 verificado. Tradução revista em 2026-10-07: a anterior ("extrair e governar", "compreender seus princípios subjacentes") não tinha origem registrada e afastava 緒 da imagem do fio; 緒 é a ponta do fio, 治 é pôr em ordem, 引伸之義爲長 é "por extensão, o sentido é 'longo'". A leitura do "longo" como terreno a ser ordenado é do autor.
 - ✓ 方言曰。尋長也 — citação do Fangyan na 段注, verificada
 - ✓ 从工口。从又寸。工口、亂也。又寸、分理之也 — decomposição na 段注, verificada
 - ✓ Passagem quente/frio: 若可尋也，亦可寒也 — do Zuozhuan, via 段注
