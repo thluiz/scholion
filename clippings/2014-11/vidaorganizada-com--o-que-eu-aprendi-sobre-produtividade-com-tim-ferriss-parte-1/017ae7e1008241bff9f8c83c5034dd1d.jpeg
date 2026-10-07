@@ -1,0 +1,1277 @@
+<!DOCTYPE html>
+<html lang="en-US"
+	itemscope 
+	itemtype="http://schema.org/Article" 
+	xmlns="http://www.w3.org/1999/xhtml" 
+	xmlns:og="http://ogp.me/ns#" 
+	xmlns:fb="http://www.facebook.com/2008/fbml" >
+<head>
+
+<title>O que eu aprendi sobre produtividade com Tim Ferris: parte 1 | Vida Organizada | Thais Godinho - Part 6991264961408618585</title>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width; initial-scale=1.0" />
+<meta property="fb:app_id" content="463057467084716" />
+
+<link rel="stylesheet" type="text/css" href="http://vidaorganizada.com/wp-content/themes/blog2013/css.php" media="all" />
+<style type="text/css">.fancybox-title {display:none;}</style>
+
+<script src="http://vidaorganizada.com/wp-content/themes/blog2013/lib/js/jquery-1.8.1.js"></script>
+<!--[if lt IE 9]>
+  <script src="http://vidaorganizada.com/wp-content/themes/blog2013/lib/js/html5.js"></script>
+  <script src="http://vidaorganizada.com/wp-content/themes/blog2013/lib/js/mediaqueries.js"></script>
+<![endif]-->
+<!--[if IE]><script src="http://vidaorganizada.com/wp-content/themes/blog2013/lib/js/ie.js"></script><![endif]-->
+<script src="http://vidaorganizada.com/wp-content/themes/blog2013/lib/js/modernizr.js"></script>
+<script>$(function() { $('#menu ul.menu-categories').find('> li').each(function(i){ var num = (i%10) + 1; $(this).addClass( 'color_' + num ); }); $("#menu li.color_6, #menu li.color_7, #menu li.color_8, #menu li.color_9").addClass('reverse'); $("#menu li:has(ul)").addClass('arrow'); });</script>
+
+<link rel="shortcut icon" href="http://vidaorganizada.com/wp-content/themes/blog2013/lib/imgs/favicon.png" />
+<link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/vidaorganizada/blog" title="Vida Organizada | Thais Godinho &raquo; Feed" />
+<link rel="alternate" type="application/rss+xml" href="http://vidaorganizada.com/comments/feed/" title="Vida Organizada | Thais Godinho &raquo; Comments Feed" />
+<link rel="alternate" type="application/rss+xml" href="http://vidaorganizada.com/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/feed" title="Vida Organizada | Thais Godinho &raquo; O que eu aprendi sobre produtividade com Tim Ferris: parte 1 - Feed" />
+<!-- Theme by Difluir - http://difluir.com -->
+<link rel='stylesheet' id='dldshortcodes-css'  href='http://vidaorganizada.com/wp-content/plugins/dldshortcodes-vo/css/shortcodes.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://vidaorganizada.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery.jtweetsanywhere-css'  href='http://vidaorganizada.com/wp-content/plugins/real-time-twitter/css/jquery.jtweetsanywhere-1.3.1.css?ver=1.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css'  href='http://vidaorganizada.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.0.3' type='text/css' media='all' />
+<!-- This site uses the Yoast Google Analytics plugin v5.0.7 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-23538929-1']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Yoast Google Analytics -->
+<script type='text/javascript' src='http://vidaorganizada.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://vidaorganizada.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://vidaorganizada.com/wp-content/plugins/real-time-twitter/js/jquery.jtweetsanywhere-1.3.1.min.js?ver=1.3.1'></script>
+<script type='text/javascript' src='http://vidaorganizada.com/wp-content/plugins/real-time-twitter/js/jtweetsanywhere-de-1.3.1.min.js?ver=1.3.1'></script>
+<script type='text/javascript' src='http://platform.twitter.com/anywhere.js?id=KmxsGWdbeYa1gHOIS9AjA&#038;v=1&#038;ver=4.0'></script>
+<script type='text/javascript' src='http://vidaorganizada.com/wp-content/plugins/real-time-twitter/js/jquery.jslidery-0.1.0.js?ver=0.1.0'></script>
+<script type="text/javascript">
+	window._wp_rp_static_base_url = 'https://wprp.zemanta.com/static/';
+	window._wp_rp_wp_ajax_url = "http://vidaorganizada.com/wp-admin/admin-ajax.php";
+	window._wp_rp_plugin_version = '3.5.1';
+	window._wp_rp_post_id = '14824';
+	window._wp_rp_num_rel_posts = '5';
+	window._wp_rp_thumbnails = true;
+	window._wp_rp_post_title = 'O+que+eu+aprendi+sobre+produtividade+com+Tim+Ferris%3A+parte+1';
+	window._wp_rp_post_tags = ['tim+ferriss', 'organize-se%21', 'melhore+sua+produtividade', 'foi', 'semana', 'na', '4', 'tim', 'eu', 'journal', 'de', 'em', 'ferri', 'n1', 'uma', 'como', 'york', 'wall'];
+	window._wp_rp_promoted_content = false;
+</script>
+<script type="text/javascript" src="https://wprp.zemanta.com/static/js/loader.js?version=3.5.1" async></script>
+            <!-- Wordpress Popular Posts v3.0.3 -->
+            <script type="text/javascript">//<![CDATA[
+				jQuery(document).ready(function(){
+					jQuery.get('http://vidaorganizada.com/wp-admin/admin-ajax.php', {
+						action: 'update_views_ajax',
+						token: '9624df66da',
+						id: 14824					}, function(response){
+						if ( console && console.log )
+							console.log(response);
+					});
+				});
+			//]]></script>
+            <!-- End Wordpress Popular Posts v3.0.3 -->
+            
+<!-- All in One SEO Pack 2.2.3.1 by Michael Torbert of Semper Fi Web Design[212,342] -->
+<meta name="description" itemprop="description" content="Hoje inicio uma série de posts com aprendizados sobre produtividade que tive lendo os livros do Tim Ferriss. Falei sobre o primeiro livro dele em um post" />
+
+<meta name="keywords" itemprop="keywords" content="melhore sua produtividade,organize-se!" />
+<meta name="robots" content="index,nofollow" />
+<link rel='prev' href='http://vidaorganizada.com/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618584/' />
+
+<link rel="canonical" href="http://vidaorganizada.com/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/" />
+<meta property="og:title" content="O que eu aprendi sobre produtividade com Tim Ferris: parte 1 | Vida Organizada | Thais Godinho - Part 6991264961408618585" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://vidaorganizada.com/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/" />
+<meta property="og:image" content="http://vidaorganizada.com/wp-content/uploads/2014/07/140714-tim-ferriss.jpg" />
+<meta property="og:site_name" content="Vida Organizada | Dicas de organização para facilitar sua vida" />
+<meta property="fb:admins" content="616942914" />
+<meta property="og:description" content="Hoje inicio uma série de posts com aprendizados sobre produtividade que tive lendo os livros do Tim Ferriss. Falei sobre o primeiro livro dele em um post anterior e muitos de vocês me pediram resenha - eu não teria como fazer uma resenha do livro, pois tenho muita coisa a falar a respeito. Precisei escrever uma série de posts, sendo este o primeiro. Quem é Tim Ferriss? Timothy Ferriss (nascido em 20 de julho de 1977) é um escritor americano, empresário, investidor anjo e palestrante. Em 2007 lançou seu primeiro livro, Trabalhe 4 Horas por Semana, e alcançou a posição nº1 na lista de bestseller do New York Times e nº1 na lista de bestsellers do jornal Wall Street Journal. Desde o seu lançamento, o livro Trabalhe 4 Horas Por Semana ficou sete anos consecutivos em listas de bestseller. Em 2010, Tim lançou o livro 4 Horas Para o Corpo e alcançou novamente a posição nº1 na lista de bestsellers do New York Times. Seu terceiro livro foi lançado em 2012, O Chefe de Cozinha de Quatro Horas, e" />
+<meta property="article:published_time" content="2014-07-14T10:00:00Z" />
+<meta property="article:modified_time" content="2014-10-07T00:26:25Z" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@vidaorganizada" />
+<meta name="twitter:description" content="Hoje inicio uma série de posts com aprendizados sobre produtividade que tive lendo os livros do Tim Ferriss. Falei sobre o primeiro livro dele em um post anterior e muitos de vocês me pediram resenha - eu não teria como fazer uma resenha do livro, pois tenho muita coisa a falar a respeito. Precisei escrever uma série de posts, sendo este o primeiro. Quem é Tim Ferriss? Timothy Ferriss (nascido em 20 de julho de 1977) é um escritor americano, empresário, investidor anjo e palestrante. Em 2007 lançou seu primeiro livro, Trabalhe 4 Horas por Semana, e alcançou a posição nº1 na lista de bestseller do New York Times e nº1 na lista de bestsellers do jornal Wall Street Journal. Desde o seu lançamento, o livro Trabalhe 4 Horas Por Semana ficou sete anos consecutivos em listas de bestseller. Em 2010, Tim lançou o livro 4 Horas Para o Corpo e alcançou novamente a posição nº1 na lista de bestsellers do New York Times. Seu terceiro livro foi lançado em 2012, O Chefe de Cozinha de Quatro Horas, e" />
+<meta itemprop="image" content="http://vidaorganizada.com/wp-content/uploads/2014/07/140714-tim-ferriss.jpg" />
+<!-- /all in one seo pack -->
+
+<!-- barra personare -->
+<script>var _psr = _psr || {};_psr = {site: 'vidaorganizada',siteName: 'Vida Organizada',adskey: '8948849',sitekey: 'vidaorganizada',fbUrl: false,cdnUrl: ('https:' == document.location.protocol ? 'https://www.personare.com.br' : 'http://static.personare.com.br'),partner: true};(function() {var psr = document.createElement('script'); psr.type = 'text/javascript'; psr.async = true;psr.src = _psr.cdnUrl + '/barra/js/psr-barra-grupopersonare.min.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(psr, s);})();</script>
+<!-- fim barra personare -->
+
+<!-- google ads -->
+<script>(function() { var useSSL = 'https:' == document.location.protocol; var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js'; document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>'); })(); </script> 
+<script>googletag.defineSlot('/'+_psr.adskey+'/vidaorganizada300x250', [300, 250], 'psr-vidaorganizada-ads-300x250').addService(googletag.pubads());googletag.defineSlot('/'+_psr.adskey+'/Criteo_Passback_portalpersonare_300x250', [300, 250], 'div-gpt-ad-Criteopassbackportalpersonare300x250-1392832847483-0').addService(googletag.pubads());googletag.defineSlot('/'+_psr.adskey+'/TailTarget_Passback_portalpersonare_300x250', [300, 250], 'div-gpt-ad-TailTargetpassbackportalpersonare300x250-1392832847483-0').addService(googletag.pubads());googletag.defineSlot('/'+_psr.adskey+'/vidaorganizadaM300x250', [300, 250], 'psr-vidaorganizada-ads-M300x250').addService(googletag.pubads());googletag.defineSlot('/'+_psr.adskey+'/Criteo_Passback_portalpersonare_M300x250', [300, 250], 'div-gpt-ad-CriteopassbackportalpersonareM300x250-1392832847483-0').addService(googletag.pubads());googletag.defineSlot('/'+_psr.adskey+'/TailTarget_Passback_portalpersonare_M300x250', [300, 250], 'div-gpt-ad-TailTargetpassbackportalpersonareM300x250-1392832847483-0').addService(googletag.pubads());googletag.defineSlot('/'+_psr.adskey+'/vidaorganizadaW300x250', [300, 250], 'psr-widget-vidaorganizadaW300x250').addService(googletag.pubads());googletag.pubads().setTargeting('canal',['230','232','234','190','194','7','174','170','176','224','226','210','212','220','214','230','232','234','190','194','7','174','170','176','224','226','210','212','220','214']); googletag.pubads().setTargeting('partner', 'vidaorganizada'); googletag.pubads().enableSyncRendering(); googletag.pubads().enableSingleRequest(); googletag.enableServices(); </script>
+<!-- fim google ads -->
+
+</head>
+<body class="single single-post postid-14824 single-format-standard paged-6991264961408618585 single-paged-6991264961408618585">
+
+<!--[if IE 7 ]><div class="ie ie7"><![endif]-->
+<!--[if IE 8 ]><div class="ie ie8"><![endif]-->
+<!--[if IE 9 ]><div class="ie ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><div class="no-ie"><!--<![endif]-->
+
+<div class="header-space"></div>
+
+<!--wrapper-->
+<div class="wrapper">
+<div class="container">
+
+<header id="header" class="clearfix" role="banner">    
+
+<nav id="menupages" role="navigation">
+  <h4 class="hide-all">Menu páginas</h4>
+  <ul class="menu-pages unstyled clearfix"><li id="menu-item-11170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11170"><a href="http://vidaorganizada.com/">Home</a></li>
+<li id="menu-item-2456" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2456"><a href="http://vidaorganizada.com/sobre/">Sobre</a></li>
+<li id="menu-item-15055" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15055"><a href="http://vidaorganizada.com/livro/">Livro</a></li>
+<li id="menu-item-14497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14497"><a href="http://vidaorganizada.com/servicos/">Serviços</a></li>
+<li id="menu-item-14879" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14879"><a href="http://vidaorganizada.com/arquivo/">Arquivo</a></li>
+<li id="menu-item-14942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14942"><a href="http://vidaorganizada.com/sobre/recomendo/">Recomendo</a></li>
+<li id="menu-item-14943" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14943"><a href="http://vidaorganizada.com/contato/faq-perguntas-mais-frequentes/">FAQ</a></li>
+<li id="menu-item-2459" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2459"><a href="http://vidaorganizada.com/contato/">Contato</a></li>
+</ul> 
+</nav> 
+
+<div id="search" class="box clearfix">
+    <form action="http://vidaorganizada.com/" method="get" role="search">
+      <label for="s" class="hide-text">Buscar posts no blog</label>
+      <input type="text" name="s" id="s" value="" placeholder="O que você procura?" />
+      <input type="submit" value="Ok" />
+    </form>
+</div> 
+<div id="rss" class="box clearfix"><a href="http://feeds.feedburner.com/vidaorganizada/blog" target="_blank" title="Assine os feeds"><i class="icon"></i> Assine os feeds</a></div>   
+
+<div class="clear"></div> 
+
+<h1 id="logo"><a href="http://vidaorganizada.com" rel="home" title="Vida Organizada | Thais Godinho"><img src="http://vidaorganizada.com/wp-content/themes/blog2013/lib/imgs/logo.png" width="210" height="210" alt="Vida Organizada | Thais Godinho" /></a></h1>        
+
+<div class="right-content clearfix">
+  <nav id="menu" class="font-menu" role="navigation">
+      <h4 class="hide-all">Menu categorias</h4>   
+      <ul class="menu-categories unstyled clearfix">	<li class="cat-item cat-item-1"><a href="http://vidaorganizada.com/categoria/organizacao/" title="Todos os dias uma dica de organização para facilitar a sua vida.">Organize-se!</a>
+<ul class='children'>
+	<li class="cat-item cat-item-697"><a href="http://vidaorganizada.com/categoria/organizacao/comece/" title="Esta é a seção do blog com posts para quem está começando a se organizar. Ser organizado não é ter uma casa com cara de capa de revista, mas encontrar soluções funcionais para sua vida ter mais praticidade. A organização não é um fim, mas um meio, e não existe organização perfeita, mas o que funciona para nós. Veja abaixo então textos que ajudarão você a encontrar a melhor maneira de gerenciar o seu tempo e aproveitar melhor a vida.">Comece agora</a>
+</li>
+	<li class="cat-item cat-item-778"><a href="http://vidaorganizada.com/categoria/organizacao/motivacao-organizacao/" >Encontrando motivação</a>
+</li>
+	<li class="cat-item cat-item-775"><a href="http://vidaorganizada.com/categoria/organizacao/ser-organizada/" >Sobre ser uma pessoa organizada</a>
+</li>
+	<li class="cat-item cat-item-600"><a href="http://vidaorganizada.com/categoria/organizacao/como-organizar/" >Como organizar qualquer coisa</a>
+</li>
+	<li class="cat-item cat-item-777"><a href="http://vidaorganizada.com/categoria/organizacao/antes-depois/" >Antes &amp; Depois</a>
+</li>
+	<li class="cat-item cat-item-723"><a href="http://vidaorganizada.com/categoria/organizacao/como-me-organizo/" >Como me organizo</a>
+</li>
+	<li class="cat-item cat-item-188"><a href="http://vidaorganizada.com/categoria/organizacao/financas-pessoais/" >Finanças pessoais</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-734"><a href="http://vidaorganizada.com/categoria/organizacao/financas-pessoais/compras/" >Compras inteligentes</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-700"><a href="http://vidaorganizada.com/categoria/organizacao/organizacao-profissional/" >Organização profissional</a>
+</li>
+	<li class="cat-item cat-item-613"><a href="http://vidaorganizada.com/categoria/organizacao/minimalismo-simplicidade/" >Minimalismo e simplicidade</a>
+</li>
+	<li class="cat-item cat-item-689"><a href="http://vidaorganizada.com/categoria/organizacao/destralhando/" >Destralhando</a>
+</li>
+	<li class="cat-item cat-item-797"><a href="http://vidaorganizada.com/categoria/organizacao/reduzindo-a-quantidade-de-papel/" >Reduzindo a quantidade de papel</a>
+</li>
+	<li class="cat-item cat-item-591"><a href="http://vidaorganizada.com/categoria/organizacao/desafios/" >Desafios de organização</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-316"><a href="http://vidaorganizada.com/categoria/casa/" title="Aprenda a organizar sua casa.">Sua casa</a>
+<ul class='children'>
+	<li class="cat-item cat-item-785"><a href="http://vidaorganizada.com/categoria/casa/por-comodo/" >Por cômodo</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-637"><a href="http://vidaorganizada.com/categoria/casa/por-comodo/entrada/" >Entrada</a>
+</li>
+	<li class="cat-item cat-item-636"><a href="http://vidaorganizada.com/categoria/casa/por-comodo/sala/" >Sala</a>
+</li>
+	<li class="cat-item cat-item-712"><a href="http://vidaorganizada.com/categoria/casa/por-comodo/varanda-e-quintal/" >Varanda e quintal</a>
+</li>
+	<li class="cat-item cat-item-604"><a href="http://vidaorganizada.com/categoria/casa/por-comodo/quartos-crianca-bebe/" >Quartos de crianças e bebês</a>
+</li>
+	<li class="cat-item cat-item-714"><a href="http://vidaorganizada.com/categoria/casa/por-comodo/area-de-servico/" >Área de serviço</a>
+</li>
+	<li class="cat-item cat-item-670"><a href="http://vidaorganizada.com/categoria/casa/por-comodo/home-office/" >Home-office</a>
+</li>
+	<li class="cat-item cat-item-711"><a href="http://vidaorganizada.com/categoria/casa/por-comodo/cozinha-e-jantar/" >Cozinha e jantar</a>
+</li>
+	<li class="cat-item cat-item-713"><a href="http://vidaorganizada.com/categoria/casa/por-comodo/quartos/" >Quartos</a>
+</li>
+	<li class="cat-item cat-item-666"><a href="http://vidaorganizada.com/categoria/casa/por-comodo/banheiros/" >Banheiros</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-795"><a href="http://vidaorganizada.com/categoria/casa/animais-de-estimacao/" >Animais de estimação</a>
+</li>
+	<li class="cat-item cat-item-786"><a href="http://vidaorganizada.com/categoria/casa/armazenando-coisas/" >Armazenando coisas</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-787"><a href="http://vidaorganizada.com/categoria/casa/armazenando-coisas/fotos/" >Fotos</a>
+</li>
+	<li class="cat-item cat-item-789"><a href="http://vidaorganizada.com/categoria/casa/armazenando-coisas/material-de-artesanato/" >Material de artesanato</a>
+</li>
+	<li class="cat-item cat-item-623"><a href="http://vidaorganizada.com/categoria/casa/armazenando-coisas/papelada/" >Papelada</a>
+</li>
+	<li class="cat-item cat-item-609"><a href="http://vidaorganizada.com/categoria/casa/armazenando-coisas/guarda-roupa-closet/" >Guarda-roupa e closet</a>
+</li>
+	<li class="cat-item cat-item-715"><a href="http://vidaorganizada.com/categoria/casa/armazenando-coisas/brinquedos/" >Brinquedos</a>
+</li>
+	<li class="cat-item cat-item-716"><a href="http://vidaorganizada.com/categoria/casa/armazenando-coisas/despensa/" >Despensa</a>
+</li>
+	<li class="cat-item cat-item-717"><a href="http://vidaorganizada.com/categoria/casa/armazenando-coisas/carro-e-garagem/" >Carro e garagem</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-725"><a href="http://vidaorganizada.com/categoria/casa/dicas-organizar-a-casa/" >Dicas para organizar a casa</a>
+</li>
+	<li class="cat-item cat-item-336"><a href="http://vidaorganizada.com/categoria/casa/mudancas/" >Mudanças</a>
+</li>
+	<li class="cat-item cat-item-478"><a href="http://vidaorganizada.com/categoria/casa/seguranca/" >Segurança</a>
+</li>
+	<li class="cat-item cat-item-685"><a href="http://vidaorganizada.com/categoria/casa/decoracao/" >Dicas de decoração</a>
+</li>
+	<li class="cat-item cat-item-655"><a href="http://vidaorganizada.com/categoria/casa/feng-shui/" >Feng shui</a>
+</li>
+	<li class="cat-item cat-item-730"><a href="http://vidaorganizada.com/categoria/casa/comprando-alugando/" >Comprando ou alugando</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-327"><a href="http://vidaorganizada.com/categoria/solucoes/" >Soluções de organização</a>
+<ul class='children'>
+	<li class="cat-item cat-item-794"><a href="http://vidaorganizada.com/categoria/solucoes/produtividade/" >Melhore sua produtividade</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-796"><a href="http://vidaorganizada.com/categoria/solucoes/produtividade/lidando-com-a-procrastinacao/" >Lidando com a procrastinação</a>
+</li>
+	<li class="cat-item cat-item-476"><a href="http://vidaorganizada.com/categoria/solucoes/produtividade/gtd/" >GTD</a>
+</li>
+	<li class="cat-item cat-item-771"><a href="http://vidaorganizada.com/categoria/solucoes/produtividade/tecnica-pomodoro/" >Técnica Pomodoro</a>
+</li>
+	<li class="cat-item cat-item-659"><a href="http://vidaorganizada.com/categoria/solucoes/produtividade/reunioes/" >Reuniões</a>
+</li>
+	<li class="cat-item cat-item-662"><a href="http://vidaorganizada.com/categoria/solucoes/produtividade/e-mails/" >E-mails</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-679"><a href="http://vidaorganizada.com/categoria/solucoes/aplicativos-e-ferramentas/" >Aplicativos e ferramentas</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-773"><a href="http://vidaorganizada.com/categoria/solucoes/aplicativos-e-ferramentas/microsoft-outlook/" >Microsoft Outlook</a>
+</li>
+	<li class="cat-item cat-item-594"><a href="http://vidaorganizada.com/categoria/solucoes/aplicativos-e-ferramentas/evernote/" >Evernote</a>
+</li>
+	<li class="cat-item cat-item-621"><a href="http://vidaorganizada.com/categoria/solucoes/aplicativos-e-ferramentas/toodledo/" >Toodledo</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-477"><a href="http://vidaorganizada.com/categoria/solucoes/fly-lady/" >Sistema FLY Lady</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-624"><a href="http://vidaorganizada.com/categoria/solucoes/fly-lady/control-journal/" >Control journal</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-488"><a href="http://vidaorganizada.com/categoria/solucoes/downloads-planilhas/" >Downloads e planilhas</a>
+</li>
+	<li class="cat-item cat-item-341"><a href="http://vidaorganizada.com/categoria/solucoes/checklists/" >Checklists</a>
+</li>
+	<li class="cat-item cat-item-718"><a href="http://vidaorganizada.com/categoria/solucoes/livros-filmes-e-links/" >Livros, filmes e links</a>
+</li>
+	<li class="cat-item cat-item-788"><a href="http://vidaorganizada.com/categoria/solucoes/dicas-baratas/" >Dicas baratas</a>
+</li>
+	<li class="cat-item cat-item-619"><a href="http://vidaorganizada.com/categoria/solucoes/agenda/" >Agenda</a>
+</li>
+	<li class="cat-item cat-item-710"><a href="http://vidaorganizada.com/categoria/solucoes/resenhas-e-testes/" >Resenhas e testes</a>
+</li>
+	<li class="cat-item cat-item-779"><a href="http://vidaorganizada.com/categoria/solucoes/diy-faca-voce-mesmao/" >DIY &#8211; Faça você mesma(o)</a>
+</li>
+	<li class="cat-item cat-item-791"><a href="http://vidaorganizada.com/categoria/solucoes/rotuladora-e-etiquetas/" >Rotuladora e etiquetas</a>
+</li>
+	<li class="cat-item cat-item-780"><a href="http://vidaorganizada.com/categoria/solucoes/produtos-organizadores/" >Produtos organizadores</a>
+</li>
+	<li class="cat-item cat-item-783"><a href="http://vidaorganizada.com/categoria/solucoes/tecnologia/" >Tecnologia</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-643"><a href="http://vidaorganizada.com/categoria/rotinas/" >Rotinas</a>
+<ul class='children'>
+	<li class="cat-item cat-item-726"><a href="http://vidaorganizada.com/categoria/rotinas/organize-rotina-familia/" >Organize a rotina em família</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-758"><a href="http://vidaorganizada.com/categoria/rotinas/organize-rotina-familia/chegada-do-bebe/" >Chegada do bebê</a>
+</li>
+	<li class="cat-item cat-item-790"><a href="http://vidaorganizada.com/categoria/rotinas/organize-rotina-familia/atividades-de-homeschooling/" >Atividades de homeschooling</a>
+</li>
+	<li class="cat-item cat-item-707"><a href="http://vidaorganizada.com/categoria/rotinas/organize-rotina-familia/escolinha/" >Escolinha</a>
+</li>
+	<li class="cat-item cat-item-708"><a href="http://vidaorganizada.com/categoria/rotinas/organize-rotina-familia/filhos/" >Filhos</a>
+</li>
+	<li class="cat-item cat-item-704"><a href="http://vidaorganizada.com/categoria/rotinas/organize-rotina-familia/gravidez/" >Gravidez</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-729"><a href="http://vidaorganizada.com/categoria/rotinas/contas/" >Organizando contas</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-731"><a href="http://vidaorganizada.com/categoria/rotinas/contas/imposto-de-renda/" >Imposto de renda</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-720"><a href="http://vidaorganizada.com/categoria/rotinas/estacoes/" >Nesta estação</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-721"><a href="http://vidaorganizada.com/categoria/rotinas/estacoes/primavera/" >Primavera</a>
+</li>
+	<li class="cat-item cat-item-480"><a href="http://vidaorganizada.com/categoria/rotinas/estacoes/verao/" >Verão</a>
+</li>
+	<li class="cat-item cat-item-481"><a href="http://vidaorganizada.com/categoria/rotinas/estacoes/outono/" >Outono</a>
+</li>
+	<li class="cat-item cat-item-479"><a href="http://vidaorganizada.com/categoria/rotinas/estacoes/inverno/" >Inverno</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-220"><a href="http://vidaorganizada.com/categoria/rotinas/limpeza-arrumacao/" >Limpeza e arrumação</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-803"><a href="http://vidaorganizada.com/categoria/rotinas/limpeza-arrumacao/como-limpar/" >Como limpar</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-690"><a href="http://vidaorganizada.com/categoria/rotinas/festas/" >Organizando festinhas</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-735"><a href="http://vidaorganizada.com/categoria/rotinas/festas/cha-de-bebe/" >Chá de bebê</a>
+</li>
+	<li class="cat-item cat-item-736"><a href="http://vidaorganizada.com/categoria/rotinas/festas/cha-de-cozinha/" >Chá de cozinha</a>
+</li>
+	<li class="cat-item cat-item-638"><a href="http://vidaorganizada.com/categoria/rotinas/festas/casamento/" >Casamento</a>
+</li>
+	<li class="cat-item cat-item-430"><a href="http://vidaorganizada.com/categoria/rotinas/festas/aniversario/" >Aniversário</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-677"><a href="http://vidaorganizada.com/categoria/rotinas/comida/" >Comida</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-728"><a href="http://vidaorganizada.com/categoria/rotinas/comida/menu-semanal/" >Menu semanal</a>
+</li>
+	<li class="cat-item cat-item-757"><a href="http://vidaorganizada.com/categoria/rotinas/comida/receitas/" >Receitas</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-722"><a href="http://vidaorganizada.com/categoria/rotinas/recebendo-pessoas/" >Recebendo pessoas</a>
+</li>
+	<li class="cat-item cat-item-683"><a href="http://vidaorganizada.com/categoria/rotinas/feriados/" >Feriados</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-739"><a href="http://vidaorganizada.com/categoria/rotinas/feriados/dia-dos-namorados/" >Dia dos Namorados</a>
+</li>
+	<li class="cat-item cat-item-503"><a href="http://vidaorganizada.com/categoria/rotinas/feriados/carnaval/" >Carnaval</a>
+</li>
+	<li class="cat-item cat-item-491"><a href="http://vidaorganizada.com/categoria/rotinas/feriados/natal/" >Natal</a>
+</li>
+	<li class="cat-item cat-item-572"><a href="http://vidaorganizada.com/categoria/rotinas/feriados/ano-novo/" >Ano novo</a>
+</li>
+	<li class="cat-item cat-item-641"><a href="http://vidaorganizada.com/categoria/rotinas/feriados/dia-das-criancas/" >Dia das crianças</a>
+</li>
+	<li class="cat-item cat-item-658"><a href="http://vidaorganizada.com/categoria/rotinas/feriados/pascoa/" >Páscoa</a>
+</li>
+	<li class="cat-item cat-item-752"><a href="http://vidaorganizada.com/categoria/rotinas/feriados/dia-dos-pais/" >Dia dos pais</a>
+</li>
+	<li class="cat-item cat-item-802"><a href="http://vidaorganizada.com/categoria/rotinas/feriados/dia-das-maes/" >Dia das mães</a>
+</li>
+	<li class="cat-item cat-item-642"><a href="http://vidaorganizada.com/categoria/rotinas/feriados/dia-das-bruxas/" >Dia das bruxas</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-368"><a href="http://vidaorganizada.com/categoria/rotinas/dicas-estudos/" >Dicas de estudos</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-763"><a href="http://vidaorganizada.com/categoria/rotinas/dicas-estudos/professores/" >Professores</a>
+</li>
+	<li class="cat-item cat-item-764"><a href="http://vidaorganizada.com/categoria/rotinas/dicas-estudos/concursos/" >Concursos</a>
+</li>
+	<li class="cat-item cat-item-765"><a href="http://vidaorganizada.com/categoria/rotinas/dicas-estudos/faculdade-e-pos-graduacao/" >Faculdade e pós-graduação</a>
+</li>
+	<li class="cat-item cat-item-766"><a href="http://vidaorganizada.com/categoria/rotinas/dicas-estudos/escola/" >Escola</a>
+</li>
+	<li class="cat-item cat-item-767"><a href="http://vidaorganizada.com/categoria/rotinas/dicas-estudos/vestibular/" >Vestibular</a>
+</li>
+	<li class="cat-item cat-item-768"><a href="http://vidaorganizada.com/categoria/rotinas/dicas-estudos/idiomas/" >Idiomas</a>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-272"><a href="http://vidaorganizada.com/categoria/equilibrio/" title="Não dá para ser organizado se a gente não estiver bem.">Equilíbrio</a>
+<ul class='children'>
+	<li class="cat-item cat-item-687"><a href="http://vidaorganizada.com/categoria/equilibrio/desenvolvimento-pessoal/" >Desenvolvimento pessoal</a>
+</li>
+	<li class="cat-item cat-item-452"><a href="http://vidaorganizada.com/categoria/equilibrio/saude/" >Saúde</a>
+</li>
+	<li class="cat-item cat-item-705"><a href="http://vidaorganizada.com/categoria/equilibrio/maternidade-paternidade/" >Maternidade / Paternidade</a>
+</li>
+	<li class="cat-item cat-item-329"><a href="http://vidaorganizada.com/categoria/equilibrio/viagens/" >Viagens</a>
+</li>
+	<li class="cat-item cat-item-737"><a href="http://vidaorganizada.com/categoria/equilibrio/trabalho-carreira/" >Trabalho e carreira</a>
+</li>
+	<li class="cat-item cat-item-691"><a href="http://vidaorganizada.com/categoria/equilibrio/espiritualidade-budismo/" >Espiritualidade e Budismo</a>
+</li>
+	<li class="cat-item cat-item-524"><a href="http://vidaorganizada.com/categoria/equilibrio/exercicios-atividade-fisica/" >Exercícios e atividade física</a>
+</li>
+	<li class="cat-item cat-item-330"><a href="http://vidaorganizada.com/categoria/equilibrio/moda-estilo/" >Moda e estilo</a>
+</li>
+	<li class="cat-item cat-item-352"><a href="http://vidaorganizada.com/categoria/equilibrio/beleza-higiene/" >Beleza e higiene</a>
+</li>
+	<li class="cat-item cat-item-760"><a href="http://vidaorganizada.com/categoria/equilibrio/empreendedorismo/" >Empreendedorismo</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-325"><a href="http://vidaorganizada.com/categoria/sobre-mim/" title="Saiba mais sobre a minha vida como blogueira, nosso apartamento e outras coisinhas.">Sobre mim</a>
+<ul class='children'>
+	<li class="cat-item cat-item-702"><a href="http://vidaorganizada.com/categoria/sobre-mim/imprensa/" >Imprensa</a>
+</li>
+	<li class="cat-item cat-item-805"><a href="http://vidaorganizada.com/categoria/sobre-mim/livro-vida-organizada/" >Livro Vida Organizada</a>
+</li>
+	<li class="cat-item cat-item-804"><a href="http://vidaorganizada.com/categoria/sobre-mim/palestras/" >Palestras</a>
+</li>
+	<li class="cat-item cat-item-756"><a href="http://vidaorganizada.com/categoria/sobre-mim/livro/" >Vida de escritora</a>
+</li>
+	<li class="cat-item cat-item-656"><a href="http://vidaorganizada.com/categoria/sobre-mim/nosso-apartamento/" >Nosso apartamento</a>
+</li>
+	<li class="cat-item cat-item-668"><a href="http://vidaorganizada.com/categoria/sobre-mim/como-thais-faz/" >Como a Thais faz</a>
+</li>
+	<li class="cat-item cat-item-326"><a href="http://vidaorganizada.com/categoria/sobre-mim/diario-de-organizacao/" >Diário de organização</a>
+</li>
+	<li class="cat-item cat-item-801"><a href="http://vidaorganizada.com/categoria/sobre-mim/meus-servicos/" >Meus serviços</a>
+</li>
+	<li class="cat-item cat-item-784"><a href="http://vidaorganizada.com/categoria/sobre-mim/agradecimentos/" >Agradecimentos</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-420"><a href="http://vidaorganizada.com/categoria/secoes-fixas/" >Sempre aqui no blog</a>
+<ul class='children'>
+	<li class="cat-item cat-item-616"><a href="http://vidaorganizada.com/categoria/secoes-fixas/editorial/" >Editorial</a>
+</li>
+	<li class="cat-item cat-item-626"><a href="http://vidaorganizada.com/categoria/secoes-fixas/linkagem-de-domingo/" >Linkagem de domingo</a>
+</li>
+	<li class="cat-item cat-item-671"><a href="http://vidaorganizada.com/categoria/secoes-fixas/frase-da-semana/" >Frase da semana</a>
+</li>
+	<li class="cat-item cat-item-701"><a href="http://vidaorganizada.com/categoria/secoes-fixas/entrevistas/" >Entrevistas</a>
+</li>
+	<li class="cat-item cat-item-724"><a href="http://vidaorganizada.com/categoria/secoes-fixas/instagram-da-semana/" >Instagram da semana</a>
+</li>
+	<li class="cat-item cat-item-792"><a href="http://vidaorganizada.com/categoria/secoes-fixas/resumo-do-mes/" >Resumo do mês</a>
+</li>
+	<li class="cat-item cat-item-727"><a href="http://vidaorganizada.com/categoria/secoes-fixas/livros-lidos/" >Livros lidos e book haul</a>
+</li>
+	<li class="cat-item cat-item-680"><a href="http://vidaorganizada.com/categoria/secoes-fixas/videos/" >Vídeos</a>
+</li>
+	<li class="cat-item cat-item-647"><a href="http://vidaorganizada.com/categoria/secoes-fixas/depoimentos/" >Depoimentos</a>
+</li>
+	<li class="cat-item cat-item-665"><a href="http://vidaorganizada.com/categoria/secoes-fixas/podcasts/" >Podcasts</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-339"><a href="http://vidaorganizada.com/categoria/etc/" >Etc.</a>
+<ul class='children'>
+	<li class="cat-item cat-item-753"><a href="http://vidaorganizada.com/categoria/etc/guia-do-blog/" >Guia do blog</a>
+</li>
+	<li class="cat-item cat-item-703"><a href="http://vidaorganizada.com/categoria/etc/e-book/" >E-book 365 dicas de organização</a>
+</li>
+	<li class="cat-item cat-item-644"><a href="http://vidaorganizada.com/categoria/etc/participe-do-blog/" >Participe do blog</a>
+</li>
+	<li class="cat-item cat-item-684"><a href="http://vidaorganizada.com/categoria/etc/eventos/" >Eventos</a>
+</li>
+	<li class="cat-item cat-item-681"><a href="http://vidaorganizada.com/categoria/etc/novidades/" >Novidades</a>
+</li>
+	<li class="cat-item cat-item-692"><a href="http://vidaorganizada.com/categoria/etc/fale-com-personal-organizer/" >Fale com a Personal Organizer</a>
+</li>
+	<li class="cat-item cat-item-699"><a href="http://vidaorganizada.com/categoria/etc/blogs-profissionais/" >Blogs profissionais</a>
+</li>
+	<li class="cat-item cat-item-682"><a href="http://vidaorganizada.com/categoria/etc/posts-patrocinados/" >Posts patrocinados</a>
+</li>
+</ul>
+</li>
+</ul>
+  </nav>  <div class="mobile-menu hide-all"><select name='cat' id='cat' class='postform' >
+	<option value='0' selected='selected'>Menu</option>
+	<option class="level-0" value="1">Organize-se!</option>
+	<option class="level-1" value="188">&nbsp;&nbsp;&nbsp;Finanças pessoais</option>
+	<option class="level-2" value="734">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Compras inteligentes</option>
+	<option class="level-1" value="591">&nbsp;&nbsp;&nbsp;Desafios de organização</option>
+	<option class="level-1" value="600">&nbsp;&nbsp;&nbsp;Como organizar qualquer coisa</option>
+	<option class="level-1" value="613">&nbsp;&nbsp;&nbsp;Minimalismo e simplicidade</option>
+	<option class="level-1" value="689">&nbsp;&nbsp;&nbsp;Destralhando</option>
+	<option class="level-1" value="697">&nbsp;&nbsp;&nbsp;Comece agora</option>
+	<option class="level-1" value="700">&nbsp;&nbsp;&nbsp;Organização profissional</option>
+	<option class="level-1" value="723">&nbsp;&nbsp;&nbsp;Como me organizo</option>
+	<option class="level-1" value="775">&nbsp;&nbsp;&nbsp;Sobre ser uma pessoa organizada</option>
+	<option class="level-1" value="777">&nbsp;&nbsp;&nbsp;Antes &amp; Depois</option>
+	<option class="level-1" value="778">&nbsp;&nbsp;&nbsp;Encontrando motivação</option>
+	<option class="level-1" value="797">&nbsp;&nbsp;&nbsp;Reduzindo a quantidade de papel</option>
+	<option class="level-0" value="272">Equilíbrio</option>
+	<option class="level-1" value="329">&nbsp;&nbsp;&nbsp;Viagens</option>
+	<option class="level-1" value="330">&nbsp;&nbsp;&nbsp;Moda e estilo</option>
+	<option class="level-1" value="352">&nbsp;&nbsp;&nbsp;Beleza e higiene</option>
+	<option class="level-1" value="452">&nbsp;&nbsp;&nbsp;Saúde</option>
+	<option class="level-1" value="524">&nbsp;&nbsp;&nbsp;Exercícios e atividade física</option>
+	<option class="level-1" value="687">&nbsp;&nbsp;&nbsp;Desenvolvimento pessoal</option>
+	<option class="level-1" value="691">&nbsp;&nbsp;&nbsp;Espiritualidade e Budismo</option>
+	<option class="level-1" value="705">&nbsp;&nbsp;&nbsp;Maternidade / Paternidade</option>
+	<option class="level-1" value="737">&nbsp;&nbsp;&nbsp;Trabalho e carreira</option>
+	<option class="level-1" value="760">&nbsp;&nbsp;&nbsp;Empreendedorismo</option>
+	<option class="level-0" value="316">Sua casa</option>
+	<option class="level-1" value="336">&nbsp;&nbsp;&nbsp;Mudanças</option>
+	<option class="level-1" value="478">&nbsp;&nbsp;&nbsp;Segurança</option>
+	<option class="level-1" value="655">&nbsp;&nbsp;&nbsp;Feng shui</option>
+	<option class="level-1" value="685">&nbsp;&nbsp;&nbsp;Dicas de decoração</option>
+	<option class="level-1" value="725">&nbsp;&nbsp;&nbsp;Dicas para organizar a casa</option>
+	<option class="level-1" value="730">&nbsp;&nbsp;&nbsp;Comprando ou alugando</option>
+	<option class="level-1" value="785">&nbsp;&nbsp;&nbsp;Por cômodo</option>
+	<option class="level-2" value="604">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quartos de crianças e bebês</option>
+	<option class="level-2" value="636">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sala</option>
+	<option class="level-2" value="637">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entrada</option>
+	<option class="level-2" value="666">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Banheiros</option>
+	<option class="level-2" value="670">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home-office</option>
+	<option class="level-2" value="711">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cozinha e jantar</option>
+	<option class="level-2" value="712">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Varanda e quintal</option>
+	<option class="level-2" value="713">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quartos</option>
+	<option class="level-2" value="714">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Área de serviço</option>
+	<option class="level-1" value="786">&nbsp;&nbsp;&nbsp;Armazenando coisas</option>
+	<option class="level-2" value="609">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guarda-roupa e closet</option>
+	<option class="level-2" value="623">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Papelada</option>
+	<option class="level-2" value="715">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brinquedos</option>
+	<option class="level-2" value="716">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Despensa</option>
+	<option class="level-2" value="717">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carro e garagem</option>
+	<option class="level-2" value="787">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fotos</option>
+	<option class="level-2" value="789">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Material de artesanato</option>
+	<option class="level-1" value="795">&nbsp;&nbsp;&nbsp;Animais de estimação</option>
+	<option class="level-0" value="325">Sobre mim</option>
+	<option class="level-1" value="326">&nbsp;&nbsp;&nbsp;Diário de organização</option>
+	<option class="level-1" value="656">&nbsp;&nbsp;&nbsp;Nosso apartamento</option>
+	<option class="level-1" value="668">&nbsp;&nbsp;&nbsp;Como a Thais faz</option>
+	<option class="level-1" value="702">&nbsp;&nbsp;&nbsp;Imprensa</option>
+	<option class="level-1" value="756">&nbsp;&nbsp;&nbsp;Vida de escritora</option>
+	<option class="level-1" value="784">&nbsp;&nbsp;&nbsp;Agradecimentos</option>
+	<option class="level-1" value="801">&nbsp;&nbsp;&nbsp;Meus serviços</option>
+	<option class="level-1" value="804">&nbsp;&nbsp;&nbsp;Palestras</option>
+	<option class="level-1" value="805">&nbsp;&nbsp;&nbsp;Livro Vida Organizada</option>
+	<option class="level-0" value="327">Soluções de organização</option>
+	<option class="level-1" value="341">&nbsp;&nbsp;&nbsp;Checklists</option>
+	<option class="level-1" value="477">&nbsp;&nbsp;&nbsp;Sistema FLY Lady</option>
+	<option class="level-2" value="624">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Control journal</option>
+	<option class="level-1" value="488">&nbsp;&nbsp;&nbsp;Downloads e planilhas</option>
+	<option class="level-1" value="619">&nbsp;&nbsp;&nbsp;Agenda</option>
+	<option class="level-1" value="679">&nbsp;&nbsp;&nbsp;Aplicativos e ferramentas</option>
+	<option class="level-2" value="594">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Evernote</option>
+	<option class="level-2" value="621">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toodledo</option>
+	<option class="level-2" value="773">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft Outlook</option>
+	<option class="level-1" value="710">&nbsp;&nbsp;&nbsp;Resenhas e testes</option>
+	<option class="level-1" value="718">&nbsp;&nbsp;&nbsp;Livros, filmes e links</option>
+	<option class="level-1" value="779">&nbsp;&nbsp;&nbsp;DIY &#8211; Faça você mesma(o)</option>
+	<option class="level-1" value="780">&nbsp;&nbsp;&nbsp;Produtos organizadores</option>
+	<option class="level-1" value="783">&nbsp;&nbsp;&nbsp;Tecnologia</option>
+	<option class="level-1" value="788">&nbsp;&nbsp;&nbsp;Dicas baratas</option>
+	<option class="level-1" value="791">&nbsp;&nbsp;&nbsp;Rotuladora e etiquetas</option>
+	<option class="level-1" value="794">&nbsp;&nbsp;&nbsp;Melhore sua produtividade</option>
+	<option class="level-2" value="476">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GTD</option>
+	<option class="level-2" value="659">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reuniões</option>
+	<option class="level-2" value="662">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mails</option>
+	<option class="level-2" value="771">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Técnica Pomodoro</option>
+	<option class="level-2" value="796">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lidando com a procrastinação</option>
+	<option class="level-0" value="339">Etc.</option>
+	<option class="level-1" value="644">&nbsp;&nbsp;&nbsp;Participe do blog</option>
+	<option class="level-1" value="681">&nbsp;&nbsp;&nbsp;Novidades</option>
+	<option class="level-1" value="682">&nbsp;&nbsp;&nbsp;Posts patrocinados</option>
+	<option class="level-1" value="684">&nbsp;&nbsp;&nbsp;Eventos</option>
+	<option class="level-1" value="692">&nbsp;&nbsp;&nbsp;Fale com a Personal Organizer</option>
+	<option class="level-1" value="699">&nbsp;&nbsp;&nbsp;Blogs profissionais</option>
+	<option class="level-1" value="703">&nbsp;&nbsp;&nbsp;E-book 365 dicas de organização</option>
+	<option class="level-1" value="753">&nbsp;&nbsp;&nbsp;Guia do blog</option>
+	<option class="level-0" value="420">Sempre aqui no blog</option>
+	<option class="level-1" value="616">&nbsp;&nbsp;&nbsp;Editorial</option>
+	<option class="level-1" value="626">&nbsp;&nbsp;&nbsp;Linkagem de domingo</option>
+	<option class="level-1" value="647">&nbsp;&nbsp;&nbsp;Depoimentos</option>
+	<option class="level-1" value="665">&nbsp;&nbsp;&nbsp;Podcasts</option>
+	<option class="level-1" value="671">&nbsp;&nbsp;&nbsp;Frase da semana</option>
+	<option class="level-1" value="680">&nbsp;&nbsp;&nbsp;Vídeos</option>
+	<option class="level-1" value="701">&nbsp;&nbsp;&nbsp;Entrevistas</option>
+	<option class="level-1" value="724">&nbsp;&nbsp;&nbsp;Instagram da semana</option>
+	<option class="level-1" value="727">&nbsp;&nbsp;&nbsp;Livros lidos e book haul</option>
+	<option class="level-1" value="792">&nbsp;&nbsp;&nbsp;Resumo do mês</option>
+	<option class="level-0" value="643">Rotinas</option>
+	<option class="level-1" value="220">&nbsp;&nbsp;&nbsp;Limpeza e arrumação</option>
+	<option class="level-2" value="803">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Como limpar</option>
+	<option class="level-1" value="368">&nbsp;&nbsp;&nbsp;Dicas de estudos</option>
+	<option class="level-2" value="763">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Professores</option>
+	<option class="level-2" value="764">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Concursos</option>
+	<option class="level-2" value="765">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculdade e pós-graduação</option>
+	<option class="level-2" value="766">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Escola</option>
+	<option class="level-2" value="767">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vestibular</option>
+	<option class="level-2" value="768">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Idiomas</option>
+	<option class="level-1" value="677">&nbsp;&nbsp;&nbsp;Comida</option>
+	<option class="level-2" value="728">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Menu semanal</option>
+	<option class="level-2" value="757">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Receitas</option>
+	<option class="level-1" value="683">&nbsp;&nbsp;&nbsp;Feriados</option>
+	<option class="level-2" value="491">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Natal</option>
+	<option class="level-2" value="503">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carnaval</option>
+	<option class="level-2" value="572">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ano novo</option>
+	<option class="level-2" value="641">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dia das crianças</option>
+	<option class="level-2" value="642">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dia das bruxas</option>
+	<option class="level-2" value="658">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Páscoa</option>
+	<option class="level-2" value="739">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dia dos Namorados</option>
+	<option class="level-2" value="752">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dia dos pais</option>
+	<option class="level-2" value="802">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dia das mães</option>
+	<option class="level-1" value="690">&nbsp;&nbsp;&nbsp;Organizando festinhas</option>
+	<option class="level-2" value="430">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aniversário</option>
+	<option class="level-2" value="638">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Casamento</option>
+	<option class="level-2" value="735">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chá de bebê</option>
+	<option class="level-2" value="736">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chá de cozinha</option>
+	<option class="level-1" value="720">&nbsp;&nbsp;&nbsp;Nesta estação</option>
+	<option class="level-2" value="479">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inverno</option>
+	<option class="level-2" value="480">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Verão</option>
+	<option class="level-2" value="481">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Outono</option>
+	<option class="level-2" value="721">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primavera</option>
+	<option class="level-1" value="722">&nbsp;&nbsp;&nbsp;Recebendo pessoas</option>
+	<option class="level-1" value="726">&nbsp;&nbsp;&nbsp;Organize a rotina em família</option>
+	<option class="level-2" value="704">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gravidez</option>
+	<option class="level-2" value="707">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Escolinha</option>
+	<option class="level-2" value="708">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Filhos</option>
+	<option class="level-2" value="758">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chegada do bebê</option>
+	<option class="level-2" value="790">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Atividades de homeschooling</option>
+	<option class="level-1" value="729">&nbsp;&nbsp;&nbsp;Organizando contas</option>
+	<option class="level-2" value="731">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Imposto de renda</option>
+</select>
+<script>var dropdown = document.getElementById("cat"); function onCatChange() { if ( dropdown.options[dropdown.selectedIndex].value > 0 ) { location.href = "http://vidaorganizada.com/?cat="+dropdown.options[dropdown.selectedIndex].value; } } dropdown.onchange = onCatChange;</script></div> 
+  <div class="clear"></div>    
+</div>
+
+</header>
+
+
+<!--line-all-->
+<div class="line-all">
+
+<!--main-->
+<div id="main" role="main">
+
+<article class="post clearfix">
+    <div class="date"><div class="date-color cat-id-794 cat-num-3 azul cat-id-1 cat-num-1 verde"><span>14 <em>Jul 2014</em></span></div></div>    
+    <h2 class="title font-title">O que eu aprendi sobre produtividade com Tim Ferris: parte 1</h2>    
+    <div class="share share-header clearfix"><h4 class="hide-all">Compartilhar</h4><ul class="unstyled clearfix"><li class="comment icon"><a href="#comments" class="go-to"><span>38 comentários</span> <em>Deixe um comentário</em></a></li><li class="twitter icon"><a href="http://twitter.com/share?text=O%20que%20eu%20aprendi%20sobre%20produtividade%20com%20Tim%20Ferris:%20parte%201&amp;url=http://vidaorganizada.com/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/&amp;counturl=http://vidaorganizada.com/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/&amp;via=vidaorganizada" onclick="window.open(this.href,this.target,'width=570,height=455');return false;"><span>Twitter</span> <em>Compartilhar no Twitter</em></a></li><li class="facebook icon"><a href="http://www.facebook.com/share.php?u=http://vidaorganizada.com/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/&amp;t=O%20que%20eu%20aprendi%20sobre%20produtividade%20com%20Tim%20Ferris:%20parte%201" onclick="window.open(this.href,this.target,'width=570,height=455');return false;"><span>Facebook</span> <em>Compartilhar no Facebook</em></a></li><li class="gplus icon"><a href="https://plusone.google.com/_/+1/confirm?hl=en&amp;url=http://vidaorganizada.com/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/" onclick="window.open(this.href,this.target,'width=570,height=455');return false;"><span>Google +</span> <em>Compartilhar no Google +</em></a></li><li class="pinterest icon"><a href="http://pinterest.com/pin/create/button/?url=http://vidaorganizada.com/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/&amp;media=http://vidaorganizada.com/wp-content/uploads/2014/07/140714-tim-ferriss.jpg&amp;description=O%20que%20eu%20aprendi%20sobre%20produtividade%20com%20Tim%20Ferris:%20parte%201" onclick="window.open(this.href,this.target,'width=570,height=455');return false;"><span>Pinterest</span> <em>Compartilhar no Pinterest</em></a></li><li class="tumblr icon"><a href="http://www.tumblr.com/share/photo?source=http%3A%2F%2Fvidaorganizada.com%2Fwp-content%2Fuploads%2F2014%2F07%2F140714-tim-ferriss.jpg&amp;caption=O+que+eu+aprendi+sobre+produtividade+com+Tim+Ferris%3A+parte+1&amp;clickthru=http%3A%2F%2Fvidaorganizada.com%2Forganizacao%2Fo-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1%2F" onclick="window.open(this.href,this.target,'width=570,height=455');return false;"><span>Tumblr</span> <em>Compartilhar no Tumblr</em></a></li></ul></div>
+    <div class="entry clearfix"><p><img class="aligncenter size-full wp-image-15140" src="http://vidaorganizada.com/wp-content/uploads/2014/07/140714-tim-ferriss.jpg" alt="140714-tim-ferriss" width="640" height="419" /></p>
+<p>Hoje inicio uma série de posts com aprendizados sobre produtividade que tive lendo os livros do Tim Ferriss. Falei sobre o primeiro livro dele em um <a href="http://vidaorganizada.com/blog/livros-lidos/livros-lidos-em-abril-14/" onclick="_gaq.push(['_trackEvent', 'outbound-article-int', 'http://vidaorganizada.com/blog/livros-lidos/livros-lidos-em-abril-14/', 'post anterior']);" title="Livros lidos em abril ’14">post anterior</a> e muitos de vocês me pediram resenha &#8211; eu não teria como fazer <em>uma</em> resenha do livro, pois tenho muita coisa a falar a respeito. Precisei escrever uma série de posts, sendo este o primeiro.</p>
+<div class="quote" style="display:block !important; margin:0 0 20px !important;"><div class="quote-box azul" style="display:block !important; padding:20px !important;"><strong>Quem é Tim Ferriss?</strong></p>
+<p>Timothy Ferriss (nascido em 20 de julho de 1977) é um escritor americano, empresário, investidor anjo e palestrante. Em 2007 lançou seu primeiro livro, Trabalhe 4 Horas por Semana, e alcançou a posição nº1 na lista de bestseller do New York Times e nº1 na lista de bestsellers do jornal Wall Street Journal. Desde o seu lançamento, o livro Trabalhe 4 Horas Por Semana ficou sete anos consecutivos em listas de bestseller. Em 2010, Tim lançou o livro 4 Horas Para o Corpo e alcançou novamente a posição nº1 na lista de bestsellers do New York Times. Seu terceiro livro foi lançado em 2012, O Chefe de Cozinha de Quatro Horas, e alcançou a posição nº1 na lista de bestsellers do Wall street Journal.</p>
+<p>O escritor também é investidor anjo e membro do conselho de algumas startups como Facebook, Twitter, Evernote e outras empresas. <em>Fonte: Wikipedia</em></div></div>
+<p>Meus amigos, entendam que Tim é o_cara. Quando eu li o primeiro livro dele, eu me senti tão juvenil em termos de produtividade que precisei mudar todo o meu esquema de vida para viver da maneira que eu achava que tinha que ser. <a href="http://vidaorganizada.com/blog/editorial/tudo-comeca-com-uma-decisao/" onclick="_gaq.push(['_trackEvent', 'outbound-article-int', 'http://vidaorganizada.com/blog/editorial/tudo-comeca-com-uma-decisao/', 'Tomei a decisão']);" title="Tudo começa com uma decisão">Tomei a decisão</a> que eu estava postergando há anos e, em pouco tempo, a minha vida e a vida da minha família mudaram completamente. Para começar, ele faz uma comparação entre o que fomos ensinados a acreditar desde pequenos e o que ele chama de conceito de &#8220;novos ricos&#8221;. Novos ricos são aquelas pessoas que vivem a vida plenamente, em vez de esperar a aposentadoria. Eles trabalham? Claro, senão como teriam dinheiro? O segredo é trabalhar da maneira <em>certa</em>. Como? É sobre isso o que eu vou falar nessa série de posts.</p>
+<p>Algumas poucas frases apenas para iniciar o cutucão na sua vida:</p>
+<div class="list"><div class="list-t-left"><div class="list-t-right"><div class="list-t"></div></div></div><div class="list-l-left"><div class="list-l-right"><div class="list-l list-content">- Não é para trabalhar para você mesmo, mas para fazer outras pessoas trabalharem para você. Delegar!</p>
+<p>&#8211; Trabalhar somente pelo trabalho é muito improdutivo. É importante encontrar o menor esforço necessário para fazer o suficiente. Ou seja: se você pode fazer tudo o que precisa em duas horas, não precisa trabalhar oito horas por dia. E aí ele vai questionar todo o sistema no qual estamos inseridos.</p>
+<p>&#8211; Trabalhar como louco a vida inteira para curtir uma possível aposentadoria é insano! Jogamos fora os melhores anos da vida esperando para curtí-la quando nem sabemos se teremos saúde para isso? Não faz sentido! O que ele propôe, então, é um modelo de trabalho que proporcione mini-aposentadorias de tempos em tempos.</p>
+<p>&#8211; Da mesma forma, trabalhar a vida inteira para enfim descansar é outro conceito sem sentido. Significa que estaremos a vida inteira fazendo algo que não gostamos para finalmente descansar? O objetivo não é a inatividade, mas fazer algo que o estimula e dá prazer.</p>
+<p>&#8211; Comprar coisas só vale a pena se isso for útil para você otimizar a sua vida e o seu trabalho. Comprar por comprar não serve para nada. Só faz a gente trabalhar para pagar dívidas e se encher de objetos que não precisa.</p>
+<p>&#8211; Não é para ser o chefe nem o empregado, mas o proprietário.</p>
+<p>&#8211; Ganhar dinheiro para garantir segurança e contas pagas, mas também para realizar sonhos. O dinheiro só pelo dinheiro não leva a nada.</p>
+<p>&#8211; Ter mais qualidade e menos bagunça.</p>
+<p>&#8211; Não é para apenas se livrar do que é ruim, mas ir atrás do que realmente é bom para você.<div style="clear:both;"></div></div></div></div><div class="list-b-left"><div class="list-b-right"><div class="list-b"></div></div></div><div style="clear:both;"></div></div>
+<p>O que Tim faz é um convite a pularmos desse trem errado que embarcamos sem nem nos darmos conta! Como ele diz, &#8220;a busca cega por dinheiro é a jornada dos tolos&#8221;. Trabalhamos enlouquecidamente, economizamos dinheiro, fazemos hora extra, gastamos tudo em contas, descansamos apenas nas férias e ainda chamamos isso de vida. Esperamos o final de semana chegar para conseguir resolver qualquer tipo de problema pessoal e passamos o sábado inteiro dormindo, porque estamos exaustos depois de uma semana puxada.</p>
+<p>Lemos livros sobre gerenciamento do tempo, instalamos aplicativos e ferramentas, organizamos nossos e-mails, acompanhamos blogs de organização, e tudo para quê? Nada disso pode fazer milagre se não tivermos mais tempo para ter uma vida realizada, para ir atrás dos nossos sonhos. O que estamos perseguindo, para começar? Se queremos ficar ricos (exemplo), será que estamos no caminho certo? Será que trabalhar 10 horas por dia para virar gerente não fará apenas com que&#8230; trabalhemos 12 horas por dia por um salário um pouco superior, quando isso acontecer?</p>
+<p>Estamos deixando de lado nosso bem mais precioso: a nossa vida. Ele fala a minha frase preferida dos últimos tempos, que é: &#8220;o ouro está ficando velho&#8221;. Empresas não seguram mais funcionários apenas com aumento de salário. Cada vez mais, as pessoas estão em busca de trabalho remoto e horários flexíveis, para conseguirem descansar e ter mais momentos de prazer. Ninguém precisa de 40 horas por semana para fazer qualquer tipo de trabalho &#8211; estamos todos perdendo tempo no trânsito, no deslocamento, iniciando computadores e tomando café no corredor. O modelo corporativo precisa mudar para atender essa demanda, antes que todas as pessoas enlouqueçam.</p>
+<p>Você sabia que <a href="http://psiquecienciaevida.uol.com.br/ESPS/edicoes/63/artigo211972-1.asp" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://psiquecienciaevida.uol.com.br/ESPS/edicoes/63/artigo211972-1.asp', 'o estresse já é considerado a doença do século XXI']);"   target="_blank">o estresse já é considerado a doença do século XXI</a>? Se a gente não tomar uma providência, vai acabar tendo uma parada cardíaca, um colapso nervoso ou síndrome do pânico. Talvez você mesmo já tenha passado por isso ou conhecido pessoas que tenham. O mundo não vai mudar &#8211; aliás, só está piorando. Precisamos tomar a decisão de mudar e mudar imediatamente. A vida passa. Podemos morrer amanhã. O que precisamos é ter o poder de escolha. As opções são inúmeras, mas todas começam com o primeiro passo, que é substituir dogmas. E esse livro do Tim (Trabalhe 4 horas por semana) é um chacoalhão que ele dá em qualquer pessoa que o leia, e eu espero conseguir passar os principais conceitos dele sobre produtividade para vocês aqui, nessa série de posts.</p>
+<p>Encerro este primeiro com uma provocação, tirada do mesmo livro:</p>
+<div class="quote" style="display:block !important; margin:0 0 20px !important;"><div class="quote-box azul" style="display:block !important; padding:20px !important;">&#8220;Você passou duas semanas negociando seu novo carro importado com a concessionária e conseguiu 10 mil dólares de desconto? Que ótimo! Sua vida tem algum sentido? Você contribui com algo útil para o mundo ou está apenas embaralhando papéis, batucando num teclado e voltando para casa para passar os fins de semana bêbado em frente à televisão?&#8221;</div></div>
+<p>Até o próximo!</p>
+</div>
+    <div class="post-footer clearfix">
+        <div class="share-buttons clearfix"><h4 class="hide-all">Compartilhar</h4><div class="bt gplus"><g:plusone size="medium" href="http://vidaorganizada.com/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/"></g:plusone></div><div class="bt facebook"><div class="fb-like" data-href="http://vidaorganizada.com/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/" data-send="false" data-layout="button_count" data-width="120" data-show-faces="false" data-font="arial"></div></div></div><div class="clear"></div>
+        <div class="post-author clearfix">
+            <img alt='Thais Godinho' src='http://vidaorganizada.com/wp-content/uploads/2014/10/Thais-Godinho_avatar_1414670143-55x55.png' class='avatar avatar-55 photo' height='55' width='55' />            <div class="author">Escrito por <a href="http://vidaorganizada.com/sobre/" rel="author" title="Thais Godinho"><span class="font-title">Thais Godinho</span></a></div>
+            <div class="categories clearfix">em <a href="http://vidaorganizada.com/categoria/solucoes/produtividade/" class="cat cat-produtividade" title="Melhore sua produtividade">Melhore sua produtividade</a>, <a href="http://vidaorganizada.com/categoria/organizacao/" class="cat cat-organizacao" title="Organize-se!">Organize-se!</a></div>
+       </div>
+
+        <div class="share share-footer clearfix"><h4 class="hide-all">Compartilhar</h4><ul class="unstyled clearfix"><li class="comment icon"><a href="#comments" class="go-to"><span>38 comentários</span> <em>Deixe um comentário</em></a></li><li class="twitter icon"><a href="http://twitter.com/share?text=O%20que%20eu%20aprendi%20sobre%20produtividade%20com%20Tim%20Ferris:%20parte%201&amp;url=http://vidaorganizada.com/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/&amp;counturl=http://vidaorganizada.com/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/&amp;via=vidaorganizada" onclick="window.open(this.href,this.target,'width=570,height=455');return false;"><span>Twitter</span> <em>Compartilhar no Twitter</em></a></li><li class="facebook icon"><a href="http://www.facebook.com/share.php?u=http://vidaorganizada.com/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/&amp;t=O%20que%20eu%20aprendi%20sobre%20produtividade%20com%20Tim%20Ferris:%20parte%201" onclick="window.open(this.href,this.target,'width=570,height=455');return false;"><span>Facebook</span> <em>Compartilhar no Facebook</em></a></li><li class="gplus icon"><a href="https://plusone.google.com/_/+1/confirm?hl=en&amp;url=http://vidaorganizada.com/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/" onclick="window.open(this.href,this.target,'width=570,height=455');return false;"><span>Google +</span> <em>Compartilhar no Google +</em></a></li><li class="pinterest icon"><a href="http://pinterest.com/pin/create/button/?url=http://vidaorganizada.com/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/&amp;media=http://vidaorganizada.com/wp-content/uploads/2014/07/140714-tim-ferriss.jpg&amp;description=O%20que%20eu%20aprendi%20sobre%20produtividade%20com%20Tim%20Ferris:%20parte%201" onclick="window.open(this.href,this.target,'width=570,height=455');return false;"><span>Pinterest</span> <em>Compartilhar no Pinterest</em></a></li><li class="tumblr icon"><a href="http://www.tumblr.com/share/photo?source=http%3A%2F%2Fvidaorganizada.com%2Fwp-content%2Fuploads%2F2014%2F07%2F140714-tim-ferriss.jpg&amp;caption=O+que+eu+aprendi+sobre+produtividade+com+Tim+Ferris%3A+parte+1&amp;clickthru=http%3A%2F%2Fvidaorganizada.com%2Forganizacao%2Fo-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1%2F" onclick="window.open(this.href,this.target,'width=570,height=455');return false;"><span>Tumblr</span> <em>Compartilhar no Tumblr</em></a></li></ul></div>
+                
+<div class="wp_rp_wrap  wp_rp_vertical_s" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Textos relacionados:</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-14825" data-post-type="none" ><a href="http://vidaorganizada.com/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-2/" class="wp_rp_thumbnail"><img src="http://vidaorganizada.com/wp-content/uploads/2014/07/140714-tim-ferriss-150x150.jpg" alt="O que eu aprendi sobre produtividade com Tim Ferris: parte 2" width="150" height="150" /></a><a href="http://vidaorganizada.com/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-2/" class="wp_rp_title">O que eu aprendi sobre produtividade com Tim Ferris: parte 2</a></li><li data-position="1" data-poid="in-419" data-post-type="none" ><a href="http://vidaorganizada.com/organizacao/15-dicas-de-produtividade-para-maes-que-trabalham-fora-de-casa/" class="wp_rp_thumbnail"><img src="6991264961408618585" alt="15 dicas de produtividade para mães que trabalham fora de casa" width="150" height="150" /></a><a href="http://vidaorganizada.com/organizacao/15-dicas-de-produtividade-para-maes-que-trabalham-fora-de-casa/" class="wp_rp_title">15 dicas de produtividade para mães que trabalham fora de casa</a></li><li data-position="2" data-poid="in-13226" data-post-type="none" ><a href="http://vidaorganizada.com/organizacao/como-raiva-afeta-nossa-produtividade/" class="wp_rp_thumbnail"><img src="http://vidaorganizada.com/wp-content/uploads/2014/08/thumb.gif" alt="Como a raiva afeta nossa produtividade" width="150" height="150" /></a><a href="http://vidaorganizada.com/organizacao/como-raiva-afeta-nossa-produtividade/" class="wp_rp_title">Como a raiva afeta nossa produtividade</a></li><li data-position="3" data-poid="in-1554" data-post-type="none" ><a href="http://vidaorganizada.com/organizacao/use-rotinas-para-melhorar-sua-produtividade/" class="wp_rp_thumbnail"><img src="http://vidaorganizada.com/wp-content/uploads/2011/09/use-rotinas1-150x150.jpg" alt="Use rotinas para melhorar sua produtividade" width="150" height="150" /></a><a href="http://vidaorganizada.com/organizacao/use-rotinas-para-melhorar-sua-produtividade/" class="wp_rp_title">Use rotinas para melhorar sua produtividade</a></li><li data-position="4" data-poid="in-15920" data-post-type="none" ><a href="http://vidaorganizada.com/organizacao/os-6-melhores-videos-do-christian-barbosa-que-voce-precisa-ver-agora/" class="wp_rp_thumbnail"><img src="http://vidaorganizada.com/wp-content/uploads/2014/08/thumb.gif" alt="Os 6 melhores vídeos do Christian Barbosa que você precisa ver agora" width="150" height="150" /></a><a href="http://vidaorganizada.com/organizacao/os-6-melhores-videos-do-christian-barbosa-que-voce-precisa-ver-agora/" class="wp_rp_title">Os 6 melhores vídeos do Christian Barbosa que você precisa ver agora</a></li></ul></div></div>
+
+  
+        
+    </div>
+</article><!--//post-->
+
+<div class="post-divider divider"></div>
+
+<!--comments-->
+<div id="comments">
+<div id="comments-box">
+	<h3 class="font-title">38 comentários . <a href="#respond" class="respondlink">Comentar via blog</a></h3>            
+	<script>$(window).resize(function(){ $(".fb-comments").attr("data-width", $("#comments-facebook").width()); FB.XFBML.parse($("#comments-facebook")[0]); });</script>
+<div id="comments-facebook"><div class="fb-comments" data-href="http://vidaorganizada.com/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/" data-num-posts="5" data-width="700"></div><div style="clear:both;"></div></div>
+	<div id="comments-wordpress">
+<ol class="commentslist unstyled clearfix">
+<li class="comment even thread-even depth-1" id="li-comment-63224"><div id="comment-63224" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://1.gravatar.com/avatar/533de07392e156bb3039f808bd00499b?s=79&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author"><a href='http://umavidamaissimples.tumblr.com' rel='external nofollow' class='url'>Bruna</a></div><div class="comment-date"><time datetime="2014-07-14T10:31:52+00:00">July 14, 2014</time></div></div><div class="comment-entry"><p>Uau, que incrível! Quero muito ler esse livro! Estou me organizando pra também seguir um caminho que é o que TANTO eu quero, de uma vida com menos, mas com mais tempo pra mim, pra aproveitar.</p>
+<p><img src="http://vidaorganizada.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /></p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63224#respond' onclick='return addComment.moveForm("comment-63224", "63224", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div></li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-63226"><div id="comment-63226" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://1.gravatar.com/avatar/794e5bb6631f454c114a159682aee663?s=79&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author">Eleandra</div><div class="comment-date"><time datetime="2014-07-14T10:55:22+00:00">July 14, 2014</time></div></div><div class="comment-entry"><p>Olá Thaís,</p>
+<p>Sou uma leitora assídua do seu blog, embora não tenha comentado até hoje &#8230;., encontrei ele &#8220;por acaso&#8221; (que na verdade é a coisa certa acontecendo na hora certa!), enquanto procurava algo do tipo, como organizar minha vida, estou com 38 anos e estava desmotivada com meu trabalho e minha organização geral de vida, a mais ou menos um ano comecei a ler seu blog, e a implantar várias das coisas que você ensina.<br />
+Hoje, enfim, preciso dividir minha alegria e agradecer por você ajudar tanto minha vida, passei no vestibular de letras na minha cidade e fui tão bem que ganhei bolsa integral para cursá-la!!!!! Começo em agosto e estou eufórica por ver que a vida está caminhando para onde eu gostaria, como você bem diz: é questão de tomar uma decisão.<br />
+Então quero agradecer a você Thaís, por me mostrar que é preciso agir, por me mostrar que é possível abraçar projetos e alcançar sonhos, no meu coração você é uma amiga real e não virtual, que lê pensamentos inclusive, pois publica aquilo que preciso para seguir em frente, então só o que posso te dizer é: OBRIGADA.<br />
+Que sua vida siga recheada de luz, energia e alegrias, porque tudo que você sente transborda em felicidade e excelência no seu Blog.<br />
+Beijo do Rio Grande do Sul!!!<br />
+Eleandra</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63226#respond' onclick='return addComment.moveForm("comment-63226", "63226", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div><ol class="children">
+<li class="comment byuser comment-author-thais-godinho bypostauthor even depth-2" id="li-comment-63231"><div id="comment-63231" class="comment change clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='Thais Godinho' src='http://vidaorganizada.com/wp-content/uploads/2014/10/Thais-Godinho_avatar_1414670143-79x79.png' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author"><a href='http://vidaorganizada.com' rel='external nofollow' class='url'>Thais Godinho</a></div><div class="comment-date"><time datetime="2014-07-14T12:04:55+00:00">July 14, 2014</time></div></div><div class="comment-entry"><p>Eleandra, meus parabéns pela sua conquista! Vem muito pela frente agora e eu desejo a você uma vida profissional repleta de satisfacoes.<br />
+Obrigada por vir até aqui dividir isso comigo.</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63231#respond' onclick='return addComment.moveForm("comment-63231", "63231", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div></li><!-- #comment-## -->
+<li class="comment odd alt depth-2" id="li-comment-63307"><div id="comment-63307" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://0.gravatar.com/avatar/690989ba8aec2ed3b4b31343cb774ba6?s=79&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author">Brena Caroline Santos Soares</div><div class="comment-date"><time datetime="2014-07-15T23:15:05+00:00">July 15, 2014</time></div></div><div class="comment-entry"><p>Que bacana Eleandra!! Fiquei emocionada ao ler essas linhas.<br />
+A Thais me ajudou muito também, em todos os aspectos da minha vida.<br />
+Acho que ela mereceria um prêmio por esse trabalho maravilhoso que exerce de forma tão fantástica.<br />
+Boa sorte nessa nova fase!<br />
+Um abraço aqui de Minas =))</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63307#respond' onclick='return addComment.moveForm("comment-63307", "63307", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div></li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-63238"><div id="comment-63238" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://0.gravatar.com/avatar/0edcbf5327fefd5d3846f12cb4e13a7d?s=79&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author"><a href='http://vestidasdeluz.com.br' rel='external nofollow' class='url'>Samanta</a></div><div class="comment-date"><time datetime="2014-07-14T12:37:09+00:00">July 14, 2014</time></div></div><div class="comment-entry"><p>Excelente! Eu li o livro do Tim nas férias&#8230;<br />
+Uma das coisas que ele fala (tvz seja pro próximo post) é sobre o Princípio de Pareto, onde 20% dos clientes são responsáveis por 80% da receita e nos faz rever como perdemos tempo com coisas inúteis! Por isso que concordo que trabalhar menos nos faz produzir mais&#8230; mas vai colocar isso na cabeça da sociedade? A coisa está se abrindo, ainda bem, mas acho que vai ser bem aos poucos!</p>
+<p>Beijos<br />
+<a href="http://vestidasdeluz.com.br" onclick="_gaq.push(['_trackEvent', 'outbound-comment', 'http://vestidasdeluz.com.br', 'http://vestidasdeluz.com.br']);"   rel="nofollow">http://vestidasdeluz.com.br</a></p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63238#respond' onclick='return addComment.moveForm("comment-63238", "63238", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div></li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-63239"><div id="comment-63239" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://0.gravatar.com/avatar/0f5f1092583920455df49a9e552b8a63?s=79&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author">Hingridy</div><div class="comment-date"><time datetime="2014-07-14T13:18:25+00:00">July 14, 2014</time></div></div><div class="comment-entry"><p>Olá Thais </p>
+<p>Nossa esse post era exatamente o que eu precisava, concordo plenamente que o &#8220;sistema corporativo&#8221; deveria se adequar as necessidades das pessoas do seculo XXI. Eu sofro muito com isso e ultimamente sinto que vivo pro trabalho e nao vejo outras alternativas senao continuar no mundo corporativo. </p>
+<p>Obrigada por mais uma dica! </p>
+<p>bjs</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63239#respond' onclick='return addComment.moveForm("comment-63239", "63239", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div></li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-63243"><div id="comment-63243" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://0.gravatar.com/avatar/85465775639059933f4e06b46aefaf90?s=79&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author">THSS - RS</div><div class="comment-date"><time datetime="2014-07-14T16:02:13+00:00">July 14, 2014</time></div></div><div class="comment-entry"><p>Olha, Thaís&#8230;</p>
+<p>Parabéns pelo post&#8230;<br />
+Agora estou indo encontrar esse livro&#8230; Vai ao encontro com que eu penso&#8230;<br />
+(Pensava que eu era doido por pensar diferente)</p>
+<p>Att<br />
+Obrigado</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63243#respond' onclick='return addComment.moveForm("comment-63243", "63243", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div><ol class="children">
+<li class="comment byuser comment-author-thais-godinho bypostauthor odd alt depth-2" id="li-comment-63244"><div id="comment-63244" class="comment change clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='Thais Godinho' src='http://vidaorganizada.com/wp-content/uploads/2014/10/Thais-Godinho_avatar_1414670143-79x79.png' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author"><a href='http://vidaorganizada.com' rel='external nofollow' class='url'>Thais Godinho</a></div><div class="comment-date"><time datetime="2014-07-14T16:19:52+00:00">July 14, 2014</time></div></div><div class="comment-entry"><p>Mais louco é quem me diz &#8211; e não é feliz. ;D</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63244#respond' onclick='return addComment.moveForm("comment-63244", "63244", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div></li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-63246"><div id="comment-63246" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://0.gravatar.com/avatar/27afaca4305d58725bd9b61950e3c466?s=79&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author">Michele</div><div class="comment-date"><time datetime="2014-07-14T16:48:47+00:00">July 14, 2014</time></div></div><div class="comment-entry"><p>Amei, este livro esta na minha estante para ser lido, e eu só fico postergando por falta de tempo rs.<br />
+Muito bom o post e cada vez que leio o seu post fico só pensando quando será a minha hora de sair e fazer aquilo que eu amo e que parece impossível e distante que dê certo. Impossível que não coloque a minha família e minha filha em risco (em termos de estrutura).<br />
+Sonho em ter qualidade de vida, poder dar mais atenção à minha casa, meu marido e filha.</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63246#respond' onclick='return addComment.moveForm("comment-63246", "63246", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div><ol class="children">
+<li class="comment odd alt depth-2" id="li-comment-63310"><div id="comment-63310" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://0.gravatar.com/avatar/690989ba8aec2ed3b4b31343cb774ba6?s=79&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author">Brena Caroline Santos Soares</div><div class="comment-date"><time datetime="2014-07-15T23:48:22+00:00">July 15, 2014</time></div></div><div class="comment-entry"><p>É difícil mesmo Michele. Atitudes como essa requer muita coragem, muito diálogo, aceitação e cumplicidade da nossa família e dos amigos.<br />
+Hoje mesmo, conversei com um amigo que conseguiu recentemente tomar essas decisões. Moro em Betim-região metropolitana de Belo Horizonte (uma cidade feia e extremamente violenta na minha opinião). Esse meu amigo é um excelente músico, cantava em diversos bares  e casas de show aqui na região e como a maioria dos jovens queria terminar a faculdade, ganhar muito dinheiro, trocar de carro, sair com os amigos, viajar, futuramente comprar um apartamento bacana e continuar aproveitando a vida.<br />
+Até que conheceu &#8216;a garota dos seus sonhos&#8221; e com pouco menos de um ano juntos estavam &#8220;grávidos&#8221; rs. E depois que o filho deles nasceu, parece ter nascido outro homem, rs com interesses que iam completamente ao contrário do que ele queria e do que os outros esperavam dele.<br />
+Conversou com a namorada que é acima de tudo uma cúmplice e uma grande companheira sobre o que queriam quanto ao futuro, quanto a educação do filho e etc e etc&#8230; E quando vimos, ele vendeu o carro juntaram as economias  e compraram  uma casinha linda numa cidadezinha que parece ser uma delícia de viver. Ela foi alguns meses antes na cidade fez um concurso na área de enfermagem com uma carga horária ótima e foi aprovada. Ele transferiu o curso dele para uma cidade próxima e está fazendo a última fase de um processo seletivo em uma empresa de médio porte lá na região.<br />
+Achei bacana como eles tomaram as decisões juntos e se planejaram mesmo pra que tudo desse certo agora. Hoje eles estão lá, trabalhando e aproveitando a vida e o filho.  Ambos querem ter tempo para de fato estarem presentes na educação da criança. Querem  também que ele brinque nas ruas, que se mantenha longe de tanta tecnologia (pelo menos enquanto for possível) enfim, que  ele aproveite de fato a infância assim como eles aproveitaram. Ambos anseiam também por curtir a instituição casamento, aproveitarem o tempo juntos, serem um pelo outro sempre assim como foram até agora.<br />
+Inspiradora essa história não é mesmo? Quantas pessoas querem coisas semelhantes mas não conseguem se planejar como este jovem casal fez (ele 25, ela 20)&#8230; Quantos se planejam mas não tem coragem de dar esse reviravolta na vida!!<br />
+Espero ter ajudado.<br />
+Um forte abraço, e boa sorte na sua jornada<br />
+=)</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63310#respond' onclick='return addComment.moveForm("comment-63310", "63310", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div></li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-63249"><div id="comment-63249" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://1.gravatar.com/avatar/fdd7a9c06702251401bb4920a4701dc9?s=79&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author"><a href='http://radiantee.blogspot.com' rel='external nofollow' class='url'>Marcela Rodrigues</a></div><div class="comment-date"><time datetime="2014-07-14T17:22:23+00:00">July 14, 2014</time></div></div><div class="comment-entry"><p>Olá Thais!<br />
+Uau!! Esse livro parece ser ótimo e me deixou muito curiosa.</p>
+<p>Iniciei no fim do ano de 2013 uma pequena mudança na minha vida. Resolvi entrar pelo ramo de festas infantis, que é algo pelo qual tenho paixão, e tem dado certo. Meu foco são festas pequenas e caseiras. Pois tenho consciencia de qual publico posso atender. Sou mãe, esposa e ainda trabalho na gráfica da família. De modo que divido meu tempo para me dedicar a tudo isso. E tem funcionado. Apesar do meu louco cansaço no fim do dia.</p>
+<p>O livro me fez pensar em &#8216;como poderia viver esses preceitos&#8217; numa empresa como a minha?! A muitos anos vejo meu pai e minha mãe trabalhando sem parar, sem férias e etc. Satisifeitos por um lado. Mas perdidos por outro. E tenho medo de chegar ao nível deles. Apesar de eu trabalhar muito ainda consigo ter finais de semana de descanso, e pequenas viagens (para cidades próximas) também nos fins de semana. Nunca tirei férias.</p>
+<p>Por isso tenho me perguntado &#8216;como poderia aplicar isso numa empresa onde todos os pedidos são urgentes&#8217;?! Bom, acho que vou ter que ler mesmo o livro. Estou realmente interessada <img src="http://vidaorganizada.com/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> Vou acompanhar as resenhas. Ótimo post Tais!</p>
+<p>Abraço.</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63249#respond' onclick='return addComment.moveForm("comment-63249", "63249", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div><ol class="children">
+<li class="comment byuser comment-author-thais-godinho bypostauthor odd alt depth-2" id="li-comment-63262"><div id="comment-63262" class="comment change clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='Thais Godinho' src='http://vidaorganizada.com/wp-content/uploads/2014/10/Thais-Godinho_avatar_1414670143-79x79.png' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author"><a href='http://vidaorganizada.com' rel='external nofollow' class='url'>Thais Godinho</a></div><div class="comment-date"><time datetime="2014-07-15T01:20:31+00:00">July 15, 2014</time></div></div><div class="comment-entry"><p>Obrigada e boa sorte para você.</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63262#respond' onclick='return addComment.moveForm("comment-63262", "63262", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div></li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-63254"><div id="comment-63254" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://0.gravatar.com/avatar/096244681db03a9c26576702244ca971?s=79&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author">Thais</div><div class="comment-date"><time datetime="2014-07-14T18:09:18+00:00">July 14, 2014</time></div></div><div class="comment-entry"><p>Que post empolgante! Super curiosa para ler os próximos!</p>
+<p>Mais uma vez, obrigada pelas dicas <img src="http://vidaorganizada.com/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /></p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63254#respond' onclick='return addComment.moveForm("comment-63254", "63254", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div></li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-63256"><div id="comment-63256" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://0.gravatar.com/avatar/c201587341c629fd1f8260a1448ecf5c?s=79&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author"><a href='https://www.youtube.com/user/noelledosanjos' rel='external nofollow' class='url'>Noelle</a></div><div class="comment-date"><time datetime="2014-07-14T21:36:14+00:00">July 14, 2014</time></div></div><div class="comment-entry"><p>Olá Thais!</p>
+<p>Já estou vendo que vou amar essa série de posts! Esse livro é simplesmente SENSACIONAL!<br />
+Recomendo também &#8220;Os Segredos da Mente Milionária&#8221; que juntamente com o &#8220;Trabalhe 4 horas por semana&#8221; mudou completamente minha forma de pensar em relação ao dinheiro e à própria vida.<br />
+É realmente uma sacudida mental que faz você refletir e sentir a necessidade de agir imediatamente.<br />
+Agradeço ao meu pai por ter me apresentado ambos os livros durante a minha graduação, pois sem eles eu estaria terminando meu curso ainda com a mentalidade da &#8220;corrida dos ratos&#8221; ou &#8220;jornada dos tolos&#8221; (como muitos de meus colegas).</p>
+<p>Parabéns pelo post! Espero ansiosamente pelos próximos =)<br />
+Abraços</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63256#respond' onclick='return addComment.moveForm("comment-63256", "63256", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div><ol class="children">
+<li class="comment byuser comment-author-thais-godinho bypostauthor even depth-2" id="li-comment-63257"><div id="comment-63257" class="comment change clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='Thais Godinho' src='http://vidaorganizada.com/wp-content/uploads/2014/10/Thais-Godinho_avatar_1414670143-79x79.png' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author"><a href='http://vidaorganizada.com' rel='external nofollow' class='url'>Thais Godinho</a></div><div class="comment-date"><time datetime="2014-07-14T21:42:08+00:00">July 14, 2014</time></div></div><div class="comment-entry"><p>Obrigada, Noelle!</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63257#respond' onclick='return addComment.moveForm("comment-63257", "63257", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div></li><!-- #comment-## -->
+<li class="comment odd alt depth-2" id="li-comment-63311"><div id="comment-63311" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://0.gravatar.com/avatar/690989ba8aec2ed3b4b31343cb774ba6?s=79&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author">Brena Caroline Santos Soares</div><div class="comment-date"><time datetime="2014-07-16T00:00:45+00:00">July 16, 2014</time></div></div><div class="comment-entry"><p>Olá Noelle, um amigo me indicou &#8220;O Segredo da Mente Milionária&#8221; a uns 2 anos atrás. Este livro também mudou a vida dele! Quanto a minha, até ajudou, principalmente na época que li, na época tinha dívidas, comprava compulsivamente coisas baratas e desnecessárias. O livro me ajudou a me dar uma centrada e acabar com isso. Mas infelizmente não continuei a praticar os preceitos do livro&#8230; =( Vou relê-lo para ver se volto aos eixos. Que bom que seu pai te passou toda essa bagagem ainda  jovem. Vou fazer o mesmo se tiver um filho. =)<br />
+Fiquei curiosa pra saber o que é corrida dos ratos e jornada dos tolos! Já vou pesquisar !!<br />
+Abraços</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63311#respond' onclick='return addComment.moveForm("comment-63311", "63311", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div></li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-63264"><div id="comment-63264" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://0.gravatar.com/avatar/40fee6602162fca306fafb9c272d9141?s=79&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author">Nina Batista</div><div class="comment-date"><time datetime="2014-07-15T02:36:16+00:00">July 15, 2014</time></div></div><div class="comment-entry"><p>Thais,</p>
+<p>Você mais uma vez complementando e fazendo evoluir meus questionamentos&#8230; Como as perguntas é que movem as descobertas, as criações, tenho de agradecê-la por me ajudar a descobrir minha própria vida. Soou forte? Mas foi bem adequado: tempo é vida. E tanto tempo que perdemos e tanto queremos perder mais. </p>
+<p>Os conceitos do Ferris são a evolução do gerenciamento do tempo. Estava com a sensação de que não havia tempo suficiente, tinha consciência de que estava desperdiçando muito desse tempo e agora estava mergulhando em tudo relacionado a produtividade e gerenciamento do tempo, pra dar conta de tudo em umas 7 horas de trabalho diário&#8230; rsrs. Bem, acho que não preciso dizer que esses posts e a indicação do livro chegaram na hora certa.</p>
+<p>Já disse uma vez e repito: seus posts são em prol da saúde pública&#8230; rsrs</p>
+<p>Simplesmente obrigada!</p>
+<p>Beijos</p>
+<p>P.S.: hoje reli o post onde você fala do seu destralhamento de esmaltes&#8230; Thais, por favor, fale mais sobre o minimalismo nesse universo-feminino-vaidoso-guloso-hiperbólico. As mulheres estão comprando etiquetas com nomes esdrúxulos, a mesma cor que está lá na gaveta (intacta), cada dia mais caras e sem qualquer tipo de compromisso dos fabricantes em estimular a captação dos vidros (e o meio ambiente? Já me peguei imaginando 50% das mulheres das brasileiras jogando cada uma um vidrinho de esmalte velho fora e os arrepios me fizeram parar&#8230;).</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63264#respond' onclick='return addComment.moveForm("comment-63264", "63264", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div><ol class="children">
+<li class="comment odd alt depth-2" id="li-comment-63427"><div id="comment-63427" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://1.gravatar.com/avatar/3945034cebaa4f93dce4d23d2ddd4b11?s=79&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author">Gabi</div><div class="comment-date"><time datetime="2014-07-18T09:16:06+00:00">July 18, 2014</time></div></div><div class="comment-entry"><p>Oi Nina!</p>
+<p>Aqui em SP, no bairro da Liberdade, tem uma loja chamada Ikesaki que tem um posto de recolhe os vidrinhos de esmaltes, se não me engano patrocinado pela Risqué. </p>
+<p>Costumo juntar os meus e das colegas pra levar de uma vez&#8230;Já pedi para outras lojas perto de casa para colocar esse mesmo posto de coleta&#8230;Vamos ver!</p>
+<p>Abs,<br />
+Gabi</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63427#respond' onclick='return addComment.moveForm("comment-63427", "63427", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div></li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-63270"><div id="comment-63270" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://1.gravatar.com/avatar/12cffafa222d0fe5b23cffb46981f9a0?s=79&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author"><a href='http://www.crasadvocacia.com.br' rel='external nofollow' class='url'>Claudia</a></div><div class="comment-date"><time datetime="2014-07-15T08:03:20+00:00">July 15, 2014</time></div></div><div class="comment-entry"><p>Ola Thais! Depois que li esse post fiquei doida procurando o livro e não achei! Está em falta!!! Voce sabe onde posso encontrar no formato livro ou ebook? Bjs e parabéns!!!</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63270#respond' onclick='return addComment.moveForm("comment-63270", "63270", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div><ol class="children">
+<li class="comment byuser comment-author-thais-godinho bypostauthor odd alt depth-2" id="li-comment-63272"><div id="comment-63272" class="comment change clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='Thais Godinho' src='http://vidaorganizada.com/wp-content/uploads/2014/10/Thais-Godinho_avatar_1414670143-79x79.png' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author"><a href='http://vidaorganizada.com' rel='external nofollow' class='url'>Thais Godinho</a></div><div class="comment-date"><time datetime="2014-07-15T09:23:40+00:00">July 15, 2014</time></div></div><div class="comment-entry"><p>Eu comprei na Livraria Cultura, mas pode valer a pena entrar em contato com a editora.</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63272#respond' onclick='return addComment.moveForm("comment-63272", "63272", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div><ol class="children">
+<li class="comment even depth-3" id="li-comment-63283"><div id="comment-63283" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://1.gravatar.com/avatar/12cffafa222d0fe5b23cffb46981f9a0?s=79&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author"><a href='http://www.crasadvocacia.com.br' rel='external nofollow' class='url'>Claudia</a></div><div class="comment-date"><time datetime="2014-07-15T11:02:26+00:00">July 15, 2014</time></div></div><div class="comment-entry"><p>Oi Thais, o livro está esgotado mesmo, sem previsão. Agora só esperando, alugar ou pegar emprestado&#8230;rsrs</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63283#respond' onclick='return addComment.moveForm("comment-63283", "63283", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div><ol class="children">
+<li class="comment byuser comment-author-thais-godinho bypostauthor odd alt depth-4" id="li-comment-63284"><div id="comment-63284" class="comment change clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='Thais Godinho' src='http://vidaorganizada.com/wp-content/uploads/2014/10/Thais-Godinho_avatar_1414670143-79x79.png' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author"><a href='http://vidaorganizada.com' rel='external nofollow' class='url'>Thais Godinho</a></div><div class="comment-date"><time datetime="2014-07-15T11:10:00+00:00">July 15, 2014</time></div></div><div class="comment-entry"><p>Não tem na Estante Virtual?</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63284#respond' onclick='return addComment.moveForm("comment-63284", "63284", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div></li><!-- #comment-## -->
+<li class="comment even depth-4" id="li-comment-63407"><div id="comment-63407" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://1.gravatar.com/avatar/df998a4d6f75f61bdd4a8341aaeda6a8?s=79&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author">Karine</div><div class="comment-date"><time datetime="2014-07-17T22:57:54+00:00">July 17, 2014</time></div></div><div class="comment-entry"><p>Voce consegue baixar esse livro em pdf, procure-o no google.</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63407#respond' onclick='return addComment.moveForm("comment-63407", "63407", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div></li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-3" id="li-comment-65616"><div id="comment-65616" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://1.gravatar.com/avatar/12cffafa222d0fe5b23cffb46981f9a0?s=79&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author">Claudia</div><div class="comment-date"><time datetime="2014-07-26T17:17:57+00:00">July 26, 2014</time></div></div><div class="comment-entry"><p>Consegui comprar o último exemplar aqui em Guarulhos!!! Uhuuuu!!</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=65616#respond' onclick='return addComment.moveForm("comment-65616", "65616", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div><ol class="children">
+<li class="comment byuser comment-author-thais-godinho bypostauthor even depth-4" id="li-comment-65860"><div id="comment-65860" class="comment change clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='Thais Godinho' src='http://vidaorganizada.com/wp-content/uploads/2014/10/Thais-Godinho_avatar_1414670143-79x79.png' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author"><a href='http://vidaorganizada.com' rel='external nofollow' class='url'>Thais Godinho</a></div><div class="comment-date"><time datetime="2014-07-26T22:56:01+00:00">July 26, 2014</time></div></div><div class="comment-entry"><p>Boa leitura!</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=65860#respond' onclick='return addComment.moveForm("comment-65860", "65860", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div></li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-63285"><div id="comment-63285" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://1.gravatar.com/avatar/51dc5348075821341facce91997eb9af?s=79&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author">Vivi Lemes</div><div class="comment-date"><time datetime="2014-07-15T11:21:59+00:00">July 15, 2014</time></div></div><div class="comment-entry"><p>Oi Thais!</p>
+<p>Sim, esta postagem sacudiu mesmo. Quase chorei na última citação.</p>
+<p>Sempre tive esta inquietação, desde meu primeiro ano trabalhando assim, 9 horas por dia.<br />
+Ainda me considero bem jovem (23), tenho medo de estar tendo esta reflexão cedo demais. Meu inconsciente me diz &#8220;que preciso trabalhar duro por pelo menos um tempo pra começar a viver&#8221;. rsrs<br />
+Consegui o livro e vou lê-lo, só tenho a agradecer pela indicação. Acompanharei os posts sempre tbm.</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63285#respond' onclick='return addComment.moveForm("comment-63285", "63285", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div></li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-63309"><div id="comment-63309" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://1.gravatar.com/avatar/b68381b9eb2eedea5ae94c8a608a3eb5?s=79&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author">Marina</div><div class="comment-date"><time datetime="2014-07-15T23:47:36+00:00">July 15, 2014</time></div></div><div class="comment-entry"><p>Eu precisava ler isto. ..rs<br />
+Obrigada</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63309#respond' onclick='return addComment.moveForm("comment-63309", "63309", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div></li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-63368"><div id="comment-63368" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://0.gravatar.com/avatar/0b0ba0ac9dd0814327aa68eb05a4da37?s=79&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author"><a href='http://www.caoscriativo.com/' rel='external nofollow' class='url'>Jess</a></div><div class="comment-date"><time datetime="2014-07-17T11:16:34+00:00">July 17, 2014</time></div></div><div class="comment-entry"><p>Eu discordo de alguns pensamentos desse cara, mas o central que ela aborda é muito verdade em nossas vidas.</p>
+<p>Eu hoje trabalho por conta, e felizmente tem dado muito certo. Claro que por uma imaturidade no sentido da produtividade, acabo trabalhando mais horas que devia e se sentindo muito cansada por isso. Em contrapartida, tenho mais dias de folga, cozinho muito, curso uma universidade e um curso técnico e ainda tenho tempo para me dedicar a casa, meus gatinhos, a hobbies e ao blog que também tenho. Sito que tneho uma vida um pouco mais plena que a maior parte das pessoas ao meu redor e me pergunto como elas conseguem viver em um ritmo de 8hrs de trabalho por dia + 4hrs de transito e descanso no FDS e férias&#8230; Claro que cada um vive conforme pode (ter filho pra criar e uma série de responsabilidades maiores pesam também!) mesmo assim, é triste.</p>
+<p>O tempo é hoje e viver já está mais do que no limite de vencimento <img src="http://vidaorganizada.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /></p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=63368#respond' onclick='return addComment.moveForm("comment-63368", "63368", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div><ol class="children">
+<li class="comment even depth-2" id="li-comment-65619"><div id="comment-65619" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://1.gravatar.com/avatar/12cffafa222d0fe5b23cffb46981f9a0?s=79&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author">Claudia</div><div class="comment-date"><time datetime="2014-07-26T17:21:44+00:00">July 26, 2014</time></div></div><div class="comment-entry"><p>Eu estou aqui refletindo.. E se todos lessem esse livro? Pra quem vamos delegar nossas tarefas? Ninguém mais vai querer trabalhar subordinado, ninguém mais vai querer ter um emprego formal&#8230; Como seria isso? Só alguns privilegiados??</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=65619#respond' onclick='return addComment.moveForm("comment-65619", "65619", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div><ol class="children">
+<li class="comment byuser comment-author-thais-godinho bypostauthor odd alt depth-3" id="li-comment-65859"><div id="comment-65859" class="comment change clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='Thais Godinho' src='http://vidaorganizada.com/wp-content/uploads/2014/10/Thais-Godinho_avatar_1414670143-79x79.png' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author"><a href='http://vidaorganizada.com' rel='external nofollow' class='url'>Thais Godinho</a></div><div class="comment-date"><time datetime="2014-07-26T22:55:38+00:00">July 26, 2014</time></div></div><div class="comment-entry"><p>Isso nunca vai acontecer. A natureza tem uma coisa maravilhosa chamada equilíbrio natural, que garante que os seres humanos tenham suas diferenças.</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=65859#respond' onclick='return addComment.moveForm("comment-65859", "65859", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div></li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-65615"><div id="comment-65615" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://1.gravatar.com/avatar/12cffafa222d0fe5b23cffb46981f9a0?s=79&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author">Claudia</div><div class="comment-date"><time datetime="2014-07-26T17:17:08+00:00">July 26, 2014</time></div></div><div class="comment-entry"><p>Oi Thais! Estou lendo neste momento e por conta do seu blog o livro Trabalhe 4 horas por semana. Estou gostando muito. Todavia eu não só gostaria de ler, como também fazer uma resenha de cada capítulo, para assimilar melhor. Você teria alguma dica de como fazer? Seria o caso criar perguntas e respostas como fazem os concurseiros??? Que ferramenta você usa? Evernote ou bloco de anotações? Mind maps funciona? Obrigada!</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=65615#respond' onclick='return addComment.moveForm("comment-65615", "65615", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div><ol class="children">
+<li class="comment byuser comment-author-thais-godinho bypostauthor odd alt depth-2" id="li-comment-66852"><div id="comment-66852" class="comment change clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='Thais Godinho' src='http://vidaorganizada.com/wp-content/uploads/2014/10/Thais-Godinho_avatar_1414670143-79x79.png' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author"><a href='http://vidaorganizada.com' rel='external nofollow' class='url'>Thais Godinho</a></div><div class="comment-date"><time datetime="2014-07-28T19:45:10+00:00">July 28, 2014</time></div></div><div class="comment-entry"><p>Não faço nada específico ou metódico&#8230; creio que cada assunto demande um aprendizado diferente de pessoa para pessoa também.</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=66852#respond' onclick='return addComment.moveForm("comment-66852", "66852", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div></li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-66399"><div id="comment-66399" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://1.gravatar.com/avatar/5c5851e337fd2e72415c5dace4e734b1?s=79&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author"><a href='http://blog.atelienatureza.com.br' rel='external nofollow' class='url'>Cristiane Meloni</a></div><div class="comment-date"><time datetime="2014-07-28T10:01:20+00:00">July 28, 2014</time></div></div><div class="comment-entry"><p>Olá Thais. Muito bom, já alivia minha curiosidade e vontade de mudar!!!<br />
+Estou a procura do livro, mas não estou conseguindo. Edições esgotadas.<br />
+Aguardamos cenas do próximo post. rsrs</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=66399#respond' onclick='return addComment.moveForm("comment-66399", "66399", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div></li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-71576"><div id="comment-71576" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://1.gravatar.com/avatar/7e02cd542e6be627d6cff08eff14762c?s=79&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author">Cláudia Lima</div><div class="comment-date"><time datetime="2014-08-06T08:09:29+00:00">August 6, 2014</time></div></div><div class="comment-entry"><p>Amore, bom dia! </p>
+<p>Dá pra me explicar o termo ser proprietário?<br />
+Normalmente se entende que o proprietário trabalha mais que o chefe e o empregado.<br />
+Não entendi. </p>
+<p>Adoro você;  seus textos,  o Vida Organizada!<br />
+Você me inspira. Bjs!</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=71576#respond' onclick='return addComment.moveForm("comment-71576", "71576", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div><ol class="children">
+<li class="comment byuser comment-author-thais-godinho bypostauthor even depth-2" id="li-comment-74144"><div id="comment-74144" class="comment change clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='Thais Godinho' src='http://vidaorganizada.com/wp-content/uploads/2014/10/Thais-Godinho_avatar_1414670143-79x79.png' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author"><a href='http://vidaorganizada.com' rel='external nofollow' class='url'>Thais Godinho</a></div><div class="comment-date"><time datetime="2014-08-11T23:01:12+00:00">August 11, 2014</time></div></div><div class="comment-entry"><p>O Tim dá o exemplo perfeito: não seja o operador nem o maquinista do trem, mas o dono da ferrovia.</p>
+<p>Qual a carga de trabalho do dono da ferrovia, em comparação aos outros dois?</p>
+<p>Não se trata de trabalhar menos, mas de aprender a delegar e trabalhar com qualidade, economizando tempo. ;D</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=74144#respond' onclick='return addComment.moveForm("comment-74144", "74144", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div></li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-89723"><div id="comment-89723" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://0.gravatar.com/avatar/cdb5b3e96cae81702253b0ca6c807141?s=79&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author">Renato Santos</div><div class="comment-date"><time datetime="2014-09-09T19:22:31+00:00">September 9, 2014</time></div></div><div class="comment-entry"><p>Ótimo texto. Estou lendo o livro e realmente mudou totalmente minha maneira de pensar. Continue comentando sobre, sempre acompanharei.</p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=89723#respond' onclick='return addComment.moveForm("comment-89723", "89723", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div></li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-103374"><div id="comment-103374" class="comment clearfix"><div class="comment-t-left"><div class="comment-t-right"><div class="comment-t"></div></div></div><div class="comment-l-left"><div class="comment-l-right"><div class="comment-l"><div class="comment-avatar"><span></span><img alt='' src='http://0.gravatar.com/avatar/0f09a9ef3bebf60c684c46840738e717?s=79&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D79&amp;r=G' class='avatar avatar-79 photo' height='79' width='79' /></div><div class="comment-content"><div class="comment-meta"><div class="comment-author"><a href='http://cacandocomgatoo.blogspot.com.br' rel='external nofollow' class='url'>Camila</a></div><div class="comment-date"><time datetime="2014-10-31T15:10:35+00:00">October 31, 2014</time></div></div><div class="comment-entry"><p>Nossa agora fiquei com uma baita vontade de ler os livros dele <img src="http://vidaorganizada.com/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" /></p>
+<a class='comment-reply-link' href='/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/?replytocom=103374#respond' onclick='return addComment.moveForm("comment-103374", "103374", "respond", "14824")'>Responder</a></div></div><div class="clear"></div></div></div></div><div class="comment-b-left"><div class="comment-b-right"><div class="comment-b"></div></div></div></div></li><!-- #comment-## -->
+</ol>
+<ol class="pinglist unstyled clearfix">
+<li class="pingback even thread-even depth-1" id="comment-63436"><div class="comment ping clearfix"><span class="date"><time datetime="2014-07-18T12:12:16+00:00">18/07/2014</time></span> - <a href='http://cafelivrosecrivos.wordpress.com/2014/07/18/links-da-semana-4/' rel='external nofollow' class='url'>Links da semana [4] | Café, Livros e Crivos</a></div></li><!-- #comment-## -->
+</ol>
+</div><div class="clear"></div>
+</div>
+</div>
+<!--//comments-->
+<!--respond-box-->
+<div id="respond-box">
+								<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Deixe um comentário <small><a rel="nofollow" id="cancel-comment-reply-link" href="/organizacao/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-1/6991264961408618585/#respond" style="display:none;">Cancelar resposta</a></small></h3>
+									<form action="http://vidaorganizada.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																										<p class="comment-form-author"><label for="author">Nome</label><input id="author" name="author" type="text" value="" size="30" /></p>
+<p class="comment-form-email"><label for="email">E-mail <span>(não será publicado)</span></label><input id="email" name="email" type="email" value="" size="30" /></p>
+<p class="comment-form-url"><label for="url">Site</label><input id="url" name="url" type="text" value="" size="30" /></p>
+												<p class="comment-form-comment"><label for="comment">Comentário</label><textarea id="comment" name="comment" cols="45" rows="4" aria-required="true"></textarea></p>												<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Enviar comentário" />
+							<input type='hidden' name='comment_post_ID' value='14824' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="91c19548ca" /></p><!-- BEGIN: subscribe to comments reloaded --><p><label for='subscribe-reloaded'><input style='width:30px' type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of followup comments via e-mail. You can also <a href='http://vidaorganizada.com/comment-subscriptions?srp=14824&sra=s'>subscribe</a> without commenting.</label></p><!-- END: subscribe to comments reloaded --><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="166"/></p>					</form>
+							</div><!-- #respond -->
+			</div>
+<!--//respond-box-->
+<div class="pagenav clearfix"><h4 class="hide-all">Paginação</h4><ul class="unstyled clearfix"><li class="top"><a href="#"><i class="icon"></i> Topo</a></li><li class="prev"><a href="http://vidaorganizada.com/secoes-fixas/linkagem-de-domingo/linkagem-de-domingo-90/" rel="prev">&larr; Post anterior</a></li><li class="next"><a href="http://vidaorganizada.com/organizacao/como-organizar/como-organizar-um-quarto-dividido-por-duas-criancas/" rel="next">Post recente &rarr;</a></li></ul></div>
+
+	             
+
+</div>
+<!--//main-->        
+
+<!--sidebar-->
+<aside id="sidebar" role="complementary">    
+
+<div id="dldwidget_about-2" class="widget clearfix widget_dld_about"><div class="about-content clearfix"><div class="photo"><span></span><img src="http://vidaorganizada.com/wp-content/uploads/2014/10/thais-nov.png" alt="" /></div><h3 class="title font-title">Thais Godinho</h3><a href="http://vidaorganizada.com/sobre" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://vidaorganizada.com/sobre', 'Thais Godinho']);" >Thais Godinho</a>
+<br>Escritora, blogueira, organizadora profissional
+<br>São Paulo - Brasil</div><div class="social clearfix"><h4 class="hide-all">Redes sociais</h4><ul class="unstyled clearfix"><li class="facebook"><a href="http://facebook.com/vidaorganizada" class="hide-text" target="_blank" title="Facebook">Facebook</a></li><li class="twitter"><a href="http://twitter.com/vidaorganizada" class="hide-text" target="_blank" title="Twitter">Twitter</a></li><li class="instagram"><a href="http://instagram.com/blogvidaorganizada" class="hide-text" target="_blank" title="Instagram">Instagram</a></li><li class="gplus"><a href="https://plus.google.com/communities/110627348671042931724" class="hide-text" target="_blank" title="Google +">Google +</a></li><li class="pinterest"><a href="http://pinterest.com/vidaorganizada" class="hide-text" target="_blank" title="Pinterest">Pinterest</a></li><li class="youtube"><a href="https://www.youtube.com/user/thgodinho" class="hide-text" target="_blank" title="YouTube">YouTube</a></li><li class="rss"><a href="http://feeds.feedburner.com/vidaorganizada/blog" class="hide-text" target="_blank" title="RSS Feeds">RSS Feeds</a></li></ul></div></div>
+<div id="dldwidget_ads-10" class="widget clearfix widget_dld_ads"><div style="display:none; visibility:hidden;"><h3 class="title font-title">Personare</h3></div><div id='psr-vidaorganizada-ads-300x250' class='psr-ads-300x250'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('psr-vidaorganizada-ads-300x250'); });</script></div></div>
+<div id="dldwidget_about-3" class="widget clearfix widget_dld_about"><div class="about-content clearfix"><div class="photo"><span></span><img src="http://vidaorganizada.com/wp-content/uploads/2014/08/download-6.png" alt="" /></div><h3 class="title font-title">Livro Vida Organizada</h3>Livro "Vida Organizada"<br>
+Ed. Gente, 2014<br>
+<a href=http://vidaorganizada.com/livro>Saiba mais</a></div></div>
+<div id="dldwidget_instagram-2" class="widget clearfix widget_dld_instagram"><h3 class="title font-title">Instagram</h3><div id="instagramloading_dldwidget_instagram-2" class="loading">loading</div><ul id="instagram_dldwidget_instagram-2" class="instagram-photos unstyled clearfix"></ul><script>jQuery(document).ready(function($) { instagram("#instagram_dldwidget_instagram-2", "blogvidaorganizada", "297358995.456b36b.e37b230c1480414f9e5bdc26cc91312e", 6, "small", "#instagramloading_dldwidget_instagram-2"); });</script></div>
+<div id="dldwidget_facebook-2" class="widget clearfix widget_dld_facebook"><h3 class="title font-title">Facebook</h3><div class="facebook-box clearfix" style="width:300px;"><div class="fb-like-box" data-href="http://facebook.com/vidaorganizada" data-width="300" data-height="245" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div></div></div>
+		<div id="recent-posts-3" class="widget clearfix widget_recent_entries">		<h3 class="title font-title">Últimos posts</h3>		<ul>
+					<li>
+				<a href="http://vidaorganizada.com/sobre-mim/como-thais-faz/como-eu-estou-me-organizando-atualmente-outubro-2014/">Como eu estou me organizando atualmente &#8211; outubro 2014</a>
+						</li>
+					<li>
+				<a href="http://vidaorganizada.com/solucoes/produtividade/o-que-eu-aprendi-sobre-produtividade-com-tim-ferris-parte-3/">O que eu aprendi sobre produtividade com Tim Ferris: parte 3</a>
+						</li>
+					<li>
+				<a href="http://vidaorganizada.com/equilibrio/desenvolvimento-pessoal/5-maneiras-de-se-motivar-em-um-trabalho-que-nao-e-o-dos-sonhos/">5 maneiras de se motivar em um trabalho que não é o dos sonhos</a>
+						</li>
+					<li>
+				<a href="http://vidaorganizada.com/rotinas/limpeza-arrumacao/facilitando-a-rotina-de-lavanderia-para-quem-nao-tem-maquina-de-secar-e-ainda-economizando-agua/">Facilitando a rotina de lavanderia para quem não tem máquina de secar (e ainda economizando água)</a>
+						</li>
+					<li>
+				<a href="http://vidaorganizada.com/solucoes/produtividade/gtd/guia-para-aplicar-o-gtd-no-toodledo/">Guia para aplicar o GTD no Toodledo</a>
+						</li>
+					<li>
+				<a href="http://vidaorganizada.com/etc/novidades/agenda-com-dicas-do-e-book-365-dicas-para-se-organizar-o-ano-todo/">Agenda com dicas do e-book 365 dicas para se organizar o ano todo</a>
+						</li>
+					<li>
+				<a href="http://vidaorganizada.com/secoes-fixas/entrevistas/entrevista-com-a-personal-organizer-regiane-deppe-organare/">Entrevista com a personal organizer: Regiane Deppe (Organare)</a>
+						</li>
+				</ul>
+		</div>
+<div id="dldwidget_ads-6" class="widget clearfix widget_dld_ads"><div style="display:none; visibility:hidden;"><h3 class="title font-title">Anuncie aqui</h3></div><a href=mailto:comercial@vidaorganizada.com><img src=http://vidaorganizada.com/wp-content/uploads/2014/09/anuncie-vidaorganizada.jpg border=0></a></div>
+ 
+<!--sidebar-ads-->
+<div id="sidebar-ads" class="sidebar-ads clearfix">   
+<div id="text-29" class="widget clearfix widget_text">			<div class="textwidget"><!-- personare 300x250 -->
+<div id='psr-widget-vidaorganizadaW300x250'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('psr-widget-vidaorganizadaW300x250'); });</script></div></div>
+		</div>
+<div id="text-31" class="widget clearfix widget_text">			<div class="textwidget"><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(
+	['_setAccount', 'INCLUIR ID DO ANALYTICS DO SEU SITE AQUI'],
+	['_setDomainName', 'vidaorganizada.com'],
+	['_trackPageview'],
+	['b._setAccount', 'UA-47244236-1'],
+	['b._setDomainName', 'vidaorganizada.com'],
+	['b._trackPageview']
+);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+})();
+</script></div>
+		</div>
+<div id="categories-3" class="widget clearfix widget_categories"><h3 class="title font-title">Categorias</h3><select name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="272">Equilíbrio</option>
+	<option class="level-1" value="352">&nbsp;&nbsp;&nbsp;Beleza e higiene</option>
+	<option class="level-1" value="687">&nbsp;&nbsp;&nbsp;Desenvolvimento pessoal</option>
+	<option class="level-1" value="760">&nbsp;&nbsp;&nbsp;Empreendedorismo</option>
+	<option class="level-1" value="691">&nbsp;&nbsp;&nbsp;Espiritualidade e Budismo</option>
+	<option class="level-1" value="524">&nbsp;&nbsp;&nbsp;Exercícios e atividade física</option>
+	<option class="level-1" value="705">&nbsp;&nbsp;&nbsp;Maternidade / Paternidade</option>
+	<option class="level-1" value="330">&nbsp;&nbsp;&nbsp;Moda e estilo</option>
+	<option class="level-1" value="452">&nbsp;&nbsp;&nbsp;Saúde</option>
+	<option class="level-1" value="737">&nbsp;&nbsp;&nbsp;Trabalho e carreira</option>
+	<option class="level-1" value="329">&nbsp;&nbsp;&nbsp;Viagens</option>
+	<option class="level-0" value="339">Etc.</option>
+	<option class="level-1" value="699">&nbsp;&nbsp;&nbsp;Blogs profissionais</option>
+	<option class="level-1" value="703">&nbsp;&nbsp;&nbsp;E-book 365 dicas de organização</option>
+	<option class="level-1" value="684">&nbsp;&nbsp;&nbsp;Eventos</option>
+	<option class="level-1" value="692">&nbsp;&nbsp;&nbsp;Fale com a Personal Organizer</option>
+	<option class="level-1" value="753">&nbsp;&nbsp;&nbsp;Guia do blog</option>
+	<option class="level-1" value="681">&nbsp;&nbsp;&nbsp;Novidades</option>
+	<option class="level-1" value="644">&nbsp;&nbsp;&nbsp;Participe do blog</option>
+	<option class="level-1" value="682">&nbsp;&nbsp;&nbsp;Posts patrocinados</option>
+	<option class="level-0" value="1">Organize-se!</option>
+	<option class="level-1" value="777">&nbsp;&nbsp;&nbsp;Antes &amp; Depois</option>
+	<option class="level-1" value="697">&nbsp;&nbsp;&nbsp;Comece agora</option>
+	<option class="level-1" value="723">&nbsp;&nbsp;&nbsp;Como me organizo</option>
+	<option class="level-1" value="600">&nbsp;&nbsp;&nbsp;Como organizar qualquer coisa</option>
+	<option class="level-1" value="591">&nbsp;&nbsp;&nbsp;Desafios de organização</option>
+	<option class="level-1" value="689">&nbsp;&nbsp;&nbsp;Destralhando</option>
+	<option class="level-1" value="778">&nbsp;&nbsp;&nbsp;Encontrando motivação</option>
+	<option class="level-1" value="188">&nbsp;&nbsp;&nbsp;Finanças pessoais</option>
+	<option class="level-2" value="734">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Compras inteligentes</option>
+	<option class="level-1" value="613">&nbsp;&nbsp;&nbsp;Minimalismo e simplicidade</option>
+	<option class="level-1" value="700">&nbsp;&nbsp;&nbsp;Organização profissional</option>
+	<option class="level-1" value="797">&nbsp;&nbsp;&nbsp;Reduzindo a quantidade de papel</option>
+	<option class="level-1" value="775">&nbsp;&nbsp;&nbsp;Sobre ser uma pessoa organizada</option>
+	<option class="level-0" value="643">Rotinas</option>
+	<option class="level-1" value="677">&nbsp;&nbsp;&nbsp;Comida</option>
+	<option class="level-2" value="728">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Menu semanal</option>
+	<option class="level-2" value="757">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Receitas</option>
+	<option class="level-1" value="368">&nbsp;&nbsp;&nbsp;Dicas de estudos</option>
+	<option class="level-2" value="764">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Concursos</option>
+	<option class="level-2" value="766">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Escola</option>
+	<option class="level-2" value="765">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculdade e pós-graduação</option>
+	<option class="level-2" value="768">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Idiomas</option>
+	<option class="level-2" value="763">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Professores</option>
+	<option class="level-2" value="767">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vestibular</option>
+	<option class="level-1" value="683">&nbsp;&nbsp;&nbsp;Feriados</option>
+	<option class="level-2" value="572">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ano novo</option>
+	<option class="level-2" value="503">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carnaval</option>
+	<option class="level-2" value="642">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dia das bruxas</option>
+	<option class="level-2" value="641">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dia das crianças</option>
+	<option class="level-2" value="802">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dia das mães</option>
+	<option class="level-2" value="739">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dia dos Namorados</option>
+	<option class="level-2" value="752">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dia dos pais</option>
+	<option class="level-2" value="491">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Natal</option>
+	<option class="level-2" value="658">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Páscoa</option>
+	<option class="level-1" value="220">&nbsp;&nbsp;&nbsp;Limpeza e arrumação</option>
+	<option class="level-2" value="803">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Como limpar</option>
+	<option class="level-1" value="720">&nbsp;&nbsp;&nbsp;Nesta estação</option>
+	<option class="level-2" value="479">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inverno</option>
+	<option class="level-2" value="481">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Outono</option>
+	<option class="level-2" value="721">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primavera</option>
+	<option class="level-2" value="480">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Verão</option>
+	<option class="level-1" value="729">&nbsp;&nbsp;&nbsp;Organizando contas</option>
+	<option class="level-2" value="731">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Imposto de renda</option>
+	<option class="level-1" value="690">&nbsp;&nbsp;&nbsp;Organizando festinhas</option>
+	<option class="level-2" value="430">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aniversário</option>
+	<option class="level-2" value="638">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Casamento</option>
+	<option class="level-2" value="735">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chá de bebê</option>
+	<option class="level-2" value="736">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chá de cozinha</option>
+	<option class="level-1" value="726">&nbsp;&nbsp;&nbsp;Organize a rotina em família</option>
+	<option class="level-2" value="790">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Atividades de homeschooling</option>
+	<option class="level-2" value="758">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chegada do bebê</option>
+	<option class="level-2" value="707">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Escolinha</option>
+	<option class="level-2" value="708">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Filhos</option>
+	<option class="level-2" value="704">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gravidez</option>
+	<option class="level-1" value="722">&nbsp;&nbsp;&nbsp;Recebendo pessoas</option>
+	<option class="level-0" value="420">Sempre aqui no blog</option>
+	<option class="level-1" value="647">&nbsp;&nbsp;&nbsp;Depoimentos</option>
+	<option class="level-1" value="616">&nbsp;&nbsp;&nbsp;Editorial</option>
+	<option class="level-1" value="701">&nbsp;&nbsp;&nbsp;Entrevistas</option>
+	<option class="level-1" value="671">&nbsp;&nbsp;&nbsp;Frase da semana</option>
+	<option class="level-1" value="724">&nbsp;&nbsp;&nbsp;Instagram da semana</option>
+	<option class="level-1" value="626">&nbsp;&nbsp;&nbsp;Linkagem de domingo</option>
+	<option class="level-1" value="727">&nbsp;&nbsp;&nbsp;Livros lidos e book haul</option>
+	<option class="level-1" value="665">&nbsp;&nbsp;&nbsp;Podcasts</option>
+	<option class="level-1" value="792">&nbsp;&nbsp;&nbsp;Resumo do mês</option>
+	<option class="level-1" value="680">&nbsp;&nbsp;&nbsp;Vídeos</option>
+	<option class="level-0" value="325">Sobre mim</option>
+	<option class="level-1" value="784">&nbsp;&nbsp;&nbsp;Agradecimentos</option>
+	<option class="level-1" value="668">&nbsp;&nbsp;&nbsp;Como a Thais faz</option>
+	<option class="level-1" value="326">&nbsp;&nbsp;&nbsp;Diário de organização</option>
+	<option class="level-1" value="702">&nbsp;&nbsp;&nbsp;Imprensa</option>
+	<option class="level-1" value="805">&nbsp;&nbsp;&nbsp;Livro Vida Organizada</option>
+	<option class="level-1" value="801">&nbsp;&nbsp;&nbsp;Meus serviços</option>
+	<option class="level-1" value="656">&nbsp;&nbsp;&nbsp;Nosso apartamento</option>
+	<option class="level-1" value="804">&nbsp;&nbsp;&nbsp;Palestras</option>
+	<option class="level-1" value="756">&nbsp;&nbsp;&nbsp;Vida de escritora</option>
+	<option class="level-0" value="327">Soluções de organização</option>
+	<option class="level-1" value="619">&nbsp;&nbsp;&nbsp;Agenda</option>
+	<option class="level-1" value="679">&nbsp;&nbsp;&nbsp;Aplicativos e ferramentas</option>
+	<option class="level-2" value="594">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Evernote</option>
+	<option class="level-2" value="773">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft Outlook</option>
+	<option class="level-2" value="621">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toodledo</option>
+	<option class="level-1" value="341">&nbsp;&nbsp;&nbsp;Checklists</option>
+	<option class="level-1" value="788">&nbsp;&nbsp;&nbsp;Dicas baratas</option>
+	<option class="level-1" value="779">&nbsp;&nbsp;&nbsp;DIY &#8211; Faça você mesma(o)</option>
+	<option class="level-1" value="488">&nbsp;&nbsp;&nbsp;Downloads e planilhas</option>
+	<option class="level-1" value="718">&nbsp;&nbsp;&nbsp;Livros, filmes e links</option>
+	<option class="level-1" value="794">&nbsp;&nbsp;&nbsp;Melhore sua produtividade</option>
+	<option class="level-2" value="662">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mails</option>
+	<option class="level-2" value="476">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GTD</option>
+	<option class="level-2" value="796">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lidando com a procrastinação</option>
+	<option class="level-2" value="659">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reuniões</option>
+	<option class="level-2" value="771">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Técnica Pomodoro</option>
+	<option class="level-1" value="780">&nbsp;&nbsp;&nbsp;Produtos organizadores</option>
+	<option class="level-1" value="710">&nbsp;&nbsp;&nbsp;Resenhas e testes</option>
+	<option class="level-1" value="791">&nbsp;&nbsp;&nbsp;Rotuladora e etiquetas</option>
+	<option class="level-1" value="477">&nbsp;&nbsp;&nbsp;Sistema FLY Lady</option>
+	<option class="level-2" value="624">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Control journal</option>
+	<option class="level-1" value="783">&nbsp;&nbsp;&nbsp;Tecnologia</option>
+	<option class="level-0" value="316">Sua casa</option>
+	<option class="level-1" value="795">&nbsp;&nbsp;&nbsp;Animais de estimação</option>
+	<option class="level-1" value="786">&nbsp;&nbsp;&nbsp;Armazenando coisas</option>
+	<option class="level-2" value="715">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brinquedos</option>
+	<option class="level-2" value="717">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carro e garagem</option>
+	<option class="level-2" value="716">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Despensa</option>
+	<option class="level-2" value="787">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fotos</option>
+	<option class="level-2" value="609">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guarda-roupa e closet</option>
+	<option class="level-2" value="789">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Material de artesanato</option>
+	<option class="level-2" value="623">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Papelada</option>
+	<option class="level-1" value="730">&nbsp;&nbsp;&nbsp;Comprando ou alugando</option>
+	<option class="level-1" value="685">&nbsp;&nbsp;&nbsp;Dicas de decoração</option>
+	<option class="level-1" value="725">&nbsp;&nbsp;&nbsp;Dicas para organizar a casa</option>
+	<option class="level-1" value="655">&nbsp;&nbsp;&nbsp;Feng shui</option>
+	<option class="level-1" value="336">&nbsp;&nbsp;&nbsp;Mudanças</option>
+	<option class="level-1" value="785">&nbsp;&nbsp;&nbsp;Por cômodo</option>
+	<option class="level-2" value="714">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Área de serviço</option>
+	<option class="level-2" value="666">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Banheiros</option>
+	<option class="level-2" value="711">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cozinha e jantar</option>
+	<option class="level-2" value="637">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entrada</option>
+	<option class="level-2" value="670">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home-office</option>
+	<option class="level-2" value="713">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quartos</option>
+	<option class="level-2" value="604">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quartos de crianças e bebês</option>
+	<option class="level-2" value="636">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sala</option>
+	<option class="level-2" value="712">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Varanda e quintal</option>
+	<option class="level-1" value="478">&nbsp;&nbsp;&nbsp;Segurança</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+	var dropdown = document.getElementById("cat");
+	function onCatChange() {
+		if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
+			location.href = "http://vidaorganizada.com/?cat="+dropdown.options[dropdown.selectedIndex].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+/* ]]> */
+</script>
+
+</div>
+<div id="dldwidget_ads-5" class="widget clearfix widget_dld_ads"><div style="display:none; visibility:hidden;"><h3 class="title font-title">Google ads</h3></div><script type="text/javascript"><!--
+google_ad_client = "ca-pub-1346061585991744";
+/* VO - sidebar */
+google_ad_slot = "0456891213";
+google_ad_width = 250;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+ 
+</div><!--//sidebar-ads--> 
+
+</aside>
+<!--//sidebar--> 
+
+<div class="clear"></div>
+</div>
+<!--//line-all-->
+
+<footer id="footer" role="contentinfo">
+    <div id="footer-content">        
+      <!--box--><div class="box first">
+      <div id="text-27" class="widget clearfix widget_text"><h3 class="title">Blog membro</h3>			<div class="textwidget"><a href=http://napo.net target=_blank><img src=http://vidaorganizada.com/wp-content/uploads/2013/10/napo-member.gif border=0></a></div>
+		</div>
+ 
+      </div><!--//box--> 
+      <!--box--><div class="box second">
+      <div id="dldwidget_archive-2" class="widget clearfix widget_dld_archive"><h3 class="title">Arquivo</h3><ul class="unstyled clearfix">	<li><a href='http://vidaorganizada.com/2014/10/'>October 2014</a></li>
+	<li><a href='http://vidaorganizada.com/2014/09/'>September 2014</a></li>
+	<li><a href='http://vidaorganizada.com/2014/08/'>August 2014</a></li>
+	<li><a href='http://vidaorganizada.com/2014/07/'>July 2014</a></li>
+	<li><a href='http://vidaorganizada.com/2014/06/'>June 2014</a></li>
+	<li><a href='http://vidaorganizada.com/2014/05/'>May 2014</a></li>
+	<li><a href='http://vidaorganizada.com/2014/04/'>April 2014</a></li>
+	<li><a href='http://vidaorganizada.com/2014/03/'>March 2014</a></li>
+	<li><a href='http://vidaorganizada.com/2014/02/'>February 2014</a></li>
+	<li><a href='http://vidaorganizada.com/2014/01/'>January 2014</a></li>
+	<li><a href='http://vidaorganizada.com/2013/12/'>December 2013</a></li>
+	<li><a href='http://vidaorganizada.com/2013/11/'>November 2013</a></li>
+	<li><a href='http://vidaorganizada.com/2013/10/'>October 2013</a></li>
+	<li><a href='http://vidaorganizada.com/2013/09/'>September 2013</a></li>
+	<li><a href='http://vidaorganizada.com/2013/08/'>August 2013</a></li>
+	<li><a href='http://vidaorganizada.com/2013/07/'>July 2013</a></li>
+	<li><a href='http://vidaorganizada.com/2013/06/'>June 2013</a></li>
+	<li><a href='http://vidaorganizada.com/2013/05/'>May 2013</a></li>
+</ul><div class="see-more"><a href="http://vidaorganizada.com/arquivo/">+ Ver arquivo completo</a></div></div>
+ 
+      </div><!--//box--> 
+      <!--box--><div class="box third">
+      <div id="dldwidget_tags-2" class="widget clearfix widget_dld_tags"><h3 class="title">Nuvem de tags</h3><div class="tagcloud clearfix"><a href='http://vidaorganizada.com/categoria/casa/por-comodo/banheiros/' class='tag-link-666' title='31 topics' style='font-size: 10.7831325301px;'>Banheiros</a> <a href='http://vidaorganizada.com/categoria/solucoes/checklists/' class='tag-link-341' title='50 topics' style='font-size: 11.9879518072px;'>Checklists</a> <a href='http://vidaorganizada.com/categoria/sobre-mim/como-thais-faz/' class='tag-link-668' title='30 topics' style='font-size: 10.6626506024px;'>Como a Thais faz</a> <a href='http://vidaorganizada.com/categoria/organizacao/como-organizar/' class='tag-link-600' title='84 topics' style='font-size: 13.313253012px;'>Como organizar qualquer coisa</a> <a href='http://vidaorganizada.com/categoria/casa/por-comodo/cozinha-e-jantar/' class='tag-link-711' title='39 topics' style='font-size: 11.3253012048px;'>Cozinha e jantar</a> <a href='http://vidaorganizada.com/categoria/casa/dicas-organizar-a-casa/' class='tag-link-725' title='53 topics' style='font-size: 12.1084337349px;'>Dicas para organizar a casa</a> <a href='http://vidaorganizada.com/categoria/equilibrio/' class='tag-link-272' title='57 topics' style='font-size: 12.2891566265px;'>Equilíbrio</a> <a href='http://vidaorganizada.com/categoria/etc/' class='tag-link-339' title='46 topics' style='font-size: 11.7469879518px;'>Etc.</a> <a href='http://vidaorganizada.com/categoria/solucoes/aplicativos-e-ferramentas/evernote/' class='tag-link-594' title='23 topics' style='font-size: 10px;'>Evernote</a> <a href='http://vidaorganizada.com/categoria/solucoes/produtividade/gtd/' class='tag-link-476' title='32 topics' style='font-size: 10.843373494px;'>GTD</a> <a href='http://vidaorganizada.com/categoria/rotinas/estacoes/inverno/' class='tag-link-479' title='25 topics' style='font-size: 10.1807228916px;'>Inverno</a> <a href='http://vidaorganizada.com/categoria/rotinas/limpeza-arrumacao/' class='tag-link-220' title='48 topics' style='font-size: 11.8674698795px;'>Limpeza e arrumação</a> <a href='http://vidaorganizada.com/categoria/secoes-fixas/linkagem-de-domingo/' class='tag-link-626' title='30 topics' style='font-size: 10.6626506024px;'>Linkagem de domingo</a> <a href='http://vidaorganizada.com/categoria/equilibrio/maternidade-paternidade/' class='tag-link-705' title='55 topics' style='font-size: 12.2289156627px;'>Maternidade / Paternidade</a> <a href='http://vidaorganizada.com/categoria/rotinas/comida/menu-semanal/' class='tag-link-728' title='26 topics' style='font-size: 10.3012048193px;'>Menu semanal</a> <a href='http://vidaorganizada.com/categoria/equilibrio/moda-estilo/' class='tag-link-330' title='38 topics' style='font-size: 11.265060241px;'>Moda e estilo</a> <a href='http://vidaorganizada.com/categoria/organizacao/' class='tag-link-1' title='1,087 topics' style='font-size: 20px;'>Organize-se!</a> <a href='http://vidaorganizada.com/categoria/organizacao/reduzindo-a-quantidade-de-papel/' class='tag-link-797' title='25 topics' style='font-size: 10.1807228916px;'>Reduzindo a quantidade de papel</a> <a href='http://vidaorganizada.com/categoria/rotinas/' class='tag-link-643' title='31 topics' style='font-size: 10.7831325301px;'>Rotinas</a> <a href='http://vidaorganizada.com/categoria/casa/' class='tag-link-316' title='40 topics' style='font-size: 11.3855421687px;'>Sua casa</a> <a href='http://vidaorganizada.com/categoria/equilibrio/trabalho-carreira/' class='tag-link-737' title='54 topics' style='font-size: 12.1686746988px;'>Trabalho e carreira</a> <a href='http://vidaorganizada.com/categoria/equilibrio/viagens/' class='tag-link-329' title='24 topics' style='font-size: 10.1204819277px;'>Viagens</a></div></div>
+ 
+      </div><!--//box--> 
+      <!--box--><div class="box last">
+      <div id="nav_menu-3" class="widget clearfix widget_nav_menu"><h3 class="title">Menu</h3><div class="menu-paginas-rodape-container"><ul id="menu-paginas-rodape" class="menu"><li id="menu-item-11226" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11226"><a href="http://vidaorganizada.com/">Home</a></li>
+<li id="menu-item-11228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11228"><a href="http://vidaorganizada.com/sobre/">Sobre</a></li>
+<li id="menu-item-11229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11229"><a href="http://vidaorganizada.com/?page_id=512">Anuncie</a></li>
+<li id="menu-item-11227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11227"><a href="http://vidaorganizada.com/servicos/calendario/">Calendário</a></li>
+<li id="menu-item-11232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11232"><a href="http://vidaorganizada.com/contato/faq-perguntas-mais-frequentes/">FAQ</a></li>
+<li id="menu-item-11230" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11230"><a href="http://vidaorganizada.com/sobre/parceiros/">Parceiros</a></li>
+<li id="menu-item-11231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11231"><a href="http://vidaorganizada.com/sobre/recomendo/">Recomendo</a></li>
+<li id="menu-item-11233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11233"><a href="http://vidaorganizada.com/contato/">Contato</a></li>
+<li id="menu-item-11242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11242"><a href="http://vidaorganizada.com/arquivo/">Arquivo</a></li>
+<li id="menu-item-11234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11234"><a target="_blank" href="http://facebook.com/vidaorganizada">Facebook</a></li>
+<li id="menu-item-11235" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11235"><a target="_blank" href="http://twitter.com/vidaorganizada">Twitter</a></li>
+<li id="menu-item-11236" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11236"><a target="_blank" href="http://instagram.com/blogvidaorganizada">Instagram</a></li>
+<li id="menu-item-11237" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11237"><a target="_blank" href="https://plus.google.com/communities/110627348671042931724">Google +</a></li>
+<li id="menu-item-11238" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11238"><a target="_blank" href="http://www.youtube.com/user/vidaorganizada">YouTube</a></li>
+</ul></div></div>
+ 
+      </div><!--//box--> 
+  <div class="clear"></div>
+  </div>  <div id="credits">Vida Organizada | Thais Godinho &copy; 2014 - Powered by <a href="http://wordpress.org" target="_blank">WordPress</a> - Theme by <a href="http://difluir.com/" target="_blank">Difluir</a></div>
+</footer>
+
+<div class="clear"></div>
+</div>
+</div>
+<!--//wrapper-->
+
+<!--[if IE 7 ]></div><![endif]-->
+<!--[if IE 8 ]></div><![endif]-->
+<!--[if IE 9 ]></div><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--></div><!--<![endif]-->
+
+<script src="http://vidaorganizada.com/wp-content/themes/blog2013/lib/js/main.js"></script>
+<script src="http://vidaorganizada.com/wp-content/themes/blog2013/lib/js/fancybox/fancybox.pack.js"></script>
+<script type='text/javascript' src='http://vidaorganizada.com/wp-includes/js/comment-reply.min.js?ver=4.0'></script>
+
+<noscript><a href='http://www.wibiya.com/'>Web Toolbar by Wibiya</a></noscript><script type='text/javascript' src='http://vidaorganizada.com/wp-content/plugins/akismet/_inc/form.js?ver=3.0.2'></script>
+<script type='text/javascript' src='http://vidaorganizada.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/vidaorganizada.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://vidaorganizada.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.0.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var viewsCacheL10n = {"admin_ajax_url":"http:\/\/vidaorganizada.com\/wp-admin\/admin-ajax.php","post_id":"14824"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://vidaorganizada.com/wp-content/plugins/wp-postviews/postviews-cache.js?ver=1.68'></script>
+<script type='text/javascript' src='http://vidaorganizada.com/wp-content/plugins/twitget/js/moment.js?ver=4.0'></script>
+<script type='text/javascript' src='http://vidaorganizada.com/wp-content/plugins/twitget/js/langs.min.js?ver=4.0'></script>
+
+<!-- facebook -->
+<div id="fb-root"></div>
+<script>
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- fim facebook -->
+
+<!-- google plus -->
+<script>window.___gcfg = {lang: 'pt-BR'}; (function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://apis.google.com/js/plusone.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();</script>
+<!-- fim google plus -->
+
+</body>
+</html>
+<!-- Dynamic page generated in 1.090 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2014-11-02 10:35:47 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->
