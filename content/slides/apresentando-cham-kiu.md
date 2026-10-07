@@ -199,10 +199,10 @@ Note: No Hai Tong, Si Taai Gung Moy Yat define kiu 橋 no Ving Tsun Kuen como a 
 <p class="eyebrow">梅逸 · Moy Yat, Hai Tong</p>
 <h2 style="font-size:72px">O que se procura em Cham Kiu</h2>
 <div><p class="cjk accent" style="font-size:120px">身軀基本穩固</p><p class="muted" style="font-size:36px">shēn qū jī běn wěn gù · a estabilidade básica do corpo</p></div>
-<p style="font-size:44px">"saiba que definitivamente (決) não é a referida ponte dos dois combatentes, mas, sim, o kung fu da estabilidade básica do corpo"</p>
+<p style="font-size:44px">Não somente a ponte dos dois combatentes, mas o kung fu da estabilidade básica do corpo.</p>
 <p class="muted" style="font-size:32px">o ma bo avançar e recuar, e a harmonia entre braços e pernas</p>
 </div>
-<p class="src">Hai Tong, Moy Yat · seção Cham Kiu 尋橋</p>
+<p class="src">Leitura minha a partir do Hai Tong, Moy Yat · seção Cham Kiu 尋橋</p>
 
 Note: Logo depois, o Hai Tong diz o que se procura: não a ponte dos dois combatentes, mas o gung fu da estabilidade básica do corpo, o ma bo avançar e recuar, e a harmonia entre braços e pernas. (Ligação sugerida, não do Hai Tong: conversa com o barco em Angra do XIII Encontro.)
 
