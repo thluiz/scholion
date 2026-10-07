@@ -102,7 +102,7 @@ Note: Duan Yucai, filólogo da dinastia Qing, comenta o 繹理也 do Shuowen: �
 <h2 style="font-size:96px">Cham</h2>
 <p class="muted" style="font-size:44px">xún · cam4</p>
 <p style="font-size:56px">Seek, search, look for; Unit of Measure;</p>
-<p class="muted" style="font-size:36px">Não é investigar nem pesquisar: é ato físico e também medir.</p>
+<p class="muted" style="font-size:36px">Pesquisar como ato físico. Tatear e também medir.</p>
 </div>
 </div>
 <p class="src">MDBG</p>
@@ -134,7 +134,7 @@ Note: A braça: a distância de punho a punho com os braços abertos. Claudio tr
 <h2 style="font-size:96px">Kiu</h2>
 <p class="muted" style="font-size:44px">qiáo · kiu4</p>
 <p style="font-size:56px">Bridge</p>
-<p class="muted" style="font-size:36px">A ponte chinesa tradicional: de madeira, arqueada.</p>
+<p class="muted" style="font-size:36px">A ponte chinesa tradicional, de madeira e arqueada.</p>
 </div>
 </div>
 <p class="src">MDBG · IV Encontro; nota "Kiu: a ponte de madeira que se curva"</p>
@@ -166,7 +166,7 @@ Note: Kiu 橋 é ponte. O componente mais importante fica à esquerda: árvore, 
 <div class="row">
 <div class="glyph"><p class="cjk g-xl">喬</p></div>
 <div class="side" style="gap:36px">
-<h2 style="font-size:64px;line-height:1.15">Dá o som, e aponta para o alto</h2>
+<h2 style="font-size:64px;line-height:1.15">喬: o som de 橋, alto e curvo</h2>
 <div><p class="cjk accent g-s">高而曲也</p><p class="muted" style="font-size:36px">gāo ér qū yě · alto e curvo</p></div>
 <div><p class="cjk accent g-s">南有喬木</p><p class="muted" style="font-size:36px">nán yǒu qiáo mù · no sul há árvores altas</p></div>
 <p style="font-size:36px">喬 nasce de 高 gāo, alto, com um traço curvo no topo.</p>
@@ -191,12 +191,12 @@ Note: O lado direito, 喬, carrega o som e sugere algo grande que se curva. O Sh
 </div>
 <p class="src">Hai Tong, Moy Yat · seção Cham Kiu 尋橋</p>
 
-Note: No Hai Tong, Si Taai Gung Moy Yat define kiu 橋 no Ving Tsun Kuen como a ponte posta entre os limites (gaai haan 界限) de duas pessoas: poder estabelecer contato com o corpo da outra pessoa serve como medida. Por isso braços e pernas podem ser considerados ponte. (Sugestão de leitura, não do Hai Tong: a ponte é a conexão; o braço é por onde ela se faz.)
+Note: No Hai Tong, Si Taai Gung Moy Yat define kiu 橋 no Ving Tsun Kuen como a ponte posta entre os limites (gaai haan 界限) de duas pessoas: poder estabelecer contato com o corpo da outra pessoa serve como medida. Por isso braços e pernas podem ser considerados ponte. (Leitura minha, não do Hai Tong: o braço é ponte porque é por onde se faz o contato.)
 
 ---
 
 <!-- .slide: class="dark" data-background-color="#1F1D1A" -->
-<div class="stack" style="height:100%;justify-content:center;gap:40px">
+<div class="stack safe" style="height:100%;justify-content:center;gap:40px">
 <p class="eyebrow">梅逸 · Moy Yat, Hai Tong</p>
 <h2 style="font-size:72px">O que se procura em Cham Kiu</h2>
 <div><p class="cjk accent" style="font-size:120px">身軀基本穩固</p><p class="muted" style="font-size:36px">shēn qū jī běn wěn gù · a estabilidade básica do corpo</p></div>
@@ -205,7 +205,7 @@ Note: No Hai Tong, Si Taai Gung Moy Yat define kiu 橋 no Ving Tsun Kuen como a 
 </div>
 <p class="src">Leitura minha a partir do Hai Tong, Moy Yat · seção Cham Kiu 尋橋</p>
 
-Note: Logo depois, o Hai Tong diz o que se procura: não a ponte dos dois combatentes, mas o gung fu da estabilidade básica do corpo, o ma bo avançar e recuar, e a harmonia entre braços e pernas. (Ligação sugerida, não do Hai Tong: conversa com o barco em Angra do XIII Encontro.)
+Note: Logo depois, o Hai Tong diz o que se procura: não a ponte dos dois combatentes, mas o gung fu da estabilidade básica do corpo, o ma bo avançar e recuar, e a harmonia entre braços e pernas. (Leitura minha: lembra o barco em Angra, do XIII Encontro.)
 
 ---
 
@@ -214,8 +214,8 @@ Note: Logo depois, o Hai Tong diz o que se procura: não a ponte dos dois combat
 <h1 class="cjk" style="font-size:260px;letter-spacing:20px">尋橋</h1>
 <p style="font-size:56px;font-weight:600">a busca da ponte</p>
 <div style="display:flex;align-items:center;gap:40px"><p class="cjk muted g-s">小念頭</p><span class="arrow">→</span><p class="cjk g-s" style="font-weight:900">尋橋</p><span class="arrow">→</span><p class="cjk muted g-s">標指</p></div>
-<p style="font-size:40px">"Cham Kiu 尋橋 é uma ponte que pode levá-lo a aprender profundamente o Ving Tsun Kuen Sut."</p>
+<p style="font-size:40px;width:1100px">"Cham Kiu 尋橋 é uma ponte que pode levá-lo a aprender profundamente o Ving Tsun Kuen Sut."</p>
 <p class="muted" style="font-size:28px">Moy Yat, Hai Tong · na linhagem: a ponte curta, do Kung Fu básico ao avançado</p>
 </div>
 
-Note: Fecho com o Hai Tong: Cham Kiu é uma ponte que pode levar a aprender profundamente o Ving Tsun Kuen Sut. Na nossa linhagem, a leitura é a da ponte curta: do Kung Fu básico ao avançado. Do outro lado dela está o Biu Ji.
+Note: Moy Yat, no Hai Tong: Cham Kiu é uma ponte que pode levar a aprender profundamente o Ving Tsun Kuen Sut. Na linhagem, é a ponte curta, do Kung Fu básico ao avançado. Do outro lado dela está o Biu Ji.
