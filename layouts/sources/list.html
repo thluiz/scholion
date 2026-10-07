@@ -2,8 +2,12 @@
   {{/* Build a dict of unique sources keyed by lower(title|url), grouped by kind */}}
   {{ $allNotes := where site.RegularPages "Section" "notes" }}
 
-  {{/* sourcesByKind: dict[kind] -> dict[key] -> {title, author, year, publisher, url, kind, notes[]} */}}
-  {{ $sourcesByKind := dict }}
+  {{/* sourcesByKind: scratch[kind] -> map[key] -> {key, title, author, year, publisher, url, kind}
+       notesByKey:    scratch["kind|key"] -> notes[]
+       Scratch mutates in place; rebuilding dicts with merge inside the loop copied
+       the whole bucket on every source, and this one page took minutes to render. */}}
+  {{ $sourcesByKind := newScratch }}
+  {{ $notesByKey := newScratch }}
   {{ $kindOrder := slice "book" "paper" "article" "wiki" "podcast" "video" "poem" "film" "repo" "note" "other" }}
 
   {{ range $allNotes }}
@@ -25,33 +29,25 @@
         {{ $normTitle = trim $normTitle " " }}
         {{ $key := cond (ne $cleanUrl "") $cleanUrl $normTitle }}
 
-        {{ $kindBucket := index $sourcesByKind $kind | default dict }}
-        {{ $existing := index $kindBucket $key }}
-        {{ if $existing }}
-          {{ $notes := index $existing "notes" }}
-          {{ $notes = $notes | append $note }}
-          {{ $existing = merge $existing (dict "notes" $notes) }}
-          {{ $kindBucket = merge $kindBucket (dict $key $existing) }}
-        {{ else }}
-          {{ $entry := dict
+        {{ if not (index ($sourcesByKind.Get $kind | default dict) $key) }}
+          {{ $sourcesByKind.SetInMap $kind $key (dict
+            "key" $key
             "title" $title
             "author" (.author | default "")
             "year" (.year | default "")
             "publisher" (.publisher | default "")
             "url" $cleanUrl
             "kind" $kind
-            "notes" (slice $note)
-          }}
-          {{ $kindBucket = merge $kindBucket (dict $key $entry) }}
+          ) }}
         {{ end }}
-        {{ $sourcesByKind = merge $sourcesByKind (dict $kind $kindBucket) }}
+        {{ $notesByKey.Add (printf "%s|%s" $kind $key) (slice $note) }}
       {{ end }}
     {{ end }}
   {{ end }}
 
   {{/* Count totals for header */}}
   {{ $totalSources := 0 }}
-  {{ range $sourcesByKind }}
+  {{ range $sourcesByKind.Values }}
     {{ $totalSources = add $totalSources (len .) }}
   {{ end }}
 
@@ -77,10 +73,10 @@
     </header>
 
     {{ range $kind := $kindOrder }}
-      {{ $bucket := index $sourcesByKind $kind }}
+      {{ $bucket := $sourcesByKind.Get $kind }}
       {{ if $bucket }}
         {{ $items := slice }}
-        {{ range $bucket }}{{ $items = $items | append . }}{{ end }}
+        {{ range $bucket }}{{ $items = $items | append (merge . (dict "notes" ($notesByKey.Get (printf "%s|%s" $kind .key)))) }}{{ end }}
         {{ $sortedItems := sort $items "title" "asc" }}
         <section class="scholion-sources-section" id="{{ $kind }}">
           <h2 class="scholion-sources-kind">
