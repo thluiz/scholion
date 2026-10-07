@@ -5,7 +5,6 @@
        O que muda é o vocabulário — uma tag marca notas, uma espécie foi vista
        em locais — e o que vale a pena mostrar ao lado. */}}
   {{ $isSpecies := eq .Data.Plural "species" }}
-  {{ $campo := cond $isSpecies "species" "tags" }}
   {{ $raiz := cond $isSpecies "/species/" "/tags/" }}
 
   {{/* Nome legível: o termo é um slug, e o Hugo titula-o como "Papoila-Das-Searas". */}}
@@ -13,22 +12,7 @@
   {{ $nome := printf "%s%s" (upper (substr $plano 0 1)) (substr $plano 1) }}
 
   {{/* Co-ocorrências: tags que aparecem juntas, ou espécies vistas no mesmo sítio. */}}
-  {{ $actual := .Title | lower }}
-  {{ $contagens := dict }}
-  {{ range .Pages }}
-    {{ range (index .Params $campo) }}
-      {{ $t := . | lower }}
-      {{ if ne $t $actual }}
-        {{ $current := index $contagens $t | default 0 }}
-        {{ $contagens = merge $contagens (dict $t (add $current 1)) }}
-      {{ end }}
-    {{ end }}
-  {{ end }}
-  {{ $lista := slice }}
-  {{ range $name, $count := $contagens }}
-    {{ $lista = $lista | append (dict "name" $name "count" $count) }}
-  {{ end }}
-  {{ $vizinhos := first 8 (sort $lista "count" "desc") }}
+  {{ $vizinhos := partialCached "scholion-term-cotags.html" . .Data.Plural .Data.Term }}
 
   <section class="scholion-list">
     <header class="scholion-list-header">

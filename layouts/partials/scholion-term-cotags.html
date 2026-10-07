@@ -1,0 +1,25 @@
+{{/*
+  Co-occurrences of a taxonomy term: tags that appear together, or species
+  seen at the same place. Returns up to 8 {name, count}, most frequent first.
+
+  Receives the term page. Call through partialCached keyed by taxonomy+term:
+  Hugo renders the template once per pager page, and the result is the same
+  on all of them. Scratch counts in place; merge inside the loop copied the
+  whole dict on every page of the term.
+*/}}
+{{- $campo := cond (eq .Data.Plural "species") "species" "tags" -}}
+{{- $actual := .Title | lower -}}
+{{- $contagens := newScratch -}}
+{{- range .Pages -}}
+  {{- range (index .Params $campo) -}}
+    {{- $t := . | lower -}}
+    {{- if ne $t $actual -}}
+      {{- $contagens.Add $t 1 -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $lista := slice -}}
+{{- range $name, $count := $contagens.Values -}}
+  {{- $lista = $lista | append (dict "name" $name "count" $count) -}}
+{{- end -}}
+{{- return first 8 (sort $lista "count" "desc") -}}
