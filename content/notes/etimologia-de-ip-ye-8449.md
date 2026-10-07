@@ -1,7 +1,7 @@
 ---
 title: "Etimologia de 葉 (Ip — Yè / jip6)"
 date: '2026-05-11T15:08:19+01:00'
-summary: "Etimologia de 葉 (ip / yè / jip6): folha (de planta), página, lóbulo; sobrenome Ye/Ip. Composto fonossemântico de 艸/艹 (cǎo, planta) + 枼 (yè, fonético — folha em árvore). Significado original no Shuowen: 'folha de plantas e árvores' (艸木之葉). Atestado em oracle Shang. Duan Yucai: por extensão, toda coisa fina/laminada chama-se 葉. Como sobrenome, é uma das famílias mais antigas — pronunciado Ip em cantonês (Yip Man 葉問, Si Gung do Thiago via Moy Yat)."
+summary: "Etimologia de 葉 (ip / yè / jip6): folha (de planta), página, lóbulo; sobrenome Ye/Ip. Composto fonossemântico de 艸/艹 (cǎo, planta) + 枼 (yè, fonético — folha em árvore). Significado original no Shuowen: 'folha de plantas e árvores' (艸木之葉). Atestado em oracle Shang. Duan Yucai: por extensão, toda coisa fina/laminada chama-se 葉. Como sobrenome, é uma das famílias mais antigas — pronunciado Ip em cantonês (Yip Man 葉問, mestre de Moy Yat)."
 toc: true
 tags: ["china", "linguagem", "etimologia", "ving-tsun", "ideogramas"]
 category: etymology
@@ -28,7 +28,7 @@ sources:
   kind: wiki
 ---
 
-É o ip do sobrenome de **Yip Man 葉問** (1893–1972), Grão-Mestre fundador da linhagem moderna do Ving Tsun em Hong Kong, citado no contexto do *Hai Tong* por Grão-Mestre Moy Yat. Da linhagem moyat, Yip Man é o Si Gung (mestre do mestre) — seu discípulo Moy Yat fundou o ramo onde Leo Imamura e, em terceira geração, Thiago Silva (Moy Chi Yau Si) se inserem.
+É o ip do sobrenome de **Yip Man 葉問** (1893–1972), Grão-Mestre fundador da linhagem moderna do Ving Tsun em Hong Kong, citado no contexto do *Hai Tong* por Grão-Mestre Moy Yat. Seu discípulo Moy Yat foi mestre de Leo Imamura, Si Gung de Thiago Silva (Moy Chi Yau Si).
 
 ### 葉
 
