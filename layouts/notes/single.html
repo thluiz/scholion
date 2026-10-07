@@ -58,13 +58,7 @@
       </nav>
 
       {{/* Backlinks: notas que linkam para esta */}}
-      {{ $backlinks := slice }}
-      {{ $currentPath := .RelPermalink }}
-      {{ range where .Site.RegularPages "RelPermalink" "ne" $currentPath }}
-        {{ if findRE $currentPath .RawContent }}
-          {{ $backlinks = $backlinks | append . }}
-        {{ end }}
-      {{ end }}
+      {{ $backlinks := index (partialCached "scholion-backlinks-index.html" . "backlinks") .RelPermalink }}
       {{ if $backlinks }}
         <aside class="scholion-related scholion-backlinks">
           <h2>Citada por</h2>

@@ -1,0 +1,23 @@
+{{/*
+  Backlinks index: target RelPermalink -> pages whose markdown contains that
+  path. Built once per build (call through partialCached) instead of every
+  note scanning all others with findRE, which grew with the square of the
+  number of notes.
+
+  Same rule as before: an internal path (/<section>/<slug>/) written in the
+  markdown, as a relative link or absolute URL. [[wikilinks]] don't count.
+  Pages keep site.RegularPages order, as in the old loop.
+*/}}
+{{- $sections := slice -}}
+{{- range site.Sections -}}{{- $sections = $sections | append .Section -}}{{- end -}}
+{{- $pattern := printf `/(?:%s)/[a-z0-9-]+/` (delimit $sections "|") -}}
+{{- $index := newScratch -}}
+{{- range site.RegularPages -}}
+  {{- $source := . -}}
+  {{- range findRE $pattern .RawContent | uniq -}}
+    {{- if ne . $source.RelPermalink -}}
+      {{- $index.Add . (slice $source) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $index.Values -}}
