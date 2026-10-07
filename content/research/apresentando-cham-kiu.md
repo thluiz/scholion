@@ -44,7 +44,7 @@ Tarefa de casa do Programa de Mestrado / Chinês Instrumental, não uma pesquisa
 - [Kiu: a ponte de madeira que se curva](/notes/kiu-ponte-de-madeira-que-se-curva/) — etimologia de 橋.
 - [Ponte como apelido para braço](/notes/ponte-como-apelido-para-braco/) — o jargão Ving Tsun que lê "ponte" como "braço".
 - Componentes de 尋: [又](/notes/etimologia-de-jau-you-53c8/) mão direita · [寸](/notes/etimologia-de-cyun-cun-5bf8/) polegada, o pulso · [工](/notes/etimologia-de-gung-gong-5de5/) trabalho, régua-esquadro · [口](/notes/etimologia-de-hau-kou-53e3/) boca, "nem todo 口 gráfico é boca" · 彐 no [Glossário dos radicais primitivos](/notes/glossario-dos-radicais-primitivos/), que o registra em 尋 como variante de ⺕ (mão).
-- Componente de 橋: [木](/notes/etimologia-de-muk-mu-6728/) árvore, madeira.
+- Componente de 橋: [木](/notes/etimologia-de-muk-mu-6728/) árvore, madeira · [喬](/notes/etimologia-de-kiu-qiao-55ac/) fonético, "alto e curvo" no Shuowen.
 
 **O Shuowen e o comentário:**
 
@@ -78,7 +78,7 @@ Cham 尋 quer dizer procurar, mas não no sentido de investigar ou pesquisar. É
 
 Aqui saio um pouco da série. O Shuowen, o dicionário de Xu Shen, do ano 100, lê o mesmo desenho de outro jeito. Define 尋 como 繹理也, desenrolar e pôr em ordem, e junta os componentes em dois pares: 工 e 口 são a desordem; 又 e 寸, as mãos, separam e arrumam. Duan Yucai, filólogo da dinastia Qing, diz no comentário que para pôr ordem em qualquer desordem é preciso primeiro achar a ponta do fio. Nessa leitura, Cham é buscar o início e o fim de algo para desembaraçar.
 
-Kiu 橋 é ponte. O componente mais importante fica à esquerda: árvore, madeira. O lado direito carrega o som e sugere algo grande que se curva. As duas partes juntas evocam a ponte chinesa tradicional, de madeira, arqueada.
+Kiu 橋 é ponte. O componente mais importante fica à esquerda: árvore, madeira. O lado direito, 喬, carrega o som e sugere algo grande que se curva. O Shuowen define 喬 justamente assim: alto e curvo. As duas partes juntas evocam a ponte chinesa tradicional, de madeira, arqueada.
 
 No dicionário, Cham Kiu é literalmente "procurar ponte".
 
@@ -114,4 +114,4 @@ Si Fu já avisou: o ideograma é anterior ao sistema, uma coisa não foi feita e
 
 A braça é medida do corpo de quem mede, diferente para cada um. O reequilíbrio do Cham Kiu também é relativo ao corpo de quem pratica, com o peso trocando de lado em volta do próprio centro.
 
-*(Fontes de cada ponto: ver "Notas do Scholion já relacionadas" acima. Exceções: 守破離 Sau Po Lei não vem da série, é leitura proposta para esta apresentação (origem em [sau-po-lei](/research/sau-po-lei)); a leitura do Shuowen e do 段注 no bloco 1 também não vem da série, e está verificada em [etimologia-de-cham-kiu-xun-qiao](/notes/etimologia-de-cham-kiu-xun-qiao/) e [etimologia-de-cham](/research/etimologia-de-cham); a leitura de "ponte curta" em dois planos é do autor, no ensaio de 2026-10-07.)*
+*(Fontes de cada ponto: ver "Notas do Scholion já relacionadas" acima. Exceções: 守破離 Sau Po Lei não vem da série, é leitura proposta para esta apresentação (origem em [sau-po-lei](/research/sau-po-lei)); a leitura do Shuowen (尋 e 喬) e do 段注 no bloco 1 também não vem da série, e está verificada em [etimologia-de-cham-kiu-xun-qiao](/notes/etimologia-de-cham-kiu-xun-qiao/), [etimologia-de-kiu-qiao-55ac](/notes/etimologia-de-kiu-qiao-55ac/) e [etimologia-de-cham](/research/etimologia-de-cham); a leitura de "ponte curta" em dois planos é do autor, no ensaio de 2026-10-07.)*
