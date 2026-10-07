@@ -1,0 +1,82 @@
+{{- /*
+  Standalone reveal.js presentation. The page body is Markdown with one slide per
+  `---` separator and speaker notes after a `Note:` line (reveal.js markdown plugin).
+  Slides may embed HTML blocks using the classes defined below.
+*/ -}}
+<!doctype html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ .Title }} · {{ .Site.Title }}</title>
+<meta name="description" content="{{ .Params.summary }}">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reset.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600;900&family=Public+Sans:wght@400;600&display=swap">
+<style>
+  :root {
+    --ink: #1F1D1A; --paper: #F4EFE6; --paper-2: #E8E0D2; --seal: #A8372A;
+    --muted-light: #5C564D; --muted-dark: #C9BFAE; --src-light: #6B6358; --src-dark: #9C9282;
+    --rose: #E3A094; --cjk: 'Noto Serif TC', Georgia, serif;
+  }
+  html, body { background: var(--ink); }
+  .reveal { font-family: 'Public Sans', Arial, sans-serif; color: var(--ink); }
+  .reveal .slides { text-align: left; }
+  .reveal .slides > section { height: 1080px; padding: 128px 128px 160px; box-sizing: border-box; }
+  .reveal .slides > section.dark { color: var(--paper); }
+  .reveal .slides > section.seal { color: #F7F1E8; }
+  .reveal p { margin: 0; line-height: 1.35; }
+  .reveal h1, .reveal h2 { margin: 0; font-weight: 600; line-height: 1.1; }
+  .cjk { font-family: var(--cjk); font-weight: 600; line-height: 1.1; }
+  .accent { color: var(--seal); }
+  .dark .accent { color: var(--rose); }
+  .muted { color: var(--muted-light); }
+  .dark .muted { color: var(--muted-dark); }
+  .seal .muted { color: #F0D9CF; }
+  .eyebrow { font-size: 28px; font-weight: 600; letter-spacing: 4px; text-transform: uppercase; color: var(--seal); }
+  .dark .eyebrow { color: var(--rose); }
+  .src { position: absolute; left: 128px; right: 128px; bottom: 64px; font-size: 24px; color: var(--src-light); }
+  .dark .src { color: var(--src-dark); }
+  /* layouts */
+  .center { height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 36px; text-align: center; }
+  .row { height: 100%; display: flex; flex-direction: row; align-items: center; gap: 96px; }
+  .row > .glyph { flex: none; width: 560px; text-align: center; }
+  .row > .side { flex: 1; display: flex; flex-direction: column; gap: 28px; }
+  .stack { display: flex; flex-direction: column; gap: 32px; }
+  .g-xl { font-size: 440px; }
+  .g-l { font-size: 240px; }
+  .g-m { font-size: 132px; }
+  .g-s { font-size: 72px; }
+  .triad { display: flex; justify-content: center; align-items: flex-start; gap: 40px; margin-top: 64px; }
+  .triad > div { width: 400px; display: flex; flex-direction: column; align-items: center; gap: 12px; text-align: center; }
+  .op { font-family: var(--cjk); font-size: 120px; color: var(--seal); line-height: 2; }
+  .flow { display: flex; justify-content: space-between; align-items: center; margin-top: 96px; }
+  .flow > div { display: flex; flex-direction: column; align-items: center; gap: 16px; text-align: center; }
+  .flow .box { background: #FFFDF8; border: 4px solid var(--seal); border-radius: 16px; padding: 32px 40px; }
+  .arrow { font-size: 96px; color: #B8AE9F; }
+  .seal .arrow { color: #F0D9CF; }
+  .lines { display: grid; grid-template-columns: 820px 1fr; gap: 28px 64px; align-items: center; margin-top: 56px; }
+</style>
+</head>
+<body>
+<div class="reveal">
+  <div class="slides">
+    <section data-markdown data-separator="^\r?\n---\r?\n$" data-separator-notes="^Note:">
+      <textarea data-template>
+{{ .RawContent }}
+      </textarea>
+    </section>
+  </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/plugin/markdown/markdown.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/plugin/notes/notes.js"></script>
+<script>
+  Reveal.initialize({
+    width: 1920, height: 1080, margin: 0, center: false,
+    hash: true, slideNumber: 'c/t', transition: 'fade',
+    plugins: [RevealMarkdown, RevealNotes]
+  });
+</script>
+</body>
+</html>
