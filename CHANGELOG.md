@@ -5,6 +5,21 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
+## [0.5.14] — 2026-10-07
+
+### Alterado
+
+- **Build ~7x mais rápido (575 s → 80 s no build medido).** Quatro trechos de
+  template refaziam trabalho a cada página. Backlinks de `notes/single.html`
+  saem de um índice montado uma vez por build
+  (`partials/scholion-backlinks-index.html`), em vez de cada nota varrer todas
+  as outras. `sources/list.html` agrupa as fontes com Scratch em vez de `merge`
+  dentro do laço (a página sozinha levava ~6 min). Cabeçalho e busca do
+  Blowfish saem via `partialCached` num override de `_default/baseof.html`.
+  Co-ocorrências de `term.html` são calculadas uma vez por termo
+  (`partials/scholion-term-cotags.html`), não a cada página da paginação. HTML
+  gerado idêntico ao anterior, fora espaços em branco.
+
 ## [0.5.13] — 2026-10-07
 
 ### Adicionado
