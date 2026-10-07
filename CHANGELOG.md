@@ -5,6 +5,18 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
+## [0.5.13] — 2026-10-07
+
+### Adicionado
+
+- **Slides em markdown (`/slides/<slug>/`).** Arquivos em `content/slides/`
+  com `type: slides` viram apresentação reveal.js (layout
+  `layouts/slides/single.html`, reveal.js 5.1 via jsDelivr). Um slide por
+  bloco separado por `---`, notas do apresentador depois de `Note:` (tecla S),
+  classes de layout para ideogramas grandes, coluna glifo + texto, tríades e
+  rodapé de fonte. A seção `/slides/` não gera listagem e as apresentações
+  ficam fora das listas e da busca. Primeira: `apresentando-cham-kiu`.
+
 ## [0.5.12] — 2026-09-29
 
 ### Adicionado
