@@ -77,12 +77,15 @@ try {
     Write-Host "AVISO: git sync lancou excecao - $($_.Exception.Message) - seguindo com o estado local" -ForegroundColor Yellow
 }
 
+# Pin the commit being published BEFORE the build. Reading HEAD after the build let a
+# commit made during the build be recorded as published although public/ predates it.
+$currentCommit = (git rev-parse HEAD).Trim()
+
 # No new commit since the last publish: nothing would be uploaded (incremental mode only
 # looks at the git diff), so skip the build too. Full syncs still build, since they compare
 # the whole public/.
 if (-not $ForceFullSync -and (Test-Path $LAST_COMMIT)) {
-    $headCommit = (git rev-parse HEAD).Trim()
-    if ($headCommit -eq (Get-Content $LAST_COMMIT -Raw).Trim()) {
+    if ($currentCommit -eq (Get-Content $LAST_COMMIT -Raw).Trim()) {
         Write-Host "==> sem novos commits — nada a publicar (build pulado)" -ForegroundColor Yellow
         exit 0
     }
@@ -121,7 +124,6 @@ if (Test-Path $MANIFEST) {
     $prevManifest = Get-Content $MANIFEST -Raw | ConvertFrom-Json -AsHashtable
 }
 
-$currentCommit = (git rev-parse HEAD).Trim()
 $lastCommit    = if (Test-Path $LAST_COMMIT) { (Get-Content $LAST_COMMIT -Raw).Trim() } else { $null }
 
 # Verificar se o commit anterior ainda existe (ex: após rebase)
