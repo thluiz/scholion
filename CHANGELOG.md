@@ -5,6 +5,16 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
+## [0.5.15] — 2026-10-08
+
+### Alterado
+
+- **Publicação sem commit novo não builda mais.** `deploy.ps1` compara `HEAD`
+  com `last-published-commit.txt` logo depois do git sync e sai antes do
+  `hugo` quando são iguais. O resultado era o mesmo (o modo incremental só
+  publica o que o `git diff` traz), mas a tarefa de 30 em 30 minutos fazia
+  ~45 builds completos por dia à toa. O fullsync diário continua buildando.
+
 ## [0.5.14] — 2026-10-07
 
 ### Alterado
