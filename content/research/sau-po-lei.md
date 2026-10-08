@@ -94,7 +94,7 @@ Sau Po Lei rima nos dois níveis: entre as fases (primeira como 守, segunda com
 
 Sempre tive certa inquietação com o uso de Sau Po Lei 守破離. Tem mais de 20 anos desde a primeira vez que o ouvi e virou jargão dentro da nossa linhagem. Estava escrevendo sobre [Cham Kiu 尋橋](/notes/etimologia-de-cham-kiu-xun-qiao) e me apoiava no fato de que ele faz referência a uma fase Po 破 de aprendizado, porém teria que explicar o que seria isso, ou seja, estava entrando em uma espiral de termos sem muita sustentação. Fui pesquisar então a origem do termo:
 
-A versão que mais circula atribui o termo a Zeami, ao *Fūshikaden*. Não se sustenta. O índice dos 23 tratados de Zeami não registra 守破離. O que Zeami usa é 序破急, princípio de ritmo que veio da música da corte: começar devagar, desenvolver, acelerar.
+A versão que mais circula atribui o termo a [Zeami, ao *Fūshikaden*](/notes/is-the-source-of-shuhari-zeamis-fushikaden). Não se sustenta. O índice dos 23 tratados de Zeami não registra 守破離. O que Zeami usa é 序破急, princípio de ritmo que veio da música da corte: começar devagar, desenvolver, acelerar.
 
 Os dois têm o 破 em comum, e a literatura de budō ajudou a colar um no outro. Yuasa Akira, em 『武道伝書を読む』 (2005), põe o *Fūshikaden* sob o título 守・破・離 sem que o termo esteja no texto. No Nō se discute 守格 e 破格, dominar a forma e depois desfazê-la, e Kumakura Isao aproxima esse par de 守破離 no verbete 真行草 do 世界大百科事典. Fujiwara Ryōzō (1993) vai além e lê 守破離 como superação do 序破急.
 
