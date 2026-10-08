@@ -17,7 +17,7 @@ toc: true
 
 ## Estado
 
-- **Em foco**: direção 1, origem e histórico, fechada no que é possível sem Fujiwara (1993) e sem o 『茶道古典全集』 vol. 10. Revisão de 2026-10-05 corrigiu o rascunho anterior: o termo vem de 兵法 e entra no chá pelo *Chawa-shō*; Fuhaku não o cunha; o poema de Rikyū é provavelmente posterior. Agora: rastrear a origem nos textos militares. *Kōyō Gunkan* descartado (busca no texto integral); textos mais antigos encontrados (apêndice de Joshinsai, *Fuhaku Hikki*, Chiba) tratam o termo como herdado. 伝書 de esgrima também descartados (busca por script em 武術叢書, 剣道集義 e manuscritos do Ittō-ryū). 兵学 Kōshū, Yamaga e Hōjō também descartados; Fujiwara (1993) lido pelos trechos da NDL, sem rastreio filológico. O 日本国語大辞典 (2001) também tem o 『茶話抄』 como único 用例. Direção 1 encerrada em 2026-10-08 até surgirem fontes novas; fonte militar anterior a 1750 segue `?` (restam só manuscritos não digitalizados).
+- **Em foco**: direção 1, origem e histórico, fechada no que é possível sem Fujiwara (1993) e sem o 『茶道古典全集』 vol. 10. Revisão de 2026-10-05 corrigiu o rascunho anterior: o termo vem de 兵法 e entra no chá pelo *Chawa-shō*; Fuhaku não o cunha; o poema de Rikyū é provavelmente posterior. Agora: rastrear a origem nos textos militares. *Kōyō Gunkan* descartado (busca no texto integral); textos mais antigos encontrados (apêndice de Joshinsai, *Fuhaku Hikki*, Chiba) tratam o termo como herdado. 伝書 de esgrima também descartados (busca por script em 武術叢書, 剣道集義 e manuscritos do Ittō-ryū). 兵学 Kōshū, Yamaga e Hōjō também descartados; Fujiwara (1993) lido pelos trechos da NDL, sem rastreio filológico. O 日本国語大辞典 (2001) também tem o 『茶話抄』 como único 用例. Direção 1 encerrada em 2026-10-08 até surgirem fontes novas; fonte militar anterior a 1750 segue `?` (restam só manuscritos não digitalizados). Texto em andamento iniciado com a busca pela origem.
 - **Próximo**: direção 2 (usos atuais), depois 3 e 4 (pesquisa científica e teóricos da pedagogia), e por fim 5 (domínios e fases do Ving Tsun).
 - **Dossiê de voz**: v2, sincronizado em 2026-10-06 (link em fontes-privadas/voz/sau-po-lei/README.md)
 - Pesquisa-irmã: [Apresentando Cham Kiu](/research/apresentando-cham-kiu), onde Sau Po Lei entrou como leitura dos três domínios iniciais e ficou registrada a falta de fonte para a origem da doutrina. Esta pesquisa resolve essa pendência.
@@ -45,6 +45,7 @@ O autor precisa escrever um guia sobre a doutrina. A pesquisa [Apresentando Cham
 - ✓ 軍法 × 兵法: no 『兵法秘伝書』 (escola Kōshū, impresso em 1701), 軍法 é a estratégia (tomada de castelos etc.) e 兵法 é arco, espada e luta agarrada (Tōdō e Murata 2007). O 「軍法ノ習」 de Fuhaku aponta, nesse vocabulário, para o 兵学. Links: [J-STAGE](https://www.jstage.jst.go.jp/article/budo1968/40/1/40_1/_pdf)
 - `?` Data do *Fuhaku Hikki*: 1749 (『剣道事典』, via NDL/Kuki), c. 1760 (blog), 1794 (sem fonte).
 - ✓ Zeami: 守破離 não aparece nos 23 tratados indexados no 『世阿弥伝書用語索引』; o que há é 序破急. Atribuição a Zeami é confusão entre os dois. Links: [NDL/Kuki](https://crd.ndl.go.jp/reference/entry/index.php?id=1000029440&page=ref_view)
+- ✓ 序破急: no 雅楽, os três movimentos de uma peça (序 lento e fora do pulso, 破 lento e no pulso, 急 rápido e no pulso; デジタル大辞泉). Primeiro exemplo do 日本国語大辞典: 『楽家録』 (1690), 「夫楽者、以序破急三曲為具也」. Zeami leva o princípio ao Nō no *Fūshikaden* (c. 1400–02): 「一切の事に序破急あれば、申楽もこれ同じ」, ensinamento recebido de Kan'ami (世界大百科事典); no 『三道』 monta a peça em cinco partes, 「序・破・急の三体を五段に作りなして」 (Nipponica). É princípio de ritmo e composição, não de estágios de formação. Links: [Kotobank](https://kotobank.jp/word/序破急)
 - ⚠ Poema 「規矩作法 守り尽くして 破るとも 離るるとても本を忘るな」, do *Rikyū Hyakushu*: coletânea montada por Gengensai (玄々斎, 1810–1877, 11º da Urasenke) e atribuída a Rikyū. Provavelmente posterior a Fuhaku, não precursor. Falta fonte acadêmica.
 - ✓ 『茶話抄附録(如心齋傳法)』, transcrito em 田中仙樵『茶禅一味』 (光融館, 1905, p. 277–278): 「一軍法には守破離とあり是れ茶道の極意 守は下手 尤も常體の下手とは違ひ候…守株待兎 破は上手 尤も常の破とは違ひて破るなり 時によつて守るも法を破るも法なり 見風使帆 離は名人 尤も常の離れたるとは違ひ事を盡し離れて守る 應無所住而生其心」. A passagem é atribuída à transmissão de Joshinsai, mestre de Fuhaku. Transcrição via OCR da NDL; grafia a conferir na imagem. Links: [NDL Digital, 823364](https://dl.ndl.go.jp/pid/823364/1/149)
 - ✓ Carta de Fuhaku a Sottakusai (啐啄斎), em 田中仙樵『点茶漫筆』 (1932): 「種熟達と申て…前の守破離も是成るべし」. Links: [NDL Digital, 1139739](https://dl.ndl.go.jp/pid/1139739/1/10)
@@ -84,6 +85,16 @@ O autor precisa escrever um guia sobre a doutrina. A pesquisa [Apresentando Cham
 - **Terceira fase**: não mapeada.
 
 Sau Po Lei rima nos dois níveis: entre as fases (primeira como 守, segunda como 破, terceira como 離) e dentro de cada fase. Na primeira, a leitura já proposta em [Apresentando Cham Kiu](/research/apresentando-cham-kiu): Siu Nim Tau como 守, Cham Kiu como 破, Biu Ji como 離. Falta mapear se a mesma rima vale dentro da segunda fase, e o que dizer da terceira.
+
+## Texto em andamento
+
+A origem que mais circula é Zeami. Não se sustenta. O índice dos 23 tratados de Zeami não registra 守破離; o que Zeami usa é 序破急, e a confusão vem daí.
+
+O texto mais antigo que localizei é do chá: o 『茶話抄』, de Yokoi Tansho, com suplementos de Kawakami Fuhaku (1719–1807). A passagem abre com 「守破離といふ事軍法用」 e logo adapta o termo ao chá: 守 é o iniciante, 破 o hábil, 離 o mestre. O próprio Fuhaku, no *Fuhaku Hikki*, diz que os três ideogramas vêm do aprendizado militar.
+
+Fui atrás desse vocabulário militar. O 『角川茶道大事典』 aponta o *Kōyō Gunkan*, e o termo não está lá. Também não está nos tratados de esgrima reunidos no 『武術叢書』, com o *Gorin no Sho* entre eles, nem em 104 volumes de tratados de estratégia digitalizados pela Biblioteca Nacional da Dieta. O 『日本国語大辞典』 tem o 『茶話抄』 como único exemplo. Na esgrima, o termo aparece com Chiba Shūsaku, em notas que Hirose Shinpei imprimiu em 1884, e Chiba também o trata como coisa já existente.
+
+A fonte militar anterior ao chá segue em aberto. Matsuoka Seigō aposta no zen e admite que não tem prova.
 
 ## Notas do Scholion já relacionadas
 
