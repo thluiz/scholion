@@ -15,6 +15,15 @@ e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
   publica o que o `git diff` traz), mas a tarefa de 30 em 30 minutos fazia
   ~45 builds completos por dia à toa. O fullsync diário continua buildando.
 
+### Corrigido
+
+- **Commit feito durante o build não se perde mais.** `deploy.ps1` lia o
+  `HEAD` depois do build e gravava esse commit como publicado, mesmo com o
+  `public/` gerado antes dele. A correção de `hai-tong-systems-thinking`
+  (commitada às 09:01, no meio do build das 09:00) ficou fora do ar por isso.
+  Agora o commit é fixado antes do build; o que chegar depois fica para a
+  execução seguinte.
+
 ## [0.5.14] — 2026-10-07
 
 ### Alterado
