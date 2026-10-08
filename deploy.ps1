@@ -77,6 +77,17 @@ try {
     Write-Host "AVISO: git sync lancou excecao - $($_.Exception.Message) - seguindo com o estado local" -ForegroundColor Yellow
 }
 
+# No new commit since the last publish: nothing would be uploaded (incremental mode only
+# looks at the git diff), so skip the build too. Full syncs still build, since they compare
+# the whole public/.
+if (-not $ForceFullSync -and (Test-Path $LAST_COMMIT)) {
+    $headCommit = (git rev-parse HEAD).Trim()
+    if ($headCommit -eq (Get-Content $LAST_COMMIT -Raw).Trim()) {
+        Write-Host "==> sem novos commits — nada a publicar (build pulado)" -ForegroundColor Yellow
+        exit 0
+    }
+}
+
 # Build
 if (-not $SkipBuild) {
     Write-Host "==> hugo build" -ForegroundColor Cyan
