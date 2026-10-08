@@ -98,9 +98,19 @@ A versão que mais circula atribui o termo a [Zeami, ao *Fūshikaden*](/notes/is
 
 Os dois têm o 破 em comum, e a literatura de budō ajudou a colar um no outro. Yuasa Akira, em 『武道伝書を読む』 (2005), põe o *Fūshikaden* sob o título 守・破・離 sem que o termo esteja no texto. No Nō se discute 守格 e 破格, dominar a forma e depois desfazê-la, e Kumakura Isao aproxima esse par de 守破離 no verbete 真行草 do 世界大百科事典. Fujiwara Ryōzō (1993) vai além e lê 守破離 como superação do 序破急.
 
-O texto mais antigo que localizei é do chá: o 『茶話抄』, de Yokoi Tansho, com suplementos de Kawakami Fuhaku (1719–1807). A passagem abre com 「守破離といふ事軍法用」 e logo adapta o termo ao chá: 守 é o iniciante, 破 o hábil, 離 o mestre. O próprio Fuhaku, no *Fuhaku Hikki*, diz que os três ideogramas vêm do aprendizado militar.
+O texto mais antigo que localizei é do chá: o 『茶話抄』, de Yokoi Tansho, com suplementos de Kawakami Fuhaku (1719–1807). A passagem abre com 「守破離といふ事軍法用」 e logo adapta o termo ao chá: 守 é o iniciante, 破 o hábil, 離 o mestre.
 
-Fui atrás desse vocabulário militar. O 『角川茶道大事典』 aponta o *Kōyō Gunkan*, e o termo não está lá. Também não está nos tratados de esgrima reunidos no 『武術叢書』, com o *Gorin no Sho* entre eles, nem em 104 volumes de tratados de estratégia digitalizados pela Biblioteca Nacional da Dieta. O 『日本国語大辞典』 tem o 『茶話抄』 como único exemplo. Na esgrima, o termo aparece com Chiba Shūsaku, em notas que Hirose Shinpei imprimiu em 1884, e Chiba também o trata como coisa já existente.
+Um apêndice do mesmo livro, atribuído a Joshinsai, mestre de Fuhaku, desenvolve cada um dos três. O 守 do iniciante não é o de quem fica parado esperando a lebre bater no toco (守株待兎). O 破 do hábil é saber que 「時によつて守るも法を破るも法なり」: conforme a hora, guardar é a regra e quebrar também é. O 離 do mestre é 「事を盡し離れて守る」, esgotar a coisa, sair dela e continuar guardando, e o apêndice fecha com uma frase do Sutra do Diamante, 應無所住而生其心. Fuhaku, no *Fuhaku Hikki*, é mais seco: 「弟子に教ルハ此守と申所斗也」. Ao discípulo se ensina só o 守.
+
+Os dois dizem de onde o termo vem. O apêndice abre com 「一軍法には守破離とあり」, e Fuhaku escreve que os três ideogramas 「軍法の習ニ在リ」. No vocabulário da época, [軍法 e 兵法](/notes/gunpo-e-heiho) não eram a mesma coisa: 軍法 era a estratégia, a tomada de castelos; 兵法, o combate com arco, espada e luta agarrada. O termo viria então dos tratados de estratégia, não da esgrima.
+
+Fui atrás desse vocabulário militar. O 『角川茶道大事典』 cita o *Kōyō Gunkan*. Busquei os três ideogramas no texto integral da obra (edição Onkodō, 1892–93, transcrita na Wikisource), e eles não aparecem juntos em nenhum ponto.
+
+Passei aos tratados de esgrima. O 『武術叢書』 (1915) reúne o *Gorin no Sho*, o 『兵法三十五箇条』, o 『一刀斎先生剣法書』, o 『天狗芸術論』 e outros; o 『剣道集義』 (1923) e os manuscritos do Hokushin Ittō-ryū completam o lote. Nada. Para conferir se a busca funcionava, rodei a mesma busca no manuscrito de Chiba Shūsaku, onde o termo está, e ela o encontrou.
+
+Depois vieram os tratados de estratégia (兵学) que a Biblioteca Nacional da Dieta digitalizou: 104 volumes, perto de 6,8 milhões de caracteres, das escolas Kōshū e Yamaga, com os manuscritos do próprio *Kōyō Gunkan*. Nenhuma ocorrência, e os tratados da escola Hōjō também não têm. Na busca de texto integral da biblioteca, que cobre os impressos de Meiji em diante, aparecem 2.811 itens com 守破離; o mais antigo é de 1884. O 『日本国語大辞典』 tem o 『茶話抄』 como único exemplo.
+
+Na esgrima, o termo aparece com Chiba Shūsaku, grafado 守敗離, em notas que Hirose Shinpei imprimiu em 1884 como 『剣法秘訣』. Chiba usa o esquema para reduzir a três os oito graus de licença do Nakanishi-ha Ittō-ryū, e trata o termo como coisa já existente. Onze anos depois, o 『武道教範』 (1895) acrescenta um quarto passo: 「守破離三段の位ひに達して、而して元に歸すへし」, chegar aos três e voltar à origem.
 
 A fonte militar anterior ao chá segue em aberto. Matsuoka Seigō aposta no zen e admite que não tem prova.
 
