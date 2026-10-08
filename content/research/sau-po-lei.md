@@ -88,7 +88,9 @@ Sau Po Lei rima nos dois níveis: entre as fases (primeira como 守, segunda com
 
 ## Texto em andamento
 
-A origem que mais circula é Zeami. Não se sustenta. O índice dos 23 tratados de Zeami não registra 守破離; o que Zeami usa é 序破急, e a confusão vem daí.
+Sempre tive certa inquietação com o uso de Sau Po Lei 守破離. Tem mais de 20 anos desde a primeira vez que o ouvi e virou jargão dentro da nossa linhagem. Estava escrevendo sobre [Cham Kiu 尋橋](/notes/etimologia-de-cham-kiu-xun-qiao) e me apoiava no fato de que ele faz referência a uma fase Po 破 de aprendizado, porém teria que explicar o que seria isso, ou seja, estava entrando em uma espiral de termos sem muita sustentação. Fui pesquisar então a origem do termo:
+
+A versão que mais circula atribui o termo a Zeami. Não se sustenta. O índice dos 23 tratados de Zeami não registra 守破離; o que Zeami usa é 序破急, e a confusão vem daí.
 
 O texto mais antigo que localizei é do chá: o 『茶話抄』, de Yokoi Tansho, com suplementos de Kawakami Fuhaku (1719–1807). A passagem abre com 「守破離といふ事軍法用」 e logo adapta o termo ao chá: 守 é o iniciante, 破 o hábil, 離 o mestre. O próprio Fuhaku, no *Fuhaku Hikki*, diz que os três ideogramas vêm do aprendizado militar.
 
