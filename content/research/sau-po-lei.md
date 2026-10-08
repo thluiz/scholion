@@ -150,3 +150,16 @@ Webclips (em inglês, clipping com tradução automática e original japonês):
 - [jo-ha-kyu](/notes/jo-ha-kyu) — 序破急 da música da corte ao Nō: 『楽家録』, renga, Zeami e Kan'ami, 『三道』, jōruri.
 - [shu-ha-ri-nao-e-de-zeami](/notes/shu-ha-ri-nao-e-de-zeami) — o índice dos tratados de Zeami não tem 守破離; Yuasa, Kumakura e Matsuoka/Minamoto como caminhos da atribuição.
 - [gunpo-e-heiho](/notes/gunpo-e-heiho) — 軍法 (estratégia) × 兵法 (arco, espada, luta agarrada) no 『兵法秘伝書』 da escola Kōshū, via Tōdō e Murata (2007).
+
+## Imagens
+
+Candidatas para o post no Silvae. Só domínio público ou Creative Commons; licença e crédito conferidos na página do arquivo no Wikimedia Commons. CC BY-SA exige crédito (autor + licença + link) e, se a imagem for alterada, a mesma licença.
+
+1. **Retrato de Kawakami Fuhaku**, em 『肖像集』 vol. 8 (desenho de Kurihara Nobumitsu, NDL 1287783), junto com um Daruma. Domínio público. [Commons](https://commons.wikimedia.org/wiki/File:NDL1287783_%E8%82%96%E5%83%8F%E9%9B%86_%EF%BC%98.%E9%81%94%E7%A3%A8%E3%83%BB%E5%B7%9D%E4%B8%8A%E4%B8%8D%E7%99%BD.jpg)
+2. **Manuscrito do *Fūshikaden*** (Kanze Bunko). Domínio público; arquivo pequeno (450×300). [Commons](https://commons.wikimedia.org/wiki/File:Fushikaden.jpg)
+3. **Nō: série 『能楽百番』 (*Nōgaku hyakuban*, *Cem peças de Nō*), de Tsukioka Kōgyo** (1922–25). Domínio público. Exemplos: [Fujito](https://commons.wikimedia.org/wiki/File:Fujito_%E8%97%A4%E6%88%B8_-_N%C5%8Dgaku_hyakuban_%E8%83%BD%E6%A8%82%E7%99%BE%E7%95%AA_-_Tsukioka_K%C5%8Dgyo_%E6%9C%88%E5%B2%A1%E8%80%95%E6%BC%81_(Art_Institute_of_Chicago).jpg) (Art Institute of Chicago), [Shōjō](https://commons.wikimedia.org/wiki/File:K%C5%8Dgyo_Tsukioka,_Sh%C5%8Dj%C5%8D,_de_la_s%C3%A8rie_%E2%80%9CCent_obres_Noh%E2%80%9D_(Nohgaku_Hyakuban,_1922-25).jpg) (CC0).
+4. **Capa do *Kōyō Gunkan***. CC BY-SA 4.0, Kagenori Obata. A descrição diz 1656 e o nome do arquivo diz 1616; conferir antes de usar a data. [Commons](https://commons.wikimedia.org/wiki/File:Koyo-Gunkan-Book-Cover-by-Kosaka-Masanobu-1616.png)
+5. **『茶禅一味』 (1905), de Tanaka Senshō**, o livro que transcreve o apêndice de Joshinsai. Domínio público; é um PDF, a página do apêndice teria que ser extraída. [Commons](https://commons.wikimedia.org/wiki/File:NDL823364_%E8%8C%B6%E7%A6%85%E4%B8%80%E5%91%B3_part1.pdf), [NDL 823364](https://dl.ndl.go.jp/pid/823364/1/149)
+6. **Retrato de Chiba Shūsaku Narimasa**. CC BY-SA 3.0, Markus Lösch. [Commons](https://commons.wikimedia.org/wiki/File:Chiba_Shusaku_Narimasa.png)
+7. **Certificado de licença do Hokushin Ittō-ryū** (北辰一刀流免許状), a escola de Chiba. CC BY-SA 4.0, EdoFujiTaro. Liga com os graus de licença que Chiba reduz a três. [Commons](https://commons.wikimedia.org/wiki/File:%E5%8C%97%E8%BE%B0%E4%B8%80%E5%88%80%E6%B5%81%E5%85%8D%E8%A8%B1%E7%8A%B6.png)
+8. **Manuscritos do próprio Fuhaku** na Biblioteca de Waseda, ex.: 『不白方茶之湯之式』. Domínio público; PDF. [Commons](https://commons.wikimedia.org/wiki/File:WUL-wo09_00674_0007_%E4%B8%8D%E7%99%BD%E6%96%B9%E8%8C%B6%E4%B9%8B%E6%B9%AF%E4%B9%8B%E5%BC%8F.pdf)
