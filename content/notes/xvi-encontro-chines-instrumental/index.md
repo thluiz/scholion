@@ -135,7 +135,7 @@ Numa conversa mais formal, e no Kung Fu elas são comuns, cabe perguntar qual é
 
 ![Si Fu aponta para o lado](si-fu-aponta.jpg)
 
-### A ordem é componente
+### Em um Hai Tong 系統, a ordem é componente
 
 Hai é a linha que conecta; Tong é organizar, concatenar, juntar as coisas. No sistema Ving Tsun propriamente dito, pode-se chamar de Hai Tong a organização dos componentes, e como Hai tem a ver com linha, é uma organização linear. Guilherme quis voltar à lista, e Si Fu segurou: ainda não.
 
@@ -232,3 +232,15 @@ Daniel ouvia aquilo pela primeira vez. Para ele, sistema sempre foi ligado diret
 Homero gosta muito do assunto, porque é uma oportunidade de revisitar, ressignificar e reavaliar o conhecimento adquirido e aprender coisas novas. Lembrou do sistema de checagem: ao longo do processo, a pessoa amadurece até ter condições e ferramentas para avaliar a natureza do sistema ou da sequência que executa, em vez de seguir mecanicamente o que aprendeu. Propôs para outra oportunidade a relação entre as partes e o todo. Uma das partes são os nomes das formas e dos movimentos em chinês; outras são a natureza de cada movimento, a sequência e a conexão entre as sequências. Às vezes tem a sensação de que essa visão da parte para o todo e do todo para a parte não fica tão clara. Lembrou de uma apostila de cursos que tratavam desses componentes (TODO conferir: Fefisa?).
 
 Si Fu lembrou que isso já foi feito com Thiago Silva, que tem o material por escrito: do Siu Nim Tau ao Baat Jaam Do, não no nível da técnica, mas das sequências e da relação com suas naturezas a partir do ideograma. Decuparam o oito, o corte, a faca, o seis, o meio, cada ideograma, para entender mais possibilidades além da interpretação usual, como gente de Kung Fu: o que a palavra está podendo dizer, não querendo. Só no [Cham](/notes/etimologia-de-cham-xun/) Kiu ficaram pelo menos duas aulas, nas possibilidades históricas de tradução e no que o ideograma Cham pode querer dizer, e o [Kiu](/notes/etimologia-de-kiu-qiao-55ac/) também. Muito provavelmente o grupo vai seguir por aí.
+
+### Apêndice das etimologias
+
+As etimologias dos ideogramas que apareceram no encontro, com o resumo de cada nota:
+
+1. [拳 Kuen](/notes/etimologia-de-kuen-quan/) (*quán*, kyun4): composto de 手 (mão) com 龹 como fonético. O Shuowen glosa como "a mão", e Duan Yucai explica que a mão enrolada se torna 拳; o sentido marcial vem do gesto de fechar a mão sobre si mesma.
+2. [派 Paai](/notes/etimologia-de-paai-pai-6d3e/) (*pài*, paai3): no Shuowen, 別水也, a água que se ramifica. Composto de 水 (água) e 𠂢; daí ramo, escola, facção, como em Ving Tsun Paai 詠春派.
+3. [門 Mun](/notes/etimologia-de-mun-men-9580/) (*mén*, mun4): pictograma do portão de duas folhas, dois 戶 combinados. Por extensão, escola e linhagem, como em mun yan 門人, tung mun 同門 e si mun 師門.
+4. [葉 Ip](/notes/etimologia-de-ip-ye-8449/) (*yè*, jip6): folha, composto de 艸 (planta) com 枼 como fonético. Como sobrenome, pronuncia-se Ip em cantonês, o de Ip Man 葉問.
+5. [問 Man](/notes/etimologia-de-man-wen/) (*wèn*, man6): perguntar, 口 (boca) com 門 (porta) como fonético. É a boca debaixo da porta que Si Fu mostrou, e o Man de Man Sau 問手.
+6. [繫/系 Hai](/notes/etimologia-de-hai-xi-7e6b/) (*xì*, hai6): atar, ligar, composto de 糸 (fio) com 毄 como fonético; 系 passou a substituir 繫 em usos tardios.
+7. [統 Tong](/notes/etimologia-de-tong-tong-7d71/) (*tǒng*, tung2): originalmente o fio-mestre puxado do casulo da seda, daí ramo principal, disciplina, linhagem e governar.
