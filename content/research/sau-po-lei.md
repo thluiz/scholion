@@ -46,6 +46,10 @@ O autor precisa escrever um guia sobre a doutrina. A pesquisa [Apresentando Cham
 - `?` Data do *Fuhaku Hikki*: 1749 (『剣道事典』, via NDL/Kuki), c. 1760 (blog), 1794 (sem fonte).
 - ✓ Zeami: 守破離 não aparece nos 23 tratados indexados no 『世阿弥伝書用語索引』; o que há é 序破急. Atribuição a Zeami é confusão entre os dois. Links: [NDL/Kuki](https://crd.ndl.go.jp/reference/entry/index.php?id=1000029440&page=ref_view)
 - ✓ 序破急: no 雅楽, os três movimentos de uma peça (序 lento e fora do pulso, 破 lento e no pulso, 急 rápido e no pulso; デジタル大辞泉). Primeiro exemplo do 日本国語大辞典: 『楽家録』 (1690), 「夫楽者、以序破急三曲為具也」. Zeami leva o princípio ao Nō no *Fūshikaden* (c. 1400–02): 「一切の事に序破急あれば、申楽もこれ同じ」, ensinamento recebido de Kan'ami (世界大百科事典); no 『三道』 monta a peça em cinco partes, 「序・破・急の三体を五段に作りなして」 (Nipponica). É princípio de ritmo e composição, não de estágios de formação. Links: [Kotobank](https://kotobank.jp/word/序破急)
+- ✓ 湯浅晃『武道伝書を読む』 (Nippon Budōkan, 2005), p. 16–20: liga o *Fūshikaden* a 守破離 sob o título 「守・破・離」, mas o termo não aparece em Zeami (resposta da NDL ao pedido "o 守破離 vem do *Fūshikaden*?"). Um dos caminhos da atribuição a Zeami. Links: [NDL/Kuki](https://crd.ndl.go.jp/reference/entry/index.php?id=1000029440&page=ref_view)
+- ✓ 熊倉功夫, verbete 真行草 do 『改訂新版 世界大百科事典』: 「徹底した稽古は真の格を体得する〈守格〉であるが、名人となれば形式をくずし自由に演じ〈破格〉をめざすべきだ、と能楽などで論じている」; 「同義に近い言葉として〈守破離〉がある」. Links: [Kotobank](https://kotobank.jp/word/真行草)
+- ⚠ Matsuoka, na resenha de Fujiwara, conferido no original: 「能の序破急がいつしか守破離に発展した。そう、考えてまちがいはない」, mas 「観阿弥・世阿弥の能構成はあくまで序破急なのである。だから守破離は出てこない」; o 「破」 dos dois esquemas teria se cruzado, e o 「離」 de Zeami seria o 離見 do 『花鏡』 (「見所より見る所の風姿は離見なり」, citado por Matsuoka, não conferido no 『花鏡』). Fórmula dele: 「序破急は拍子であって、守破離は筋目なのだ」. O trecho de Chiba que ele transcreve do 『剣法秘訣』 não menciona 序破急; a frase 「序破急の拍子を追うよりも、守破離の筋目を通す…」 é paráfrase de Matsuoka. Links: [1000ya](https://1000ya.isis.ne.jp/1252.html), [webclip](/notes/matsuoka-seigo-senya-sensatsu-1252-fujiwara-ryozos-the-thoug)
+- ⚠ Segundo Matsuoka, 源了圓『型』 (Sōbunsha) foi 「川上不白の守破離を、世阿弥の序破急にあてはめようとした最初の試み」. Livro não consultado. Outro caminho da atribuição a Zeami. Links: [1000ya](https://1000ya.isis.ne.jp/1252.html)
 - ⚠ Poema 「規矩作法 守り尽くして 破るとも 離るるとても本を忘るな」, do *Rikyū Hyakushu*: coletânea montada por Gengensai (玄々斎, 1810–1877, 11º da Urasenke) e atribuída a Rikyū. Provavelmente posterior a Fuhaku, não precursor. Falta fonte acadêmica.
 - ✓ 『茶話抄附録(如心齋傳法)』, transcrito em 田中仙樵『茶禅一味』 (光融館, 1905, p. 277–278): 「一軍法には守破離とあり是れ茶道の極意 守は下手 尤も常體の下手とは違ひ候…守株待兎 破は上手 尤も常の破とは違ひて破るなり 時によつて守るも法を破るも法なり 見風使帆 離は名人 尤も常の離れたるとは違ひ事を盡し離れて守る 應無所住而生其心」. A passagem é atribuída à transmissão de Joshinsai, mestre de Fuhaku. Transcrição via OCR da NDL; grafia a conferir na imagem. Links: [NDL Digital, 823364](https://dl.ndl.go.jp/pid/823364/1/149)
 - ✓ Carta de Fuhaku a Sottakusai (啐啄斎), em 田中仙樵『点茶漫筆』 (1932): 「種熟達と申て…前の守破離も是成るべし」. Links: [NDL Digital, 1139739](https://dl.ndl.go.jp/pid/1139739/1/10)
@@ -90,7 +94,9 @@ Sau Po Lei rima nos dois níveis: entre as fases (primeira como 守, segunda com
 
 Sempre tive certa inquietação com o uso de Sau Po Lei 守破離. Tem mais de 20 anos desde a primeira vez que o ouvi e virou jargão dentro da nossa linhagem. Estava escrevendo sobre [Cham Kiu 尋橋](/notes/etimologia-de-cham-kiu-xun-qiao) e me apoiava no fato de que ele faz referência a uma fase Po 破 de aprendizado, porém teria que explicar o que seria isso, ou seja, estava entrando em uma espiral de termos sem muita sustentação. Fui pesquisar então a origem do termo:
 
-A versão que mais circula atribui o termo a Zeami. Não se sustenta. O índice dos 23 tratados de Zeami não registra 守破離; o que Zeami usa é 序破急, e a confusão vem daí.
+A versão que mais circula atribui o termo a Zeami, ao *Fūshikaden*. Não se sustenta. O índice dos 23 tratados de Zeami não registra 守破離. O que Zeami usa é 序破急, princípio de ritmo que veio da música da corte: começar devagar, desenvolver, acelerar.
+
+Os dois têm o 破 em comum, e a literatura de budō ajudou a colar um no outro. Yuasa Akira, em 『武道伝書を読む』 (2005), põe o *Fūshikaden* sob o título 守・破・離 sem que o termo esteja no texto. No Nō se discute 守格 e 破格, dominar a forma e depois desfazê-la, e Kumakura Isao aproxima esse par de 守破離 no verbete 真行草 do 世界大百科事典. Fujiwara Ryōzō (1993) vai além e lê 守破離 como superação do 序破急.
 
 O texto mais antigo que localizei é do chá: o 『茶話抄』, de Yokoi Tansho, com suplementos de Kawakami Fuhaku (1719–1807). A passagem abre com 「守破離といふ事軍法用」 e logo adapta o termo ao chá: 守 é o iniciante, 破 o hábil, 離 o mestre. O próprio Fuhaku, no *Fuhaku Hikki*, diz que os três ideogramas vêm do aprendizado militar.
 
@@ -117,6 +123,13 @@ Pedagogia confuciana (transmissão, estágios, prontidão):
 Pesquisa-irmã:
 
 9. [apresentando-cham-kiu](/research/apresentando-cham-kiu) — roteiro de apresentação que lê os três domínios iniciais por Sau Po Lei.
+
+Webclips (em inglês, clipping com tradução automática e original japonês):
+
+10. [matsuoka-seigo-senya-sensatsu-1252-fujiwara-ryozos-the-thoug](/notes/matsuoka-seigo-senya-sensatsu-1252-fujiwara-ryozos-the-thoug) — resenha de Matsuoka sobre 『守破離の思想』 de Fujiwara.
+11. [jo-ha-kyu-kotobank](/notes/jo-ha-kyu-kotobank) — 序破急 nos dicionários: 雅楽, Zeami, renga, jōruri.
+12. [shin-gyo-so](/notes/shin-gyo-so) — 真行草, com 守格/破格 e 守破離 como sinônimo próximo (Kumakura).
+13. [is-the-source-of-shuhari-zeamis-fushikaden](/notes/is-the-source-of-shuhari-zeamis-fushikaden) — resposta da NDL: 守破離 não está em Zeami.
 
 ## Notas extraídas
 
