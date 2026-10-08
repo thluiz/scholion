@@ -47,7 +47,7 @@ Si Fu abriu com uma pergunta: quando se fala em sistema de Kung Fu, em termos ge
 
 Si Fu já fez essa pergunta à sua professora de chinês da época da PUC: como se traduz sistema? Um chinês dá três respostas, e a primeira é [Kuen](/notes/etimologia-de-kuen-quan/) [Paai](/notes/etimologia-de-paai-pai-6d3e/) 拳派. Kuen é punho, e o Paai é o mesmo de Mun Paai. Thiago Silva levantou os ideogramas e os mandou no grupo durante a aula.
 
-![Si Fu, Guilherme Farias, Daniel Araújo, Homero Pereira, o caderno de Daniel e Thiago Silva durante a explicação dos tons](encontro-cover.jpg)
+![Si Fu, Guilherme Farias, Daniel Araújo, Homero Pereira, o caderno de Daniel e Thiago Silva durante a explicação dos tons](encontro-grade-tons.jpg)
 
 Antes de seguir, Si Fu deu um ponto de pronúncia para gravar como regra. Na conta dele, o mandarim tem quatro tons e um neutro, e no cantonês uns contam sete, outros oito, outros nove, sem uma configuração fechada. Em ambos, o quarto tom é corte rápido, e Si Fu marcou com um gesto de cortar.
 
