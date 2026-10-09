@@ -70,6 +70,19 @@ O autor precisa escrever um guia sobre a doutrina. A pesquisa [Apresentando Cham
 
 ### 2. Como é usada hoje
 
+#### 2a. Japão antes da guerra (1895–1940)
+
+- ✓ Acervo: a busca de texto integral da NDL Digital dá 2.811 itens com 守破離, quase todos com direitos ainda vigentes, legíveis só dentro da biblioteca. Em acesso aberto, com OCR consultável pelo NDL Lab, há 12 itens, de 1895 a 1940 (busca de 2026-10-09). Os trechos abaixo foram conferidos na imagem da página. Links: [NDL Lab](https://lab.ndl.go.jp/dl/fulltext?keyword=守破離)
+- ✓ 隈元実道『武道教範』 (*Manual de budō*; 1895, reeditado em 1897), duas edições: 「守は、守つて專心規矩に法とる、是れ一段なり。破は、破つて新工夫する、是れ二段なり。離は、其の守破二樣の區域を離れて、天眞爛熳たる、是れ三段なり」 (*o 守 guarda e segue a regra com todo o empenho, é o primeiro degrau; o 破 quebra e inventa algo novo, é o segundo; o 離 deixa o domínio dos dois e fica natural e espontâneo, é o terceiro*). Links: [NDL 1086788](https://dl.ndl.go.jp/pid/1086788/1/29)
+- ✓ 外山皎 (ed.)『学剣の枝折』 (*Guia para quem aprende a espada*, 1912), p. 10: 「劍法に守破離と云ふ事あり、守は字の如く守るなり」 (*na arte da espada há o que se chama 守破離; o 守 é guardar, como diz o ideograma*), dentro de um conselho ao iniciante para guardar a forma correta (正則). Links: [NDL 911118](https://dl.ndl.go.jp/pid/911118/1/9)
+- ✓ 下川潮『剣道の発達』 (*O desenvolvimento do kendō*, 1925), p. 280, cap. 5, sobre o kendō do período Tokugawa: 「當時劍道修行の一般の順序を考ふるに、守破離と云ふ術語あり、卽ち守とは修行の或程度に達するまでは必ず一定の流儀を固く守り決して他流を學ぶ可からずと云ふ意なり。破とは修行を積み充分其流儀の劍法を練磨せし後は自ら固守の精神を破り廣く諸流の劍法を學び大に自己の技術を擴張するを云ふ。離とは諸流の劍法に熟達したる後其諸流を離れ自ら新奇巧妙の技術を發明するを謂ふなり」 (*na ordem geral do treino de espada da época havia o termo 守破離: o 守 é, até certo grau, guardar firmemente um único estilo e nunca aprender outro; o 破 é, depois de dominar o próprio estilo, romper o espírito de guardar, estudar amplamente os outros estilos e ampliar a própria técnica; o 離 é, já perito nos vários estilos, deixá-los e inventar uma técnica nova e engenhosa*). Primeira leitura localizada em que o 破 é estudar outros estilos. Links: [NDL 1017872](https://dl.ndl.go.jp/pid/1017872/1/150)
+- ✓ 富山県学校武道研究会 (ed.)『学校柔道』 (*Judô escolar*, 1938), p. 73, seção 18, 「師匠離れと言ふこと(守・破・離)」 (*desprender-se do mestre*): 「守とは、己を空しくして師につき、その流を守ること。破とは、工夫すると同時に、他をも研究してその長を採ること。離とは、諸流儀に熟達して後、獨自の境地を見出し、一流を立てること」 (*o 守 é esvaziar-se, seguir o mestre e guardar o seu estilo; o 破 é inventar e, ao mesmo tempo, estudar os outros e tomar o que têm de melhor; o 離 é, depois de dominar os vários estilos, encontrar um terreno próprio e fundar uma escola*), e 「模倣のみに終始するは、個性を發揮せざる一種の自己冒瀆である」 (*ficar só na imitação, sem expressar a individualidade, é uma espécie de profanação de si*). O mesmo grupo publica 『学校剣道』 (1938), com 守破離 no sumário. Links: [NDL 1457466](https://dl.ndl.go.jp/pid/1457466/1/48), [NDL 1457463](https://dl.ndl.go.jp/pid/1457463)
+- ✓ 『各科指導指針』 (*Diretrizes de ensino por disciplina*, 1940), p. 230, orientação para o kendō na escola primária, ao lado do 訓令 nº 16 do Ministério da Educação (29/5/1939) sobre o ensino de budō: 「…無念無想、止心、合氣を外す、守破離、等數多くあるから之等を學年に應じて簡易に話すこと」 (*…há muitos [termos], como 無念無想, 止心, 合氣を外す, 守破離; falar deles de forma simples, conforme a série*). Links: [NDL 1457529](https://dl.ndl.go.jp/pid/1457529/1/119)
+- ✓ 高橋竜雄『茶道辞典』 (*Dicionário do chá*, 1940), p. 50: 「劍道に守破離の三階段を說く、茶道に於ても、利休百首の最終の歌に 規矩作法守り盡して破るとも離るゝとても本を忘るな とある如く」 (*o kendō ensina os três degraus do 守破離; no chá também, como diz o último poema dos* Cem poemas de Rikyū*: as regras e as maneiras, guardadas até o fim, mesmo quebrando, mesmo partindo, não esqueça a base*), e acrescenta que o praticante de chá wabi 「とかく「守」の位置を嫌つて「破」の位置に立たうとする」 (*tende a desprezar a posição do 守 e querer ficar na do 破*). Data mínima de circulação do poema atribuído a Rikyū. Links: [NDL 1686670](https://dl.ndl.go.jp/pid/1686670/1/33)
+- Os outros 4 dos 12: 『茶禅一味』 (1905 e 1932, o apêndice de Joshinsai, ver direção 1) e 『点茶漫筆』 (1932, carta de Fuhaku a Sottakusai).
+
+#### 2b. Hoje
+
 - ⚠ A verificar: artes marciais japonesas (aikidô, karatê, kendô), cerimônia do chá, Nō e kabuki; entrada no Ocidente pela comunidade ágil (Alistair Cockburn) e pelo management; uso em kung fu chinês fora do Japão.
 
 ### 3. Pesquisa científica
@@ -110,11 +123,16 @@ Fui atrás desse vocabulário militar. O 『角川茶道大事典』 (*Grande Di
 
 Passei aos tratados de esgrima. O [『武術叢書』](https://dl.ndl.go.jp/pid/945805) (*Coletânea de artes marciais*, 1915) reúne o *Gorin no Sho* (*Livro dos cinco anéis*), o 『兵法三十五箇条』 (*Trinta e cinco artigos sobre o combate*), o 『一刀斎先生剣法書』 (*Livro da espada do mestre Ittōsai*), o 『天狗芸術論』 (*Tratado do tengu sobre as artes*) e outros; o [『剣道集義』](https://dl.ndl.go.jp/pid/970374) (*Coletânea de escritos sobre kendō*, 1923) e os manuscritos do Hokushin Ittō-ryū completam o lote. Nada. Para conferir se a busca funcionava, rodei a mesma busca no manuscrito de Chiba Shūsaku, onde o termo está, e ela o encontrou.
 
-Depois vieram os tratados de estratégia (兵学) que a biblioteca do parlamento japonês (NDL) digitalizou: 104 volumes, perto de 6,8 milhões de caracteres, das escolas Kōshū e Yamaga, com os manuscritos do próprio *Kōyō Gunkan*. Nenhuma ocorrência, e os tratados da escola Hōjō também não têm. Na busca de texto integral da biblioteca, que cobre os impressos de Meiji em diante, aparecem 2.811 itens com 守破離; o mais antigo é de 1884. O [『日本国語大辞典』](https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000042957) (*Grande Dicionário da Língua Japonesa*) tem o 『茶話抄』 como único exemplo.
+Depois vieram os tratados de estratégia (兵学) que a biblioteca do parlamento japonês (NDL) digitalizou: 104 volumes, perto de 6,8 milhões de caracteres, das escolas Kōshū e Yamaga, com os manuscritos do próprio *Kōyō Gunkan*. Nenhuma ocorrência, e os tratados da escola Hōjō também não têm. Na busca de texto integral da biblioteca, que cobre os impressos de Meiji em diante, aparecem 2.811 itens com 守破離; o mais antigo é de 1884. Quase todos ainda têm direitos e só se leem dentro da biblioteca. Em acesso aberto há doze, de 1895 a 1940, e eles mostram o termo saindo da esgrima para os manuais escolares de budō: em 1940, uma diretriz para a escola primária manda falar de 守破離 「學年に應じて簡易に」 (*de forma simples, conforme a série*). O [『日本国語大辞典』](https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000042957) (*Grande Dicionário da Língua Japonesa*) tem o 『茶話抄』 como único exemplo.
 
 Na esgrima, o termo aparece com Chiba Shūsaku, grafado 守敗離, em notas que Hirose Shinpei imprimiu em 1884 como [『剣法秘訣』](https://dl.ndl.go.jp/pid/2538984/1/10) (*Segredos da arte da espada*). Chiba usa o esquema para reduzir a três os oito graus de licença do Nakanishi-ha Ittō-ryū, e trata o termo como coisa já existente. Onze anos depois, o [『武道教範』](https://dl.ndl.go.jp/pid/1086788/1/29) (*Manual de budō*, 1895) acrescenta um quarto passo: 「守破離三段の位ひに達して、而して元に歸すへし」 (*tendo alcançado os três graus de 守破離, deve-se então retornar à origem*).
 
 A fonte militar anterior ao chá segue em aberto. [Matsuoka Seigō](/notes/matsuoka-seigo-senya-sensatsu-1252-fujiwara-ryozos-the-thoug) aposta no zen e admite que não tem prova.  
+
+Ao que parece era conhecimento comum ali pelo século XVIII, tão comum que ninguém colocou no papel e temos que aceitar isso.
+
+### Como é usado?
+
 
 ## Notas do Scholion já relacionadas
 
