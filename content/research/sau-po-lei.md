@@ -83,6 +83,9 @@ O autor precisa escrever um guia sobre a doutrina. A pesquisa [Apresentando Cham
 
 #### 2b. Hoje
 
+- ✓ J-STAGE (base dos periódicos acadêmicos japoneses), busca da API por 守破離 em 2026-10-09: 167 artigos. Por década: 1970, 1; 1980, 2; 1990, 6; 2000, 16; 2010, 59; 2020 (até 2026), 83. Até os anos 1990 os artigos são de budō (『武道学研究』, 1979, 1989, 2002) e de pedagogia do esporte (『スポーツ教育学研究』, 1993: 「我が国における武道の学習理論の検討」, *exame da teoria de aprendizagem do budō no Japão*). A partir dos anos 2000 o termo aparece em engenharia naval e mecânica, robótica, gestão de projetos, medicina (cirurgia oral, reabilitação, neurologia: sessão 「守破離に学ぶ神経治療」, *aprender a neuroterapia com o 守破離*, no congresso de 2025 da sociedade japonesa de neuroterapia), enfermagem (2025: 「看護という存在の仕方―日本の「守破離」の思想から」, *o modo de ser da enfermagem, a partir do pensamento japonês do 守破離*), medicina do trabalho, ikebana, design e música. Classificação por título e revista; leitura dos textos em andamento. Links: [J-STAGE](https://www.jstage.jst.go.jp/result/global/-char/ja?globalSearchKey=%E5%AE%88%E7%A0%B4%E9%9B%A2)
+- `?` Para as direções 3 e 4: 生田久美子『「わざ」から知る』 (*Conhecer pela técnica*, 2007), resenhado em 『認知科学』 (2008); 西平直『稽古の思想』 (*O pensamento do keiko*, 2019), resenhado em 『教育学研究』 e 『近代教育フォーラム』 (2020).
+
 - ⚠ A verificar: artes marciais japonesas (aikidô, karatê, kendô), cerimônia do chá, Nō e kabuki; entrada no Ocidente pela comunidade ágil (Alistair Cockburn) e pelo management; uso em kung fu chinês fora do Japão.
 
 ### 3. Pesquisa científica
