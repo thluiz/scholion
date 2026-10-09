@@ -132,7 +132,7 @@ Na esgrima, o termo aparece com Chiba Shūsaku, grafado 守敗離, em notas que 
 
 A fonte militar anterior ao chá segue em aberto. [Matsuoka Seigō](/notes/matsuoka-seigo-senya-sensatsu-1252-fujiwara-ryozos-the-thoug) aposta no zen e admite que não tem prova.  
 
-Ao que parece era conhecimento comum ali pelo século XVIII, tão comum que ninguém colocou no papel e temos que aceitar isso.
+Ao que parece era conhecimento comum ali pelo século XVIII, tão comum que talvez ninguém o tenha posto no papel.
 
 ### Como é usado?
 
