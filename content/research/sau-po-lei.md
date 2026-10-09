@@ -19,7 +19,7 @@ toc: true
 
 - **Em foco**: direção 1, origem e histórico, fechada no que é possível sem Fujiwara (1993) e sem o 『茶道古典全集』 vol. 10. Revisão de 2026-10-05 corrigiu o rascunho anterior: o termo vem de 兵法 e entra no chá pelo *Chawa-shō*; Fuhaku não o cunha; o poema de Rikyū é provavelmente posterior. Agora: rastrear a origem nos textos militares. *Kōyō Gunkan* descartado (busca no texto integral); textos mais antigos encontrados (apêndice de Joshinsai, *Fuhaku Hikki*, Chiba) tratam o termo como herdado. 伝書 de esgrima também descartados (busca por script em 武術叢書, 剣道集義 e manuscritos do Ittō-ryū). 兵学 Kōshū, Yamaga e Hōjō também descartados; Fujiwara (1993) lido pelos trechos da NDL, sem rastreio filológico. O 日本国語大辞典 (2001) também tem o 『茶話抄』 como único 用例. Direção 1 encerrada em 2026-10-08 até surgirem fontes novas; fonte militar anterior a 1750 segue `?` (restam só manuscritos não digitalizados). Texto em andamento iniciado com a busca pela origem.
 - **Próximo**: (a) fichamentos em PT-BR, com citação conferida na imagem da NDL, de três fontes de domínio público: apêndice de Joshinsai em 『茶禅一味』 (NDL 823364, confere o OCR), manuscrito de Chiba (NDL 2538984) e 『武道教範』 (NDL 1086788); (b) webclip do artigo de Tōdō e Murata (2007, J-STAGE). Depois, direção 2 (usos atuais), 3 e 4 (pesquisa científica e teóricos da pedagogia), e por fim 5 (domínios e fases do Ving Tsun).
-- **Dossiê de voz**: v2, sincronizado em 2026-10-06 (link em fontes-privadas/voz/sau-po-lei/README.md)
+- **Dossiê de voz**: v3, sincronizado em 2026-10-09 (link em fontes-privadas/voz/sau-po-lei/README.md)
 - Pesquisa-irmã: [Apresentando Cham Kiu](/research/apresentando-cham-kiu), onde Sau Po Lei entrou como leitura dos três domínios iniciais e ficou registrada a falta de fonte para a origem da doutrina. Esta pesquisa resolve essa pendência.
 
 ## Motivação
@@ -114,7 +114,7 @@ Depois vieram os tratados de estratégia (兵学) que a biblioteca do parlamento
 
 Na esgrima, o termo aparece com Chiba Shūsaku, grafado 守敗離, em notas que Hirose Shinpei imprimiu em 1884 como [『剣法秘訣』](https://dl.ndl.go.jp/pid/2538984/1/10) (*Segredos da arte da espada*). Chiba usa o esquema para reduzir a três os oito graus de licença do Nakanishi-ha Ittō-ryū, e trata o termo como coisa já existente. Onze anos depois, o [『武道教範』](https://dl.ndl.go.jp/pid/1086788/1/29) (*Manual de budō*, 1895) acrescenta um quarto passo: 「守破離三段の位ひに達して、而して元に歸すへし」 (*tendo alcançado os três graus de 守破離, deve-se então retornar à origem*).
 
-A fonte militar anterior ao chá segue em aberto. Matsuoka Seigō aposta no zen e admite que não tem prova.
+A fonte militar anterior ao chá segue em aberto. [Matsuoka Seigō](/notes/matsuoka-seigo-senya-sensatsu-1252-fujiwara-ryozos-the-thoug) aposta no zen e admite que não tem prova.  
 
 ## Notas do Scholion já relacionadas
 
