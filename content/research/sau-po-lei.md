@@ -92,19 +92,17 @@ Sau Po Lei rima nos dois níveis: entre as fases (primeira como 守, segunda com
 
 ## Texto em andamento
 
-Sempre tive certa inquietação com o uso de Sau Po Lei 守破離 como jargão dentro de nossa linhagem. 
+Sempre tive certa inquietação com o uso de Sau Po Lei 守破離 as vezes como jargão. Estava escrevendo sobre [Cham Kiu 尋橋](/notes/etimologia-de-cham-kiu-xun-qiao) e novamente repetia que ele faz referência a uma fase Po 破 de aprendizado, porém o que isso diz a um leigo? 
 
-Estava escrevendo sobre [Cham Kiu 尋橋](/notes/etimologia-de-cham-kiu-xun-qiao) para leigos e estava eu novamente utilizando  e me apoiava no fato de que ele faz referência a uma fase Po 破 de aprendizado, porém teria que explicar o que seria isso, ou seja, estava entrando em uma espiral de termos sem muita sustentação. Fui pesquisar então a origem do termo:
-
-### Possível origem
+### Possível origem 
 
 A versão que mais circula atribui o termo a [Zeami, ao *Fūshikaden*](/notes/is-the-source-of-shuhari-zeamis-fushikaden), o que não faz muito sentido. O índice dos 23 tratados de Zeami não registra 守破離. O que Zeami usa é [序破急](/notes/jo-ha-kyu), princípio de ritmo que veio da música da corte: começar devagar, desenvolver, acelerar.
 
-Os dois têm o 破 em comum, e a literatura de budō ajudou a colar um no outro. Yuasa Akira, em 『武道伝書を読む』 (*Lendo os tratados de budō*, 2005), põe o *Fūshikaden* sob o título 守・破・離 sem que o termo esteja no texto. No Nō se discute 守格 e 破格, dominar a forma e depois desfazê-la, e Kumakura Isao aproxima esse par de 守破離 no verbete 真行草 (*shin-gyō-sō*, os estilos formal, semicursivo e cursivo) do 世界大百科事典 (*Grande Enciclopédia Mundial*). Fujiwara Ryōzō (1993) vai além e lê 守破離 como superação do 序破急.
+Os dois têm o 破 em comum, e a literatura de budō reforçou a ligação que também não se sustenta: Yuasa Akira, em 『武道伝書を読む』 (*Lendo os tratados de budō*, 2005), põe o *Fūshikaden* sob o título 守・破・離 sem que o termo esteja no texto. No Nō se discute 守格 e 破格, dominar a forma e depois desfazê-la, e Kumakura Isao aproxima esse par de 守破離 no verbete 真行草 (*shin-gyō-sō*, os estilos formal, semicursivo e cursivo) do 世界大百科事典 (*Grande Enciclopédia Mundial*). Fujiwara Ryōzō (1993) vai além e lê 守破離 como superação do 序破急.
 
 O texto mais antigo que localizei é do chá: o [『茶話抄』](https://dl.ndl.go.jp/pid/2466386) (*Chawa-shō*, *Notas de conversas sobre o chá*), de Yokoi Tansho, com suplementos de Kawakami Fuhaku (1719–1807). A passagem abre com 「守破離といふ事軍法用」 (*isso que se chama 守破離 é coisa de uso na estratégia militar*) e logo adapta o termo ao chá: 守 é o iniciante, 破 o hábil, 離 o mestre.
 
-Um [apêndice do mesmo livro](https://dl.ndl.go.jp/pid/823364/1/149), atribuído a Joshinsai, mestre de Fuhaku, desenvolve cada um dos três. O 守 do iniciante não é o de quem fica parado esperando a lebre bater no toco (守株待兎). O 破 do hábil é saber que 「時によつて守るも法を破るも法なり」 (*conforme a ocasião, guardar é a regra, e quebrar a regra também é a regra*). O 離 do mestre é 「事を盡し離れて守る」 (*esgotar a coisa, afastar-se dela e guardar*), e o apêndice fecha com uma frase do Sutra do Diamante, 應無所住而生其心 (*sem se fixar em lugar algum, fazer surgir a mente*). Fuhaku, no *Fuhaku Hikki* (*Notas de Fuhaku*), é mais seco: 「弟子に教ルハ此守と申所斗也」 (*ao discípulo se ensina só isso a que se chama 守*).
+Um [apêndice do mesmo livro](https://dl.ndl.go.jp/pid/823364/1/149), atribuído a Joshinsai, mestre de Fuhaku, desenvolve cada um dos três e fecha cada um com uma expressão. O 守 é o inábil, mas não o inábil comum: 「事業をして工夫につながれたる物なり」 (*é quem faz o trabalho preso ao empenho da prática*), e a expressão é 守株待兎, o camponês do 『韓非子』 que larga o arado e fica guardando o toco (sentado?) à espera de outra lebre. O 破 do hábil 「守て破るなり」 (*quebra guardando*), porque 「時によつて守るも法を破るも法なり」 (*conforme a ocasião, guardar é a regra, e quebrar a regra também é a regra*), e a expressão é 見風使帆 (*ver o vento e usar a vela*). O 離 do mestre é 「事を盡し離れて守る」 (*esgotar a coisa, afastar-se dela e guardar*), e fecha com uma frase do Sutra do Diamante, 應無所住而生其心 (*sem se fixar em lugar algum, fazer surgir a mente*). Fuhaku, no *Fuhaku Hikki* (*Notas de Fuhaku*), é mais seco: 「弟子に教ルハ此守と申所斗也」 (*ao discípulo se ensina só isso a que se chama 守*).
 
 Os dois dizem de onde o termo vem. O apêndice abre com 「一軍法には守破離とあり」 (*na estratégia militar existe o 守破離*), e Fuhaku escreve que os três ideogramas 「軍法の習ニ在リ」 (*estão no aprendizado da estratégia militar*). No vocabulário da época, [軍法 e 兵法](/notes/gunpo-e-heiho) não eram a mesma coisa: 軍法 era a estratégia, a tomada de castelos; 兵法, o combate com arco, espada e luta agarrada. O termo viria então dos tratados de estratégia, não da esgrima.
 
