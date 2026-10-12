@@ -257,6 +257,7 @@ Webclips (em inglês, clipping com tradução automática e original japonês):
 - [shu-ha-ri-no-budo-kyohan](/notes/shu-ha-ri-no-budo-kyohan) — fichamento do 『武道教範』 (訂3版, 1895): o 離 como 天眞爛熳, o mesmo termo do objetivo da escola; 他流崇拜 entre os vícios.
 - [study-of-how-names-used-for-training-methods-in-budo-changed](/notes/study-of-how-names-used-for-training-methods-in-budo-changed) — webclip de Tōdō e Murata (2007), 稽古 → 練習.
 - [the-paradox-of-learning-a-really-new-competence](/notes/the-paradox-of-learning-a-really-new-competence) — citação de Schön (1987, p. 93), com o *Mênon*, Polanyi e a carta de Cowan.
+- [mastery-resides-not-in-the-master](/notes/mastery-resides-not-in-the-master) — citação de Lave e Wenger (1991, p. 94), o mestre descentrado; alfaiates Vai e Gola.
 
 ## Imagens
 
