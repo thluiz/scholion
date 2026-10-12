@@ -35,6 +35,12 @@ sources:
     publisher: "千夜千冊"
     url: "https://1000ya.isis.ne.jp/1252.html"
     kind: web
+  - title: "世阿弥『伝書』における稽古の思想――稽古における序破急"
+    author: "西平直"
+    year: 2014
+    publisher: "実存思想論集 29"
+    url: "https://doi.org/10.69170/jitsuzonshisou.29.0_33"
+    kind: paper
 ---
 
 A atribuição de 守破離 a Zeami, em geral ao *Fūshikaden*, foi verificada pela biblioteca do parlamento japonês, a NDL ([NDL 1000029440](https://crd.ndl.go.jp/reference/entry/index.php?id=1000029440&page=ref_view)). Na resposta, o 『世阿弥伝書用語索引』 (*Índice de termos dos tratados de Zeami*) tem 序破急 e não tem 守破離. O verbete do 『日本国語大辞典』 (*Grande Dicionário da Língua Japonesa*; 2ª ed., vol. 6, Shōgakukan, 2001, p. 1423–1424) dá como único exemplo um texto do chá, o 『茶話抄』 (*Chawa-shō*, *Notas de conversas sobre o chá*), de Yokoi Tansho com suplementos de Kawakami Fuhaku ([NDL 1000042957](https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000042957)). E o 『剣道事典』 (*Dicionário de kendō*; Shimazu Shobō, 1994), citado pela NDL no primeiro registro, data de 1749 o *Fuhaku Hikki*, a partir do qual o termo passou a nomear estágios de formação.
@@ -56,5 +62,7 @@ Matsuoka Seigō ([千夜千冊 1252](https://1000ya.isis.ne.jp/1252.html)) afirm
 O mesmo livro de Minamoto sustenta um artigo de pedagogia do esporte de 1993, de 友添秀則 e 和田哲也 ([J-STAGE](https://www.jstage.jst.go.jp/article/jjses1982/13/1/13_1_45/_article/-char/ja/)), escrito em inglês: a origem do 守破離 “is not clear”, mas o termo “seems to have been conceived under the influence of the learning theory of NOH (能楽) which was developed in the Muromachi era” (*parece ter sido concebido sob a influência da teoria de aprendizagem do Nō, desenvolvida no período Muromachi*), com nota para 『型』, pp. 253–255.
 
 Em 2010 a atribuição aparece sem ressalva e sem fonte num artigo de gestão de projetos de 岩下幸功 ([J-STAGE](https://www.jstage.jst.go.jp/article/iappmproc/2010.Spring/0/2010.Spring_140/_article/-char/ja/)): 「「守破離」とは修行の段階をあらわす教えで、600 年前に能の世阿弥が「風姿花伝」（「花伝書」）のなかで展開した」 (*"守破離" é um ensinamento que expressa as etapas do treinamento, desenvolvido há 600 anos por Zeami, do Nō, no* Fūshikaden).
+
+Nishihira Tadashi, em 「世阿弥『伝書』における稽古の思想――稽古における序破急」 (*O pensamento do keiko nos tratados de Zeami: o 序破急 no keiko*; 『実存思想論集』 29, 2014, nota 9, p. 58; [J-STAGE](https://doi.org/10.69170/jitsuzonshisou.29.0_33)), vai um passo além: nem o 型 está em Zeami nesse sentido. O que os tratados chamam de 形木 「後世の「型の思想」の源流とされることが多いが、世阿弥自身は「型」という文字をこの文脈で用いたことはない」 (*costuma ser tomado como fonte do "pensamento do kata" posterior, mas o próprio Zeami nunca usou o caractere 型 nesse contexto*). No artigo, 守破離 não aparece; 序破急 aparece 27 vezes.
 
 A origem do termo pelo lado do chá e do vocabulário militar está na pesquisa [Sau Po Lei](/research/sau-po-lei). Os textos completos, em tradução inglesa e no original: [NDL](/notes/is-the-source-of-shuhari-zeamis-fushikaden), [真行草](/notes/shin-gyo-so), [Matsuoka](/notes/matsuoka-seigo-senya-sensatsu-1252-fujiwara-ryozos-the-thoug).
