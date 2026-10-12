@@ -23,7 +23,8 @@ toc: true
 
 - **Em foco**: episódio de abertura sobre o que é uma virtude, com a definição fechada em 2026-10-01 (7.1), a sabedoria como horizonte (8.2) e os três presentes de Agostinho como possível arquitetura da série (7.4). A série tem 21 episódios (8.1).
 - **Dossiê de voz**: v1, sincronizado em 2026-10-03 (link em `fontes-privadas/voz/pequeno-tratado-em-audio/README.md`).
-- **Próximo**: (a) dossiê das 18 virtudes capítulo por capítulo, com trechos citáveis (pedido do autor). (b) Dar família às virtudes que ainda não têm (7.4). (c) Desenvolver a noção de "papel". (d) A curiosidade como candidata (7.5). (e) Os `?` que restam em 5.3: estoicos, *kathékon*, tradição chinesa. (f) Curar a lista de outras virtudes pelo filtro da definição (8.3). (g) Decidir onde Weil entra: no episódio do amor ou no da humildade (9.3).
+- **Próximo**: (a) dossiê das 18 virtudes capítulo por capítulo, com trechos citáveis (pedido do autor). (b) Dar família às virtudes que ainda não têm (7.4). (c) Desenvolver a noção de "papel". (d) A curiosidade como candidata (7.5). (e) Os `?` que restam em 5.3: estoicos, *kathékon*, tradição chinesa. (f) Curar a lista de outras virtudes pelo filtro da definição (8.3). (g) Decidir onde Weil entra: no episódio do amor ou no da humildade (9.3). (h) Onde o *Mênon* entra: abertura, método (7.5) ou noção de papel (10).
+- **Fechamento pendente**: integridade nas outras virtudes (2026-10-04), em andamento, não incorporado.
 - **Pesquisas-irmãs**:
   - [discursos-protrepticos](/research/discursos-protrepticos/) — Comte-Sponville é um protréptico moderno explícito; o tratado é exercício de conversão à filosofia prática.
   - [estoicismo-lusitano](/research/estoicismo-lusitano/) — sabedoria vivida como virtude difusa, ponte para a tradição estoica que Comte-Sponville cita o tempo inteiro.
@@ -361,6 +362,49 @@ Fechamento arquivado em `fontes-privadas/voz/pequeno-tratado-em-audio/fechamento
 - Título provisório sugerido pela IA: "Esperar em vez de buscar". Pergunta: prestar atenção é fazer força ou parar de fazer?
 - `?` Em *A gravidade e a graça*, a atenção pura como oração: de memória, não conferido.
 - Ver [weil-attention-suspendre-sa-pensee](/notes/weil-attention-suspendre-sa-pensee/), [attention-as-the-purest-form-of-generosity](/notes/attention-as-the-purest-form-of-generosity/), [genuine-attention-clearing-space-not-forcing-will](/notes/genuine-attention-clearing-space-not-forcing-will/), [tempo-em-agostinho](/notes/tempo-em-agostinho/); para a humildade, [aristoteles-magnanimidade-unduly-humble](/notes/aristoteles-magnanimidade-unduly-humble/), [spinoza-humility-is-not-a-virtue](/notes/spinoza-humility-is-not-a-virtue/), [hume-monkish-virtues](/notes/hume-monkish-virtues/); outras de Weil, [democracia-sem-partido](/notes/democracia-sem-partido/) e [porque-a-historia-das-mortes-dos-filosofos](/notes/porque-a-historia-das-mortes-dos-filosofos/).
+
+### 10. O *Mênon*: o que é a virtude antes de como ela se adquire
+
+Lido no Perseus em 2026-10-12: tradução de W. R. M. Lamb (Loeb, 1924) e grego da edição de John Burnet, com numeração Stephanus. Links: [Perseus, inglês](https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0059/tlg024/tlg0059.tlg024.perseus-eng2.xml), [Perseus, grego](https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0059/tlg024/tlg0059.tlg024.perseus-grc2.xml).
+
+#### 10.1. A pergunta de abertura
+
+- Mênon ✓: "Can you tell me, Socrates, whether virtue can be taught, or is acquired by practice, not teaching? Or if neither by practice nor by learning, whether it comes to mankind by nature or in some other way?" (70a; no grego, διδακτόν, ἀσκητόν, φύσει).
+- Sócrates recusa a ordem ✓: "if I do not know what a thing is, how can I know what its nature may be?" (71b).
+
+#### 10.2. O enxame e o papel
+
+- Mênon define pelo papel ✓: a virtude do homem é administrar a cidade; a da mulher, a casa; outra a da criança, do velho, do livre, do escravo (71e–72a). "It is according to each activity and age that every one of us, in whatever we do, has his virtue" (72a; no grego, πρὸς ἕκαστον ἔργον). Ver [arete-adequacao-ao-cosmos](/notes/arete-adequacao-ao-cosmos/).
+- Sócrates ✓: "in seeking one virtue I have discovered a whole swarm of virtues" (72a, σμῆνος). Pede o que todas têm em comum: "they all have one common character whereby they are virtues" (72c).
+- Justiça e governo ✓: à definição de Górgias, "the power of governing mankind", Sócrates acrescenta "justly, not unjustly?". Mênon: "justice, Socrates, is virtue"; Sócrates: "Virtue, Meno, or a virtue?" (73c–e).
+
+#### 10.3. Ninguém deseja o mal
+
+- Sócrates ✓: "No one, then, Meno, desires evil" (78a). Ver [ninguem-faz-o-mal-voluntariamente](/notes/ninguem-faz-o-mal-voluntariamente/) e [akrasia](/notes/akrasia/).
+
+#### 10.4. O paradoxo
+
+- A arraia ✓: Mênon compara Sócrates ao "flat torpedo sea-fish; for it benumbs anyone who approaches and touches it" (80a). Sócrates aceita só em parte: "it is from being in more doubt than anyone else that I cause doubt in others" (80c–d).
+- Mênon ✓: "on what lines will you look, Socrates, for a thing of whose nature you know nothing at all? [...] how will you know it is the thing you did not know?" (80d).
+- Sócrates reformula ✓: "a man cannot inquire either about what he knows or about what he does not know" (80e; no grego, ἐριστικὸν λόγον, "argumento erístico").
+- Em [sau-po-lei](/research/sau-po-lei/), direção 4, Schön abre o cap. 4 de *Educating the Reflective Practitioner* com este paradoxo, e cita Polanyi resolvendo-o pelo conhecimento tácito ✓ (conferido lá).
+
+#### 10.5. A reminiscência e o escravo
+
+- Sócrates ✓: "research and learning are wholly recollection" (81d, ἀνάμνησις); o argumento contrário "would make us idle" (81d).
+- O escravo depois da aporia ✓: "now he feels the difficulty he is in, and besides not knowing does not think he knows" (84a–b); o choque da arraia lhe foi útil (84b–c).
+- Sócrates não garante a doutrina ✓: "Most of the points I have made in support of my argument are not such as I can confidently assert"; defende só que procurar o que não se sabe "will make us better and braver and less helpless" (86b–c).
+
+#### 10.6. Conhecimento, opinião verdadeira e a estátua de Dédalo
+
+- Se a virtude é conhecimento, ela se ensina ✓ (87c). A coragem sem prudência é "only a sort of boldness" (88b).
+- Não há mestres de virtude, logo ela não se ensina ✓ (96c).
+- O caminho para Larissa ✓: quem tem opinião verdadeira guia tão bem quanto quem sabe (97a–c). As estátuas de Dédalo fogem se não forem amarradas, e as opiniões verdadeiras também, "until one makes them fast with causal reasoning" (98a, αἰτίας λογισμῷ).
+
+#### 10.7. O fim do diálogo
+
+- Sócrates ✓: "virtue is found to be neither natural nor taught, but is imparted to us by a divine dispensation without understanding in those who receive it" (99e, θείᾳ μοίρᾳ).
+- E adia ✓: "the certainty of this we shall only know when, before asking in what way virtue comes to mankind, we set about inquiring what virtue is, in and by itself" (100b).
 
 ## Notas extraídas
 
