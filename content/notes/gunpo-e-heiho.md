@@ -13,7 +13,7 @@ sources:
     kind: paper
 ---
 
-Tōdō Yoshiaki e Murata Naoki ([武道学研究, 2007](https://www.jstage.jst.go.jp/article/budo1968/40/1/40_1/_pdf)) leem o 『兵法秘伝書』, texto sobre o 兵法 da escola Kōshū (甲州流), de composição sem data e impresso em 1701. Citam pelo livro 元立之巻, artigos 14 e 3. No texto, 軍法 (*gunpō*) e 兵法 (*heihō*) são coisas distintas. 軍法 cuida da estratégia, como a tomada de castelos (城取り). 兵法 é o combate:
+Tōdō Yoshiaki e Murata Naoki ([武道学研究, 2007](https://www.jstage.jst.go.jp/article/budo1968/40/1/40_1/_pdf); [webclip](/notes/study-of-how-names-used-for-training-methods-in-budo-changed)) leem o 『兵法秘伝書』, texto sobre o 兵法 da escola Kōshū (甲州流), de composição sem data e impresso em 1701. Citam pelo livro 元立之巻, artigos 14 e 3. No texto, 軍法 (*gunpō*) e 兵法 (*heihō*) são coisas distintas. 軍法 cuida da estratégia, como a tomada de castelos (城取り). 兵法 é o combate:
 
 > 遠を射て落し、近を切て落し、猶近には組て勝負を決するを云
 
