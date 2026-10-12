@@ -18,7 +18,7 @@ toc: true
 ## Estado
 
 - **Em foco**: direção 1, origem e histórico, fechada no que é possível sem Fujiwara (1993) e sem o 『茶道古典全集』 vol. 10. Revisão de 2026-10-05 corrigiu o rascunho anterior: o termo vem de 兵法 e entra no chá pelo *Chawa-shō*; Fuhaku não o cunha; o poema de Rikyū é provavelmente posterior. Agora: rastrear a origem nos textos militares. *Kōyō Gunkan* descartado (busca no texto integral); textos mais antigos encontrados (apêndice de Joshinsai, *Fuhaku Hikki*, Chiba) tratam o termo como herdado. 伝書 de esgrima também descartados (busca por script em 武術叢書, 剣道集義 e manuscritos do Ittō-ryū). 兵学 Kōshū, Yamaga e Hōjō também descartados; Fujiwara (1993) lido pelos trechos da NDL, sem rastreio filológico. O 日本国語大辞典 (2001) também tem o 『茶話抄』 como único 用例. Direção 1 encerrada em 2026-10-08 até surgirem fontes novas; fonte militar anterior a 1750 segue `?` (restam só manuscritos não digitalizados). Texto em andamento iniciado com a busca pela origem.
-- **Próximo**: (a) fichamentos em PT-BR, com citação conferida na imagem da NDL, de três fontes de domínio público: apêndice de Joshinsai em 『茶禅一味』 (NDL 823364, confere o OCR), manuscrito de Chiba (NDL 2538984) e 『武道教範』 (NDL 1086788); imagens lidas em 2026-10-11, notas em preparo; (b) webclip do artigo de Tōdō e Murata (2007, J-STAGE), em preparo. Direção 2c fechada em 2026-10-11: cadeia Kuroda (1974?) → *Sempo* (1994) → Fox → Cockburn → Fowler; restam o original de 1974, o número do *Sempo* de 1994 e a página de Liker e Convis. Depois, direções 3 e 4 (pesquisa científica e teóricos da pedagogia), e por fim 5 (domínios e fases do Ving Tsun).
+- **Próximo**: fichamentos das três fontes da NDL e webclip de Tōdō e Murata feitos em 2026-10-11 (ver Notas extraídas). Direção 2c fechada em 2026-10-11: cadeia Kuroda (1974?) → *Sempo* (1994) → Fox → Cockburn → Fowler; restam o original de 1974, o número do *Sempo* de 1994 e a página de Liker e Convis. Depois, direções 3 e 4 (pesquisa científica e teóricos da pedagogia), e por fim 5 (domínios e fases do Ving Tsun).
 - **Dossiê de voz**: v3, sincronizado em 2026-10-11 (link em fontes-privadas/voz/sau-po-lei/README.md)
 - Pesquisa-irmã: [Apresentando Cham Kiu](/research/apresentando-cham-kiu), onde Sau Po Lei entrou como leitura dos três domínios iniciais e ficou registrada a falta de fonte para a origem da doutrina. Esta pesquisa resolve essa pendência.
 
@@ -185,6 +185,10 @@ Webclips (em inglês, clipping com tradução automática e original japonês):
 - [jo-ha-kyu](/notes/jo-ha-kyu) — 序破急 da música da corte ao Nō: 『楽家録』, renga, Zeami e Kan'ami, 『三道』, jōruri.
 - [shu-ha-ri-nao-e-de-zeami](/notes/shu-ha-ri-nao-e-de-zeami) — o índice dos tratados de Zeami não tem 守破離; Yuasa, Kumakura e Matsuoka/Minamoto como caminhos da atribuição.
 - [gunpo-e-heiho](/notes/gunpo-e-heiho) — 軍法 (estratégia) × 兵法 (arco, espada, luta agarrada) no 『兵法秘伝書』 da escola Kōshū, via Tōdō e Murata (2007).
+- [shu-ha-ri-no-apendice-do-chawa-sho](/notes/shu-ha-ri-no-apendice-do-chawa-sho) — fichamento do apêndice de Joshinsai em 『茶禅一味』: 守株待兎, 見風使帆, 應無所住而生其心.
+- [shu-ha-ri-em-chiba-shusaku](/notes/shu-ha-ri-em-chiba-shusaku) — fichamento do manuscrito de Chiba: os oito graus da linha Nakanishi reduzidos a três, 守敗離 (o copista escreve 守敗理, corrigido em vermelho).
+- [shu-ha-ri-no-budo-kyohan](/notes/shu-ha-ri-no-budo-kyohan) — fichamento do 『武道教範』 (訂3版, 1895): o 離 como 天眞爛熳, o mesmo termo do objetivo da escola; 他流崇拜 entre os vícios.
+- [study-of-how-names-used-for-training-methods-in-budo-changed](/notes/study-of-how-names-used-for-training-methods-in-budo-changed) — webclip de Tōdō e Murata (2007), 稽古 → 練習.
 
 ## Imagens
 
