@@ -22,7 +22,7 @@ toc: true
 - **Em foco**: direção 3 (pesquisa científica), fechada em 2026-10-12: nenhum estudo valida os três estágios; dois experimentos invertem a ordem dentro do 守 (kendō, judô), uma crítica (Bayer 2025), uma rubrica sem validação e comparações teóricas. Ficam `?` os textos de Warner (2025), Donohue (2005), Herbert (2025) e o trecho de Friday (1997).
 - **Fechadas**: direção 1 (origem e histórico) em 2026-10-08: o termo vem de 兵法 e entra no chá pelo *Chawa-shō*; Fuhaku não o cunha; *Kōyō Gunkan*, 伝書 de esgrima e 兵学 digitalizado descartados por busca em texto integral; fonte militar anterior a 1750 segue `?`. Direção 2 (uso, de 1884 até hoje) em 2026-10-12; pendências de terceiros: partes HA e RI de Kuroda e o *Sempo* de 1994, pedidos ao JASC Legacy Center em 2026-10-12. Direção 4 (teóricos da pedagogia) em 2026-10-12, no que é possível sem os livros de Ikuta (1987/2007) e de Nishihira (2019 e 2025).
 - **Próximo**: direção 5 (domínios e fases do Ving Tsun). Redigir "Como é usado?" no Texto em andamento com a cadeia de entrada no Ocidente e os achados da direção 2 (decisão do autor, 2026-10-12). Leitura que atravessa as direções 1 e 4: Nishihira, 『守破離の思想』 (Iwanami, 2025).
-- **Dossiê de voz**: v3, sincronizado em 2026-10-11 (link em fontes-privadas/voz/sau-po-lei/README.md)
+- **Dossiê de voz**: v4, sincronizado em 2026-10-13 (link em fontes-privadas/voz/sau-po-lei/README.md)
 - Pesquisa-irmã: [Apresentando Cham Kiu](/research/apresentando-cham-kiu), onde Sau Po Lei entrou como leitura dos três domínios iniciais e ficou registrada a falta de fonte para a origem da doutrina. Esta pesquisa resolve essa pendência.
 
 ## Motivação
