@@ -1,0 +1,236 @@
+---
+url: "http://www.openculture.com/smartyoutube"
+captured_at: "2013-09-18T10:37:34-03:00"
+title: "Intelligent YouTube Channels | Open Culture"
+domain: "openculture-com"
+---
+
+# [Intelligent YouTube Channels](http://www.openculture.com/smartyoutube "Permanent Link to Intelligent YouTube Channels")
+
+*Below, we have gathered together some of the most intelligent video collections on YouTube**.** A great place to find culturally enriching video…*
+
+**General**
+
+- **[@GoogleTalks](http://youtube.com/profile?user=AtGoogleTalks)** 
+  - Google has lots of famous visitors speaking at its headquarters, and they’re all recorded and neatly presented here**.**
+- **[Al Jazeera English](http://www.youtube.com/aljazeeraenglish)** 
+  - The Middle Eastern news service, which has generated its share of controversy, now airs broadcasts in English and presents them here**.**
+- **[American Museum of Natural History](http://www.youtube.com/user/AMNHorg)** 
+  - Includes the excellent [“Known Universe” video](http://www.youtube.com/watch?v=17jymDn0W6U) **.**
+- **[Artists Space](http://www.youtube.com/user/ArtistsSpace)** 
+  - Artists Space supports contemporary artists working in the visual arts, video and electronic media, performance, architecture and design, and it promotes artistic experimentation and dialog in contemporary culture**.**
+- **[Aspen Institute](http://www.youtube.com/user/AspenInstitute)** 
+  - An international nonprofit organization dedicated to fostering enlightened leadership and open-minded dialogue**.**
+- **[Bad Astronomy](http://www.youtube.com/user/TheBadAstronomer)** 
+  - Bad Astronomy is devoted to debunking myths and misconceptions about astronomy, and also to slap down without apology bad thinking in all its forms.
+- **[Big Think](http://youtube.com/bigthink)** 
+  - This collection brings you videos featuring some of today’s leading thinkers, movers and shakers**.**
+- **[Bob Dylan TV](http://www.youtube.com/user/BobDylanTV)** 
+  - The official YouTube Channel for Bob Dylan**.** Features some good vintage clips, even though it has a commercial angle**.**
+- **[British Film Institute National Archive](http://www.youtube.com/user/BFIfilms)** 
+  - The BFI (British Film Institute) promotes understanding and appreciation of Britain’s rich film and television heritage and culture**.** And it claims to have the “world’s largest and most diverse film and TV archive**.**”
+
+- **[Brooklyn Museum](http://youtube.com/user/BrooklynMuseum)** 
+  - A fairly rich lineup of videos exploring the collections at Brooklyn’s main art museum**.**
+- **[Canal Educatif](http://www.youtube.com/user/canaleducatif)** 
+  - CED is a philanthropic producer of free high-quality educational videos in the domains of arts, economics and science**.**
+- **[Charlie Rose](http://www.youtube.com/user/CharlieRose)** 
+  - PBS interviewer Charlie Rose presents segments of his nightly interviews**.**
+- **[Cinetic](http://www.youtube.com/user/cinetic)** 
+  - Cinetic brings audiences the latest, greatest and classic festival favorites from around the globe**.** From award-winners by veteran filmmakers to up-and-coming talent telling new stories, Cinetic prides itself on being at the forefront of quality indie film in the digital space**.**
+- **[Citizen Tube](http://youtube.com/user/citizentube)** 
+  - YouTube’s own channel presents videos dealing with the American political process and the 2008 election**.**
+- **[Computer History Museum](http://www.youtube.com/profile?user=ComputerHistory)** 
+  - A good number of videos that delve into computers, networking, and semiconductors**.**
+- **[Council on Foreign Relations](http://youtube.com/user/CFRNews)** 
+  - A resource designed to provide insight into the complex international issues challenging policymakers and citizens alike**.**
+- **[CSPAN](http://www.youtube.com/user/CSPAN)** 
+  - Videos that keep a close eye on the inner-workings of the American political process**.**
+- **[Edutopia](http://www.youtube.com/edutopia)** 
+  - Offers inspiration and information for what works in education**.** Edutopia is run by The George Lucas Educational Foundation**.**
+- **[FORA**.**tv](http://www.youtube.com/profile?user=ForaTv)** 
+  - Delivers video presentations from the world’s great writers, leaders, activists and thinkers**.**
+- **[Guardian Unlimited TV](http://uk.youtube.com/user/GuardianUnlimitedTV)** 
+  - The Guardian brings you videos that make the television world its focus**.**
+- **[Gizmodo](http://youtube.com/user/gizmodo)** 
+  - A video collection from one of the most popular [technology web sites](http://gizmodo.com/) **.**
+- **[Google Tech Talks](http://youtube.com/user/googletechtalks)** 
+  - The name kind of says it all**.**
+- **[Harvard University Press](http://www.youtube.com/user/harvardupress)** 
+  - HUP, a major publisher of non-fiction, scholarly, and general interest books, brings you videos with new authors**.**
+- **[Intelligence Squared](http://www.youtube.com/user/iqsquared)** 
+  - Brings Oxford-style debating to America**.** Each debate features one motion, one moderator, and three panelists arguing for a motion, and three arguing against**.**
+- **[Intelligent Channel](http://www.youtube.com/user/IntelligentChannel)** 
+  - A new destination for intelligent conversations & documentaries – with leaders from the worlds of entertainment and education**.**
+- **[JFK Library](http://www.youtube.com/user/JFKLF#p/c/B1292B9C66506E8C)**
+  - The JFK Library houses vintage video of America’s 35th president**.**
+- **[Khan Academy](http://www.youtube.com/user/khanacademy)** 
+  - This channel features over 800 videos that will teach students the ins and outs of algebra, geometry, trigonometry, calculus, statistics, finance, physics, economics and more**.** The clips have been recorded by Salman Khan.
+- **[KQED on Demand- San Francisco](http://youtube.com/user/KQEDondemand)** 
+  - Media provided by the public broadcasting company in the San Francisco Bay Area**.** I drink at this well daily.
+- **[MoMA](http://youtube.com/user/MoMAvideos)** 
+  - Videos highlighting the art collection, public programs, and temporary exhibitions at The Museum of Modern Art in New York City**.**
+- **[Monty Python Channel](http://www.youtube.com/MontyPython)** 
+  - Their videos have been circulating around YouTube for a while**.** Now, the comedians have their own channel**.** A good place to have a laugh.
+- **[National Geographic](http://youtube.com/user/NationalGeographic)** 
+  - The collection is rich, but the videos are short**.** Another instance where the provider could use the medium to offer more substance/depth**.**
+- **[New Scientist**.**](http://uk.youtube.com/user/newscientistvideo)** 
+  - Videos and vodcasts covering science, technology, space, the environment and a whole lot more**.** An international team of expert journalists brings you the latest innovations and ideas in science and technology, from the wonderful to the worrying to the weird**.**
+- **[NFB](http://www.youtube.com/user/nfb)** 
+  - The National Film Board of Canada hosts short films from its larger collection hosted at NFB**.**CA
+- **[NOVA](http://youtube.com/user/NOVAonline)** 
+  - Short video outtakes from PBS’s popular science program**.**
+- **[Oscar’s Channel](http://www.youtube.com/user/Oscars)** 
+  - The official channel of the Academy of Motion Picture Arts and Sciences is the only place to relive favorite Oscar® moments and see exclusive interviews with the talented film professionals who comprise the Academy membership**.** Includes some good vintage clips.
+- **[Philip Scott Johnson](http://www.youtube.com/user/eggman913)** 
+  - Some great videos that put art in motion**.**
+- **[PoliticsTV](http://youtube.com/user/Politicstv)** 
+  - Political videos with a progressive bent**.**
+- **[Pulitzer Center on Crisis Reporting](http://youtube.com/profile?user=PulitzerCenter)** 
+  - The Pulitzer Center on Crisis Reporting’s mission is to promote in-depth coverage of international affairs, focusing on topics that have been under-reported, mis-reported – or not reported at all**.**
+- **[Reason TV](http://www.youtube.com/user/ReasonTV)** 
+  - Reason**.**tv is your source for the best libertarian videos on the Internet and the home of the Drew Carey Project, a series of documentary shorts hosted by Drew Carey**.**
+- **[ReelNASA](http://www.youtube.com/reelnasa)** 
+  - Videos show the latest happenings at NASA and new developments in space exploration**.**
+- **[Reuters Video](http://youtube.com/user/reutersvideo)** 
+  - The latest video from Reuters**.**
+- **[Richard Dawkins](http://www.youtube.com/user/richarddawkinsdotnet)** 
+  - The channel features talks by Richard Dawkins, the Oxford evolutionary biologist, as well as others influenced by his thought**.**
+- **[ScienCentral](http://www.youtube.com/user/sciencentral)** 
+  - ScienCentral, Inc**.** produces science and technology content for television, video, and the web**.** From broadcast news features to educational products, they cover the medical, environmental, and technological issues that affect daily life**.**
+- **[Sixty Symbols](http://www.youtube.com/user/sixtysymbols)** 
+  - Curious and quirky videos describing the various *symbols* used in physics and astronomy**.** Comes out of the University of Nottingham.
+- **[Slate](http://www.youtube.com/user/slatester)** 
+  - Video from Slate Magazine
+- **[Spoken Verse](http://www.youtube.com/user/SpokenVerse)** 
+  - [Roger Ebert calls it](http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090611/COMMENTARY/906129995)  one of the richest resources on YouTube**.** Spoken Verse offers over 400 readings of great poems in English, from Shakespeare to today**.**
+- **[Steve Spangler Science Show](http://www.youtube.com/user/Stevespanglerscience)** 
+  - Catch the videos produced by a teacher nationally known for making science fun**.**
+- **[Sundance](http://uk.youtube.com/user/sundancechannel)** 
+  - Provides video clips from original series and films airing on the Sundance Channel**.**
+- **[The Alcove](http://www.youtube.com/user/MarkMolaro)** 
+  - A program that features interviews with various influential thinkers**.**
+- **[The American Museum of Natural History](http://www.youtube.com/user/AMNHorg)** 
+  - This channel provides a rare glimpse into the Museum’s exhibitions, scientific research, public programs and educational endeavors**.** Videos presented by the Museum highlight its global mission to advance scientific discovery and increase understanding of nature and human cultures**.**
+- **[The Commonwealth Club (San Francisco)](http://youtube.com/user/commonwealthclub)** 
+  - Videos coming out of the nation’s oldest and largest public affairs forum, presenting topics ranging across politics, culture, and society**.**
+- **[The Commoncraft Show](http://www.youtube.com/user/leelefever)** 
+  - The Common Craft Show is a series of short explanatory videos by Lee and Sachi LeFever**.** The goal is to fight complexity with simple tools and plain language**.**
+- **[The Davos Question](http://youtube.com/user/thedavosquestion)** 
+  - Every year, global leaders attend the World Economic Forum in Davos, Switzerland to discuss how to better the world**.** Here you get to see what they have to say.
+- **[The Library of Congress](http://www.youtube.com/user/LibraryOfCongress)** 
+  - Timeless treasures and contemporary presentations from the Library of Congress in Washington, D.C. Features recordings dating from the earliest Edison films to the present**.**
+- **[The New York Times](http://youtube.com/user/thenewyorktimes)** 
+  - All the news that’s fit to stream**.**
+- **[The New Yorker](http://www.youtube.com/user/NewYorkerDotCom)** 
+  - The official video channel of The New Yorker magazine**.**
+- **[The Nobel Prize](http://www.youtube.com/profile?user=thenobelprize)** 
+  - Brings you fascinating insights into the minds of current and past Nobel Laureates**.**
+- **[The Onion News Network](http://uk.youtube.com/user/TheOnion?ob=1)** 
+  - A good dose of funny videos from The Onion**.** Good for when you need some comic relief.
+- **[The Periodic Table of Videos](http://www.youtube.com/user/periodicvideos)** 
+  - A nice university-sponsored project, this collection features a video about each element on the periodic table**.** A handy thing for chemistry students. Comes out of the University of Nottingham**.**
+- **[The Real News](http://youtube.com/user/TheRealNews)** 
+  - The Real News Network is a global online video news network that listens to and is dependent solely on its audience**.** No ads. No government subsidies. No corporate sponsorship**.**
+- **[The World Bank](http://youtube.com/user/WorldBank)** 
+  - Videos coming out of the institution whose goal is to rid the world of poverty**.**[**.**](http://www.openculture.com/)
+- **[The YouTube Screening Room](http://www.youtube.com/ytscreeningroom)** 
+  - Provided by YouTube itself, this collection presents high quality, independent films to web users and promises to roll out four new films every two weeks**.**
+- **[Thirteen WNET (PBS New Your)](http://www.youtube.com/user/ThirteenWNET)** 
+  - Features content from New York City’s flagship public television station**.**
+- **[THNKR](http://www.youtube.com/user/thnkrtv)** 
+  - Gives viewers extraordinary access to the people, places, stories, and ideas that are transforming our world**.**
+- **[YouTube EDU](http://www.youtube.com/education?b=400)** 
+  - YouTube hosts a section dedicated to academic videos**.** It’s a little bit of a mixed bag, but it features some quality videos**.**
+- **[YouTube Movies](http://www.youtube.com/movies?c=7&s=mvp&l=en)** 
+  - YouTube now hosts a series of complete studio movies on its site**.** Above, I’ve linked you directly to the documentary/biography section**.** But feel free to peruse the larger collection**.** You’ll find some good films there.
+- **[TED Talks](http://www.youtube.com/profile_videos?user=TEDtalksDirector&p=r)** 
+  - Generally engaging videos coming out of the annual TED conference**.** Features important thinkers from different walks of life**.**
+- **[TED x Talks](http://www.youtube.com/user/TEDxTalks)** 
+  - In the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience**.**
+- **[Travel Channel TV](http://youtube.com/user/TravelChannelTV)** 
+  - The Travel Channel brings you around the world on YouTube**.**
+- **[UCSF Memory & Aging Channel](http://www.youtube.com/UCSFMemoryandAging)** 
+  - UCSF, one of the leading medical schools in the US, features videos that will “educate patients, caregivers and health professionals about the various forms of neurodegenerative diseases**.**” The diseases covered here include Alzheimer’s, Frontotemporal dementia and Creutzfelt-Jakob
+- **[Vanity Fair Magazine](http://www.youtube.com/user/VanityFairMagazine)** 
+  - Videos from the magazine launched in 1913**.**
+- **[WNYC Radio](http://youtube.com/user/wnycradio)** 
+  - Videos provided by WNYC, New York Public Radio, the largest public radio station in the US**.**
+- **[World Economic Forum](http://youtube.com/user/WorldEconomicForum)** 
+  - The World Economic Forum is an independent international organization committed to improving the state of the world by engaging leaders in partnerships to shape global, regional and industry agendas**.**
+- **[Yad Vashem](http://youtube.com/user/YadVashem)** 
+  - Containing the world’s largest repository of information on the Holocaust, Yad Vashem is a leader in Holocaust education, commemoration, research and documentation**.**
+- **[92nd Street Y](http://youtube.com/user/92ndStreetY)** 
+  - Pretty much anyone and everyone on the cultural radar passes through the 92nd Y in NYC**.**
+
+**Universities**
+
+**Spotlighted Collections**
+
+- **[YouTube EDU](http://www.youtube.com/edu)** 
+  - YouTube got a lot more intelligent when it launched YouTube EDU, a section of the site that centralizes all of its educational/academic content**.** This is the best place to start if you’re looking for lectures and courses**.**
+- **[University of California – Berkeley](http://www.youtube.com/ucberkeley)** 
+  - Arguably the most substantive YouTube collection out there**.** Features a large number of free courses, plus numerous lectures given by important figures**.**
+- **[Cambridge University](http://www.youtube.com/user/CambridgeUniversity)** 
+  - 800 years and now going digital**.**
+- **[Harvard University](http://www.youtube.com/harvard#play/all)**
+  - Harvard was late to the Web 2**.**0 party, but they finally have their channel up on YouTube, and it contains some worthwhile content, including [Michael Sandel’s famous course on Justice](http://www.openculture.com/2009/09/whats_the_right_thing_to_do_popular_harvard_course_now_online.html) **.**
+- **[Indian Institute of Technology/Indian Institute of Science](http://www.youtube.com/user/nptelhrd)** 
+  - Presented by the leading technology institutes in India, this collection features more than 50 free courses**.** Obviously has a strong technology/engineering bent**.**
+- **[MIT (Massachusetts Institute of Technology)](http://youtube.com/mit)** 
+  - Makes available many of the videos produced as part of MIT’s leading [OpenCourseWare](http://ocw.mit.edu/OcwWeb/web/home/home/index.htm)  initiative**.**
+- **[Stanford University](http://youtube.com/stanforduniversity)** 
+  - Newly launched, the collection already features a couple hundred videos, including several free courses**.**
+- **[Yale Courses](http://www.youtube.com/user/YaleCourses)** 
+  - This site features upward to 40 free courses artfully recorded by Yale University**.** You can otherwise find these courses, and more, in our collection of Free Online Courses**.**
+
+**Other University Collections**
+
+- **[Berkman Center for Internet and Society at Harvard Law School](http://youtube.com/user/BerkmanCenter)** 
+  - The videos hosted here look at how the digital world and the law intersect**.**
+- **[Carnegie Mellon](http://www.youtube.com/user/carnegiemellonu)** 
+  - Among other things, this collection features the highly popular video: [Randy Pausch’s Last Lecture: Achieving Your Childhood Dreams](http://www.youtube.com/watch?v=ji5_MqicxSo&feature=PlayList&p=BCD362F95A724D1E&index=4) **.**
+- **[Columbia University](http://www.youtube.com/user/columbiauniversity)** 
+  - One of NYC’s finest**.**
+- **[Duke University](http://www.youtube.com/profile?user=DukeUniversityNews)** 
+  - Individual videos explore the research coming out of one of America’s leading universities**.**
+- **[Duke’s Fuqua School of Business](http://youtube.com/user/FuquaSchOfBusiness)** 
+  - Similar to Duke’s main collection, but focused on business**.**
+- **[Emory University](http://www.youtube.com/user/EmoryUniversity)** 
+  - One of the finest universities in the South of the US**.**
+- **[EGS (The European Graduate School)](http://www.youtube.com/user/egsvideo)** 
+  - This European collection features important, contemporary theorists, philosophers, and filmmakers**.**
+- **[Harvard’s Bok Center](http://uk.youtube.com/profile?user=BokCenter)** 
+  - A small collection focused on pedagogy**.**
+- **[Harvard Magazine](http://www.youtube.com/user/HarvardMagazine)** 
+  - Features clips from Harvard Magazine, a bimonthly magazine that balances intellectual substance with human interest stories
+- **[Old Dominion](http://www.youtube.com/profile?user=odu)** 
+  - A little bit of a hodgepodge but there’s some interesting items in the mix**.**
+- **[Ohio State](http://youtube.com/osu)** 
+  - So far not an overwhelming use of the medium**.**
+- **[Oxford University – Saïd Business School](http://youtube.com/profile?user=OxfordSBS)** 
+  - Rather internally focused**.** Not much in the way of educational content per se. But let’s keep our fingers crossed that it eventually offers more**.**
+- **[Purdue University](http://youtube.com/purdue)** 
+  - Again something of a hodgepodge**.** Wheat and chaff.
+- **[Princeton University](http://www.youtube.com/user/princetonuniversity)** 
+  - Ever heard of it**?**
+- **[Sonoma State](http://www.youtube.com/user/CSUSonoma)** 
+  - A more intellectually robust collection that features a fair amount of notable lectures**.**
+- **[The Open University](http://www.youtube.com/ou)** 
+  - The Open University (OU) is the United Kingdom’s only university dedicated to distance learning**.** Some of the more educational videos can be[found here](http://www.youtube.com/view_play_list?p=6842E25B09E1CFD5) **.**
+- **[Tulane University](http://www.youtube.com/user/tulane)** 
+  - You can access some of the speeches by esteemed guest speakers [here](http://www.youtube.com/view_play_list?p=667AAFC189A64CE0) **.**
+- **[University of Arizona](http://youtube.com/arizona)** 
+  - You can sort through a good number of talks [here](http://youtube.com/profile_videos?p=r&user=arizona&page=5) **.**
+- **[UCLA](http://www.youtube.com/ucla)** 
+  - Along with Berkeley, this is the other flagship public university in California**.**
+- **[University of California TV](http://youtube.com/user/uctelevision)** 
+  - UCTV pulls together videos from the campuses, national laboratories, and affiliated institutions of the University of California**.**
+- **[University of Chicago Press](http://www.youtube.com/user/ucbooks)** 
+  - Though still modest in size, the collection features some interesting items.
+- **[University of North Carolina – Chapel Hill](http://youtube.com/user/UNCChapelHill)** 
+  - The collection is substantive on the whole**.** You will need to sift through the videos to find ones of interest**.**
+- **[USC (University of Southern California)](http://www.youtube.com/usc)** 
+  - Get lectures [here](http://www.youtube.com/usclectures) , and arts content [here](http://www.youtube.com/uscarts) **.**
+
+[Subscribe to Our Feed](http://feeds.feedburner.com/OpenCulture)

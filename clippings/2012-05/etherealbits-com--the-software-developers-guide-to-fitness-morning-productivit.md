@@ -1,0 +1,32 @@
+---
+url: "http://www.etherealbits.com/?p=68"
+captured_at: "2012-05-28T10:53:29-03:00"
+title: "The Software Developer’s Guide to Fitness & Morning Productivity | Ethereal Bits"
+domain: "etherealbits-com"
+---
+
+**The Software Developer’s Guide to Fitness & Morning Productivity**
+
+If you’re a software developer (or frankly, if you spend a large portion of your day sitting in a chair in front of a computer) you will be more productive if you find a way to incorporate a workout into your daily routine. I literally believe that if you’re working 8 hour days today, you will get more done working 7 hours and squeezing in a 30-40 minutes of physical exercise. I believe this because a couple months ago my family and I moved into the city a few blocks from where I work, and I traded long commutes sitting in traffic for some relaxing morning time with the family and a quick work out in the mornings at the fitness center down the hall. The value of living close to work and having a bit of relaxing time in the morning is probably fairly self explanatory, but for now I want to focus on why I’ve found exercising to be so valuable. I also want to call out a few things that I’ve learned in the process that I hope may make your life easier if you aren’t exercising regularly and decide at some point that you want to incorporate a work out into your day. I don’t claim to be a personal trainer or any kind of fitness expert (although I’ve consulted a few while putting together a program that’s effective and gets me in and out of the gym quickly). Don’t treat this post as a replacement for good advice from qualified health and fitness professionals; think of it as one computer geek sharing some practical tips with his fellow geeks about a particular way to get in shape and increase productivity.
+
+**Benefits of Exercise**
+
+From a pure productivity perspective, the biggest benefit to exercising for me is specific to working out in the morning. Rather than getting to the office feeling like I needed another two hours of sleep and only 4 cups coffee will get me through the day, I show up feeling awake and ready to start knocking off tasks in my queue. Because many of the folks on my teams tend to show up at 10 or 11 and work late my schedule is generally meeting free in the morning, which also makes it the most valuable time to be productive.
+
+I don’t have evidence to support this, but anecdotally I have observed a link between fitness and career success. That’s not to say that you can’t have one without the other, but I believe that you have a better shot of being successful in your career if you work out on a regular basis. Working out [makes](http://www.mayoclinic.com/health/exercise/HQ01676)[you](http://www.briancalkins.com/career.htm) feel good, boosts your energy levels, helps strengthen your core muscles so that you’re comfortable sitting in a chair all day, gives you confidence, and perhaps most importantly gets you in a habit of setting goals and achieving them over long periods of time. When you’re jumping between jobs, there’s also evidence to suggest that interviewers make a hire/no hire decision that is extremely tough to overturn in the first [15 seconds](http://www.kellyservices.com/web/us/services/en/pages/careettips_july09_15seconds.html) of the interview process and whether you like it or not that first impression includes what you look like.
+
+**When to Exercise**
+
+Some people believe that working out in the morning [boosts](http://www.livestrong.com/article/287708-does-working-out-in-the-morning-speed-up-metabolism/) your metabolism throughout the rest of the day, but the limited research that I’ve seen seems to suggest that regardless of when you work out you get a short metabolism boost that goes away in a set amount of time. I’ve touched on why I find working out in the morning to be especially beneficial, but I would recommend working out at a time where you know you can be consistent; if you try to vary your workout daily according to your schedule you’re going to be way more likely to skip it. If the only way that you can be consistent is to take a quick [jog](http://www.businessweek.com/articles/2012-03-29/the-shameful-beneficial-midday-workout) on a treadmill in a 3 piece suit at lunch, do that… and do it consistently.
+
+**How to Excercise**
+
+Map out a routine that’s short and sweet, and ideally one that you enjoy. Get your heart rate up to your [target zone](http://www.mayoclinic.com/health/target-heart-rate/SM00083) and try to keep it up for 20-30 minutes. Pick a few exercises and do them in circuits with little or no rest between exercises (and a short rest between sets), at high intensity. Lean towards workouts that work large groups of muscles, for example doing push ups (or better yet, burpees) instead of bench press.
+
+Personally I run between 1-2 miles and then pick 3 different exercises and do them in a circuit. I split the exercises into upper body, lower body, and core. I try to make sure that I hit each big muscle group at least once per week. It gets me in and out of the apartment gym in around a half hour, and I’ve found it to be effective. If you’re having trouble figuring out what exercises you should incorporate into your workout, chat with a trainer or check out one of the apps (there are several Crossfit WOD specific ones if you want to go that route) that are available on any phone.
+
+**How to Eat**
+
+One of the first things that I noticed when I started working out was that after my morning burst of energy I would start getting tired right before lunch. I figured out that eating protein in the morning helped, so I ordered a big tub of [whey protein](http://www.amazon.com/gp/product/B0015AQL1Q/ref=as_li_ss_tl?ie=UTF8&amp;tag=strotypeluna-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0015AQL1Q) and started making a quick fruit/protein shake with some yogurt/milk every morning. Remember that your body needs protein to [rebuild](http://www.livestrong.com/article/532273-does-protein-help-rebuild-muscle-tears/) muscles after a workout, and if you’re like me you’re probably not in the habit of eating enough protein to start your day. Protein provides energy for a longer period of time than fat or carbs, so you’ll be getting fuel from your morning snack for longer.
+
+Hope you find this helpful, and if you figure out any workout tips of your own as you get going please do share!
