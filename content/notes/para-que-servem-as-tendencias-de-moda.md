@@ -31,3 +31,10 @@ A função das tendências aparece em dois planos: responder esteticamente aos a
 - O texto critica consumidores que seguem marcas e estilos pela autoridade de quem fala, e não pelo conteúdo da mensagem.
 - Também aponta que muitos estilistas olham apenas para outros estilistas, quando deveriam olhar para a sociedade.
 - Grandes criações e transformações dependem de pensar a sociedade como alvo principal.
+
+## Relacionadas
+
+- [Camisa Pólo: elegante ou coxinha?](/notes/camisa-polo-elegante-ou-coxinha/)
+- [Como saber se estou bem vestido? | A qualidade significativa](/notes/como-saber-se-estou-bem-vestido-a-qualidade-significativa/)
+- [A vibe recruta antes do argumento](/notes/zeitgeist-vibes-antes-do-argumento/)
+- [A verdade sobre a moda e os homens gordos | Minha roupa diz #6](/notes/a-verdade-sobre-a-moda-e-os-homens-gordos/)

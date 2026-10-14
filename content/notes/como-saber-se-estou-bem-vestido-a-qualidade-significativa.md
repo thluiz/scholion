@@ -29,3 +29,14 @@ A página diz que a roupa deve ser avaliada por um viés racional e lógico, a p
 - O texto usa a igreja e o casamento para mostrar que a escolha da roupa depende do local, da temporalidade e das características valorizadas ali.
 - A solução não está em decorar regras fixas de etiqueta, mas em ler o que cada peça comunica por cor, modelagem e significado histórico.
 - Guias de estilo e listas de certo e errado podem ajudar, mas o ponto central é observar os signos e formas valorizados na profissão e no meio social.
+
+## Relacionadas
+
+- [A qualidade física: 40 dicas ilustradas para facilitar na hora do vestir](/notes/a-qualidade-fisica-40-dicas-ilustradas-para-facilitar-na-hor/)
+- [Para que servem as tendências de moda?](/notes/para-que-servem-as-tendencias-de-moda/)
+- [É possível trabalhar de bermuda? | Minha roupa diz #7](/notes/e-possivel-trabalhar-de-bermuda-minha-roupa-diz-7/)
+- [A verdade sobre a moda e os homens gordos | Minha roupa diz #6](/notes/a-verdade-sobre-a-moda-e-os-homens-gordos/)
+- [Camisa Pólo: elegante ou coxinha?](/notes/camisa-polo-elegante-ou-coxinha/)
+- [Camiseta, camisa polo, camisa social etc.: um guia para nunca mais errar](/notes/camiseta-camisa-polo-camisa-social-guia-de-uso/)
+- [Como transmitir credibilidade nas reuniões online a partir da sua imagem](/notes/como-transmitir-credibilidade-nas-reunioes-online-a-partir-d/)
+- [29 coisas a se saber sobre suas roupas e seu estilo: dicas ilustradas](/notes/29-coisas-a-se-saber-sobre-suas-roupas-e-seu-estilo/)

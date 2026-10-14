@@ -59,3 +59,12 @@ A página reúne 40 dicas ilustradas para ajudar na hora de se vestir. A ideia c
 - Moletom com camisa pode funcionar se o moletom for liso e mais ajustado.
 - Camisa de manga curta pode ir bem em looks casuais ou formais se a manga ficar ajustada ao braço.
 - Quem usa roupa diferente do habitual e recebe piada não deve retrucar; a resposta sugerida é ignorar.
+
+## Relacionadas
+
+- [Como saber se estou bem vestido? | A qualidade significativa](/notes/como-saber-se-estou-bem-vestido-a-qualidade-significativa/)
+- [A verdade sobre a moda e os homens gordos | Minha roupa diz #6](/notes/a-verdade-sobre-a-moda-e-os-homens-gordos/)
+- [É possível trabalhar de bermuda? | Minha roupa diz #7](/notes/e-possivel-trabalhar-de-bermuda-minha-roupa-diz-7/)
+- [Camiseta, camisa polo, camisa social etc.: um guia para nunca mais errar](/notes/camiseta-camisa-polo-camisa-social-guia-de-uso/)
+- [29 coisas a se saber sobre suas roupas e seu estilo: dicas ilustradas](/notes/29-coisas-a-se-saber-sobre-suas-roupas-e-seu-estilo/)
+- [Como escolher seus óculos de acordo com o formato do seu rosto](/notes/como-escolher-oculos-por-formato-do-rosto/)
