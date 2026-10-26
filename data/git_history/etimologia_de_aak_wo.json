@@ -1,10 +1,14 @@
 [
   {
-    "date": "2026-04-23",
-    "subject": "feat: categorias etymology (📜) e disciple (🙇) para notas de etimologia e discípulos"
+    "date": "2026-10-26",
+    "subject": "update"
   },
   {
-    "date": "2026-04-22",
-    "subject": "feat: etimologia de 握 (Aak — Wò / aak1)"
+    "date": "2026-10-03",
+    "subject": "notes: unificar etimologia de 握 em etimologia-de-ak-wo-63e1 (alias do slug antigo)"
+  },
+  {
+    "date": "2026-04-23",
+    "subject": "feat: categorias etymology (📜) e disciple (🙇) para notas de etimologia e discípulos"
   }
 ]

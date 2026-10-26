@@ -1,10 +1,14 @@
 [
   {
-    "date": "2026-04-23",
-    "subject": "feat: categorias etymology (📜) e disciple (🙇) para notas de etimologia e discípulos"
+    "date": "2026-10-26",
+    "subject": "update"
   },
   {
-    "date": "2026-04-22",
-    "subject": "note: etimologia de 山 (Shan — Shān / saan1)"
+    "date": "2026-10-03",
+    "subject": "notes: unificar etimologia de 山 em etimologia-de-saan-shan-5c71 (alias do slug antigo, links atualizados)"
+  },
+  {
+    "date": "2026-04-23",
+    "subject": "feat: categorias etymology (📜) e disciple (🙇) para notas de etimologia e discípulos"
   }
 ]
