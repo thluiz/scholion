@@ -7,8 +7,8 @@ tags: ["phoenix", "channels", "pubsub", "socket-params"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
-  - title: "[elixir-talk:8579] How to work with multiple Channels in Phoenix? - th.luiz@gmail.com - Gmail"
-    url: "https://mail.google.com/mail/u/0/?pli=1#label/Listas%2F05+-+Principais/14d7eb385171ca3a"
+  - title: "How to work with multiple Channels in Phoenix? (elixir-lang-talk)"
+    url: "https://groups.google.com/d/msgid/elixir-lang-talk/CAGnRm4Kzs%3Dn_FkrGYDLRTQhKypix2ebL%2B0Y3wX5KFP2bLb%3D-Qw%40mail.gmail.com"
     kind: article
   - title: "Raw clipping (archived copy)"
     url: "https://github.com/thluiz/scholion/blob/main/clippings/2015-05/mail-google-com--how-to-work-with-multiple-channels-in-phoenix.md"

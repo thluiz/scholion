@@ -1,15 +1,13 @@
 ---
-url: "https://mail.google.com/mail/u/0/?pli=1#label/Listas%2F05+-+Principais/14d7eb385171ca3a"
+url: "https://groups.google.com/d/msgid/elixir-lang-talk/CAGnRm4Kzs%3Dn_FkrGYDLRTQhKypix2ebL%2B0Y3wX5KFP2bLb%3D-Qw%40mail.gmail.com"
 captured_at: "2015-05-25T08:56:39-03:00"
-title: "[elixir-talk:8579] How to work with multiple Channels in Phoenix? - th.luiz@gmail.com - Gmail"
+title: "How to work with multiple Channels in Phoenix? (elixir-lang-talk)"
 domain: "mail-google-com"
 ---
 
 [elixir-talk:8579] How to work with multiple Channels in Phoenix?
 
-Participantes: ivan.inmm@gmail.com, elixir-lang-talk@googlegroups.com, jose.valim@plataformatec.com.br, phoenix-talk@googlegroups.com, chris@chrismccord.com, spyromus@gmail.com
 
-[Abrir conversação no Gmail](https://mail.google.com/mail/u/0/?pli=1#label/Listas%2F05+-+Principais/14d7eb385171ca3a)
 
 Ivan MirandaFri, May 22, 2015 at 11:56 PM
 
