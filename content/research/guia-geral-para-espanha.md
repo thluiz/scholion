@@ -19,7 +19,7 @@ toc: true
 ## Estado
 
 - **Em foco — Direção 1 (marcos históricos) ✓**: linha completa dos povos pré-romanos à Transição, verificada contra fontes primárias. Rodada recente acrescentou a formação e independência de Portugal (1065-1179, com o precedente fracassado da Galiza), a crise de 1383-85/Aljubarrota, e a União Ibérica/Guerra da Restauração (1578-1668) — fechando com síntese comparativa própria (⚠): Portugal não "se separou" enquanto os outros ficaram unidos; Portugal venceu duas guerras de separação (1385, 1640-1668) sempre com aliado externo, enquanto Aragão/Catalunha/Valência (1707-1716) e Navarra/País Basco (1839-1876) perderam fueros por apoiar o lado perdedor em guerras sobre quem mandaria numa Espanha unida, não por perder guerras de separação.
-- **Direção 2 (comunidades autônomas) ✓**: perfis práticos das seis principais mais nota rasa das outras onze. Rodada recente acrescentou história separatista/nacionalista por comunidade: Catalunha (Renaixença → Lliga Regionalista/Prat de la Riba → Mancomunitat 1914-25 → crise 2010-2021), País Basco (PNV/Sabino Arana 1895 vs. ETA 1959-2018, distinção institucional x armado), Galícia (Irmandades da Fala 1916, Partido Galeguista 1931), Comunidade Valenciana (Batalha de Valencia/blaverismo — conflito de identidade, não separatismo), Canárias (MPAIAC 1964-1979, único achado relevante entre as onze menores). Dez comunidades sem achado de peso nesta busca; Navarra já coberta via eixo foral/carlista.
+- **Direção 2 (comunidades autônomas) ✓**: perfis práticos das seis principais mais nota rasa das outras onze. Rodada recente acrescentou história separatista/nacionalista por comunidade: Catalunha (Renaixença → Lliga Regionalista/Prat de la Riba → Mancomunitat 1914-25 → crise 2010-2021), País Basco (PNV/Sabino Arana 1895 vs. ETA 1959-2018, distinção institucional x armado), Galícia (Irmandades da Fala 1916, Partido Galeguista 1931), Comunidade Valenciana (Batalha de Valencia/blaverismo — conflito de identidade, não separatismo), Canárias (MPAIAC 1964-1979, único achado relevante entre as onze menores). Dez comunidades sem achado de peso nesta busca; Navarra já coberta via eixo foral/carlista. Item avulso (2026-10-29): comparação municipal Santiago de Compostela × València × Barcelona — renda e demografia (INE ADRH 2024), índice de aluguel (INE IPVA) e anúncios de T2/T3 no Idealista; Santiago tem renda mediana próxima à de Barcelona com menos da metade do aluguel.
 - **Direção 3 (currículos regionais) ✓**: seis comunidades com decreto de ESO lido na íntegra, mais nota rasa das outras onze, mais Bacharelato (Historia de España, 2º ano) lido na íntegra nas cinco que faltavam. Achado central da ESO: LOMLOE é base comum, mas densidade e conteúdo político variam muito — Andaluzia mais densa (37 ocorrências), Madrid mais rasa (1) mas única a nomear os nacionalismos alheios "de fora". Hipótese de texto-modelo comum entre Madrid/Andaluzia/País Basco (⚠ não confirmada). No Bacharelato, o esqueleto é nacional e fixo (Real Decreto 243/2022, só 3 blocos, a partir de 1812) — a variação real está no que cada região acrescenta: Madrid e Andaluzia nomeiam ETA explicitamente (Andaluzia cita até uma vítima, Miguel Ángel Blanco), Galícia mantém a fórmula nacional genérica, Comunidade Valenciana e País Basco cortam até a palavra "terrorismo". Densidade de autorreferência se mantém do mesmo jeito que na ESO: País Basco e Andaluzia no topo (33 e 25 ocorrências), Comunidade Valenciana no zero. País Basco repete ponto a ponto os achados da própria ESO (extinção dos foros, nacionalismo "de dentro", autogobierno) e ainda cruza com o Estatuto navarro de 1982.
 - **Direção 4 (diferenças culturais práticas) ✓**: burocracia, mercado de trabalho, hábitos sociais, reagrupamento familiar — ver Notas de contexto para correções de auditoria. Item avulso recente: mito da bitola ibérica desfeito — decisão espanhola de 1844, sem relação com medo de Portugal.
 - **Direção 5 (pontos-cego BR/PT) ✓**: BNCC e Aprendizagens Essenciais (2018/2026) contra os marcos verificados. Rodada recente fechou os quatro itens que ficaram pendentes (franquismo/Catalunha → Josep Benet; CIS 27,1% → estudo nº 2.559; citação de Eduardo Dato → Moreno Luzón 2009; União Ibérica nos manuais → Cózar Gutiérrez/Solé/Rodríguez Pérez lido na íntegra) e os "não varridos": estudo de Adão et al. lido na íntegra (Espanha como inimigo nos manuais republicanos, e como não-modelo nos debates educativos 1890-1933), Programa de História A lido (acha Guerra Civil de Espanha mais explícita que nas AE — "apoio do Estado Novo aos nacionalistas" como instrução curricular), AE História B lida (zero menções à Espanha, por desenho temático do curso), Metas Curriculares 2013 confirmadas revogadas (Decreto-Lei 6605-A/2021).
@@ -501,6 +501,48 @@ Busca rasa (não leitura de historiografia dedicada) nas dez comunidades restant
 **O padrão**: as onze se dividem em três tipos — turismo/litoral em expansão forte (Baleares, Canárias, Múrcia), interior industrial com desemprego baixo mas crescimento populacional desigual (Aragão, Rioja, Castela e Leão em melhor situação; Castela-La Mancha e sobretudo Estremadura mais fragilizadas), e Navarra como caso único — regime foral, riqueza per capita entre as maiores do país, à parte do padrão geográfico regional.
 
 Links: [Todas las provincias de Castilla y León ganaron población en 2025 (El Diario)](https://www.eldiario.es/castilla-y-leon/sociedad/provincias-castilla-leon-ganaron-poblacion-2025-menos-zamora-perdio-vecinos_1_12985623.html) · [BBVA Research: crecimiento económico de Castilla-La Mancha 2026 (El Español)](https://www.elespanol.com/eldigitalcastillalamancha/economia/20260325/bbva-research-preve-crecimiento-economico-castilla-la-mancha-pib/1003744184139_0.html) · [Previsiones económicas para las comunidades autónomas 2025-2026 (Funcas)](https://www.funcas.es/textointegro/previsiones-economicas-para-las-comunidades-autonomas-2025-2026/) · [Baleares, Canarias, Andalucía, Madrid y Cataluña, las CCAA que más crecerán (Funcas)](https://www.funcas.es/prensa/baleares-canarias-andalucia-madrid-y-cataluna-las-ccaa-que-mas-creceran-en-2025-y-2026/) · [Comunidad Foral de Navarra (CaixaBank Research)](https://www.caixabankresearch.com/en/publications/autonomous-community-profiles/navarre-ac) · [Estadística Continua de Población (INE)](https://www.ine.es/dyngs/Prensa/ECP4T25.htm)
+
+#### Santiago de Compostela, València e Barcelona — comparação municipal (2026) ✓
+
+Comparação entre os três municípios, não entre as comunidades. Renda e demografia vêm de uma só operação do INE, o *Atlas de Distribución de Renta de los Hogares* (ADRH), ano de referência 2024, puxado da API. Salário oficial não existe em nível municipal: a EAES só desce até a comunidade autônoma (ver nota de método salarial acima). O INE também não publica PIB nem taxa de desemprego por município.
+
+**Renda e demografia (INE, ADRH 2024)**
+
+| Indicador | Santiago | València | Barcelona | Espanha |
+|---|---|---|---|---|
+| Renda líquida média por pessoa | €18.490 | €16.944 | €20.326 | €15.948 |
+| Renda líquida média por domicílio | €43.695 | €42.374 | €49.915 | €40.605 |
+| Mediana da renda por unidade de consumo | €23.450 | €21.350 | €24.150 | €19.950 |
+| Renda bruta média por pessoa | €23.360 | €21.491 | €26.955 | €19.716 |
+| Fonte da renda: salário | 59,1% | 57,3% | 59,5% | |
+| Fonte da renda: aposentadorias | 21,6% | 20,2% | 17,4% | |
+| Fonte da renda: seguro-desemprego | 1,0% | 1,4% | 1,0% | |
+| Fonte da renda: outras prestações | 2,9% | 4,5% | 3,4% | |
+| População | 98.784 | 829.010 | 1.635.099 | |
+| Idade média | 46,0 | 44,4 | 44,3 | |
+| População espanhola | 92,5% | 81,2% | 76,7% | |
+
+Na mediana por unidade de consumo, Barcelona fica só 3% acima de Santiago; na média por pessoa, 10%; na renda bruta média por pessoa, 15%. Santiago supera València em todos os indicadores de renda.
+
+**Aluguel de contratos (INE, Índice de Precios de Vivienda en Alquiler, base 2015 = 100)**: em 2024, Santiago 119,9, València 136,4, Barcelona 124,6 — alta acumulada de 19,9%, 36,4% e 24,6% desde 2015. Variação de 2024 sobre 2023: 4,0%, 5,9% e 3,3%. O índice mede contratos, mas não dá o valor em euros.
+
+**Aluguel anunciado de T2 e T3 (Idealista, anúncios consultados em 29 de outubro de 2026)**: filtro de 2 ou 3 quartos, ordenado por data de publicação. Santiago: universo inteiro (164 anúncios). València: universo inteiro (1.228). Barcelona: os 300 mais recentes de 1.265. Anúncios marcados como aluguel de temporada foram separados: 37 de 164 em Santiago, 84 de 1.228 em València, 70 de 300 em Barcelona. Medianas sem temporada:
+
+| | Santiago | València | Barcelona |
+|---|---|---|---|
+| T2 — aluguel/mês | €1.000 | €1.600 | €2.000 |
+| T2 — área / €/m² | 72 m² / 12,0 | 81 m² / 19,4 | 77 m² / 25,0 |
+| T3 — aluguel/mês | €980 | €1.700 | €2.675 |
+| T3 — área / €/m² | 98 m² / 10,4 | 102 m² / 16,7 | 100 m² / 23,1 |
+| T2+T3 — aluguel/mês | €1.000 | €1.650 | €2.200 |
+| T2+T3 — faixa P25–P75 | €810–1.200 | €1.375–2.000 | €1.600–3.000 |
+| Anúncios considerados | 127 | 1.144 | 230 |
+
+Em València, os 300 anúncios mais recentes dão mediana de €1.500 para T2+T3, um pouco abaixo do universo. Em Santiago o T3 custa o mesmo que o T2; em Barcelona, 34% a mais. Preço de anúncio, não de contrato.
+
+**Peso do aluguel na renda ⚠** (cálculo próprio, cruzando duas fontes de natureza e ano diferentes): doze meses da mediana de T2+T3 sem temporada equivalem a cerca de 27% da renda líquida média por domicílio em Santiago, 47% em València e 53% em Barcelona. Ordem de grandeza, não indicador.
+
+Links: [INE API, ADRH — A Coruña (tabela 30989)](https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/30989?nult=1) · [INE API, ADRH — Valencia (tabela 31250)](https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/31250?nult=1) · [INE API, ADRH — Barcelona (tabela 30896)](https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/30896?nult=1) · [INE API, ADRH — total nacional (tabela 53689)](https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/53689?nult=1) · [INE API, IPVA — índices por município (tabela 59060)](https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/59060) · [Idealista — aluguel T2/T3 em Santiago de Compostela](https://www.idealista.com/alquiler-viviendas/santiago-de-compostela-a-coruna/con-de-dos-dormitorios,de-tres-dormitorios/) · [Idealista — aluguel T2/T3 em València](https://www.idealista.com/alquiler-viviendas/valencia-valencia/con-de-dos-dormitorios,de-tres-dormitorios/) · [Idealista — aluguel T2/T3 em Barcelona](https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/con-de-dos-dormitorios,de-tres-dormitorios/)
 
 ### Currículos regionais ✓
 
