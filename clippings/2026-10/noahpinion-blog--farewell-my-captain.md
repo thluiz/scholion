@@ -1,0 +1,200 @@
+---
+url: "https://www.noahpinion.blog/p/farewell-my-captain"
+captured_at: "2026-10-31T10:31:45+00:00"
+title: "Farewell, my Captain"
+domain: "noahpinion-blog"
+---
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!HEZg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa176bc60-4616-46a6-b5f9-4b704291c825_1000x750.jpeg)
+
+](https://substackcdn.com/image/fetch/$s_!HEZg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa176bc60-4616-46a6-b5f9-4b704291c825_1000x750.jpeg)
+
+_“That is the exploration that awaits you. Not mapping stars and studying nebulae, but charting the unknowable possibilities of existence.” — Q_
+
+There’s something about the mindset of really hardcore Star Trek fans that’s very difficult to describe to people who don’t share that fandom. I can’t speak for all of us, of course, but [for many of us](https://x.com/scottsantens/status/2115923101624246390), there is a sense in which the world portrayed in Star Trek is not quite _fictional_. No one regards it as an exact description of the future, of course, but there is a sense in which it represents one possible future that we must achieve — a “Star Trek timeline” that either we’re on or that we need to return to. The United Federation of Planets isn’t some fantastical interstellar alliance, but an organization that _we must create_, and whose ideals we must instantiate as the governing ethos of humankind.
+
+Our quasi-religious commitment to this utopian future came from watching the Star Trek TV shows, but the different series inspired us in different ways. The original “Kirk and Spock” series, which aired in the 1960s, was more of a _technological_ vision — the idea that one day we would zip around the cosmos getting into adventures, as easily as we’d zip around the world in a boat today. But _Star Trek: The Next Generation_, which aired in the late 1980s and early 1990s, gave us a different kind of vision. It was a _moral_ future for the human race — a depiction of a better way that we could face the unknown and master our own personal challenges.
+
+There has never been another television show like _Star Trek: The Next Generation_, and there might never be one again. It is the greatest TV show ever made, not by dint of a difference in degree, but because of a difference in kind. It is a drama of pure optimism. Every other show tries to thrill us by showing us how bad or how ridiculous or how exciting someone else’s world could be; _Star Trek: TNG_ thrills us by showing us how beautiful our own world could become.
+
+For such a show to be put on the air required an incredible confluence of coincidences. For one thing, it was syndicated in its first run, meaning that it was free from constant interference by network executives. The showrunner,[1](#footnote-1) Michael Piller, also did something highly unusual when he opened the show up to outside script submissions; this allowed in a whole lot of highly innovative episode ideas.
+
+But the real secret sauce of _Star Trek: TNG_ was the creative vision of Star Trek’s original creator, Gene Roddenberry. A lot of people — and even a lot of science fiction writers — assume that even as technology makes us more powerful, human nature will remain basically the same, with all its old petty short-sighted hatreds and jealousies and selfishness and so on. Roddenberry believed otherwise. He famously declared that the people of the future would actually be _better people_, free from the flaws of his day. And so [he mandated](https://them0vieblog.com/2014/01/06/star-trek-the-next-generation-the-measure-of-a-man-review/) that _Star Trek: TNG_ have no internal conflict in its plotlines.
+
+Some of the writers chafed at that constraint. Interpersonal conflict is the bread and butter of drama — and always an easy plot device to fall back on when you need something to go wrong. But because Roddenberry decreed it, the writers of TNG were forced to envision how _the ideal human being_ would deal with various personal and external obstacles. And so every episode gave us a thoughtful, probing exploration of what the ideal human beings — or at least, people much more morally and emotionally advanced than us — would look like.
+
+No character embodied that ideal more than Captain Jean-Luc Picard. It’s not his personal life that’s ideal — he famously puts career over family, leading to a life full of self-doubt and regret — but his approach to the world. Picard is the ultimate Reasonable Man. He will always try to understand the alien before he opens fire. He is a legendary battle commander but would always rather negotiate than fight. He’s not necessarily the kind of man you’d want for a father, but he felt like one anyway. He values all life, and all uniqueness, intrinsically; he is zipping around the galaxy in a starship in order to discover the Universe, and occasionally to save it, but most of all to _understand and respect_ it.
+
+Understanding and respect, in fact, are Picard’s greatest weapons. He is a brilliant man, with many brilliant people under him, and occasionally he uses his intelligence to defeat an external threat. But he’s no swashbuckling space cowboy — more often than not, he succeeds in _understanding_ the threat, and figures out how to help it achieve its goals without sacrificing his own. Picard realizes that the highest application of intelligence is not to thwart your enemies, but to design a world in which you and they can live in mutually beneficial coexistence. 1990s America was a uniquely hopeful and liberal time in the world, and Star Trek’s greatest captain embodied the spirit of that too-brief moment.
+
+The character of Captain Picard was brought to life by the peerless acting skills of Patrick Stewart, who died two days ago at the age of 86. Stewart’s acting career went far beyond Star Trek — he’s widely considered one of the greatest [Shakespearean stage actors](https://www.abc.net.au/news/2026-10-31/patrick-stewart-theatre-obituary-macbeth-godot-christmas-carol/107327188) of his generation, if not of all time, and he played in dozens of films. But the tributes that are flying thick and fast around the world today almost all focus on his role as Captain Picard.
+
+I’m of two minds about this. As a very slightly famous person, I can tell you that public and private personas are very different things — if you meet me in real life, I won’t quite be the character you’ve imagined from my writings. That goes triple for actors, whose job is literally to pretend to be someone else. Patrick Stewart was not Captain Picard, but a man with a life and a personality all his own. He was, by all reports, a good man, [well-loved by those who knew him and worked with him](https://variety.com/2026/tv/news/william-shatner-star-trek-patrick-stewart-picard-tributes-1236934479/), but his strengths and his flaws were very different from those of the man he played on television. To mourn his passing as the passing of Captain Picard is to engage in a parasocial relationship.
+
+And yet, I do. I can’t help it. I never knew Patrick Stewart, but I _did_ know Captain Picard, and the death of the real man who brought that fictional man to life makes me remember what I loved so much about the latter, and there is value in that.
+
+Nor am I alone. Today the internet is flooded with tributes to Picard, praising Stewart’s portrayal as an embodiment of an ideal liberal politics, an exemplary moral figure, and even as a model of masculinity:
+
+[
+
+![X avatar for @mattyglesias](https://substackcdn.com/image/fetch/$s_!Xa-N!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fprofile_images%2F2096643695755833348%2Fphm4puFm.jpg)
+
+Matthew Yglesias@mattyglesias
+
+Jean-Luc Picard remains the single most compelling vision of progressive politics I am familiar with — secular, rational, compassionate, egalitarian; a believer in progress & abundance but also duty, hard work, and a constant battle for self-improvement and improving the world.
+
+![](https://pbs.substack.com/media/HV38BPCXYAAx9ZZ.jpg)
+
+11:08 AM · Oct 30, 2026 · 187K Views
+
+342 Replies · 687 Reposts · 5.75K Likes
+
+
+
+
+
+](https://x.com/mattyglesias/status/2116125061572685895)[
+
+![X avatar for @Pepto\_Griswold](https://substackcdn.com/image/fetch/$s_!6Q0V!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fprofile_images%2F1880455952882647040%2FNMObNtbc.jpg)
+
+Pepto Griswold in "Hilda Training Arc"@Pepto\_Griswold
+
+Captain Picard had an ineffable influence on a young me. There's so many good moments from 'The Drumhead' alone but this scene is seared into my brain. I remember the first time I saw it and how it would come to form my moral compass. Rest In Peace Patrick Stewart.
+
+![](https://substackcdn.com/image/fetch/$s_!EDLj!,w_1028,c_limit,f_auto,q_auto:best,fl_progressive:steep/l_play_button_usfui2,w_88,e_colorize:0/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2115904755994095616.jpg)
+
+8:36 PM · Oct 29, 2026 · 66.7K Views
+
+40 Replies · 362 Reposts · 2.7K Likes
+
+
+
+
+
+](https://x.com/Pepto_Griswold/status/2115905582401994992)[
+
+![X avatar for @Leigh\_Phillips](https://substackcdn.com/image/fetch/$s_!MCSl!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fprofile_images%2F1470262059853959168%2F2wGu977L.jpg)
+
+Leigh Phillips@Leigh\_Phillips
+
+Star Trek TNG had a profound impact on me growing up, and Patrick Stewart’s role above all: the secular, rationalist, egalitarian, post-scarcity (whisper it: socialist) vision of the future, a completion of the Radical Enlightenment project married to a sort of Aristotelian sense …
+
+![](https://pbs.substack.com/media/HV1FSvabQAA64we.jpg)
+
+9:47 PM · Oct 29, 2026 · 30.8K Views
+
+36 Replies · 278 Reposts · 1.61K Likes
+
+
+
+
+
+](https://x.com/Leigh_Phillips/status/2115923591724437522)[
+
+![X avatar for @zomboy666](https://substackcdn.com/image/fetch/$s_!S__z!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fprofile_images%2F1225081714596352003%2FjLTezkqT.jpg)
+
+𝙹𝚊𝚢 𝚘𝚏 𝚝𝚑𝚎 𝙳𝚎𝚊𝚍 ❄️@zomboy666
+
+He’ll never know this but Patrick Stewart showed countless boys how to be men. He showed that strength didn't have to mean intimidation, that intelligence should come with humility, and that you could - and should - stand up for what was right even when it cost you something.
+
+8:30 PM · Oct 29, 2026 · 98.4K Views
+
+59 Replies · 1.29K Reposts · 7.56K Likes
+
+
+
+
+
+](https://x.com/zomboy666/status/2115904120574054457)[
+
+![X avatar for @CRegnant](https://substackcdn.com/image/fetch/$s_!gT-A!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fprofile_images%2F1088234587413725185%2FaAUdQvak.jpg)
+
+the friend on the fourble board@CRegnant
+
+Something I've been having trouble articulating is that Picard is an ideal masculine figure. He is wise and kind and understanding but when push comes to shove he makes it clear that he will engage in violence and he's gonna be fuckin good at it
+
+![X avatar for @BrndnStrssng](https://substackcdn.com/image/fetch/$s_!eGZN!,w_20,h_20,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fprofile_images%2F2113338038952570880%2F-tVYGWQ-.jpg)
+
+Brandon Streussnig @BrndnStrssng
+
+God Mode https://t.co/jyyTWdg4Vj
+
+11:34 PM · Oct 29, 2026 · 82.6K Views
+
+44 Replies · 377 Reposts · 4.44K Likes
+
+
+
+
+
+](https://x.com/CRegnant/status/2115950358841442354)[
+
+![X avatar for @cor\_de\_nuit](https://substackcdn.com/image/fetch/$s_!Ixjk!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fprofile_images%2F1859734699159035904%2FQpLvTYjB.jpg)
+
+indigo@cor\_de\_nuit
+
+Stewart’s portrayal of Jean-luc Picard embodied the platonic ideal of healthy masculinity and good leadership. He’d deliver the lines with utmost calm, patience, and respect for his subordinates. He never had to prove a thing, or speak one word of himself.
+
+8:17 PM · Oct 29, 2026 · 7.73K Views
+
+4 Replies · 104 Reposts · 1.01K Likes
+
+
+
+
+
+](https://x.com/cor_de_nuit/status/2115900852875506100)[
+
+![X avatar for @KashPrime](https://substackcdn.com/image/fetch/$s_!EJ1L!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fprofile_images%2F1496160884993019912%2FKo5Wj_RZ.jpg)
+
+Kashif Pirzada, MD@KashPrime
+
+I grew up in a magical era when the leading man of the leading TV show at the time solved hard problems with intelligence, courage, honour and respect. I owe so much to his example, and continue to try to live by the example his character set.
+
+![](https://pbs.substack.com/media/HV1d1lJWkAAk5hr.jpg)
+
+11:35 PM · Oct 29, 2026 · 6.99K Views
+
+7 Replies · 62 Reposts · 561 Likes
+
+
+
+
+
+](https://x.com/KashPrime/status/2115950579491217580)
+
+The remembrance of Captain Picard comes at a pivotal moment for our species. The advent of artificial intelligence — machines that can out-think us — will naturally cause a shift in what it means to be human. As with the Industrial Revolution and the advent of agriculture, we will have to figure out a new way to live — new lifestyles, new forms of government, new systems of economic production and distribution, new reasons to value ourselves and each other.
+
+There are many reasons that the particular future portrayed in Star Trek — one in which human beings, as they exist today, take the lead in physically exploring the galaxy — will never happen. AI is one more reason. This is in spite of the fact that _Star Trek: The Next Generation_ is probably the single best prediction of modern AI ever to appear on the screen. The “engineers” on the Enterprise are clearly vibe-coding and prompting the ship’s computer,[2](#footnote-2) which is so powerful that it sometimes _accidentally_ creates human-level intelligence as part of a holographic entertainment program.
+
+But in real life, the physical requirements of deep space exploration are such that it will never make sense for human beings to be at the forefront, except potentially as digital uploads. And even if we _did_ go, AI’s superhuman intelligence, data assimilation capacity, and speed would remove most or all of the need for human judgement in the loop. If the Romulans attack us, it will be Claude or GPT who handles them.
+
+But outer space is not our true final frontier. The true space that we, as humans, are exploring is _our own set of possibilities_. In fact, Q, a whimsical omnipotent trickster-god-being that serves as Picard’s foil throughout the series, says this to Picard in the final episode of the show — see the quote at the top of this post. It is our quest to chart the unknowable possibilities of our own existence.
+
+The ultimate destiny of humankind is a consistent theme of _Star Trek: TNG_, and the show strongly implies that we’ll eventually ascend to some sort of godlike posthumanity. There are multiple instances of humans or human-like beings turning into some sort of higher cosmic being, and Q himself implies that he’s testing humanity for admission into the realm of the space gods. This is probably where we’re headed in reality — our new [AI scientists](https://www.noahpinion.blog/p/a-golden-age-of-science-is-coming) will help us figure out how to expand our consciousness and merge it with the digital realm, until we become something greater than we can currently imagine.
+
+But before that happens — and perhaps even after it happens — it’s possible to envision a better version of Humanity Classic. It’s possible to imagine that through the right combination of technology, governance, and culture, we can put the lie to the old saw that “human nature never changes”, and become more like the characters in Gene Roddenberry’s universe.
+
+In fact, though the overall picture is murky and the road has been stochastic, [there is some evidence](https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature) that we’ve already been moving in a more humane, rational direction — that Captain Picard is less alien to the human race of 2026 than he would have been to the human race of 1626. We once embraced slavery as a way of life; today we regard it as anathema. We once [tortured cats to death in public](https://en.wikipedia.org/wiki/Cat_burning) for entertainment; today that would land you in prison. We are [far less murderous](https://marginalrevolution.com/marginalrevolution/2011/06/long-term-trend-in-homicide-rates.html) than we once were.
+
+It is not clear exactly what led to these improvements. Perhaps with scarcity alleviated — with our bellies full, and tractors instead of slaves — we are naturally gentler and more magnanimous. Perhaps more information has given us more empathy toward people far away. Perhaps the social adaptations needed to handle modern economies — markets, property rights, police, democracy — have tamed and civilized us.
+
+Whatever it was, it offers the hope that we can do more of it — that whatever cosmic ascension we might eventually undertake, human beings as they exist in 2026 are not the best we can do in the current form factor.
+
+I won’t lie. The last quarter century has been brutal to the hopes of those raised on _Star Trek: The Next Generation_. The promise of a liberal society has not been eliminated, but [it has been tarnished](https://www.noahpinion.blog/p/where-does-a-liberal-go-from-here) by over a decade of social media hatred and rising authoritarianism. Neither greater prosperity nor more information nor giving voice to the voiceless has made our societies more like the United Federation of Planets. Sci-fi marvels are coming to life around us, but every day the people who lead our species seem less like the crew of the Enterprise.
+
+But as the 1990s were not the end of history, neither are the 2020s. Moral progress is not a smooth upward line; there have been reversals before (and there [certainly are plenty](https://memory-alpha.fandom.com/wiki/World_War_III) in the Star Trek timeline). It’s about time to pick ourselves back up and start the journey again. We should all go back and watch _Star Trek: The Next Generation_, with its silly haircuts and its dated special effects, and remember who we thought we could become.
+
+Farewell to the great Patrick Stewart. And farewell also, Captain Picard. In the greatest trek of all — our search for the possibilities of our better selves — you will always be our Captain.
+
+[Share](https://www.noahpinion.blog/p/farewell-my-captain?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+[1](#footnote-anchor-1)
+
+From the third season onward.
+
+[2](#footnote-anchor-2)
+
+This was a lucky accident, since vibe-coding and prompting are easier to portray on screen than writing lines of code.
