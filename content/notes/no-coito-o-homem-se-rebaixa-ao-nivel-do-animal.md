@@ -3,11 +3,12 @@ title: "No coito, o homem se rebaixa ao nível do animal, não porque tem prazer
 date: '2026-11-01T03:41:14+00:00'
 category: quote
 summary: 'Passagem de La Vie sexuelle d''Emmanuel Kant (1999), de Jean-Baptiste Botul, com apresentação e notas de Frédéric Pagès, reproduzida em O livro das citações, de Eduardo Giannetti.'
-tags: ["jean-baptiste-botul", "frederic-pages", "eduardo-giannetti", "filosofia"]
+tags: ["jean-baptiste-botul", "frederic-pages", "eduardo-giannetti", "filosofia", "o-livro-das-citacoes"]
 has_commentary: false
 sources:
-  - title: "O livro das citações"
+  - title: "O livro das citações: um breviário de ideias replicantes"
     author: "Eduardo Giannetti"
+    year: 2008
     publisher: "Companhia das Letras"
     url: "https://amz.onl/0073qNgU"
     kind: book
