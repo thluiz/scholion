@@ -34,7 +34,7 @@ function Notify($msg) {
   } catch { Log "Falha ao notificar: $($_.Exception.Message)" }
 }
 
-$avisos = @(); $gravadas = 0
+$avisos = @(); $gravadas = 0; $staged = @(); $porLivro = @()
 try {
   Log "=== auto-import $(if ($DryRun) { '(dry-run)' }) ==="
   if (-not $DryRun) { git -C $repo pull --ff-only 2>&1 | Out-Null }   # melhor esforço; falha não aborta
@@ -96,14 +96,17 @@ try {
       if ($b.year) { $meta += "`n  year: $($b.year)" }
       $idx = "---`ntitle: `"$($b.title -replace '"','\"')`"`ndescription: `"Citações guardadas de $($b.author).`"`nbook:`n$meta`n---`n"
       [IO.File]::WriteAllText($tagIdx, $idx, (New-Object Text.UTF8Encoding($false)))
+      while (Test-Path "$repo\.git\index.lock") { Start-Sleep -Seconds 1 }
       git -C $repo add "content/tags/$($b.tag)/_index.md" 2>&1 | Out-Null
-      git -C $repo commit -q --only -m "site: página do livro $($b.short_title)" -- "content/tags/$($b.tag)/_index.md" 2>&1 | Out-Null
+      $staged += "content/tags/$($b.tag)/_index.md"
     }
 
-    # 4) gravar (save.ps1 roda verify.py antes e aborta em ERRO)
-    $sargs = @{ Drafts = "$wd\drafts"; Lib = $libFile; Tag = $b.tag; Scratch = $wd }
+    # 4) gravar (save.ps1 roda verify.py antes e aborta em ERRO). -NoCommit: o commit é um só, no fim do dia.
+    $sargs = @{ Drafts = "$wd\drafts"; Lib = $libFile; Tag = $b.tag; Scratch = $wd; NoCommit = $true }
     if (-not $anthology) { $sargs.Plain = $true }
     $res = & "$scripts\save.ps1" @sargs
+    $staged += @($res | Where-Object { "$_" -like 'STAGED *' } | ForEach-Object { "$_".Substring(7) })
+    $porLivro += "$($b.short_title) ($n)"
     $gravadas += $n
     $msg = "📖 $($b.short_title): $n nota(s) nova(s) importada(s)."
     if ($unc -gt 0) { $msg += " $unc com autor a conferir (tag de autor não confirmado)." }
@@ -136,6 +139,16 @@ try {
     if (-not $DryRun) { $state | ConvertTo-Json -Depth 4 | Set-Content -Encoding UTF8 $stateFile }
   }
 
+  if ($staged.Count -gt 0 -and -not $DryRun) {
+    # Um commit por dia com tudo o que a rotina importou (decisão do autor, 2026-11-02).
+    $mf = Join-Path $work 'msg.txt'
+    $msg = "notes: importação diária do Kindle, $gravadas nota(s): " + ($porLivro -join ', ')
+    [IO.File]::WriteAllText($mf, $msg, (New-Object Text.UTF8Encoding($false)))
+    while (Test-Path "$repo\.git\index.lock") { Start-Sleep -Seconds 1 }
+    git -C $repo commit -q --only -F $mf -- @staged 2>&1 | Where-Object { $_ -notmatch '^warning' } | ForEach-Object { Log $_ }
+    if ($LASTEXITCODE -ne 0) { throw "commit do dia falhou ($($staged.Count) arquivos ficaram staged)" }
+    Log "commit do dia: $($staged.Count) arquivo(s)"
+  }
   if ($gravadas -gt 0 -and -not $DryRun) {
     $push = (git -C $repo push 2>&1 | Out-String)
     if ($LASTEXITCODE -ne 0) { $avisos += "❌ push falhou: $($push.Trim().Split("`n")[-1])" }

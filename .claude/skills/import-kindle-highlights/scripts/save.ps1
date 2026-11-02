@@ -4,9 +4,12 @@ param(
   [Parameter(Mandatory)] [string] $Tag,         # tag do livro
   [Parameter(Mandatory)] [string] $Scratch,     # scratchpad (arquivo de mensagem de commit)
   [string[]] $TagOnly = @(),                    # slugs de notas JÁ existentes que só ganham a tag do livro
-  [switch] $Plain                               # livro de autor único (título = destaque inteiro)
+  [switch] $Plain,                              # livro de autor único (título = destaque inteiro)
+  [switch] $NoCommit                            # só grava e faz stage (com marcador); quem chama commita tudo junto
 )
 # Grava as notas aprovadas, uma por commit (--only). NÃO faz push: o push é do passo final da skill.
+# -NoCommit: rotina diária (auto-import.ps1), que junta tudo o que importou no dia num commit só
+# (decisão do autor, 2026-11-02). Cada arquivo gravado sai numa linha "STAGED <caminho>".
 $ErrorActionPreference = 'Stop'
 $repo = 'E:\scholion'
 $here = Split-Path -Parent $MyInvocation.MyCommand.Path
@@ -42,6 +45,7 @@ function Git-Retry([string[]] $gitArgs) {
 function Commit-Note($rel, $msg) {
   $o = git -C $repo rev-parse ":$rel"
   Set-Content -LiteralPath "$repo\.ghost-audit\$o.ok" -Value $o
+  if ($NoCommit) { Write-Output "STAGED $rel"; return }
   $mf = Join-Path $Scratch 'msg.txt'
   [IO.File]::WriteAllText($mf, $msg, $enc)
   Git-Retry @('commit', '-q', '--only', '-F', $mf, '--', $rel)
@@ -75,7 +79,7 @@ foreach ($f in Get-ChildItem "$Drafts\*.md") {
   $title = ([regex]::Match($t, '(?m)^title: "(.*)"$')).Groups[1].Value.Replace('\"', '"').Replace('\\', '\')
   Commit-Note $rel "note: $title"
   $log += "NEW $slug"
-  Start-Sleep -Seconds 1
+  if (-not $NoCommit) { Start-Sleep -Seconds 1 }
 }
 
 # 3) Notas já existentes: só a tag do livro
