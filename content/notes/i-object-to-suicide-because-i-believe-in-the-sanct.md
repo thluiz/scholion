@@ -3,7 +3,7 @@ title: "‘I object to suicide because I believe in the sanctity of life, and ki
 date: '2026-11-02T12:44:40+00:00'
 category: quote
 summary: 'Passagem de Notes on Suicide, de Simon Critchley (Fitzcarraldo Editions, 2015).'
-tags: ["simon-critchley", "notes-on-suicide"]
+tags: ["simon-critchley", "notes-on-suicide", "destaque-cortado"]
 has_commentary: false
 sources:
   - title: "Notes on Suicide"
