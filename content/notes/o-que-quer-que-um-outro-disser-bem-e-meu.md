@@ -3,7 +3,7 @@ title: "O que quer que um outro disser bem, é meu"
 date: 2026-05-07T12:03:30+01:00
 category: quote
 summary: "Sêneca, em carta a Lucílio, justifica que toda boa formulação alheia lhe pertence, reconhecendo logo depois que mesmo essa frase já fora dita por Epicuro."
-tags: ["seneca", "estoicismo", "filosofia", "epicuro"]
+tags: ["seneca", "estoicismo", "filosofia", "epicuro", "o-livro-das-citacoes"]
 has_commentary: false
 sources:
   - title: "Epistulae Morales ad Lucilium, Liber II, Epistula 16"
