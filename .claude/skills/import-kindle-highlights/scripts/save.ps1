@@ -20,14 +20,34 @@ if ($LASTEXITCODE -ne 0) { throw 'verify.py reportou ERRO; nada foi gravado.' }
 
 New-Item -ItemType Directory -Force "$repo\.ghost-audit" | Out-Null
 
+# Outro git no mesmo repo (auto-import, ScholionPublish, outra sessão) deixa .git/index.lock: esperar em vez de
+# falhar no meio do lote (2026-11-02: o lote parou na 9ª nota com uma nota só staged).
+function Wait-GitLock {
+  $lock = "$repo\.git\index.lock"
+  for ($i = 0; (Test-Path $lock) -and $i -lt 120; $i++) { Start-Sleep -Seconds 1 }
+  if (Test-Path $lock) { throw '.git/index.lock persiste há 2 min; outro git travado? nada mais foi gravado.' }
+}
+
+function Git-Retry([string[]] $gitArgs) {
+  for ($t = 1; $t -le 5; $t++) {
+    Wait-GitLock
+    $out = git -C $repo @gitArgs 2>&1 | Where-Object { $_ -notmatch '^warning' }
+    if ($LASTEXITCODE -eq 0) { return }
+    if (-not ($out -match 'index\.lock')) { $out; throw "git $($gitArgs[0]) falhou" }
+    Start-Sleep -Seconds 2
+  }
+  throw "git $($gitArgs[0]) falhou 5x por lock"
+}
+
 function Commit-Note($rel, $msg) {
   $o = git -C $repo rev-parse ":$rel"
   Set-Content -LiteralPath "$repo\.ghost-audit\$o.ok" -Value $o
   $mf = Join-Path $Scratch 'msg.txt'
   [IO.File]::WriteAllText($mf, $msg, $enc)
-  git -C $repo commit -q --only -F $mf -- $rel 2>&1 | Where-Object { $_ -notmatch '^warning' }
-  if ($LASTEXITCODE -ne 0) { throw "commit falhou: $rel" }
+  Git-Retry @('commit', '-q', '--only', '-F', $mf, '--', $rel)
 }
+
+function Strip-Date($s) { [regex]::Replace($s.Replace("`r`n", "`n"), "(?m)^date: '.*'$", "date: ''") }
 
 $log = @()
 # 2) Notas novas
@@ -35,11 +55,23 @@ foreach ($f in Get-ChildItem "$Drafts\*.md") {
   $slug = $f.BaseName
   $rel = "content/notes/$slug.md"
   $dest = "$repo\content\notes\$slug.md"
-  if (Test-Path $dest) { throw "colisao: $slug" }
+  $draft = [IO.File]::ReadAllText($f.FullName, $enc)
+  if (Test-Path $dest) {
+    # Retomada: nota igual ao draft (fora a data) é deste mesmo lote, gravada antes de uma interrupção.
+    $cur = [IO.File]::ReadAllText($dest, $enc)
+    if ((Strip-Date $cur) -ne (Strip-Date $draft)) { throw "colisao: $slug (nota existente diferente do draft)" }
+    git -C $repo cat-file -e "HEAD:$rel" 2>$null
+    if ($LASTEXITCODE -eq 0) { $log += "SKIP $slug (já gravada)"; continue }
+    Git-Retry @('add', $rel)
+    $title = ([regex]::Match($cur, '(?m)^title: "(.*)"$')).Groups[1].Value.Replace('\"', '"').Replace('\\', '\')
+    Commit-Note $rel "note: $title"
+    $log += "RESUMED $slug"
+    continue
+  }
   $date = Get-Date -Format 'yyyy-MM-ddTHH:mm:sszzz'          # hora real, nova a cada nota
-  $t = [IO.File]::ReadAllText($f.FullName, $enc).Replace("date: 'DATE'", "date: '$date'")
+  $t = $draft.Replace("date: 'DATE'", "date: '$date'")
   [IO.File]::WriteAllText($dest, $t, $enc)
-  git -C $repo add $rel 2>&1 | Where-Object { $_ -notmatch '^warning' }
+  Git-Retry @('add', $rel)
   $title = ([regex]::Match($t, '(?m)^title: "(.*)"$')).Groups[1].Value.Replace('\"', '"').Replace('\\', '\')
   Commit-Note $rel "note: $title"
   $log += "NEW $slug"
@@ -56,9 +88,10 @@ foreach ($slug in $TagOnly) {
   if ($m.Value -match [regex]::Escape("`"$Tag`"")) { continue }
   $t = $t.Substring(0, $m.Index) + 'tags: [' + $m.Groups[1].Value + ', "' + $Tag + '"]' + $t.Substring($m.Index + $m.Length)
   [IO.File]::WriteAllText($p, $t, $enc)
-  git -C $repo add $rel 2>&1 | Where-Object { $_ -notmatch '^warning' }
+  Git-Retry @('add', $rel)
   Commit-Note $rel "note: tag do livro em $slug"
   $log += "TAG $slug"
 }
 $log
-Write-Output "Gravadas: $($log.Count). Falta: git push e conferir contagem com a tag."
+$feitas = @($log | Where-Object { $_ -notlike 'SKIP*' }).Count
+Write-Output "Gravadas: $feitas (já gravadas antes: $($log.Count - $feitas)). Falta: git push e conferir contagem com a tag."
