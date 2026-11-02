@@ -3,7 +3,7 @@ title: "there is a further twist to the dialectic of the suicide note. The hatre
 date: '2026-11-02T12:46:33+00:00'
 category: quote
 summary: 'Passagem de Notes on Suicide, de Simon Critchley (Fitzcarraldo Editions, 2015).'
-tags: ["simon-critchley", "notes-on-suicide"]
+tags: ["simon-critchley", "notes-on-suicide", "destaque-cortado"]
 has_commentary: false
 sources:
   - title: "Notes on Suicide"
