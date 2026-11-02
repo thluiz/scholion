@@ -3,7 +3,7 @@ title: "Une réserve de locutions toutes prêtes… qui nous délivrent du soin 
 date: 2026-06-14T00:04:06+01:00
 category: quote
 summary: "Da conferência Le Bilan de l'intelligence (16 jan 1935, recolhida em Variété III, 1936). Trazemos um estoque de locuções de pura imitação que nos poupam de pensar e tomamos por soluções nossas."
-tags: ["paul-valery", "citacao", "imitacao", "pensamento"]
+tags: ["paul-valery", "citacao", "imitacao", "pensamento", "o-livro-das-citacoes"]
 has_commentary: false
 sources:
   - title: "Le Bilan de l'intelligence"
