@@ -1,0 +1,16 @@
+---
+title: "‘I object to suicide because I believe in the sanctity of life, and killing oneself is a violent and illegitimate denial of life’s sacredness.’ But what is the implication of this belief? If life is sacred, then it is not the case that only suicide is prohibited: all forms of killing are forbidden. A belief in the sanctity of life entails, for a start, an opposition to capital punishment. To believe that suicide is a crime because life is sacred while also believing in the death penalty (there are many Americans who appear to hold both beliefs) is a sheer contradiction. Similarly, if life is sacred, then all forms of killing are forbidden, for example during wartime. To follow through the logic of the argument for the sanctity of life would also forbid killing in self-defence. What possible justification could there be for killing another person – an attacker, a burglar, a rapist, a junky with a knife – in self-defence if I believe that life is sacred? In order to be consistent, a belief in the sanctity of life has to lead to a complete quietism and utter pacifism (some religious groups, such as The Society of Friends or the Quakers, have nobly tried to live and practice their faith in accordance with such pacifism). Also, if life is sacred, then all life is sacred, and it is also forbidden to take the lives of cows, sheep, chicken or fish in order to feed oneself…"
+date: '2026-11-02T12:44:40+00:00'
+category: quote
+summary: 'Passagem de Notes on Suicide, de Simon Critchley (Fitzcarraldo Editions, 2015).'
+tags: ["simon-critchley", "notes-on-suicide"]
+has_commentary: false
+sources:
+  - title: "Notes on Suicide"
+    author: "Simon Critchley"
+    year: 2015
+    publisher: "Fitzcarraldo Editions"
+    kind: book
+---
+
+Passagem de Notes on Suicide, de Simon Critchley.
