@@ -3,10 +3,10 @@ title: "agatão: Que é isso, Sócrates? Certamente você não supõe que eu est
 date: '2026-10-31T21:27:08+00:00'
 category: quote
 summary: 'Passagem de Platão situada em O banquete, diálogo do século IV a.C.; o trecho foi extraído de O livro das citações, de Eduardo Giannetti, publicado em 2008.'
-tags: ["platao", "o-banquete", "dialogo", "eduardo-giannetti"]
+tags: ["platao", "o-banquete", "dialogo", "eduardo-giannetti", "o-livro-das-citacoes"]
 has_commentary: false
 sources:
-  - title: "O livro das citações"
+  - title: "O livro das citações: um breviário de ideias replicantes"
     author: "Eduardo Giannetti"
     year: 2008
     publisher: "Companhia das Letras"
