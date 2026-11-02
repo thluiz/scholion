@@ -3,11 +3,13 @@ title: "agatão: Que é isso, Sócrates? Certamente você não supõe que eu est
 date: '2026-11-01T03:41:14+00:00'
 category: quote
 summary: 'Diálogo de Platão entre Agatão e Sócrates sobre o peso da opinião de poucos sábios diante da multidão, reproduzido em O livro das citações, de Eduardo Giannetti.'
-tags: ["platao", "socrates", "eduardo-giannetti", "opiniao-publica"]
+tags: ["platao", "socrates", "eduardo-giannetti", "opiniao-publica", "o-livro-das-citacoes"]
 has_commentary: false
 sources:
-  - title: "O livro das citações"
+  - title: "O livro das citações: um breviário de ideias replicantes"
     author: "Eduardo Giannetti"
+    year: 2008
+    publisher: "Companhia das Letras"
     url: "https://amz.onl/0hd5n5vzs"
     kind: book
 ---
