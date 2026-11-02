@@ -1,10 +1,11 @@
 {
-  "_nota": "Livros que a rotina diária (auto-import.ps1, 04:00) acompanha. Só entra aqui o livro que o autor liga explicitamente: as notas viram páginas públicas. mode=auto importa sozinha; mode=notify só avisa. since = só destaques adicionados nessa data ou depois (evita despejar o acervo antigo). ignore_locs = destaques que o autor já decidiu deixar de fora.",
+  "_nota": "Livros que a rotina diária (auto-import.ps1, 04:00) acompanha. Só entra aqui o livro que o autor liga explicitamente: as notas viram páginas públicas. mode=auto importa sozinha; mode=notify só avisa. since = só destaques adicionados nessa data ou depois (evita despejar o acervo antigo). ignore_locs = destaques que o autor já decidiu deixar de fora. lang = idioma das notas (pt|en; define a tag de autor não confirmado). pronoun = ele|ela (texto \"em que ele cita outro autor\"). sections = [{from_loc,to_loc,author,tag}] para trecho de outro autor (apêndice, prefácio).",
   "books": [
     {
       "library": "o-livro-das-citacoes-portuguese-edition",
       "mode": "notify",
       "anthology": true,
+      "lang": "pt",
       "title": "O livro das citações: um breviário de ideias replicantes",
       "short_title": "O livro das citações",
       "author": "Eduardo Giannetti",
@@ -21,6 +22,7 @@
       "title": "O livro dos filósofos mortos",
       "short_title": "O livro dos filósofos mortos",
       "author": "Simon Critchley",
+      "lang": "pt",
       "tag": "o-livro-dos-filosofos-mortos",
       "since": "",
       "ignore_locs": []
@@ -32,9 +34,11 @@
       "title": "Por uma moral da ambiguidade",
       "short_title": "Por uma moral da ambiguidade",
       "author": "Simone de Beauvoir",
+      "lang": "pt",
+      "pronoun": "ela",
       "tag": "por-uma-moral-da-ambiguidade",
       "since": "",
-      "ignore_locs": []
+      "ignore_locs": [126]
     }
   ]
 }

@@ -52,12 +52,13 @@ try {
     # 1) pendentes (cruza com TODAS as notas do vault)
     & $py -I "$scripts\crossmatch.py" $libFile --json "$wd\hl.json" @plain | Out-Null
     if ($LASTEXITCODE -ne 0) { $avisos += "❌ ${slug}: crossmatch falhou"; continue }
-    $bookJson = $b | Select-Object title, short_title, author, publisher, year, tag, anthology
-    ($bookJson | ConvertTo-Json -Compress) | Set-Content -Encoding UTF8 "$wd\book.json"
+    $bookJson = $b | Select-Object title, short_title, author, publisher, year, tag, anthology, lang, pronoun, sections
+    ($bookJson | ConvertTo-Json -Compress -Depth 5) | Set-Content -Encoding UTF8 "$wd\book.json"
 
-    # 2) gerar (sem --confirm: autoria nunca é inventada)
+    # 2) gerar (sem --confirm: autoria nunca é inventada). --auto: destaque cortado vira nota com a tag
+    #    destaque-cortado; heurísticas marcam trecho de outro autor com a tag de autor não confirmado.
     $skip = ($b.ignore_locs -join ',')
-    $gargs = @('--lib', $libFile, '--hl', "$wd\hl.json", '--out', "$wd\drafts", '--book', "$wd\book.json")
+    $gargs = @('--lib', $libFile, '--hl', "$wd\hl.json", '--out', "$wd\drafts", '--book', "$wd\book.json", '--auto')
     if ($skip) { $gargs += @('--skip', $skip) }
     if ($b.since) { $gargs += @('--since', $b.since) }
     $gout = (& $py -I "$scripts\generate.py" @gargs 2>&1 | Out-String)
@@ -65,7 +66,9 @@ try {
     if ($gexit -notin 0, 2) { $avisos += "❌ ${slug}: generate.py falhou"; Log $gout; continue }
     $m = [regex]::Match($gout, 'gerados=(\d+) pendencias=(\d+)')
     $n = [int]$m.Groups[1].Value; $pend = [int]$m.Groups[2].Value
-    Log "${slug}: gerados=$n pendencias=$pend modo=$($b.mode)"
+    $mk = [regex]::Match($gout, 'autor_nao_confirmado=(\d+) cortados=(\d+)')
+    $unc = [int]$mk.Groups[1].Value; $cut = [int]$mk.Groups[2].Value
+    Log "${slug}: gerados=$n pendencias=$pend autor_nao_confirmado=$unc cortados=$cut modo=$($b.mode)"
     $pendTxt = ($gout -split "`n" | Where-Object { $_ -like 'PENDENTE*' } | Select-Object -First 3) -join ' | '
 
     if ($b.mode -ne 'auto') {
@@ -103,6 +106,8 @@ try {
     $res = & "$scripts\save.ps1" @sargs
     $gravadas += $n
     $msg = "📖 $($b.short_title): $n nota(s) nova(s) importada(s)."
+    if ($unc -gt 0) { $msg += " $unc com autor a conferir (tag de autor não confirmado)." }
+    if ($cut -gt 0) { $msg += " $cut destaque(s) cortado(s) (tag destaque-cortado)." }
     if ($pend -gt 0) { $msg += " $pend não importada(s): $pendTxt" }
     $avisos += $msg
   }
