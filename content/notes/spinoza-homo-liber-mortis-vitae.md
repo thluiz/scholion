@@ -14,3 +14,5 @@ sources:
 ---
 
 Da *Ethica* IV, proposição LXVII (1677). Inversão direta da tradição estoica e da posição de Montaigne ("Que philosopher c'est apprendre à mourir"). Spinoza sustenta o oposto: o homem livre pensa o mínimo possível na morte. A sabedoria dele é meditação sobre a vida, não sobre o fim dela. A posição é parte do programa afirmativo da Ethica: a virtude é poder de existir e perseverar, não preparação para deixar de existir.
+
+Simon Critchley cita a proposição em inglês em *Notes on Suicide* (2015): [Spinoza puts it, ‘A free man thinks of nothing less than death…’](/notes/spinoza-puts-it-a-free-man-thinks-of-nothing-less/).
