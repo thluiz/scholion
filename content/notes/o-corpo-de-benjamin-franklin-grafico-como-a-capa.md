@@ -3,11 +3,13 @@ title: "O corpo de Benjamin Franklin, gráfico, como a capa de um velho livro, c
 date: '2026-11-02T01:01:23+00:00'
 category: quote
 summary: 'Epitáfio de Benjamin Franklin, em que o gráfico descreve o próprio corpo como um velho livro, reproduzido em O livro das citações, de Eduardo Giannetti.'
-tags: ["benjamin-franklin", "eduardo-giannetti", "epitafio"]
+tags: ["benjamin-franklin", "eduardo-giannetti", "epitafio", "o-livro-das-citacoes"]
 has_commentary: false
 sources:
-  - title: "O livro das citações"
+  - title: "O livro das citações: um breviário de ideias replicantes"
     author: "Eduardo Giannetti"
+    year: 2008
+    publisher: "Companhia das Letras"
     url: "https://amz.onl/0aOltPrb"
     kind: book
   - title: "The Works of Benjamin Franklin"
