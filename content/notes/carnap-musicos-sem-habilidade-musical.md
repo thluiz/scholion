@@ -3,7 +3,7 @@ title: "Os filósofos metafísicos são músicos sem habilidade musical"
 date: 2026-06-13T18:52:37+01:00
 category: quote
 summary: "Frase de Carnap em ensaio de 1932 do Círculo de Viena: a metafísica seria expressão de uma atitude diante da vida, como a arte, porém em meio inadequado — o metafísico é o artista que não tem o dom."
-tags: ["rudolf-carnap", "circulo-de-viena", "metafisica", "positivismo-logico"]
+tags: ["rudolf-carnap", "circulo-de-viena", "metafisica", "positivismo-logico", "o-livro-das-citacoes"]
 has_commentary: true
 sources:
   - title: "Überwindung der Metaphysik durch logische Analyse der Sprache"
