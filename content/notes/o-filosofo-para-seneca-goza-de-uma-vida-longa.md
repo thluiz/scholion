@@ -3,7 +3,7 @@ title: "O filósofo, para Séneca, goza de uma vida longa, porque não se preocu
 date: '2026-08-05T08:06:11-03:00'
 category: quote
 summary: 'Passagem de Simon Critchley em O Livro dos Filósofos Mortos, edição em português publicada em 2020 por Edições 70, a partir do original The Book of Dead Philosophers.'
-tags: ["simon-critchley", "seneca", "filosofia"]
+tags: ["simon-critchley", "seneca", "filosofia", "o-livro-dos-filosofos-mortos"]
 has_commentary: false
 sources:
   - title: "O Livro dos Filósofos Mortos"
