@@ -16,7 +16,14 @@
 
   <section class="scholion-list">
     <header class="scholion-list-header">
-      <h1>{{ if $isSpecies }}{{ $nome }}{{ else }}#{{ .Title }}{{ end }}</h1>
+      {{ $book := .Params.book }}
+      <h1>{{ if $isSpecies }}{{ $nome }}{{ else if $book }}{{ .Title }}{{ else }}#{{ .Title }}{{ end }}</h1>
+      {{ with $book }}
+        <p class="scholion-book-meta">
+          {{ .author }}{{ with .publisher }} · {{ . }}{{ end }}{{ with .year }} · {{ . }}{{ end }}
+        </p>
+      {{ end }}
+      {{ with .Description }}<p class="scholion-book-desc">{{ . }}</p>{{ end }}
       {{ $latest := index (.Pages.ByDate.Reverse) 0 }}
       <p class="scholion-count">
         {{ len .Pages }}
@@ -29,7 +36,7 @@
       {{ if $vizinhos }}
         <div class="scholion-cotags">
           <span class="scholion-cotags-label">
-            {{ if $isSpecies }}também vistas onde há {{ lower $nome }}:{{ else }}também aparecem com #{{ .Title | lower }}:{{ end }}
+            {{ if $isSpecies }}também vistas onde há {{ lower $nome }}:{{ else }}também aparecem com #{{ .Data.Term }}:{{ end }}
           </span>
           <ul class="scholion-cotags-list">
             {{ range $vizinhos }}
