@@ -3,7 +3,7 @@ title: "Dada a natureza competitiva das vendas no mercado, o público é necessa
 date: '2026-11-01T03:41:14+00:00'
 category: quote
 summary: 'Passagem de Friedrich Nietzsche sobre o mercado competitivo, o julgamento do público pela aparência e o declínio da qualidade, reproduzida por Eduardo Giannetti em O livro das citações (2008).'
-tags: ["nietzsche", "eduardo-giannetti", "mercado", "aparencia"]
+tags: ["nietzsche", "eduardo-giannetti", "mercado", "aparencia", "o-livro-das-citacoes"]
 has_commentary: false
 sources:
   - title: "O livro das citações: um breviário de ideias replicantes"
