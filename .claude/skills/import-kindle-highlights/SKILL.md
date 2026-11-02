@@ -86,11 +86,20 @@ Passagem de <Autor>, datada de <ano> em <Livro>, de <Autor do livro>.
 - Ano: só quando o livro o traz junto à frase; senão "reunida por <Autor do livro> em <Livro>". Em livro de autor único (não antologia), a frase é do próprio autor: tags `<autor>` + `<tag-do-livro>`, corpo "Passagem de <Livro>, de <Autor>."
 - Tag do autor da frase: reaproveitar a que já existe no vault (`Grep` em `tags:`); nomes completos quando inequívocos.
 - Slug: primeiras palavras do título, ≤ 50 caracteres, conferir colisão. Se colidir, **parar**: é nota existente (voltar ao passo 2), não sufixar `-2`.
-- Título com artefato de captura (letra solta no fim, destaque cortado) → não gerar; perguntar.
+- Título com artefato de captura (letra solta no fim, nota de rodapé grudada como "Tully1", número de seção no início) → não gerar; perguntar. Destaque apenas cortado entra se o autor mandar (`--accept`), com a tag `destaque-cortado`.
 **Script:** `scripts/generate.py` faz tudo acima (modelo, escapes, slug, colisão). Entradas, todas no scratchpad:
 
-- `book.json`: `{"title","short_title","author","publisher","year","tag","anthology"}` (`short_title` = nome do livro nos textos; `anthology: false` para livro de autor único).
-- `confirm.json` (opcional): `{"<loc>": {"author","tag","year"}}`, **só** autoria que o autor confirmou para destaque sem atribuição.
+- `book.json`: `{"title","short_title","author","publisher","year","tag","anthology","lang","pronoun","sections"}`. `short_title` = nome do livro nos textos; `anthology: false` para livro de autor único; `lang` = idioma das notas (`pt` padrão, `en`); `pronoun` = `ele` (padrão) ou `ela`, usado em "em que ele cita outro autor".
+- `sections` (autor único com texto de outra pessoa: apêndice, prefácio): `[{"from_loc": 1072, "to_loc": null, "author": "David Hume", "tag": "david-hume"}]`. O destaque no intervalo vira "Citação de David Hume reunida por Simon Critchley em Notes on Suicide", tags `[autor-da-seção, tag-do-livro]`, mesma fonte do livro.
+- `confirm.json` (opcional), **só** com o que o autor confirmou:
+  - antologia: `{"<loc>": {"author","tag","year"}}` para destaque sem atribuição;
+  - autor único: `{"<loc>": {"cites": true}}` (cita outro autor, não identificado), `{"<loc>": {"cites": "Montaigne", "tag": "michel-de-montaigne", "ref": "*Ensaios* I.20", "url": "https://…"}}` (identificado: corpo "em que ele cita Montaigne, *Ensaios* I.20 ([fonte](…))" + tag do citado) ou `{"<loc>": {"cites": false}}` (desfaz falso positivo das heurísticas).
+- **Heurísticas** (autor único, fora de seção; o `confirm.json` prevalece), sempre ligadas:
+  - **A**: destaque que abre com aspas (`«` `“` `‘` `"`) → "em que ele cita outro autor".
+  - **B**: destaque que menciona o sobrenome do autor do livro → texto de outro autor sobre a obra (prefácio, apresentação): corpo "Trecho de <Livro>, de <Autor>, escrito por outro autor sobre a obra", sem a tag do autor do livro.
+  - As duas acrescentam a tag de autor não confirmado **no idioma da nota**: `autor-nao-confirmado` (pt) ou `author-to-be-confirmed` (en). Marcar à toa é melhor do que atribuir errado. A não pega citação sem aspas (Blackstone, Blanchot, poema zen em *Filósofos mortos*): na listagem do passo 2, apontar ao autor o que parecer fala de terceiro.
+- **Salvar primeiro, atribuir depois** (decisão do autor, 2026-11-02): na dúvida sobre a autoria, gravar com a tag de autor não confirmado em vez de deixar de fora; a atribuição se confirma depois (pesquisa na web serve de indício, o autor confirma) e a nota troca a tag pelo autor citado.
+- Destaque curto/cortado importado (`--accept` ou rotina com `--auto`) leva a tag `destaque-cortado` (uma só, em qualquer idioma), para o autor achar todos depois.
 - `--skip <locs>`: o que o autor mandou deixar de fora.
 - `--accept <locs>`: destaques curtos ou cortados que o autor, depois de ver a listagem, mandou importar assim mesmo (o título continua idêntico ao destaque, com o corte).
 
@@ -100,7 +109,7 @@ python -I E:\scholion\.claude\skills\import-kindle-highlights\scripts\generate.p
 
 Dois destaques podem ter a **mesma loc** (Notes on Suicide: 4 pares). O gerador trata cada um pelo par loc + texto, então os dois viram draft; `--skip`/`--accept` valem para a loc inteira.
 
-Código de saída 2 = há `PENDENTE`: destaque sem autor, cortado, nome fora de `scripts/authors.json` ou slug que já existe. Nada disso vira draft; perguntar ao autor. Nome novo e inequívoco entra em `authors.json` (nome completo + tag; reaproveitar a tag que já existe no vault) com a confirmação do autor. Testado: reproduziu byte a byte os 33 drafts da importação de Giannetti.
+Código de saída 2 = há `PENDENTE`: destaque sem autor, cortado (sem `--accept`), nome fora de `scripts/authors.json` ou slug que já existe. Nada disso vira draft; perguntar ao autor. Nome novo e inequívoco entra em `authors.json` (nome completo + tag; reaproveitar a tag que já existe no vault) com a confirmação do autor. Testado: reproduziu byte a byte os 33 drafts da importação de Giannetti.
 
 Se o shell mangar barras ao escrever script, usar a tool Write (não heredoc) ou `chr(92)`/`chr(34)`.
 
@@ -155,11 +164,11 @@ Mesmo fluxo; o passo 2 já separa o que é novo. Se não há pendente, dizer iss
 `scripts/auto-import.ps1`, pensada para a task `\Claude\KindleImport` (04:00, depois do `\Claude\KindleDaily` de 01:00 que baixa os destaques). Sem LLM: gerar → `verify.py` → `save.ps1` (um commit por nota) → push → aviso no GossipGate. Só avisa quando algo acontece.
 
 - **Registro `books.json`** (nesta pasta): só entra livro que o autor liga explicitamente, porque as notas viram páginas públicas (há livros sensíveis na biblioteca). Campos: `library` (slug do arquivo), `mode` (`auto` importa; `notify` só avisa), `anthology`, `title`, `short_title`, `author` (o autor limpo, sem tradutores), `publisher`/`year` (opcionais, omitir se não conferidos), `tag`, `since` (só destaques adicionados nessa data ou depois; evita despejar o acervo antigo), `ignore_locs`.
-- **Livro de autor único (`anthology: false`)**: a frase é do autor do livro, então não há atribuição a conferir. Título = destaque inteiro. Fragmento (menos de 25 caracteres, ou terminado em `,` `;` `…`) não vira nota: sai como pendência no aviso.
+- **Livro de autor único (`anthology: false`)**: título = destaque inteiro; autor = o do livro, salvo `sections` e as heurísticas A/B do passo 4, que marcam a nota com a tag de autor não confirmado (no idioma do `lang` do livro). Fragmento (menos de 25 caracteres, ou terminado em `,` `;` `…`) vira nota com a tag `destaque-cortado` (`--auto`). O aviso diz quantas notas saíram com autor a conferir e quantas cortadas.
 - **Antologia**: fica em `mode: notify`; a rotina conta os destaques novos e avisa para rodar a skill. Autoria nunca é inventada (`--confirm` só existe no fluxo interativo).
 - **Aviso de livros sem import ligado**: toda execução lista os livros **fora** de `books.json` com destaques adicionados nos últimos 7 dias (`-RecentDays`), no formato "• Título (nº de destaques)". Cada destaque é avisado uma só vez (estado em `%LOCALAPPDATA%\scholion-kindle-import\state.json`); a primeira execução avisa tudo o que estiver na janela.
 - **Livro ligado é importado por inteiro** (decisão do autor, 2026-11-02): sem teto por execução (`-MaxPerBook 0`) e com `since` vazio entra o acervo antigo também. Teto opcional só via parâmetro `-MaxPerBook N`.
-- **Salvaguardas**: `verify.py` com ERRO → nada é gravado; fragmentos cortados, slugs que já existem e autoria incerta viram pendência no aviso, não nota. Tudo vira log em `%LOCALAPPDATA%\scholion-kindle-import\auto-import.log`.
+- **Salvaguardas**: `verify.py` com ERRO → nada é gravado; slugs que já existem viram pendência no aviso; autoria suspeita e fragmento cortado viram nota marcada (tags acima), não pendência. Tudo vira log em `%LOCALAPPDATA%\scholion-kindle-import\auto-import.log`.
 - **Teste sem gravar:** `pwsh -NoProfile -File scripts\auto-import.ps1 -Registry <arquivo.json> -DryRun`.
 - **Ligar um livro:** acrescentar a entrada em `books.json` com `mode: auto` e `since` = hoje (ou a data a partir da qual quer notas); o acervo anterior, se quiser, entra pela skill interativa.
 - **Registrar a task** (uma vez, pelo autor): ver `scripts/register-task.ps1`.
