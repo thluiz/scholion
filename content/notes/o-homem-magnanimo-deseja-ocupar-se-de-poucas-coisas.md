@@ -3,10 +3,10 @@ title: "O homem magnânimo deseja ocupar-se de apenas poucas coisas, e estas tê
 date: '2026-11-01T03:41:14+00:00'
 category: quote
 summary: 'Passagem atribuída a Aristóteles sobre o homem magnânimo e o peso da opinião de um único homem bom, reunida por Eduardo Giannetti em O livro das citações (Companhia das Letras, 2008).'
-tags: ["aristoteles", "eduardo-giannetti", "magnanimidade", "opiniao"]
+tags: ["aristoteles", "eduardo-giannetti", "magnanimidade", "opiniao", "o-livro-das-citacoes"]
 has_commentary: false
 sources:
-  - title: "O livro das citações"
+  - title: "O livro das citações: um breviário de ideias replicantes"
     author: "Eduardo Giannetti"
     year: 2008
     publisher: "Companhia das Letras"
