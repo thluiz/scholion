@@ -3,7 +3,7 @@ title: "A curiosa semelhança de família de todo filosofar indiano, grego e ale
 date: 2026-06-13T19:00:34+01:00
 category: quote
 summary: "De Para Além de Bem e Mal §20 (1886). Nietzsche explica a semelhança entre as filosofias indiana, grega e alemã pelo parentesco linguístico: a gramática comum guia, sem que se perceba, o curso dos sistemas."
-tags: ["friedrich-nietzsche", "filosofia-da-linguagem", "gramatica", "metafisica"]
+tags: ["friedrich-nietzsche", "filosofia-da-linguagem", "gramatica", "metafisica", "o-livro-das-citacoes"]
 has_commentary: true
 sources:
   - title: "Jenseits von Gut und Böse (Para Além de Bem e Mal)"
