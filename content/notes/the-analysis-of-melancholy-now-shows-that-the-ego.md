@@ -3,7 +3,7 @@ title: "The analysis of melancholy now shows that the ego can kill itself only i
 date: '2026-11-02T12:46:07+00:00'
 category: quote
 summary: 'Passagem de Notes on Suicide, de Simon Critchley (Fitzcarraldo Editions, 2015).'
-tags: ["simon-critchley", "notes-on-suicide"]
+tags: ["simon-critchley", "notes-on-suicide", "destaque-cortado"]
 has_commentary: false
 sources:
   - title: "Notes on Suicide"
