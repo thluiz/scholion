@@ -3,7 +3,8 @@ title: "Dada a natureza competitiva das vendas no mercado, o público é necessa
 date: '2026-10-31T21:28:47+00:00'
 category: quote
 summary: 'Citação de Friedrich Nietzsche atribuída por Eduardo Giannetti a Além do Bem e do Mal, obra publicada em 1886.'
-tags: ["friedrich-nietzsche", "alem-do-bem-e-do-mal", "mercado", "estetica", "eduardo-giannetti", "o-livro-das-citacoes"]
+tags: ["friedrich-nietzsche", "alem-do-bem-e-do-mal", "mercado", "estetica", "eduardo-giannetti", "o-livro-das-citacoes", "aparencia"]
+aliases: ["/notes/natureza-competitiva-vendas-publico-juiz-aparencia/"]
 has_commentary: false
 sources:
   - title: "O livro das citações: um breviário de ideias replicantes"
