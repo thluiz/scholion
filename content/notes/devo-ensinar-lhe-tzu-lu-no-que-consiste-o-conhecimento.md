@@ -3,10 +3,10 @@ title: "Devo ensinar-lhe, Tzu-lu, no que consiste o conhecimento? Quando você s
 date: '2026-11-02T01:05:17+00:00'
 category: quote
 summary: 'Fala atribuída a Confúcio, dirigida ao discípulo Tzu-lu, reunida por Eduardo Giannetti em O Livro das Citações — Breviário das Ideias Replicantes (Companhia das Letras, 2008).'
-tags: ["confucio", "eduardo-giannetti", "conhecimento"]
+tags: ["confucio", "eduardo-giannetti", "conhecimento", "o-livro-das-citacoes"]
 has_commentary: false
 sources:
-  - title: "O Livro das Citações — Breviário das Ideias Replicantes"
+  - title: "O livro das citações: um breviário de ideias replicantes"
     author: "Eduardo Giannetti"
     year: 2008
     publisher: "Companhia das Letras"
