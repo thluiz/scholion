@@ -3,7 +3,7 @@ title: "A invenção até mesmo do mais simples adjetivo precisou de mais metaf�
 date: 2026-06-13T18:45:22+01:00
 category: quote
 summary: "Passagem do ensaio de Adam Smith sobre a origem das línguas (1761): nomear a cor 'verde' já exige abstrair a qualidade da substância, e por isso o adjetivo mais banal pressupõe metafísica."
-tags: ["adam-smith", "filosofia-da-linguagem", "abstracao", "origem-das-linguas"]
+tags: ["adam-smith", "filosofia-da-linguagem", "abstracao", "origem-das-linguas", "o-livro-das-citacoes"]
 has_commentary: true
 sources:
   - title: "Considerations Concerning the First Formation of Languages"
