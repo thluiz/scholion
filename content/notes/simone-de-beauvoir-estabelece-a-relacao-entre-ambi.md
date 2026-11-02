@@ -8,6 +8,8 @@ has_commentary: false
 sources:
   - title: "Por uma moral da ambiguidade"
     author: "Simone de Beauvoir"
+    year: 2025
+    publisher: "Nova Fronteira"
     kind: book
 ---
 

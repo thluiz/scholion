@@ -8,8 +8,8 @@ has_commentary: false
 sources:
   - title: "Por uma moral da ambiguidade"
     author: "Simone de Beauvoir"
-    year: 1947
-    publisher: "Gallimard"
+    year: 2025
+    publisher: "Nova Fronteira"
     url: "https://amz.onl/0iV20t06"
     kind: book
 ---

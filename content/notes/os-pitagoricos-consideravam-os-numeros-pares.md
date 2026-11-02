@@ -7,9 +7,9 @@ tags: ["simon-critchley", "pitagoricos", "filosofia-antiga", "o-livro-dos-filoso
 has_commentary: false
 draft: true
 sources:
-  - title: "O Livro dos Filósofos Mortos"
+  - title: "O livro dos filósofos mortos"
     author: "Simon Critchley"
-    year: 2010
+    year: 2020
     publisher: "Edições 70"
     url: "https://amz.onl/0g4DL9Cz"
     kind: book

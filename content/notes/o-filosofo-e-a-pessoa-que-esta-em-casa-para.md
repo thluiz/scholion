@@ -7,8 +7,10 @@ tags: ["simon-critchley", "o-livro-dos-filosofos-mortos", "filosofia"]
 has_commentary: false
 draft: true
 sources:
-  - title: "O Livro dos Filósofos Mortos"
+  - title: "O livro dos filósofos mortos"
     author: "Simon Critchley"
+    year: 2020
+    publisher: "Edições 70"
     url: "https://amz.onl/0aD5y8c0"
     kind: book
   - title: "O livro dos filósofos mortos"

@@ -6,7 +6,7 @@ summary: 'Trecho de Simon Critchley em O Livro dos Filósofos Mortos, edição p
 tags: ["simon-critchley", "o-livro-dos-filosofos-mortos", "chuang-tse"]
 has_commentary: false
 sources:
-  - title: "O Livro dos Filósofos Mortos"
+  - title: "O livro dos filósofos mortos"
     author: "Simon Critchley"
     year: 2020
     publisher: "Edições 70"

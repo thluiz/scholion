@@ -23,6 +23,8 @@
       "short_title": "O livro dos filósofos mortos",
       "author": "Simon Critchley",
       "lang": "pt",
+      "publisher": "Edições 70",
+      "year": 2020,
       "tag": "o-livro-dos-filosofos-mortos",
       "since": "",
       "ignore_locs": []
@@ -36,6 +38,8 @@
       "author": "Simone de Beauvoir",
       "lang": "pt",
       "pronoun": "ela",
+      "publisher": "Nova Fronteira",
+      "year": 2025,
       "tag": "por-uma-moral-da-ambiguidade",
       "since": "",
       "ignore_locs": [126]

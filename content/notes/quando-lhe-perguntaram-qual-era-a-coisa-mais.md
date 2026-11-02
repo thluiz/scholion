@@ -6,8 +6,9 @@ summary: 'Trecho de Simon Critchley em O Livro dos Filósofos Mortos, edição e
 tags: ["simon-critchley", "diogenes", "filosofia", "cinismo", "o-livro-dos-filosofos-mortos"]
 has_commentary: false
 sources:
-  - title: "O Livro dos Filósofos Mortos"
+  - title: "O livro dos filósofos mortos"
     author: "Simon Critchley"
+    year: 2020
     publisher: "Edições 70"
     url: "https://amz.onl/03dJ7dtg"
     kind: book

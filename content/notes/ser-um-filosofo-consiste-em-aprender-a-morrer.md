@@ -6,8 +6,10 @@ summary: 'Trecho de Simon Critchley em O Livro dos Filósofos Mortos, obra indic
 tags: ["simon-critchley", "o-livro-dos-filosofos-mortos", "morte"]
 has_commentary: false
 sources:
-  - title: "O Livro dos Filósofos Mortos"
+  - title: "O livro dos filósofos mortos"
     author: "Simon Critchley"
+    year: 2020
+    publisher: "Edições 70"
     url: "https://amz.onl/0dh5ddaW"
     kind: book
   - title: "The Book of Dead Philosophers"

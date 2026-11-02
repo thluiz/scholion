@@ -8,6 +8,8 @@ has_commentary: false
 sources:
   - title: "O livro dos filósofos mortos"
     author: "Simon Critchley"
+    year: 2020
+    publisher: "Edições 70"
     kind: book
 ---
 
