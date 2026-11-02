@@ -5,7 +5,8 @@
 param(
   [string] $Registry = (Join-Path (Split-Path -Parent $PSScriptRoot) 'books.json'),
   [switch] $DryRun,            # gera e confere em pasta temporária; não grava, não commita, não dá push
-  [int] $MaxPerBook = 40       # acima disso não importa sozinha: avisa para rodar a skill (evita despejo em massa)
+  [int] $MaxPerBook = 40,      # acima disso não importa sozinha: avisa para rodar a skill (evita despejo em massa)
+  [int] $RecentDays = 7        # janela para "destaques recentes" em livros sem import ligado
 )
 $ErrorActionPreference = 'Stop'
 [Console]::OutputEncoding = [Text.Encoding]::UTF8
@@ -104,6 +105,30 @@ try {
     $msg = "📖 $($b.short_title): $n nota(s) nova(s) importada(s)."
     if ($pend -gt 0) { $msg += " $pend não importada(s): $pendTxt" }
     $avisos += $msg
+  }
+
+  # Livros FORA do registro com destaques recentes: só avisa (uma vez por destaque; estado em state.json).
+  $stateFile = Join-Path $logDir 'state.json'
+  $state = @{}
+  if (Test-Path $stateFile) {
+    (Get-Content -Raw -Encoding UTF8 $stateFile | ConvertFrom-Json -AsHashtable).GetEnumerator() | ForEach-Object { $state[$_.Key] = @($_.Value) }
+  }
+  $registrados = @($reg.books | ForEach-Object { $_.library })
+  $desde = (Get-Date).AddDays(-$RecentDays).ToString('yyyy-MM-dd')
+  $fora = @()
+  foreach ($f in Get-ChildItem $lib -Filter *.md) {
+    if ($registrados -contains $f.BaseName) { continue }
+    $txt = Get-Content -Raw -Encoding UTF8 $f.FullName
+    $novos = @([regex]::Matches($txt, '<!-- kh loc=(\d+) added=([\d-]+)') | Where-Object { $_.Groups[2].Value -ge $desde } |
+      ForEach-Object { $_.Groups[1].Value }) | Where-Object { $state[$f.BaseName] -notcontains $_ }
+    if ($novos.Count -eq 0) { continue }
+    $titulo = ([regex]::Match($txt, '(?m)^title:\s*(.+)$')).Groups[1].Value.Trim().Trim('"') -replace '\s*\(Portuguese Edition\)', ''
+    $fora += "• $titulo ($($novos.Count))"
+    $state[$f.BaseName] = @($state[$f.BaseName] | Where-Object { $_ }) + $novos
+  }
+  if ($fora.Count -gt 0) {
+    $avisos += "📚 Destaques recentes em livros sem import ligado:`n" + ($fora -join "`n") + "`n(ligar um livro: books.json, mode=auto)"
+    if (-not $DryRun) { $state | ConvertTo-Json -Depth 4 | Set-Content -Encoding UTF8 $stateFile }
   }
 
   if ($gravadas -gt 0 -and -not $DryRun) {
