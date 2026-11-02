@@ -3,7 +3,7 @@ title: "‘When people come to me saying they want to kill themselves, I tell th
 date: '2026-11-02T12:46:56+00:00'
 category: quote
 summary: 'Passagem de Notes on Suicide, de Simon Critchley (Fitzcarraldo Editions, 2015), em que ele cita outro autor.'
-tags: ["simon-critchley", "notes-on-suicide"]
+tags: ["simon-critchley", "notes-on-suicide", "autor-nao-confirmado"]
 has_commentary: false
 sources:
   - title: "Notes on Suicide"
