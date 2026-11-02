@@ -57,8 +57,10 @@ def main():
     confirm = json.load(open(a.confirm, encoding='utf-8')) if a.confirm else {}
     skip = {int(x) for x in a.skip.split(',') if x.strip()}
     accept = {int(x) for x in a.accept.split(',') if x.strip()}
-    pending = {int(h['loc']) for h in json.load(open(a.hl, encoding='utf-8'))}
-    by_loc = {h['loc']: h for h in kh.highlights(a.lib)}
+    # Pendente = par (loc, texto): dois destaques podem dividir a mesma loc, e indexar só pela loc
+    # descartava um deles em silêncio (Notes on Suicide, 2026-11-02: 4 pares).
+    pending = {(int(h['loc']), h['text'].strip()) for h in json.load(open(a.hl, encoding='utf-8'))}
+    todos = [h for h in kh.highlights(a.lib) if (h['loc'], h['raw']) in pending]
     existing = {os.path.basename(f)[:-3] for f in glob.glob(r'E:\scholion\content\notes\*.md')}
     os.makedirs(a.out, exist_ok=True)
     editora = book.get('publisher')
@@ -66,8 +68,10 @@ def main():
     ed_ano = ' (' + ', '.join(str(x) for x in (editora, ano_livro) if x) + ')' if (editora or ano_livro) else ''
 
     gerados, pendencias = [], []
-    for loc in sorted(pending - skip):
-        h = by_loc[loc]
+    for h in sorted(todos, key=lambda h: h['loc']):  # sort estável: mantém a ordem do livro na mesma loc
+        loc = h['loc']
+        if loc in skip:
+            continue
         if a.since and h['added'] and h['added'] < a.since:
             continue
         title, year = h['text'], h['year']
@@ -81,7 +85,7 @@ def main():
                 pendencias.append(f'loc {loc}: nome "{h["name"]}" fora de authors.json'); continue
             else:
                 nome, tag = authors[h['name']]['name'], authors[h['name']]['tag']
-            if title.endswith('...') or len(title) < 12:
+            if loc not in accept and (title.endswith('...') or len(title) < 12):
                 pendencias.append(f'loc {loc}: destaque curto ou cortado: "{title}"'); continue
         else:
             nome, tag, title, year = book['author'], slugify(book['author']), h['raw'], None
@@ -123,7 +127,7 @@ def main():
         open(os.path.join(a.out, base + '.md'), 'w', encoding='utf-8', newline='\n').write(md)
         gerados.append((loc, nome, year, base))
 
-    print(f'gerados={len(gerados)} pendencias={len(pendencias)} pulados={len(skip & pending)}')
+    print(f'gerados={len(gerados)} pendencias={len(pendencias)} pulados={sum(1 for h in todos if h["loc"] in skip)}')
     for loc, nome, year, base in gerados:
         print(f'  loc {loc} | {nome} ({year or "s/d"}) | {base}')
     for p in pendencias:
