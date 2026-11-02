@@ -3,7 +3,7 @@ title: "In The Myth of Sisyphus, Camus's overriding argument is that suicide is 
 date: '2026-07-13T20:53:19+01:00'
 category: quote
 summary: 'Passagem de Simon Critchley em Notes on Suicide, livro publicado em 2015 pela Fitzcarraldo Editions. O trecho situa Camus e Nietzsche no argumento do autor sobre o suicídio.'
-tags: ["simon-critchley", "suicidio"]
+tags: ["simon-critchley", "suicidio", "notes-on-suicide"]
 has_commentary: false
 sources:
   - title: "Notes on Suicide"
