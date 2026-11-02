@@ -3,7 +3,7 @@ title: "defendia a partilha comunitária de esposas e maridos e ensinava que as 
 date: '2026-07-18T17:55:42+01:00'
 category: quote
 summary: 'Passagem de Simon Critchley em O Livro dos Filósofos Mortos, edição brasileira publicada por Edições 70, no trecho em que trata de Diógenes e do sentido de seu cosmopolitismo.'
-tags: ["simon-critchley", "diogenes", "cosmopolitismo"]
+tags: ["simon-critchley", "diogenes", "cosmopolitismo", "o-livro-dos-filosofos-mortos"]
 has_commentary: false
 sources:
   - title: "O Livro dos Filósofos Mortos"
