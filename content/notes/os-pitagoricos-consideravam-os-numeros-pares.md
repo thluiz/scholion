@@ -3,7 +3,7 @@ title: "Os pitagóricos consideravam os números pares como femininos e os ímpa
 date: '2026-07-18T16:41:51+01:00'
 category: quote
 summary: 'Passagem de Simon Critchley em O Livro dos Filósofos Mortos, edição em português publicada em 2010, tradução de The Book of Dead Philosophers, lançado originalmente em 2008.'
-tags: ["simon-critchley", "pitagoricos", "filosofia-antiga"]
+tags: ["simon-critchley", "pitagoricos", "filosofia-antiga", "o-livro-dos-filosofos-mortos"]
 has_commentary: false
 draft: true
 sources:
