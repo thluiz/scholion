@@ -5,7 +5,7 @@
 param(
   [string] $Registry = (Join-Path (Split-Path -Parent $PSScriptRoot) 'books.json'),
   [switch] $DryRun,            # gera e confere em pasta temporária; não grava, não commita, não dá push
-  [int] $MaxPerBook = 40,      # acima disso não importa sozinha: avisa para rodar a skill (evita despejo em massa)
+  [int] $MaxPerBook = 0,       # 0 = sem limite (decisão do autor: livro ligado é importado por inteiro). >0 = teto por execução
   [int] $RecentDays = 7        # janela para "destaques recentes" em livros sem import ligado
 )
 $ErrorActionPreference = 'Stop'
@@ -76,7 +76,7 @@ try {
       if ($pend -gt 0) { $avisos += "⚠️ $($b.short_title): $pend destaque(s) não importado(s): $pendTxt" }
       continue
     }
-    if ($n -gt $MaxPerBook) {
+    if ($MaxPerBook -gt 0 -and $n -gt $MaxPerBook) {
       $avisos += "📚 $($b.short_title): $n destaques novos (> $MaxPerBook); importe pela skill import-kindle-highlights."
       continue
     }

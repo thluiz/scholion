@@ -148,7 +148,8 @@ Mesmo fluxo; o passo 2 já separa o que é novo. Se não há pendente, dizer iss
 - **Livro de autor único (`anthology: false`)**: a frase é do autor do livro, então não há atribuição a conferir. Título = destaque inteiro. Fragmento (menos de 25 caracteres, ou terminado em `,` `;` `…`) não vira nota: sai como pendência no aviso.
 - **Antologia**: fica em `mode: notify`; a rotina conta os destaques novos e avisa para rodar a skill. Autoria nunca é inventada (`--confirm` só existe no fluxo interativo).
 - **Aviso de livros sem import ligado**: toda execução lista os livros **fora** de `books.json` com destaques adicionados nos últimos 7 dias (`-RecentDays`), no formato "• Título (nº de destaques)". Cada destaque é avisado uma só vez (estado em `%LOCALAPPDATA%\scholion-kindle-import\state.json`); a primeira execução avisa tudo o que estiver na janela.
-- **Salvaguardas**: mais de 40 notas novas num livro em uma execução → não importa, avisa. `verify.py` com ERRO → nada é gravado. Tudo vira log em `%LOCALAPPDATA%\scholion-kindle-import\auto-import.log`.
+- **Livro ligado é importado por inteiro** (decisão do autor, 2026-11-02): sem teto por execução (`-MaxPerBook 0`) e com `since` vazio entra o acervo antigo também. Teto opcional só via parâmetro `-MaxPerBook N`.
+- **Salvaguardas**: `verify.py` com ERRO → nada é gravado; fragmentos cortados, slugs que já existem e autoria incerta viram pendência no aviso, não nota. Tudo vira log em `%LOCALAPPDATA%\scholion-kindle-import\auto-import.log`.
 - **Teste sem gravar:** `pwsh -NoProfile -File scripts\auto-import.ps1 -Registry <arquivo.json> -DryRun`.
 - **Ligar um livro:** acrescentar a entrada em `books.json` com `mode: auto` e `since` = hoje (ou a data a partir da qual quer notas); o acervo anterior, se quiser, entra pela skill interativa.
 - **Registrar a task** (uma vez, pelo autor): ver `scripts/register-task.ps1`.
