@@ -3,7 +3,7 @@ title: "‘The refutation of suicide: is it not inelegant to abandon a world whi
 date: '2026-11-02T12:46:26+00:00'
 category: quote
 summary: 'Passagem de Notes on Suicide, de Simon Critchley (Fitzcarraldo Editions, 2015), em que ele cita outro autor.'
-tags: ["simon-critchley", "notes-on-suicide"]
+tags: ["simon-critchley", "notes-on-suicide", "autor-nao-confirmado"]
 has_commentary: false
 sources:
   - title: "Notes on Suicide"
