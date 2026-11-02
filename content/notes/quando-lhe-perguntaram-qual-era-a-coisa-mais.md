@@ -3,7 +3,7 @@ title: "Quando lhe perguntaram qual era a coisa mais bela do mundo, Diógenes re
 date: '2026-07-18T17:54:36+01:00'
 category: quote
 summary: 'Trecho de Simon Critchley em O Livro dos Filósofos Mortos, edição em português publicada por Edições 70, situando Diógenes no panorama biográfico do livro.'
-tags: ["simon-critchley", "diogenes", "filosofia", "cinismo"]
+tags: ["simon-critchley", "diogenes", "filosofia", "cinismo", "o-livro-dos-filosofos-mortos"]
 has_commentary: false
 sources:
   - title: "O Livro dos Filósofos Mortos"
