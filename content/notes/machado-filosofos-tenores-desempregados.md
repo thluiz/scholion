@@ -3,7 +3,7 @@ title: "Há filósofos que são, em resumo, tenores desempregados"
 date: 2026-06-13T18:55:54+01:00
 category: quote
 summary: "Frase do capítulo X de Dom Casmurro (1899). Bento Santiago, aceitando a teoria da vida-ópera do tenor Marcolini, conclui que filosofa quem já perdeu a voz."
-tags: ["machado-de-assis", "dom-casmurro-1899", "metafisica", "ironia"]
+tags: ["machado-de-assis", "dom-casmurro-1899", "metafisica", "ironia", "o-livro-das-citacoes"]
 has_commentary: true
 sources:
   - title: "Dom Casmurro"
