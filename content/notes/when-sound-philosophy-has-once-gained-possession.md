@@ -3,7 +3,7 @@ title: "when sound philosophy has once gained possession of the mind, superstiti
 date: '2026-07-13T20:41:18+01:00'
 category: quote
 summary: 'Passagem de Simon Critchley em *Notes on Suicide*, livro publicado em 2015 pela Fitzcarraldo Editions, em Londres; a autoria está estabelecida pela fonte fornecida.'
-tags: ["simon-critchley", "suicidio"]
+tags: ["david-hume", "suicidio", "notes-on-suicide"]
 has_commentary: false
 sources:
   - title: "Notes on Suicide"
