@@ -87,7 +87,19 @@ Passagem de <Autor>, datada de <ano> em <Livro>, de <Autor do livro>.
 - Tag do autor da frase: reaproveitar a que já existe no vault (`Grep` em `tags:`); nomes completos quando inequívocos.
 - Slug: primeiras palavras do título, ≤ 50 caracteres, conferir colisão. Se colidir, **parar**: é nota existente (voltar ao passo 2), não sufixar `-2`.
 - Título com artefato de captura (letra solta no fim, destaque cortado) → não gerar; perguntar.
-- Gerar com script Python (`python -I`), sem heredoc aninhado; para escapar `\` e `"` usar `chr(92)`/`chr(34)` se o shell mangar as barras.
+**Script:** `scripts/generate.py` faz tudo acima (modelo, escapes, slug, colisão). Entradas, todas no scratchpad:
+
+- `book.json`: `{"title","short_title","author","publisher","year","tag","anthology"}` (`short_title` = nome do livro nos textos; `anthology: false` para livro de autor único).
+- `confirm.json` (opcional): `{"<loc>": {"author","tag","year"}}`, **só** autoria que o autor confirmou para destaque sem atribuição.
+- `--skip <locs>`: o que o autor mandou deixar de fora.
+
+```powershell
+python -I E:\scholion\.claude\skills\import-kindle-highlights\scripts\generate.py --lib E:\kindle-scrapper\library\<slug>.md --hl <scratchpad>\hl.json --out <scratchpad>\drafts --book <scratchpad>\book.json [--confirm <scratchpad>\confirm.json] [--skip 76,100]
+```
+
+Código de saída 2 = há `PENDENTE`: destaque sem autor, cortado, nome fora de `scripts/authors.json` ou slug que já existe. Nada disso vira draft; perguntar ao autor. Nome novo e inequívoco entra em `authors.json` (nome completo + tag; reaproveitar a tag que já existe no vault) com a confirmação do autor. Testado: reproduziu byte a byte os 33 drafts da importação de Giannetti.
+
+Se o shell mangar barras ao escrever script, usar a tool Write (não heredoc) ou `chr(92)`/`chr(34)`.
 
 ### 5. Conferência mecânica (no lugar do ghost-audit)
 
@@ -110,7 +122,11 @@ Mostrar: o modelo completo (um draft inteiro), a tabela numerada `nº · autor �
 
 ### 7. Gravar
 
-Script `.ps1` único, em loop, **uma nota por vez**:
+```powershell
+pwsh -NoProfile -File E:\scholion\.claude\skills\import-kindle-highlights\scripts\save.ps1 -Drafts <scratchpad>\drafts -Lib E:\kindle-scrapper\library\<slug>.md -Tag <tag-do-livro> -Scratch <scratchpad> -TagOnly slug1,slug2
+```
+
+(timeout 600000 na tool call.) O `save.ps1` roda o `verify.py --drafts` primeiro e não grava nada se houver ERRO. Em seguida, **uma nota por vez**:
 
 1. `Get-Date -Format 'yyyy-MM-ddTHH:mm:sszzz'` novo para cada nota (nunca reaproveitar).
 2. Escrever em `content/notes/<slug>.md` (UTF-8 sem BOM, LF), `git add`.

@@ -50,6 +50,13 @@ def parse(path):
             'body': t.split('\n---\n', 1)[-1], 'source': first}
 
 
+import os  # noqa: E402
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import kh  # noqa: E402
+
+highlights = kh.highlights  # mesma lógica de atribuição do generate.py (sobrescreve a versão acima)
+
+
 def main():
     lib, tag = sys.argv[1], sys.argv[2]
     if '--drafts' in sys.argv:
