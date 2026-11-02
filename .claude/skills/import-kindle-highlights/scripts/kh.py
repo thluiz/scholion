@@ -22,10 +22,11 @@ def highlights(path):
     """Destaques de library/<livro>.md -> [{'loc', 'raw', 'text', 'name', 'year'}]"""
     lib = open(path, encoding='utf-8').read()
     out = []
-    for m in re.finditer(r'((?:^>.*\n)+?)<!-- kh loc=(\d+)', lib, re.M):
+    for m in re.finditer(r'((?:^>.*\n)+?)<!-- kh loc=(\d+)(?: added=([\d-]+))?', lib, re.M):
         lines = [l[1:].strip() for l in m.group(1).splitlines()]
         lines = [l for l in lines if not l.startswith('— loc.') and not l.startswith('\U0001F4DD')]
         raw = ' '.join(lines).strip()
         text, name, year = split_attribution(raw)
-        out.append({'loc': int(m.group(2)), 'raw': raw, 'text': text, 'name': name, 'year': year})
+        out.append({'loc': int(m.group(2)), 'added': m.group(3) or '', 'raw': raw,
+                    'text': text, 'name': name, 'year': year})
     return out

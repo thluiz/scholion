@@ -1,0 +1,18 @@
+{
+  "_nota": "Livros que a rotina diária (auto-import.ps1, 04:00) acompanha. Só entra aqui o livro que o autor liga explicitamente: as notas viram páginas públicas. mode=auto importa sozinha; mode=notify só avisa. since = só destaques adicionados nessa data ou depois (evita despejar o acervo antigo). ignore_locs = destaques que o autor já decidiu deixar de fora.",
+  "books": [
+    {
+      "library": "o-livro-das-citacoes-portuguese-edition",
+      "mode": "notify",
+      "anthology": true,
+      "title": "O livro das citações: um breviário de ideias replicantes",
+      "short_title": "O livro das citações",
+      "author": "Eduardo Giannetti",
+      "publisher": "Companhia das Letras",
+      "year": 2008,
+      "tag": "o-livro-das-citacoes",
+      "since": "",
+      "ignore_locs": [76, 100, 731]
+    }
+  ]
+}

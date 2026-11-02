@@ -2,18 +2,22 @@
 
 Uso:
   python -I generate.py --lib <library/livro.md> --hl <pendentes.json> --out <pasta-drafts> \
-                        --book <book.json> [--confirm <confirm.json>] [--skip 76,100] [--skip-collision]
+                        --book <book.json> [--confirm <confirm.json>] [--skip 76,100]
+                        [--since YYYY-MM-DD] [--skip-collision]
 
   --hl        saída de crossmatch.py --json (os pendentes, com texto completo).
-  --book      {"title","short_title"(opcional, nome do livro nos textos),"author","publisher","year","tag","anthology": true|false}
+  --book      {"title","short_title"(opcional),"author","publisher"(opcional),"year"(opcional),
+               "tag","anthology": true|false}
   --confirm   {"<loc>": {"author": "Nome Completo", "tag": "slug-tag", "year": "1785"}}  autoria
-              confirmada pelo autor para destaques sem atribuição no livro. Nunca preencher por conta própria.
+              confirmada pelo autor para destaques sem atribuição (só antologia).
   --skip      locs a ignorar (decisão do autor).
+  --since     só destaques com added >= data (importação autônoma de livro já em andamento).
   --skip-collision  só para testes: não trata slug existente como erro.
 
-Regras: o título é a frase do destaque sem a atribuição do fim (kh.split_attribution), sem nenhuma outra
-edição. Nome ausente de authors.json, destaque sem autor e slug que já existe NÃO viram draft: saem na
-lista final e o código de saída é 2, para a skill perguntar ao autor.
+Antologia (anthology=true): o título é a frase sem a atribuição do fim (kh.split_attribution) e o autor vem
+de authors.json ou de --confirm. Livro de autor único (false): título = destaque inteiro; autor = o do livro.
+Nome ausente de authors.json, destaque sem autor/cortado/curto e slug que já existe NÃO viram draft: saem
+como PENDENTE e o código de saída é 2 (a skill pergunta ao autor; a rotina autônoma só avisa).
 """
 import argparse, glob, json, os, re, sys, io, unicodedata
 
@@ -41,10 +45,12 @@ def main():
     ap.add_argument('--book', required=True)
     ap.add_argument('--confirm')
     ap.add_argument('--skip', default='')
+    ap.add_argument('--since', default='')
     ap.add_argument('--skip-collision', action='store_true')
     a = ap.parse_args()
 
     book = json.load(open(a.book, encoding='utf-8'))
+    anthology = book.get('anthology', True)
     authors = json.load(open(os.path.join(HERE, 'authors.json'), encoding='utf-8'))
     confirm = json.load(open(a.confirm, encoding='utf-8')) if a.confirm else {}
     skip = {int(x) for x in a.skip.split(',') if x.strip()}
@@ -52,12 +58,17 @@ def main():
     by_loc = {h['loc']: h for h in kh.highlights(a.lib)}
     existing = {os.path.basename(f)[:-3] for f in glob.glob(r'E:\scholion\content\notes\*.md')}
     os.makedirs(a.out, exist_ok=True)
+    editora = book.get('publisher')
+    ano_livro = book.get('year')
+    ed_ano = ' (' + ', '.join(str(x) for x in (editora, ano_livro) if x) + ')' if (editora or ano_livro) else ''
 
     gerados, pendencias = [], []
     for loc in sorted(pending - skip):
         h = by_loc[loc]
+        if a.since and h['added'] and h['added'] < a.since:
+            continue
         title, year = h['text'], h['year']
-        if book.get('anthology', True):
+        if anthology:
             c = confirm.get(str(loc))
             if c:
                 nome, tag, year = c['author'], c['tag'], c.get('year', year)
@@ -71,21 +82,28 @@ def main():
                 pendencias.append(f'loc {loc}: destaque curto ou cortado: "{title}"'); continue
         else:
             nome, tag, title, year = book['author'], slugify(book['author']), h['raw'], None
+            if len(title) < 25 or title.rstrip().endswith(('...', '…', ',', ';')):
+                pendencias.append(f'loc {loc}: destaque curto ou cortado: "{title[:60]}"'); continue
         base = slugify(title)[:50].rstrip('-')
         if base in existing and not a.skip_collision:
             pendencias.append(f'loc {loc}: slug "{base}" já existe (nota existente? voltar ao crossmatch)'); continue
         livro, autor_livro = book.get('short_title', book['title']), book['author']  # livro = nome nos textos
         if year:
-            summ = f'Citação de {nome}, datada de {year} em {livro}, de {autor_livro} ({book["publisher"]}, {book["year"]}).'
+            summ = f'Citação de {nome}, datada de {year} em {livro}, de {autor_livro}{ed_ano}.'
             corpo = f'Passagem de {nome}, datada de {year} em {livro}, de {autor_livro}.'
-        elif book.get('anthology', True):
-            summ = f'Citação de {nome} reunida por {autor_livro} em {livro} ({book["publisher"]}, {book["year"]}).'
+        elif anthology:
+            summ = f'Citação de {nome} reunida por {autor_livro} em {livro}{ed_ano}.'
             corpo = f'Passagem de {nome} reunida por {autor_livro} em {livro}.'
         else:
-            summ = f'Passagem de {livro}, de {autor_livro} ({book["publisher"]}, {book["year"]}).'
+            summ = f'Passagem de {livro}, de {autor_livro}{ed_ano}.'
             corpo = f'Passagem de {livro}, de {autor_livro}.'
         tags = [tag] if tag == slugify(autor_livro) else [tag, slugify(autor_livro)]
         tags.append(book['tag'])
+        fonte = (f'  - title: "{yaml_dq(book["title"])}"\n'
+                 f'    author: "{autor_livro}"\n')
+        if ano_livro: fonte += f'    year: {ano_livro}\n'
+        if editora: fonte += f'    publisher: "{editora}"\n'
+        fonte += '    kind: book\n'
         md = (
             '---\n'
             f'title: "{yaml_dq(title)}"\n'
@@ -95,11 +113,7 @@ def main():
             'tags: [' + ', '.join(f'"{t}"' for t in dict.fromkeys(tags)) + ']\n'
             'has_commentary: false\n'
             'sources:\n'
-            f'  - title: "{yaml_dq(book["title"])}"\n'
-            f'    author: "{autor_livro}"\n'
-            f'    year: {book["year"]}\n'
-            f'    publisher: "{book["publisher"]}"\n'
-            '    kind: book\n'
+            + fonte +
             '---\n\n'
             f'{corpo}\n')
         existing.add(base)

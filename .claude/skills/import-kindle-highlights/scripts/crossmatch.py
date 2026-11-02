@@ -44,7 +44,7 @@ def main():
         corpus[f] = norm(open(f, encoding='utf-8').read())
     done, pending = [], []
     for loc, text in hl:
-        key = norm(strip_author(text))[:PREFIX]
+        key = norm(text if '--plain' in sys.argv else strip_author(text))[:PREFIX]
         hit = [f for f, t in corpus.items() if key and key in t]
         (done if hit else pending).append((loc, text, hit))
     print(f'total={len(hl)} ja_nota={len(done)} pendentes={len(pending)}')

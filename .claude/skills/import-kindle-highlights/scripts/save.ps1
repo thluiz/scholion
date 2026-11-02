@@ -3,7 +3,8 @@ param(
   [Parameter(Mandatory)] [string] $Lib,         # E:\kindle-scrapper\library\<livro>.md
   [Parameter(Mandatory)] [string] $Tag,         # tag do livro
   [Parameter(Mandatory)] [string] $Scratch,     # scratchpad (arquivo de mensagem de commit)
-  [string[]] $TagOnly = @()                     # slugs de notas JÁ existentes que só ganham a tag do livro
+  [string[]] $TagOnly = @(),                    # slugs de notas JÁ existentes que só ganham a tag do livro
+  [switch] $Plain                               # livro de autor único (título = destaque inteiro)
 )
 # Grava as notas aprovadas, uma por commit (--only). NÃO faz push: o push é do passo final da skill.
 $ErrorActionPreference = 'Stop'
@@ -13,7 +14,8 @@ $enc = New-Object Text.UTF8Encoding($false)
 $env:PYTHONIOENCODING = 'utf-8'
 
 # 1) Conferência mecânica obrigatória: erro bloqueia tudo (o marcador do gate depende dela).
-python -I "$here\verify.py" $Lib $Tag --drafts $Drafts
+$plainArg = if ($Plain) { @('--plain') } else { @() }
+python -I "$here\verify.py" $Lib $Tag --drafts $Drafts @plainArg
 if ($LASTEXITCODE -ne 0) { throw 'verify.py reportou ERRO; nada foi gravado.' }
 
 New-Item -ItemType Directory -Force "$repo\.ghost-audit" | Out-Null

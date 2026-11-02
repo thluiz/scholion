@@ -54,7 +54,11 @@ import os  # noqa: E402
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import kh  # noqa: E402
 
-highlights = kh.highlights  # mesma lógica de atribuição do generate.py (sobrescreve a versão acima)
+if '--plain' in sys.argv:
+    # livro de autor único: o título é o destaque inteiro, sem atribuição a separar
+    highlights = lambda p: [dict(h, text=h['raw'], year=None) for h in kh.highlights(p)]
+else:
+    highlights = kh.highlights  # mesma lógica de atribuição do generate.py (sobrescreve a versão acima)
 
 
 def main():

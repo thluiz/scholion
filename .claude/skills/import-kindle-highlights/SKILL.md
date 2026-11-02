@@ -140,6 +140,18 @@ Depois: `git push` uma vez, relatar "pushed `<hash>`" (nunca "publicado"). Confe
 
 Mesmo fluxo; o passo 2 já separa o que é novo. Se não há pendente, dizer isso e parar. Destaques novos de um livro com a tag/`_index.md` existentes só precisam dos passos 4–7.
 
+## Rotina autônoma diária (04:00)
+
+`scripts/auto-import.ps1`, pensada para a task `\Claude\KindleImport` (04:00, depois do `\Claude\KindleDaily` de 01:00 que baixa os destaques). Sem LLM: gerar → `verify.py` → `save.ps1` (um commit por nota) → push → aviso no GossipGate. Só avisa quando algo acontece.
+
+- **Registro `books.json`** (nesta pasta): só entra livro que o autor liga explicitamente, porque as notas viram páginas públicas (há livros sensíveis na biblioteca). Campos: `library` (slug do arquivo), `mode` (`auto` importa; `notify` só avisa), `anthology`, `title`, `short_title`, `author` (o autor limpo, sem tradutores), `publisher`/`year` (opcionais, omitir se não conferidos), `tag`, `since` (só destaques adicionados nessa data ou depois; evita despejar o acervo antigo), `ignore_locs`.
+- **Livro de autor único (`anthology: false`)**: a frase é do autor do livro, então não há atribuição a conferir. Título = destaque inteiro. Fragmento (menos de 25 caracteres, ou terminado em `,` `;` `…`) não vira nota: sai como pendência no aviso.
+- **Antologia**: fica em `mode: notify`; a rotina conta os destaques novos e avisa para rodar a skill. Autoria nunca é inventada (`--confirm` só existe no fluxo interativo).
+- **Salvaguardas**: mais de 40 notas novas num livro em uma execução → não importa, avisa. `verify.py` com ERRO → nada é gravado. Tudo vira log em `%LOCALAPPDATA%\scholion-kindle-import\auto-import.log`.
+- **Teste sem gravar:** `pwsh -NoProfile -File scripts\auto-import.ps1 -Registry <arquivo.json> -DryRun`.
+- **Ligar um livro:** acrescentar a entrada em `books.json` com `mode: auto` e `since` = hoje (ou a data a partir da qual quer notas); o acervo anterior, se quiser, entra pela skill interativa.
+- **Registrar a task** (uma vez, pelo autor): ver `scripts/register-task.ps1`.
+
 ## Armadilhas já vividas
 
 - `python3` inexistente: um script de merge não rodou, e deleções de duplicatas foram commitadas antes das edições; verificar o `git diff` **antes** de commitar.
