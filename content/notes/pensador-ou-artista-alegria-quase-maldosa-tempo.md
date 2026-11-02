@@ -3,11 +3,13 @@ title: "O pensador ou artista que guardou o melhor de si em suas obras sente uma
 date: '2026-11-02T00:59:15+00:00'
 category: quote
 summary: 'Passagem de Friedrich Nietzsche sobre o criador que preserva o melhor de si na obra diante da ação do tempo, reunida por Eduardo Giannetti em O livro das citações.'
-tags: ["friedrich-nietzsche", "eduardo-giannetti", "obra-e-tempo"]
+tags: ["friedrich-nietzsche", "eduardo-giannetti", "obra-e-tempo", "o-livro-das-citacoes"]
 has_commentary: false
 sources:
-  - title: "O livro das citações"
+  - title: "O livro das citações: um breviário de ideias replicantes"
     author: "Eduardo Giannetti"
+    year: 2008
+    publisher: "Companhia das Letras"
     url: "https://amz.onl/08HQxNBG"
     kind: book
 ---
