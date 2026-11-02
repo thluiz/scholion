@@ -3,7 +3,7 @@ title: "One considerable advantage, that arises from philosophy, consists in the
 date: '2026-07-13T20:54:12+01:00'
 category: quote
 summary: 'Trecho de Notes on Suicide, de Simon Critchley, publicado em 2015 pela Fitzcarraldo Editions. No livro, a passagem se situa no ensaio filosófico sobre o suicídio.'
-tags: ["simon-critchley", "suicidio"]
+tags: ["david-hume", "suicidio", "notes-on-suicide"]
 has_commentary: false
 sources:
   - title: "Notes on Suicide"
