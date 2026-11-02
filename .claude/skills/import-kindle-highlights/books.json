@@ -13,6 +13,28 @@
       "tag": "o-livro-das-citacoes",
       "since": "",
       "ignore_locs": [76, 100, 731]
+    },
+    {
+      "library": "o-livro-dos-filosofos-mortos-portuguese-edition",
+      "mode": "auto",
+      "anthology": false,
+      "title": "O livro dos filósofos mortos",
+      "short_title": "O livro dos filósofos mortos",
+      "author": "Simon Critchley",
+      "tag": "o-livro-dos-filosofos-mortos",
+      "since": "",
+      "ignore_locs": []
+    },
+    {
+      "library": "por-uma-moral-da-ambiguidade-portuguese-edition",
+      "mode": "auto",
+      "anthology": false,
+      "title": "Por uma moral da ambiguidade",
+      "short_title": "Por uma moral da ambiguidade",
+      "author": "Simone de Beauvoir",
+      "tag": "por-uma-moral-da-ambiguidade",
+      "since": "",
+      "ignore_locs": []
     }
   ]
 }
