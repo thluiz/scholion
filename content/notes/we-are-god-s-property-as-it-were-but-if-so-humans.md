@@ -1,0 +1,16 @@
+---
+title: "We are God’s property, as it were. But if so, humans are queer or weird property because we still somehow have the impression of acting under our own volition. People are not pot plants sitting passively in some divine greenhouse. However the capacity for free will is understood, it permits us to act against divine will. Although I might wish to align my imperfect will with the perfect will of God in order to act well, such alignment is, and moreover must, never be attained. If I claim that my will is God’s will, then I am implicitly claiming that all my actions are divinely sanctioned, which is hubristic, if not sinful."
+date: '2026-11-02T12:46:46+00:00'
+category: quote
+summary: 'Passagem de Notes on Suicide, de Simon Critchley (Fitzcarraldo Editions, 2015).'
+tags: ["simon-critchley", "notes-on-suicide"]
+has_commentary: false
+sources:
+  - title: "Notes on Suicide"
+    author: "Simon Critchley"
+    year: 2015
+    publisher: "Fitzcarraldo Editions"
+    kind: book
+---
+
+Passagem de Notes on Suicide, de Simon Critchley.
