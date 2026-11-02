@@ -3,11 +3,13 @@ title: "Depois da catástrofe da Primeira Guerra Mundial, evaporou-se o sonho de
 date: '2026-11-02T08:16:40+00:00'
 category: quote
 summary: 'Passagem de Peter Bernstein sobre o fim da expectativa de certeza após a Primeira Guerra Mundial, reproduzida por Eduardo Giannetti em O livro das citações.'
-tags: ["peter-bernstein", "eduardo-giannetti", "incerteza", "conhecimento"]
+tags: ["peter-bernstein", "eduardo-giannetti", "incerteza", "conhecimento", "o-livro-das-citacoes"]
 has_commentary: false
 sources:
-  - title: "O livro das citações"
+  - title: "O livro das citações: um breviário de ideias replicantes"
     author: "Eduardo Giannetti"
+    year: 2008
+    publisher: "Companhia das Letras"
     url: "https://amz.onl/0f6wGd2p"
     kind: book
 ---
