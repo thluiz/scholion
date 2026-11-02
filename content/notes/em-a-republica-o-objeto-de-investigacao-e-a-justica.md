@@ -3,7 +3,7 @@ title: "em A República, o objeto de investigação é a justiça. «O que é a 
 date: '2026-07-13T21:01:07+01:00'
 category: quote
 summary: 'Trecho de Simon Critchley em O Livro dos Filósofos Mortos, versão em português de The Book of Dead Philosophers, livro publicado em 2008 sobre a tradição filosófica.'
-tags: ["simon-critchley", "justica"]
+tags: ["simon-critchley", "justica", "o-livro-dos-filosofos-mortos"]
 has_commentary: false
 sources:
   - title: "O Livro dos Filósofos Mortos"
