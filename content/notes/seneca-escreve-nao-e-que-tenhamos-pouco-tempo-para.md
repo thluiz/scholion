@@ -1,0 +1,14 @@
+---
+title: "Séneca escreve: «Não é que tenhamos pouco tempo para viver, mas antes que o desperdiçamos bastante.» O problema da vida não é a sua brevidade, mas o facto de nós a dissiparmos como se ela nunca fosse acabar, como se a vida durasse infinitamente. Vivemos numa imortalidade contrafeita, em que acreditamos no nosso desejo de imortalidade e ocultando o medo da morte que lhe subjaz. Séneca afirma: «Agem como mortais em tudo o que receiam, e como imortais em tudo o que desejam.» A atitude filosófica correta é exatamente a contrária."
+date: '2026-11-02T12:54:55+00:00'
+category: quote
+summary: 'Passagem de O livro dos filósofos mortos, de Simon Critchley.'
+tags: ["simon-critchley", "o-livro-dos-filosofos-mortos"]
+has_commentary: false
+sources:
+  - title: "O livro dos filósofos mortos"
+    author: "Simon Critchley"
+    kind: book
+---
+
+Passagem de O livro dos filósofos mortos, de Simon Critchley.
