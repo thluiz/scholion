@@ -3,7 +3,7 @@ title: "Lucrécio junta-se ao seu mestre Epicuro na defesa de que «a morte nada
 date: '2026-11-02T12:56:32+00:00'
 category: quote
 summary: 'Passagem de O livro dos filósofos mortos, de Simon Critchley.'
-tags: ["simon-critchley", "o-livro-dos-filosofos-mortos"]
+tags: ["simon-critchley", "o-livro-dos-filosofos-mortos", "destaque-cortado"]
 has_commentary: false
 sources:
   - title: "O livro dos filósofos mortos"
