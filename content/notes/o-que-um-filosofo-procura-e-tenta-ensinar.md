@@ -3,7 +3,7 @@ title: "O que um filósofo procura e tenta ensinar é algo «grande, supremo e q
 date: '2026-08-05T08:23:02-03:00'
 category: quote
 summary: 'Trecho de Simon Critchley em O livro dos filósofos mortos, edição em português publicada em 2020 pela Edições 70, no contexto de sua exposição sobre a concepção estoica da alma e da morte.'
-tags: ["simon-critchley", "estoicismo", "alma", "morte"]
+tags: ["simon-critchley", "estoicismo", "alma", "morte", "o-livro-dos-filosofos-mortos"]
 has_commentary: false
 sources:
   - title: "O livro dos filósofos mortos"
