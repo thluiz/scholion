@@ -3,7 +3,7 @@ title: "partially explains the phenomenon of the suicide note and its mixture of
 date: '2026-11-02T12:45:06+00:00'
 category: quote
 summary: 'Passagem de Notes on Suicide, de Simon Critchley (Fitzcarraldo Editions, 2015).'
-tags: ["simon-critchley", "notes-on-suicide"]
+tags: ["simon-critchley", "notes-on-suicide", "destaque-cortado"]
 has_commentary: false
 sources:
   - title: "Notes on Suicide"
