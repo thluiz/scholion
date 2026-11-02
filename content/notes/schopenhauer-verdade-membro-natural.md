@@ -18,7 +18,7 @@ category: quote
 summary: 'De Parerga und Paralipomena II, cap. XXII, §§258 e 260 (1851). Leitura
   em excesso atrofia o pensamento próprio; a verdade conquistada pelo raciocínio é
   membro natural — a meramente aprendida, prótese.'
-tags: ["arthur-schopenhauer", "parerga-und-paralipomena", "leitura", "selbstdenken"]
+tags: ["arthur-schopenhauer", "parerga-und-paralipomena", "leitura", "selbstdenken", "o-livro-das-citacoes"]
 has_commentary: false
 sources:
   - title: "Parerga und Paralipomena, Band II, Kapitel XXII: Über das Selbstdenken, §§258 und 260"
