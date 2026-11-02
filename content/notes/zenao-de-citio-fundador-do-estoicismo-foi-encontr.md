@@ -3,7 +3,7 @@ title: "Zenão de Cítio (335–263 a. C.) Fundador do estoicismo, foi encontrad
 date: '2026-07-25T19:40:26+01:00'
 category: quote
 summary: 'Passagem de Simon Critchley em O Livro dos Filósofos Mortos, edição em português publicada pela Edições 70, ao tratar de Zenão de Cítio e do estoicismo.'
-tags: ["simon-critchley", "estoicismo", "zenao-de-citio"]
+tags: ["simon-critchley", "estoicismo", "zenao-de-citio", "o-livro-dos-filosofos-mortos"]
 has_commentary: false
 sources:
   - title: "O Livro dos Filósofos Mortos"
