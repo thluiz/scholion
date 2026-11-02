@@ -12,6 +12,7 @@ Uso:
               confirmada pelo autor para destaques sem atribuição (só antologia).
   --skip      locs a ignorar (decisão do autor).
   --since     só destaques com added >= data (importação autônoma de livro já em andamento).
+  --accept    locs de destaques curtos/cortados que o autor mandou importar assim mesmo (livro de autor único).
   --skip-collision  só para testes: não trata slug existente como erro.
 
 Antologia (anthology=true): o título é a frase sem a atribuição do fim (kh.split_attribution) e o autor vem
@@ -46,6 +47,7 @@ def main():
     ap.add_argument('--confirm')
     ap.add_argument('--skip', default='')
     ap.add_argument('--since', default='')
+    ap.add_argument('--accept', default='')   # locs de destaques curtos/cortados que o autor mandou importar assim mesmo
     ap.add_argument('--skip-collision', action='store_true')
     a = ap.parse_args()
 
@@ -54,6 +56,7 @@ def main():
     authors = json.load(open(os.path.join(HERE, 'authors.json'), encoding='utf-8'))
     confirm = json.load(open(a.confirm, encoding='utf-8')) if a.confirm else {}
     skip = {int(x) for x in a.skip.split(',') if x.strip()}
+    accept = {int(x) for x in a.accept.split(',') if x.strip()}
     pending = {int(h['loc']) for h in json.load(open(a.hl, encoding='utf-8'))}
     by_loc = {h['loc']: h for h in kh.highlights(a.lib)}
     existing = {os.path.basename(f)[:-3] for f in glob.glob(r'E:\scholion\content\notes\*.md')}
@@ -82,7 +85,7 @@ def main():
                 pendencias.append(f'loc {loc}: destaque curto ou cortado: "{title}"'); continue
         else:
             nome, tag, title, year = book['author'], slugify(book['author']), h['raw'], None
-            if len(title) < 25 or title.rstrip().endswith(('...', '…', ',', ';')):
+            if loc not in accept and (len(title) < 25 or title.rstrip().endswith(('...', '…', ',', ';'))):
                 pendencias.append(f'loc {loc}: destaque curto ou cortado: "{title[:60]}"'); continue
         base = slugify(title)[:50].rstrip('-')
         if base in existing and not a.skip_collision:
