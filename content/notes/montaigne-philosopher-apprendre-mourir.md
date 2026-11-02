@@ -14,3 +14,5 @@ sources:
 ---
 
 Título do capítulo 20 do livro I dos *Essais* (1580). Formulação que Montaigne herda de Cícero (*Tusculanas* I, 31), que por sua vez cita Sócrates no *Fédon* de Platão. A meditação preparatória sobre a morte é, segundo Montaigne, o trabalho central da filosofia, e por isso o capítulo abre o programa do livro inteiro. A posição evoluiria nos textos posteriores: nas adições de 1588 e 1595, Montaigne suaviza a ênfase soturna em favor de uma sabedoria mais leve do viver.
+
+Simon Critchley cita o ensaio em *O livro dos filósofos mortos*: [E assim formei o hábito de ter a morte continuamente presente…](/notes/e-assim-formei-o-habito-de-ter-a-morte-continuamen/) e [a premeditação da morte não é mais do que a antecipação da liberdade](/notes/a-premeditacao-da-morte-nao-e-mais-do-que-a-anteci/).
