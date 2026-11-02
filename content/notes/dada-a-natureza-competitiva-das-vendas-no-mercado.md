@@ -3,11 +3,13 @@ title: "Dada a natureza competitiva das vendas no mercado, o público é necessa
 date: '2026-10-31T21:28:47+00:00'
 category: quote
 summary: 'Citação de Friedrich Nietzsche atribuída por Eduardo Giannetti a Além do Bem e do Mal, obra publicada em 1886.'
-tags: ["friedrich-nietzsche", "alem-do-bem-e-do-mal", "mercado", "estetica"]
+tags: ["friedrich-nietzsche", "alem-do-bem-e-do-mal", "mercado", "estetica", "eduardo-giannetti", "o-livro-das-citacoes"]
 has_commentary: false
 sources:
-  - title: "O livro das citações"
+  - title: "O livro das citações: um breviário de ideias replicantes"
     author: "Eduardo Giannetti"
+    year: 2008
+    publisher: "Companhia das Letras"
     url: "https://amz.onl/05YF8EwS"
     kind: book
   - title: "Jenseits von Gut und Böse: Vorspiel einer Philosophie der Zukunft"
