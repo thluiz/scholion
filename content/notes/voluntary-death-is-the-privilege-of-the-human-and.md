@@ -2,8 +2,8 @@
 title: "‘Voluntary death is the privilege of the human’, and that ‘a suicide is a human being. He already belongs to the earth, but the earth still belongs to him – and it is beautiful.’"
 date: '2026-11-02T12:46:43+00:00'
 category: quote
-summary: 'Passagem de Notes on Suicide, de Simon Critchley (Fitzcarraldo Editions, 2015).'
-tags: ["simon-critchley", "notes-on-suicide"]
+summary: 'Passagem de Notes on Suicide, de Simon Critchley (Fitzcarraldo Editions, 2015), em que ele cita outro autor.'
+tags: ["simon-critchley", "notes-on-suicide", "author-to-be-confirmed"]
 has_commentary: false
 sources:
   - title: "Notes on Suicide"
@@ -13,4 +13,4 @@ sources:
     kind: book
 ---
 
-Passagem de Notes on Suicide, de Simon Critchley.
+Passagem de Notes on Suicide, de Simon Critchley, em que ele cita outro autor.
