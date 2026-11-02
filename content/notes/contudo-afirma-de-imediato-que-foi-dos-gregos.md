@@ -3,7 +3,7 @@ title: "Contudo, afirma de imediato que foi dos gregos que a filosofia emergiu e
 date: '2026-07-18T09:15:43+01:00'
 category: quote
 summary: 'Passagem de Simon Critchley em O Livro dos Filósofos Mortos, edição em português publicada em 2020 por Edições 70.'
-tags: ["simon-critchley", "filosofia", "historia-da-filosofia"]
+tags: ["simon-critchley", "filosofia", "historia-da-filosofia", "o-livro-dos-filosofos-mortos"]
 has_commentary: false
 sources:
   - title: "O Livro dos Filósofos Mortos"
