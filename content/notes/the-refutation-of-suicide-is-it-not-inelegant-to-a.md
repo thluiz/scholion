@@ -2,8 +2,8 @@
 title: "‘The refutation of suicide: is it not inelegant to abandon a world which has so willingly put itself at the service of our melancholy?’"
 date: '2026-11-02T12:46:26+00:00'
 category: quote
-summary: 'Passagem de Notes on Suicide, de Simon Critchley (Fitzcarraldo Editions, 2015), em que ele cita outro autor.'
-tags: ["simon-critchley", "notes-on-suicide", "autor-nao-confirmado"]
+summary: 'Passagem de Notes on Suicide, de Simon Critchley (Fitzcarraldo Editions, 2015), em que ele cita Cioran.'
+tags: ["simon-critchley", "emil-cioran", "notes-on-suicide"]
 has_commentary: false
 sources:
   - title: "Notes on Suicide"
@@ -13,4 +13,4 @@ sources:
     kind: book
 ---
 
-Passagem de Notes on Suicide, de Simon Critchley, em que ele cita outro autor.
+Passagem de Notes on Suicide, de Simon Critchley, em que ele cita Cioran, *Syllogismes de l'amertume*, 1952 ([dicocitations](https://www.dicocitations.com/citations/citation-143966.php)).
