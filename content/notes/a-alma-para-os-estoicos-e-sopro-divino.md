@@ -3,7 +3,7 @@ title: "A alma, para os estoicos, é «sopro divino» que se manifesta na nossa 
 date: '2026-08-05T08:13:18-03:00'
 category: quote
 summary: 'Passagem de Simon Critchley em O Livro dos Filósofos Mortos, edição brasileira publicada em 2020 pela Edições 70.'
-tags: ["simon-critchley", "estoicismo", "alma"]
+tags: ["simon-critchley", "estoicismo", "alma", "o-livro-dos-filosofos-mortos"]
 has_commentary: false
 sources:
   - title: "O Livro dos Filósofos Mortos"
