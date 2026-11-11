@@ -10,6 +10,8 @@ sources:
     kind: podcast
 ---
 
+<audio controls preload="none" src="trecho.mp3"></audio>
+
 Numa entrevista na Globo News, a jornalista diz ao economista Alexandre Schwartsman que o Lula vai ter de cumprir agora a promessa de fazer um grande ajuste fiscal. Schwartsman é neoliberal (*gente boa*), e mesmo assim responde que ele não prometeu isso. Ela insiste: promessa ou não, passada a eleição ele tem a obrigação com a sociedade de cortar gastos.
 
 Schwartsman não recua da cobrança. Diz que promessa não existe, mas que existe cobrança, que os números da trajetória da dívida são claros e que o Lula deve isso à população.
