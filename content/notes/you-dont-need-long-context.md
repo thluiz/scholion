@@ -10,6 +10,9 @@ sources:
   - title: "You don’t need long context"
     url: "https://arxiv.org/html/2611.05306v1"
     kind: paper
+  - title: "Full paper PDF (archived copy)"
+    url: "https://github.com/thluiz/scholion/blob/main/clippings/2026-11/arxiv-org--you-dont-need-long-context.pdf"
+    kind: repo
   - title: "Raw clipping (archived copy)"
     url: "https://github.com/thluiz/scholion/blob/main/clippings/2026-11/arxiv-org--you-dont-need-long-context.md"
     kind: repo
