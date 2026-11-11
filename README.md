@@ -20,7 +20,7 @@ Scholion nasceu como um spin-off otimizado para o caso "marginalia ao estilo car
 
 ### Hugo, não Astro
 
-Hugo compila 300+ markdowns em ~60 ms. A 1.000 notas continua sub-segundo. Para um site que é 95% renderização de markdown estático, é a ferramenta certa — o JS-runtime do Astro não traz benefício neste caso.
+Na migração, Hugo compilava as 300+ notas em ~60 ms. Hoje, com ~6.000 notas e processamento de imagens, o build completo leva ~80 s (medido na 0.5.14, depois de tirar o trabalho repetido por página dos templates). Para um site que é 95% renderização de markdown estático, segue sendo a ferramenta certa — o JS-runtime do Astro não traz benefício neste caso.
 
 ### Blowfish como base, customizado por patches
 
@@ -28,7 +28,8 @@ Hugo compila 300+ markdowns em ~60 ms. A 1.000 notas continua sub-segundo. Para 
 
 - `assets/css/custom.css` — overrides de estilo (carregado depois dos estilos do tema)
 - `assets/css/schemes/scholion.css` — color scheme próprio (paleta âmbar/sépia/stone)
-- `layouts/notes/`, `layouts/sources/`, `layouts/quotes/`, `layouts/research/` — templates próprios por section via Hugo lookup order
+- `layouts/notes/`, `layouts/sources/`, `layouts/quotes/`, `layouts/research/`, `layouts/places/`, `layouts/slides/` — templates próprios por section via Hugo lookup order
+- `layouts/_default/baseof.html` — override fino do base, só para servir cabeçalho e busca via `partialCached`
 - `layouts/partials/` — partials sobrescritos (head, footer, paginação)
 
 Updates do Blowfish: `git submodule update --remote themes/blowfish` + bump pra próxima tag testada. Os overrides são poucos e auditáveis, então o risco de quebra em update é baixo.
@@ -78,36 +79,70 @@ A checagem no template usa `isset` e não `with`, porque `0` é um valor válido
 
 `sources` como array estruturado destrava agrupamento por autor, por tipo de fonte, por publisher — coisas impossíveis no formato antigo de "fonte como texto livre no rodapé".
 
+### Páginas de livro nas tags
+
+Uma tag pode representar um livro (ex.: as citações importadas do Kindle). Basta um `content/tags/<slug>/_index.md` com `book:`:
+
+```yaml
+---
+title: "O livro das citações: um breviário de ideias replicantes"
+description: "Antologia organizada por Eduardo Giannetti. As citações guardadas daqui aparecem abaixo."
+book:
+  author: "Eduardo Giannetti"
+  publisher: "Companhia das Letras"   # opcional
+  year: 2008                          # opcional
+---
+```
+
+Com `book:`, `layouts/_default/term.html` mostra o título sem `#`, a linha autor · editora · ano e a descrição. Sem `book:`, a tag segue como `#slug`.
+
 ## Stack
 
 - **[Hugo](https://gohugo.io)** v0.148+ extended — gerador estático
 - **[Blowfish](https://blowfish.page)** — tema base (Tailwind, dark/light, busca client-side)
 - **CSS Grid** puro para o mosaico (sem framework JS)
 - **Git submodule** para o tema (não Hugo Modules — evita dependência de Go)
+- **[reveal.js](https://revealjs.com)** 5.1 (via jsDelivr) — só nas apresentações de `/slides/`
+- **pytest** — auditoria de estilo determinística das notas (`tests/style/`, skill `/style-test`)
 
 ## Estrutura do repositório
 
 ```
 scholion/
+├── .claude/skills/      # skills do Claude Code específicas do Scholion (add-scholion-*, import-kindle-highlights…)
 ├── archetypes/          # template para nota nova (hugo new notes/foo.md)
 ├── assets/
 │   ├── css/
 │   │   ├── custom.css           # overrides + layout do mosaico/single
 │   │   └── schemes/scholion.css # color scheme âmbar
+│   ├── fonts/, icons/, images/
 │   └── img/seal.png
 ├── config/_default/     # hugo.toml, params.toml, markup.toml, languages, menus
-├── content/notes/       # 300+ notas em markdown
-├── data/git_history/    # JSONs com histórico por nota (gerados)
+├── content/
+│   ├── notes/           # ~6.000 notas em markdown
+│   ├── research/        # pesquisas vivas
+│   ├── places/          # lugares (page bundles)
+│   ├── slides/          # apresentações reveal.js
+│   ├── quotes/, sources/  # só _index.md (listagens geradas a partir das notas)
+│   └── tags/            # páginas de tag com texto próprio (incl. páginas de livro)
+├── data/
+│   ├── git_history/     # JSONs com histórico por nota (gerados)
+│   └── scales.yaml      # escalas 0–5
 ├── layouts/             # templates próprios (override do Blowfish)
-│   ├── _default/term.html, terms.html
-│   ├── fontes/list.html
+│   ├── _default/        # baseof.html, term.html, terms.html, index.json
 │   ├── index.html
-│   ├── notes/list.html
-│   ├── notes/single.html
+│   ├── notes/           # list.html, single.html
+│   ├── places/          # list.html, single.html
+│   ├── quotes/list.html
 │   ├── research/single.html
-│   └── partials/        # extend-head-uncached, favicons, footer, scholion-pagination
+│   ├── slides/single.html
+│   ├── sources/list.html
+│   └── partials/        # head, footer, OG image, backlinks, co-tags, escalas, wikilinks, paginação
 ├── scripts/             # gen_git_history.py, pre-push hook
-├── static/              # favicon.png
+├── tests/style/         # suíte pytest de auditoria de estilo
+├── static/              # favicon.png, anexos estáticos
+├── deploy.ps1           # build + sync incremental S3 + invalidação CloudFront
+├── deploy-scheduled.ps1 # wrapper da publicação agendada
 ├── themes/blowfish/     # submódulo público
 └── fontes-privadas/     # submódulo privado, não entra no build
 ```
@@ -173,9 +208,20 @@ git push
 
 ## Deploy
 
-**AWS S3 + CloudFront** (us-east-1). Push para `main` dispara build Hugo + sync S3 + invalidação CloudFront via GitHub Actions (`.github/workflows/deploy.yml`).
+**AWS S3 + CloudFront** (us-east-1), publicado por script local (`deploy.ps1`), não pelo CI. O build local aproveita o cache de imagens processadas em `resources/_gen/`, que no Actions levava ~9 min para refazer.
 
-### Submódulos no CI
+```powershell
+pwsh -NoProfile -File deploy.ps1                  # incremental
+pwsh -NoProfile -File deploy.ps1 -ForceFullSync   # hash de todo o public/
+```
+
+O `deploy.ps1` sincroniza com `origin` (fetch + merge, best-effort: falha não impede a publicação) e compara `HEAD` com `last-published-commit.txt`; sem commit novo, sai sem buildar. Com commit novo, fixa o commit antes do build, roda o Hugo e deriva via `git diff` quais páginas mudaram (nota, OG image, seção, paginadores, tags, histórico). Depois sobe só os arquivos cujo hash difere do `public-manifest.json` e invalida o CloudFront.
+
+**Publicação agendada:** a tarefa `\Claude\ScholionPublish` roda a cada 30 min (via `deploy-launcher.vbs`, sem janela, e `deploy-scheduled.ps1`, com saída em `deploy-scheduled.log`). A primeira execução a partir das 03:00 de cada dia faz o fullsync. Antes do deploy, o wrapper também commita e dá push do que houver de novo em `fontes-privadas/`.
+
+### Workflow de emergência no CI
+
+`.github/workflows/deploy.yml` continua existindo, só com `workflow_dispatch` (acionamento manual), para publicar se a máquina local estiver fora.
 
 O `GITHUB_TOKEN` default do Actions só tem acesso ao repo do checkout. Se o workflow tenta clonar um submódulo privado (ex.: `fontes-privadas/`), o checkout falha antes do Hugo rodar.
 
