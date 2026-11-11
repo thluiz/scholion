@@ -5,7 +5,7 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
-## [0.5.16] — 2026-11-11
+## [0.5.17] — 2026-11-11
 
 ### Corrigido
 
@@ -18,6 +18,35 @@ e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
   aprovada que o corpo ainda não linka. O bloco é montado antes do
   ghost-audit, então o texto auditado é o texto salvo. A skill deixa de avisar
   que o link pode não aparecer.
+
+## [0.5.16] — 2026-11-02
+
+### Adicionado
+
+- **Páginas de livro na taxonomia de tags.** Um `content/tags/<slug>/_index.md`
+  com `book:` (`author`, `publisher`, `year`) e `description` faz
+  `layouts/_default/term.html` mostrar o título sem `#`, uma linha
+  autor · editora · ano e a descrição acima da lista. Tags sem `book:` seguem
+  como antes. Primeiras: *O livro das citações*, *O livro dos filósofos
+  mortos*, *Por uma moral da ambiguidade* e *Notes on Suicide*.
+- **Skill `import-kindle-highlights`**: importa os destaques de um livro do
+  Kindle (via `kindle-scrapper`) como notas `category: quote`, agrupadas pela
+  tag do livro. `crossmatch.py` cruza com o vault inteiro para não duplicar,
+  `generate.py` monta as notas, `verify.py` confere que cada nota é idêntica
+  ao destaque e `save.ps1` grava. Autor só entra se o destaque o traz; trecho
+  de outro autor ou destaque cortado recebe a tag `autor-nao-confirmado`
+  (`author-to-be-confirmed` em nota em inglês) ou `destaque-cortado`, em vez
+  de atribuição chutada.
+- **Importação diária do Kindle** (tarefa `\Claude\KindleImport`, 04:00,
+  registrada por `register-task.ps1`). `auto-import.ps1` importa por inteiro
+  os livros ligados em `books.json`, grava tudo do dia num commit só e avisa
+  pelo GossipGate, inclusive de livros com destaques recentes e sem import
+  ligado.
+
+### Alterado
+
+- O rótulo de co-tags em `term.html` usa o slug do termo (`#notes-on-suicide`)
+  em vez do título, que nas páginas de livro deixou de ser o slug.
 
 ## [0.5.15] — 2026-10-08
 
