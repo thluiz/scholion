@@ -5,6 +5,20 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
+## [0.5.16] — 2026-11-11
+
+### Corrigido
+
+- **`add-scholion-webclip`: notas relacionadas aprovadas agora entram na nota.**
+  O prompt do resumo só deixava o modelo linkar quando um ponto já em curso
+  conectava de verdade, então as notas que o autor apontava no search-first
+  quase nunca apareciam (sete recomposições seguidas sem nenhum link). O
+  `scholion-webclipper` agora anexa o bloco `## Related notes` (`## Notas
+  relacionadas` em PT) ao fim da nota, com um link markdown completo por nota
+  aprovada que o corpo ainda não linka. O bloco é montado antes do
+  ghost-audit, então o texto auditado é o texto salvo. A skill deixa de avisar
+  que o link pode não aparecer.
+
 ## [0.5.15] — 2026-10-08
 
 ### Alterado

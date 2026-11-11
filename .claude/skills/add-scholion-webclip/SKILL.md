@@ -97,7 +97,7 @@ Se o autor apontar notas: **recompor** — chamar `compose` de novo, mesma URL/t
 $body = @{ url = '<mesma url>'; relatedNotes = @(@{ slug = '<slug>'; title = '<título>'; hint = '<por que conecta, opcional>' }) } | ConvertTo-Json -Depth 6
 ```
 
-`relatedNotes` só entra como contexto no prompt do modelo — o link **não** é renderizado deterministicamente e pode não aparecer na nota (aconteceu em `dia-das-maes-8-frases-que-as-maes-gostariam-de-parar-de-ouvi`). Conferir no preview se o link está no corpo e avisar o autor se não estiver.
+`relatedNotes` entra no prompt do modelo como contexto, e o modelo só linka no corpo se um ponto que já estava fazendo conectar de verdade (aconteceu de não linkar em `dia-das-maes-8-frases-que-as-maes-gostariam-de-parar-de-ouvi` e em sete recomposições seguidas). Por isso o serviço (desde o commit `4bed834` do scholion-webclipper, 2026-11-11) **anexa ao fim da nota o bloco `## Related notes`** (`## Notas relacionadas` em PT), com um link markdown completo por nota aprovada que o corpo ainda não linka. O bloco não aparece em `note.body` da resposta do `compose`: ele entra na nota renderizada, que é a que o ghost-audit analisa e o `save` grava. No preview, mostrar ao autor a lista de links que será anexada.
 
 Isso gera um `operationId` novo (já auditado de novo) — usar esse daqui pra frente; o anterior simplesmente expira sem uso (nunca é salvo). Se nada relevante no search-first, seguir com o `operationId` do passo 1.
 
