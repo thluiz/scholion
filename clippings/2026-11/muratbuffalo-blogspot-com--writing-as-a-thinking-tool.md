@@ -1,6 +1,6 @@
 ---
 url: "https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html"
-captured_at: "2026-11-10T20:03:52+00:00"
+captured_at: "2026-11-11T12:01:27+00:00"
 title: "Writing as a thinking tool"
 domain: "muratbuffalo-blogspot-com"
 ---
