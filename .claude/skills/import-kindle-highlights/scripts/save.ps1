@@ -5,10 +5,12 @@ param(
   [Parameter(Mandatory)] [string] $Scratch,     # scratchpad (arquivo de mensagem de commit)
   [string[]] $TagOnly = @(),                    # slugs de notas JÁ existentes que só ganham a tag do livro
   [switch] $Plain,                              # livro de autor único (título = destaque inteiro)
-  [switch] $NoCommit                            # só grava e faz stage (com marcador); quem chama commita tudo junto
+  [switch] $NoCommit,                           # só grava e faz stage (com marcador); quem chama commita tudo junto
+  [string] $Book = ''                           # nome do livro na mensagem do commit (padrão: a tag)
 )
-# Grava as notas aprovadas, uma por commit (--only). NÃO faz push: o push é do passo final da skill.
-# -NoCommit: rotina diária (auto-import.ps1), que junta tudo o que importou no dia num commit só
+# Grava as notas aprovadas e faz UM commit para a rodada inteira (--only com os caminhos gravados; decisão do
+# autor, 2026-11-12). NÃO faz push: o push é do passo final da skill.
+# -NoCommit: rotina diária (auto-import.ps1), que junta todos os livros do dia num commit só
 # (decisão do autor, 2026-11-02). Cada arquivo gravado sai numa linha "STAGED <caminho>".
 $ErrorActionPreference = 'Stop'
 $repo = 'E:\scholion'
@@ -42,13 +44,12 @@ function Git-Retry([string[]] $gitArgs) {
   throw "git $($gitArgs[0]) falhou 5x por lock"
 }
 
+$staged = [Collections.Generic.List[object]]::new()   # (caminho, linha da mensagem) gravados nesta rodada
 function Commit-Note($rel, $msg) {
   $o = git -C $repo rev-parse ":$rel"
   Set-Content -LiteralPath "$repo\.ghost-audit\$o.ok" -Value $o
   if ($NoCommit) { Write-Output "STAGED $rel"; return }
-  $mf = Join-Path $Scratch 'msg.txt'
-  [IO.File]::WriteAllText($mf, $msg, $enc)
-  Git-Retry @('commit', '-q', '--only', '-F', $mf, '--', $rel)
+  $staged.Add(@($rel, $msg))   # o commit é um só, no fim (seção 4)
 }
 
 function Strip-Date($s) { [regex]::Replace($s.Replace("`r`n", "`n"), "(?m)^date: '.*'$", "date: ''") }
@@ -79,7 +80,7 @@ foreach ($f in Get-ChildItem "$Drafts\*.md") {
   $title = ([regex]::Match($t, '(?m)^title: "(.*)"$')).Groups[1].Value.Replace('\"', '"').Replace('\\', '\')
   Commit-Note $rel "note: $title"
   $log += "NEW $slug"
-  if (-not $NoCommit) { Start-Sleep -Seconds 1 }
+  if (-not $NoCommit) { Start-Sleep -Seconds 1 }   # datas distintas entre as notas
 }
 
 # 3) Notas já existentes: só a tag do livro
@@ -95,6 +96,22 @@ foreach ($slug in $TagOnly) {
   Git-Retry @('add', $rel)
   Commit-Note $rel "note: tag do livro em $slug"
   $log += "TAG $slug"
+}
+# 4) Um commit para a rodada: título = livro e contagem; corpo = uma linha por nota.
+if (-not $NoCommit -and $staged.Count -gt 0) {
+  $nome = if ($Book) { $Book } else { $Tag }
+  $novas = @($staged | Where-Object { $_[1] -like 'note: *' -and $_[1] -notlike 'note: tag do livro*' }).Count
+  $tags = $staged.Count - $novas
+  if ($novas -gt 0) {
+    $head = "notes: importação do Kindle, $novas nota(s): $nome"
+    if ($tags -gt 0) { $head += " (+ tag do livro em $tags nota(s) existente(s))" }
+  } else {
+    $head = "notes: tag do livro $nome em $tags nota(s) existente(s)"
+  }
+  $body = ($staged | ForEach-Object { '- ' + ($_[1] -replace '^note: ', '') }) -join "`n"
+  $mf = Join-Path $Scratch 'msg.txt'
+  [IO.File]::WriteAllText($mf, "$head`n`n$body`n", $enc)
+  Git-Retry (@('commit', '-q', '--only', '-F', $mf, '--') + @($staged | ForEach-Object { $_[0] }))
 }
 $log
 $feitas = @($log | Where-Object { $_ -notlike 'SKIP*' }).Count

@@ -1,6 +1,6 @@
 ---
 name: import-kindle-highlights
-description: "Importa ou sincroniza os destaques de um livro do Kindle (via kindle-scrapper) como notas category:quote no Scholion, agrupadas por livro com uma tag própria e uma página em /tags/<livro>/. Cruza com o vault para não duplicar, nunca chuta autoria, confere mecanicamente que cada nota é idêntica ao destaque e grava uma nota por commit. Use quando o autor pedir para importar, sincronizar ou procurar as quotes/destaques de um livro."
+description: "Importa ou sincroniza os destaques de um livro do Kindle (via kindle-scrapper) como notas category:quote no Scholion, agrupadas por livro com uma tag própria e uma página em /tags/<livro>/. Cruza com o vault para não duplicar, nunca chuta autoria, confere mecanicamente que cada nota é idêntica ao destaque e grava a rodada num commit só. Use quando o autor pedir para importar, sincronizar ou procurar as quotes/destaques de um livro."
 argument-hint: "{livro} (título, parte do título ou slug do arquivo em library/)"
 ---
 
@@ -13,7 +13,7 @@ Base: `add-scholion-quote` (formato e regras da nota) + `add-scholion-note/refer
 - **Source-or-silence.** Autor e ano só entram se o **livro** (o destaque) os traz. Destaque sem autor, cortado no meio ou ambíguo **não vira nota**: perguntar ao autor, que confere no livro. Busca na web serve de **indício** (ex.: apontou Hampshire), nunca de fonte para gravar; só vale o que o autor confirmar.
 - **Nunca resumir a listagem.** Ler o texto completo de cada destaque. Em antologias o autor fica no **fim** do destaque (`nietzsche (1886)`); listar truncado levou a concluir "11 sem autor" quando eram 2.
 - **Voz.** A nota de citação não tem prosa autoral: título = a frase, corpo = contexto factual. Nota manual do Kindle (`📝`) é do autor: se existir, perguntar se vira `has_commentary: true` e como entra; nunca compor por ele.
-- Sem `Co-Authored-By`. Um commit por nota, `--only` com caminho explícito. Push só no fim.
+- Sem `Co-Authored-By`. **Um commit por rodada** (decisão do autor, 2026-11-12; antes era um por nota), `--only` com os caminhos explícitos. Push só no fim.
 - Idioma PT-BR; tags sem acento; chaves do frontmatter em inglês.
 
 ## Processo
@@ -137,21 +137,20 @@ Mostrar: o modelo completo (um draft inteiro), a tabela numerada `nº · autor �
 ### 7. Gravar
 
 ```powershell
-pwsh -NoProfile -File E:\scholion\.claude\skills\import-kindle-highlights\scripts\save.ps1 -Drafts <scratchpad>\drafts -Lib E:\kindle-scrapper\library\<slug>.md -Tag <tag-do-livro> -Scratch <scratchpad> -TagOnly slug1,slug2 [-Plain]
+pwsh -NoProfile -File E:\scholion\.claude\skills\import-kindle-highlights\scripts\save.ps1 -Drafts <scratchpad>\drafts -Lib E:\kindle-scrapper\library\<slug>.md -Tag <tag-do-livro> -Scratch <scratchpad> -Book '<short_title>' -TagOnly slug1,slug2 [-Plain]
 ```
 
 (timeout 600000 na tool call; `-Plain` em livro de autor único, pelo mesmo motivo do `--plain` do passo 5.) O `save.ps1` roda o `verify.py --drafts` primeiro e não grava nada se houver ERRO.
 
 - **Outro git no repo** (rotina `auto-import`, `\Claude\ScholionPublish`, outra sessão): o script espera o `.git/index.lock` sumir (até 2 min) e repete o `add`/`commit` que falhar por lock.
-- **Retomada**: se o lote parar no meio, rodar o mesmo comando de novo. Nota que já existe e é igual ao draft (fora a data) é deste lote: já commitada → `SKIP`; ficou só staged → é commitada (`RESUMED`). Nota existente **diferente** do draft continua sendo colisão e para tudo.
+- **Retomada**: se o lote parar no meio, rodar o mesmo comando de novo. Nota que já existe e é igual ao draft (fora a data) é deste lote: já commitada → `SKIP`; ficou só staged → entra no commit (`RESUMED`). Nota existente **diferente** do draft continua sendo colisão e para tudo.
 
-Em seguida, **uma nota por vez**:
+O que o script faz:
 
-1. `Get-Date -Format 'yyyy-MM-ddTHH:mm:sszzz'` novo para cada nota (nunca reaproveitar).
-2. Escrever em `content/notes/<slug>.md` (UTF-8 sem BOM, LF), `git add`.
-3. Marcador do gate (`.ghost-audit/<oid>.ok`, blob staged) só se a conferência mecânica do passo 5 passou sem ERRO.
-4. `git commit --only -F <arquivo-de-mensagem> -- <caminho>` com mensagem `note: <título>`. Mensagem por arquivo (`-F`), não inline: títulos têm aspas.
-5. Notas **já existentes** sem a tag do livro: acrescentar a tag via regex em `^tags: \[(.*)\]` (preservar EOL), um commit cada (`note: tag do livro ... em <slug>`).
+1. Para cada nota, `Get-Date -Format 'yyyy-MM-ddTHH:mm:sszzz'` novo (nunca reaproveitar), escreve `content/notes/<slug>.md` (UTF-8 sem BOM, LF) e faz `git add`.
+2. Marcador do gate (`.ghost-audit/<oid>.ok`, blob staged) por nota, só porque a conferência mecânica passou sem ERRO.
+3. Notas **já existentes** sem a tag do livro (`-TagOnly`): acrescenta a tag via regex em `^tags: \[(.*)\]` (preserva EOL), também staged.
+4. **Um commit** no fim: `git commit --only -F <arquivo> -- <caminhos>`, título `notes: importação do Kindle, N nota(s): <Book>` (`+ tag do livro em M nota(s) existente(s)` se houver; só tags → `notes: tag do livro <Book> em M nota(s) existente(s)`) e corpo com uma linha por nota (o título dela). Mensagem por arquivo (`-F`): títulos têm aspas.
 
 Depois: `git push` uma vez, relatar "pushed `<hash>`" (nunca "publicado"). Conferir contagem: `grep -l '"<tag-do-livro>"' content/notes/*.md | wc -l`. Se faltar conferir a renderização, `hugo --quiet -d <scratchpad>\public` (~1,5 min) e olhar `public/tags/<tag>/index.html`.
 
@@ -161,14 +160,14 @@ Mesmo fluxo; o passo 2 já separa o que é novo. Se não há pendente, dizer iss
 
 ## Rotina autônoma diária (04:00)
 
-`scripts/auto-import.ps1`, pensada para a task `\Claude\KindleImport` (04:00, depois do `\Claude\KindleDaily` de 01:00 que baixa os destaques). Sem LLM: gerar → `verify.py` → `save.ps1` (um commit por nota) → push → aviso no GossipGate. Só avisa quando algo acontece.
+`scripts/auto-import.ps1`, pensada para a task `\Claude\KindleImport` (04:00, depois do `\Claude\KindleDaily` de 01:00 que baixa os destaques). Sem LLM: gerar → `verify.py` → `save.ps1 -NoCommit` → um commit do dia → push → aviso no GossipGate. Só avisa quando algo acontece.
 
 - **Registro `books.json`** (nesta pasta): só entra livro que o autor liga explicitamente, porque as notas viram páginas públicas (há livros sensíveis na biblioteca). Campos: `library` (slug do arquivo), `mode` (`auto` importa; `notify` só avisa), `anthology`, `title`, `short_title`, `author` (o autor limpo, sem tradutores), `publisher`/`year` (opcionais, omitir se não conferidos), `tag`, `since` (só destaques adicionados nessa data ou depois; evita despejar o acervo antigo), `ignore_locs`.
 - **Livro de autor único (`anthology: false`)**: título = destaque inteiro; autor = o do livro, salvo `sections` e as heurísticas A/B do passo 4, que marcam a nota com a tag de autor não confirmado (no idioma do `lang` do livro). Fragmento (menos de 25 caracteres, ou terminado em `,` `;` `…`) vira nota com a tag `destaque-cortado` (`--auto`). O aviso diz quantas notas saíram com autor a conferir e quantas cortadas.
 - **Antologia**: fica em `mode: notify`; a rotina conta os destaques novos e avisa para rodar a skill. Autoria nunca é inventada (`--confirm` só existe no fluxo interativo).
 - **Aviso de livros sem import ligado**: toda execução lista os livros **fora** de `books.json` com destaques adicionados nos últimos 7 dias (`-RecentDays`), no formato "• Título (nº de destaques)". Cada destaque é avisado uma só vez (estado em `%LOCALAPPDATA%\scholion-kindle-import\state.json`); a primeira execução avisa tudo o que estiver na janela.
 - **Livro ligado é importado por inteiro** (decisão do autor, 2026-11-02): sem teto por execução (`-MaxPerBook 0`) e com `since` vazio entra o acervo antigo também. Teto opcional só via parâmetro `-MaxPerBook N`.
-- **Um commit por dia** (decisão do autor, 2026-11-02): a rotina chama `save.ps1 -NoCommit` (grava, faz stage e o marcador do gate, sem commitar) para cada livro e, no fim, faz um único commit `notes: importação diária do Kindle, N nota(s): Livro (n), …` com tudo, antes do push. O fluxo interativo continua com um commit por nota.
+- **Um commit por dia** (decisão do autor, 2026-11-02): a rotina chama `save.ps1 -NoCommit` (grava, faz stage e o marcador do gate, sem commitar) para cada livro e, no fim, faz um único commit `notes: importação diária do Kindle, N nota(s): Livro (n), …` com tudo, antes do push. O fluxo interativo faz um commit por rodada (passo 7).
 - **Salvaguardas**: `verify.py` com ERRO → nada é gravado; slugs que já existem viram pendência no aviso; autoria suspeita e fragmento cortado viram nota marcada (tags acima), não pendência. Tudo vira log em `%LOCALAPPDATA%\scholion-kindle-import\auto-import.log`.
 - **Teste sem gravar:** `pwsh -NoProfile -File scripts\auto-import.ps1 -Registry <arquivo.json> -DryRun`.
 - **Ligar um livro:** acrescentar a entrada em `books.json` com `mode: auto` e `since` = hoje (ou a data a partir da qual quer notas); o acervo anterior, se quiser, entra pela skill interativa.

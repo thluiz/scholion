@@ -1,7 +1,7 @@
 #Requires -Version 7
 # Rotina diária (task \Claude\KindleImport, 04:00): lê library/ (o sync das 01:00 já rodou) e, para cada livro de
 # books.json, importa os destaques novos como notas quote (mode=auto) ou só avisa (mode=notify).
-# Sem LLM: gerar -> conferir (verify.py) -> gravar (save.ps1, um commit por nota) -> push -> aviso no GossipGate.
+# Sem LLM: gerar -> conferir (verify.py) -> gravar (save.ps1 -NoCommit; um commit só no fim do dia) -> push -> aviso no GossipGate.
 param(
   [string] $Registry = (Join-Path (Split-Path -Parent $PSScriptRoot) 'books.json'),
   [switch] $DryRun,            # gera e confere em pasta temporária; não grava, não commita, não dá push
