@@ -22,7 +22,7 @@ def norm(s):
 
 def strip_author(text):
     """Tira a atribuição do fim ("nietzsche (1886)"): minúsculas curtas após a pontuação final."""
-    m = re.search(r'([.!?…\]”"])\s+([a-zà-ü][a-zà-ü ]{1,40}?)'
+    m = re.search(r'([.!?…\]”"])\s+((?:[a-zà-ü]\.\s)*[a-zà-ü][a-zà-ü ]{1,40}?)'
                   r'(?:\s*\((?:\d{4}|sem data|século [ivxl]+ [ad]\.c\.)\))?\**h?$', text)  # mesmo padrão de kh.TAIL
     return text[:m.end(1)] if m else text
 

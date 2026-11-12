@@ -6,7 +6,7 @@ import re
 # Data: ano "(1886)", "(sem data)" ou século "(século iv a.c.)". Asteriscos finais
 # ("(1907)*", "(1944)**") são chamadas de nota de rodapé do livro, não fazem parte da data.
 TAIL = re.compile(
-    r'([.!?…\]”"])\s+([a-zà-ü][a-zà-ü ]{1,40}?)'
+    r'([.!?…\]”"])\s+((?:[a-zà-ü]\.\s)*[a-zà-ü][a-zà-ü ]{1,40}?)'   # iniciais: "f. w. j. schelling"
     r'(?:\s*\(((?:\d{4}|sem data|século [ivxl]+ [ad]\.c\.))\))?\**h?$')
 
 
