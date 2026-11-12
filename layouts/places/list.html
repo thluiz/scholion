@@ -1,6 +1,9 @@
 {{ define "main" }}
-  {{ $paginator := .Paginate .Pages.ByLastmod.Reverse 40 }}
+  {{ $s := partial "scholion-stable-pager.html" (dict "ctx" . "pages" .Pages.ByLastmod.Reverse) }}
 
+  {{ if $s.stub }}
+    {{ partial "scholion-pagination.html" $s }}
+  {{ else }}
   <section class="scholion-list">
     <header class="scholion-list-header">
       <h1>{{ .Title }}</h1>
@@ -9,7 +12,7 @@
     </header>
 
     <ul class="scholion-grid">
-      {{ range $paginator.Pages }}
+      {{ range $s.items }}
         {{ $isMeal := in (.Params.kinds | default slice) "restaurante" }}
         <li class="scholion-card scholion-card--place{{ if $isMeal }} scholion-card--meal{{ end }}">
           <a href="{{ .RelPermalink }}">
@@ -35,6 +38,7 @@
       {{ end }}
     </ul>
 
-    {{ partial "scholion-pagination.html" $paginator }}
+    {{ partial "scholion-pagination.html" $s }}
   </section>
+  {{ end }}
 {{ end }}

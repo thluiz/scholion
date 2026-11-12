@@ -1,0 +1,11 @@
+{{- /* Date range of an archive page (items newest first). Stable: it only
+     changes if the bucket itself changes. */ -}}
+{{ $items := . }}
+{{ if gt (len $items) 0 }}
+  {{ $newest := index $items 0 }}
+  {{ $oldest := index $items (sub (len $items) 1) }}
+  <p class="scholion-count">
+    de <time datetime="{{ $oldest.Date.Format "2006-01-02" }}">{{ $oldest.Date.Format "2 Jan 2006" }}</time>
+    a <time datetime="{{ $newest.Date.Format "2006-01-02" }}">{{ $newest.Date.Format "2 Jan 2006" }}</time>
+  </p>
+{{ end }}

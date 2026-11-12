@@ -5,6 +5,34 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
+## [0.6.0] — 2026-11-12
+
+### Alterado
+
+- **Paginação estável em `/notes/`, `/quotes/`, `/places/` e nas tags.** As
+  páginas de arquivo agora são numeradas a partir da nota mais antiga: o bloco
+  k guarda sempre as mesmas 40 notas, então uma nota nova não desloca mais o
+  conteúdo de todas as páginas. A primeira página mostra o bloco aberto mais o
+  último bloco cheio (de 40 a 79 notas, mais as fixadas); quando o bloco
+  aberto enche, ele vira arquivo e só a página anterior troca o link. O rodapé
+  perdeu os números de página e ficou só com "← mais recentes" e "mais
+  antigas →"; a contagem "N notas · última" aparece só na primeira página, e as
+  páginas de arquivo mostram o intervalo de datas. Pagers cujo bloco já está
+  na primeira página redirecionam para ela. Lógica em
+  `layouts/partials/scholion-stable-pager.html`.
+- **JSON-LD sem datas em páginas de listagem.** Cópia do `schema.html` do
+  Blowfish emite `dateCreated`/`dateModified` só em páginas de nota; numa lista
+  essas datas eram as da nota mais recente e reescreviam todos os pagers.
+  Numa nota nova com 3 tags, as ~190 páginas de listagem que o deploy
+  incremental subia viram só as primeiras páginas da seção e das tags (mais
+  uma ou duas quando um bloco fecha).
+
+### Corrigido
+
+- **`deploy.ps1`: pesquisa ou local novo atualiza `/notes/`.** A listagem de
+  `/notes/` inclui pesquisas e locais, mas o deploy incremental só re-verificava
+  a lista da própria seção.
+
 ## [0.5.17] — 2026-11-11
 
 ### Corrigido

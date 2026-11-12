@@ -1,5 +1,5 @@
 {{ define "main" }}
-  {{ $paginator := .Paginate .Pages.ByDate.Reverse 40 }}
+  {{ $s := partial "scholion-stable-pager.html" (dict "ctx" . "pages" .Pages.ByDate.Reverse) }}
 
   {{/* Este template serve duas taxonomias: tags (notas) e species (locais).
        O que muda é o vocabulário — uma tag marca notas, uma espécie foi vista
@@ -14,6 +14,9 @@
   {{/* Co-ocorrências: tags que aparecem juntas, ou espécies vistas no mesmo sítio. */}}
   {{ $vizinhos := partialCached "scholion-term-cotags.html" . .Data.Plural .Data.Term }}
 
+  {{ if $s.stub }}
+    {{ partial "scholion-pagination.html" $s }}
+  {{ else }}
   <section class="scholion-list">
     <header class="scholion-list-header">
       {{ $book := .Params.book }}
@@ -24,6 +27,9 @@
         </p>
       {{ end }}
       {{ with .Description }}<p class="scholion-book-desc">{{ . }}</p>{{ end }}
+      {{ if not $s.front }}
+        {{ partial "scholion-archive-range.html" $s.items }}
+      {{ else }}
       {{ $latest := index (.Pages.ByDate.Reverse) 0 }}
       <p class="scholion-count">
         {{ len .Pages }}
@@ -49,10 +55,11 @@
           </ul>
         </div>
       {{ end }}
+      {{ end }}
     </header>
 
     <ul class="scholion-grid">
-      {{ range $paginator.Pages }}
+      {{ range $s.items }}
         {{ $kind := cond (.Params.has_commentary | default false) "commentary" "gloss" }}
         {{ $noteType := .Params.category | default "" }}
         <li class="scholion-card scholion-card--{{ $kind }}{{ with $noteType }} scholion-card--{{ . }}{{ end }}" data-kind="{{ $kind }}">
@@ -102,6 +109,7 @@
       {{ end }}
     </ul>
 
-    {{ partial "scholion-pagination.html" $paginator }}
+    {{ partial "scholion-pagination.html" $s }}
   </section>
+  {{ end }}
 {{ end }}

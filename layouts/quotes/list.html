@@ -1,20 +1,25 @@
 {{ define "main" }}
   {{ $quotes := where (where site.RegularPages "Section" "notes") "Params.category" "quote" }}
   {{ $sorted := $quotes.ByDate.Reverse }}
-  {{ $paginator := .Paginate $sorted 40 }}
+  {{ $s := partial "scholion-stable-pager.html" (dict "ctx" . "pages" $sorted) }}
 
+  {{ if $s.stub }}
+    {{ partial "scholion-pagination.html" $s }}
+  {{ else }}
   <section class="scholion-list">
     <header class="scholion-list-header">
       <h1>{{ .Title }}</h1>
       {{ with .Description }}<p class="scholion-desc">{{ . }}</p>{{ end }}
-      {{ if gt (len $sorted) 0 }}
+      {{ if not $s.front }}
+        {{ partial "scholion-archive-range.html" $s.items }}
+      {{ else if gt (len $sorted) 0 }}
         {{ $latest := index $sorted 0 }}
         <p class="scholion-count">{{ len $sorted }} citações <span class="scholion-count-sep">·</span> última: <time datetime="{{ $latest.Date.Format "2006-01-02" }}">{{ $latest.Date.Format "2 Jan 2006" }}</time></p>
       {{ end }}
     </header>
 
     <ul class="scholion-grid">
-      {{ range $paginator.Pages }}
+      {{ range $s.items }}
         {{ $kind := cond (.Params.has_commentary | default false) "commentary" "gloss" }}
         <li class="scholion-card scholion-card--{{ $kind }} scholion-card--quote" data-kind="{{ $kind }}">
           <a href="{{ .RelPermalink }}">
@@ -40,6 +45,7 @@
       {{ end }}
     </ul>
 
-    {{ partial "scholion-pagination.html" $paginator }}
+    {{ partial "scholion-pagination.html" $s }}
   </section>
+  {{ end }}
 {{ end }}

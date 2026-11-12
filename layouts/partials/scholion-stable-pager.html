@@ -1,0 +1,62 @@
+{{- /*
+  Stable pagination: archive pages are numbered from the OLDEST item, so a
+  new item never shifts the content of existing pages.
+
+  Input:  dict "ctx" <page> "pages" <Pages, newest first>
+  Output: dict
+    front  bool   — this is the section/term page itself
+    stub   bool   — pager whose bucket is already shown on the front page
+    items  Pages  — cards to render, newest first
+    older  string — URL of the next older page ("" if none)
+    newer  string — URL of the next newer page ("" if none)
+
+  Bucket k (1-based) always holds items (k-1)*size+1 .. k*size counted from the
+  oldest. The front page shows the open (incomplete) bucket plus the last full
+  one — between size and 2*size-1 items — so it is never nearly empty right
+  after a bucket closes. Archive pages are buckets 1 .. full-1.
+
+  Hugo only paginates from the head of a list and the head pager is always the
+  section URL itself, so the list is fed oldest-first with `size` padding
+  entries in front: pager 1 (the section URL) gets the padding and renders the
+  front page instead; pager k+1 is bucket k. Pagers for buckets already on the
+  front page render a constant stub that redirects there.
+
+  What still rewrites an archive page: editing a card of an item in it,
+  deleting an item, or adding one with a back date (shifts every later bucket).
+*/ -}}
+{{- $ctx := .ctx -}}
+{{- $newest := .pages -}}
+{{- $size := 40 -}}
+{{- $total := len $newest -}}
+{{- $full := div $total $size -}}
+{{- $r := dict -}}
+
+{{- if lt $full 2 -}}
+  {{- /* Fewer than 2*size items: everything fits on the front page. */ -}}
+  {{- $_ := $ctx.Paginate $newest (mul $size 2) -}}
+  {{- $r = dict "front" true "stub" false "items" $newest "older" "" "newer" "" -}}
+{{- else -}}
+  {{- $padded := slice -}}
+  {{- $pad := index $newest 0 -}}
+  {{- range seq $size -}}{{- $padded = $padded | append $pad -}}{{- end -}}
+  {{- range $newest.Reverse -}}{{- $padded = $padded | append . -}}{{- end -}}
+  {{- $p := $ctx.Paginate $padded $size -}}
+  {{- $bucket := sub $p.PageNumber 1 -}}
+
+  {{- if eq $bucket 0 -}}
+    {{- $frontCount := sub $total (mul (sub $full 1) $size) -}}
+    {{- $r = dict "front" true "stub" false
+          "items" (first $frontCount $newest)
+          "older" (index $p.Pagers (sub $full 1)).URL
+          "newer" "" -}}
+  {{- else if ge $bucket $full -}}
+    {{- $r = dict "front" false "stub" true "items" slice "older" "" "newer" "" -}}
+  {{- else -}}
+    {{- $newer := $ctx.RelPermalink -}}
+    {{- if lt $bucket (sub $full 1) -}}{{- $newer = (index $p.Pagers (add $bucket 1)).URL -}}{{- end -}}
+    {{- $older := "" -}}
+    {{- if gt $bucket 1 -}}{{- $older = (index $p.Pagers (sub $bucket 1)).URL -}}{{- end -}}
+    {{- $r = dict "front" false "stub" false "items" $p.Pages.Reverse "older" $older "newer" $newer -}}
+  {{- end -}}
+{{- end -}}
+{{- return merge $r (dict "home" $ctx.RelPermalink) -}}

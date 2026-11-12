@@ -186,6 +186,8 @@ function Get-PathsToCheck {
         # Sem isto, /quotes/ e /sources/ ficam congeladas em deploys incrementais.
         $listSections = @($section)
         if ($section -eq 'notes') { $listSections += 'quotes', 'sources' }
+        # /notes/ also lists research and places (layouts/notes/list.html).
+        if ($section -in @('research', 'places')) { $listSections += 'notes' }
         foreach ($ls in $listSections) {
             $sectionIdx = "$ls\index.html"
             if (Test-Path (Join-Path $publicDir $sectionIdx)) { $paths.Add($sectionIdx) | Out-Null }

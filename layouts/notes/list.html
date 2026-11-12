@@ -4,25 +4,34 @@
   {{ $allPages := union (union .Pages $research) $places }}
   {{ $pinnedRaw := where $allPages "Params.pinned" true }}
   {{ $pinned := sort $pinnedRaw "Params.pin_weight" "desc" }}
-  {{ $unpinned := (where $allPages "Params.pinned" "!=" true).ByDate.Reverse }}
-  {{ $combined := slice }}
-  {{ range $pinned }}{{ $combined = $combined | append . }}{{ end }}
-  {{ range $unpinned }}{{ $combined = $combined | append . }}{{ end }}
-  {{ $paginator := .Paginate $combined 40 }}
+  {{ $s := partial "scholion-stable-pager.html" (dict "ctx" . "pages" $allPages.ByDate.Reverse) }}
+  {{ $cards := $s.items }}
+  {{ if $s.front }}
+    {{ $cards = slice }}
+    {{ range $pinned }}{{ $cards = $cards | append . }}{{ end }}
+    {{ range where $s.items "Params.pinned" "!=" true }}{{ $cards = $cards | append . }}{{ end }}
+  {{ end }}
 
+  {{ if $s.stub }}
+    {{ partial "scholion-pagination.html" $s }}
+  {{ else }}
   <section class="scholion-list">
     <header class="scholion-list-header">
       <h1>{{ .Title }}</h1>
       {{ with .Description }}<p class="scholion-desc">{{ . }}</p>{{ end }}
-      {{ $latest := index (.Pages.ByDate.Reverse) 0 }}
-      <p class="scholion-count">{{ len .Pages }} notas <span class="scholion-count-sep">·</span> última: <time datetime="{{ $latest.Date.Format "2006-01-02" }}">{{ $latest.Date.Format "2 Jan 2006" }}</time></p>
+      {{ if $s.front }}
+        {{ $latest := index (.Pages.ByDate.Reverse) 0 }}
+        <p class="scholion-count">{{ len .Pages }} notas <span class="scholion-count-sep">·</span> última: <time datetime="{{ $latest.Date.Format "2006-01-02" }}">{{ $latest.Date.Format "2 Jan 2006" }}</time></p>
+      {{ else }}
+        {{ partial "scholion-archive-range.html" $s.items }}
+      {{ end }}
     </header>
 
     <ul class="scholion-grid">
-      {{ range $paginator.Pages }}
+      {{ range $cards }}
         {{ $kind := cond (.Params.has_commentary | default false) "commentary" "gloss" }}
         {{ $noteType := .Params.category | default "" }}
-        {{ $isPinned := .Params.pinned | default false }}
+        {{ $isPinned := and $s.front (.Params.pinned | default false) }}
         {{ $isResearch := eq .Section "research" }}
         {{ $isPublished := eq (string (.Params.research | default "")) "published" }}
         <li class="scholion-card scholion-card--{{ $kind }}{{ with $noteType }} scholion-card--{{ . }}{{ end }}{{ if $isPinned }} scholion-card--pinned{{ end }}{{ if $isPublished }} scholion-card--research-published{{ else if $isResearch }} scholion-card--research{{ end }}" data-kind="{{ $kind }}">
@@ -81,6 +90,7 @@
       {{ end }}
     </ul>
 
-    {{ partial "scholion-pagination.html" $paginator }}
+    {{ partial "scholion-pagination.html" $s }}
   </section>
+  {{ end }}
 {{ end }}
