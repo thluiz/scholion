@@ -5,6 +5,18 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
+## [0.6.1] — 2026-11-12
+
+### Alterado
+
+- **`deploy.ps1`: varredura de hash ~6x mais rápida.** Num fullsync sem build,
+  do início do scan ao upload: de ~37 s para ~6 s (38k arquivos). Três causas:
+  o manifesto vinha como `OrderedHashtable`, onde atualizar uma chave é busca
+  linear (~22 s); `ForEach-Object -Parallel` + `Get-FileHash` pagava overhead
+  de runspace por arquivo, agora é `Parallel.ForEach` em C# via `Add-Type`;
+  `Get-ChildItem -Recurse` e um `Test-Path` por entrada do manifesto viraram
+  enumeração .NET e lookup no dicionário de hashes.
+
 ## [0.6.0] — 2026-11-12
 
 ### Alterado

@@ -121,7 +121,11 @@ if (-not $SkipBuild) {
 # Estado anterior
 $prevManifest = @{}
 if (Test-Path $MANIFEST) {
-    $prevManifest = Get-Content $MANIFEST -Raw | ConvertFrom-Json -AsHashtable
+    # -AsHashtable returns an OrderedHashtable, where setting an existing key is
+    # a linear search: updating 38k entries took ~22 s. Plain hashtable instead.
+    $prevManifest = [hashtable]::new(
+        (Get-Content $MANIFEST -Raw | ConvertFrom-Json -AsHashtable),
+        [StringComparer]::OrdinalIgnoreCase)
 }
 
 $lastCommit    = if (Test-Path $LAST_COMMIT) { (Get-Content $LAST_COMMIT -Raw).Trim() } else { $null }
@@ -255,6 +259,13 @@ function Get-FrontmatterList {
     return $values
 }
 
+# Every file in public/ as full paths. .NET enumeration: Get-ChildItem -Recurse
+# took ~7 s for 38k files.
+function Get-AllPublicFiles {
+    [IO.Directory]::EnumerateFiles($PUBLIC_DIR, '*', [IO.SearchOption]::AllDirectories).
+        Where({ [IO.Path]::GetFileName($_) -ne '.DS_Store' })
+}
+
 $pathsToCheck = Get-PathsToCheck $REPO_DIR $PUBLIC_DIR $lastCommit $currentCommit
 $isFullScan   = $ForceFullSync -or (-not $lastCommit)
 
@@ -274,13 +285,13 @@ $hashedEverything = $isFullScan -or $presentationChanged
 
 if ($isFullScan) {
     Write-Host "==> full scan ($(if ($ForceFullSync) { 'ForceFullSync' } else { 'primeiro deploy' }))" -ForegroundColor Cyan
-    $filesToHash = Get-ChildItem $PUBLIC_DIR -Recurse -File | Where-Object { $_.Name -ne '.DS_Store' }
+    $filesToHash = Get-AllPublicFiles
 } elseif ($lastCommit -eq $currentCommit) {
     Write-Host "==> sem novos commits — nada a publicar" -ForegroundColor Yellow
     $filesToHash = @()
 } elseif ($presentationChanged) {
     Write-Host "==> apresentação mudou — hash de tudo, upload só do que diferir" -ForegroundColor Cyan
-    $filesToHash = Get-ChildItem $PUBLIC_DIR -Recurse -File | Where-Object { $_.Name -ne '.DS_Store' }
+    $filesToHash = Get-AllPublicFiles
 } else {
     $diffFiles = git diff --name-only $lastCommit $currentCommit
     $nNotes    = ($diffFiles | Where-Object { $_ -match '^content/.*\.md$' } | Measure-Object).Count
@@ -293,18 +304,39 @@ if ($isFullScan) {
 }
 
 # Hash paralelo das páginas derivadas do diff
-$results = $filesToHash | ForEach-Object -Parallel {
-    $rel  = $_.FullName.Substring($using:PUBLIC_DIR.Length + 1)
-    $hash = (Get-FileHash $_.FullName -Algorithm SHA256).Hash
-    [PSCustomObject]@{ Rel = $rel; Hash = $hash }
-} -ThrottleLimit 24
+# SHA256 of public/ files, keyed by path relative to public/ (uppercase hex,
+# same format Get-FileHash wrote to the manifest). Parallel.ForEach in C#:
+# ForEach-Object -Parallel + Get-FileHash paid ~3 ms of runspace overhead per
+# file, ~2 min for the 38k files of a full scan; this takes about a second.
+if (-not ('ScholionHash' -as [type])) {
+    Add-Type -TypeDefinition @"
+using System; using System.Collections.Concurrent; using System.IO;
+using System.Security.Cryptography; using System.Threading.Tasks;
+public static class ScholionHash {
+    public static ConcurrentDictionary<string, string> Hash(string[] paths, int baseLen) {
+        var d = new ConcurrentDictionary<string, string>(StringComparer.OrdinalIgnoreCase);
+        Parallel.ForEach(paths, new ParallelOptions { MaxDegreeOfParallelism = 24 }, p => {
+            using var s = File.OpenRead(p);
+            d[p.Substring(baseLen)] = Convert.ToHexString(SHA256.HashData(s));
+        });
+        return d;
+    }
+}
+"@
+}
+function Get-PublicHashes([object[]]$files) {
+    $paths = [string[]]@($files | Where-Object { $_ } | ForEach-Object { if ($_ -is [string]) { $_ } else { $_.FullName } })
+    [ScholionHash]::Hash($paths, $PUBLIC_DIR.Length + 1)
+}
+
+$results = Get-PublicHashes $filesToHash
 
 $newManifest = $prevManifest.Clone()
 $toUpload    = [System.Collections.Generic.List[string]]::new()
 
-foreach ($r in $results) {
-    $newManifest[$r.Rel] = $r.Hash
-    if ($prevManifest[$r.Rel] -ne $r.Hash) { $toUpload.Add($r.Rel) }
+foreach ($r in $results.GetEnumerator()) {
+    $newManifest[$r.Key] = $r.Value
+    if ($prevManifest[$r.Key] -ne $r.Value) { $toUpload.Add($r.Key) }
 }
 
 # Assets estáticos — sempre re-verificar no modo incremental.
@@ -326,15 +358,11 @@ if (-not $hashedEverything) {
     }
 
     $assetAdded = 0
-    $assetFiles | ForEach-Object -Parallel {
-        $rel  = $_.FullName.Substring($using:PUBLIC_DIR.Length + 1)
-        $hash = (Get-FileHash $_.FullName -Algorithm SHA256).Hash
-        [PSCustomObject]@{ Rel = $rel; Hash = $hash }
-    } -ThrottleLimit 16 | ForEach-Object {
-        $newManifest[$_.Rel] = $_.Hash
-        if ($prevManifest[$_.Rel] -ne $_.Hash -and -not $toUpload.Contains($_.Rel)) {
-            $toUpload.Add($_.Rel)
-            $script:assetAdded++
+    foreach ($r in (Get-PublicHashes $assetFiles).GetEnumerator()) {
+        $newManifest[$r.Key] = $r.Value
+        if ($prevManifest[$r.Key] -ne $r.Value -and -not $toUpload.Contains($r.Key)) {
+            $toUpload.Add($r.Key)
+            $assetAdded++
         }
     }
     if ($assetAdded -gt 0) { Write-Host "  +$assetAdded asset(s) com hash novo" }
@@ -345,7 +373,9 @@ if (-not $hashedEverything) {
 $toDelete = [System.Collections.Generic.List[string]]::new()
 if ($hashedEverything) {
     foreach ($key in $prevManifest.Keys) {
-        if (-not (Test-Path (Join-Path $PUBLIC_DIR $key))) {
+        # $results holds every file of public/ here; a lookup instead of one
+        # Test-Path per manifest entry (~6 s).
+        if (-not $results.ContainsKey($key)) {
             $toDelete.Add($key)
             $newManifest.Remove($key) | Out-Null
         }
