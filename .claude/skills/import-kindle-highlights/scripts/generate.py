@@ -156,8 +156,9 @@ def main():
 
         extra_tags = []
         if year:
-            summ = f'Citação de {nome}, datada de {year} em {livro}, de {autor_livro}{ed_ano}.'
-            corpo = f'Passagem de {nome}, datada de {year} em {livro}, de {autor_livro}.'
+            de = 'do' if str(year).startswith('século') else 'de'   # "datada do século IV a.C."
+            summ = f'Citação de {nome}, datada {de} {year} em {livro}, de {autor_livro}{ed_ano}.'
+            corpo = f'Passagem de {nome}, datada {de} {year} em {livro}, de {autor_livro}.'
         elif anthology or sec:
             summ = f'Citação de {nome} reunida por {autor_livro} em {livro}{ed_ano}.'
             corpo = f'Passagem de {nome} reunida por {autor_livro} em {livro}.'

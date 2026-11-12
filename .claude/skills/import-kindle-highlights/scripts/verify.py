@@ -79,7 +79,7 @@ def main():
         h = by_text.get(n['title'])
         if not h:
             avisos.append(f'{name}: nenhum destaque idêntico ao título (nota antiga ou título editado)'); continue
-        datada = re.search(r'datada de (\d{4})', n['summary'] + ' ' + n['body'])
+        datada = re.search(r'datada d[eo] (\d{4}|século [IVXL]+ [ad]\.C\.)', n['summary'] + ' ' + n['body'])
         if h['year']:
             if datada and datada.group(1) != h['year']:
                 erros.append(f'{name}: ano da nota ({datada.group(1)}) difere do destaque ({h["year"]})')

@@ -27,5 +27,17 @@
   "goethe": {"name": "Johann Wolfgang von Goethe", "tag": "goethe"},
   "arnold schoenberg": {"name": "Arnold Schoenberg", "tag": "arnold-schoenberg"},
   "william paley": {"name": "William Paley", "tag": "william-paley"},
-  "stuart hampshire": {"name": "Stuart Hampshire", "tag": "stuart-hampshire"}
+  "stuart hampshire": {"name": "Stuart Hampshire", "tag": "stuart-hampshire"},
+  "vilfredo pareto": {"name": "Vilfredo Pareto", "tag": "vilfredo-pareto"},
+  "kenneth arrow": {"name": "Kenneth Arrow", "tag": "kenneth-arrow"},
+  "alexander pope": {"name": "Alexander Pope", "tag": "alexander-pope"},
+  "george stigler": {"name": "George Stigler", "tag": "george-stigler"},
+  "péricles": {"name": "Péricles", "tag": "pericles"},
+  "cícero": {"name": "Cícero", "tag": "cicero"},
+  "fontenelle": {"name": "Bernard Le Bovier de Fontenelle", "tag": "fontenelle"},
+  "schelling": {"name": "Friedrich Wilhelm Joseph Schelling", "tag": "schelling"},
+  "rousseau": {"name": "Jean-Jacques Rousseau", "tag": "jean-jacques-rousseau"},
+  "simone de beauvoir": {"name": "Simone de Beauvoir", "tag": "simone-de-beauvoir"},
+  "confúcio": {"name": "Confúcio", "tag": "confucio"},
+  "aristóteles": {"name": "Aristóteles", "tag": "aristoteles"}
 }
