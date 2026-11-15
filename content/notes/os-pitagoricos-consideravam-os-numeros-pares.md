@@ -5,7 +5,6 @@ category: quote
 summary: 'Passagem de Simon Critchley em O Livro dos Filósofos Mortos, edição em português publicada em 2010, tradução de The Book of Dead Philosophers, lançado originalmente em 2008.'
 tags: ["simon-critchley", "pitagoricos", "filosofia-antiga", "o-livro-dos-filosofos-mortos"]
 has_commentary: false
-draft: true
 sources:
   - title: "O livro dos filósofos mortos"
     author: "Simon Critchley"
