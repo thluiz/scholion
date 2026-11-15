@@ -1,7 +1,7 @@
 ---
 name: add-scholion-webclip
-description: Captura uma página web e gera uma nota category:webclip no Scholion com resumo e fichamento, via a API scholion-webclipper (fetch, extração e composição rodam server-side). Opcionalmente cria notas de citação a partir de frases da mesma página.
-argument-hint: "[url ou caminho .md] | [frase1] | [frase2] | ..."
+description: Captura uma página web e gera uma nota category:webclip no Scholion com resumo e fichamento, via a API scholion-webclipper (fetch, extração e composição rodam server-side). Opcionalmente cria notas de citação a partir de frases da mesma página. Com o argumento `fila`, processa os webclips estacionados no Toscanini (enviados pelo Claudinho e que o servidor não conseguiu ler) usando o Claude in Chrome.
+argument-hint: "[url ou caminho .md] | [frase1] | [frase2] | ...  —  ou: fila"
 ---
 
 Captura uma página web e cria uma nota `category: webclip` no **Scholion** em
@@ -40,6 +40,35 @@ Notas `quote` (passo 5) seguem `add-scholion-quote`, com seu próprio portão (`
 Passos de pipeline que esta skill reaproveita do `note-pipeline.md`: 10 (marcador), 11 (commit `--only`), 13 (push e relato), 14 (Silvae). Hora, slug, YAML, composição e preview são próprios desta skill (vêm do `compose`).
 
 ---
+
+## Modo fila (`/add-scholion-webclip fila`)
+
+Webclips enviados por agente (Claudinho → `POST /api/orchestrator/publish/webclip`) rodam como pipeline
+no **Toscanini**, que decide tudo: retentativa, gravação (o webclipper commita e faz push do próprio clone),
+citações e aviso no Telegram. O que o servidor sozinho não resolve fica **estacionado** (`status: parked`)
+esperando esta máquina. Neste modo a skill só faz o papel de "humano com navegador": não compõe, não grava,
+não commita. Os passos 1–5 abaixo **não** se aplicam.
+
+1. **Listar**: MCP `list_parked` com `content_type: "scholion_webclip"`. Se `count == 0`, dizer
+   "fila vazia" e parar. Senão, mostrar a lista numerada (um item por linha: url, `reason`, `code`,
+   quantas frases, comentário).
+2. **Processar um item por vez, em série**, pelo `reason`:
+   - **`browser`** (headless bloqueado, consent wall, conteúdo ralo, fetch falhando): carregar a skill
+     `claude-in-chrome` antes de qualquer tool `mcp__claude-in-chrome__*`; `tabs_context_mcp` →
+     `tabs_create_mcp` → `navigate(url)` → `get_page_text(tabId)` → título da tab → `tabs_close_mcp`.
+     Se o texto for paywall, login, 404 ou página vazia, mostrar ao autor e perguntar se descarta
+     (`dismiss_parked` com o motivo). Senão, `resume_parked(id, text, title)` direto, **sem preview**: o
+     autor já escolheu a URL quando mandou, e o ghost-audit roda de novo no servidor (red volta a
+     estacionar como `audit_red`).
+   - **`audit_red`**: mostrar os `findings` ao autor e esperar a decisão. Se ele quiser linkar notas,
+     fazer o search-first do passo 2 (vault) e `resume_parked(id, related_notes: [...])`; se não,
+     `dismiss_parked`. Não recompor só para tentar zerar o red.
+   - **`audit_unavailable`**: conferir se o ghost-audit voltou (`/ghost-audit` ou health do
+     vox-intelligence); se sim, `resume_parked(id)`; se não, deixar parado e avisar.
+   - **`slug_conflict`**: mostrar a nota existente com aquele slug; quase sempre `dismiss_parked`.
+3. **Relatar** os `job_id` retomados e descartados. O resultado de cada um chega pelo Telegram do
+   Toscanini; para conferir na hora, `get_job(id)`. A nota entra em `E:\scholion` pelo `git pull`
+   (o `\Claude\ScholionPublish` puxa a cada 30 min); não há commit local neste modo.
 
 ## Parâmetros
 

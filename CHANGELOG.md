@@ -5,6 +5,15 @@ Todas as mudanças notáveis deste projeto serão documentadas aqui.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/),
 e o projeto segue [Semantic Versioning](https://semver.org/) quando aplicável.
 
+## [0.6.2] — 2026-11-15
+
+### Adicionado
+
+- **Skill `add-scholion-webclip`: modo `fila`.** Webclips enviados por agente (Claudinho) agora rodam
+  como pipeline no Toscanini (`POST /api/orchestrator/publish/webclip`, v0.2.43), que grava pelo
+  webclipper em modo `commit`. O que o servidor não consegue ler fica estacionado; `/add-scholion-webclip fila`
+  lista pelo MCP `list_parked`, captura a página no Claude in Chrome e devolve com `resume_parked`.
+
 ## [0.6.1] — 2026-11-12
 
 ### Alterado
