@@ -5,7 +5,6 @@ category: quote
 summary: 'Trecho de Simon Critchley em O livro dos filósofos mortos, edição em português publicada em 2020 pela Edições 70.'
 tags: ["simon-critchley", "o-livro-dos-filosofos-mortos", "filosofia"]
 has_commentary: false
-draft: true
 sources:
   - title: "O livro dos filósofos mortos"
     author: "Simon Critchley"
