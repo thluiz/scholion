@@ -5,7 +5,6 @@ category: quote
 summary: 'Passagem de Simon Critchley em O Livro dos Filósofos Mortos, edição em português publicada pela Edições 70, situando Pirro no contexto do ceticismo antigo.'
 tags: ["simon-critchley", "o-livro-dos-filosofos-mortos", "ceticismo-antigo", "pirro"]
 has_commentary: false
-draft: true
 sources:
   - title: "O livro dos filósofos mortos"
     author: "Simon Critchley"
