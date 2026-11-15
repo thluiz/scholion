@@ -35,5 +35,7 @@ The article argues that the job market for software engineers is shifting fast. 
 - The author contrasts unemployment, being employed but exhausted, and having time and energy, and gives different advice for each case.
 - If there is little runway left, the advice is to get a job quickly and avoid trying to automate the search.
 - If there is some traction, the weak signal should be explored.
-- If there is still energy after work, the author says to put it toward something that can outlast a job, not hobby projects.
-- The article closes by saying AI lowers the cost of building, so the real question is whether something can be sold and whether it is specific enough.
+- If there is time and energy left after work, the author says to stop with hobby projects and build something for yourself and your family that outlasts jobs: value creation instead of trading time for money. He says software engineers may not have as much time as they think.
+- Building is now cheap, so the open questions are whether it can be sold and whether it is specific enough. Starting from the building means losing to AI sooner or later.
+- The cautionary case is an IT support worker, drained by a semi-toxic job, who builds an app on the side. He has energy for building but not for checking whether he is solving the right problem or whether anyone would pay. The author calls this self-handicapping and says it was his own pattern across four failed startups.
+- The advice is to build on a domain where you have an advantage the models were not trained on, such as twenty years in health, and to prove it sells before building.
