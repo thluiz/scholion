@@ -3,7 +3,7 @@ title: "Por que socialismo?"
 date: '2025-03-14T16:46:56-03:00'
 category: webclip
 summary: 'Einstein defende o socialismo como resposta à crise entre indivíduo e sociedade, à concentração do capital e à produção guiada pelo lucro, mas alerta que a economia planejada também pode virar dominação burocrática.'
-tags: ["socialismo", "economia-planejada", "capitalismo", "einstein"]
+tags: ["socialismo", "economia-planejada", "capitalismo", "albert-einstein"]
 has_commentary: false
 generated_by: "openai/gpt-5.4-mini"
 sources:
