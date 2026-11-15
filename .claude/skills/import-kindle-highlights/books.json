@@ -50,13 +50,16 @@
     {
       "library": "confrontando-o-leviata-uma-historia-do-pensamento-politico-moderno-portuguese-ed",
       "anthology": false,
-      "title": "Confrontando o Leviatã: uma história do pensamento político moderno",
+      "title": "Confronting Leviathan: A History of Ideas",
       "short_title": "Confrontando o Leviatã",
       "author": "David Runciman",
       "lang": "pt",
       "tag": "confrontando-o-leviata",
       "since": "",
-      "ignore_locs": []
+      "ignore_locs": [],
+      "publisher": "Profile Books",
+      "year": 2021,
+      "translator": "não identificado"
     },
     {
       "library": "notes-on-suicide",

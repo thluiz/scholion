@@ -23,7 +23,7 @@
       <h1>{{ if $isSpecies }}{{ $nome }}{{ else if $book }}{{ .Title }}{{ else }}#{{ .Title }}{{ end }}</h1>
       {{ with $book }}
         <p class="scholion-book-meta">
-          {{ .author }}{{ with .publisher }} · {{ . }}{{ end }}{{ with .year }} · {{ . }}{{ end }}
+          {{ .author }}{{ with .publisher }} · {{ . }}{{ end }}{{ with .year }} · {{ . }}{{ end }}{{ with .translator }} · tradutor: {{ . }}{{ end }}
         </p>
       {{ end }}
       {{ with .Description }}<p class="scholion-book-desc">{{ . }}</p>{{ end }}

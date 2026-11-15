@@ -217,6 +217,7 @@ def main():
                  f'    author: "{autor_livro}"\n')
         if ano_livro: fonte += f'    year: {ano_livro}\n'
         if editora: fonte += f'    publisher: "{editora}"\n'
+        if book.get('translator'): fonte += f'    translator: "{yaml_dq(book["translator"])}"\n'
         fonte += '    kind: book\n'
         md = (
             '---\n'

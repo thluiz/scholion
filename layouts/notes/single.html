@@ -104,6 +104,7 @@
                 {{ with .author }}<span class="scholion-source-author"> — {{ . }}</span>{{ end }}
                 {{ with .year }}<span class="scholion-source-year"> ({{ . }})</span>{{ end }}
                 {{ with .publisher }}<span class="scholion-source-publisher">, {{ . }}</span>{{ end }}
+                {{ with .translator }}<span class="scholion-source-translator">, tradutor: {{ . }}</span>{{ end }}
                 {{ with .kind }}<span class="scholion-source-kind">[{{ . }}]</span>{{ end }}
               </li>
             {{ end }}

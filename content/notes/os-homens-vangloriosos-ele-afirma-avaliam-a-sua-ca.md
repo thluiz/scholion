@@ -6,8 +6,11 @@ summary: 'Passagem de Confrontando o Leviatã, de David Runciman, em que ele cit
 tags: ["david-runciman", "confrontando-o-leviata", "autor-nao-confirmado"]
 has_commentary: false
 sources:
-  - title: "Confrontando o Leviatã: uma história do pensamento político moderno"
+  - title: "Confronting Leviathan: A History of Ideas"
     author: "David Runciman"
+    year: 2021
+    publisher: "Profile Books"
+    translator: "não identificado"
     kind: book
 ---
 

@@ -53,7 +53,7 @@ try {
     # 1) pendentes (cruza com TODAS as notas do vault)
     & $py -I "$scripts\crossmatch.py" $libFile --json "$wd\hl.json" @plain | Out-Null
     if ($LASTEXITCODE -ne 0) { $avisos += "❌ ${slug}: crossmatch falhou"; continue }
-    $bookJson = $b | Select-Object title, short_title, author, publisher, year, tag, anthology, lang, pronoun, sections
+    $bookJson = $b | Select-Object title, short_title, author, publisher, year, translator, tag, anthology, lang, pronoun, sections
     ($bookJson | ConvertTo-Json -Compress -Depth 5) | Set-Content -Encoding UTF8 "$wd\book.json"
 
     # 2) gerar (sem --confirm: autoria nunca é inventada). --auto: destaque cortado vira nota com a tag
@@ -92,6 +92,7 @@ try {
       $meta = "  author: `"$($b.author)`""
       if ($b.publisher) { $meta += "`n  publisher: `"$($b.publisher)`"" }
       if ($b.year) { $meta += "`n  year: $($b.year)" }
+      if ($b.translator) { $meta += "`n  translator: `"$($b.translator)`"" }
       $idx = "---`ntitle: `"$($b.title -replace '"','\"')`"`ndescription: `"Citações guardadas de $($b.author).`"`nbook:`n$meta`n---`n"
       [IO.File]::WriteAllText($tagIdx, $idx, (New-Object Text.UTF8Encoding($false)))
       while (Test-Path "$repo\.git\index.lock") { Start-Sleep -Seconds 1 }
