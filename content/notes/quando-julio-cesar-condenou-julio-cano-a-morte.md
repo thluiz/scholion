@@ -5,7 +5,6 @@ category: quote
 summary: 'Passagem de Simon Critchley em O Livro dos Filósofos Mortos, edição em português publicada em 2020 por Edições 70, extraída do livro indicado pelo solicitante.'
 tags: ["simon-critchley", "o-livro-dos-filosofos-mortos", "filosofia"]
 has_commentary: false
-draft: true
 sources:
   - title: "O livro dos filósofos mortos"
     author: "Simon Critchley"
