@@ -19,6 +19,7 @@ Uso:
   --since     só destaques com added >= data (importação autônoma de livro já em andamento).
   --auto      rotina autônoma: destaque curto/cortado vira nota com a tag destaque-cortado (não pendência).
   --skip-collision  só para testes: não trata slug existente como erro.
+  authors.json: {"unconfirmed": true} numa entrada acrescenta a tag de autor não confirmado (ex.: "atribuído a einstein").
   --draft-pending   rotina autônoma: destaque sem autor, nome fora de authors.json ou cortado (antologia) vira
               nota com `draft: true` (fora do site até o autor revisar) em vez de PENDENTE. Sai como linha
               RASCUNHO. Slug existente continua PENDENTE (é nota já gravada, não rascunho).
@@ -125,6 +126,7 @@ def main():
         sobre = False
         c = confirm.get(str(loc)) or {}
         rascunho = None   # motivo do draft: true (só com --draft-pending)
+        nao_conf = False  # authors.json com "unconfirmed": true (o próprio livro diz "atribuído a")
         if anthology:
             if c.get('author'):
                 nome, tag, year = c['author'], c['tag'], c.get('year', year)
@@ -138,6 +140,7 @@ def main():
                 rascunho, nome, tag = f'nome "{h["name"]}" fora de authors.json', None, None
             else:
                 nome, tag = authors[h['name']]['name'], authors[h['name']]['tag']
+                nao_conf = bool(authors[h['name']].get('unconfirmed'))
         else:
             title, year = h['raw'], None
             sec = secao(loc)
@@ -166,7 +169,7 @@ def main():
         if base in existing and not a.skip_collision:
             pendencias.append(f'loc {loc}: slug "{base}" já existe (nota existente? voltar ao crossmatch)'); continue
 
-        extra_tags = []
+        extra_tags = [tag_unc] if nao_conf else []
         if nome is None:   # rascunho de antologia sem autor resolvido: não nomeia ninguém
             de = 'do' if year and str(year).startswith('século') else 'de'
             dat = f', datada {de} {year},' if year else ''

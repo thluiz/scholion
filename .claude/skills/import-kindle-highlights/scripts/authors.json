@@ -40,5 +40,15 @@
   "rousseau": {"name": "Jean-Jacques Rousseau", "tag": "jean-jacques-rousseau"},
   "simone de beauvoir": {"name": "Simone de Beauvoir", "tag": "simone-de-beauvoir"},
   "confúcio": {"name": "Confúcio", "tag": "confucio"},
-  "aristóteles": {"name": "Aristóteles", "tag": "aristoteles"}
+  "aristóteles": {"name": "Aristóteles", "tag": "aristoteles"},
+  "kepler": {"name": "Johannes Kepler", "tag": "johannes-kepler"},
+  "g. h. von wright": {"name": "Georg Henrik von Wright", "tag": "georg-henrik-von-wright"},
+  "atribuído a einstein": {"name": "Albert Einstein", "tag": "albert-einstein", "unconfirmed": true},
+  "thomas nagel": {"name": "Thomas Nagel", "tag": "thomas-nagel"},
+  "carl becker": {"name": "Carl Becker", "tag": "carl-becker"},
+  "platão": {"name": "Platão", "tag": "platao"},
+  "julius robert mayer": {"name": "Julius Robert Mayer", "tag": "julius-robert-mayer"},
+  "ernst cassirer": {"name": "Ernst Cassirer", "tag": "ernst-cassirer"},
+  "h. b. adkins": {"name": "Homer Burton Adkins", "tag": "homer-burton-adkins"},
+  "ernest rutherford": {"name": "Ernest Rutherford", "tag": "ernest-rutherford"}
 }
