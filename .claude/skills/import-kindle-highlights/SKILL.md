@@ -109,7 +109,7 @@ python -I E:\scholion\.claude\skills\import-kindle-highlights\scripts\generate.p
 
 Dois destaques podem ter a **mesma loc** (Notes on Suicide: 4 pares). O gerador trata cada um pelo par loc + texto, então os dois viram draft; `--skip`/`--accept` valem para a loc inteira.
 
-Código de saída 2 = há `PENDENTE`: destaque sem autor, cortado (sem `--accept`), nome fora de `scripts/authors.json` ou slug que já existe. Nada disso vira draft; perguntar ao autor. Nome novo e inequívoco entra em `authors.json` (nome completo + tag; reaproveitar a tag que já existe no vault) com a confirmação do autor. Testado: reproduziu byte a byte os 33 drafts da importação de Giannetti.
+Código de saída 2 = há `PENDENTE`: destaque sem autor, cortado (sem `--accept`), nome fora de `scripts/authors.json` ou slug que já existe. No fluxo interativo nada disso vira draft; perguntar ao autor (só a rotina usa `--draft-pending`). Nome novo e inequívoco entra em `authors.json` (nome completo + tag; reaproveitar a tag que já existe no vault) com a confirmação do autor. Testado: reproduziu byte a byte os 33 drafts da importação de Giannetti.
 
 Se o shell mangar barras ao escrever script, usar a tool Write (não heredoc) ou `chr(92)`/`chr(34)`.
 
@@ -158,20 +158,21 @@ Depois: `git push` uma vez, relatar "pushed `<hash>`" (nunca "publicado"). Confe
 
 Mesmo fluxo; o passo 2 já separa o que é novo. Se não há pendente, dizer isso e parar. Destaques novos de um livro com a tag/`_index.md` existentes só precisam dos passos 4–7.
 
-## Rotina autônoma diária (04:00)
+## Rotina autônoma (encadeada no sync)
 
-`scripts/auto-import.ps1`, pensada para a task `\Claude\KindleImport` (04:00, depois do `\Claude\KindleDaily` de 01:00 que baixa os destaques). Sem LLM: gerar → `verify.py` → `save.ps1 -NoCommit` → um commit do dia → push → aviso no GossipGate. Só avisa quando algo acontece.
+`scripts/auto-import.ps1` roda logo depois de cada sync bem-sucedido do kindle-scrapper: o `E:\kindle-scrapper\scripts\daily-sync.ps1` chama o hook local `post-sync.local.ps1`, que chama este script. O sync roda à meia-noite (`\Claude\KindleDaily`) e também logo depois de um login (`E:\kindle-scrapper\login.cmd`), então logar já importa tudo, sem esperar a noite. Sync que falha não chama o import (nada de rodar sobre library parada). A antiga task `\Claude\KindleImport` (04:00) está desativada desde 2026-11-15. Sem LLM: gerar → `verify.py` → `save.ps1 -NoCommit` → um commit → push → aviso no GossipGate. Só avisa quando algo acontece.
 
-- **Registro `books.json`** (nesta pasta): só entra livro que o autor liga explicitamente, porque as notas viram páginas públicas (há livros sensíveis na biblioteca). Campos: `library` (slug do arquivo), `mode` (`auto` importa; `notify` só avisa), `anthology`, `title`, `short_title`, `author` (o autor limpo, sem tradutores), `publisher`/`year` (opcionais, omitir se não conferidos), `tag`, `since` (só destaques adicionados nessa data ou depois; evita despejar o acervo antigo), `ignore_locs`.
+- **Registro `books.json`** (nesta pasta): só entra livro que o autor liga explicitamente, porque as notas viram páginas públicas (há livros sensíveis na biblioteca). Todo livro registrado é importado sozinho (o modo `notify` saiu em 2026-11-15, decisão do autor). Campos: `library` (slug do arquivo), `anthology`, `title`, `short_title`, `author` (o autor limpo, sem tradutores), `publisher`/`year` (opcionais, omitir se não conferidos), `tag`, `since` (só destaques adicionados nessa data ou depois), `ignore_locs`, `lang`, `pronoun`, `sections`.
 - **Livro de autor único (`anthology: false`)**: título = destaque inteiro; autor = o do livro, salvo `sections` e as heurísticas A/B do passo 4, que marcam a nota com a tag de autor não confirmado (no idioma do `lang` do livro). Fragmento (menos de 25 caracteres, ou terminado em `,` `;` `…`) vira nota com a tag `destaque-cortado` (`--auto`). O aviso diz quantas notas saíram com autor a conferir e quantas cortadas.
-- **Antologia**: fica em `mode: notify`; a rotina conta os destaques novos e avisa para rodar a skill. Autoria nunca é inventada (`--confirm` só existe no fluxo interativo).
+- **Antologia**: o que tem autor em `authors.json` vira nota normal. O que não passa na validação (sem autor no destaque, nome fora de `authors.json`, destaque cortado) vira nota com `draft: true` (`generate.py --draft-pending`): fica no repo, fora do site, com a tag de autor não confirmado e sem nomear ninguém. O aviso lista cada rascunho com loc, motivo e slug. Para publicar: o autor confirma o nome, entra em `authors.json`, e a nota troca a tag de autor não confirmado pela do autor e perde o `draft: true`. Autoria nunca é inventada.
 - **Aviso de livros sem import ligado**: toda execução lista os livros **fora** de `books.json` com destaques adicionados nos últimos 7 dias (`-RecentDays`), no formato "• Título (nº de destaques)". Cada destaque é avisado uma só vez (estado em `%LOCALAPPDATA%\scholion-kindle-import\state.json`); a primeira execução avisa tudo o que estiver na janela.
 - **Livro ligado é importado por inteiro** (decisão do autor, 2026-11-02): sem teto por execução (`-MaxPerBook 0`) e com `since` vazio entra o acervo antigo também. Teto opcional só via parâmetro `-MaxPerBook N`.
-- **Um commit por dia** (decisão do autor, 2026-11-02): a rotina chama `save.ps1 -NoCommit` (grava, faz stage e o marcador do gate, sem commitar) para cada livro e, no fim, faz um único commit `notes: importação diária do Kindle, N nota(s): Livro (n), …` com tudo, antes do push. O fluxo interativo faz um commit por rodada (passo 7).
-- **Salvaguardas**: `verify.py` com ERRO → nada é gravado; slugs que já existem viram pendência no aviso; autoria suspeita e fragmento cortado viram nota marcada (tags acima), não pendência. Tudo vira log em `%LOCALAPPDATA%\scholion-kindle-import\auto-import.log`.
-- **Teste sem gravar:** `pwsh -NoProfile -File scripts\auto-import.ps1 -Registry <arquivo.json> -DryRun`.
-- **Ligar um livro:** acrescentar a entrada em `books.json` com `mode: auto` e `since` = hoje (ou a data a partir da qual quer notas); o acervo anterior, se quiser, entra pela skill interativa.
-- **Registrar a task** (uma vez, pelo autor): ver `scripts/register-task.ps1`.
+- **Um commit por rodada** (decisão do autor, 2026-11-02): a rotina chama `save.ps1 -NoCommit` (grava, faz stage e o marcador do gate, sem commitar) para cada livro e, no fim, faz um único commit `notes: importação diária do Kindle, N nota(s): Livro (n), …` com tudo, antes do push. O fluxo interativo faz um commit por rodada (passo 7).
+- **Salvaguardas**: `verify.py` com ERRO → nada daquele livro é gravado (aviso; os outros livros seguem); slugs que já existem viram pendência no aviso; autoria suspeita e fragmento cortado viram nota marcada (tags acima), não pendência. Tudo vira log em `%LOCALAPPDATA%\scholion-kindle-importuto-import.log`.
+- **Teste sem gravar:** `pwsh -NoProfile -File scriptsuto-import.ps1 -Registry <arquivo.json> -DryRun`.
+- **Ligar um livro:** acrescentar a entrada em `books.json`; com `since` vazio entra o livro inteiro.
+- **Sessão da Amazon:** o kindle-scrapper usa um perfil de navegador persistente (`auth/profile/`), e a sonda `\Claude\KindleProbe` (de hora em hora, oculta) registra em `E:\kindle-scrapper\session-probe.log` quanto a sessão dura e avisa uma vez quando cai. O login é por passkey, então exige o autor na máquina: `E:\kindle-scrapper\login.cmd`.
+- **Tasks:** `E:\kindle-scrapper\scriptsegister-tasks.ps1` (todas via `hidden.vbs`, sem janela).
 
 ## Armadilhas já vividas
 

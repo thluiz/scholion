@@ -1,9 +1,8 @@
 {
-  "_nota": "Livros que a rotina diária (auto-import.ps1, 04:00) acompanha. Só entra aqui o livro que o autor liga explicitamente: as notas viram páginas públicas. mode=auto importa sozinha; mode=notify só avisa. since = só destaques adicionados nessa data ou depois (evita despejar o acervo antigo). ignore_locs = destaques que o autor já decidiu deixar de fora. lang = idioma das notas (pt|en; define a tag de autor não confirmado). pronoun = ele|ela (texto \"em que ele cita outro autor\"). sections = [{from_loc,to_loc,author,tag}] para trecho de outro autor (apêndice, prefácio).",
+  "_nota": "Livros que a rotina diária (auto-import.ps1, 04:00) acompanha. Só entra aqui o livro que o autor liga explicitamente: as notas viram páginas públicas. Todo livro aqui é importado sozinho; destaque que não passa na validação (sem autor, nome fora de authors.json, cortado em antologia) vira nota draft: true e aviso. since = só destaques adicionados nessa data ou depois (evita despejar o acervo antigo). ignore_locs = destaques que o autor já decidiu deixar de fora. lang = idioma das notas (pt|en; define a tag de autor não confirmado). pronoun = ele|ela (texto \"em que ele cita outro autor\"). sections = [{from_loc,to_loc,author,tag}] para trecho de outro autor (apêndice, prefácio).",
   "books": [
     {
       "library": "o-livro-das-citacoes-portuguese-edition",
-      "mode": "notify",
       "anthology": true,
       "lang": "pt",
       "title": "O livro das citações: um breviário de ideias replicantes",
@@ -13,11 +12,14 @@
       "year": 2008,
       "tag": "o-livro-das-citacoes",
       "since": "",
-      "ignore_locs": [76, 100, 731]
+      "ignore_locs": [
+        76,
+        100,
+        731
+      ]
     },
     {
       "library": "o-livro-dos-filosofos-mortos-portuguese-edition",
-      "mode": "auto",
       "anthology": false,
       "title": "O livro dos filósofos mortos",
       "short_title": "O livro dos filósofos mortos",
@@ -31,7 +33,6 @@
     },
     {
       "library": "por-uma-moral-da-ambiguidade-portuguese-edition",
-      "mode": "auto",
       "anthology": false,
       "title": "Por uma moral da ambiguidade",
       "short_title": "Por uma moral da ambiguidade",
@@ -42,7 +43,41 @@
       "year": 2025,
       "tag": "por-uma-moral-da-ambiguidade",
       "since": "",
-      "ignore_locs": [126]
+      "ignore_locs": [
+        126
+      ]
+    },
+    {
+      "library": "confrontando-o-leviata-uma-historia-do-pensamento-politico-moderno-portuguese-ed",
+      "anthology": false,
+      "title": "Confrontando o Leviatã: uma história do pensamento político moderno",
+      "short_title": "Confrontando o Leviatã",
+      "author": "David Runciman",
+      "lang": "pt",
+      "tag": "confrontando-o-leviata",
+      "since": "",
+      "ignore_locs": []
+    },
+    {
+      "library": "notes-on-suicide",
+      "anthology": false,
+      "title": "Notes on Suicide",
+      "short_title": "Notes on Suicide",
+      "author": "Simon Critchley",
+      "lang": "en",
+      "publisher": "Fitzcarraldo Editions",
+      "year": 2015,
+      "tag": "notes-on-suicide",
+      "since": "",
+      "ignore_locs": [],
+      "sections": [
+        {
+          "from_loc": 1072,
+          "to_loc": null,
+          "author": "David Hume",
+          "tag": "david-hume"
+        }
+      ]
     }
   ]
 }

@@ -19,6 +19,9 @@ Uso:
   --since     só destaques com added >= data (importação autônoma de livro já em andamento).
   --auto      rotina autônoma: destaque curto/cortado vira nota com a tag destaque-cortado (não pendência).
   --skip-collision  só para testes: não trata slug existente como erro.
+  --draft-pending   rotina autônoma: destaque sem autor, nome fora de authors.json ou cortado (antologia) vira
+              nota com `draft: true` (fora do site até o autor revisar) em vez de PENDENTE. Sai como linha
+              RASCUNHO. Slug existente continua PENDENTE (é nota já gravada, não rascunho).
 
 Antologia (anthology=true): o título é a frase sem a atribuição do fim (kh.split_attribution) e o autor vem
 de authors.json ou de --confirm. Livro de autor único (false): título = destaque inteiro; autor = o do livro.
@@ -76,6 +79,7 @@ def main():
     ap.add_argument('--accept', default='')
     ap.add_argument('--auto', action='store_true')
     ap.add_argument('--skip-collision', action='store_true')
+    ap.add_argument('--draft-pending', action='store_true')
     a = ap.parse_args()
 
     book = json.load(open(a.book, encoding='utf-8'))
@@ -107,7 +111,7 @@ def main():
                 return s
         return None
 
-    gerados, pendencias = [], []
+    gerados, pendencias, rascunhos = [], [], []
     for h in sorted(todos, key=lambda h: h['loc']):  # sort estável: mantém a ordem do livro na mesma loc
         loc = h['loc']
         if loc in skip:
@@ -120,13 +124,18 @@ def main():
         cites = None   # None | True (não identificado) | dict (identificado)
         sobre = False
         c = confirm.get(str(loc)) or {}
+        rascunho = None   # motivo do draft: true (só com --draft-pending)
         if anthology:
             if c.get('author'):
                 nome, tag, year = c['author'], c['tag'], c.get('year', year)
             elif h['name'] is None:
-                pendencias.append(f'loc {loc}: SEM AUTOR no destaque: "{h["raw"][:80]}..."'); continue
+                if not a.draft_pending:
+                    pendencias.append(f'loc {loc}: SEM AUTOR no destaque: "{h["raw"][:80]}..."'); continue
+                rascunho, nome, tag = 'sem autor no destaque', None, None
             elif h['name'] not in authors:
-                pendencias.append(f'loc {loc}: nome "{h["name"]}" fora de authors.json'); continue
+                if not a.draft_pending:
+                    pendencias.append(f'loc {loc}: nome "{h["name"]}" fora de authors.json'); continue
+                rascunho, nome, tag = f'nome "{h["name"]}" fora de authors.json', None, None
             else:
                 nome, tag = authors[h['name']]['name'], authors[h['name']]['tag']
         else:
@@ -148,6 +157,9 @@ def main():
         if is_cut(title, anthology):
             if loc in accept or (a.auto and not anthology):
                 flags.append('cortado')
+            elif a.draft_pending:
+                flags.append('cortado')
+                rascunho = rascunho or 'destaque curto ou cortado'
             else:
                 pendencias.append(f'loc {loc}: destaque curto ou cortado: "{title[:60]}"'); continue
         base = slugify(title)[:50].rstrip('-')
@@ -155,7 +167,13 @@ def main():
             pendencias.append(f'loc {loc}: slug "{base}" já existe (nota existente? voltar ao crossmatch)'); continue
 
         extra_tags = []
-        if year:
+        if nome is None:   # rascunho de antologia sem autor resolvido: não nomeia ninguém
+            de = 'do' if year and str(year).startswith('século') else 'de'
+            dat = f', datada {de} {year},' if year else ''
+            summ = f'Citação{dat} reunida por {autor_livro} em {livro}{ed_ano}.'
+            corpo = f'Passagem{dat} reunida por {autor_livro} em {livro}.'
+            extra_tags.append(tag_unc)
+        elif year:
             de = 'do' if str(year).startswith('século') else 'de'   # "datada do século IV a.C."
             summ = f'Citação de {nome}, datada {de} {year} em {livro}, de {autor_livro}{ed_ano}.'
             corpo = f'Passagem de {nome}, datada {de} {year} em {livro}, de {autor_livro}.'
@@ -182,7 +200,9 @@ def main():
             summ = f'Passagem de {livro}, de {autor_livro}{ed_ano}.'
             corpo = f'Passagem de {livro}, de {autor_livro}.'
 
-        if sec:
+        if nome is None:
+            tags = [tag_livro_autor]
+        elif sec:
             tags = [tag]
         elif sobre:
             tags = []          # o autor do livro não é o autor do trecho
@@ -203,6 +223,7 @@ def main():
             f'title: "{yaml_dq(title)}"\n'
             "date: 'DATE'\n"
             'category: quote\n'
+            + ('draft: true\n' if rascunho else '') +
             f"summary: '{summ.replace(chr(39), chr(39) * 2)}'\n"
             'tags: [' + ', '.join(f'"{t}"' for t in dict.fromkeys(tags)) + ']\n'
             'has_commentary: false\n'
@@ -212,14 +233,20 @@ def main():
             f'{corpo}\n')
         existing.add(base)
         open(os.path.join(a.out, base + '.md'), 'w', encoding='utf-8', newline='\n').write(md)
-        gerados.append((loc, nome, year, base, flags))
+        if rascunho:
+            flags.append('rascunho')
+            rascunhos.append(f'loc {loc} | {rascunho} | {base}')
+        gerados.append((loc, nome or '?', year, base, flags))
 
     marcadas = sum(1 for g in gerados if any(f in ('cita-outro', 'sobre-a-obra') for f in g[4]))
     cortadas = sum(1 for g in gerados if 'cortado' in g[4])
     print(f'gerados={len(gerados)} pendencias={len(pendencias)} '
-          f'pulados={sum(1 for h in todos if h["loc"] in skip)} autor_nao_confirmado={marcadas} cortados={cortadas}')
+          f'pulados={sum(1 for h in todos if h["loc"] in skip)} autor_nao_confirmado={marcadas} cortados={cortadas} '
+          f'rascunhos={len(rascunhos)}')
     for loc, nome, year, base, flags in gerados:
         print(f'  loc {loc} | {nome} ({year or "s/d"}) | {base}' + (f' | {",".join(flags)}' if flags else ''))
+    for r in rascunhos:
+        print('RASCUNHO', r)
     for p in pendencias:
         print('PENDENTE', p)
     sys.exit(2 if pendencias else 0)

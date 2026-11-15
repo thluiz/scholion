@@ -1,6 +1,7 @@
 #Requires -Version 7
-# Rotina diária (task \Claude\KindleImport, 04:00): lê library/ (o sync das 01:00 já rodou) e, para cada livro de
-# books.json, importa os destaques novos como notas quote (mode=auto) ou só avisa (mode=notify).
+# Rotina de import: chamada pelo E:\kindle-scrapper\scripts\daily-sync.ps1 logo depois de um sync bem-sucedido
+# (noturno ou logo após o login). Para cada livro de books.json, importa os destaques novos como notas quote;
+# o que não passa na validação (sem autor, nome fora de authors.json, cortado em antologia) vira nota draft: true + aviso.
 # Sem LLM: gerar -> conferir (verify.py) -> gravar (save.ps1 -NoCommit; um commit só no fim do dia) -> push -> aviso no GossipGate.
 param(
   [string] $Registry = (Join-Path (Split-Path -Parent $PSScriptRoot) 'books.json'),
@@ -58,7 +59,7 @@ try {
     # 2) gerar (sem --confirm: autoria nunca é inventada). --auto: destaque cortado vira nota com a tag
     #    destaque-cortado; heurísticas marcam trecho de outro autor com a tag de autor não confirmado.
     $skip = ($b.ignore_locs -join ',')
-    $gargs = @('--lib', $libFile, '--hl', "$wd\hl.json", '--out', "$wd\drafts", '--book', "$wd\book.json", '--auto')
+    $gargs = @('--lib', $libFile, '--hl', "$wd\hl.json", '--out', "$wd\drafts", '--book', "$wd\book.json", '--auto', '--draft-pending')
     if ($skip) { $gargs += @('--skip', $skip) }
     if ($b.since) { $gargs += @('--since', $b.since) }
     $gout = (& $py -I "$scripts\generate.py" @gargs 2>&1 | Out-String)
@@ -68,13 +69,10 @@ try {
     $n = [int]$m.Groups[1].Value; $pend = [int]$m.Groups[2].Value
     $mk = [regex]::Match($gout, 'autor_nao_confirmado=(\d+) cortados=(\d+)')
     $unc = [int]$mk.Groups[1].Value; $cut = [int]$mk.Groups[2].Value
-    Log "${slug}: gerados=$n pendencias=$pend autor_nao_confirmado=$unc cortados=$cut modo=$($b.mode)"
+    $rasc = @($gout -split "`n" | Where-Object { $_ -like 'RASCUNHO *' } | ForEach-Object { $_.Substring(9).Trim() })
+    Log "${slug}: gerados=$n pendencias=$pend autor_nao_confirmado=$unc cortados=$cut rascunhos=$($rasc.Count)"
     $pendTxt = ($gout -split "`n" | Where-Object { $_ -like 'PENDENTE*' } | Select-Object -First 3) -join ' | '
 
-    if ($b.mode -ne 'auto') {
-      if ($n + $pend -gt 0) { $avisos += "📚 $($b.short_title): $($n + $pend) destaque(s) novo(s) aguardando você (rode a skill import-kindle-highlights)." }
-      continue
-    }
     if ($n -eq 0) {
       if ($pend -gt 0) { $avisos += "⚠️ $($b.short_title): $pend destaque(s) não importado(s): $pendTxt" }
       continue
@@ -104,14 +102,21 @@ try {
     # 4) gravar (save.ps1 roda verify.py antes e aborta em ERRO). -NoCommit: o commit é um só, no fim do dia.
     $sargs = @{ Drafts = "$wd\drafts"; Lib = $libFile; Tag = $b.tag; Scratch = $wd; NoCommit = $true }
     if (-not $anthology) { $sargs.Plain = $true }
-    $res = & "$scripts\save.ps1" @sargs
+    # Falha de um livro (verify.py com ERRO, lock do git) não derruba os outros: vira aviso e segue.
+    try { $res = & "$scripts\save.ps1" @sargs }
+    catch { $avisos += "❌ $($b.short_title): nada gravado ($($_.Exception.Message))"; Log "${slug}: save falhou: $($_.Exception.Message)"; continue }
     $staged += @($res | Where-Object { "$_" -like 'STAGED *' } | ForEach-Object { "$_".Substring(7) })
     $porLivro += "$($b.short_title) ($n)"
     $gravadas += $n
-    $msg = "📖 $($b.short_title): $n nota(s) nova(s) importada(s)."
+    $publicas = $n - $rasc.Count
+    $msg = "📖 $($b.short_title): $publicas nota(s) nova(s) importada(s)."
     if ($unc -gt 0) { $msg += " $unc com autor a conferir (tag de autor não confirmado)." }
     if ($cut -gt 0) { $msg += " $cut destaque(s) cortado(s) (tag destaque-cortado)." }
-    if ($pend -gt 0) { $msg += " $pend não importada(s): $pendTxt" }
+    if ($rasc.Count -gt 0) {
+      $msg += "`n📝 $($rasc.Count) em rascunho (draft: true, fora do site até você revisar):`n" +
+        (($rasc | ForEach-Object { "• $_" }) -join "`n")
+    }
+    if ($pend -gt 0) { $msg += "`n$pend não importada(s): $pendTxt" }
     $avisos += $msg
   }
 
@@ -135,7 +140,7 @@ try {
     $state[$f.BaseName] = @($state[$f.BaseName] | Where-Object { $_ }) + $novos
   }
   if ($fora.Count -gt 0) {
-    $avisos += "📚 Destaques recentes em livros sem import ligado:`n" + ($fora -join "`n") + "`n(ligar um livro: books.json, mode=auto)"
+    $avisos += "📚 Destaques recentes em livros sem import ligado:`n" + ($fora -join "`n") + "`n(ligar um livro: books.json)"
     if (-not $DryRun) { $state | ConvertTo-Json -Depth 4 | Set-Content -Encoding UTF8 $stateFile }
   }
 
