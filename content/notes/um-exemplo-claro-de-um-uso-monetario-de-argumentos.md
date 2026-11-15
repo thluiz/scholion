@@ -5,7 +5,6 @@ category: quote
 summary: 'Passagem de Simon Critchley em O Livro dos Filósofos Mortos, edição em português publicada por Edições 70; a fonte foi fornecida pelo solicitante e fixa a autoria.'
 tags: ["simon-critchley", "o-livro-dos-filosofos-mortos", "protagoras"]
 has_commentary: false
-draft: true
 sources:
   - title: "O livro dos filósofos mortos"
     author: "Simon Critchley"
