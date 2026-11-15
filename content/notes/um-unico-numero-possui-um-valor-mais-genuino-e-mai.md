@@ -1,10 +1,9 @@
 ---
 title: "Um único número possui um valor mais genuíno e mais duradouro do que uma rica biblioteca repleta de hipóteses."
-date: '2026-11-15T12:36:05+00:00'
+date: '2026-11-15T13:10:27+00:00'
 category: quote
-draft: true
-summary: 'Citação, datada de 1844, reunida por Eduardo Giannetti em O livro das citações (Companhia das Letras, 2008).'
-tags: ["eduardo-giannetti", "o-livro-das-citacoes", "autor-nao-confirmado"]
+summary: 'Citação de Julius Robert Mayer, datada de 1844 em O livro das citações, de Eduardo Giannetti (Companhia das Letras, 2008).'
+tags: ["julius-robert-mayer", "eduardo-giannetti", "o-livro-das-citacoes"]
 has_commentary: false
 sources:
   - title: "O livro das citações: um breviário de ideias replicantes"
@@ -14,4 +13,4 @@ sources:
     kind: book
 ---
 
-Passagem, datada de 1844, reunida por Eduardo Giannetti em O livro das citações.
+Passagem de Julius Robert Mayer, datada de 1844 em O livro das citações, de Eduardo Giannetti.

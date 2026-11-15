@@ -1,10 +1,9 @@
 ---
 title: "Assim como o olho foi feito para ver as cores e o ouvido para escutar os sons, do mesmo modo a mente humana foi feita para entender, não o que for que se queira, mas quantidades."
-date: '2026-11-15T12:36:02+00:00'
+date: '2026-11-15T13:10:26+00:00'
 category: quote
-draft: true
-summary: 'Citação, datada de 1619, reunida por Eduardo Giannetti em O livro das citações (Companhia das Letras, 2008).'
-tags: ["eduardo-giannetti", "o-livro-das-citacoes", "autor-nao-confirmado"]
+summary: 'Citação de Johannes Kepler, datada de 1619 em O livro das citações, de Eduardo Giannetti (Companhia das Letras, 2008).'
+tags: ["johannes-kepler", "eduardo-giannetti", "o-livro-das-citacoes"]
 has_commentary: false
 sources:
   - title: "O livro das citações: um breviário de ideias replicantes"
@@ -14,4 +13,4 @@ sources:
     kind: book
 ---
 
-Passagem, datada de 1619, reunida por Eduardo Giannetti em O livro das citações.
+Passagem de Johannes Kepler, datada de 1619 em O livro das citações, de Eduardo Giannetti.

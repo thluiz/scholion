@@ -1,10 +1,9 @@
 ---
 title: "A simplicidade e a elegância jamais são razões para se pensar que uma teoria filosófica é verdadeira: ao contrário, elas normalmente são as bases para se pensar que a teoria é falsa."
-date: '2026-11-15T12:36:02+00:00'
+date: '2026-11-15T13:10:26+00:00'
 category: quote
-draft: true
-summary: 'Citação, datada de 1979, reunida por Eduardo Giannetti em O livro das citações (Companhia das Letras, 2008).'
-tags: ["eduardo-giannetti", "o-livro-das-citacoes", "autor-nao-confirmado"]
+summary: 'Citação de Thomas Nagel, datada de 1979 em O livro das citações, de Eduardo Giannetti (Companhia das Letras, 2008).'
+tags: ["thomas-nagel", "eduardo-giannetti", "o-livro-das-citacoes"]
 has_commentary: false
 sources:
   - title: "O livro das citações: um breviário de ideias replicantes"
@@ -14,4 +13,4 @@ sources:
     kind: book
 ---
 
-Passagem, datada de 1979, reunida por Eduardo Giannetti em O livro das citações.
+Passagem de Thomas Nagel, datada de 1979 em O livro das citações, de Eduardo Giannetti.
