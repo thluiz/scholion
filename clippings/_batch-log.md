@@ -632,3 +632,21 @@ Call log:
 - SKIP https://medium.com/javascript-in-plain-english/basic-javascript-patterns-events-b1795db01f26 — failed — chrome_blocked_domain — via Claude in Chrome
 - SKIP https://medium.com/@patrykbak/handling-failures-in-background-workers-with-elixir-and-supervisors-fdd8317ef2c5 — skipped — chrome_slug_collision — via Claude in Chrome
 - SKIP https://medium.com/dev-genius/building-a-better-hybrid-data-access-solution-in-net-with-entity-framework-repodb-d1039a648301 — failed — chrome_blocked_domain — via Claude in Chrome
+- SKIP https://dev.to/hlappa/development-environment-for-elixir-phoenix-with-docker-and-docker-compose-2g17 — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://dev.to/ahoy/messages/Du1wbunDtJhEi9v8DP9YAQXk2umQD0xE/click?signature=e352b82b721832068bb5b4d4b70a6cf085633919&url=https%3A%2F%2Fdev.to%2Fcandidateplanet%2Finterview-prep-object-oriented-design-questions-featuring-sam-techdebtor-1b4l%3Futm_source%3Ddigest_mailer%26utm_medium%3Demail%26utm_campaign%3Ddigest_email — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://dev.to/alfki/the-visitor-pattern-exemplified-in-typescript-4cp5 — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://blog.kommit.co/3-ways-to-schedule-tasks-in-elixir-i-learned-in-3-years-working-with-it-a6ca94e9e71d — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://loyalstricklin.com/collections/all-products/products/edison-wallet?variant=7104527493 — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://biplab.hashnode.dev/liskov-substitution-principle-in-javascript-ck2reb2ft00b6iws1ij819vhk — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://gettopical.com/computerprogramming/639da1926c0254a677aa8b8c0dc4e10c?src=twitter — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://sbcoaching.com.br/blog/motivacao/infografico-motivacao-no-trabalho — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://whitfin.io/easy-concurrency-locking-in-erlang-elixir — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://engineering.tripping.com/how-to-implement-sliding-timeouts-in-your-elixir-genservers-cc5a2ed70db9 — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://matheusml.com/os-habitos-e-rotinas-que-estao-reduzindo-a-minha-ansiedade-na-quarentena-2020-05-19 — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://bobbyberk.com/the-7-productivity-apps-you-need-to-know-about — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://uploads-ssl.webflow.com/5c6853c495409838d874a0d2/5cbed66cae2b88609106befa_IPTComm_2018_LoadTesting-12%5B23229%5D.pdf — failed — wayback_fetch_failed — via Internet Archive
+- SKIP https://eximiaco.ms/pt/2020/03/25/recomendacoes-para-reduzir-seus-custos-de-iaas-no-azure — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://daviddantefrank.hashnode.dev/my-very-first-blog-post-learning-to-write-ckcoo245f0012eps165m06qpa — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://blog.oliverjumpertz.dev/how-to-react-when-asked-to-rate-your-skills-in-an-interview — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://experteditor.com.au/blog/if-you-really-want-to-change-your-life-embrace-these-japanese-principles-of-life — failed — wayback_no_snapshot — via Internet Archive
