@@ -666,3 +666,5 @@ Call log:
 - SKIP https://www.toptal.com/insights/innovation/creating-new-concepts-with-design-thinking — failed — blocked_domain —  { "error": { "code": "blocked_domain", "message": "www.toptal.com is known to block scraping; not attempting a fetch", "retryable": false } }
 - SKIP https://www.toptal.com/insights/innovation/how-to-build-a-successful-minimum-viable-product — failed — blocked_domain —  { "error": { "code": "blocked_domain", "message": "www.toptal.com is known to block scraping; not attempting a fetch", "retryable": false } }
 - SKIP https://www.sitepoint.com/the-software-developers-guide-to-salary-negotiation/ — failed — blocked_domain —  { "error": { "code": "blocked_domain", "message": "www.sitepoint.com is known to block scraping; not attempting a fetch", "retryable": false } }
+- SKIP https://www.canva.com/learn/taking-long-walks/ — failed — chrome_capture_empty — via Claude in Chrome
+- SKIP https://techcommunity.microsoft.com/blog/modernworkappconsult/usuful-documents-to-migrate-wpfwinforms-apps-from-net-framework-to-net-core/1142017 — failed — chrome_capture_empty — via Claude in Chrome
