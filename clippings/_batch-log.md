@@ -650,3 +650,13 @@ Call log:
 - SKIP https://daviddantefrank.hashnode.dev/my-very-first-blog-post-learning-to-write-ckcoo245f0012eps165m06qpa — failed — wayback_no_snapshot — via Internet Archive
 - SKIP https://blog.oliverjumpertz.dev/how-to-react-when-asked-to-rate-your-skills-in-an-interview — failed — wayback_no_snapshot — via Internet Archive
 - SKIP https://experteditor.com.au/blog/if-you-really-want-to-change-your-life-embrace-these-japanese-principles-of-life — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://dev.to/ahoy/messages/Du1wbunDtJhEi9v8DP9YAQXk2umQD0xE/click?signature=e352b82b721832068bb5b4d4b70a6cf085633919&url=https%3A%2F%2Fdev.to%2Fcandidateplanet%2Finterview-prep-object-oriented-design-questions-featuring-sam-techdebtor-1b4l%3Futm_source%3Ddigest_mailer%26utm_medium%3Demail%26utm_campaign%3Ddigest_email — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://dev.to/alfki/the-visitor-pattern-exemplified-in-typescript-4cp5 — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://t.co/3uR8jm86EE — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://blog.kommit.co/3-ways-to-schedule-tasks-in-elixir-i-learned-in-3-years-working-with-it-a6ca94e9e71d — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://blog.ailon.org/typescript-rollup-and-shared-interfaces-cdeee5db9724 — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://techcommunity.microsoft.com/t5/windows-dev-appconsult/usuful-documents-to-migrate-wpf-winforms-apps-from-net-framework/ba-p/1142017 — failed — relocate_thin_content — moved -> https://techcommunity.microsoft.com/blog/modernworkappconsult/usuful-documents-to-migrate-wpfwinforms-apps-from-net-framework-to-net-core/1142017 (sim=1)
+- SKIP https://insider.windows.com/en-us/community-news/narrator-screen-reading-app — failed — relocate_thin_content — slug=inspired-by-insiders-accessibility
+- SKIP https://compositional-it.com/news-blog/impure-functions-in-fsharp — failed — relocate_audit_unresolved — slug=impure-functions-in-f-compositional-it
+- SKIP https://medium.com/@leo_hetsch/building-a-ride-sharing-app-with-elixir-and-phoenix-channels-part-2-659aa2f24808 — failed — relocate_blocked_domain — slug=building-a-ride-sharing-app-with-elixir-and-phoenix-channels-2
+- SKIP https://medium.com/@leo_hetsch/building-a-ride-sharing-app-with-elixir-and-phoenix-channels-part-3-811a7999465f — failed — relocate_internal_error — slug=building-a-ride-sharing-app-with-elixir-and-phoenix-channels-2
