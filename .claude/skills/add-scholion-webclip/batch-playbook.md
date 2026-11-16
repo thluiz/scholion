@@ -28,8 +28,16 @@ Each item:
 { "type": "url", "url": "<url>", "status": "pending", "batch": <n>, "source_path": "<original bookmark folder path>" }
 ```
 
-`status` ∈ `pending | done | failed | skipped`. Whichever this playbook
+`status` ∈ `pending | done | failed | skipped | hold`. Whichever this playbook
 sets is the record — there's no other bookkeeping to keep in sync.
+
+`hold` (added 2026-11-16 with the Todoist "Processar" import, `source_path:
+"todoist/..."`) means the item needs a different path, named by its `lane`
+(`chrome`, `tweet`, `youtube_cost_review`, `tumblr_find_original`,
+`evernote_find_original`, `find_url`, `review_privado`, `review_morto`).
+**A batch never touches `hold` items** — take only `pending`. Todoist items
+also carry `todoist_task_ids`; leave that field alone, cleanup of the
+Todoist queue reads it after the item reaches `done`/`skipped`.
 
 **The two types get genuinely different treatment, not just a different
 compose call:**
