@@ -35,6 +35,19 @@ sets is the record — there's no other bookkeeping to keep in sync.
 "todoist/..."`) means the item needs a different path, named by its `lane`
 (`chrome`, `tweet`, `youtube_cost_review`, `tumblr_find_original`,
 `evernote_find_original`, `find_url`, `review_privado`, `review_morto`).
+Lanes added by the 2026-11-16 audit (`previous_reason` starts with
+`audit 2026-11-16`):
+- `recapture_chrome` / `recapture_wayback` (`hold`): the vault already has
+  a note for the item (`bad_note: <slug>`), but it was composed from an
+  error, placeholder or wrong page. Recapture via Chrome (page still live)
+  or the Wayback Machine (page gone); on success replace that note and
+  its clipping in the same commit; if nothing real can be captured, delete
+  the note and mark the item `failed`. Never delete the bad note before a
+  replacement exists — it is the only record of the URL in the vault.
+- `compose_from_clipping` (`pending`, `md_file`): was wrongly `done` with
+  only a clipping (`clipping_path`). Compose in text mode from that
+  clipping's body, keeping its `url`/`title`/`captured_at`; never refetch.
+
 **A batch never touches `hold` items** — take only `pending`. Todoist items
 also carry `todoist_task_ids`; leave that field alone, cleanup of the
 Todoist queue reads it after the item reaches `done`/`skipped`.
@@ -154,9 +167,17 @@ above).
      still-red result: write only the clipping (step 4b), mark
      `status: "skipped"`, `reason: "audit_unavailable"`. No recompose —
      the audit service is the problem, not the note.
+   - **Wrong response** — `$r.clipping.url` is not the URL you sent
+     (ignoring scheme/`www.`/trailing slash; redirects aside, the server
+     echoes the request URL). On 2026-11-16 concurrent compose calls got
+     each other's responses. Save nothing, mark `status: "pending"`,
+     `reason: "response_mismatch"`, log it, and stop the batch to report:
+     it means something else is hitting the webclipper concurrently.
    - **Soft 404** — the page answered 200 but is an error page (composed
      title or clipping title like "Not Found", "404", "Page not found",
-     "Página não encontrada"): the audit can't catch this, the note would be
+     "Página não encontrada", "Checking your browser", "Just a moment",
+     "Are you a robot", "Content loading", "domain is for sale", or a
+     `note.summary` saying the capture holds no article): the audit can't catch this, the note would be
      about the error page. Write nothing, mark `status: "failed"`,
      `reason: "soft_404"`.
    - `verdict: green` or `yellow` → proceed to step 4. Yellow findings are
