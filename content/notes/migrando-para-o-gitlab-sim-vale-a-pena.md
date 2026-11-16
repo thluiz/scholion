@@ -1,6 +1,6 @@
 ---
 title: "Migrando para o GitLab! Sim, vale a pena!"
-date: '2026-11-16T03:27:59+00:00'
+date: '2016-08-05T16:28:02+00:00'
 category: webclip
 summary: 'O texto defende a migração para GitLab por custo, autonomia e CI integrado, comparando planos do GitHub e serviços externos com uma instalação própria do GitLab e GitLab Runner.'
 tags: ["gitlab", "github", "continuous-integration", "cost-saving"]

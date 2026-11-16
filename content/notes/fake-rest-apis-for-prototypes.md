@@ -1,6 +1,6 @@
 ---
 title: "Fake REST APIs That We Can Use to Build Prototypes"
-date: '2026-11-16T01:14:03+00:00'
+date: '2020-07-05T14:11:19+00:00'
 category: webclip
 summary: 'The page lists fake REST APIs and local tools for prototypes, comparing what each one supports, from CRUD endpoints and CORS to custom routes, auth, failures, and static files.'
 tags: ["fake-rest-api", "prototypes", "mock-api", "backend"]

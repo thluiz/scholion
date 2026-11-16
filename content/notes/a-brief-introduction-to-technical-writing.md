@@ -1,6 +1,6 @@
 ---
 title: "A Brief Introduction to Technical Writing"
-date: '2026-11-16T02:00:20+00:00'
+date: '2020-08-26T19:31:12+00:00'
 category: webclip
 summary: 'Technical writing creates text-based instructional and informational documents. It values precision, skimmability, and user support, and it also includes document design, research, usability, and editing.'
 tags: ["technical-writing", "documentation", "usability", "document-design"]

@@ -1,6 +1,6 @@
 ---
 title: "Why I stopped paying attention to industry news"
-date: '2026-11-16T04:17:35+00:00'
+date: '2020-07-05T14:11:28+00:00'
 category: webclip
 summary: 'The writer compares cutting industry news to cutting sugar: after stopping, he felt calmer, less anxious, and more focused on what he can control, while still hearing about what matters later.'
 tags: ["industry-news", "focus", "attention", "basecamp"]

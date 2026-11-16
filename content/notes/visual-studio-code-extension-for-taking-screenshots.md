@@ -1,6 +1,6 @@
 ---
 title: "Visual Studio Code Extension For Taking Screenshot Of Your Codebase"
-date: '2026-11-16T01:44:06+00:00'
+date: '2020-04-20T21:22:29+00:00'
 category: webclip
 summary: 'The post compares Carbon with Polacode and argues that Polacode lets you capture code screenshots directly from Visual Studio Code, using your existing editor setup instead of copying code to an external site.'
 tags: ["visual-studio-code", "polacode", "screenshots", "carbon"]

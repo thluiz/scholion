@@ -1,6 +1,6 @@
 ---
 title: "Handling failures in background workers with Elixir and supervisors"
-date: '2026-11-16T04:41:29+00:00'
+date: '2020-08-26T19:31:20+00:00'
 category: webclip
 summary: 'The article shows how a worker that can raise during payment verification may restart too often and bring down the app, and how a separate supervisor with tuned restart limits keeps the rest of the system up.'
 tags: ["elixir", "supervisors", "background-workers"]

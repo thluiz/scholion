@@ -1,6 +1,6 @@
 ---
 title: "Domain-Driven Refactoring: Defactoring and Pushing Behavior Down"
-date: '2026-11-16T04:44:43+00:00'
+date: '2021-08-05T20:24:51+00:00'
 category: webclip
 summary: 'The post shows how to reverse earlier extractions, inline the helper methods, and then move the assignment logic onto Member. The goal is to keep behavior in the domain model and make it easier to test.'
 tags: ["refactoring", "domain-driven-design", "feature-envy"]

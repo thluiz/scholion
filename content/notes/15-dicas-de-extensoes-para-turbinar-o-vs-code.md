@@ -1,6 +1,6 @@
 ---
 title: "15 Dicas de Extensões para Turbinar seu VS Code!"
-date: '2026-11-16T00:29:01+00:00'
+date: '2020-04-20T21:22:44+00:00'
 category: webclip
 summary: 'A página reúne extensões para acelerar o uso do VS Code em formatação, navegação, Git, colaboração, visualização local, WSL e Azure, e alerta para não manter extensões sem uso instaladas.'
 tags: ["vs-code", "extensoes", "produtividade", "azure"]

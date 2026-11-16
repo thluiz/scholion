@@ -1,6 +1,6 @@
 ---
 title: "10 Amazing open source Elixir/Phoenix Apps"
-date: '2026-11-16T05:57:41+00:00'
+date: '2020-07-05T14:11:21+00:00'
 category: webclip
 summary: 'The post curates 10 open source applications built with the latest Elixir/Phoenix stack, favors apps over libraries, and invites readers to suggest additions for the list.'
 tags: ["elixir", "phoenix-framework", "open-source-applications"]

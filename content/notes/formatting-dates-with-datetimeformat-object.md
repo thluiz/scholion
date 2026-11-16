@@ -1,6 +1,6 @@
 ---
 title: "Formatting Dates With the DateTimeFormat Object"
-date: '2026-11-16T07:55:54+00:00'
+date: '2020-02-22T12:11:43+00:00'
 category: webclip
 summary: 'JavaScript’s Intl.DateTimeFormat formats dates for different locales without manual string handling. It accepts locale tags and options, and also offers methods for parts, ranges, and resolved settings.'
 tags: ["javascript", "internationalization", "dates", "locales"]

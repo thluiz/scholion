@@ -1,6 +1,6 @@
 ---
 title: "Is anyone planning a full or partial \"early retirement\" from software development?"
-date: '2026-11-16T02:02:36+00:00'
+date: '2020-08-26T19:31:20+00:00'
 category: webclip
 summary: 'The post asks whether developers plan to leave software before typical retirement age. Commenters describe burnout, a shift to other roles, or plans to keep coding only after reaching financial freedom.'
 tags: ["software-development", "early-retirement", "career-change"]

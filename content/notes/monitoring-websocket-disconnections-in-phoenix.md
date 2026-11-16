@@ -1,6 +1,6 @@
 ---
 title: "Monitoring WebSocket disconnections in Phoenix"
-date: '2026-11-16T06:07:14+00:00'
+date: '2020-07-05T14:10:38+00:00'
 category: webclip
 summary: 'The post shows how to run cleanup code when a Phoenix WebSocket closes by spawning monitored tasks, placing the tasks supervisor before the endpoint, and using a small init/1 trick to capture the socket process.'
 tags: ["phoenix", "websocket", "elixir", "supervision"]

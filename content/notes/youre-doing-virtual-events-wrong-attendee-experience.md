@@ -1,6 +1,6 @@
 ---
 title: "Series: You're Doing Virtual Events Wrong! Advice from the Community: Attendee Experience"
-date: '2026-11-16T01:14:19+00:00'
+date: '2020-07-05T14:11:19+00:00'
 category: webclip
 summary: 'The post collects attendee feedback on virtual events, highlighting what helps participation, networking, and comfort, from Discord setup to speaker pacing, Q&A format, and host quality.'
 tags: ["virtual-events", "attendee-experience", "community", "discord"]

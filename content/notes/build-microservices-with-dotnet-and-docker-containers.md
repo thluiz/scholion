@@ -1,6 +1,6 @@
 ---
 title: "Build microservices with .NET and Docker containers"
-date: '2026-11-16T02:23:43+00:00'
+date: '2020-02-22T12:11:43+00:00'
 category: webclip
 summary: 'The page presents .NET as a platform for building independently deployable, scalable, resilient microservices with ASP.NET and Docker, across cloud platforms and multiple operating systems.'
 tags: ["microservices", "dotnet", "docker", "aspnet"]

@@ -1,6 +1,6 @@
 ---
 title: "Bitcoin Just Crashed In A Major Way"
-date: '2026-11-16T04:28:35+00:00'
+date: '2020-04-20T21:22:38+00:00'
 category: webclip
 summary: 'Bitcoin fell from about $8,000 to under $6,000 in 24 hours, while other major cryptocurrencies also dropped. The article points to COVID-19 panic, a large BTC transfer, and IRS tax scrutiny as possible factors.'
 tags: ["bitcoin", "cryptocurrency", "covid-19", "irs"]

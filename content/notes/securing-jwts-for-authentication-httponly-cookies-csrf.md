@@ -1,6 +1,6 @@
 ---
 title: "Today's rabbit hole: securing JWTs for authentication, httpOnly cookies, CSRF tokens, secrets & more"
-date: '2026-11-16T01:59:15+00:00'
+date: '2020-08-26T19:31:12+00:00'
 category: webclip
 summary: 'The post walks through storing JWTs in httpOnly cookies, protecting routes with a separate login flag, handling logout server-side, and adding CSRF protection with csurf, CORS, SameSite, and headers.'
 tags: ["jwt-authentication", "httponly-cookies", "csrf-protection", "react-auth"]

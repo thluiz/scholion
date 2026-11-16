@@ -1,6 +1,6 @@
 ---
 title: "Dealing with the Immense Uncertainty of the World"
-date: '2026-11-16T04:27:46+00:00'
+date: '2020-04-20T21:22:37+00:00'
 category: webclip
 summary: 'Leo Babauta says fear and uncertainty can harm health, judgment, relationships, productivity, and happiness, and recommends meeting them with awareness, space, friendliness, openness, and compassion.'
 tags: ["fear", "uncertainty", "mindfulness", "compassion"]

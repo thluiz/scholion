@@ -1,6 +1,6 @@
 ---
 title: "Build a Video Chat App in Phoenix LiveView"
-date: '2026-11-16T08:17:52+00:00'
+date: '2020-08-26T19:31:19+00:00'
 category: webclip
 summary: 'The article walks through building a multi-user video chat app with Phoenix LiveView, Presence, PubSub, and WebRTC, including room creation, presence tracking, signaling, and a STUN server.'
 tags: ["phoenix-liveview", "webrtc", "presence", "pubsub"]

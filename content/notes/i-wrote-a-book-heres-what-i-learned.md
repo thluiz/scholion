@@ -1,6 +1,6 @@
 ---
 title: "I wrote a book - here's what I learned"
-date: '2026-11-16T00:45:29+00:00'
+date: '2020-02-22T12:11:44+00:00'
 category: webclip
 summary: 'The author lists practical lessons from publishing a book: choose a topic that is not time-sensitive, review contracts carefully, plan for liability and editing, and expect promotion work and limited profit.'
 tags: ["book-publishing", "contracts", "royalties", "editing"]

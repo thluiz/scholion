@@ -1,6 +1,6 @@
 ---
 title: "Testing HTML in Phoenix Controllers"
-date: '2026-11-16T03:39:52+00:00'
+date: '2020-07-05T14:10:32+00:00'
 category: webclip
 summary: 'The post shows how to test Phoenix HTML responses with ConnTest helpers, then adds ExMachina factories, a Post model, routes, a controller, and a view to make the tests pass.'
 tags: ["phoenix", "testing", "ex-machina"]

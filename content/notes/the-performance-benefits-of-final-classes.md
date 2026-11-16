@@ -1,6 +1,6 @@
 ---
 title: "The Performance Benefits of Final Classes"
-date: '2026-11-16T02:17:47+00:00'
+date: '2020-04-20T21:22:44+00:00'
 category: webclip
 summary: 'The article explains that `final` in C++ prevents inheritance and can help the compiler devirtualize calls, which may reduce indirect-call overhead and improve optimization opportunities.'
 tags: ["c++", "final", "devirtualization", "performance"]

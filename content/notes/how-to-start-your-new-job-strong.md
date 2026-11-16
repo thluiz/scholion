@@ -1,6 +1,6 @@
 ---
 title: "How to Start Your New Job Strong"
-date: '2026-11-16T01:45:24+00:00'
+date: '2020-04-20T21:22:34+00:00'
 category: webclip
 summary: 'The post says the first weeks in a new job shape how colleagues see you, so it recommends forming good relationships, setting realistic expectations, tracking open tasks, building a mental model, and staying patient.'
 tags: ["new-job", "onboarding", "workplace-relationships", "professionalism"]

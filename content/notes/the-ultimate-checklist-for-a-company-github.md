@@ -1,6 +1,6 @@
 ---
 title: "The ultimate checklist for a company GitHub"
-date: '2026-11-16T00:58:13+00:00'
+date: '2020-02-22T12:12:02+00:00'
 category: webclip
 summary: 'The post outlines what it takes to publish an internal company tool on GitHub, with emphasis on using GitHub as a landing page, preparing the community, and setting up license, CoC, guidelines, and docs.'
 tags: ["github", "open-source", "documentation", "contribution-guidelines"]

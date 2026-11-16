@@ -1,6 +1,6 @@
 ---
 title: "Productivity 101: Git Aliases for Lazy Developers"
-date: '2026-11-16T01:15:55+00:00'
+date: '2020-07-05T14:11:21+00:00'
 category: webclip
 summary: 'The page argues that git aliases save typing and reduce repetitive effort. It shows how to define aliases in .bashrc and lists common shortcuts for status, add-and-commit, push, pull, checkout, rebase, diff, and log.'
 tags: ["git-aliases", "bashrc", "productivity", "git"]

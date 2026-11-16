@@ -1,6 +1,6 @@
 ---
 title: "CQRS + Event Sourcing – Step by Step | Learn CQRS and Event Sourcing"
-date: '2026-11-16T04:32:16+00:00'
+date: '2020-04-20T21:22:46+00:00'
 category: webclip
 summary: 'The post explains how commands, events, and queries flow in a CQRS and Event Sourcing system, from a task-based UI through handlers, event storage, projections, and the read model.'
 tags: ["cqrs", "event-sourcing", "command-handler", "read-model"]

@@ -1,6 +1,6 @@
 ---
 title: "Look iOS Developer, No Mac Required"
-date: '2026-11-16T04:23:15+00:00'
+date: '2020-04-20T21:22:33+00:00'
 category: webclip
 summary: 'The post explains how to build and debug an iOS app from Windows with Xamarin Hot Restart in Visual Studio, using a real iOS device and no Mac for development.'
 tags: ["xamarin", "visual-studio", "ios-development"]

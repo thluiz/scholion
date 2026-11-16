@@ -1,6 +1,6 @@
 ---
 title: "The Life-Changing Magic of Tidying Up Your To-Do List"
-date: '2026-11-16T02:18:31+00:00'
+date: '2020-04-20T21:22:23+00:00'
 category: webclip
 summary: 'The page promotes Todoist as a way to bring structure, visibility, and collaboration to real workloads, contrasting it with simpler list tools that are only good enough for basic tasks.'
 tags: ["todoist", "task-management", "compare"]

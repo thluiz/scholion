@@ -1,6 +1,6 @@
 ---
 title: "GitHub - danhper/pushex: Push notifications for Elixir"
-date: '2026-11-16T03:21:22+00:00'
+date: '2020-07-05T14:11:26+00:00'
 category: webclip
 summary: 'Pushex is an Elixir library for sending push notifications with a common API for iOS and Android, async sending, multiple apps, response handling, and a sandbox for testing.'
 tags: ["elixir", "push-notifications", "gcm", "apns"]

@@ -1,6 +1,6 @@
 ---
 title: "The Get Active & Fit Challenge for January!"
-date: '2026-11-16T02:38:22+00:00'
+date: '2020-02-22T12:11:51+00:00'
 category: webclip
 summary: 'Leo Babauta invites readers to join the Get Active & Fit Challenge, starting with small, doable commitments and month-long goals focused on activity and fitness.'
 tags: ["fitness", "habits", "challenge"]

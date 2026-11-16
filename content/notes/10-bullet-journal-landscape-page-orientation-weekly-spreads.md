@@ -1,6 +1,6 @@
 ---
 title: "10 Bullet Journal Landscape Page Orientation Weekly Spreads"
-date: '2026-11-16T04:29:50+00:00'
+date: '2020-04-20T21:22:42+00:00'
 category: webclip
 summary: 'The post shows landscape weekly spread options for bullet journals, including one-page, split, weekend-focused, weekday-free, and two-page layouts, and suggests using a larger page size.'
 tags: ["bullet-journal", "weekly-spreads", "landscape-layout"]

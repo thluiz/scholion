@@ -1,6 +1,6 @@
 ---
 title: "C# Steps Up Programming Language Popularity Ladder"
-date: '2026-11-16T05:29:47+00:00'
+date: '2020-07-05T14:10:39+00:00'
 category: webclip
 summary: 'The June 2020 TIOBE Index puts C# in fifth place, one step above June 2019. The ranking is based on search results, and C# has been rising since an early 2018 low.'
 tags: ["csharp", "tiobe-index", "programming-languages"]

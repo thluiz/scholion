@@ -1,6 +1,6 @@
 ---
 title: "Distributed Phoenix Chat with PubSub PG2 adapter"
-date: '2026-11-16T03:43:59+00:00'
+date: '2020-07-05T14:10:35+00:00'
 category: webclip
 summary: 'The article explains how Phoenix nodes are clustered with BEAM, how pg2 groups processes across nodes, and how Phoenix uses PubSub.PG2Server to broadcast chat messages between servers.'
 tags: ["phoenix", "pubsub", "pg2", "distributed-systems"]

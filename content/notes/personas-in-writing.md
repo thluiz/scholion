@@ -1,6 +1,6 @@
 ---
 title: "Personas in Writing"
-date: '2026-11-16T08:01:41+00:00'
+date: '2020-02-22T12:11:50+00:00'
 category: webclip
 summary: 'The article argues that writers can use personas to choose topics and shape explanations, just as software teams use them to keep users in view. It ends by naming the author’s own writing goal and audience.'
 tags: ["writing", "personas", "technical-writing", "software-development"]

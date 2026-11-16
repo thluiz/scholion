@@ -1,6 +1,6 @@
 ---
 title: "Dominando a Organização Pessoal: Metodologias"
-date: '2026-11-16T01:21:41+00:00'
+date: '2020-07-05T14:11:33+00:00'
 category: webclip
 summary: 'O texto compara Scrum, Kanban, GTD e Pomodoro como bases para organização pessoal e defende adaptação, não adesão rígida. Também destaca a formação de hábitos e a criação de um sistema próprio.'
 tags: ["organizacao-pessoal", "metodologias", "gtd", "kanban", "pomodoro"]

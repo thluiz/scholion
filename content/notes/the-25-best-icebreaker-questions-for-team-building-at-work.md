@@ -1,6 +1,6 @@
 ---
 title: "The 25 Best Icebreaker Questions for Team-Building at Work"
-date: '2026-11-16T05:19:57+00:00'
+date: '2020-07-05T14:11:20+00:00'
 category: webclip
 summary: 'A Canopy post lists 25 get-to-know-you questions for work, arguing that they help teams build trust, welcome new people, and make meetings or calls easier to start.'
 tags: ["team-building", "icebreaker-questions", "workplace", "trust"]

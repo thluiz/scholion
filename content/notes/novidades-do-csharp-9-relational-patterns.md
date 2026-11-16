@@ -1,6 +1,6 @@
 ---
 title: "Novidades do C# 9: Relational Patterns"
-date: '2026-11-16T06:11:48+00:00'
+date: '2020-07-05T14:10:46+00:00'
 category: webclip
 summary: 'O texto apresenta os Relational Patterns do C# 9 e mostra como usar operadores relacionais no switch para tratar faixas de valores, com um exemplo de classificação de IMC.'
 tags: ["csharp-9", "relational-patterns", "pattern-matching", "dotnet-5"]

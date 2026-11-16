@@ -1,6 +1,6 @@
 ---
 title: "Sharing an SQLite database across containers is surprisingly brilliant"
-date: '2026-11-16T05:49:44+00:00'
+date: '2020-02-22T12:11:44+00:00'
 category: webclip
 summary: 'The post argues that Segment reduced latency by moving customer control data to a local SQLite file shared across containers, shifting complexity from read paths to write paths and avoiding a networked database on the critical path.'
 tags: ["sqlite", "containers", "distributed-systems", "reliability"]

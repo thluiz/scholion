@@ -1,6 +1,6 @@
 ---
 title: "Staying Motivated When Working on Projects: A Paradigm Shift"
-date: '2026-11-16T07:53:14+00:00'
+date: '2019-06-09T09:38:35+00:00'
 category: webclip
 summary: 'The post argues that motivation is unreliable, so project work should be organized around boredom, switching tasks, avoiding burnout, and sharing progress with the community.'
 tags: ["motivation", "boredom", "burnout", "developer-community"]

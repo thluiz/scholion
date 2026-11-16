@@ -1,6 +1,6 @@
 ---
 title: "Talented Programmers, Who Are They?"
-date: '2026-11-16T02:39:35+00:00'
+date: '2020-02-22T12:11:52+00:00'
 category: webclip
 summary: 'The post argues that programming talent is an innate sensitivity to structure, consistency, and logic, not fame, output, or interview performance. Most software work rewards mediocrity and tolerance for messy code.'
 tags: ["programming-talent", "software-interviews", "code-quality", "structure"]

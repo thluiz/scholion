@@ -1,6 +1,6 @@
 ---
 title: "Evernote - Best note taking app"
-date: '2026-11-16T03:08:56+00:00'
+date: '2020-07-05T14:11:19+00:00'
 category: webclip
 summary: 'The page explains Evernote’s cookie choices, saying essential tracking is needed for the service to work, while consent enables statistics, product improvement, and more relevant ads.'
 tags: ["cookies", "privacy", "tracking", "consent"]

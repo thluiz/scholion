@@ -1,6 +1,6 @@
 ---
 title: "Tips to Avoid Burnout When Working from Home"
-date: '2026-11-16T03:06:59+00:00'
+date: '2020-07-05T14:11:18+00:00'
 category: webclip
 summary: 'The page says remote workers may be more at risk of burnout and offers ways to keep work-life balance through movement, schedules, shared chores, disconnection, and long-term career thinking.'
 tags: ["burnout", "remote-work", "work-life-balance"]

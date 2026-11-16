@@ -1,6 +1,6 @@
 ---
 title: "Data Transfer Object Is a Shame"
-date: '2026-11-16T02:42:59+00:00'
+date: '2020-02-22T12:11:52+00:00'
 category: webclip
 summary: 'The page argues that DTOs violate encapsulation by exposing data across procedures, turning object-oriented code into procedural code. It prefers objects that keep data inside and save or print themselves.'
 tags: ["dto", "encapsulation", "object-oriented-programming", "procedural-code"]

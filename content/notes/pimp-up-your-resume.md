@@ -1,6 +1,6 @@
 ---
 title: "Pimp Up Your Resume"
-date: '2026-11-16T03:59:35+00:00'
+date: '2020-07-05T14:10:42+00:00'
 category: webclip
 summary: 'The page argues that a software resume should be one page, truthful, visually polished, and backed by visible signals such as Stack Overflow, GitHub, certifications, speaking, blogging, and selective history.'
 tags: ["resume", "software-career", "personal-brand"]

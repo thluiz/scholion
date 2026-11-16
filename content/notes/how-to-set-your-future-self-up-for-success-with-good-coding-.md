@@ -1,6 +1,6 @@
 ---
 title: "How to Set Your Future Self Up for Success with Good Coding Habits"
-date: '2026-11-16T03:21:08+00:00'
+date: '2020-07-05T14:11:33+00:00'
 category: webclip
 summary: 'The article argues that readable code, consistent style, comments, documentation, clear pull requests, and tests reduce friction later and make projects easier for future developers to understand and change.'
 tags: ["coding-habits", "readability", "documentation", "testing"]

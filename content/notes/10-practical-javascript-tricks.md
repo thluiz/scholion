@@ -1,6 +1,6 @@
 ---
 title: "10 Practical JavaScript Tricks"
-date: '2026-11-16T01:17:51+00:00'
+date: '2020-07-05T14:11:24+00:00'
 category: webclip
 summary: 'The post collects small JavaScript shortcuts for arrays, conditionals, swapping values, dynamic properties, and unique filtering, while warning that code still needs to work across browsers.'
 tags: ["javascript", "arrays", "es6", "browser-compatibility"]

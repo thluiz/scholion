@@ -1,6 +1,6 @@
 ---
 title: "Using GenStage to Notify a Phoenix Channel of Updates in Elixir"
-date: '2026-11-16T08:13:09+00:00'
+date: '2020-07-05T14:11:26+00:00'
 category: webclip
 summary: 'The post explores using GenStage to notify a Phoenix channel about model updates, first as an observer pattern, then by separating a notification center producer from a channel consumer.'
 tags: ["genstage", "phoenix-channel", "observer-pattern", "elixir"]

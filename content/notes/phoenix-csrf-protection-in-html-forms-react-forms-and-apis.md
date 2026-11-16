@@ -1,6 +1,6 @@
 ---
 title: "Phoenix CSRF protection in HTML forms, React forms, and APIs"
-date: '2026-11-16T03:43:47+00:00'
+date: '2020-07-05T14:10:34+00:00'
 category: webclip
 summary: 'Explains how Phoenix handles CSRF protection for HTML forms, how to send the token in React AJAX requests, and how to expose it as a cookie for SPA or API-style clients.'
 tags: ["phoenix", "csrf-protection", "react", "api"]

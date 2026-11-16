@@ -1,6 +1,6 @@
 ---
 title: "Domain-Driven Design: Entities, Value Objects, and How To Distinguish Them"
-date: '2026-11-16T04:45:10+00:00'
+date: '2021-07-23T18:01:41+00:00'
 category: webclip
 summary: 'Explains DDD tactical design through entities and value objects, focusing on identity, equality, mutability, and when each model fits. It also shows how aggregates relate to entities and VOs.'
 tags: ["domain-driven-design", "entities", "value-objects", "aggregates"]

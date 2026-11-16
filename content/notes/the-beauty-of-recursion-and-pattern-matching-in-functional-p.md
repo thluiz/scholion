@@ -1,6 +1,6 @@
 ---
 title: "The beauty of recursion and pattern matching in functional programming languages"
-date: '2026-11-16T01:25:38+00:00'
+date: '2020-07-05T14:10:31+00:00'
 category: webclip
 summary: 'The post explains an Erlang lookup function for a binary tree and shows how recursion plus pattern matching let the code express what it does without stating each control step explicitly.'
 tags: ["erlang", "recursion", "pattern-matching", "functional-programming"]

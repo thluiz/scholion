@@ -1,6 +1,6 @@
 ---
 title: "GitHub - web-push-libs/web-push: Web Push library for Node.js"
-date: '2026-11-16T03:53:01+00:00'
+date: '2020-07-05T14:10:40+00:00'
 category: webclip
 summary: 'This library sends Web Push messages from a backend, handles payload encryption, supports legacy GCM delivery, and exposes CLI and API helpers for VAPID and request details.'
 tags: ["web-push", "nodejs", "vapid", "push-notifications"]

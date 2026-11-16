@@ -1,6 +1,6 @@
 ---
 title: "The Importance of Meditation in Crazy Times"
-date: '2026-11-16T03:30:17+00:00'
+date: '2020-04-20T21:22:25+00:00'
 category: webclip
 summary: 'Leo Babauta argues that meditation matters in periods of fear and uncertainty because it helps notice anxiety, interrupt thought cycles, calm the body, and keep focus. He also gives a simple way to build the habit.'
 tags: ["meditation", "anxiety", "habit"]

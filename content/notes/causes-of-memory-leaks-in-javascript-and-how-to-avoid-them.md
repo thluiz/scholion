@@ -1,6 +1,6 @@
 ---
 title: "Causes of Memory Leaks in JavaScript and How to Avoid Them"
-date: '2026-11-16T03:53:13+00:00'
+date: '2020-07-05T14:10:40+00:00'
 category: webclip
 summary: 'The article explains how memory leaks happen in JavaScript, how to spot them with browser tools, and which coding patterns most often keep objects alive too long in SPAs.'
 tags: ["javascript", "memory-leaks", "browser-tools", "single-page-applications"]

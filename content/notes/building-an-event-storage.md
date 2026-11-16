@@ -1,6 +1,6 @@
 ---
 title: "Building an Event Storage"
-date: '2026-11-16T02:24:57+00:00'
+date: '2020-02-22T12:11:44+00:00'
 category: webclip
 summary: 'The chapter explains how to implement a basic event storage in an RDBMS, covering event and aggregate tables, ordered writes, optimistic concurrency, rolling snapshots, and using the event store as a queue.'
 tags: ["event-storage", "cqrs", "rolling-snapshots", "optimistic-concurrency"]

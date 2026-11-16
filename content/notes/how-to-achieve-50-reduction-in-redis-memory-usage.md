@@ -1,6 +1,6 @@
 ---
 title: "How to achieve a 50% reduction in Redis memory usage"
-date: '2026-11-16T01:11:54+00:00'
+date: '2020-07-05T14:11:19+00:00'
 category: webclip
 summary: 'The post shows a Spring Boot Redis setup that stores User data as JSON, then cuts memory further by switching to MessagePack and Snappy, reducing dataset usage from 2GB to under 500MB.'
 tags: ["redis", "spring-boot", "messagepack", "snappy"]

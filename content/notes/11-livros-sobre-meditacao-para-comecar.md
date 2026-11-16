@@ -1,6 +1,6 @@
 ---
 title: "11 livros sobre meditação para quem quer começar a meditar"
-date: '2026-11-16T04:56:09+00:00'
+date: '2018-04-20T07:20:48+00:00'
 category: webclip
 summary: 'A página mostra que há mais interesse por meditação no Brasil e recomenda começar com livros, áudios, apps ou um grupo de estudos com professor qualificado, em vez de praticar sozinho.'
 tags: ["meditation", "books", "practice", "apps"]

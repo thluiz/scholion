@@ -1,6 +1,6 @@
 ---
 title: "6 Reasons You Should Be Keeping a Commonplace Book"
-date: '2026-11-16T02:47:30+00:00'
+date: '2020-02-22T12:11:58+00:00'
 category: webclip
 summary: 'A commonplace book records ideas, facts, quotes, and personal responses, and the post says it helps you remember, focus, stay awake while reading, and build a record for later.'
 tags: ["commonplace-book", "reading-journal", "note-taking"]

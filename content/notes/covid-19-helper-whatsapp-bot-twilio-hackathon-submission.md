@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 Helper Whatsapp Bot - A Twilio Hackathon Submission"
-date: '2026-11-16T01:19:04+00:00'
+date: '2020-07-05T14:11:25+00:00'
 category: webclip
 summary: 'The post describes a WhatsApp bot built with Twilio Autopilot and Python that returns COVID-19 statistics and historical data by country, plus a self-screening flow that suggests when to seek medical attention.'
 tags: ["whatsapp-bot", "twilio-autopilot", "covid-19", "fastapi"]

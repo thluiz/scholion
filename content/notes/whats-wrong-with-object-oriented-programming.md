@@ -1,6 +1,6 @@
 ---
 title: "What's Wrong With Object-Oriented Programming?"
-date: '2026-11-16T02:42:32+00:00'
+date: '2020-02-22T12:11:52+00:00'
 category: webclip
 summary: 'The page collects objections to object-oriented programming from several programmers and authors, who argue that OO code often becomes verbose, hard to read, hard to maintain, and prone to growing complexity.'
 tags: ["object-oriented-programming", "software-design", "complexity"]

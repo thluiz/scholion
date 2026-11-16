@@ -1,6 +1,6 @@
 ---
 title: "Don’t Serve Burnt Pizza (And Other Lessons in Building Minimum Lovable Products)"
-date: '2026-11-16T02:53:48+00:00'
+date: '2020-02-22T12:12:02+00:00'
 category: webclip
 summary: 'Jiaona Zhang argues that teams should aim for minimum lovable products, starting from user value, separating problems from solutions, and adding small details that make the product feel special.'
 tags: ["minimum-lovable-product", "product-design", "user-research", "airbnb"]

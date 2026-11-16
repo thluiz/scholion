@@ -1,6 +1,6 @@
 ---
 title: "Find your flow with the Enterprise New Tab Page"
-date: '2026-11-16T02:50:19+00:00'
+date: '2020-02-22T12:12:00+00:00'
 category: webclip
 summary: 'Microsoft Edge’s enterprise new tab page brings search, site tiles, recommended documents, and recent files into one workspace-focused view, with compliance controls for organizations.'
 tags: ["microsoft-edge", "enterprise-new-tab-page", "microsoft-365", "workplace-search"]

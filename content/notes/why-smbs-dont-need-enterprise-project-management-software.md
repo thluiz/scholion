@@ -1,6 +1,6 @@
 ---
 title: "Why SMBs Don’t Need Enterprise Project Management Software"
-date: '2026-11-16T04:37:44+00:00'
+date: '2020-08-26T19:31:16+00:00'
 category: webclip
 summary: 'The page argues that more features do not mean more progress, and that complex project management software creates hidden costs for SMBs while simpler tools produce better results.'
 tags: ["project-management", "small-business", "todoist-tips"]

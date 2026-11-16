@@ -1,6 +1,6 @@
 ---
 title: "10 Bullet Journal Daily Scheduling Layout Ideas"
-date: '2026-11-16T02:35:55+00:00'
+date: '2020-02-22T12:11:51+00:00'
 category: webclip
 summary: 'The post collects 12 daily bullet journal layouts for scheduling by columns, time blocks, work and personal sections, stickers, washi tape, and full-page or horizontal formats.'
 tags: ["bullet-journal", "daily-planning", "planner-layouts"]

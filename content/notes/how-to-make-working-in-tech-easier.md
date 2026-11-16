@@ -1,6 +1,6 @@
 ---
 title: "How To Make Working In Tech Easier? 😴💻"
-date: '2026-11-16T07:52:38+00:00'
+date: '2020-04-20T21:22:21+00:00'
 category: webclip
 summary: 'The post argues that tech work gets easier when you stop comparing yourself, focus on a small set of tools, rest after work, accept impostor syndrome, and break large tasks into smaller ones.'
 tags: ["tech-career", "developer-mindset", "impostor-syndrome"]

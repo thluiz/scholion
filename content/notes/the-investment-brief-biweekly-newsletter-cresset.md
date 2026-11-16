@@ -1,6 +1,6 @@
 ---
 title: "The Investment Brief Biweekly Newsletter | Cresset"
-date: '2026-11-16T04:50:54+00:00'
+date: '2026-02-26T10:23:34+00:00'
 category: webclip
 summary: 'Cresset states its fiduciary duty to clients, notes that this does not remove conflicts of interest, and gives disclosure pointers on services, fees, conflicts, subsidiaries, and AUM/AUA figures.'
 tags: ["fiduciary-duty", "conflicts-of-interest", "disclosures", "aum-aua"]

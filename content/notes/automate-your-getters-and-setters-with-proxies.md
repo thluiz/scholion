@@ -1,6 +1,6 @@
 ---
 title: "Automate your getters and setters with Proxies"
-date: '2026-11-16T07:48:30+00:00'
+date: '2020-02-22T12:12:01+00:00'
 category: webclip
 summary: 'The article shows how a JavaScript Proxy can intercept property access and generate getter and setter methods at runtime, reducing boilerplate for simple classes.'
 tags: ["javascript", "proxy", "getters-and-setters"]

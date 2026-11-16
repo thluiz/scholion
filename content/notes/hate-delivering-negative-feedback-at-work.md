@@ -1,6 +1,6 @@
 ---
 title: "Hate delivering negative feedback at work? 19 phrases to help make giving difficult feedback easier"
-date: '2026-11-16T05:06:59+00:00'
+date: '2020-02-22T12:11:42+00:00'
 category: webclip
 summary: 'The post says difficult feedback gets easier when you ask permission, state care, describe observations, show fallibility, and invite curiosity, so the conversation stays specific and collaborative.'
 tags: ["feedback", "management", "one-on-ones"]

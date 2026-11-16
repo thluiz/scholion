@@ -1,6 +1,6 @@
 ---
 title: "When it comes to team communication, faster isn’t always better"
-date: '2026-11-16T05:35:33+00:00'
+date: '2020-07-05T14:11:17+00:00'
 category: webclip
 summary: 'The article argues that always-on, real-time communication hurts remote teams by fragmenting attention, raising stress, and lowering work quality, while async communication improves focus, planning, and documentation.'
 tags: ["asynchronous-communication", "remote-work", "team-communication", "deep-work"]

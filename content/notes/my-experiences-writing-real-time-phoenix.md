@@ -1,6 +1,6 @@
 ---
 title: "My Experiences Writing Real-Time Phoenix"
-date: '2026-11-16T04:04:29+00:00'
+date: '2020-07-05T14:11:16+00:00'
 category: webclip
 summary: 'The author recounts why he wrote Real-Time Phoenix, how the proposal and publishing process worked, the chapter structure he used, and the burnout, refactoring, and release stages of writing the book.'
 tags: ["writing", "elixir", "phoenix", "technical-books"]

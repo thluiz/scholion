@@ -1,6 +1,6 @@
 ---
 title: "What is Refactoring? Cleaning up code is important."
-date: '2026-11-16T06:03:41+00:00'
+date: '2020-07-05T14:10:30+00:00'
 category: webclip
 summary: 'The page defines refactoring as changing software structure to make code easier to understand and modify without changing observable behavior, and says tests help check that refactoring did not alter behavior.'
 tags: ["refactoring", "software-development", "code-cleanup", "testing"]

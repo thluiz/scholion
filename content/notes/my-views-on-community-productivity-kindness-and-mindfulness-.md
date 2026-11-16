@@ -1,6 +1,6 @@
 ---
 title: "My views on community, productivity, kindness, and mindfulness on the Hanselminutes Fresh Tech Podcast"
-date: '2026-11-16T02:30:14+00:00'
+date: '2020-02-22T12:11:49+00:00'
 category: webclip
 summary: 'Scott Hanselman turns an unplanned Discord conversation into a Hanselminutes episode and talks about community, productivity, kindness, mindfulness, blogging, priorities, and deliberate practice.'
 tags: ["community", "productivity", "kindness", "mindfulness"]

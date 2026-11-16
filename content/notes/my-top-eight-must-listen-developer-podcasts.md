@@ -1,6 +1,6 @@
 ---
 title: "My Top Eight Must-Listen Developer Podcasts"
-date: '2026-11-16T01:04:33+00:00'
+date: '2016-08-25T21:25:33+00:00'
 category: webclip
 summary: 'Ben Halpern lists eight developer podcasts he listens to regularly and briefly explains what each one covers, from software engineering interviews to Ruby, JavaScript, and front-end discussions.'
 tags: ["podcasts", "software-development", "ruby", "javascript"]

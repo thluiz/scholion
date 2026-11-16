@@ -1,6 +1,6 @@
 ---
 title: "Hiring programmers with a take-home test"
-date: '2026-11-16T03:16:16+00:00'
+date: '2020-07-05T14:11:25+00:00'
 category: webclip
 summary: 'Basecamp says a late-stage take-home assignment can be a fairer way to evaluate programmers than whiteboards, puzzles, or long interview gauntlets, as long as it is small, paid only in design cases, and used only after narrowing candidates first.'
 tags: ["hiring", "take-home-test", "programming-assessment", "basecamp"]

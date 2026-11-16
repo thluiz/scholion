@@ -1,6 +1,6 @@
 ---
 title: "Scaling Up With Elixir"
-date: '2026-11-16T03:51:24+00:00'
+date: '2020-07-05T14:10:39+00:00'
 category: webclip
 summary: 'The article argues that Elixir scales well because it runs on the Erlang VM, whose lightweight processes, message passing, and error isolation help web services handle heavy traffic reliably.'
 tags: ["elixir", "erlang-vm", "scalability", "concurrency"]

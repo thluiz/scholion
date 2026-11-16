@@ -1,6 +1,6 @@
 ---
 title: "Clean Architecture Essentials"
-date: '2026-11-16T02:26:35+00:00'
+date: '2020-02-22T12:11:45+00:00'
 category: webclip
 summary: 'The article argues that software architecture should be described by use cases, not by frameworks. It presents Clean Architecture as a use-case-centered style with ports, adapters, fakes, and deferred technology choices.'
 tags: ["clean-architecture", "use-cases", "ports-and-adapters", "evolutionary-architecture"]

@@ -1,6 +1,6 @@
 ---
 title: "How I Created My Blog With Gatsby"
-date: '2026-11-16T01:24:55+00:00'
+date: '2020-07-05T14:10:31+00:00'
 category: webclip
 summary: 'The author explains why he chose Gatsby for a personal blog, how Gatsby builds fast static apps, and how Netlify, SEO tools, PWA features, adaptive loading, and image optimization fit into the setup.'
 tags: ["gatsby", "netlify", "seo", "pwa"]

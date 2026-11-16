@@ -1,6 +1,6 @@
 ---
 title: "8 SCSS Best Practices to Keep in Mind"
-date: '2026-11-16T00:27:35+00:00'
+date: '2020-08-26T19:31:21+00:00'
 category: webclip
 summary: 'The post gathers eight SCSS guidelines that aim to make styles easier to read, maintain, and scale, from mobile-first structure and variables to naming, comments, and media query placement.'
 tags: ["scss", "css", "best-practices"]

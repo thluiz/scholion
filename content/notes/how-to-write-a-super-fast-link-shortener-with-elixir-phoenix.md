@@ -1,6 +1,6 @@
 ---
 title: "How to write a super fast link shortener with Elixir, Phoenix, and Mnesia"
-date: '2026-11-16T04:12:09+00:00'
+date: '2020-07-05T14:11:26+00:00'
 category: webclip
 summary: 'Tutorial showing how to build a link shortener with Phoenix, custom hash ids, and Mnesia instead of Postgres, so links can be saved and redirected quickly.'
 tags: ["elixir", "phoenix", "mnesia", "link-shortener"]

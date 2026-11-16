@@ -1,6 +1,6 @@
 ---
 title: "How to easily turn your website to a Progressive Web App(PWA)"
-date: '2026-11-16T01:01:31+00:00'
+date: '2020-08-26T19:31:13+00:00'
 category: webclip
 summary: 'The article explains how to convert an existing website into a PWA by adding a web manifest, a service worker, and app icons, with HTTPS required for it to work.'
 tags: ["progressive-web-app", "service-worker", "web-manifest"]

@@ -1,6 +1,6 @@
 ---
 title: "Moving Through the Day with More Ease"
-date: '2026-11-16T03:59:06+00:00'
+date: '2020-07-05T14:10:42+00:00'
 category: webclip
 summary: 'Leo Babauta says tense striving drains him, while leaning back, taking breaths, and meeting each task with full attention helps him move through the day with more ease and feel refreshed.'
 tags: ["ease", "attention", "mindfulness"]

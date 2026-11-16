@@ -1,6 +1,6 @@
 ---
 title: "Typing objects in TypeScript"
-date: '2026-11-16T05:09:30+00:00'
+date: '2020-02-22T12:11:49+00:00'
 category: webclip
 summary: 'The captured page only returns “404 Not Found”, so it provides no article content to summarize or file into notes.'
 tags: ["404", "typescript", "missing-page"]

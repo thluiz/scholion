@@ -1,6 +1,6 @@
 ---
 title: "ORM Is an Offensive Anti-Pattern"
-date: '2026-11-16T02:41:35+00:00'
+date: '2020-02-22T12:11:52+00:00'
 category: webclip
 summary: 'The article argues that ORM breaks object-oriented design by splitting data from behavior, exposing SQL throughout the app, and making tests harder. It proposes SQL-speaking objects as the alternative.'
 tags: ["orm", "object-oriented-programming", "sql-speaking-objects", "database"]

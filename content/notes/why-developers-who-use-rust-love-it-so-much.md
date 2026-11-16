@@ -1,6 +1,6 @@
 ---
 title: "Why the developers who use Rust love it so much"
-date: '2026-11-16T03:44:34+00:00'
+date: '2020-07-05T14:10:35+00:00'
 category: webclip
 summary: 'Rust has been the most loved language in the 2020 Developer Survey since 2016, and users credit its compile-time safety, strong tooling, performance, and consistent design.'
 tags: ["rust", "programming-language", "developer-survey"]

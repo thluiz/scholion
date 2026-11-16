@@ -1,6 +1,6 @@
 ---
 title: "Connect Angular Components with Events, Bindings, and Services"
-date: '2026-11-16T07:55:16+00:00'
+date: '2020-02-22T12:11:41+00:00'
 category: webclip
 summary: 'The article shows how Angular components can share user input through two-way binding, a service, and an EventEmitter, so a command entry updates the story view without tight coupling.'
 tags: ["angular", "eventemitter", "two-way-binding", "services"]

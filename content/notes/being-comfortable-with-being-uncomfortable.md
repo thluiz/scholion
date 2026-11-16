@@ -1,6 +1,6 @@
 ---
 title: "Being Comfortable with Being Uncomfortable"
-date: '2026-11-16T01:42:11+00:00'
+date: '2020-07-05T14:11:27+00:00'
 category: webclip
 summary: 'The article argues that discomfort can be useful when it is faced with awareness and focus, through calculated risks, simpler living, and routines that help people endure hard periods.'
 tags: ["discomfort", "calculated-risk", "stoicism", "minimalism"]

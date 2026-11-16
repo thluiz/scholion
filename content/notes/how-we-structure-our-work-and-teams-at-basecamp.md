@@ -1,6 +1,6 @@
 ---
 title: "How we structure our work and teams at Basecamp"
-date: '2026-11-16T03:19:51+00:00'
+date: '2020-07-05T14:11:28+00:00'
 category: webclip
 summary: 'Basecamp describes a six-week cycle system with Big Batch and Small Batch projects, small ad hoc teams, written pitches, centralized communication in Basecamp 3, and no time tracking or project managers.'
 tags: ["six-week-cycles", "team-structure", "basecamp-3", "product-planning"]

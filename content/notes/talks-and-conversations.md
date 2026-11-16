@@ -1,6 +1,6 @@
 ---
 title: "Talks and Conversations"
-date: '2026-11-16T08:07:21+00:00'
+date: '2020-07-05T14:11:21+00:00'
 category: webclip
 summary: 'A list of talks and interviews by Dave Thomas, with brief notes on topics like Elixir, Ruby, Agile, parallel programming, software archeology, and Pragmatic Publishing.'
 tags: ["talks", "ruby", "elixir", "agile"]

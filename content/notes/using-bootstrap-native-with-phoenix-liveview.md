@@ -1,6 +1,6 @@
 ---
 title: "Using Bootstrap Native with Phoenix LiveView"
-date: '2026-11-16T03:32:16+00:00'
+date: '2020-07-05T14:10:30+00:00'
 category: webclip
 summary: 'The article shows how to combine Bootstrap Native with LiveView by configuring Webpack, loading Bootstrap CSS and JavaScript, reinitializing Bootstrap hooks after page updates, and handling dropdowns, forms, and modals.'
 tags: ["bootstrap", "forms", "phoenix", "liveview"]

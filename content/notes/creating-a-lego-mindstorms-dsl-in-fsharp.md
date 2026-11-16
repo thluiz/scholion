@@ -1,6 +1,6 @@
 ---
 title: "Creating a Lego Mindstorms DSL in F#"
-date: '2026-11-16T02:52:39+00:00'
+date: '2020-02-22T12:12:01+00:00'
 category: webclip
 summary: 'The post builds an F# DSL on top of an existing C# Mindstorms API by using custom computation expressions, then maps the DSL actions to commands and shows simple reactive and stateful programs.'
 tags: ["fsharp", "lego-mindstorms", "dsl", "computation-expressions"]

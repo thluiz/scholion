@@ -1,6 +1,6 @@
 ---
 title: "Introdução ao RabbitMQ com .NET Core"
-date: '2026-11-16T00:53:59+00:00'
+date: '2020-02-22T12:12:01+00:00'
 category: webclip
 summary: 'O texto apresenta os conceitos básicos do RabbitMQ, explica exchange, filas, binds e vhosts, e mostra um exemplo simples de publisher e consumer em .NET Core.'
 tags: ["rabbitmq", "net-core", "mensageria", "sistemas-distribuidos"]

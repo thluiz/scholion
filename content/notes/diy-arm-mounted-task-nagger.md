@@ -1,6 +1,6 @@
 ---
 title: "DIY arm-mounted task nagger"
-date: '2026-11-16T02:47:07+00:00'
+date: '2020-02-22T12:11:58+00:00'
 category: webclip
 summary: 'David Seah’s arm-mounted index card scabbard keeps immediate to-do items on your forearm, so you can check them while moving and keep small reference data close at hand.'
 tags: ["productivity", "task-management", "diy", "index-cards"]

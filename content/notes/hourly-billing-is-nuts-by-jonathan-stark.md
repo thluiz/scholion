@@ -1,6 +1,6 @@
 ---
 title: "Hourly Billing Is Nuts by Jonathan Stark"
-date: '2026-11-16T04:42:17+00:00'
+date: '2020-08-26T19:31:23+00:00'
 category: webclip
 summary: 'The page argues that hourly billing harms consultants and clients, keeps services commoditized, and blocks profit growth. It presents value pricing as the better way to sell expertise, outcomes, and benefits.'
 tags: ["hourly-billing", "value-pricing", "consulting", "pricing"]

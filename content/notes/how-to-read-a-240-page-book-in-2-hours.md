@@ -1,6 +1,6 @@
 ---
 title: "How to Read a 240-Page Book in 2 Hours"
-date: '2026-11-16T05:58:24+00:00'
+date: '2020-07-05T14:11:23+00:00'
 category: webclip
 summary: 'The post argues that you can read more books without speed reading by testing your pace, estimating page counts, and using a selective, paced approach for nonfiction books.'
 tags: ["reading-speed", "nonfiction-reading", "productivity"]

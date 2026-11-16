@@ -1,6 +1,6 @@
 ---
 title: "You can now web-monetize your DEV posts! (But don't get your hopes up too quickly)"
-date: '2026-11-16T01:30:40+00:00'
+date: '2020-07-05T14:10:34+00:00'
 category: webclip
 summary: 'DEV says authors can enable web monetization by adding a payment pointer in settings, but the feature is still beta and unlikely to generate much money right away.'
 tags: ["web-monetization", "dev", "payment-pointer", "beta"]

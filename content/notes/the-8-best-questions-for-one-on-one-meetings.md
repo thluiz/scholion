@@ -1,6 +1,6 @@
 ---
 title: "The 8 best questions to ask during a one-on-one meeting"
-date: '2026-11-16T05:20:33+00:00'
+date: '2020-07-05T14:11:20+00:00'
 category: webclip
 summary: 'The post recommends eight one-on-one questions that build trust, surface worries and rumors, clarify goals, and adjust support and feedback to what an employee needs.'
 tags: ["one-on-one-meetings", "management", "feedback", "employee-relations"]

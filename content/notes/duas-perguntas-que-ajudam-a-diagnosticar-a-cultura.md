@@ -1,6 +1,6 @@
 ---
 title: "Duas perguntas que ajudam a diagnosticar a cultura"
-date: '2026-11-16T03:07:20+00:00'
+date: '2020-07-05T14:11:18+00:00'
 category: webclip
 summary: 'O texto propõe duas perguntas para diagnosticar a cultura organizacional: o que leva à promoção e o que leva à demissão. As respostas mostram valores reais, alinhamento e critérios de desempenho.'
 tags: ["cultura-organizacional", "desempenho", "promocao", "gestao"]

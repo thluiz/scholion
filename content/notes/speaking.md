@@ -1,6 +1,6 @@
 ---
 title: "Speaking"
-date: '2026-11-16T03:57:03+00:00'
+date: '2020-07-05T14:10:41+00:00'
 category: webclip
 summary: 'The page lists conferences and meetups where the author has spoken, notes that 2019–2022 was quiet for conferences, and says he hopes to return to public speaking in the future.'
 tags: ["public-speaking", "conferences", "meetups"]

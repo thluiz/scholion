@@ -1,6 +1,6 @@
 ---
 title: "Could Time-Blocking Replace Your To-Do List?"
-date: '2026-11-16T05:07:59+00:00'
+date: '2020-02-22T12:11:43+00:00'
 category: webclip
 summary: 'The article argues that time-blocking can make daily work more realistic and focused by assigning tasks to calendar slots, improving efficiency and reducing stress from unfinished items.'
 tags: ["time-blocking", "productivity", "time-management"]

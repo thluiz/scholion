@@ -1,6 +1,6 @@
 ---
 title: "Communicating Technical Debt"
-date: '2026-11-16T01:59:30+00:00'
+date: '2020-08-26T19:31:12+00:00'
 category: webclip
 summary: 'The post explains technical debt with a debt-and-interest analogy, then shows how to discuss it with business stakeholders using trust, data, metrics, and a concrete remediation plan.'
 tags: ["technical-debt", "software-quality", "business-stakeholders"]

@@ -1,6 +1,6 @@
 ---
 title: "What people tend to get wrong about remote work"
-date: '2026-11-16T04:03:43+00:00'
+date: '2020-07-05T14:10:46+00:00'
 category: webclip
 summary: 'Darren Murph says remote work works better when companies stop copying office habits, embrace iteration, and build routines, tools, and norms that support autonomy, transparency, and empathy.'
 tags: ["remote-work", "gitlab", "work-culture", "distributed-teams"]

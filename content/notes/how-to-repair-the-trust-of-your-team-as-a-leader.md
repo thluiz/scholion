@@ -1,6 +1,6 @@
 ---
 title: "How to Repair the Trust of Your Team as a Leader"
-date: '2026-11-16T05:11:53+00:00'
+date: '2020-02-22T12:11:50+00:00'
 category: webclip
 summary: 'The post says trust gaps weaken teams and argues that leaders rebuild trust by opening up about their work, values, obstacles, hobbies, and long-term impact.'
 tags: ["leadership", "trust", "employee-engagement", "transparency"]

@@ -1,6 +1,6 @@
 ---
 title: "Microsoft publishes the agenda for its Build 2020 virtual event"
-date: '2026-11-16T08:12:54+00:00'
+date: '2020-07-05T14:11:17+00:00'
 category: webclip
 summary: 'Microsoft has published the Build 2020 agenda, with keynote sessions from Satya Nadella, Scott Hanselman, Scott Guthrie, and others, plus repeated sessions for different time zones and later breakout sessions.'
 tags: ["microsoft", "build-2020", "developer-conference", "virtual-event"]

@@ -1,6 +1,6 @@
 ---
 title: "Artesanato de Software: Como lidar com a Complexidade do Negócio?"
-date: '2026-11-16T05:51:47+00:00'
+date: '2020-02-22T12:12:01+00:00'
 category: webclip
 summary: 'Artigo introdutório de uma série sobre técnicas para lidar com a complexidade e evitar a degradação do código ao longo do ciclo de vida do software.'
 tags: ["software-craftsmanship", "complexidade", "manutencao-de-software", "agilidade"]

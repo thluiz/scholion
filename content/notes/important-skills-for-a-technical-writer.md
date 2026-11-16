@@ -1,6 +1,6 @@
 ---
 title: "Important Skills for a Technical Writer"
-date: '2026-11-16T07:50:30+00:00'
+date: '2020-07-05T14:10:38+00:00'
 category: webclip
 summary: 'The post lists key traits for technical writers: technological knowledge, clear writing, troubleshooting, teamwork, SME communication, flexibility, and the ability to present complex ideas visually.'
 tags: ["technical-writing", "writing-skills", "documentation"]

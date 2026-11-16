@@ -1,6 +1,6 @@
 ---
 title: "System Design · Coding · Behavioral · Machine Learning Interviews"
-date: '2026-11-16T04:48:43+00:00'
+date: '2023-11-28T22:10:58+00:00'
 category: webclip
 summary: 'ByteByteGo says millions of people use its text-based courses and newsletter, with books, authors from FAANG and beyond, success cases, and preview chapters before purchase.'
 tags: ["system-design", "coding-interviews", "machine-learning-interviews", "behavioral-interviews"]

@@ -1,6 +1,6 @@
 ---
 title: "let, const, and my view"
-date: '2026-11-16T00:51:16+00:00'
+date: '2020-02-22T12:11:53+00:00'
 category: webclip
 summary: 'The post argues that `const` should be the default for variable bindings, while `let` should signal an expected change. It also says `const` teaches constant bindings, not immutable values.'
 tags: ["javascript", "let", "const", "readability"]

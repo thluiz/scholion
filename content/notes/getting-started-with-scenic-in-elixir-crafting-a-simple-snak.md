@@ -1,6 +1,6 @@
 ---
 title: "Getting started with Scenic in Elixir — Crafting a simple snake game"
-date: '2026-11-16T08:21:11+00:00'
+date: '2020-05-12T00:35:42+00:00'
 category: webclip
 summary: 'The tutorial shows how to build a simple Snake game with Scenic in Elixir, covering setup, scene rendering, frame updates, keyboard input, pellet eating, scoring, and game over handling.'
 tags: ["elixir", "scenic", "snake-game", "gui"]

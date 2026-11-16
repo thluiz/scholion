@@ -1,6 +1,6 @@
 ---
 title: "I Created a Portfolio Site"
-date: '2026-11-16T00:52:30+00:00'
+date: '2020-02-22T12:12:00+00:00'
 category: webclip
 summary: 'The author describes a class portfolio built for a professional development course, its required sections, the WordPress setup, and the site’s layout, content, and links to related work.'
 tags: ["portfolio", "wordpress", "professional-development"]

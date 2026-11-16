@@ -1,6 +1,6 @@
 ---
 title: "The Inversion of Control pattern in the test of time"
-date: '2026-11-16T02:29:09+00:00'
+date: '2020-02-22T12:11:49+00:00'
 category: webclip
 summary: 'The post argues that IoC and containers help with composition, testing, and lifetime management, but also add complexity, scattered changes, and hidden dependencies. RavenDB uses IoC selectively, not everywhere.'
 tags: ["inversion-of-control", "dependency-injection", "software-architecture", "testing"]

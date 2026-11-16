@@ -1,6 +1,6 @@
 ---
 title: "The Bit Cloud Blog — Bit Cloud"
-date: '2026-11-16T03:14:33+00:00'
+date: '2020-07-05T14:11:24+00:00'
 category: webclip
 summary: 'The page lists recent Bit Cloud posts about AI, source control, and deployment. It argues that writing code is cheap, but verification, versioning, and keeping systems live remain the hard part.'
 tags: ["bit-cloud", "ai", "source-control", "deployment"]

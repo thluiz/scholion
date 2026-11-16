@@ -1,6 +1,6 @@
 ---
 title: "What Productivity Looks Like to Me"
-date: '2026-11-16T01:34:45+00:00'
+date: '2020-07-05T14:10:40+00:00'
 category: webclip
 summary: 'The author says productivity depends on balance, sleep, health, and clear limits. She uses calendars, prioritization, time tracking, notes, habits, and batching to stay focused while avoiding burnout.'
 tags: ["productivity", "work-life-balance", "habits", "time-management"]

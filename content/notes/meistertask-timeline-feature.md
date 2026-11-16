@@ -1,6 +1,6 @@
 ---
 title: "Time on the Line? Enter Timeline."
-date: '2026-11-16T07:54:22+00:00'
+date: '2020-04-20T21:22:43+00:00'
 category: webclip
 summary: 'MeisterTask’s Timeline adds a Gantt-like project view with task dates, assignees, and workflow color coding, helping teams coordinate work, spot bottlenecks, and adjust plans.'
 tags: ["meistertask", "timeline", "project-management", "gantt-chart"]

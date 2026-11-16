@@ -1,6 +1,6 @@
 ---
 title: "Status meetings are the scourge"
-date: '2026-11-16T04:18:55+00:00'
+date: '2020-07-05T14:11:28+00:00'
 category: webclip
 summary: 'The page argues that status meetings waste money, time, and attention, and that written, asynchronous status updates let people absorb information later and keep the conversation in one place.'
 tags: ["status-meetings", "asynchronous-communication", "basecamp", "meetings"]

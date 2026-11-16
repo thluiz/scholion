@@ -1,6 +1,6 @@
 ---
 title: "Being a Junior Dev in the Time of COVID"
-date: '2026-11-16T01:43:39+00:00'
+date: '2020-04-20T21:22:24+00:00'
 category: webclip
 summary: 'The author describes how remote work, the pandemic, and canceled opportunities make junior growth feel slower and more uncertain, then names communication, exercise, self-compassion, and honesty as ways to cope.'
 tags: ["junior-dev", "remote-work", "covid-19", "career-growth"]

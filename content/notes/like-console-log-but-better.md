@@ -1,6 +1,6 @@
 ---
 title: "Like `console.log` But Better"
-date: '2026-11-16T00:30:36+00:00'
+date: '2020-04-20T21:22:46+00:00'
 category: webclip
 summary: 'The page shows console methods and log styling that make debugging clearer, including `console.table()`, `console.count()`, `console.assert()`, labels, and CSS styling with `%c`.'
 tags: ["javascript", "console", "debugging"]

@@ -1,6 +1,6 @@
 ---
 title: "Variables? We Don’t Need No Stinking Variables | C# Discards"
-date: '2026-11-16T08:15:16+00:00'
+date: '2020-04-20T21:22:33+00:00'
 category: webclip
 summary: 'C# 7.0 discards let you ignore values you do not need, from unused results and out parameters to tuples, null checks, tasks, and switch patterns.'
 tags: ["csharp", "discards", "out-parameters", "pattern-matching"]

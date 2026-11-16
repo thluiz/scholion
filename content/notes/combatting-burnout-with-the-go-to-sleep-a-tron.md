@@ -1,6 +1,6 @@
 ---
 title: "Combatting Burnout with the \"Go to Sleep-a-tron\""
-date: '2026-11-16T01:59:02+00:00'
+date: '2020-08-26T19:31:11+00:00'
 category: webclip
 summary: 'The post presents a playful GitHub Action that checks commit timestamps against a timezone and comments when work happens before 9am or after 7pm, with notes on implementation limits and future extensions.'
 tags: ["github-actions", "burnout", "timezones", "javascript"]

@@ -1,6 +1,6 @@
 ---
 title: "Setup email for a website, and perform send/receive thru your main Gmail."
-date: '2026-11-16T01:10:42+00:00'
+date: '2020-06-03T21:57:54+00:00'
 category: webclip
 summary: 'The post explains how to forward mail from a custom domain to Gmail with Namecheap, then add the custom address in Gmail so you can send and reply from that domain too.'
 tags: ["gmail", "namecheap", "email-forwarding"]

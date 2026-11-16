@@ -1,6 +1,6 @@
 ---
 title: "GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly"
-date: '2026-11-16T03:12:56+00:00'
+date: '2020-07-05T14:11:20+00:00'
 category: webclip
 summary: 'Lee Reilly shares GitHub shortcuts, browser extensions, Markdown tricks, URL hacks, and CLI tools for finding files, tracking notifications, linking code, and reading repository stats.'
 tags: ["github", "markdown", "browser-extensions", "git"]

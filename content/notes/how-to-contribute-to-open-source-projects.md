@@ -1,6 +1,6 @@
 ---
 title: "How to Contribute to Open Source Projects"
-date: '2026-11-16T01:19:35+00:00'
+date: '2020-07-05T14:11:25+00:00'
 category: webclip
 summary: 'The article says open source work improves developer skills, helps with hiring, and can even lead to pay or recognition. It recommends choosing a maintained project tied to your own needs and starting with small, conversational contributions.'
 tags: ["open-source", "developer-skills", "github", "contribution"]

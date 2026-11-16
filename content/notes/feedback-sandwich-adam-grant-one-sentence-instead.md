@@ -1,6 +1,6 @@
 ---
 title: "Get rid of the ‘feedback sandwich’—use this 1 sentence instead, says Wharton psychologist Adam Grant"
-date: '2026-11-16T04:50:12+00:00'
+date: '2023-12-15T18:23:37+00:00'
 category: webclip
 summary: 'Adam Grant says the feedback sandwich fails because praise can mask criticism or criticism can erase praise. He recommends a direct prefacing sentence that signals high expectations and support.'
 tags: ["feedback", "management", "adam-grant"]

@@ -1,6 +1,6 @@
 ---
 title: "What Happened When I Peeked Into My Node_Modules Directory"
-date: '2026-11-16T06:03:16+00:00'
+date: '2016-08-25T21:25:31+00:00'
 category: webclip
 summary: 'The piece jokes that popular JavaScript packages are bloated with hidden, unnecessary dependencies. It walks through Express, Ember, and Babel to argue for closer auditing of what gets installed.'
 tags: ["javascript", "dependencies", "node-modules", "web-development"]

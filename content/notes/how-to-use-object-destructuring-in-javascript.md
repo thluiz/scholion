@@ -1,6 +1,6 @@
 ---
 title: "How to Use Object Destructuring in JavaScript"
-date: '2026-11-16T04:01:58+00:00'
+date: '2020-07-05T14:10:42+00:00'
 category: webclip
 summary: 'Explains how object destructuring assigns object properties to variables, supports multiple properties, default values, aliases, nested objects, dynamic property names, rest, and common usage in loops and function parameters.'
 tags: ["javascript", "object-destructuring", "es2015", "rest-syntax"]

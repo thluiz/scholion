@@ -1,6 +1,6 @@
 ---
 title: "Your access has been blocked – The Atlantic"
-date: '2026-11-16T02:49:51+00:00'
+date: '2020-02-22T12:12:00+00:00'
 category: webclip
 summary: 'The page only shows a security block notice from The Atlantic, with contact emails for support and licensing and a Cloudflare Ray ID for reference.'
 tags: ["access-blocked", "cloudflare", "the-atlantic"]

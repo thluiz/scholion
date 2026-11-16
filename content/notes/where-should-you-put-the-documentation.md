@@ -1,6 +1,6 @@
 ---
 title: "Where should you put the documentation?"
-date: '2026-11-16T04:33:57+00:00'
+date: '2020-08-26T19:31:12+00:00'
 category: webclip
 summary: 'The post argues that good documentation is easy to find, easy to read, and easy to write. It recommends one place for shared docs, codebase-specific docs in the repo, and a low-friction way to keep everything current.'
 tags: ["documentation", "knowledge-sharing", "confluence", "notion"]

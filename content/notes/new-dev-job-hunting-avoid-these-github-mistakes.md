@@ -1,6 +1,6 @@
 ---
 title: "New Dev? Job-Hunting? Avoid These GitHub Mistakes!"
-date: '2026-11-16T00:50:19+00:00'
+date: '2020-02-22T12:11:53+00:00'
 category: webclip
 summary: 'The post advises new developers to curate GitHub portfolios carefully, with selective projects, fuller READMEs, deployed apps, and clear handling of unfinished work.'
 tags: ["github", "portfolio", "job-hunting", "readme"]

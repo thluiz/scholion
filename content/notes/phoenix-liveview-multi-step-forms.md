@@ -1,6 +1,6 @@
 ---
 title: "Phoenix LiveView: Multi-step forms"
-date: '2026-11-16T03:54:54+00:00'
+date: '2020-07-05T14:10:40+00:00'
 category: webclip
 summary: 'The post argues that multi-step forms are easier to reason about when each step lives in its own LiveComponent, with computed fields, progress managed by the parent LiveView, and browser timezone input pushed in via a hook.'
 tags: ["phoenix-liveview", "livecomponents", "multi-step-forms", "ecto-changeset"]

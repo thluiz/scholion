@@ -1,6 +1,6 @@
 ---
 title: "Senior Developer Advocate digs into Interviews, Promotions and Compensation"
-date: '2026-11-16T07:51:15+00:00'
+date: '2020-07-05T14:10:45+00:00'
 category: webclip
 summary: 'Alyss Noland shares interview and career advice for candidates entering developer relations, with a focus on hiring processes, promotions, and compensation.'
 tags: ["developer-relations", "interviews", "promotions", "compensation"]

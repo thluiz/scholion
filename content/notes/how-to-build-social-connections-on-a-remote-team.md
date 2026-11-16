@@ -1,6 +1,6 @@
 ---
 title: "How to build social connections on a remote team"
-date: '2026-11-16T05:12:31+00:00'
+date: '2020-02-22T12:11:50+00:00'
 category: webclip
 summary: 'The article argues that social connection is the hardest part of remote work and offers practical ways to make it deliberate through icebreakers, onboarding, buddy systems, video chats, chat channels, and retreats.'
 tags: ["remote-work", "team-building", "social-connection", "onboarding"]

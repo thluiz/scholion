@@ -1,6 +1,6 @@
 ---
 title: "Gilded Rose Refactoring Kata"
-date: '2026-11-16T03:09:39+00:00'
+date: '2020-07-05T14:11:20+00:00'
 category: webclip
 summary: 'Repository with starting code for the Gilded Rose refactoring kata, guidance for using it with tests or approval testing, links to requirements in many languages, and notes on its history.'
 tags: ["refactoring-kata", "testing", "approval-testing", "legacy-code"]

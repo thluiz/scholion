@@ -1,6 +1,6 @@
 ---
 title: "Generate Contrasting Text For Your Random Background Color"
-date: '2026-11-16T07:48:13+00:00'
+date: '2020-02-22T12:12:01+00:00'
 category: webclip
 summary: 'The article shows how to choose black or white text for a user-selected background by converting hex colors to RGB, calculating YIQ brightness, and applying a threshold in JavaScript.'
 tags: ["javascript", "color-contrast", "web-components"]

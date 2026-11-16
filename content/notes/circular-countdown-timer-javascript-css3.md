@@ -1,6 +1,6 @@
 ---
 title: "Circular Countdown Timer In JavaScript And CSS3"
-date: '2026-11-16T03:33:30+00:00'
+date: '2020-07-05T14:10:30+00:00'
 category: webclip
 summary: 'A minimal countdown timer uses a SVG circle as the progress indicator, lets the user adjust minutes and seconds, and switches the button between play, pause, and reset states as time runs out.'
 tags: ["countdown-timer", "javascript", "css3", "svg"]

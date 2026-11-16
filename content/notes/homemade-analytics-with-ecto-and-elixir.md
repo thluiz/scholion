@@ -1,6 +1,6 @@
 ---
 title: "Homemade analytics with Ecto and Elixir"
-date: '2026-11-16T04:40:33+00:00'
+date: '2020-08-26T19:31:19+00:00'
 category: webclip
 summary: 'The post shows how Dashbit built its own analytics to avoid cookies, first with Ecto upserts and then with Elixir processes and Registry to batch writes and reduce database pressure.'
 tags: ["ecto", "elixir", "processes", "registry"]

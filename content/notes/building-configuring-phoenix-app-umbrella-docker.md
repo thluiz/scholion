@@ -1,6 +1,6 @@
 ---
 title: "Building and configuring a Phoenix app with Umbrella for releasing with Docker"
-date: '2026-11-16T03:50:43+00:00'
+date: '2020-07-05T14:10:38+00:00'
 category: webclip
 summary: 'The post walks through creating an Elixir umbrella project with Phoenix and a second app, adding Distillery for releases, wiring runtime environment variables, and packaging everything into a Docker image for production.'
 tags: ["elixir", "phoenix", "umbrella-project", "docker"]

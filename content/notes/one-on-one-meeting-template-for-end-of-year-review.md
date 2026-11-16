@@ -1,6 +1,6 @@
 ---
 title: "The one-on-one meeting template for your end of the year review"
-date: '2026-11-16T02:39:51+00:00'
+date: '2020-02-22T12:11:52+00:00'
 category: webclip
 summary: 'The year-end one-on-one is meant to reflect on the past year, name progress and friction, and set a constructive tone for next year’s working relationship.'
 tags: ["one-on-one-meetings", "performance-review", "year-end-review"]

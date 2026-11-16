@@ -1,6 +1,6 @@
 ---
 title: "Go first: The first step of getting feedback at work starts with you"
-date: '2026-11-16T05:03:33+00:00'
+date: '2020-02-22T12:11:42+00:00'
 category: webclip
 summary: 'The article says leaders should model openness first if they want honest feedback from employees. Sharing struggles, challenging one’s own view, and praising vulnerability help make speaking up feel safe.'
 tags: ["feedback", "leadership", "workplace-communication"]

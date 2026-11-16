@@ -1,6 +1,6 @@
 ---
 title: "5 Tips for Working Remote in Tech"
-date: '2026-11-16T08:14:38+00:00'
+date: '2020-04-20T21:22:31+00:00'
 category: webclip
 summary: 'The article says remote work needs deliberate structure: camera-on meetings, daily check-ins, fixed work hours, a dedicated workspace, and regular breaks to stay productive and sane.'
 tags: ["remote-work", "tech", "productivity", "education"]

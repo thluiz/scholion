@@ -1,6 +1,6 @@
 ---
 title: "Your 6-Week Belly Fat Blasting Walking Plan"
-date: '2026-11-16T05:39:48+00:00'
+date: '2020-04-20T21:22:36+00:00'
 category: webclip
 summary: 'A 6-week walking plan that mixes power walks, HIIT walks, and easy recovery walks to build toward 150–210 minutes of walking a week, while adjusting pace, posture, and total time to fit your schedule.'
 tags: ["walking-plan", "interval-training", "active-recovery", "fitness"]

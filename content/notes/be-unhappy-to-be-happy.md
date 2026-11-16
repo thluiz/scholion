@@ -1,6 +1,6 @@
 ---
 title: "Be Unhappy to Be Happy"
-date: '2026-11-16T04:30:55+00:00'
+date: '2020-04-20T21:22:43+00:00'
 category: webclip
 summary: 'The text argues that happiness comes less from having things than from overcoming resistance. Dissatisfaction, obstacles, and effort are presented as the conditions that make happiness possible.'
 tags: ["happiness", "struggle", "motivation", "tech-workers"]

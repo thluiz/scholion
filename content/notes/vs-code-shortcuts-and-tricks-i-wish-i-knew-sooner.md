@@ -1,6 +1,6 @@
 ---
 title: "VS Code shortcuts and tricks that I wish I knew sooner"
-date: '2026-11-16T01:02:02+00:00'
+date: '2020-08-26T19:31:13+00:00'
 category: webclip
 summary: 'The article collects VS Code shortcuts, custom snippets, and extensions that help with HTML scaffolding, file paths, Git history, and automatic formatting, especially for collaborative work.'
 tags: ["vs-code", "shortcuts", "extensions", "prettier"]

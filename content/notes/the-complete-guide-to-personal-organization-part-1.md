@@ -1,6 +1,6 @@
 ---
 title: "The Complete Guide to Personal Organization - Part 1"
-date: '2026-11-16T01:44:21+00:00'
+date: '2020-04-20T21:22:31+00:00'
 category: webclip
 summary: 'The author says personal organization helps reduce anxiety, save time, and handle work and life better. He links it to discipline, clear tasks, and habits built around attention limits.'
 tags: ["personal-organization", "productivity", "discipline", "anxiety"]

@@ -1,6 +1,6 @@
 ---
 title: "Burnout: como saber se estou em exaustão emocional e o que fazer a respeito?"
-date: '2026-11-16T04:36:01+00:00'
+date: '2020-08-26T19:31:15+00:00'
 category: webclip
 summary: 'O texto define burnout como estresse crônico no trabalho e descreve seus sinais, dos primeiros desgastes à exaustão completa, além de defender que o problema também é estrutural.'
 tags: ["burnout", "estresse-cronico", "saude-mental", "trabalho"]

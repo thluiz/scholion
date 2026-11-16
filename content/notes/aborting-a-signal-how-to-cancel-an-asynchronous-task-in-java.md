@@ -1,6 +1,6 @@
 ---
 title: "Aborting a signal: How to cancel an asynchronous task in JavaScript"
-date: '2026-11-16T04:29:06+00:00'
+date: '2020-04-20T21:22:41+00:00'
 category: webclip
 summary: 'The article explains how AbortController and AbortSignal let you cancel async work in JavaScript, then shows how to build a cancelable function that handles both live and pre-aborted signals.'
 tags: ["javascript", "abortcontroller", "abortsignal"]

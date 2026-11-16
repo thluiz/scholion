@@ -1,6 +1,6 @@
 ---
 title: "A Guide to Dealing with the Growing Tiredness & Boredom of the New Normal"
-date: '2026-11-16T03:58:53+00:00'
+date: '2020-07-05T14:10:42+00:00'
 category: webclip
 summary: 'The article says boredom and tiredness during lockdown come from our thoughts and narratives about the situation. It argues we can use the crisis to practice patience, accept what is present, and build endurance.'
 tags: ["patience", "boredom", "pandemic", "habit-change"]

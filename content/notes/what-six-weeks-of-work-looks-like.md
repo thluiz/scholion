@@ -1,6 +1,6 @@
 ---
 title: "What six weeks of work looks like"
-date: '2026-11-16T03:20:02+00:00'
+date: '2020-07-05T14:11:28+00:00'
 category: webclip
 summary: 'Basecamp shows what a six-week cycle produced for its web and desktop product: smaller teams shipped interface, workflow, and admin improvements, with more work still nearly done.'
 tags: ["basecamp", "product-development", "six-week-cycles"]

@@ -1,6 +1,6 @@
 ---
 title: "You like drawing as a hobby? I might have something for you 🧑🏻‍🎨"
-date: '2026-11-16T07:51:50+00:00'
+date: '2020-07-05T14:11:27+00:00'
 category: webclip
 summary: 'The author is building an early-stage virtual wooden model made with CSS rotations to help practice body proportions while drawing, and asks for feedback on its usefulness, features, and name.'
 tags: ["drawing", "css-rotations", "javascript", "design"]

@@ -1,6 +1,6 @@
 ---
 title: "Stealing Like an Artist in a Commonplace Book"
-date: '2026-11-16T05:50:36+00:00'
+date: '2020-02-22T12:11:59+00:00'
 category: webclip
 summary: 'Shaunta Grimes recalls a tiny notebook from high school where she kept book lists and copied lines of poetry and fiction. After a hard period, the notebook helped ground her and may have begun her path toward writing.'
 tags: ["writing", "notebook", "commonplace-book", "creativity"]

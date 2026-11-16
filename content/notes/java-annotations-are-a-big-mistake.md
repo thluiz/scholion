@@ -1,6 +1,6 @@
 ---
 title: "Java Annotations Are a Big Mistake"
-date: '2026-11-16T02:42:45+00:00'
+date: '2020-02-22T12:11:52+00:00'
 category: webclip
 summary: 'The page argues that annotations push behavior out of objects and hide composition behind containers, marshallers, and weavers. It prefers explicit object composition and `new` over annotations and configurations.'
 tags: ["java", "annotations", "object-composition", "dependency-injection"]

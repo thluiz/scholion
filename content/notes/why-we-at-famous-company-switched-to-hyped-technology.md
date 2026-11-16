@@ -1,6 +1,6 @@
 ---
 title: "Why we at $FAMOUS_COMPANY Switched to $HYPED_TECHNOLOGY"
-date: '2026-11-16T04:09:34+00:00'
+date: '2020-07-05T14:11:17+00:00'
 category: webclip
 summary: 'The post claims the rewrite to $FLASHY_LANGUAGE and $HYPED_TECHNOLOGY improved performance, simplified parts of the stack, and helped with hiring, while also cutting off some access and support paths.'
 tags: ["software-rewrite", "backend", "hyped-technology", "language-choice"]

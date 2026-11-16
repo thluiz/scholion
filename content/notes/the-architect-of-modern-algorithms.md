@@ -1,6 +1,6 @@
 ---
 title: "The Architect of Modern Algorithms"
-date: '2026-11-16T02:53:35+00:00'
+date: '2020-02-22T12:12:02+00:00'
 category: webclip
 summary: 'Barbara Liskov describes programming as a design problem shaped by mathematical thinking, data abstraction, and modular organization, and traces how CLU helped move software away from goto-based code.'
 tags: ["barbara-liskov", "data-abstraction", "programming-language-design"]

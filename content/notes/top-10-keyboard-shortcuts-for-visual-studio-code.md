@@ -1,6 +1,6 @@
 ---
 title: "Top 10 Keyboard Shortcuts for Visual Studio Code"
-date: '2026-11-16T01:30:54+00:00'
+date: '2020-07-05T14:10:34+00:00'
 category: webclip
 summary: 'The post says Visual Studio Code is a code editor the author uses daily and shares a video with 10 keyboard shortcuts he relies on and cannot live without.'
 tags: ["visual-studio-code", "keyboard-shortcuts", "code-editor"]

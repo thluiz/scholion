@@ -1,6 +1,6 @@
 ---
 title: "F-Shaped Pattern of Reading on the Web: Misunderstood, But Still Relevant (Even on Mobile)"
-date: '2026-11-16T02:08:51+00:00'
+date: '2019-11-18T09:56:39+00:00'
 category: webclip
 summary: 'Eyetracking research shows that web users often scan in an F shape, but other scanning patterns also occur. Good formatting can redirect attention and reduce skipped content.'
 tags: ["eyetracking", "web-reading", "scanning-patterns", "mobile"]

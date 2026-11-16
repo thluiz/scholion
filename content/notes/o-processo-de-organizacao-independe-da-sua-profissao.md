@@ -1,6 +1,6 @@
 ---
 title: "O processo de organização independe da sua profissão"
-date: '2026-11-16T08:01:04+00:00'
+date: '2020-02-22T12:11:49+00:00'
 category: webclip
 summary: 'A autora diz que as bases da organização servem para qualquer pessoa, não só para quem trabalha no meio corporativo, e que o que falta é mostrar como aplicar essas práticas em casos concretos.'
 tags: ["organizacao", "produtividade", "rotina"]

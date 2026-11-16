@@ -1,6 +1,6 @@
 ---
 title: "GitHub Tips & Tricks"
-date: '2026-11-16T04:43:21+00:00'
+date: '2020-04-20T21:22:21+00:00'
 category: webclip
 summary: 'Joe Previte presents GitHub features for keeping a repository productive, including PR and issue templates, auto-assigning reviewers, automatically deleting branches after merge, and using the GitHub CLI.'
 tags: ["github", "productivity", "pull-requests", "github-cli"]

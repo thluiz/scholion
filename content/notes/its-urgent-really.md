@@ -1,6 +1,6 @@
 ---
 title: "It’s urgent! (Really?)"
-date: '2026-11-16T02:57:31+00:00'
+date: '2016-08-25T21:25:32+00:00'
 category: webclip
 summary: 'The post argues that email and meetings turned into a culture of false urgency, where people react to other people’s priorities instead of doing their own work. Real emergencies are rare, and inbox monitoring distorts productivity.'
 tags: ["email", "meetings", "urgency", "productivity"]

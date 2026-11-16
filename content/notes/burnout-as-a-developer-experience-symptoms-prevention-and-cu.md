@@ -1,6 +1,6 @@
 ---
 title: "Burnout as a Developer: Experience, Symptoms, Prevention and Cure"
-date: '2026-11-16T01:02:29+00:00'
+date: '2020-08-26T19:31:14+00:00'
 category: webclip
 summary: 'The author describes a recent burnout experience as a software developer, defines burnout as emotional, physical, and mental exhaustion, and lists symptoms plus practical prevention and recovery steps.'
 tags: ["burnout", "software-development", "self-care", "mental-health"]

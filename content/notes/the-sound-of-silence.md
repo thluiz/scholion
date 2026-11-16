@@ -1,6 +1,6 @@
 ---
 title: "The Sound of Silence"
-date: '2026-11-16T03:38:34+00:00'
+date: '2020-07-05T14:10:32+00:00'
 category: webclip
 summary: 'The essay argues that public discussion online carries too much risk of misinterpretation, so useful insights go unsaid. That silence deprives others of ideas and conversations, especially around successful people and startups.'
 tags: ["silence", "social-media", "startups", "misinterpretation"]

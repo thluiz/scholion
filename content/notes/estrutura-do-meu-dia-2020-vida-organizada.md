@@ -1,6 +1,6 @@
 ---
 title: "Estrutura do meu dia (2020) – vida organizada"
-date: '2026-11-16T07:57:37+00:00'
+date: '2020-02-22T12:11:45+00:00'
 category: webclip
 summary: 'A autora descreve sua rotina em blocos ao longo do dia, organizada a partir do sono, da alimentação e do tipo de energia de cada período, com flexibilidade para adaptar horários e compromissos.'
 tags: ["rotina", "organizacao-pessoal", "blocos-de-tempo"]

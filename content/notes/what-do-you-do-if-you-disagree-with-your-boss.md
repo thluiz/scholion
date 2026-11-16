@@ -1,6 +1,6 @@
 ---
 title: "What Do You Do If You Disagree With Your Boss?"
-date: '2026-11-16T00:54:42+00:00'
+date: '2020-02-22T12:12:01+00:00'
 category: webclip
 summary: 'The post suggests answering workplace disagreement questions by using data, showing empathy, treating debate as healthy, and stepping back to understand other viewpoints.'
 tags: ["workplace-conflict", "behavioral-interviews", "communication"]

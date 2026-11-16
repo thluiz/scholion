@@ -1,6 +1,6 @@
 ---
 title: "Tech & Work Archives"
-date: '2026-11-16T05:33:12+00:00'
+date: '2020-07-05T14:10:45+00:00'
 category: webclip
 summary: 'TechRepublic’s Tech & Work archive highlights recent coverage on AI hallucinations, layoffs, Claude, Microsoft buyouts, and 2026 tech job cuts affecting major companies.'
 tags: ["tech-work", "techrepublic", "layoffs", "ai"]

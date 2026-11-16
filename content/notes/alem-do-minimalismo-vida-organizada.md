@@ -1,6 +1,6 @@
 ---
 title: "Além do Minimalismo – vida organizada"
-date: '2026-11-16T08:10:25+00:00'
+date: '2020-07-05T14:10:30+00:00'
 category: webclip
 summary: 'A autora revisita sua fase minimalista e defende que o movimento, embora útil como prática pessoal, tende a ser elitista e individualista. Ela contrapõe minimalismo, simplicidade voluntária e bem-viver.'
 tags: ["minimalismo", "simplicidade-voluntaria", "bem-viver", "sustentabilidade"]

@@ -1,6 +1,6 @@
 ---
 title: "Como botar ordem na sua vida financeira – mesmo em tempos difíceis"
-date: '2026-11-16T05:00:05+00:00'
+date: '2020-08-26T19:31:14+00:00'
 category: webclip
 summary: 'O texto defende que falar sobre dinheiro, revisar gastos e simplificar o orçamento ajuda a entender quanto a vida custa, ajustar prioridades, criar reserva e lidar melhor com crises e dívidas.'
 tags: ["dinheiro", "orcamento", "reserva-de-emergencia", "financas-pessoais"]

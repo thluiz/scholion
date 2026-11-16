@@ -1,6 +1,6 @@
 ---
 title: "My Experience With Test Driven Development (TDD)"
-date: '2026-11-16T00:51:33+00:00'
+date: '2020-02-22T12:11:53+00:00'
 category: webclip
 summary: 'The author defines TDD, describes its three rules, and explains how writing tests first exposed gaps in schema design and reduced manual testing while refactoring a backend to SQL.'
 tags: ["test-driven-development", "sql", "postgres", "schema-design"]

@@ -1,6 +1,6 @@
 ---
 title: "Don't Parse, Use Parsing Objects"
-date: '2026-11-16T02:41:51+00:00'
+date: '2020-02-22T12:11:52+00:00'
 category: webclip
 summary: 'The article argues that deserialization should move from DTO-based parsing into objects like JsonBook or RqUser, so HTTP handling, validation, and parsing stay reusable and less procedural.'
 tags: ["parsing-objects", "deserialization", "object-oriented-design"]

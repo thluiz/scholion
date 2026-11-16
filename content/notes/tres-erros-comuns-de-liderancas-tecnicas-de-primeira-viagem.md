@@ -1,6 +1,6 @@
 ---
 title: "Três erros comuns de Lideranças Técnicas de Primeira Viagem"
-date: '2026-11-16T03:27:44+00:00'
+date: '2016-08-05T16:28:01+00:00'
 category: webclip
 summary: 'O texto aponta três armadilhas da primeira experiência como Liderança Técnica: programar o tempo todo, concentrar as decisões técnicas e negligenciar a cultura do time, defendendo equilíbrio entre técnica e liderança.'
 tags: ["lideranca-tecnica", "trabalho-em-time", "decisoes-tecnicas"]

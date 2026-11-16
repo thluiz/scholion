@@ -1,6 +1,6 @@
 ---
 title: "Debugging TypeScript in the browser"
-date: '2026-11-16T08:03:44+00:00'
+date: '2020-02-22T12:12:00+00:00'
 category: webclip
 summary: 'The article explains that TypeScript must be transpiled to JavaScript, then shows how source maps restore the original .ts file in browser devtools so you can set breakpoints and inspect runtime values.'
 tags: ["typescript", "source-maps", "browser-debugging"]

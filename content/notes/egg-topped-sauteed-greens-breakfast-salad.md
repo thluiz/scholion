@@ -1,6 +1,6 @@
 ---
 title: "Egg-Topped Sautéed Greens Breakfast Salad"
-date: '2026-11-16T05:02:15+00:00'
+date: '2020-04-20T21:22:45+00:00'
 category: webclip
 summary: 'A breakfast salad that replaces oatmeal with sautéed greens, roasted vegetables, avocado, and eggs, aiming to add more vegetables, healthy fats, and protein to the morning meal.'
 tags: ["breakfast-salad", "eggs", "vegetables", "avocado"]

@@ -1,6 +1,6 @@
 ---
 title: "How SWR works behind the scenes"
-date: '2026-11-16T00:31:05+00:00'
+date: '2020-04-20T21:22:46+00:00'
 category: webclip
 summary: 'The post rebuilds a simplified SWR-like hook in React to show why remote data is stored in a shared cache, how mutation and reload work, and why subscription is needed for updates across components.'
 tags: ["swr", "react", "cache", "hooks"]

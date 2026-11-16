@@ -1,6 +1,6 @@
 ---
 title: "6 mistakes to avoid during your first 30 days as a new manager"
-date: '2026-11-16T02:40:05+00:00'
+date: '2020-02-22T12:11:52+00:00'
 category: webclip
 summary: 'The article lists six early mistakes new managers should avoid: skipping one-on-ones, speaking before listening, seeking likability over trust, ignoring peer managers, treating everyone the same, and hiding uncertainty.'
 tags: ["new-managers", "leadership", "trust", "one-on-ones"]

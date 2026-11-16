@@ -1,6 +1,6 @@
 ---
 title: "3 Steps to Deepen Your Mindfulness Practice"
-date: '2026-11-16T02:28:18+00:00'
+date: '2020-02-22T12:11:49+00:00'
 category: webclip
 summary: 'The post says mindfulness can ease suffering by shifting from thoughts to direct experience, then adding friendliness toward experience, and finally loosening the sense of separate self and gain-loss motives.'
 tags: ["mindfulness", "meditation", "selfhood", "gain-loss"]

@@ -1,6 +1,6 @@
 ---
 title: "Vim Plugins: A Methodology to Become 1% Better Every Week"
-date: '2026-11-16T02:06:55+00:00'
+date: '2019-08-27T19:28:49+00:00'
 category: webclip
 summary: 'The article argues that Vim plugins are most useful when you learn them deliberately: read the docs, make a cheatsheet, practice one feature, map it, and remove plugins you do not use.'
 tags: ["vim", "plugins", "productivity", "workflow"]

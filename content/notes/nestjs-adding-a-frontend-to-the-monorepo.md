@@ -1,6 +1,6 @@
 ---
 title: "NestJS - Adding a frontend to the monorepo"
-date: '2026-11-16T01:46:10+00:00'
+date: '2020-04-20T21:22:35+00:00'
 category: webclip
 summary: 'The post shows how to add a Vue frontend to a NestJS monorepo, setting up Webpack, TypeScript, Vue files, and npm scripts so the blog frontend can build and run.'
 tags: ["nestjs", "vue", "webpack", "monorepo"]

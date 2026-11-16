@@ -1,6 +1,6 @@
 ---
 title: "My Long Distance Relationship With GitHub"
-date: '2026-11-16T07:54:56+00:00'
+date: '2020-04-20T21:22:45+00:00'
 category: webclip
 summary: 'The author says remote work was easier than the shift from synchronous to asynchronous collaboration. Writing issues and PRs, waiting, and juggling more than one task made her think more clearly and take more ownership.'
 tags: ["remote-work", "async-work", "github", "writing"]

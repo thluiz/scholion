@@ -1,6 +1,6 @@
 ---
 title: "Authentication in Elixir Web Applications with Ueberauth and Guardian: Part 1"
-date: '2026-11-16T03:14:07+00:00'
+date: '2020-07-05T14:11:21+00:00'
 category: webclip
 summary: 'This post sets up a basic Phoenix app with registration and login pages, then adds Wallaby browser tests and the routes, controllers, views, and templates those pages need.'
 tags: ["elixir", "phoenix", "authentication", "wallaby"]

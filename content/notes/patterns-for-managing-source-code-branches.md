@@ -1,6 +1,6 @@
 ---
 title: "Patterns for Managing Source Code Branches"
-date: '2026-11-16T03:13:23+00:00'
+date: '2020-07-05T14:11:20+00:00'
 category: webclip
 summary: 'The article maps common branching patterns to team context, showing when to favor feature branches, continuous integration, release branches, or release-ready mainline, and why merge cost matters.'
 tags: ["branching-patterns", "continuous-integration", "release-management", "mainline"]

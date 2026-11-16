@@ -1,6 +1,6 @@
 ---
 title: "How I got hired by Basecamp"
-date: '2026-11-16T02:40:31+00:00'
+date: '2020-02-22T12:11:52+00:00'
 category: webclip
 summary: 'The author describes how he revised a past Basecamp application, kept the cover letter to two pages, added a timeline and appendix, and then went through an exercise and interviews before getting hired.'
 tags: ["basecamp", "job-application", "interviews"]

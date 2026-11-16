@@ -1,6 +1,6 @@
 ---
 title: "Build a Native Desktop App with Angular and Electron"
-date: '2026-11-16T00:43:42+00:00'
+date: '2020-02-22T12:11:43+00:00'
 category: webclip
 summary: 'The article shows how to bootstrap an Electron app from an Angular Electron boilerplate, rename the project, wire up the NYT API, add NgRx store, and build home and search views with Angular Material.'
 tags: ["angular", "electron", "ngrx-store", "new-york-times-api"]

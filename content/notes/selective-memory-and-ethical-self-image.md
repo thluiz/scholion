@@ -1,6 +1,6 @@
 ---
 title: "Think you’re an ethical person? You may just have a selective memory"
-date: '2026-11-16T03:22:11+00:00'
+date: '2016-05-20T17:18:32+00:00'
 category: webclip
 summary: 'The article says people remember their own unethical acts less clearly than ethical or neutral events, and that this selective forgetting may help preserve a positive moral self-image and reduce dissonance.'
 tags: ["selective-memory", "ethical-behavior", "moral-self-image"]

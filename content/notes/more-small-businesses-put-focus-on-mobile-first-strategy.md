@@ -1,6 +1,6 @@
 ---
 title: "More small businesses put focus on a mobile-first strategy"
-date: '2026-11-16T08:06:06+00:00'
+date: '2016-08-25T21:25:33+00:00'
 category: webclip
 summary: 'Small businesses are treating mobile as the main channel for marketing and sales as phone and tablet use rises, with some relying on apps, responsive sites, and mobile-only workflows.'
 tags: ["mobile-first", "small-business", "mobile-marketing"]

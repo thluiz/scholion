@@ -1,6 +1,6 @@
 ---
 title: "7 Essential Tips for Working From Home During the Coronavirus Pandemic"
-date: '2026-11-16T05:41:05+00:00'
+date: '2020-04-20T21:22:37+00:00'
 category: webclip
 summary: 'The article says remote work during the coronavirus pandemic works better when you keep routines, separate work from home life, set boundaries, limit distractions, and stay connected with coworkers and others.'
 tags: ["remote-work", "work-from-home", "coronavirus-pandemic"]

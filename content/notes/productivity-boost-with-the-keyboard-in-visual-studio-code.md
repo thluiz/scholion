@@ -1,6 +1,6 @@
 ---
 title: "Productivity boost with the keyboard in Visual Studio Code"
-date: '2026-11-16T01:48:59+00:00'
+date: '2020-04-20T21:22:37+00:00'
 category: webclip
 summary: 'The page presents comments on a Visual Studio Code shortcut guide, with readers highlighting word-deletion shortcuts, pane navigation on Mac, and the usefulness of the animations and captions.'
 tags: ["visual-studio-code", "keyboard-shortcuts", "productivity"]

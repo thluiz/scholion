@@ -1,6 +1,6 @@
 ---
 title: "Train your professional voice model - Speech service - Foundry Tools"
-date: '2026-11-16T03:14:20+00:00'
+date: '2020-07-05T14:11:24+00:00'
 category: webclip
 summary: 'The article explains how to fine-tune a professional voice in Foundry, Speech Studio, or the custom voice API, including training methods, region limits, model updates, copying, and deployment.'
 tags: ["professional-voice", "speech-service", "foundry", "custom-voice"]

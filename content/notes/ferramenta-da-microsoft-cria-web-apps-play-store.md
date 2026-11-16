@@ -1,6 +1,6 @@
 ---
 title: "Ferramenta da Microsoft cria web apps para Play Store sem Android Studio"
-date: '2026-11-16T05:42:25+00:00'
+date: '2020-08-26T19:31:20+00:00'
 category: webclip
 summary: 'A Microsoft atualizou o PWABuilder para suportar o Bubblewrap, permitindo criar projetos TWA com node.js e sem precisar instalar o Android Studio SDK.'
 tags: ["pwabuilder", "bubblewrap", "progressive-web-apps", "android"]

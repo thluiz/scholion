@@ -1,6 +1,6 @@
 ---
 title: "How do you get over bad days?"
-date: '2026-11-16T07:52:23+00:00'
+date: '2020-08-26T19:31:16+00:00'
 category: webclip
 summary: 'The author says that after almost 8 months in the field, learning more only makes the list of things to know feel endless, and asks how to stay motivated on bad days and when feeling unprepared.'
 tags: ["motivation", "career-growth", "self-doubt"]

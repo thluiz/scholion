@@ -1,6 +1,6 @@
 ---
 title: "PWA: Create a New Update Available Notification using Service Workers"
-date: '2026-11-16T05:53:20+00:00'
+date: '2020-07-05T14:11:26+00:00'
 category: webclip
 summary: 'The post explains how to notify users when a cached PWA has a newer version, using service worker update checks, cache strategies, and an update-found hook while keeping fast offline-first loading.'
 tags: ["service-workers", "progressive-web-app", "cache-busting"]

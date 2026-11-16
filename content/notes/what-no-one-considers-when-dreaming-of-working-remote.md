@@ -1,6 +1,6 @@
 ---
 title: "What No One Considers When Dreaming of Working Remotely"
-date: '2026-11-16T00:56:12+00:00'
+date: '2020-02-22T12:12:01+00:00'
 category: webclip
 summary: 'The writer says remote work is still desirable, but it only works well when you protect your health, organize time in larger work blocks, rest, socialize, and keep a separate work area.'
 tags: ["remote-work", "work-life-balance", "health", "productivity"]

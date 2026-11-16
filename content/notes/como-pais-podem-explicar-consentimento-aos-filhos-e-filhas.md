@@ -1,6 +1,6 @@
 ---
 title: "Como pais podem explicar consentimento aos filhos e filhas? Listamos 31 sugestões práticas"
-date: '2026-11-16T03:42:56+00:00'
+date: '2020-07-05T14:10:34+00:00'
 category: webclip
 summary: 'O texto reúne 31 sugestões para conversar sobre consentimento com crianças, adolescentes e jovens, desde pedir permissão e respeitar o “não” até falar de sexo, festas, limites e segurança.'
 tags: ["consentimento", "educacao-parental", "relacoes-saudaveis", "sexualidade"]

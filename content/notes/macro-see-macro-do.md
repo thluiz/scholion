@@ -1,6 +1,6 @@
 ---
 title: "Macro See, Macro Do"
-date: '2026-11-16T01:42:59+00:00'
+date: '2020-07-05T14:11:27+00:00'
 category: webclip
 summary: 'The post shows how `quote/2` turns Elixir code into AST, how `use` calls `__using__/1`, and how Phoenix injects shared imports and aliases through macros.'
 tags: ["elixir", "macros", "abstract-syntax-tree"]

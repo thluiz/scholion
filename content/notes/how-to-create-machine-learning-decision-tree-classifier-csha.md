@@ -1,6 +1,6 @@
 ---
 title: "How to Create a Machine Learning Decision Tree Classifier Using C#"
-date: '2026-11-16T05:10:26+00:00'
+date: '2020-02-22T12:11:49+00:00'
 category: webclip
 summary: 'The article shows how to build a decision tree classifier from scratch in C# using Gini impurity, a list-based tree structure, and a small Iris dataset example in Visual Studio.'
 tags: ["csharp", "decision-tree", "machine-learning", "gini-impurity"]

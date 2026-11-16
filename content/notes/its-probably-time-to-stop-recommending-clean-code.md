@@ -1,6 +1,6 @@
 ---
 title: "It's probably time to stop recommending Clean Code"
-date: '2026-11-16T03:32:41+00:00'
+date: '2020-07-05T14:10:30+00:00'
 category: webclip
 summary: 'The essay argues that Clean Code mixes useful advice with dated or questionable prescriptions, and that its own code examples often undermine the rules the book promotes.'
 tags: ["clean-code", "software-design", "java", "code-quality"]

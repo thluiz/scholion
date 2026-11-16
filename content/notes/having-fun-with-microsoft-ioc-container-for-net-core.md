@@ -1,6 +1,6 @@
 ---
 title: "Having Fun with Microsoft IoC Container for .NET Core"
-date: '2026-11-16T01:56:38+00:00'
+date: '2020-08-26T19:31:11+00:00'
 category: webclip
 summary: 'The post shows how to set up Microsoft’s default DI container in a console app, register services, resolve them through a provider, and inspect how single and multiple implementations are handled.'
 tags: ["dependency-injection", "ioc-container", "dotnet-core", "service-provider"]

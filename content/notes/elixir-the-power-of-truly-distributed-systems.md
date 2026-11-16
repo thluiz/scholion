@@ -1,6 +1,6 @@
 ---
 title: "Elixir: The power of truly distributed systems"
-date: '2026-11-16T06:19:26+00:00'
+date: '2020-08-26T19:31:10+00:00'
 category: webclip
 summary: 'The text argues that Elixir fits a concurrent, process-based approach to scaling because it supports low-latency, fault-tolerant, distributed apps with simple supervision and visible runtime behavior.'
 tags: ["elixir", "distributed-systems", "concurrency", "scalability"]

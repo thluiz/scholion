@@ -1,6 +1,6 @@
 ---
 title: "Dev.to is the perfect demonstration of how content-based web apps should be developed"
-date: '2026-11-16T01:08:55+00:00'
+date: '2020-04-20T21:22:28+00:00'
 category: webclip
 summary: 'The post argues that Dev.to feels unusually fast because it serves server-rendered HTML and uses InstantClick to preload linked pages, making it a model for content-heavy web apps.'
 tags: ["dev.to", "server-rendered-html", "instantclick", "frontend-development"]

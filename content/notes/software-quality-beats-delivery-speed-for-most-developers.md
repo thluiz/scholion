@@ -1,6 +1,6 @@
 ---
 title: "Software quality beats delivery speed for most developers"
-date: '2026-11-16T05:29:21+00:00'
+date: '2020-07-05T14:10:39+00:00'
 category: webclip
 summary: 'A survey by OverOps says most respondents prefer delaying a roadmap over risking user-facing errors, while many still face production issues, fast release pressure, and time lost to troubleshooting.'
 tags: ["software-quality", "devops", "continuous-integration", "continuous-delivery"]

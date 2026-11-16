@@ -1,6 +1,6 @@
 ---
 title: "Planning my career development for 2020 - 6 months review"
-date: '2026-11-16T01:32:07+00:00'
+date: '2020-07-05T14:10:35+00:00'
 category: webclip
 summary: 'The author reviews six months of career goals, noting progress in functional programming and frontend work, little movement on architecture and talks, and the need for consistency to keep improving.'
 tags: ["career-development", "functional-programming", "frontend", "remote-work"]

@@ -1,6 +1,6 @@
 ---
 title: "If you’re not using SSH certificates you’re doing SSH wrong | Episode 2: Certificates improve usability, operability, & security"
-date: '2026-11-16T01:56:23+00:00'
+date: '2020-08-26T19:31:11+00:00'
 category: webclip
 summary: 'The post argues that SSH certificates remove TOFU warnings, support SSO, reduce key-management work, ease host-name reuse, and make SSH access expire automatically with auditable renewals.'
 tags: ["ssh-certificates", "certificate-authentication", "security", "operability"]

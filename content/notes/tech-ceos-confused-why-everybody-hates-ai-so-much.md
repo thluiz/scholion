@@ -1,6 +1,6 @@
 ---
 title: "Tech CEOs Confused by Why Everybody Hates AI So Much"
-date: '2026-11-16T04:51:11+00:00'
+date: '2026-02-26T10:46:09+00:00'
 category: webclip
 summary: 'The piece says tech elites are pushing AI while the public shows deep resistance. It cites survey data, low paid usage, and CEO complaints to argue that the backlash is broad, not just a loud minority.'
 tags: ["ai", "tech-elites", "public-backlash", "consumer-sentiment"]

@@ -1,6 +1,6 @@
 ---
 title: "5 Writing Books Every Technical Leader Should Read"
-date: '2026-11-16T00:47:27+00:00'
+date: '2020-02-22T12:11:48+00:00'
 category: webclip
 summary: 'The article argues that writing is a core leadership skill and recommends five books that help technical leaders write more clearly, serve readers, and improve nonfiction, style, and storytelling.'
 tags: ["writing", "leadership", "nonfiction", "communication"]

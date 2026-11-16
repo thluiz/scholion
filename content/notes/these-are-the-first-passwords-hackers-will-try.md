@@ -1,6 +1,6 @@
 ---
 title: "These are the first passwords hackers will try when attacking your device"
-date: '2026-11-16T02:16:55+00:00'
+date: '2020-04-20T21:22:44+00:00'
 category: webclip
 summary: 'F-Secure says attackers first probe exposed devices with weak or default credentials. The report ties this to IoT traffic, SMB and Telnet scans, and botnet recruitment through factory passwords.'
 tags: ["weak-passwords", "iot-security", "botnets", "cybersecurity"]

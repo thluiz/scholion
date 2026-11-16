@@ -1,6 +1,6 @@
 ---
 title: "Event sourcing: The single source of truth"
-date: '2026-11-16T02:38:52+00:00'
+date: '2020-02-22T12:11:52+00:00'
 category: webclip
 summary: 'The article contrasts CRUD with event sourcing, where data is built by appending events. It argues this makes history recoverable, synchronization easier, and the event store a single source of truth.'
 tags: ["event-sourcing", "crud", "data-synchronization", "single-source-of-truth"]

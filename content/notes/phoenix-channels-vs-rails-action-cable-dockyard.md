@@ -1,6 +1,6 @@
 ---
 title: "Phoenix Channels vs Rails Action Cable"
-date: '2026-11-16T02:55:54+00:00'
+date: '2016-08-25T21:25:32+00:00'
 category: webclip
 summary: 'The article compares Phoenix Channels and Rails Action Cable with chat-app benchmarks, reporting a Rails memory leak and slower broadcasts under load, while Phoenix keeps steady latency as traffic grows.'
 tags: ["phoenix-channels", "rails-action-cable", "benchmarking", "real-time"]

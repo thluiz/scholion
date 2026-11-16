@@ -1,6 +1,6 @@
 ---
 title: "Waking up early in the morning: How and Why?"
-date: '2026-11-16T01:53:48+00:00'
+date: '2020-08-26T19:31:10+00:00'
 category: webclip
 summary: 'The article argues that waking early gives more usable time, a sense of achievement, quiet for focus, and some health and mood benefits. It also lists habits for sleeping earlier and waking up at 4:30 a.m.'
 tags: ["waking-early", "sleep-habits", "morning-routine", "productivity"]

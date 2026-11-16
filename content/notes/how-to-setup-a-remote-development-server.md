@@ -1,6 +1,6 @@
 ---
 title: "How to setup a Remote Development Server"
-date: '2026-11-16T07:49:02+00:00'
+date: '2020-07-05T14:11:18+00:00'
 category: webclip
 summary: 'The article shows how to secure a remote development server on CentOS 8, limit access to SSH, disable IPv6, install fail2ban, and work through Vim or VS Code with port forwarding.'
 tags: ["remote-development", "ssh", "firewall", "port-forwarding"]

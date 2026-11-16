@@ -1,6 +1,6 @@
 ---
 title: "Why Distributed Systems Are Hard"
-date: '2026-11-16T04:36:58+00:00'
+date: '2020-08-26T19:31:15+00:00'
 category: webclip
 summary: 'Denise Yu traces how cloud, microservices, and growing data needs made distributed systems unavoidable, then explains latency, partial failures, CAP, and the human factors that shape resilient design.'
 tags: ["distributed-systems", "cap-theorem", "microservices", "human-factor"]

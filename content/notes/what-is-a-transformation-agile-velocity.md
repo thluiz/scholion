@@ -1,6 +1,6 @@
 ---
 title: "What Is a Transformation?"
-date: '2026-11-16T03:16:36+00:00'
+date: '2020-07-05T14:11:25+00:00'
 category: webclip
 summary: 'The page argues that “transformation” is used to mean different things in different parts of an organization, so alignment on the intended type, goals, and success metrics must come before any change work.'
 tags: ["transformation", "organizational-change", "agile"]

@@ -1,6 +1,6 @@
 ---
 title: "TypeScript is more than you think"
-date: '2026-11-16T01:53:05+00:00'
+date: '2020-04-20T21:22:46+00:00'
 category: webclip
 summary: 'The article treats TypeScript’s type system as a language on its own, with values, functions, conditions, loops, recursion, mapping, filtering, and string and tuple transformations.'
 tags: ["typescript", "type-system", "generics", "type-level-programming"]

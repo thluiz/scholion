@@ -1,6 +1,6 @@
 ---
 title: "2019: Year in Review"
-date: '2026-11-16T02:27:01+00:00'
+date: '2020-02-22T12:11:48+00:00'
 category: webclip
 summary: 'The author reviews 2019 for The Renegade Coder, listing personal milestones, favorite posts, project updates, traffic patterns, revenue, and tentative plans for 2020.'
 tags: ["year-in-review", "blog-metrics", "traffic", "revenue"]

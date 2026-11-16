@@ -1,6 +1,6 @@
 ---
 title: "The State Pattern Exemplified"
-date: '2026-11-16T07:48:47+00:00'
+date: '2020-08-26T19:31:29+00:00'
 category: webclip
 summary: 'The article explains the State Pattern as a way to encapsulate an object''s internal state, model finite state machines, and keep transition logic out of the context class, using a toaster implemented in TypeScript.'
 tags: ["state-pattern", "finite-state-machines", "typescript", "design-patterns"]

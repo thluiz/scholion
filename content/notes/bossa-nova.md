@@ -1,6 +1,6 @@
 ---
 title: "Bossa Nova"
-date: '2026-11-16T02:07:27+00:00'
+date: '2019-10-26T08:14:24+00:00'
 category: webclip
 summary: 'A bossa nova surgiu no fim dos anos 1950, refinou a música popular brasileira e uniu a batida de João Gilberto à sofisticação harmônica de Tom Jobim, com alcance internacional.'
 tags: ["bossa-nova", "musica-popular-brasileira", "jazz", "anos-1950"]

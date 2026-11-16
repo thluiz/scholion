@@ -1,6 +1,6 @@
 ---
 title: "How YOU can learn to extend Gatsby further by authoring Plugins"
-date: '2026-11-16T01:39:51+00:00'
+date: '2020-07-05T14:10:46+00:00'
 category: webclip
 summary: 'The article explains how Gatsby plugins extend the build process, then shows how to write a source plugin that fetches SWAPI data and a transformer plugin that turns CSV rows into queryable nodes.'
 tags: ["gatsby", "plugins", "source-plugin", "transformer-plugin"]

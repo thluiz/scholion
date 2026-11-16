@@ -1,6 +1,6 @@
 ---
 title: "Strong, Not Perfect: How I Overcome Perfectionism Paralysis"
-date: '2026-11-16T01:07:18+00:00'
+date: '2020-04-20T21:22:21+00:00'
 category: webclip
 summary: 'The author describes how perfectionism leads to decision paralysis and shows three ways she keeps moving: aim for strong, not perfect, define good enough, and improve in iterations.'
 tags: ["perfectionism", "decision-making", "iteration"]

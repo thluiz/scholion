@@ -1,6 +1,6 @@
 ---
 title: "The Third Age of JavaScript"
-date: '2026-11-16T04:01:41+00:00'
+date: '2020-07-05T14:10:42+00:00'
 category: webclip
 summary: 'The essay argues that JavaScript entered a third era around 2020, defined by ESM replacing CommonJS, collapsing tooling layers, and more core tools being written in systems languages for speed and safety.'
 tags: ["javascript", "esm", "tooling", "systems-languages"]

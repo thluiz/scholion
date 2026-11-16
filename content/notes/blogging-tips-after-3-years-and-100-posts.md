@@ -1,6 +1,6 @@
 ---
 title: "Blogging tips after 3 years and a 100+ posts"
-date: '2026-11-16T01:22:11+00:00'
+date: '2020-04-20T21:22:24+00:00'
 category: webclip
 summary: 'The post argues that blogging helps with career growth, learning, and visibility, and recommends consistency, advance drafts, idea tracking, owning a platform, and wide sharing.'
 tags: ["blogging", "content-creation", "writing", "career"]

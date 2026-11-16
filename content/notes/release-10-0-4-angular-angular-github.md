@@ -1,6 +1,6 @@
 ---
 title: "Release 10.0.4"
-date: '2026-11-16T05:41:42+00:00'
+date: '2020-08-26T19:31:20+00:00'
 category: webclip
 summary: 'GitHub release page for Angular 10.0.4 showing the tag, commit hash, and available source code assets.'
 tags: ["angular", "release", "github"]

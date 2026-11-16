@@ -1,6 +1,6 @@
 ---
 title: "Dark Mode on the Web"
-date: '2026-11-16T03:37:32+00:00'
+date: '2020-07-05T14:10:32+00:00'
 category: webclip
 summary: 'The page argues that dark mode is mainly an accessibility feature, then shows how to respect system preference, let users override it, avoid flash of default theme, and adapt media, code blocks, tweets, and embeds.'
 tags: ["dark-mode", "accessibility", "css", "react"]

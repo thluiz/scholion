@@ -1,6 +1,6 @@
 ---
 title: "Give it five minutes"
-date: '2026-11-16T03:18:53+00:00'
+date: '2020-07-05T14:11:28+00:00'
 category: webclip
 summary: 'The author argues that quick reactions can block understanding, and that ideas deserve time before being dismissed. Asking questions and letting ideas settle matters more than instant pushback.'
 tags: ["ideas", "decision-making", "listening"]

@@ -1,6 +1,6 @@
 ---
 title: "Joken: Elixir JWT library"
-date: '2026-11-16T03:06:03+00:00'
+date: '2020-05-13T11:36:48+00:00'
 category: webclip
 summary: 'Joken is a JSON Web Token library for Elixir. The page points to documentation on configuration, signers, asymmetric cryptography, testing, common use cases, migration, and custom header arguments.'
 tags: ["elixir", "jwt", "json-web-token", "authentication"]

@@ -1,6 +1,6 @@
 ---
 title: "10 Essential Debugging Tools for C# .NET Development"
-date: '2026-11-16T04:29:23+00:00'
+date: '2020-04-20T21:22:42+00:00'
 category: webclip
 summary: 'The page lists essential tools for debugging .NET problems, from interactive debugging to profiling, memory analysis, crash dumps, and network inspection, and explains what each one is best for.'
 tags: ["dotnet-debugging", "visual-studio", "profiling", "network-debugging"]

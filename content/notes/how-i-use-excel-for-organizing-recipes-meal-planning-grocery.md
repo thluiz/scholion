@@ -1,6 +1,6 @@
 ---
 title: "How I use Excel for organizing recipes, meal planning, food inventory and grocery lists"
-date: '2026-11-16T03:31:22+00:00'
+date: '2020-04-20T21:22:25+00:00'
 category: webclip
 summary: 'The post describes spreadsheet templates for favorite recipes, monthly meal planning, food inventory, grocery lists, and price comparison, plus ways to use them in Excel, Google Sheets, and Numbers.'
 tags: ["excel", "meal-planning", "grocery-lists", "food-inventory"]

@@ -1,6 +1,6 @@
 ---
 title: "Design an easy to use and flexible REST API"
-date: '2026-11-16T00:58:44+00:00'
+date: '2020-02-22T12:12:02+00:00'
 category: webclip
 summary: 'The article argues that a good REST API starts with an atomic database schema, then maps cleanly to URLs, while separate routes and history tables keep responses flexible and easier to maintain.'
 tags: ["rest-api", "database-design", "odata", "graphql"]

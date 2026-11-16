@@ -1,6 +1,6 @@
 ---
 title: "Automate Your Elixir Deployments - Part 2 - Distillery & eDeliver"
-date: '2026-11-16T04:04:15+00:00'
+date: '2020-07-05T14:11:15+00:00'
 category: webclip
 summary: 'The post explains how to build an Elixir release with Distillery and deploy it to production with eDeliver, covering dependencies, production config, release setup, build, and deploy commands.'
 tags: ["elixir", "distillery", "edeliver", "deployment"]

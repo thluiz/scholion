@@ -1,6 +1,6 @@
 ---
 title: "Revolutionary Evolution"
-date: '2026-11-16T04:40:15+00:00'
+date: '2020-08-26T19:31:19+00:00'
 category: webclip
 summary: 'The article argues that changing a team’s coding habits requires building a coalition, not acting alone. The author describes mentoring junior engineers, running weekly lectures, and using code reviews to shift a 30-person Java team.'
 tags: ["software-architecture", "team-dynamics", "mentoring", "oop"]

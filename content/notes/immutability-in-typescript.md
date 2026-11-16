@@ -1,6 +1,6 @@
 ---
 title: "Immutability in TypeScript"
-date: '2026-11-16T05:50:14+00:00'
+date: '2020-02-22T12:11:44+00:00'
 category: webclip
 summary: 'The post argues that readonly properties and private constructors help enforce immutability in TypeScript, and that builders plus immutable data structures solve copying and mutation issues.'
 tags: ["typescript", "immutability", "builders", "immutable-data-structures"]

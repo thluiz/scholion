@@ -1,6 +1,6 @@
 ---
 title: "A visual guide to React mental models"
-date: '2026-11-16T03:15:07+00:00'
+date: '2020-07-05T14:11:24+00:00'
 category: webclip
 summary: 'The article argues that React becomes easier to work with when you model components as boxes, props as arguments, closures as scoped access, and state as the part that persists across renders.'
 tags: ["react", "mental-models", "javascript", "closures"]

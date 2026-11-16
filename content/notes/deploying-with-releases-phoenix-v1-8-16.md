@@ -1,6 +1,6 @@
 ---
 title: "Deploying with Releases — Phoenix v1.8.16"
-date: '2026-11-16T03:51:52+00:00'
+date: '2020-07-05T14:10:39+00:00'
 category: webclip
 summary: 'Explains how to package a Phoenix app as a self-contained release, run migrations and custom commands from the release, build Docker images, and configure clustering.'
 tags: ["phoenix", "elixir-releases", "docker", "clustering"]

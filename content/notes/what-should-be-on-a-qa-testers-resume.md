@@ -1,6 +1,6 @@
 ---
 title: "What should be on a QA tester’s résumé?"
-date: '2026-11-16T04:28:50+00:00'
+date: '2020-04-20T21:22:38+00:00'
 category: webclip
 summary: 'The page advises QA testers to tailor each résumé to the employer, use keywords, keep the format simple, limit experience to what is relevant, and proofread carefully for typos.'
 tags: ["qa-resume", "job-search", "keywords", "proofreading"]

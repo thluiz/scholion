@@ -1,6 +1,6 @@
 ---
 title: "O que não te contam sobre trabalho remoto"
-date: '2026-11-16T06:20:10+00:00'
+date: '2020-08-26T19:31:16+00:00'
 category: webclip
 summary: 'O texto aponta custos e dificuldades do trabalho remoto, como ruído e silos de comunicação, falta de visibilidade de problemas, necessidade de estrutura em casa e perda do contato presencial.'
 tags: ["trabalho-remoto", "comunicacao", "home-office", "equipes-distribuidas"]

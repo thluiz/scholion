@@ -1,6 +1,6 @@
 ---
 title: "Show, Don't Tell: A Story of Management"
-date: '2026-11-16T00:53:13+00:00'
+date: '2020-02-22T12:12:00+00:00'
 category: webclip
 summary: 'The piece argues that a team member’s mismatch between words and actions often reflects company culture, and that making work visible, involving the team in planning, and holding one-on-ones can improve delivery.'
 tags: ["management", "team-culture", "planning", "leadership"]

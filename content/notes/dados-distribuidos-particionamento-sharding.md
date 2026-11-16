@@ -1,6 +1,6 @@
 ---
 title: "Dados distribuídos — Particionamento/Sharding"
-date: '2026-11-16T02:01:52+00:00'
+date: '2020-08-26T19:31:16+00:00'
 category: webclip
 summary: 'A página explica como particionamento e sharding ajudam a escalar bancos de dados, mostra por que estratégias ingênuas geram hot spots e resume os custos de joins e índices secundários distribuídos.'
 tags: ["particionamento", "sharding", "hot-spots", "indices-secundarios"]

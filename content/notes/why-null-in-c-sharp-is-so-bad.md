@@ -1,6 +1,6 @@
 ---
 title: "Why null in C# is so bad"
-date: '2026-11-16T01:42:28+00:00'
+date: '2020-07-05T14:11:27+00:00'
 category: webclip
 summary: 'The article argues that null breaks language assumptions, forces defensive branching, and causes bugs and NullReferenceException. It recommends nullable reference checks in C# 8.0 for new projects.'
 tags: ["csharp", "null", "nullable-reference-types"]

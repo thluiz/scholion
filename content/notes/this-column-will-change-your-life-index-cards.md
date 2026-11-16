@@ -1,6 +1,6 @@
 ---
 title: "This column will change your life"
-date: '2026-11-16T02:45:04+00:00'
+date: '2020-02-22T12:11:58+00:00'
 category: webclip
 summary: 'The column argues that index cards are powerful because they make it easy to capture ideas and rearrange them later, helping thoughts form structure. It also links this to emergence in writing and research.'
 tags: ["index-cards", "lifehacking", "information-organization"]

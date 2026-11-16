@@ -1,6 +1,6 @@
 ---
 title: "SVG Based Circular Timer Plugin For jQuery - Circle Timer"
-date: '2026-11-16T03:33:44+00:00'
+date: '2020-07-05T14:10:31+00:00'
 category: webclip
 summary: 'Circle Timer is a lightweight jQuery plugin for creating an SVG-based circular countdown timer, with start, pause, stop, onComplete, and onUpdate callbacks.'
 tags: ["jquery-plugin", "countdown-timer", "svg"]

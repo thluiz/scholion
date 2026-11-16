@@ -1,6 +1,6 @@
 ---
 title: "React Firebase App Complete Tutorial - Upload and Download Images From Firestore"
-date: '2026-11-16T01:32:49+00:00'
+date: '2020-07-05T14:10:38+00:00'
 category: webclip
 summary: 'The video shows how to build a photo album app where users can upload images to albums, with the first image used as the album thumbnail, using Firebase Storage and Firestore.'
 tags: ["react", "firebase", "image-gallery"]

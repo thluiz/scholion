@@ -1,6 +1,6 @@
 ---
 title: "Top Tips for Working From Home"
-date: '2026-11-16T01:50:32+00:00'
+date: '2020-04-20T21:22:38+00:00'
 category: webclip
 summary: 'The post collects practical ways to set boundaries, keep healthy routines, stay socially connected, and shape a workspace that makes remote work easier and more comfortable.'
 tags: ["working-from-home", "remote-work", "productivity", "home-office"]

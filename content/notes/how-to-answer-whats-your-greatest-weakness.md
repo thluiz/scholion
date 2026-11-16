@@ -1,6 +1,6 @@
 ---
 title: "How To Answer 'What's Your Greatest Weakness?'"
-date: '2026-11-16T05:24:02+00:00'
+date: '2016-06-20T19:45:10+00:00'
 category: webclip
 summary: 'The article argues that the weakness question is rude, intrusive, and based on a faulty view of people, then offers five nontraditional answers that push back and shift the power balance in interviews.'
 tags: ["job-interviews", "recruiting", "career-advice"]

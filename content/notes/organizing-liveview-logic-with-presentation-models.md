@@ -1,6 +1,6 @@
 ---
 title: "Organizing LiveView Logic with Presentation Models"
-date: '2026-11-16T03:01:56+00:00'
+date: '2020-07-05T14:10:31+00:00'
 category: webclip
 summary: 'The post argues that a LiveView can keep presentation state and interaction logic in a separate Presentation Model, making the view thinner and the behavior easier to test with plain values.'
 tags: ["phoenix-liveview", "presentation-model", "testing"]

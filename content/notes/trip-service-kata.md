@@ -1,6 +1,6 @@
 ---
 title: "TripService kata"
-date: '2026-11-16T03:08:20+00:00'
+date: '2020-07-05T14:11:19+00:00'
 category: webclip
 summary: 'A legacy-code exercise where the goal is to write tests for TripService, reach full coverage, and then refactor the code so it clearly expresses the business rules.'
 tags: ["legacy-code", "testing", "refactoring"]

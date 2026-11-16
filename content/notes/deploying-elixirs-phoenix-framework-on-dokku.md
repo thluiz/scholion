@@ -1,6 +1,6 @@
 ---
 title: "Deploying Elixir's Phoenix Framework on Dokku"
-date: '2026-11-16T03:04:16+00:00'
+date: '2020-04-19T12:13:51+00:00'
 category: webclip
 summary: 'This gist lays out the Dokku setup for a Phoenix app: create the app, enable multiple buildpacks, set locale, secret key, host, and database config, then commit and push.'
 tags: ["phoenix", "dokku", "elixir", "deployment"]

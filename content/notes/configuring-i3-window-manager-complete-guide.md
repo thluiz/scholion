@@ -1,6 +1,6 @@
 ---
 title: "Configuring i3 Window Manager: a Complete Guide"
-date: '2026-11-16T04:29:35+00:00'
+date: '2020-04-20T21:22:42+00:00'
 category: webclip
 summary: 'The article presents i3 as a light, flexible window manager for Linux, shows its tree-based layout model, and walks through key config changes for shortcuts, workspaces, floating windows, the bar, locking, and screen setup.'
 tags: ["i3", "linux", "window-manager", "configuration"]

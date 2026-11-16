@@ -1,6 +1,6 @@
 ---
 title: "36 Payment and credit card icons"
-date: '2026-11-16T03:09:11+00:00'
+date: '2020-07-05T14:11:20+00:00'
 category: webclip
 summary: 'A free set of 36 vector payment and credit card icons for e-commerce sites and apps, including card brands, payment providers, and crypto payment symbols. Available for Adobe Illustrator and XD.'
 tags: ["payment-icons", "credit-card-icons", "e-commerce", "adobe-illustrator"]

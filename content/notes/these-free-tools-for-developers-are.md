@@ -1,6 +1,6 @@
 ---
 title: "These free tools for developers are 🔥🔥🔥"
-date: '2026-11-16T01:35:03+00:00'
+date: '2020-07-05T14:10:41+00:00'
 category: webclip
 summary: 'A subjective list of free tools the author uses for side projects, grouped into hosting, automation, no-code, and SEO or promotion tools, with short notes on what each one does.'
 tags: ["developer-tools", "hosting", "automation", "no-code"]

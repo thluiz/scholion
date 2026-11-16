@@ -1,6 +1,6 @@
 ---
 title: "Starting a streaming journey!"
-date: '2026-11-16T01:27:08+00:00'
+date: '2020-07-05T14:10:32+00:00'
 category: webclip
 summary: 'The author argues that streaming can fit alongside making demos, since it lets others see the process, ask questions, and reach the final result with you. The post also covers practical setup choices and hardware.'
 tags: ["streaming", "obs", "live-coding", "hardware"]

@@ -1,6 +1,6 @@
 ---
 title: "Moleskine Hipster PDA Case-004"
-date: '2026-11-16T02:44:36+00:00'
+date: '2020-02-22T12:11:58+00:00'
 category: webclip
 summary: 'A public Flickr photo, taken on April 13, 2008 and uploaded on August 15, 2008, showing an image titled “Moleskine Hipster PDA Case-004” with camera and EXIF details.'
 tags: ["flickr", "photo", "exif"]

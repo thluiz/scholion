@@ -1,6 +1,6 @@
 ---
 title: "Generating Mazes in a Browser"
-date: '2026-11-16T02:27:44+00:00'
+date: '2020-02-22T12:11:48+00:00'
 category: webclip
 summary: 'The post describes moving a maze generator from a console app to a browser-based .NET Core version, so it works better across platforms and lets users choose maze size, color, and algorithm.'
 tags: ["dotnet-core", "browser-based-app", "maze-generation"]

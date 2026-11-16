@@ -1,6 +1,6 @@
 ---
 title: "My 2019 Personal Tech stack for Web Development"
-date: '2026-11-16T00:58:28+00:00'
+date: '2020-02-22T12:12:02+00:00'
 category: webclip
 summary: 'The author outlines a personal web-development stack centered on PHP, Symfony, and Go, with Vue on the frontend, plus tools for data, infrastructure, deployment, monitoring, and day-to-day development.'
 tags: ["web-development", "tech-stack", "backend", "infrastructure"]

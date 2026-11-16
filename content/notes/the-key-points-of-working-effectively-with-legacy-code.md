@@ -1,6 +1,6 @@
 ---
 title: "The key points of Working Effectively with Legacy Code - Change Messy Software Without Breaking It"
-date: '2026-11-16T03:09:23+00:00'
+date: '2020-07-05T14:11:20+00:00'
 category: webclip
 summary: 'The book argues that the safest way to change legacy code is to add fast automated tests first, then refactor. It introduces seams, characterization tests, and Sprout/Wrap techniques for risky code.'
 tags: ["legacy-code", "testing", "refactoring", "seams"]

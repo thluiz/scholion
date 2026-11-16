@@ -1,6 +1,6 @@
 ---
 title: "There Are No Bugs, Just TODOs"
-date: '2026-11-16T03:49:06+00:00'
+date: '2020-07-05T14:10:38+00:00'
 category: webclip
 summary: 'The essay argues that issue trackers should stay minimal, with single ownership, one ordered queue, simple states, and aggressive closing. It rejects absolute priority, ticket type, version, and severity fields as sources of confusion.'
 tags: ["issue-tracking", "kanban", "project-management"]

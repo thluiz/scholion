@@ -1,6 +1,6 @@
 ---
 title: "Object-Relational Mapping is the Vietnam of Computer Science"
-date: '2026-11-16T02:41:03+00:00'
+date: '2020-02-22T12:11:52+00:00'
 category: webclip
 summary: 'Jeff Atwood agrees with Ted Neward that ORM has no clean solution. Every workaround involves painful trade-offs, and the costs often show up only later in development.'
 tags: ["orm", "object-relational-mapping", "databases", "software-design"]

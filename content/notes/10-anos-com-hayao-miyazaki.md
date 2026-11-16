@@ -1,6 +1,6 @@
 ---
 title: "10 anos com Hayao Miyazaki"
-date: '2026-11-16T08:16:55+00:00'
+date: '2020-08-26T19:31:12+00:00'
 category: webclip
 summary: 'Documentário em quatro partes sobre o processo criativo de Hayao Miyazaki, apresentado como artesão apaixonado, inovador corajoso e pai em confronto com o filho.'
 tags: ["documentario", "anime", "film", "manga"]

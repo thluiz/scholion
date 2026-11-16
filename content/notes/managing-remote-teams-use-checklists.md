@@ -1,6 +1,6 @@
 ---
 title: "Managing Remote Teams — Use Checklists"
-date: '2026-11-16T06:16:58+00:00'
+date: '2020-04-20T21:22:33+00:00'
 category: webclip
 summary: 'The piece argues that remote teams need checklists to carry norms and procedures across distance. It uses handwashing studies and software examples to show that short checklists change behavior and reduce errors.'
 tags: ["remote-teams", "checklists", "software-development", "cicd"]

@@ -1,6 +1,6 @@
 ---
 title: "Use Blazor and C# to host a static website in Azure Storage"
-date: '2026-11-16T00:29:33+00:00'
+date: '2020-04-20T21:22:44+00:00'
 category: webclip
 summary: 'The post walks through creating a Blazor WebAssembly app, publishing its dist folder, enabling Azure Storage static website hosting, and uploading the files to the $web container to serve the site.'
 tags: ["blazor", "azure-storage", "static-website", "c-sharp"]

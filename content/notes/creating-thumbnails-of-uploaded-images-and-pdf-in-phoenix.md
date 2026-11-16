@@ -1,6 +1,6 @@
 ---
 title: "Creating Thumbnails of uploaded Images and PDF in Phoenix"
-date: '2026-11-16T04:16:09+00:00'
+date: '2020-07-05T14:11:27+00:00'
 category: webclip
 summary: 'The article adds thumbnail generation to a Phoenix upload app, using ImageMagick and Mogrify for images and System.cmd with convert for PDFs, then stores and serves the thumbnails through a new route.'
 tags: ["phoenix", "imagemagick", "mogrify", "pdf"]

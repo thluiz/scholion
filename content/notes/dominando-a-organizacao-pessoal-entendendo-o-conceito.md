@@ -1,6 +1,6 @@
 ---
 title: "Dominando a Organização Pessoal: Entendendo o conceito"
-date: '2026-11-16T01:21:03+00:00'
+date: '2020-04-20T21:22:29+00:00'
 category: webclip
 summary: 'O texto relaciona organização pessoal com redução de ansiedade, aumento de eficiência e disciplina. Também liga o tema à limitação da atenção e recomenda definir tarefas com clareza.'
 tags: ["organizacao-pessoal", "disciplina", "produtividade", "ansiedade"]

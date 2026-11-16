@@ -1,6 +1,6 @@
 ---
 title: "Our journey to F#: bye-bye fluent syntax"
-date: '2026-11-16T04:38:43+00:00'
+date: '2020-08-26T19:31:16+00:00'
 category: webclip
 summary: 'The post replaces a C#-style fluent builder with an F# design based on discriminated unions and an execute function, so shared logging, error handling, and rollback live in one place.'
 tags: ["f-sharp", "discriminated-unions", "builder-pattern", "error-handling"]

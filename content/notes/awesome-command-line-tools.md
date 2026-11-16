@@ -1,6 +1,6 @@
 ---
 title: "Awesome Command-Line Tools"
-date: '2026-11-16T00:52:59+00:00'
+date: '2020-02-22T12:12:00+00:00'
 category: webclip
 summary: 'The page recommends CLI tools for common shell tasks: quick usage lookups, directory jumping, prettier diffs, syntax-highlighted file viewing, faster search, colorful listing, and fuzzy finding.'
 tags: ["cli-tools", "shell", "fuzzy-search"]

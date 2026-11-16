@@ -1,6 +1,6 @@
 ---
 title: "Complete Guide To Hosting Wordpress On Heroku With SSL Certification"
-date: '2026-11-16T01:36:21+00:00'
+date: '2020-07-05T14:10:41+00:00'
 category: webclip
 summary: 'The guide explains how to move a self-hosted WordPress site to Heroku, connect a custom domain through Cloudflare, handle HTTPS, manage updates and plugins, and avoid sleep on the free plan.'
 tags: ["wordpress", "heroku", "cloudflare", "ssl"]

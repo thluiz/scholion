@@ -1,6 +1,6 @@
 ---
 title: "List of the side project ideas"
-date: '2026-11-16T01:14:35+00:00'
+date: '2020-07-05T14:11:20+00:00'
 category: webclip
 summary: 'A list of side project ideas for building a portfolio, preparing for a real job, and improving coding skills, ranging from virtual tours and bots to finance, storage, and protocol tools.'
 tags: ["side-projects", "portfolio", "coding-skills"]

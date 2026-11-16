@@ -1,6 +1,6 @@
 ---
 title: "Building a Ride Sharing App with Elixir and Phoenix Channels — Part 1"
-date: '2026-11-16T06:07:47+00:00'
+date: '2020-07-05T14:10:40+00:00'
 category: webclip
 summary: 'The post introduces a tutorial for a simple ride-sharing prototype in Elixir and Phoenix, centered on real-time channels, presence, driver check-in, rider requests, and live map positions.'
 tags: ["elixir", "phoenix-channels", "real-time", "ride-sharing"]

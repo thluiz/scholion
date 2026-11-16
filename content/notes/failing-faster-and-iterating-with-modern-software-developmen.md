@@ -1,6 +1,6 @@
 ---
 title: "Failing Faster and Iterating with Modern Software Development Practices"
-date: '2026-11-16T07:50:44+00:00'
+date: '2020-07-05T14:10:41+00:00'
 category: webclip
 summary: 'The post explains how version control, automated testing, CI, CD, linting, feature flags, monitoring, and containers help teams catch problems sooner and ship smaller, safer changes.'
 tags: ["software-development", "continuous-integration", "testing", "devops"]

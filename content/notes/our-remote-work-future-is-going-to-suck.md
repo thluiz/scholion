@@ -1,6 +1,6 @@
 ---
 title: "Our remote work future is going to suck"
-date: '2026-11-16T04:36:40+00:00'
+date: '2020-08-26T19:31:15+00:00'
 category: webclip
 summary: 'The essay argues that remote work can lower wages, hide individual contributions, weaken mentorship, and make large companies less adaptable, while localism and flexible in-person work better serve workers.'
 tags: ["remote-work", "knowledge-workers", "career-growth", "localism"]

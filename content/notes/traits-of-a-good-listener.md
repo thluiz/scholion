@@ -1,6 +1,6 @@
 ---
 title: "The Traits of a Good Listener"
-date: '2026-11-16T03:22:26+00:00'
+date: '2016-05-20T17:19:03+00:00'
 category: webclip
 summary: 'The article says good listening goes beyond silence and nodding. It highlights four traits: encouraging more detail, urging clarification, avoiding moralizing, and separating disagreement from criticism.'
 tags: ["listening-skills", "communication", "self-improvement"]

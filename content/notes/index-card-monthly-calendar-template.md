@@ -1,6 +1,6 @@
 ---
 title: "This free template lets you create printable monthly index-card calendars"
-date: '2026-11-16T02:44:15+00:00'
+date: '2020-02-22T12:11:53+00:00'
 category: webclip
 summary: 'This template creates printable monthly calendars for 3 x 5 and 4 x 6 index cards in Adobe PDF format. It includes settings for start day, language, holidays, schedule, event styles, and paper size.'
 tags: ["monthly-calendar", "index-cards", "printable-template"]

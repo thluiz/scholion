@@ -1,6 +1,6 @@
 ---
 title: "How To Use LocalStorage to Store Data in the Browser"
-date: '2026-11-16T05:48:29+00:00'
+date: '2020-02-22T12:11:43+00:00'
 category: webclip
 summary: 'The page explains that localStorage stores temporary user-specific browser data as strings, keyed by name, without expiration, and can be shared across apps on the same domain.'
 tags: ["localstorage", "browser-storage", "javascript"]

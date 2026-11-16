@@ -1,6 +1,6 @@
 ---
 title: "Project Management News, Research, and Analysis | Toptal"
-date: '2026-11-16T05:59:25+00:00'
+date: '2020-07-05T14:11:25+00:00'
 category: webclip
 summary: 'Marco De Stefano is a verified Toptal project management expert. He moved from software development to scrum master and Agile project manager roles, and now also works as an Agile coach.'
 tags: ["project-management", "agile-project-management", "scrum-master", "kanban"]

@@ -1,6 +1,6 @@
 ---
 title: "5 Important Soft Skills for Remote Developers"
-date: '2026-11-16T00:50:04+00:00'
+date: '2020-02-22T12:11:53+00:00'
 category: webclip
 summary: 'The article argues that soft skills matter as much as technical skill for remote developers, especially for promotion, leadership, communication, collaboration, and handling feedback.'
 tags: ["soft-skills", "remote-work", "software-development"]

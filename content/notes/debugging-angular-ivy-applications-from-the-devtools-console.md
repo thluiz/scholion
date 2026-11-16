@@ -1,6 +1,6 @@
 ---
 title: "Debugging Angular Ivy Applications from the Devtools Console"
-date: '2026-11-16T00:57:25+00:00'
+date: '2020-02-22T12:12:01+00:00'
 category: webclip
 summary: 'The post shows how Ivy exposes new `ng` APIs in the browser console, letting you grab a selected component with `ng.getComponent($0)`, call its methods, and mark it dirty for change detection.'
 tags: ["angular", "ivy", "devtools-console"]

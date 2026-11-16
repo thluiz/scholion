@@ -1,6 +1,6 @@
 ---
 title: "Untangle Spaghetti Code with Context Objects"
-date: '2026-11-16T07:59:55+00:00'
+date: '2020-02-22T12:11:49+00:00'
 category: webclip
 summary: 'The article argues that context objects can reduce parameter explosion in spaghetti code, localize changes, and cut merge conflicts, while warning against turning them into oversized objects with application logic.'
 tags: ["spaghetti-code", "context-objects", "parameter-explosion", "maintainability"]

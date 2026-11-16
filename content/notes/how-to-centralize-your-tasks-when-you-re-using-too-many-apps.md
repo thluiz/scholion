@@ -1,6 +1,6 @@
 ---
 title: "How to Centralize Your Tasks When You’re Using Too Many Apps"
-date: '2026-11-16T03:56:04+00:00'
+date: '2020-07-05T14:10:41+00:00'
 category: webclip
 summary: 'The page points to articles about productivity, nonprofit burnout, and team structure, with Todoist framed as a tool for keeping work visible, shared, and organized.'
 tags: ["productivity", "todoist", "teams"]

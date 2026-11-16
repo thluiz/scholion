@@ -1,6 +1,6 @@
 ---
 title: "The best way to hold a remote one-on-one meeting"
-date: '2026-11-16T05:35:02+00:00'
+date: '2020-07-05T14:11:16+00:00'
 category: webclip
 summary: 'The article argues that remote one-on-ones matter more than logistics. It recommends more time for rapport, attentive body language, skipping status updates, surfacing issues, and keeping the meeting consistent.'
 tags: ["remote-work", "one-on-one-meetings", "management", "team-performance"]

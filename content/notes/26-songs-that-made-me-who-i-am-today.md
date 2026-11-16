@@ -1,6 +1,6 @@
 ---
 title: "26 Songs That Made Me Who I Am Today"
-date: '2026-11-16T02:21:16+00:00'
+date: '2020-02-22T12:11:42+00:00'
 category: webclip
 summary: 'On his 26th birthday, the author lists 26 songs that shaped his life, linking each one to specific periods, relationships, travel, performance, and musical tastes.'
 tags: ["music", "personal-list", "songs", "pop-punk"]

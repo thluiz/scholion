@@ -1,6 +1,6 @@
 ---
 title: "Companies Don’t Need to Lay People Off to Survive"
-date: '2026-11-16T05:48:03+00:00'
+date: '2020-04-20T21:22:28+00:00'
 category: webclip
 summary: 'Bob Chapman avoided layoffs during the 2008 crisis by finding a third option that kept Barry-Wehmiller alive. The company came out of the recession stronger, with its workforce intact and energized.'
 tags: ["layoffs", "recession", "leadership"]

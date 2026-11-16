@@ -1,6 +1,6 @@
 ---
 title: "Death by Interfaces?"
-date: '2026-11-16T07:57:20+00:00'
+date: '2020-02-22T12:11:45+00:00'
 category: webclip
 summary: 'The post argues that interfaces can add navigation friction, hide runtime specifics, and make maintenance harder. It also warns that large interfaces often violate ISP and suggests base classes can be a better fit in some cases.'
 tags: ["interfaces", "software-maintenance", "solid", "inheritance"]

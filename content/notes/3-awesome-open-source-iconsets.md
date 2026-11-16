@@ -1,6 +1,6 @@
 ---
 title: "3 awesome open-source iconsets! 🧰"
-date: '2026-11-16T00:59:54+00:00'
+date: '2020-08-26T19:31:13+00:00'
 category: webclip
 summary: 'The post lists three open-source icon sets the author likes, highlighting CSS.gg, FontAwesome, and Heroicons for their style, scale, and practical use in design work.'
 tags: ["open-source-icons", "css-gg", "fontawesome", "heroicons"]

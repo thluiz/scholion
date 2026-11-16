@@ -1,6 +1,6 @@
 ---
 title: "Reasons to step into a leadership role (and the reasons not to)"
-date: '2026-11-16T04:33:12+00:00'
+date: '2020-08-26T19:31:12+00:00'
 category: webclip
 summary: 'The article argues that leadership works best when the motivation is impact, growth, team development, and influence, not money, power, fame, peer pressure, escape, or pride.'
 tags: ["leadership", "engineering-management", "team-growth", "management"]

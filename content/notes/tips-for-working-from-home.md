@@ -1,6 +1,6 @@
 ---
 title: "Tips for Working from Home"
-date: '2026-11-16T01:20:48+00:00'
+date: '2020-07-05T14:11:29+00:00'
 category: webclip
 summary: 'The article shares remote-work habits that helped the author over 10 years: setting up a dedicated workspace, protecting focus time, caring for health, keeping routines, and separating work from family life.'
 tags: ["remote-work", "work-from-home", "productivity", "work-life-balance"]

@@ -1,6 +1,6 @@
 ---
 title: "The BEAM has Spoiled Me"
-date: '2026-11-16T02:12:09+00:00'
+date: '2020-08-26T19:31:14+00:00'
 category: webclip
 summary: 'Greg Vaughn says BEAM-style fault tolerance reduced his fear of crashes, made processes and idempotency part of his default Elixir practice, and led him to think in systems rather than web apps.'
 tags: ["beam", "elixir", "fault-tolerance", "distributed-systems"]

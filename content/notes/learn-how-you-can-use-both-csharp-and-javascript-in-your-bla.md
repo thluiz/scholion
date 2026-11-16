@@ -1,6 +1,6 @@
 ---
 title: "Learn how YOU can use both C# and JavaScript in your Blazor app with the JavaScript interop"
-date: '2026-11-16T00:59:08+00:00'
+date: '2020-02-22T12:12:02+00:00'
 category: webclip
 summary: 'Explains how Blazor uses JavaScript interop through IJSRuntime to call JavaScript from C#, pass primitive and array parameters, and wrap NPM code in a bundle for use in a Blazor app.'
 tags: ["blazor", "javascript-interop", "ijsruntime", "npm"]

@@ -1,6 +1,6 @@
 ---
 title: "Multiplayer games room with F#, SignalR, Akka.Net and SAFE stack"
-date: '2026-11-16T03:41:38+00:00'
+date: '2020-07-05T14:10:33+00:00'
 category: webclip
 summary: 'The author describes building a multiplayer games room with SAFE stack, using F# with SignalR for client-server communication and Akka.Net for a stateful game server.'
 tags: ["fsharp", "signalr", "akka-net", "safe-stack"]

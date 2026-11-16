@@ -1,6 +1,6 @@
 ---
 title: "Como superar a cobrança por experiências que não tive? Mentoria #66"
-date: '2026-11-16T05:03:06+00:00'
+date: '2020-02-22T12:11:42+00:00'
 category: webclip
 summary: 'Clay, 20 anos, relata insegurança por ter vivido pouco na adolescência e por sentir que lhe cobram experiências e desempenho que não teve. Ele pede ajuda para lidar com isso e viver melhor a própria juventude.'
 tags: ["inseguranca", "relacionamentos", "juventude"]

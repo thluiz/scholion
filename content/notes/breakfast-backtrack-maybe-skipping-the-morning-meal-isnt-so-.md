@@ -1,6 +1,6 @@
 ---
 title: "Breakfast Backtrack: Maybe Skipping the Morning Meal Isn't So Bad"
-date: '2026-11-16T03:21:51+00:00'
+date: '2016-05-13T20:22:18+00:00'
 category: webclip
 summary: 'The piece questions the idea that breakfast is always the most important meal, cites mixed evidence on weight, and argues that a protein-rich breakfast may matter more than eating early.'
 tags: ["breakfast", "nutrition", "weight-loss", "protein"]

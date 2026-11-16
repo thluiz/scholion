@@ -1,6 +1,6 @@
 ---
 title: "How you can monetize your app idea"
-date: '2026-11-16T01:25:24+00:00'
+date: '2020-07-05T14:10:31+00:00'
 category: webclip
 summary: 'The page says app monetization should be planned before engineering, then compares major revenue models: ads, freemium, paid downloads, in-app purchases, sponsorship, white label, and mixed strategies.'
 tags: ["app-monetization", "freemium", "in-app-purchases", "advertising"]

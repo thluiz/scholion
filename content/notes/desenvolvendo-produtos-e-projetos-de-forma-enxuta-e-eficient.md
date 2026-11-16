@@ -1,6 +1,6 @@
 ---
 title: "Desenvolvendo produtos e projetos de forma enxuta e eficiente"
-date: '2026-11-16T02:58:27+00:00'
+date: '2016-09-27T13:41:33+00:00'
 category: webclip
 summary: 'A palestra retoma o Lean Startup e a ideia de Build, Measure, Learn para discutir MVP e a pergunta prática que fica para times de software: o que construir para começar projetos de forma enxuta.'
 tags: ["lean-startup", "mvp", "desenvolvimento-de-software"]

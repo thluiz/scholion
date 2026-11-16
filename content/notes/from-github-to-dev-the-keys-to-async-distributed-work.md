@@ -1,6 +1,6 @@
 ---
 title: "From GitHub to DEV: The keys to async/distributed work"
-date: '2026-11-16T01:38:01+00:00'
+date: '2020-07-05T14:10:45+00:00'
 category: webclip
 summary: 'The post points to the second DevDiscuss episode, featuring Sophie Alpert from GitHub and a DEV team member, and frames async, distributed work as a topic that became especially relevant as remote-first work spread.'
 tags: ["async-work", "distributed-work", "remote-first", "podcast"]

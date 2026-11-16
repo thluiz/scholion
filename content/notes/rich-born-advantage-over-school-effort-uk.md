@@ -1,6 +1,6 @@
 ---
 title: "Sorry, Being Born Rich Still Leads to Success More Than Working Hard in School"
-date: '2026-11-16T02:44:00+00:00'
+date: '2020-02-22T12:11:53+00:00'
 category: webclip
 summary: 'In the UK, educational gains have not changed class-based mobility much. The text argues that wealth, family capital, and inequality matter more than schooling alone.'
 tags: ["social-mobility", "education", "inequality", "united-kingdom"]

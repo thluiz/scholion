@@ -1,6 +1,6 @@
 ---
 title: "Printers Instead of Getters"
-date: '2026-11-16T02:42:06+00:00'
+date: '2020-02-22T12:11:52+00:00'
 category: webclip
 summary: 'The page argues that objects should not expose state through getters. Instead, they should print themselves to a format, or accept a media object that receives the data.'
 tags: ["getters", "object-oriented-design", "serialization", "media"]

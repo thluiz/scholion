@@ -1,6 +1,6 @@
 ---
 title: "Gear Up for Remote Work: The Remote Worker’s Home Office Equipment Guide"
-date: '2026-11-16T06:00:02+00:00'
+date: '2020-07-05T14:11:33+00:00'
 category: webclip
 summary: 'Eric Elliott lists the home office gear he recommends for remote development, from a fast computer and external mic to monitors, headphones, lighting, chair, and desk, with comfort and productivity in mind.'
 tags: ["remote-work", "home-office", "developer-tools", "productivity"]

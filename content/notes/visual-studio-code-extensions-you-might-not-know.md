@@ -1,6 +1,6 @@
 ---
 title: "Visual Studio Code Extensions You Might Not Know"
-date: '2026-11-16T01:37:32+00:00'
+date: '2020-07-05T14:10:45+00:00'
 category: webclip
 summary: 'The post collects VS Code extensions surfaced from a Twitter poll, grouped by what they do and noting that Emmet is already built into VS Code. It also mentions Kite as a new autocomplete tool for JavaScript and Python.'
 tags: ["vs-code", "extensions", "productivity", "autocomplete"]

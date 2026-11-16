@@ -1,6 +1,6 @@
 ---
 title: "Microsoft continues to try to unify Win32, UWP Windows apps with Project Reunion"
-date: '2026-11-16T04:05:44+00:00'
+date: '2020-07-05T14:11:16+00:00'
 category: webclip
 summary: 'Microsoft is formalizing Project Reunion to bridge Win32 and UWP, starting with WinUI 3 and WebView 2. The goal is to let developers target Windows 10 PCs more directly and gradually adopt shared libraries.'
 tags: ["project-reunion", "win32", "uwp", "windows-10"]

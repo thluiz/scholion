@@ -1,6 +1,6 @@
 ---
 title: "Pure Bash Bible"
-date: '2026-11-16T02:07:11+00:00'
+date: '2019-09-23T10:29:45+00:00'
 category: webclip
 summary: 'A reference of built-in Bash techniques that replace external commands, reduce dependencies, and often run faster, with tested snippets for common scripting tasks.'
 tags: ["bash", "shell-scripting", "builtins", "performance"]

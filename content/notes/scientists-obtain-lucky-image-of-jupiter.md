@@ -1,6 +1,6 @@
 ---
 title: "Scientists obtain 'lucky' image of Jupiter"
-date: '2026-11-16T04:11:29+00:00'
+date: '2020-07-05T14:11:17+00:00'
 category: webclip
 summary: 'The image was captured in infrared by Gemini North using lucky imaging, which reduces atmospheric blurring and lets scientists see deeper into Jupiter''s atmosphere and weather systems.'
 tags: ["jupiter", "infrared", "lucky-imaging"]

@@ -1,6 +1,6 @@
 ---
 title: "Emily Ley Simplified Weekly Planner Review"
-date: '2026-11-16T02:12:44+00:00'
+date: '2020-08-26T19:31:14+00:00'
 category: webclip
 summary: 'The review says the Simplified Planner has bright rainbow colors, a sturdy hardcover, tabs, and useful extras, but it is expensive, has some layout inconsistencies, and shows ghosting on the pages.'
 tags: ["planner-review", "emily-ley", "stationery", "ghosting"]

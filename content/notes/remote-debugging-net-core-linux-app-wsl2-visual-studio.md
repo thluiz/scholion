@@ -1,6 +1,6 @@
 ---
 title: "Remote Debugging a .NET Core Linux app in WSL2 from Visual Studio on Windows"
-date: '2026-11-16T02:40:48+00:00'
+date: '2020-02-22T12:11:52+00:00'
 category: webclip
 summary: 'The post shows how to debug a .NET Core web app running in WSL2 from Visual Studio 2019 on Windows, using vsdbg, a launch.json file, and a Command Window launch.'
 tags: ["wsl2", "visual-studio", "dotnet-core", "remote-debugging"]

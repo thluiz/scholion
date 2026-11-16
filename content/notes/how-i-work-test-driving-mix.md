@@ -1,6 +1,6 @@
 ---
 title: "How I Work (Test-Driving Mix)"
-date: '2026-11-16T02:25:32+00:00'
+date: '2020-02-22T12:11:44+00:00'
 category: webclip
 summary: 'GeePawHill says he does not separate testing from coding. He uses fast, precise microtests as an interactive way to steer small production changes and catch simple mistakes before shipping.'
 tags: ["test-driven-development", "microtests", "programming-practice"]

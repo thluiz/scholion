@@ -1,6 +1,6 @@
 ---
 title: "How To Use Evernote To Become Massively Productive"
-date: '2026-11-16T05:19:24+00:00'
+date: '2020-07-05T14:11:19+00:00'
 category: webclip
 summary: 'The article says Evernote helps organize information and collaboration, and Stephens uses it for onboarding, meeting notes, blog drafts, invoices, ideas, quotes, photos, and clipped articles.'
 tags: ["evernote", "productivity", "collaboration"]

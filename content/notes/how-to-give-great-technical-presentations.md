@@ -1,6 +1,6 @@
 ---
 title: "How to Give Great Technical Presentations"
-date: '2026-11-16T00:52:14+00:00'
+date: '2020-02-22T12:11:59+00:00'
 category: webclip
 summary: 'The article argues that strong technical talks begin with a clear goal, audience awareness, story-based examples, short slides and short sessions, plus deliberate delivery practice.'
 tags: ["technical-presentations", "public-speaking", "storytelling"]

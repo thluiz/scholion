@@ -1,6 +1,6 @@
 ---
 title: "The Freelancer’s Guide to Todoist"
-date: '2026-11-16T04:35:37+00:00'
+date: '2020-08-26T19:31:15+00:00'
 category: webclip
 summary: 'The guide shows how freelancers can use Todoist to track opportunities, manage client work, handle admin tasks, and keep space for deep work and personal balance.'
 tags: ["freelancing", "todoist", "productivity", "client-work"]

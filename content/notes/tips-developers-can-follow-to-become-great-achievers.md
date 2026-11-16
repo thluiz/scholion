@@ -1,6 +1,6 @@
 ---
 title: "Tips Developers Can Follow to Become Great Achievers"
-date: '2026-11-16T05:54:00+00:00'
+date: '2020-07-05T14:11:18+00:00'
 category: webclip
 summary: 'The article says developers need technical and soft skills, and it recommends reassessing workflow, staying disciplined when working from home, coding for accessibility, and honoring commitments.'
 tags: ["software-development", "productivity", "accessibility", "work-from-home"]

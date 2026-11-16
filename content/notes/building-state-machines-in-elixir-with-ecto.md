@@ -1,6 +1,6 @@
 ---
 title: "Building State Machines in Elixir with Ecto"
-date: '2026-11-16T04:40:51+00:00'
+date: '2020-08-26T19:31:20+00:00'
 category: webclip
 summary: 'ElixirStatus is an open source project built by community members with Elixir and Phoenix. It lets users publish links back to projects, blog posts, and version updates.'
 tags: ["elixir", "phoenix", "open-source"]

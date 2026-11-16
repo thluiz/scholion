@@ -1,6 +1,6 @@
 ---
 title: "Fullstack Project Planning"
-date: '2026-11-16T01:05:08+00:00'
+date: '2020-08-26T19:31:26+00:00'
 category: webclip
 summary: 'The post breaks fullstack work into planning scope, database models, API endpoints, backend and frontend build, testing, wireframing, component planning, and user testing to make projects more efficient.'
 tags: ["project-planning", "fullstack", "frontend", "backend"]

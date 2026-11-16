@@ -1,6 +1,6 @@
 ---
 title: "productfest.com is for sale"
-date: '2026-11-16T05:23:08+00:00'
+date: '2016-05-25T17:09:32+00:00'
 category: webclip
 summary: 'The page says the domain name productfest.com is for sale, with an option to buy it outright or lease to own.'
 tags: ["domain-for-sale", "productfest-com", "lease-to-own"]

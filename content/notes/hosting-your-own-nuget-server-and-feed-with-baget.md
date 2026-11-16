@@ -1,6 +1,6 @@
 ---
 title: "Hosting your own NuGet Server and Feed for build artifacts with BaGet"
-date: '2026-11-16T02:21:02+00:00'
+date: '2020-02-22T12:11:42+00:00'
 category: webclip
 summary: 'The page surveys NuGet server options and argues that BaGet is a strong cross-platform choice, especially for private feeds, read-through caching, and simple self-hosted artifact storage.'
 tags: ["nuget", "baget", "build-artifacts", "dotnet"]

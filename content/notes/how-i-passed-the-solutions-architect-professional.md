@@ -1,6 +1,6 @@
 ---
 title: "How I passed the Solutions Architect Professional with mostly free content🥇"
-date: '2026-11-16T01:26:50+00:00'
+date: '2020-07-05T14:10:32+00:00'
 category: webclip
 summary: 'The author says the AWS SA Pro exam rewards broad architectural understanding, practice exams, and focused study across networking, IAM, multi-account setups, migration, and core AWS services.'
 tags: ["aws", "solutions-architect-professional", "cloud-certification", "devops"]

@@ -1,6 +1,6 @@
 ---
 title: "The Physical Activity Paradox: New Study Links Physical Labor to Cognitive Impairment"
-date: '2026-11-16T05:44:09+00:00'
+date: '2023-11-08T11:33:50+00:00'
 category: webclip
 summary: 'A study of more than 7,000 people finds that sustained workplace physical activity from ages 33 to 65 is linked to a higher risk of dementia and mild cognitive impairment after 70.'
 tags: ["physical-activity", "cognitive-impairment", "dementia", "occupational-health"]

@@ -1,6 +1,6 @@
 ---
 title: "The Lounge - CodeProject"
-date: '2026-11-16T05:33:32+00:00'
+date: '2020-07-05T14:11:16+00:00'
 category: webclip
 summary: 'The captured page only shows a parked-domain notice from GoDaddy.com and related search links, with no article or forum content visible.'
 tags: ["parked-domain", "godaddy", "codeproject"]

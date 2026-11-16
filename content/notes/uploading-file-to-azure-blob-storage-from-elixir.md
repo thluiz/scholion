@@ -1,6 +1,6 @@
 ---
 title: "Uploading file to Azure Blob storage from Elixir"
-date: '2026-11-16T04:15:03+00:00'
+date: '2020-07-05T14:11:27+00:00'
 category: webclip
 summary: 'Shows how to create an Azure storage account, add a container, add erlazure to a Mix project, start the client, and upload a file as a block blob.'
 tags: ["elixir", "azure-blob-storage", "erlazure"]

@@ -1,6 +1,6 @@
 ---
 title: "Get daily weather updates through SMS"
-date: '2026-11-16T02:03:17+00:00'
+date: '2020-04-20T21:22:21+00:00'
 category: webclip
 summary: 'The project, called Weather Me, sends daily SMS weather summaries based on a user''s location, with forecasts in 3-hour intervals and a demo, code link, and noted limits.'
 tags: ["sms", "weather", "twilio", "firebase"]

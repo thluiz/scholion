@@ -1,6 +1,6 @@
 ---
 title: "You Don't Hate Mocks; You Hate Side-Effects"
-date: '2026-11-16T03:07:48+00:00'
+date: '2020-07-05T14:11:19+00:00'
 category: webclip
 summary: 'The article argues that excessive mock expectations are a signal of side-effects in the design. Refactoring away from those side-effects often removes the mock and leads to simpler, more focused tests.'
 tags: ["test-doubles", "side-effects", "tdd", "simple-design"]

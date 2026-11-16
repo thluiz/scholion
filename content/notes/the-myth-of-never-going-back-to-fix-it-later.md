@@ -1,6 +1,6 @@
 ---
 title: "The myth of \"never going back to fix it later\""
-date: '2026-11-16T01:01:00+00:00'
+date: '2020-08-26T19:31:13+00:00'
 category: webclip
 summary: 'The post argues that shortcuts are only permanent when an organization does not value refactoring, cooldown work, and maintenance. A culture that allows later fixes makes practical tradeoffs possible.'
 tags: ["refactoring", "software-engineering", "engineering-culture"]

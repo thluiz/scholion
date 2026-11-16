@@ -1,6 +1,6 @@
 ---
 title: "Open source beyond the market"
-date: '2026-11-16T02:05:01+00:00'
+date: '2019-05-21T10:08:36+00:00'
 category: webclip
 summary: 'The talk argues that open source, especially Rails and the MIT license, should be understood outside market logic: use is not debt, meaning comes from autonomy, mastery, purpose, and contributions should stay voluntary.'
 tags: ["open-source", "mit-license", "rails", "meaning"]

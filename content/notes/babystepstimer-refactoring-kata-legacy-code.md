@@ -1,6 +1,6 @@
 ---
 title: "GitHub - dtanzer/babystepstimer: A timer for the \"baby steps\" exercise/technique for doing TDD"
-date: '2026-11-16T03:08:36+00:00'
+date: '2020-07-05T14:11:19+00:00'
 category: webclip
 summary: 'A timer for the baby steps TDD exercise, deliberately built as hard-to-change legacy code for refactoring practice, with multiple language versions and notes on its structure.'
 tags: ["tdd", "refactoring-kata", "legacy-code", "baby-steps"]

@@ -1,6 +1,6 @@
 ---
 title: "Comment Only What the Code Cannot Say"
-date: '2026-11-16T06:15:07+00:00'
+date: '2020-07-05T14:11:25+00:00'
 category: webclip
 summary: 'Henney argues that comments should add information code cannot express. Wrong, redundant, and stale comments create noise, so code should be rewritten or renamed when it can speak for itself.'
 tags: ["comments", "code-quality", "readability"]

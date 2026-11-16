@@ -1,6 +1,6 @@
 ---
 title: "Insider Wallet"
-date: '2026-11-16T02:48:19+00:00'
+date: '2020-02-22T12:11:59+00:00'
 category: webclip
 summary: 'A hand-stitched leather folding wallet made in North Idaho, built to hold 12 cards comfortably. The page gives materials, dimensions, price, and a lifetime stitching guarantee.'
 tags: ["wallet", "leather", "handmade", "accessories"]

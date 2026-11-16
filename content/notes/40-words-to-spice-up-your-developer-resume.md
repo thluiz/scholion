@@ -1,6 +1,6 @@
 ---
 title: "40 Words to Spice Up Your Developer Resume"
-date: '2026-11-16T01:18:06+00:00'
+date: '2020-07-05T14:11:24+00:00'
 category: webclip
 summary: 'The post collects resume modifiers from 1,000+ tech job openings and shows how to pair them with strong action verbs and numbers to make developer experience descriptions more compelling.'
 tags: ["resume", "developer-resume", "job-search"]

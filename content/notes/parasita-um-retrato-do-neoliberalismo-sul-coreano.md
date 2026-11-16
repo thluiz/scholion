@@ -1,6 +1,6 @@
 ---
 title: "Parasita, um retrato do neoliberalismo sul-coreano"
-date: '2026-11-16T02:11:34+00:00'
+date: '2020-01-26T03:01:18+00:00'
 category: webclip
 summary: 'O texto lê Parasita como crítica à desigualdade de classe, à precarização do trabalho e à perda de dignidade sob o neoliberalismo sul-coreano, ligando o filme a dívidas, subemprego e insegurança social.'
 tags: ["parasita", "neoliberalismo", "desigualdade-de-classe", "coreia-do-sul"]

@@ -1,6 +1,6 @@
 ---
 title: "Explore learning resources and guides"
-date: '2026-11-16T05:16:58+00:00'
+date: '2016-08-25T21:25:31+00:00'
 category: webclip
 summary: 'edX presents learning guides that help users decide what to study, understand why topics matter, and connect courses and programs to career goals and job-market questions.'
 tags: ["online-learning", "career-guidance", "course-guides"]

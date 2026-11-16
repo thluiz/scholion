@@ -1,6 +1,6 @@
 ---
 title: "Microsoft.Data.SqlClient 2.0.0 is now available"
-date: '2026-11-16T03:38:20+00:00'
+date: '2020-07-05T14:10:32+00:00'
 category: webclip
 summary: 'The post announces Microsoft.Data.SqlClient 2.0.0, says it replaces System.Data.SqlClient as a drop-in library, and highlights ORDER hints in SqlBulkCopy, DNS resiliency, and new authentication support.'
 tags: ["microsoft-data-sqlclient", "sqlbulkcopy", "dns-resiliency", "azure-sql"]

@@ -1,6 +1,6 @@
 ---
 title: "How to download files from Google Drive using Elixir"
-date: '2026-11-16T04:35:04+00:00'
+date: '2020-08-26T19:31:15+00:00'
 category: webclip
 summary: 'The post shows how to set up a Google service account, share a Drive folder with it, configure Goth in Elixir, and use the Drive API to list CSV files and download the first one found.'
 tags: ["elixir", "google-drive", "goth", "google-api-drive"]

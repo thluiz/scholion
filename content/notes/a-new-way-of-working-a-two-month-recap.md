@@ -1,6 +1,6 @@
 ---
 title: "A New Way of Working: A Two-Month Recap"
-date: '2026-11-16T04:16:36+00:00'
+date: '2020-07-05T14:11:27+00:00'
 category: webclip
 summary: 'The company says the new three-person team setup worked well over the first two months, with higher productivity and several process changes around design, deployment timing, scope control, and iteration length.'
 tags: ["workflow", "productivity", "iterations", "team-structure"]

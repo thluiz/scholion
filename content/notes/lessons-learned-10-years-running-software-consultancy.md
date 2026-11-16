@@ -1,6 +1,6 @@
 ---
 title: "Lessons Learned - 10 Years of Running a Software Consultancy"
-date: '2026-11-16T03:40:13+00:00'
+date: '2020-07-05T14:10:32+00:00'
 category: webclip
 summary: 'The author reflects on DockYard’s near-failure, the shift to stronger management and remote work, major clients like Apple and Netflix, technology bets, and why luck, patience, and delegation shaped the company’s growth.'
 tags: ["software-consultancy", "management", "remote-work", "technology-choices"]

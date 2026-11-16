@@ -1,6 +1,6 @@
 ---
 title: "Learn the SOLID principles for Object Oriented Programming"
-date: '2026-11-16T01:57:45+00:00'
+date: '2020-08-26T19:31:11+00:00'
 category: webclip
 summary: 'The page explains OOP basics and then outlines the five SOLID principles, showing how each one helps avoid tightly coupled, hard-to-maintain code through clearer class and interface design.'
 tags: ["solid-principles", "object-oriented-programming", "interfaces", "code-design"]

@@ -1,6 +1,6 @@
 ---
 title: "O Mundo de Leland (2003) - IMDb"
-date: '2026-11-16T05:25:19+00:00'
+date: '2025-12-29T09:59:32+00:00'
 category: webclip
 summary: 'Página do IMDb sobre O Mundo de Leland, drama psicológico de 2003 sobre um jovem num centro de detenção juvenil ligado às mudanças turbulentas na família e na comunidade.'
 tags: ["drama-psicologico", "amadurecimento", "detencao-juvenil"]

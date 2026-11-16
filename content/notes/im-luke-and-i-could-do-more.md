@@ -1,6 +1,6 @@
 ---
 title: "I'm Luke, and I Could Do More"
-date: '2026-11-16T01:07:34+00:00'
+date: '2020-04-20T21:22:38+00:00'
 category: webclip
 summary: 'The author says allyship in tech means using privilege, asking hard questions, and acting for the right reasons. He links this to #shecoded, diversity, and inclusive language.'
 tags: ["allyship", "diversity-and-inclusion", "tech", "shecoded"]

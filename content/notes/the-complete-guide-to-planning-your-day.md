@@ -1,6 +1,6 @@
 ---
 title: "The Complete Guide to Planning Your Day"
-date: '2026-11-16T03:00:13+00:00'
+date: '2020-07-05T14:10:32+00:00'
 category: webclip
 summary: 'This page is a roundup of Doist articles on productivity shame, Todoist team workspaces, and journaling, each linked to time management or productivity topics.'
 tags: ["productivity", "time-management", "todoist-tips"]

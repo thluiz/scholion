@@ -1,6 +1,6 @@
 ---
 title: "Get Hired: Data Structure and Algorithm Interviews For People Who Hate Them"
-date: '2026-11-16T07:47:59+00:00'
+date: '2020-02-22T12:11:44+00:00'
 category: webclip
 summary: 'The post explains what DSA interviews look like, how interviewers evaluate candidates, how candidates should handle them, red flags to watch for, and how to prepare through practice and communication.'
 tags: ["dsa-interviews", "interview-preparation", "coding-practice"]

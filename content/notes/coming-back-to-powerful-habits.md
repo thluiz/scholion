@@ -1,6 +1,6 @@
 ---
 title: "Coming Back to Powerful Habits (plus 6 Powerful Habits)"
-date: '2026-11-16T04:30:17+00:00'
+date: '2020-04-20T21:22:42+00:00'
 category: webclip
 summary: 'The piece argues that the real skill is returning to a habit after falling off it. It pairs that idea with four ways to restart and six habits the author keeps coming back to.'
 tags: ["habits", "meditation", "productivity", "self-care"]

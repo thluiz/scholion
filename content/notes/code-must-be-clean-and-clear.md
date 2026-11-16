@@ -1,6 +1,6 @@
 ---
 title: "Code Must Be Clean. And Clear."
-date: '2026-11-16T03:02:55+00:00'
+date: '2020-04-20T21:22:28+00:00'
 category: webclip
 summary: 'The page argues that clean code is only the first step. Maintainability also depends on code being clear enough for strangers to understand, modify, and fix bugs quickly.'
 tags: ["clean-code", "maintainability", "readability"]

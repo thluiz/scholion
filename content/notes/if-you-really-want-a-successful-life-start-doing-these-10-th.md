@@ -1,6 +1,6 @@
 ---
 title: "If you really want a successful life, start doing these 10 things every day"
-date: '2026-11-16T08:20:44+00:00'
+date: '2023-11-25T15:01:56+00:00'
 category: webclip
 summary: 'The article argues that success comes from daily habits: lifelong learning, time management, higher standards, attention to detail, networking, health, feedback, time blocking, 30 minutes of learning, and one-sentence journaling.'
 tags: ["success", "daily-habits", "personal-growth", "productivity"]

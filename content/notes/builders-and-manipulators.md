@@ -1,6 +1,6 @@
 ---
 title: "Builders and Manipulators"
-date: '2026-11-16T02:53:15+00:00'
+date: '2020-02-22T12:12:01+00:00'
 category: webclip
 summary: 'The article proposes a naming rule for OOP methods: builders return an object and should be nouns, while manipulators change state and should be verbs that return void.'
 tags: ["oop", "method-naming", "queries-and-commands"]

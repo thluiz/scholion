@@ -1,6 +1,6 @@
 ---
 title: "Start cleaning your Legacy codebase with The Daily Refactoring Hour - Change Messy Software Without Breaking It"
-date: '2026-11-16T04:34:26+00:00'
+date: '2020-08-26T19:31:12+00:00'
 category: webclip
 summary: 'The article says legacy code work usually has to happen alongside normal delivery, so the practical move is to make technical debt visible and refactor in small daily timeboxes.'
 tags: ["legacy-code", "refactoring", "technical-debt", "daily-habit"]

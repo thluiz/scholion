@@ -1,6 +1,6 @@
 ---
 title: "O que eu gosto de fazer quando entra um novo mês"
-date: '2026-11-16T02:59:33+00:00'
+date: '2016-10-25T11:21:40+00:00'
 category: webclip
 summary: 'A autora descreve sua revisão mensal feita no fim do mês anterior para começar o mês seguinte com áreas de foco, projetos, compromissos, compras, cuidados pessoais e limpeza organizados.'
 tags: ["revisao-mensal", "planejamento", "produtividade", "organizacao-pessoal"]

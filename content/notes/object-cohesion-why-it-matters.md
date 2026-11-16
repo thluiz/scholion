@@ -1,6 +1,6 @@
 ---
 title: "Object Cohesion: Why It Matters"
-date: '2026-11-16T02:21:31+00:00'
+date: '2020-02-22T12:11:42+00:00'
 category: webclip
 summary: 'The post argues that cohesion can be measured empirically and used to test Elegant Objects claims. With jPeek, the author compares Java classes and says features like static methods, mutability, annotations, and DTOs tend to correlate with lower cohesion.'
 tags: ["object-cohesion", "java", "elegant-objects", "jpeek"]

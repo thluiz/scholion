@@ -1,6 +1,6 @@
 ---
 title: "You probably don't need body-parser in your Express apps"
-date: '2026-11-16T01:32:34+00:00'
+date: '2020-07-05T14:10:37+00:00'
 category: webclip
 summary: 'The article says Express has included body parsing since version 4.16.0, so most apps can replace body-parser with express.json() or json() from Express directly.'
 tags: ["express", "body-parser", "javascript"]

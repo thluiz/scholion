@@ -1,6 +1,6 @@
 ---
 title: "7 livros para (começar a) desvendar nossa relação com o dinheiro"
-date: '2026-11-16T04:56:32+00:00'
+date: '2018-04-22T19:04:21+00:00'
 category: webclip
 summary: 'O texto reúne livros sobre como lidamos com o dinheiro, valoriza abordagens baseadas em pesquisa e desaconselha promessas fáceis, milagres e atalhos para enriquecer.'
 tags: ["dinheiro", "psicologia-economica", "livros", "financas-pessoais"]

@@ -1,6 +1,6 @@
 ---
 title: "Create Perfectly Sized Cover Images for Dev.to"
-date: '2026-11-16T01:40:44+00:00'
+date: '2020-07-05T14:11:16+00:00'
 category: webclip
 summary: 'The post introduces Image Titler, a Python tool for generating cover images for social platforms, and notes a v2.3.2 feature that automatically resizes and crops images for Dev.to’s 1000×420 format.'
 tags: ["image-titler", "dev-to", "python"]

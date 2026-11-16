@@ -1,6 +1,6 @@
 ---
 title: "Improving User Authentication and Security"
-date: '2026-11-16T05:51:05+00:00'
+date: '2020-02-22T12:11:59+00:00'
 category: webclip
 summary: 'The article argues that password-only authentication is obsolete and vulnerable to theft and hijacking, and that decentralized key pairs can let users sign requests and encrypt data more securely.'
 tags: ["authentication", "security", "ethereum", "web3"]

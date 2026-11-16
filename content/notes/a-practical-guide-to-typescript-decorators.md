@@ -1,6 +1,6 @@
 ---
 title: "A practical guide to TypeScript decorators"
-date: '2026-11-16T04:03:18+00:00'
+date: '2020-07-05T14:10:46+00:00'
 category: webclip
 summary: 'The article compares decorators in JavaScript and TypeScript, then shows class, method, property, accessor, parameter, auto-accessor, composition, and factory patterns with examples.'
 tags: ["typescript", "decorators", "javascript", "advanced-patterns"]

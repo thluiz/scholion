@@ -1,6 +1,6 @@
 ---
 title: "Object Validation: to Defer or Not?"
-date: '2026-11-16T04:43:08+00:00'
+date: '2020-04-20T21:22:21+00:00'
 category: webclip
 summary: 'The article distinguishes constructor checks that protect object state from later checks that affect runtime behavior. Nil and wrong-type arguments belong in the constructor; file existence and file kind belong in the method.'
 tags: ["object-validation", "constructors", "runtime-behavior", "rubys"]

@@ -1,6 +1,6 @@
 ---
 title: "Orm Hate"
-date: '2026-11-16T02:41:19+00:00'
+date: '2020-02-22T12:11:52+00:00'
 category: webclip
 summary: 'Martin Fowler argues that ORM tools solve a hard in-memory/relational mapping problem, so complaints about complexity and leakage miss context. He favors using them with realistic expectations, or avoiding the problem when the model fits other approaches.'
 tags: ["orm", "relational-database", "nosql", "cqrs"]

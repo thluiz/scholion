@@ -1,6 +1,6 @@
 ---
 title: "LICENSE to kill your PWA"
-date: '2026-11-16T02:27:32+00:00'
+date: '2020-02-22T12:11:48+00:00'
 category: webclip
 summary: 'A PWA broke because a precached `.LICENSE` asset returned 404 on IIS. The cause was terser-webpack-plugin extracting license comments into a file the server did not serve correctly.'
 tags: ["pwa", "webpack", "terser-webpack-plugin", "iis"]

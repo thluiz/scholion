@@ -1,6 +1,6 @@
 ---
 title: "Pink & Black themed spread in the Clever Fox Weekly Planner"
-date: '2026-11-16T02:35:42+00:00'
+date: '2020-02-22T12:11:51+00:00'
 category: webclip
 summary: 'The spread uses a neutral Clever Fox weekly planner and adds pink and black color with pens, washi tape, stickers, and date dots. The author also covers the habit-tracking section and notes the layout is somewhat tight.'
 tags: ["planner-spread", "weekly-planner", "pink-and-black", "stickers"]

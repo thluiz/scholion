@@ -1,6 +1,6 @@
 ---
 title: "The Art of Software Testing by Glenford Myers"
-date: '2026-11-16T04:33:28+00:00'
+date: '2020-08-26T19:31:12+00:00'
 category: webclip
 summary: 'Yegor Bugayenko says the book remains a key reference in software testing, mainly because Chapter 2 reframes testing as finding errors and sets a completion criterion based on detecting a predefined number of bugs.'
 tags: ["software-testing", "glenford-myers", "test-completion-criteria"]

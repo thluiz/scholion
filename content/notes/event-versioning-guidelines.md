@@ -1,6 +1,6 @@
 ---
 title: "Event Versioning Guidelines"
-date: '2026-11-16T02:27:17+00:00'
+date: '2020-02-22T12:11:48+00:00'
 category: webclip
 summary: 'The post says event versioning should preserve backward compatibility when possible, use version numbers when needed, and treat non-compatible changes as new events. It also describes double publishing v1 and v2 in some cases.'
 tags: ["event-versioning", "backward-compatibility", "semantic-versioning", "messaging"]

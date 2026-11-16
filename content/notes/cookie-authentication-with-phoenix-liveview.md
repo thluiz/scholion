@@ -1,6 +1,6 @@
 ---
 title: "Cookie Authentication with Phoenix LiveView"
-date: '2026-11-16T03:32:02+00:00'
+date: '2020-07-05T14:10:30+00:00'
 category: webclip
 summary: 'The post explains how Phoenix session cookies identify a user, why LiveView login forms cannot call `Plug.Conn.put_session` from event handlers, and how ETS plus a signed token can bridge that gap.'
 tags: ["phoenix-liveview", "cookie-authentication", "ets", "phoenix-token"]

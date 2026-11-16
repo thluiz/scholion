@@ -1,6 +1,6 @@
 ---
 title: "Why \"Skip Nav\" Link is important!"
-date: '2026-11-16T01:22:52+00:00'
+date: '2020-07-05T14:10:30+00:00'
 category: webclip
 summary: 'The page explains that skip navigation links help keyboard and screen reader users reach main content faster, and shows a CSS and React pattern that reveals the link on focus.'
 tags: ["accessibility", "skip-navigation", "react"]

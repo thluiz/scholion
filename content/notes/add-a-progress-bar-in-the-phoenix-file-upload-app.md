@@ -1,6 +1,6 @@
 ---
 title: "Add a Progress Bar in the Phoenix File Upload app"
-date: '2026-11-16T04:15:41+00:00'
+date: '2020-07-05T14:11:27+00:00'
 category: webclip
 summary: 'The article shows how to monitor Phoenix file uploads with jQuery Ajax, XHR progress events, a percentage label, and an HTML5 progress bar, then auto-start the upload and redirect on success.'
 tags: ["phoenix", "file-upload", "javascript", "progress-bar"]

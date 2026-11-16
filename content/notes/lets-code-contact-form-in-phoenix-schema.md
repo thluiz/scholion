@@ -1,6 +1,6 @@
 ---
 title: "Let's Code: Contact Form in Phoenix -- The Schema"
-date: '2026-11-16T04:04:00+00:00'
+date: '2020-07-05T14:11:15+00:00'
 category: webclip
 summary: 'The post builds a Phoenix contact form message as a typespec and embedded Ecto schema, then adds a changeset that casts fields, requires them, and validates the email format.'
 tags: ["phoenix", "ecto", "changeset", "embedded-schema"]

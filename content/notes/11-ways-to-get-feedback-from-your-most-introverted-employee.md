@@ -1,6 +1,6 @@
 ---
 title: "11 ways to get feedback from your most introverted employee"
-date: '2026-11-16T05:04:07+00:00'
+date: '2020-02-22T12:11:42+00:00'
 category: webclip
 summary: 'The article says introverted employees share more honest feedback when managers prepare the conversation, explain why they are asking, narrow the question, and follow up on what is shared.'
 tags: ["employee-feedback", "introverts", "management"]

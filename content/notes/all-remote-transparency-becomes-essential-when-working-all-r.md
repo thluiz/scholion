@@ -1,6 +1,6 @@
 ---
 title: "All Remote: Transparency becomes essential when working all-remote (Part 3)"
-date: '2026-11-16T01:37:45+00:00'
+date: '2020-07-05T14:10:45+00:00'
 category: webclip
 summary: 'The article argues that remote teams need more transparency to improve collaboration, reduce mistakes, and raise code quality, and shows how CodeStream''s Live View makes work in progress visible across developers'' IDEs.'
 tags: ["remote-work", "transparency", "code-collaboration", "ide"]

@@ -1,6 +1,6 @@
 ---
 title: "The 2 most common excuses that keep you from getting honest feedback"
-date: '2026-11-16T05:05:04+00:00'
+date: '2020-02-22T12:11:42+00:00'
 category: webclip
 summary: 'The article says leaders often avoid asking for feedback because they fear distraction or feel unready to act on it, but those choices block the open, transparent culture they want.'
 tags: ["feedback", "company-culture", "leadership"]

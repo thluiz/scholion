@@ -1,6 +1,6 @@
 ---
 title: "A minimal approach to software architecture documentation"
-date: '2026-11-16T02:02:20+00:00'
+date: '2020-08-26T19:31:20+00:00'
 category: webclip
 summary: 'The code is the truth, but not the whole truth. A minimal documentation set should cover context, interfaces, deployment, support, and the decisions behind the system.'
 tags: ["software-architecture", "documentation", "adr", "c4-model"]

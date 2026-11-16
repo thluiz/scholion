@@ -1,6 +1,6 @@
 ---
 title: "Sending an SMS with Phoenix"
-date: '2026-11-16T01:09:24+00:00'
+date: '2020-04-19T12:03:25+00:00'
 category: webclip
 summary: 'The walkthrough shows how to create a Phoenix app, add a Nexmo SMS form, wire routes and controller actions, install HTTPoison, and configure API credentials and a virtual number.'
 tags: ["phoenix", "elixir", "sms", "nexmo"]

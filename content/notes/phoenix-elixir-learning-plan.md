@@ -1,6 +1,6 @@
 ---
 title: "Phoenix & Elixir Learning Plan"
-date: '2026-11-16T01:23:36+00:00'
+date: '2020-07-05T14:10:31+00:00'
 category: webclip
 summary: 'The author lays out a staged plan for learning Phoenix and Elixir, from setup and a small CRUD app to deployment, testing, authentication, monitoring, and possibly LiveView.'
 tags: ["phoenix", "elixir", "learning-plan", "web-development"]

@@ -1,6 +1,6 @@
 ---
 title: "Building a notifications client with Xamarin and Azure"
-date: '2026-11-16T01:28:06+00:00'
+date: '2020-07-05T14:10:33+00:00'
 category: webclip
 summary: 'The author plans a generic mobile notifications client, preferring push notifications over SignalR because the app should receive alerts even when closed and without real-time traffic needs.'
 tags: ["push-notifications", "xamarin", "azure-notification-hub", "firebase-cloud-messaging"]

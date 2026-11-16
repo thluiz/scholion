@@ -1,6 +1,6 @@
 ---
 title: "“Midsommar” Is Scary, But Not Because Of All The Grisly Deaths"
-date: '2026-11-16T02:14:55+00:00'
+date: '2020-04-20T21:22:43+00:00'
 category: webclip
 summary: 'The review argues that Midsommar is most frightening as a story about isolation, belonging, and the pull of a commune that offers Dani the acceptance she lacks in her relationship.'
 tags: ["midsommar", "horror-film", "belonging", "isolation"]

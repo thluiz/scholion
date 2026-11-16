@@ -1,6 +1,6 @@
 ---
 title: "The traits of a proficient programmer"
-date: '2026-11-16T03:27:24+00:00'
+date: '2016-08-01T12:09:28+00:00'
 category: webclip
 summary: 'The article distinguishes competence from proficiency in programming, arguing that proficiency means understanding why something works and when to use it, not just knowing how to do it.'
 tags: ["programming", "skill-development", "software-practice"]

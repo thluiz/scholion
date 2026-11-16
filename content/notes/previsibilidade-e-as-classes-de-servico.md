@@ -1,6 +1,6 @@
 ---
 title: "Previsibilidade e as classes de serviço"
-date: '2026-11-16T06:00:48+00:00'
+date: '2016-06-15T16:56:54+00:00'
 category: webclip
 summary: 'O texto defende que classes de serviço melhoram a priorização, mas pioram a previsibilidade quando quebram premissas da Lei de Little. Propõe reduzir WIP, tempos de espera e variabilidade para encurtar lead times.'
 tags: ["previsibilidade", "classes-de-servico", "lei-de-little", "kanban"]

@@ -1,6 +1,6 @@
 ---
 title: "AskQL - the missing query and programming language"
-date: '2026-11-16T03:53:56+00:00'
+date: '2020-07-05T14:10:40+00:00'
 category: webclip
 summary: 'AskQL is presented as an open source query and programming language that is asynchronous by default, works on immutable data, and uses one server endpoint through AskVM for flexible distributed software.'
 tags: ["askql", "query-language", "functional-programming", "open-source"]

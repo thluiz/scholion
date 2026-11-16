@@ -1,6 +1,6 @@
 ---
 title: "From create-react-app to PWA"
-date: '2026-11-16T02:35:25+00:00'
+date: '2020-02-22T12:11:50+00:00'
 category: webclip
 summary: 'The post shows how to turn a Create React App project into a PWA by enabling the service worker, editing the manifest, adding routing, splitting code with React.lazy, and deploying on Netlify.'
 tags: ["pwa", "create-react-app", "react", "netlify"]

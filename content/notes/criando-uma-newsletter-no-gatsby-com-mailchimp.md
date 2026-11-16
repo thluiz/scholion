@@ -1,6 +1,6 @@
 ---
 title: "Criando uma Newsletter no Gatsby com Mailchimp"
-date: '2026-11-16T04:11:03+00:00'
+date: '2020-07-05T14:11:17+00:00'
 category: webclip
 summary: 'O post mostra como automatizar uma newsletter no Gatsby com Mailchimp usando RSS, campanha automática, double opt-in e um formulário com gatsby-plugin-mailchimp.'
 tags: ["gatsby", "mailchimp", "newsletter", "rss"]

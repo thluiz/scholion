@@ -1,6 +1,6 @@
 ---
 title: "Symbolic Mathematics Finally Yields to Neural Networks"
-date: '2026-11-16T03:55:11+00:00'
+date: '2020-07-05T14:10:40+00:00'
 category: webclip
 summary: 'Researchers reframed symbolic math as translation and trained neural networks on tree-structured equations. The system solved many integrals and differential equations quickly, though limits remain.'
 tags: ["neural-networks", "symbolic-math", "integration", "artificial-intelligence"]

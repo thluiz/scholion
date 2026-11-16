@@ -1,6 +1,6 @@
 ---
 title: "Microsoft: Here’s why we love programming language Rust and kicked off Project Verona"
-date: '2026-11-16T04:01:22+00:00'
+date: '2020-07-05T14:10:42+00:00'
 category: webclip
 summary: 'Microsoft says it is pursuing safe systems programming to reduce memory-related bugs in C++ software. Rust and Project Verona are part of that effort, along with Krustlet for Kubernetes and WebAssembly.'
 tags: ["rust", "microsoft", "safe-systems-programming", "project-verona"]

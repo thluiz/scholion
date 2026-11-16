@@ -1,6 +1,6 @@
 ---
 title: "How to write clean functions"
-date: '2026-11-16T01:34:30+00:00'
+date: '2020-07-05T14:10:39+00:00'
 category: webclip
 summary: 'The tutorial shows how to refactor a JavaScript function by making it smaller, focusing it on one job, keeping one abstraction level, reducing arguments, and removing side effects.'
 tags: ["clean-code", "javascript", "refactoring"]

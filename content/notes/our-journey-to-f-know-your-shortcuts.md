@@ -1,6 +1,6 @@
 ---
 title: "Our journey to F#: Know your shortcuts"
-date: '2026-11-16T04:38:30+00:00'
+date: '2020-08-26T19:31:16+00:00'
 category: webclip
 summary: 'The author describes relearning editor shortcuts for F#, focusing on Error Description for function signatures and Go to definition for jumping straight to a value’s declaring type.'
 tags: ["fsharp", "rider", "shortcuts"]

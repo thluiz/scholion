@@ -1,6 +1,6 @@
 ---
 title: "Perplexity"
-date: '2026-11-16T03:03:46+00:00'
+date: '2025-11-30T21:39:49+00:00'
 category: webclip
 summary: 'Nate''s Newsletter says AI is reshaping 15 tech roles and creating 12 new ones, while four forces are changing careers and AI skills now bring a growing salary premium.'
 tags: ["ai-jobs", "tech-roles", "salary-premium"]

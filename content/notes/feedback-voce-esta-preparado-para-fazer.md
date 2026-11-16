@@ -1,6 +1,6 @@
 ---
 title: "Feedback … você está preparado para fazer?"
-date: '2026-11-16T03:28:24+00:00'
+date: '2016-08-05T16:28:02+00:00'
 category: webclip
 summary: 'A autora define feedback como retorno dado a alguém sobre um trabalho, ligado à comunicação, e defende que ele deve encorajar, corrigir atitudes e estimular melhorias contínuas.'
 tags: ["feedback", "comunicacao", "desenvolvimento-profissional"]

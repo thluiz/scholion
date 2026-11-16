@@ -1,6 +1,6 @@
 ---
 title: "Microsoft lança no Brasil iniciativa de apoio para startups e desenvolvedores"
-date: '2026-11-16T03:33:13+00:00'
+date: '2020-07-05T14:10:30+00:00'
 category: webclip
 summary: 'A Microsoft abriu o primeiro Reactor da América Latina em São Paulo, com cursos e eventos online gratuitos para startups e desenvolvedores, e conectou a novidade a outros programas de apoio ao ecossistema.'
 tags: ["microsoft-reactor", "startups", "desenvolvedores", "empreendedorismo-feminino"]

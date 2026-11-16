@@ -1,6 +1,6 @@
 ---
 title: "Alan Kay's answer to What thought process would lead one to invent object-oriented programming?"
-date: '2026-11-16T05:31:12+00:00'
+date: '2020-07-05T14:10:42+00:00'
 category: webclip
 summary: 'Alan Kay says OOP came from systems thinking: he saw objects as a scalable way to model intercommunicating processes, inspired by Sketchpad, Simula, systems, and simulation, not by data-structure programming.'
 tags: ["object-oriented-programming", "alan-kay", "systems-thinking", "simulation"]

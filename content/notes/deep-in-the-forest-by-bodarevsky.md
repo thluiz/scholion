@@ -1,6 +1,6 @@
 ---
 title: "Deep in the Forest by Bodarevsky"
-date: '2026-11-16T02:12:31+00:00'
+date: '2020-08-26T19:31:14+00:00'
 category: webclip
 summary: 'The page states the copyright terms for James Gurney’s images and text, including permission requirements for commercial use and allowed non-commercial quoting with credit and a link back.'
 tags: ["copyright", "usage-rights", "non-commercial-use"]

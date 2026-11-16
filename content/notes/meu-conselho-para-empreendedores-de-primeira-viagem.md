@@ -1,6 +1,6 @@
 ---
 title: "Meu conselho para empreendedores de primeira viagem"
-date: '2026-11-16T02:58:10+00:00'
+date: '2016-09-26T17:39:10+00:00'
 category: webclip
 summary: 'O texto defende que começar um negócio exige pragmatismo com dinheiro, dedicação quase total no primeiro ano e compromisso com a própria palavra para reduzir riscos de fracasso.'
 tags: ["empreendedorismo", "dinheiro", "tempo", "compromisso"]

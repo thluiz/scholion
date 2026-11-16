@@ -1,6 +1,6 @@
 ---
 title: "Catalog of Patterns of Distributed Systems"
-date: '2026-11-16T02:55:28+00:00'
+date: '2020-08-26T19:31:13+00:00'
 category: webclip
 summary: 'The page collects distributed-systems patterns developed since 2020 and published in 2023, with short summaries and links to chapters in the book. It frames common coordination, consistency, replication, and messaging problems these systems share.'
 tags: ["distributed-systems", "patterns", "consistency", "replication"]

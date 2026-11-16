@@ -1,6 +1,6 @@
 ---
 title: "Release Workbox v5.0.0"
-date: '2026-11-16T02:32:10+00:00'
+date: '2020-02-22T12:11:50+00:00'
 category: webclip
 summary: 'Workbox v5 shifts runtime bundling toward local builds, simplifies manifest injection, adds TypeScript support and new precaching and routing APIs, and renames several options with breaking changes.'
 tags: ["workbox", "service-workers", "webpack", "typescript"]

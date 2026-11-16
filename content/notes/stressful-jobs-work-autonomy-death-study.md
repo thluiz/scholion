@@ -1,6 +1,6 @@
 ---
 title: "HR researchers discovered the real reason why stressful jobs are killing us"
-date: '2026-11-16T05:32:11+00:00'
+date: '2020-07-05T14:10:45+00:00'
 category: webclip
 summary: 'A study of 3,148 Wisconsinites over 20 years links heavy workload and low autonomy with worse mental health and higher likelihood of death, while autonomy and intelligence help people cope.'
 tags: ["work-stress", "job-autonomy", "mental-health", "death"]

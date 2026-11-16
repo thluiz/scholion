@@ -1,6 +1,6 @@
 ---
 title: "João Gilberto inventou jeito diferente de cantar e tocar violão que influenciou gerações"
-date: '2026-11-16T02:08:01+00:00'
+date: '2019-10-26T08:14:29+00:00'
 category: webclip
 summary: 'A reportagem descreve como João Gilberto criou um modo novo de cantar e tocar violão, ligado à bossa nova, e como essa forma de tocar mudou a música brasileira e influenciou gerações.'
 tags: ["joao-gilberto", "bossa-nova", "musica-brasileira"]

@@ -1,6 +1,6 @@
 ---
 title: "No More Bad Zoom Meetings: The Right Way to Collaborate Remotely"
-date: '2026-11-16T03:45:11+00:00'
+date: '2020-07-05T14:10:38+00:00'
 category: webclip
 summary: 'The page argues that remote collaboration works when teams use empathy, appoint a facilitator, and add constraints to brainstorming. It also recommends inviting outside perspectives.'
 tags: ["remote-work", "collaboration", "brainstorming", "facilitation"]

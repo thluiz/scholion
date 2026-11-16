@@ -1,6 +1,6 @@
 ---
 title: "Moving from TypeScript to Rust / WebAssembly"
-date: '2026-11-16T04:41:43+00:00'
+date: '2020-08-26T19:31:20+00:00'
 category: webclip
 summary: 'The author moved Boardgame Lab’s game-state logic from TypeScript to Rust and WebAssembly, citing shared client-server code, stronger validation and error handling, faster execution, and leaner server memory use.'
 tags: ["typescript", "rust", "webassembly", "performance"]

@@ -1,6 +1,6 @@
 ---
 title: "Philosophy News Network: Should We All Just Kill Ourselves or What?"
-date: '2026-11-16T02:34:55+00:00'
+date: '2020-02-22T12:11:50+00:00'
 category: webclip
 summary: 'A comic that frames a question about suicide through a parody of philosophy-news language and ends by contrasting the courage needed for petty feuds with the courage to kill oneself.'
 tags: ["suicide", "sartre", "philosophy-comic"]

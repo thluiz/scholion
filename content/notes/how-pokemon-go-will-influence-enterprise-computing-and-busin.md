@@ -1,6 +1,6 @@
 ---
 title: "How Pokemon Go Will Influence Enterprise Computing and Business Forever"
-date: '2026-11-16T05:24:51+00:00'
+date: '2016-07-19T17:46:38+00:00'
 category: webclip
 summary: 'The article argues that Pokemon Go shows how GPS and augmented reality can drive mobile engagement, geolocation marketing, and new enterprise uses while also raising privacy tradeoffs.'
 tags: ["pokemon-go", "augmented-reality", "geolocation-marketing", "enterprise-computing"]

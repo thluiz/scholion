@@ -1,6 +1,6 @@
 ---
 title: "Cognition-oriented Programming"
-date: '2026-11-16T00:52:43+00:00'
+date: '2020-02-22T12:12:00+00:00'
 category: webclip
 summary: 'The article argues that programming style should fit each developer’s cognition. Paradigms matter, but the best code structure is the one that supports your own mental limits and flow.'
 tags: ["programming-paradigms", "cognition", "flow", "code-structure"]

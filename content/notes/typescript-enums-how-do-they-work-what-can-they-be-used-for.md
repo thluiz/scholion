@@ -1,6 +1,6 @@
 ---
 title: "TypeScript enums: How do they work? What can they be used for?"
-date: '2026-11-16T05:11:16+00:00'
+date: '2020-02-22T12:11:50+00:00'
 category: webclip
 summary: 'The captured page only returns a 404 Not Found, so it provides no article content about TypeScript enums.'
 tags: ["typescript", "404"]

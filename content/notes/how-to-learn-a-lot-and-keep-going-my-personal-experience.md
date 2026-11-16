@@ -1,6 +1,6 @@
 ---
 title: "How to learn a lot and keep going? My Personal experience"
-date: '2026-11-16T01:13:49+00:00'
+date: '2020-07-05T14:11:19+00:00'
 category: webclip
 summary: 'The post introduces a podcast in which Tharun Shiv discusses how to achieve goals, find a niche, and stay cautious about key choices while learning and moving forward.'
 tags: ["podcast", "goals", "niche", "learning"]

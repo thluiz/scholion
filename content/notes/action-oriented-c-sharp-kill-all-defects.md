@@ -1,6 +1,6 @@
 ---
 title: "Action-Oriented C# - Kill All Defects"
-date: '2026-11-16T07:57:05+00:00'
+date: '2020-02-22T12:11:45+00:00'
 category: webclip
 summary: 'The post argues that passing Action and Func delegates adds configurable behavior, reduces duplicated patterns, and makes code easier to maintain even if the syntax is a bit harder to read.'
 tags: ["c-sharp", "functional-programming", "delegates", "maintainability"]

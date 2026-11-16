@@ -1,6 +1,6 @@
 ---
 title: "Deliberate practice: The art of teaching and learning"
-date: '2026-11-16T00:28:07+00:00'
+date: '2020-04-20T21:22:21+00:00'
 category: webclip
 summary: 'The author argues for short, regular, challenge-based learning sessions to share knowledge in a team, surface gaps, and help people stretch beyond familiar work without production risk.'
 tags: ["deliberate-practice", "team-learning", "knowledge-sharing"]

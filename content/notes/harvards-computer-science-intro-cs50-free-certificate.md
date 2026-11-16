@@ -1,6 +1,6 @@
 ---
 title: "Harvard's Computer Science Intro (CS50): Here's How to Earn a Free Certificate"
-date: '2026-11-16T00:46:45+00:00'
+date: '2020-02-22T12:11:45+00:00'
 category: webclip
 summary: 'The article says CS50 remains free in 2020, including its certificate of completion. It also outlines the updated curriculum, new specialization tracks, and paid alternatives for verified or for-credit study.'
 tags: ["cs50", "online-courses", "free-certificate", "edx"]

@@ -1,6 +1,6 @@
 ---
 title: "Technical Writing Tips for Non-Native English Speakers"
-date: '2026-11-16T02:00:56+00:00'
+date: '2020-08-26T19:31:15+00:00'
 category: webclip
 summary: 'The author shares tips for writing technical content in English as a non-native speaker, stressing practice, simple prose, revision after drafting, and proofreading when the stakes are high.'
 tags: ["technical-writing", "english-writing", "proofreading", "non-native-speakers"]

@@ -1,6 +1,6 @@
 ---
 title: "Philosophy of a Good Developer"
-date: '2026-11-16T00:57:54+00:00'
+date: '2020-02-22T12:12:02+00:00'
 category: webclip
 summary: 'The post argues that a good developer is defined by readable code, documentation, user empathy, ownership, and a willingness to see the bigger picture, not technical skill alone.'
 tags: ["software-development", "documentation", "teamwork", "user-experience"]

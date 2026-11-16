@@ -1,6 +1,6 @@
 ---
 title: "Zen Habits Lessons: 10 Powerful Things I've Learned This Past Decade"
-date: '2026-11-16T02:38:10+00:00'
+date: '2020-02-22T12:11:51+00:00'
 category: webclip
 summary: 'Leo Babauta reflects on a decade of Zen Habits and names ten lessons about uncertainty, depth, self-trust, focus, relationships, compassion, and grief.'
 tags: ["self-trust", "mindfulness", "relationships", "focus"]

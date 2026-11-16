@@ -1,6 +1,6 @@
 ---
 title: "Rules of thumb for a 1x developer"
-date: '2026-11-16T03:14:52+00:00'
+date: '2020-07-05T14:11:24+00:00'
 category: webclip
 summary: 'The author describes himself as a 1x developer and uses that perspective to set practical rules on learning, language choice, testing, DevOps, security, design, and project management.'
 tags: ["software-engineering", "productivity", "testing", "project-management"]

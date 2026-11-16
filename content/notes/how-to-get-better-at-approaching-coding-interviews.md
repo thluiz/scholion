@@ -1,6 +1,6 @@
 ---
 title: "How to Get Better at Approaching Coding Interviews"
-date: '2026-11-16T01:00:25+00:00'
+date: '2020-08-26T19:31:13+00:00'
 category: webclip
 summary: 'The article lays out a step-by-step way to handle coding interviews: calm nerves, clarify requirements, test examples, explain a brute-force path, then optimize with patterns, data structures, and communication.'
 tags: ["coding-interviews", "whiteboard-interviews", "data-structures", "problem-solving"]

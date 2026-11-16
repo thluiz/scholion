@@ -1,6 +1,6 @@
 ---
 title: "Our journey to F#: Relearning using the IDE"
-date: '2026-11-16T04:38:56+00:00'
+date: '2020-08-26T19:31:16+00:00'
 category: webclip
 summary: 'The author describes how switching to F# changed IDE habits in Rider, from file navigation and code organization to IntelliSense and solution-wide analysis, with some features working less smoothly than in C#.'
 tags: ["f-sharp", "jetbrains-rider", "intellisense", "solution-wide-analysis"]

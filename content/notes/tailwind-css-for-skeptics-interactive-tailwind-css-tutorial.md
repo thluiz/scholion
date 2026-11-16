@@ -1,6 +1,6 @@
 ---
 title: "Tailwind CSS for skeptics - Interactive Tailwind CSS tutorial"
-date: '2026-11-16T01:40:30+00:00'
+date: '2020-07-05T14:11:16+00:00'
 category: webclip
 summary: 'The page argues that Tailwind CSS can look bad at first, but its benefits make it hard to abandon, and points readers to a short interactive tutorial to try it themselves.'
 tags: ["tailwind-css", "tutorial", "frontend"]

@@ -1,6 +1,6 @@
 ---
 title: "I failed an interview because of an algorithm"
-date: '2026-11-16T01:01:47+00:00'
+date: '2020-08-26T19:31:13+00:00'
 category: webclip
 summary: 'The author recounts a multi-stage hiring process, the technical questions he answered well, and how a version-sorting challenge became the deciding factor in the rejection.'
 tags: ["interview", "hiring-process", "algorithms", "javascript"]

@@ -1,6 +1,6 @@
 ---
 title: "Have better meetings—in person or remote"
-date: '2026-11-16T03:13:09+00:00'
+date: '2020-07-05T14:11:20+00:00'
 category: webclip
 summary: 'The piece argues that remote meetings lose the clarifications, side conversations, and shared context that happen in person, so teams should make purpose, terminology, decisions, and action items explicit.'
 tags: ["remote-meetings", "meeting-practices", "software-teams"]

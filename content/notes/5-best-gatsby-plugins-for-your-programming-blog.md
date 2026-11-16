@@ -1,6 +1,6 @@
 ---
 title: "5 Best Gatsby plugins for your programming blog"
-date: '2026-11-16T00:56:30+00:00'
+date: '2020-02-22T12:12:01+00:00'
 category: webclip
 summary: 'The article explains what GatsbyJS is and presents five plugins the author uses for a programming blog: syntax highlighting, Google Analytics, PWA setup, JSON data handling, and React Helmet metadata.'
 tags: ["gatsbyjs", "gatsby-plugins", "react", "blogging"]

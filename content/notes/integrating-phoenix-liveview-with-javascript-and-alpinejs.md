@@ -1,6 +1,6 @@
 ---
 title: "Integrating Phoenix LiveView with JavaScript and AlpineJS"
-date: '2026-11-16T03:02:10+00:00'
+date: '2020-08-26T19:31:29+00:00'
 category: webclip
 summary: 'The article explains how LiveView hooks, AlpineJS, and Spruce let client-side code react to LiveView assigns, send events back to the server, and share state across components.'
 tags: ["phoenix-liveview", "alpinejs", "javascript-hooks", "spruce"]

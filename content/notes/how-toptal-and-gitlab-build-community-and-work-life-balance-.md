@@ -1,6 +1,6 @@
 ---
 title: "How Toptal and GitLab build community and work-life balance in Slack"
-date: '2026-11-16T02:20:38+00:00'
+date: '2020-04-20T21:22:28+00:00'
 category: webclip
 summary: 'Toptal and GitLab use Slack to keep remote teams connected, organize communication by channel, protect off-hours, and make meetings more deliberate across time zones.'
 tags: ["remote-work", "slack", "team-culture", "work-life-balance"]

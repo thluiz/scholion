@@ -1,6 +1,6 @@
 ---
 title: "Location Rebel: Build a Sustainable Freelance Writing Business"
-date: '2026-11-16T05:24:25+00:00'
+date: '2016-07-09T20:00:56+00:00'
 category: webclip
 summary: 'The page invites readers to learn how to make their first $1,000 from freelance writing in 30 days or less and to join a six-part course with over 40,000 participants.'
 tags: ["freelance-writing", "online-course", "income"]

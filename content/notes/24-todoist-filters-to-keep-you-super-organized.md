@@ -1,6 +1,6 @@
 ---
 title: "24 Todoist Filters to Keep You Super Organized"
-date: '2026-11-16T04:41:59+00:00'
+date: '2020-08-26T19:31:20+00:00'
 category: webclip
 summary: 'The page points to related Todoist articles about task management, getting tasks into Todoist, and mental fatigue, framing Todoist as a way to keep work clear and actionable.'
 tags: ["todoist", "task-management", "productivity"]

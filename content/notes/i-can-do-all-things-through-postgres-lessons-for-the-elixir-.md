@@ -1,6 +1,6 @@
 ---
 title: "I can do all things through Postgres: Lessons for the Elixir programmer"
-date: '2026-11-16T06:10:05+00:00'
+date: '2020-07-05T14:10:41+00:00'
 category: webclip
 summary: 'The post argues that some application logic is better handled by Postgres than by Elixir code, using examples like constraints, citext, nearby rows, CTEs, and fuzzy search.'
 tags: ["postgres", "elixir", "ecto", "sql"]

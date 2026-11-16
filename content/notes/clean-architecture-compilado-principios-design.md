@@ -1,6 +1,6 @@
 ---
 title: "Clean Architecture: um compilado dos Princípios de Design"
-date: '2026-11-16T02:01:27+00:00'
+date: '2020-08-26T19:31:15+00:00'
 category: webclip
 summary: 'A página compila como os princípios SOLID mudam no nível de arquitetura, com foco em limites entre sistemas, extensibilidade, coesão, dependências e redução de acoplamento.'
 tags: ["solid", "clean-architecture", "design-de-software", "arquitetura-de-software"]

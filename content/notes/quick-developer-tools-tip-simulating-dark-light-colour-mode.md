@@ -1,6 +1,6 @@
 ---
 title: "Quick developer tools tip: simulating dark/light colour mode"
-date: '2026-11-16T02:30:56+00:00'
+date: '2020-02-22T12:11:49+00:00'
 category: webclip
 summary: 'The post shows how to use browser developer tools to emulate dark mode, light mode, reduced motion, and high contrast so products can be tested without changing the whole OS.'
 tags: ["developer-tools", "dark-mode", "accessibility"]

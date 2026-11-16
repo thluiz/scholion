@@ -1,6 +1,6 @@
 ---
 title: "My Top 5 Ways to Improve Software Quality from 2019"
-date: '2026-11-16T08:00:30+00:00'
+date: '2020-02-22T12:11:49+00:00'
 category: webclip
 summary: 'The author highlights five quality practices from 2019: praise preventive work, spend more time on code review, use pinning tests, compare legacy and new code in production, and make technical debt visible to non-developers.'
 tags: ["software-quality", "code-review", "technical-debt", "testing"]

@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Akka.Streams"
-date: '2026-11-16T02:28:54+00:00'
+date: '2020-02-22T12:11:49+00:00'
 category: webclip
 summary: 'Akka.Streams is a type-safe, resource-safe streaming library on top of Akka.NET. The post explains declarative stages, batching, backpressure, materialization, graphs, and how it compares with Rx.NET and TPL Dataflow.'
 tags: ["akka-streams", "backpressure", "materialization", "tpl-dataflow"]

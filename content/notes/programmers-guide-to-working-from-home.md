@@ -1,6 +1,6 @@
 ---
 title: "Programmer’s Guide to Working From Home"
-date: '2026-11-16T01:49:13+00:00'
+date: '2020-04-20T21:22:37+00:00'
 category: webclip
 summary: 'The page recommends starting the day actively, planning meals and breaks, exercising, using video calls, and setting work hours to stay focused and avoid drifting into laziness.'
 tags: ["working-from-home", "remote-work", "productivity", "daily-routine"]

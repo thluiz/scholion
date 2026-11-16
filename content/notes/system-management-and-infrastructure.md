@@ -1,6 +1,6 @@
 ---
 title: "System Management and Infrastructure"
-date: '2026-11-16T07:52:58+00:00'
+date: '2019-05-16T22:53:08+00:00'
 category: webclip
 summary: 'This section groups patterns for administering actors and messages, rerouting or inspecting messages, attaching metadata, tracking request-reply flows, testing messages, and purging channels.'
 tags: ["actor-model", "message-patterns", "system-management", "infrastructure"]

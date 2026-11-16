@@ -1,6 +1,6 @@
 ---
 title: "Elixir currency and localized number format"
-date: '2026-11-16T05:56:31+00:00'
+date: '2020-07-05T14:11:20+00:00'
 category: webclip
 summary: 'The post shows how to add CLDR-based localization in Elixir, set up dependencies, configure locales, and format a currency amount with `Cldr.Number.to_string/2`.'
 tags: ["elixir", "localization", "currency-formatting", "cldr"]

@@ -1,6 +1,6 @@
 ---
 title: "How Do I Write Good Code?"
-date: '2026-11-16T03:28:41+00:00'
+date: '2016-08-08T17:00:31+00:00'
 category: webclip
 summary: 'The post ranks five priorities for good code: make it easy to change, readable, working, elegant, and shaped by advice from experienced practitioners.'
 tags: ["code-quality", "readability", "test-driven-development", "software-practice"]

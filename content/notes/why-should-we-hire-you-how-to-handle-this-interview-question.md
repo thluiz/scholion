@@ -1,6 +1,6 @@
 ---
 title: "Why should we hire you? - How to handle this interview question"
-date: '2026-11-16T08:20:25+00:00'
+date: '2021-08-02T17:13:33+00:00'
 category: webclip
 summary: 'The article says this interview question tests fit, self-presentation, and company interest. It recommends preparing evidence, comparing yourself with the role, and using interview details in your answer.'
 tags: ["interview", "job-search", "self-presentation"]

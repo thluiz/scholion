@@ -1,6 +1,6 @@
 ---
 title: "Getting Started with Freelancing with Kyle Prinsloo | Web Designers and Developers"
-date: '2026-11-16T01:57:06+00:00'
+date: '2020-08-26T19:31:11+00:00'
 category: webclip
 summary: 'A live chat with Kyle Prinsloo about starting a freelancing business for web designers and developers, with open questions, beginner-friendly access, and links to his course, podcast, and Twitter.'
 tags: ["freelancing", "web-designers", "web-developers", "live-chat"]

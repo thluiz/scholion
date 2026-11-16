@@ -1,6 +1,6 @@
 ---
 title: "Livro: Métodos Ágeis para Desenvolvimento de Software"
-date: '2026-11-16T02:57:13+00:00'
+date: '2016-08-25T21:25:32+00:00'
 category: webclip
 summary: 'Paulo Caroli is an author, speaker, and consultant in agile transformations, Lean Inception, and OKRs. His work focuses on moving organizations from project to product and from strategy to execution.'
 tags: ["agile-transformations", "lean-inception", "okrs"]

@@ -1,6 +1,6 @@
 ---
 title: "Don't ask if the duct-tape banana is art. Ask if it's any good."
-date: '2026-11-16T08:05:07+00:00'
+date: '2020-02-22T12:12:01+00:00'
 category: webclip
 summary: 'The piece argues that calling something “not art” dodges the real question. Artists can define their work as art; critics and viewers should judge whether it succeeds, fails, or says anything useful.'
 tags: ["art-criticism", "contemporary-art", "maurizio-cattelan", "art-market"]

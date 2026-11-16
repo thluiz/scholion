@@ -1,6 +1,6 @@
 ---
 title: "Code Smells in JavaScript. We look at feature envy and intimate…"
-date: '2026-11-16T05:49:16+00:00'
+date: '2020-02-22T12:11:43+00:00'
 category: webclip
 summary: 'The article defines code smells and explains feature envy in JavaScript: one class relies too much on another class’s fields, which breaks encapsulation.'
 tags: ["javascript", "code-smells", "encapsulation"]

@@ -1,6 +1,6 @@
 ---
 title: "Meu sistema GTD atual – Julho 2016"
-date: '2026-11-16T08:08:03+00:00'
+date: '2016-07-21T13:11:33+00:00'
 category: webclip
 summary: 'A autora mostra como organiza seu GTD no Todoist, Google Agenda, Evernote, Dropbox e papel, com listas, projetos, áreas, metas, visão, princípios e arquivos em transição.'
 tags: ["gtd", "todoist", "organizacao-pessoal", "planejamento"]

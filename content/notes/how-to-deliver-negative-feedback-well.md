@@ -1,6 +1,6 @@
 ---
 title: "How to deliver negative feedback well: The 4 things that good managers do (that bad managers don't)"
-date: '2026-11-16T05:05:56+00:00'
+date: '2020-02-22T12:11:42+00:00'
 category: webclip
 summary: 'The article says managers can give negative feedback by leading with care, observation, fallibility, and curiosity so the conversation stays honest, productive, and useful.'
 tags: ["negative-feedback", "management", "communication"]

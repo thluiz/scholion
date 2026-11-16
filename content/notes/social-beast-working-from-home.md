@@ -1,6 +1,6 @@
 ---
 title: "Social beast, working from home"
-date: '2026-11-16T01:47:20+00:00'
+date: '2020-04-20T21:22:36+00:00'
 category: webclip
 summary: 'The writer describes adjusting to remote work during quarantine by building a morning routine, using music, watching food intake, staying kind, exercising, and keeping social contact through video calls.'
 tags: ["remote-work", "work-from-home", "quarantine", "wellbeing"]

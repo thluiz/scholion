@@ -1,6 +1,6 @@
 ---
 title: "3 Classic Books for Tech Leads (or those aspiring to be)"
-date: '2026-11-16T08:16:29+00:00'
+date: '2020-08-26T19:31:11+00:00'
 category: webclip
 summary: 'The article recommends three classic books for engineers moving into leadership: Peopleware, Driving Technical Change, and The Mythical Man-Month, and explains what each offers for managing teams and influence.'
 tags: ["tech-lead", "software-engineering", "leadership", "books"]

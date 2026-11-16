@@ -1,6 +1,6 @@
 ---
 title: "7 Things You Wouldn’t Think Make Leaders Great (but They Do)"
-date: '2026-11-16T05:22:46+00:00'
+date: '2016-05-20T17:17:17+00:00'
 category: webclip
 summary: 'The piece argues that great leadership comes from holding contradictions together, pairing strength with vulnerability, toughness with tenderness, help with restraint, and openness with decisiveness.'
 tags: ["leadership", "contradictions", "management"]

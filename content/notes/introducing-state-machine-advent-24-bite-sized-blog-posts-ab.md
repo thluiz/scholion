@@ -1,6 +1,6 @@
 ---
 title: "Introducing state machine advent: 24 bite-sized blog posts about state machines and statecharts"
-date: '2026-11-16T00:52:01+00:00'
+date: '2020-02-22T12:11:59+00:00'
 category: webclip
 summary: 'The author introduces a 24-day series on state machines and statecharts, motivated by Redux limitations and a need to model application states and transitions more strictly.'
 tags: ["state-machines", "statecharts", "xstate", "redux"]

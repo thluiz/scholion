@@ -1,6 +1,6 @@
 ---
 title: "Real World Phoenix |> Let's auth some users |> Pow!"
-date: '2026-11-16T08:13:48+00:00'
+date: '2020-07-05T14:11:26+00:00'
 category: webclip
 summary: 'The post shows how to add Pow to a Phoenix app for user registration and session-based authentication, from dependency setup and config to routes and a protected pipeline.'
 tags: ["phoenix", "elixir", "authentication", "pow"]

@@ -1,6 +1,6 @@
 ---
 title: "5 ways to center a div vertically and horizontally using CSS"
-date: '2026-11-16T01:33:04+00:00'
+date: '2020-07-05T14:10:38+00:00'
 category: webclip
 summary: 'The article collects five CSS ways to center a div both horizontally and vertically, comparing Flexbox, Grid, positioning, margin, and table-based layouts, plus a bonus table approach.'
 tags: ["css", "layout", "flexbox", "grid"]

@@ -1,6 +1,6 @@
 ---
 title: "Why JavaScript Is Lapping The Competition"
-date: '2026-11-16T01:16:58+00:00'
+date: '2020-07-05T14:11:24+00:00'
 category: webclip
 summary: 'The post argues that JavaScript advanced quickly because Node, NPM, and Babel let developers adopt and test features before the ECMAScript committee standardized them.'
 tags: ["javascript", "ecmascript", "npm", "babel"]

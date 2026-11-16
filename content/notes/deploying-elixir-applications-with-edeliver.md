@@ -1,6 +1,6 @@
 ---
 title: "Deploying Elixir applications with Edeliver"
-date: '2026-11-16T03:52:05+00:00'
+date: '2020-07-05T14:10:39+00:00'
 category: webclip
 summary: 'The post explains how Edeliver simplifies Elixir deploys, how its build, staging, and production environments work, and how to add Phoenix asset tasks and environment variables to the release flow.'
 tags: ["deployment", "elixir", "phoenix", "config"]

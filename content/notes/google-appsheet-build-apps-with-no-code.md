@@ -1,6 +1,6 @@
 ---
 title: "Google AppSheet | Build apps with no code"
-date: '2026-11-16T04:27:06+00:00'
+date: '2020-04-20T21:22:36+00:00'
 category: webclip
 summary: 'AppSheet lets customers build apps with intuitive tools and no code, and Airbus says one person built an inventory logistics app in a couple of days instead of months with several developers.'
 tags: ["no-code", "app-building", "google-workspace"]

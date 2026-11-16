@@ -1,6 +1,6 @@
 ---
 title: "How Everyday People Can Become Extraordinary Leaders"
-date: '2026-11-16T05:43:39+00:00'
+date: '2021-07-23T18:01:52+00:00'
 category: webclip
 summary: 'An interview with Jim Kouzes and Barry Posner argues that leadership is available to most people through listening, shared vision, challenge, trust, accountability, learning, and recognition, even without title or authority.'
 tags: ["leadership", "trust", "accountability", "learning"]

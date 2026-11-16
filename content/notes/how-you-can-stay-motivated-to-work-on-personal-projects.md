@@ -1,6 +1,6 @@
 ---
 title: "How you can stay motivated to work on personal projects"
-date: '2026-11-16T01:01:15+00:00'
+date: '2020-08-26T19:31:13+00:00'
 category: webclip
 summary: 'The author says unfinished side projects are normal and gives practical ways to keep going: wait a day before starting, use checklists and boilerplates, limit new technologies, set time and scope, and share the work.'
 tags: ["personal-projects", "productivity", "side-projects", "open-source"]

@@ -1,6 +1,6 @@
 ---
 title: "Hiring Tech Talent: How a Startup Can Outgun a Goliath Tech Companies"
-date: '2026-11-16T08:06:22+00:00'
+date: '2016-08-25T21:25:33+00:00'
 category: webclip
 summary: 'The piece argues that startups can compete for engineers by telling a clear story, building community, offering real impact, paying competitive cash, and keeping the hiring process fast and respectful.'
 tags: ["hiring", "startup-recruiting", "software-engineers", "tech-talent"]

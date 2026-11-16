@@ -1,6 +1,6 @@
 ---
 title: "In the 'Wild West' of Geometry, Mathematicians Redefine the Sphere"
-date: '2026-11-16T04:46:54+00:00'
+date: '2023-11-08T11:33:53+00:00'
 category: webclip
 summary: 'The article explains how spheres serve as a key test case in contact geometry and how a new kind of contact sphere helps generate infinitely many new contact manifolds, extending work on overtwisted structures.'
 tags: ["contact-geometry", "spheres", "contact-manifolds"]

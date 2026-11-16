@@ -1,6 +1,6 @@
 ---
 title: "How to Create a Simple CI/CD Pipeline"
-date: '2026-11-16T01:19:20+00:00'
+date: '2020-07-05T14:11:25+00:00'
 category: webclip
 summary: 'The page explains how CI/CD pipelines automate builds, tests, and deployments, and shows how Microtica uses a declarative YAML file to define build steps, create Docker images, and track pipeline health.'
 tags: ["ci-cd", "microtica", "declarative-pipeline", "docker"]

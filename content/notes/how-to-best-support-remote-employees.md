@@ -1,6 +1,6 @@
 ---
 title: "How to best support remote employees"
-date: '2026-11-16T05:18:57+00:00'
+date: '2020-07-05T14:11:17+00:00'
 category: webclip
 summary: 'The post lists eight management practices for remote teams: ask better check-in questions, trust employees, remove obstacles, create psychological safety, save time, lead with empathy, and care for yourself.'
 tags: ["remote-work", "team-management", "employee-support", "psychological-safety"]

@@ -1,6 +1,6 @@
 ---
 title: "Take Remote Worker/Educator Webcam Video Calls to the Next Level with OBS, NDI Tools, and Elgato Stream Deck"
-date: '2026-11-16T04:26:22+00:00'
+date: '2020-04-20T21:22:36+00:00'
 category: webclip
 summary: 'The post shows how to route webcams, desktop capture, and other sources through OBS, send the result as a virtual webcam, and switch scenes instantly in video calls with NDI tools or OBS virtual camera.'
 tags: ["obs", "ndi", "stream-deck", "virtual-webcam"]

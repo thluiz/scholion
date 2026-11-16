@@ -1,6 +1,6 @@
 ---
 title: "Simple Design"
-date: '2026-11-16T04:46:22+00:00'
+date: '2023-11-01T22:48:56+00:00'
 category: webclip
 summary: 'Kent Beck’s Simple Design rules prioritize working code first, then clarity, then avoiding duplication, and only after that reducing the number of classes, methods, and modules.'
 tags: ["simple-design", "kent-beck", "xp", "dry"]

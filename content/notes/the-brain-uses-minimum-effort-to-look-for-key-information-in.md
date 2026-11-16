@@ -1,6 +1,6 @@
 ---
 title: "The brain uses minimum effort to look for key information in text"
-date: '2026-11-16T03:44:17+00:00'
+date: '2020-07-05T14:10:35+00:00'
 category: webclip
 summary: 'The study says the brain limits effort while reading and allocates more resources to words that add the most information, which EEG and AI-based methods can help predict.'
 tags: ["brain-activity", "information-processing", "reading", "eeg"]

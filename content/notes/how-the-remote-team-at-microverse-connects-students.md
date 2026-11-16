@@ -1,6 +1,6 @@
 ---
 title: "How the Remote Team at Microverse Connects Students to Remote Opportunities"
-date: '2026-11-16T03:36:36+00:00'
+date: '2020-07-05T14:10:31+00:00'
 category: webclip
 summary: 'Microverse trains software developers for global jobs with a pay-after-hire model, small cohorts, and strong career support, while using Twist to keep its distributed team aligned through transparency, autonomy, and trust.'
 tags: ["remote-work", "online-education", "twist", "microverse"]

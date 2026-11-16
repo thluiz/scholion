@@ -1,6 +1,6 @@
 ---
 title: "Mesa Redonda #42 - Novidades do Build 2020"
-date: '2026-11-16T04:02:55+00:00'
+date: '2020-07-05T14:10:45+00:00'
 category: webclip
 summary: 'Mesa redonda do Coding Night sobre os anúncios do Build 2020, com conversa sobre .NET, C#, ASP.NET, Xamarin, Blazor, Visual Studio, Visual Studio Code, Azure e GitHub Actions.'
 tags: ["build-2020", "dotnet", "microsoft-azure"]

@@ -1,6 +1,6 @@
 ---
 title: "Javascript Logging Tips and Tricks"
-date: '2026-11-16T01:38:58+00:00'
+date: '2020-07-05T14:10:46+00:00'
 category: webclip
 summary: 'The post shows extra `console` methods for front-end debugging, including styled logging, assertions, table output, and CSS-based custom styles beyond `console.log`.'
 tags: ["javascript", "console", "debugging"]

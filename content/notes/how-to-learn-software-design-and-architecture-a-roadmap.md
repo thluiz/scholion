@@ -1,6 +1,6 @@
 ---
 title: "How to Learn Software Design and Architecture - a Roadmap"
-date: '2026-11-16T02:43:42+00:00'
+date: '2020-02-22T12:11:53+00:00'
 category: webclip
 summary: 'The article lays out a progression for learning software design and architecture, from clean code and programming paradigms to design principles, patterns, architectural styles, and enterprise patterns for large systems.'
 tags: ["software-design", "software-architecture", "clean-code", "design-patterns"]

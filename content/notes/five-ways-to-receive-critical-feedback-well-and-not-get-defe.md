@@ -1,6 +1,6 @@
 ---
 title: "Five ways to receive critical feedback well — and not get defensive"
-date: '2026-11-16T05:05:29+00:00'
+date: '2020-02-22T12:11:42+00:00'
 category: webclip
 summary: 'The article says a leader’s reaction to criticism shapes company culture. It recommends empathy, pausing, note-taking, assuming positive intent, and talking less.'
 tags: ["feedback", "leadership", "company-culture", "one-on-one-meetings"]

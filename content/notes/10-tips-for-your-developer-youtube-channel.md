@@ -1,6 +1,6 @@
 ---
 title: "10 Tips for Your Developer YouTube Channel"
-date: '2026-11-16T00:53:44+00:00'
+date: '2020-02-22T12:12:01+00:00'
 category: webclip
 summary: 'The article gives ten practical tips for developer YouTube channels, emphasizing steady content output, simple equipment, a content schedule, analytics, and enjoying the creation process more than chasing polished visuals.'
 tags: ["youtube-channel", "content-creation", "video-editing", "analytics"]

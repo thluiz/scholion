@@ -1,6 +1,6 @@
 ---
 title: "The SAM (State - Action - Model) pattern"
-date: '2026-11-16T03:23:15+00:00'
+date: '2016-06-03T15:25:14+00:00'
 category: webclip
 summary: 'SAM is presented as a reactive, functional pattern that separates business logic from the view, decouples backend APIs from the frontend, and replaces MVC with State as a further layer of separation.'
 tags: ["sam-pattern", "mvc", "frontend-architecture", "state-machine"]

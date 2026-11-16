@@ -1,6 +1,6 @@
 ---
 title: "Developers: How to Overcome Imposter Syndrome"
-date: '2026-11-16T06:01:29+00:00'
+date: '2016-08-01T13:36:59+00:00'
 category: webclip
 summary: 'The article says developers at any stage can face imposter syndrome and suggests practical ways to deal with it through mentorship, peers, curiosity, deliberate practice, and conscious decisions.'
 tags: ["imposter-syndrome", "software-development", "learning-to-code"]

@@ -1,6 +1,6 @@
 ---
 title: "Simulating Distributed Clusters for Elixir Unit Tests"
-date: '2026-11-16T08:12:11+00:00'
+date: '2020-07-05T14:10:39+00:00'
 category: webclip
 summary: 'The post explains why distributed testing in Elixir is awkward and shows Local Cluster, a small library that starts local BEAM nodes, links them to tests, and makes RPC calls easy.'
 tags: ["elixir", "distributed-testing", "unit-tests", "local-cluster"]

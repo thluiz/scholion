@@ -1,6 +1,6 @@
 ---
 title: "5-Step Strategy You Can Use for Your Next Coding Interview"
-date: '2026-11-16T01:56:52+00:00'
+date: '2020-08-26T19:31:11+00:00'
 category: webclip
 summary: 'The post proposes a five-step interview routine: clarify the problem, test examples, ask about constraints, pseudocode the approach, then code while talking and optimize after reaching a working solution.'
 tags: ["coding-interviews", "pseudocode", "problem-solving"]

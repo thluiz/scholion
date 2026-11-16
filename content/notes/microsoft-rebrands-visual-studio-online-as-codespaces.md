@@ -1,6 +1,6 @@
 ---
 title: "Microsoft rebrands Visual Studio Online as Codespaces; plans to lower pricing"
-date: '2026-11-16T03:15:36+00:00'
+date: '2020-07-05T14:11:25+00:00'
 category: webclip
 summary: 'Microsoft is renaming Visual Studio Online to Visual Studio Codespaces, saying the product is more than a browser editor, and it will lower Codespaces pricing starting May 19.'
 tags: ["microsoft", "codespaces", "visual-studio", "pricing"]

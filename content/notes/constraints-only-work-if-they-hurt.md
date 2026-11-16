@@ -1,6 +1,6 @@
 ---
 title: "Constraints only work if they hurt"
-date: '2026-11-16T04:18:17+00:00'
+date: '2020-07-05T14:11:28+00:00'
 category: webclip
 summary: 'The post argues that six-week budgets create useful constraints at Basecamp because they force trade-offs, keep quality high, and cut scope. If the constraint does not hurt, it is not doing its job.'
 tags: ["constraints", "product-development", "basecamp"]

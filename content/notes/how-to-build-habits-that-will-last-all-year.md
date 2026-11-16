@@ -1,6 +1,6 @@
 ---
 title: "How to build habits that will last all year"
-date: '2026-11-16T03:24:08+00:00'
+date: '2016-06-20T00:15:47+00:00'
 category: webclip
 summary: 'The article argues that habits stick when you start tiny, define them precisely, remove obstacles, plan for setbacks, tie them to existing routines, make them easy, and reward them.'
 tags: ["habits", "behavior-change", "goal-setting"]

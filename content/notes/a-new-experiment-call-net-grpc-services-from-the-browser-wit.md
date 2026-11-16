@@ -1,6 +1,6 @@
 ---
 title: "A new experiment: Call .NET gRPC services from the browser with gRPC-Web"
-date: '2026-11-16T02:31:25+00:00'
+date: '2020-02-22T12:11:50+00:00'
 category: webclip
 summary: 'Microsoft announces experimental gRPC-Web support for .NET, letting browser apps call ASP.NET Core gRPC services and .NET clients reach gRPC-Web endpoints without a proxy.'
 tags: ["grpc-web", "dotnet", "aspnet-core", "blazor-webassembly"]

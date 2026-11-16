@@ -1,6 +1,6 @@
 ---
 title: "Key points to consider when doing a big software refactoring"
-date: '2026-11-16T03:24:46+00:00'
+date: '2016-07-15T13:12:50+00:00'
 category: webclip
 summary: 'The post says a big refactoring needs clear business goals, progress tracking, team motivation, prioritization, test coverage, test performance, and sponsor commitment to avoid becoming endless.'
 tags: ["refactoring", "software", "cto"]

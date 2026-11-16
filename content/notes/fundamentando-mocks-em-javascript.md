@@ -1,6 +1,6 @@
 ---
 title: "Fundamentando Mocks em JavaScript"
-date: '2026-11-16T03:42:02+00:00'
+date: '2020-07-05T14:10:34+00:00'
 category: webclip
 summary: 'O texto explica o que são mocks, quando usá-los e como aplicá-los no Jest com dados, funções, módulos e spies, além de limpar os mocks depois dos testes.'
 tags: ["javascript", "jest", "mocks", "testing"]

@@ -1,6 +1,6 @@
 ---
 title: "Realize Deploy Automático de Projetos Estáticos com Azure Static Web Apps!"
-date: '2026-11-16T01:39:34+00:00'
+date: '2020-07-05T14:10:46+00:00'
 category: webclip
 summary: 'O artigo explica como o Azure Static Web Apps faz deploy automático de sites estáticos a partir de um repositório GitHub via GitHub Actions, com hospedagem grátis, SSL, staging e suporte ao Azure Functions.'
 tags: ["azure-static-web-apps", "github-actions", "jamstack", "sites-estaticos"]

@@ -1,6 +1,6 @@
 ---
 title: "27 Selective QA Interview Questions for Managers to Ask"
-date: '2026-11-16T03:49:20+00:00'
+date: '2020-07-05T14:10:38+00:00'
 category: webclip
 summary: 'The article frames QA interviews as a way to judge methodology knowledge, tools, testing depth, organization, and fit for the company’s process and tech culture.'
 tags: ["qa-interviews", "software-testing", "test-automation", "qa-practices"]

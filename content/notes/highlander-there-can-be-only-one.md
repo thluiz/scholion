@@ -1,6 +1,6 @@
 ---
 title: "Highlander, there can be only one"
-date: '2026-11-16T08:07:41+00:00'
+date: '2020-07-05T14:11:24+00:00'
 category: webclip
 summary: 'The post shows how to start a globally unique process in an Erlang cluster with `:global` and a small `Highlander` module that registers, monitors, and restarts the chosen child spec.'
 tags: ["erlang", "global-process-registry", "supervisor-child-spec"]

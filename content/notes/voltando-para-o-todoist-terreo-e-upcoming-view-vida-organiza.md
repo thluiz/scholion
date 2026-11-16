@@ -1,6 +1,6 @@
 ---
 title: "Voltando para o Todoist (térreo) e “Upcoming View” – vida organizada"
-date: '2026-11-16T08:08:50+00:00'
+date: '2020-04-20T21:22:25+00:00'
 category: webclip
 summary: 'A autora volta a usar o Todoist para próximas ações e destaca o novo “Upcoming View”, que amplia a lateral de 7 dias para uma linha do tempo mais flexível, embora sem grande ganho visual.'
 tags: ["todoist", "gtd", "proxima-acoes", "agenda"]

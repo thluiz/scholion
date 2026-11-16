@@ -1,6 +1,6 @@
 ---
 title: "9 Creative Ways to Stay Connected to Your Coworkers When You're All Working From Home"
-date: '2026-11-16T05:40:29+00:00'
+date: '2020-04-20T21:22:37+00:00'
 category: webclip
 summary: 'The article suggests remote teams keep culture and relationships alive by recreating commute time, using video, pairing on routines, sharing meals, and making room for casual contact.'
 tags: ["remote-work", "team-culture", "work-relationships"]

@@ -1,6 +1,6 @@
 ---
 title: "How to Create a Professional Chat API Solution with Sockets in NodeJS [Beginner level]"
-date: '2026-11-16T03:35:44+00:00'
+date: '2020-07-05T14:10:31+00:00'
 category: webclip
 summary: 'The article walks through building a chat API with NodeJS, Express, MongoDB, JWT middleware, and Socket.io, covering users, rooms, messages, read states, and deletion endpoints.'
 tags: ["nodejs", "express", "mongodb", "socket-io"]

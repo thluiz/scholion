@@ -1,6 +1,6 @@
 ---
 title: "How to Draw Useful Technical Architecture Diagrams"
-date: '2026-11-16T06:04:05+00:00'
+date: '2020-07-05T14:10:30+00:00'
 category: webclip
 summary: 'The article says technical architecture diagrams give a bird’s-eye view of an organization’s infrastructure, help assess change impact, and improve communication by aligning plans across projects and stakeholders.'
 tags: ["technical-architecture", "architecture-diagrams", "digital-solution-design"]

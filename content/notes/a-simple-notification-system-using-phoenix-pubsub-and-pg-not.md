@@ -1,6 +1,6 @@
 ---
 title: "A Simple Notification System using Phoenix PubSub and pg_notify"
-date: '2026-11-16T04:12:22+00:00'
+date: '2020-07-05T14:11:26+00:00'
 category: webclip
 summary: 'Elixirstatus lets users publish links back to their own work, such as new projects, blog posts, and version updates. The site is an open source Elixir and Phoenix project maintained by the community.'
 tags: ["elixir", "phoenix", "open-source"]

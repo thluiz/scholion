@@ -1,6 +1,6 @@
 ---
 title: "When to leave a job?"
-date: '2026-11-16T01:23:22+00:00'
+date: '2020-07-05T14:10:31+00:00'
 category: webclip
 summary: 'The post says to consider leaving a job when respect is lacking, learning has stalled, or pay is far below market value, with rare exceptions when a company is in a bad period.'
 tags: ["job-change", "workplace-respect", "learning", "salary"]

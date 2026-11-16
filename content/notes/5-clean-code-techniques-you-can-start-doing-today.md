@@ -1,6 +1,6 @@
 ---
 title: "5 clean code techniques you can start doing today"
-date: '2026-11-16T01:52:46+00:00'
+date: '2020-04-20T21:22:43+00:00'
 category: webclip
 summary: 'The article argues that clean code is readable, testable, and easy to change. It recommends meaningful names, small units, no side effects, less duplication, and tests.'
 tags: ["clean-code", "software-craftsmanship", "tests", "refactoring"]

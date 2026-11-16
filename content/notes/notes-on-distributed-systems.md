@@ -1,6 +1,6 @@
 ---
 title: "Notes on Distributed Systems"
-date: '2026-11-16T01:06:24+00:00'
+date: '2020-08-26T19:31:26+00:00'
 category: webclip
 summary: 'The page condenses a lecture on distributed systems, covering scaling strategies, CAP tradeoffs, distributed transactions, computation, synchronization, consensus, and messaging tools such as Hadoop, Spark, Paxos, and Kafka.'
 tags: ["distributed-systems", "scaling", "consensus", "messaging"]

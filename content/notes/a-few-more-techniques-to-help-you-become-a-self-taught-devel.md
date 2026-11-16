@@ -1,6 +1,6 @@
 ---
 title: "A few more techniques to help you become a self-taught developer"
-date: '2026-11-16T02:02:07+00:00'
+date: '2020-08-26T19:31:20+00:00'
 category: webclip
 summary: 'The article recommends daily practice, time tracking, and mentoring as ways to stay consistent, avoid quitting, and keep progressing toward web development goals.'
 tags: ["self-taught-development", "daily-practice", "time-tracking", "mentorship"]

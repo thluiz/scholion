@@ -1,6 +1,6 @@
 ---
 title: "My 10 months of coding or how to print 'hello world' and call it a startup"
-date: '2026-11-16T00:57:38+00:00'
+date: '2020-02-22T12:12:02+00:00'
 category: webclip
 summary: 'The author says coding became a fit after an HTML and CSS course, then recommends Twitter, the #100DaysOfCode challenge, coding buddies, a second language, and giving back through small projects.'
 tags: ["coding-journey", "web-development", "100daysofcode", "community"]

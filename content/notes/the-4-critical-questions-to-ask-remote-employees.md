@@ -1,6 +1,6 @@
 ---
 title: "The 4 critical questions to ask remote employees"
-date: '2026-11-16T05:34:27+00:00'
+date: '2020-07-05T14:11:16+00:00'
 category: webclip
 summary: 'The article argues that managers should ask remote employees about energy, fears, readiness to do the job, and what they need to do their best work, using follow-up questions to support them.'
 tags: ["remote-work", "management", "employee-morale", "one-on-ones"]

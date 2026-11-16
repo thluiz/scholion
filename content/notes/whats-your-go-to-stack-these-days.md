@@ -1,6 +1,6 @@
 ---
 title: "What's your go-to stack these days?"
-date: '2026-11-16T01:29:09+00:00'
+date: '2020-07-05T14:10:33+00:00'
 category: webclip
 summary: 'The thread asks what developers would choose for a new project if the goal is to ship on time and on budget, and collects answers ranging from Rust and TypeScript to Laravel, React, Kotlin, and serverless setups.'
 tags: ["software-stack", "web-development", "typescript", "rust"]

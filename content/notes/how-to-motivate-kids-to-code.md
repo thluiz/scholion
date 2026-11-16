@@ -1,6 +1,6 @@
 ---
 title: "How to Motivate Kids to Code"
-date: '2026-11-16T04:38:04+00:00'
+date: '2020-08-26T19:31:16+00:00'
 category: webclip
 summary: 'The author says kids are more likely to learn coding when they have concrete goals and visible rewards. Parents should help them choose achievable projects, track progress, and avoid micromanaging what they study.'
 tags: ["coding", "kids", "motivation", "parenting"]

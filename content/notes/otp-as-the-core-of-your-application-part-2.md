@@ -1,6 +1,6 @@
 ---
 title: "OTP as the Core of Your Application Part 2"
-date: '2026-11-16T04:34:12+00:00'
+date: '2020-08-26T19:31:12+00:00'
 category: webclip
 summary: 'The post builds an actor-model book store in Elixir with a Registry, DynamicSupervisor, and per-book GenServers, then compares its request latency and resource use with a database-centered version under load.'
 tags: ["elixir", "otp", "actor-model", "phoenix"]

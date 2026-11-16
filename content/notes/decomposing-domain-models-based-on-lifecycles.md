@@ -1,6 +1,6 @@
 ---
 title: "Decomposing domain models based on lifecycles"
-date: '2026-11-16T02:12:57+00:00'
+date: '2020-07-05T14:10:30+00:00'
 category: webclip
 summary: 'The article argues that an anemic model makes business rules implicit and hard to test, and proposes splitting a domain model by lifecycle stage, then reconnecting the pieces through an application layer or PubSub.'
 tags: ["software-design", "domain-model", "modularity"]

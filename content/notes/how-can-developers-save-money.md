@@ -1,6 +1,6 @@
 ---
 title: "How Can Developers Save Money?"
-date: '2026-11-16T06:13:32+00:00'
+date: '2020-07-05T14:11:17+00:00'
 category: webclip
 summary: 'The article says developers can save money by cutting cable TV and choosing lower-tier internet plans, since both cost a lot more than the value they usually provide.'
 tags: ["saving-money", "cable-tv", "internet-plans"]

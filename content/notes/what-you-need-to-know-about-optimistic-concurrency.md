@@ -1,6 +1,6 @@
 ---
 title: "What You Need to Know About Optimistic Concurrency"
-date: '2026-11-16T01:29:52+00:00'
+date: '2020-07-05T14:10:34+00:00'
 category: webclip
 summary: 'Explains optimistic concurrency as a way to detect conflicting updates after they happen, usually with version numbers or etags, and contrasts it with pessimistic concurrency and optimistic updating.'
 tags: ["optimistic-concurrency", "version-numbers", "etag", "web-applications"]

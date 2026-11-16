@@ -1,6 +1,6 @@
 ---
 title: "Google Meet premium video meetings—free for everyone"
-date: '2026-11-16T03:16:05+00:00'
+date: '2020-07-05T14:11:25+00:00'
 category: webclip
 summary: 'Google makes Meet free for anyone with an email address, while rolling it out gradually. The post highlights built-in security, 60-minute free meetings, and expanded access for individuals, teams, businesses, and schools.'
 tags: ["google-meet", "video-conferencing", "security", "remote-work"]

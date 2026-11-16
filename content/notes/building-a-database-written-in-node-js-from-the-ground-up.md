@@ -1,6 +1,6 @@
 ---
 title: "Building a Database Written in Node.js from the Ground Up"
-date: '2026-11-16T01:59:47+00:00'
+date: '2020-08-26T19:31:12+00:00'
 category: webclip
 summary: 'HarperDB says it chose Node.js because the team knew it well, it is lightweight and scalable, and npm helped speed development. The article outlines the stack, REST API, clustering, and LMDB storage.'
 tags: ["nodejs", "database-architecture", "harperdb", "npm"]

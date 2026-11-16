@@ -1,6 +1,6 @@
 ---
 title: "How I went from 0 to 1,050 Developer Blog Email Signups in 6 Months"
-date: '2026-11-16T01:31:12+00:00'
+date: '2020-07-05T14:10:35+00:00'
 category: webclip
 summary: 'The author says his developer email list grew to over 1,000 signups in about six months by asking on blog posts, publishing often, writing useful posts, crossposting, and adding signup links to videos and side projects.'
 tags: ["email-list-growth", "blogging", "developer-marketing", "crossposting"]

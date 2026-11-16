@@ -1,6 +1,6 @@
 ---
 title: "Passos Práticos Que Homens Podem Tomar para Apoiar o Feminismo"
-date: '2026-11-16T06:02:02+00:00'
+date: '2016-08-05T16:28:02+00:00'
 category: webclip
 summary: 'O texto relata uma ação interna da ThoughtWorks para traduzir e expor 35 passos práticos que homens podem tomar para apoiar o feminismo, usando cartazes e post-its para provocar conversa e reflexão no trabalho.'
 tags: ["feminismo", "igualdade-de-genero", "thoughtworks", "cultura-organizacional"]

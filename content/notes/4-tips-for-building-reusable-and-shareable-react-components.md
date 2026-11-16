@@ -1,6 +1,6 @@
 ---
 title: "4 Tips for Building Reusable and Shareable React Components"
-date: '2026-11-16T01:44:56+00:00'
+date: '2020-04-20T21:22:33+00:00'
 category: webclip
 summary: 'The article says reusable React components become easier to use, maintain, document, and share when they are typed with TypeScript, extended with React interfaces, and prepared for collaboration across repositories.'
 tags: ["react", "typescript", "component-docs", "shared-components"]

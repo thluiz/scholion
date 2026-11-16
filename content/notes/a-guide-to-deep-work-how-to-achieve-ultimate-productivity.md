@@ -1,6 +1,6 @@
 ---
 title: "A Guide to Deep Work: How to Achieve the Ultimate Productivity"
-date: '2026-11-16T01:31:28+00:00'
+date: '2020-07-05T14:10:35+00:00'
 category: webclip
 summary: 'The page argues that deep work means focused effort on cognitively demanding tasks, which produces higher-quality output, and gives six habits for making it part of a workday.'
 tags: ["deep-work", "productivity", "project-management"]

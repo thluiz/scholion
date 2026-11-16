@@ -1,6 +1,6 @@
 ---
 title: "Gabs Ferreira"
-date: '2026-11-16T05:08:20+00:00'
+date: '2020-02-22T12:11:44+00:00'
 category: webclip
 summary: 'A captura mostra apenas uma página 404, informando que a página não foi encontrada.'
 tags: ["404", "pagina-nao-encontrada"]

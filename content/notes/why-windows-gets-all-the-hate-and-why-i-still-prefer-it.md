@@ -1,6 +1,6 @@
 ---
 title: "Why Windows gets all the hate... And why I still prefer to use it"
-date: '2026-11-16T07:49:36+00:00'
+date: '2020-07-05T14:10:31+00:00'
 category: webclip
 summary: 'The post argues that Windows draws criticism because Microsoft prioritizes backward compatibility, which preserves legacy code and old interfaces, while also listing built-in features and software availability as reasons the author still prefers it.'
 tags: ["windows", "backward-compatibility", "software-compatibility", "operating-systems"]

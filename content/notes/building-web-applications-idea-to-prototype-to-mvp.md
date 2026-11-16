@@ -1,6 +1,6 @@
 ---
 title: "Building Web Applications, a tale of Idea to Prototype to MVP"
-date: '2026-11-16T03:03:09+00:00'
+date: '2020-04-20T21:22:28+00:00'
 category: webclip
 summary: 'The post says the path from idea to MVP goes through a prototype first, because prototyping helps work out the problem, test the UI and code flow, and build the product before it becomes public.'
 tags: ["web-applications", "prototyping", "mvp"]

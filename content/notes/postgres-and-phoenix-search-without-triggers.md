@@ -1,6 +1,6 @@
 ---
 title: "Postgres & Phoenix Search Without Triggers"
-date: '2026-11-16T03:00:01+00:00'
+date: '2020-08-26T19:31:26+00:00'
 category: webclip
 summary: 'The post replaces trigger-based materialized-view refreshes with an Elixir GenServer that batches and refreshes search views asynchronously, then adds trigram similarity and saved-search suggestions.'
 tags: ["postgresql", "phoenix", "elixir", "search"]

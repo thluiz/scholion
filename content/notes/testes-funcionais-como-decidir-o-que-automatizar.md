@@ -1,6 +1,6 @@
 ---
 title: "Testes Funcionais - Como decidir o que automatizar?"
-date: '2026-11-16T03:25:40+00:00'
+date: '2016-07-24T04:16:55+00:00'
 category: webclip
 summary: 'O texto explica por que automatizar testes, destacando feedback rápido, repetibilidade e economia de tempo, e propõe decidir o que automatizar pela relevância de negócio e pela taxa de erro.'
 tags: ["testes-funcionais", "automacao-de-testes", "integracao-continua", "entrega-continuada"]

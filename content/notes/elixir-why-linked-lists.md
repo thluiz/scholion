@@ -1,6 +1,6 @@
 ---
 title: "Elixir | Why Linked Lists?"
-date: '2026-11-16T01:41:16+00:00'
+date: '2020-07-05T14:11:25+00:00'
 category: webclip
 summary: 'The article argues that Elixir uses linked lists because immutability makes array copying costly, while linked lists support recursive structure and structural sharing with low memory overhead.'
 tags: ["elixir", "linked-lists", "immutability", "structural-sharing"]

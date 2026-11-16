@@ -1,6 +1,6 @@
 ---
 title: "12 Science-Backed Benefits of Taking Cold Showers"
-date: '2026-11-16T04:47:08+00:00'
+date: '2023-11-12T21:23:50+00:00'
 category: webclip
 summary: 'The article lists 12 claimed benefits of cold showers, including mood, alertness, circulation, metabolism, recovery, immunity, focus, resilience, and testosterone, while noting limits and possible drawbacks.'
 tags: ["cold-showers", "recovery", "metabolism", "mental-health"]

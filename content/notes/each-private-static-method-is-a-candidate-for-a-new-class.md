@@ -1,6 +1,6 @@
 ---
 title: "Each Private Static Method Is a Candidate for a New Class"
-date: '2026-11-16T02:43:27+00:00'
+date: '2020-02-22T12:11:53+00:00'
 category: webclip
 summary: 'The article argues that private static methods should usually become classes instead, because classes can be reused and tested while private static methods cannot.'
 tags: ["private-static-methods", "reusability", "testability", "oop"]

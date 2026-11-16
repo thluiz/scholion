@@ -1,6 +1,6 @@
 ---
 title: "New programming language rankings: Python now as popular as Java, as TypeScript climbs"
-date: '2026-11-16T02:18:18+00:00'
+date: '2020-04-20T21:22:45+00:00'
 category: webclip
 summary: 'RedMonk’s latest ranking ties Python with Java for second place behind JavaScript, while TypeScript, Go, Kotlin, Dart, and R move up in the list.'
 tags: ["programming-languages", "python", "typescript", "redmonk"]

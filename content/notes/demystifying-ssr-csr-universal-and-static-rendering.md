@@ -1,6 +1,6 @@
 ---
 title: "Demystifying SSR, CSR, universal and static rendering with animations"
-date: '2026-11-16T00:28:42+00:00'
+date: '2020-04-20T21:22:44+00:00'
 category: webclip
 summary: 'The page contrasts SSR, CSR, universal rendering, and static rendering from a user''s perspective, then compares SEO, initial load speed, navigation behavior, hosting needs, and fit for frequent updates.'
 tags: ["server-side-rendering", "client-side-rendering", "static-rendering", "universal-rendering"]

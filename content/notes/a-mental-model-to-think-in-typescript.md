@@ -1,6 +1,6 @@
 ---
 title: "A Mental Model to think in TypeScript"
-date: '2026-11-16T08:17:34+00:00'
+date: '2020-08-26T19:31:16+00:00'
 category: webclip
 summary: 'The post argues that developers already think in types, and TypeScript makes that mental model explicit with annotations, narrowing, structural typing, and tooling that catches errors before runtime.'
 tags: ["typescript", "type-system", "compile-time", "tooling"]

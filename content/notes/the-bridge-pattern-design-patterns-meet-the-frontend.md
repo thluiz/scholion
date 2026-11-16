@@ -1,6 +1,6 @@
 ---
 title: "The Bridge Pattern - Design Patterns meet the Frontend"
-date: '2026-11-16T00:53:28+00:00'
+date: '2020-02-22T12:12:00+00:00'
 category: webclip
 summary: 'The article explains the Bridge Pattern as a way to separate abstraction from implementation, reduce coupling, and let both evolve independently, with examples in Angular and a frontend data access layer.'
 tags: ["bridge-pattern", "frontend", "angular", "type-script"]

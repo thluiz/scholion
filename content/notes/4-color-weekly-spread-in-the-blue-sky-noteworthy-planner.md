@@ -1,6 +1,6 @@
 ---
 title: "4 Color Weekly Spread in the Blue Sky Noteworthy Planner"
-date: '2026-11-16T04:30:03+00:00'
+date: '2020-04-20T21:22:42+00:00'
 category: webclip
 summary: 'The post shows a Blue Sky Noteworthy Planner weekly spread set up with stickers, whiteout tape, and Staedtler Twin Tip pens. It also notes the narrow checklist columns and why the planner still works for the author.'
 tags: ["planner-spread", "weekly-layout", "planner-decoration"]

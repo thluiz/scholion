@@ -1,6 +1,6 @@
 ---
 title: "Recursive SQL Queries with PostgreSQL"
-date: '2026-11-16T01:49:45+00:00'
+date: '2020-04-20T21:22:37+00:00'
 category: webclip
 summary: 'The article explains recursive CTEs in PostgreSQL, shows how they traverse employee hierarchies and graphs, and notes that recursive queries can also generate infinite streams and recursive views.'
 tags: ["postgresql", "recursive-cte", "sql", "graphs"]

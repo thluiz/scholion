@@ -1,6 +1,6 @@
 ---
 title: "Happy and productive at work: Predicting opportune moments to switch tasks and take breaks"
-date: '2026-11-16T03:03:29+00:00'
+date: '2020-04-20T21:22:28+00:00'
 category: webclip
 summary: 'Microsoft Research describes models that combine activity logs, task lists, and facial-expression emotion data to recommend when an information worker should continue, switch tasks, or take a break.'
 tags: ["microsoft-research", "task-switching", "breaks", "productivity"]

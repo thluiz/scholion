@@ -1,6 +1,6 @@
 ---
 title: "Technical Writing: What and How?"
-date: '2026-11-16T03:36:21+00:00'
+date: '2020-07-05T14:10:31+00:00'
 category: webclip
 summary: 'The article defines technical writing as clear explanation of complex topics, then lists core skills, first steps, and career paths. It stresses practice, research, audience awareness, and consistency.'
 tags: ["technical-writing", "writing-skills", "career-opportunities"]

@@ -1,6 +1,6 @@
 ---
 title: "How to run an online conference"
-date: '2026-11-16T03:41:02+00:00'
+date: '2020-07-05T14:10:33+00:00'
 category: webclip
 summary: 'The post explains how All Day Hey! Live moved an in-person conference online, covering the reasons for doing so, the tools used, the broadcast setup, contingency planning, accessibility, and support.'
 tags: ["online-conferences", "live-streaming", "event-production", "zoom"]

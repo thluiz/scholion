@@ -1,6 +1,6 @@
 ---
 title: "How to run multiple Node and Angular versions simultaneously"
-date: '2026-11-16T01:47:37+00:00'
+date: '2020-04-20T21:22:36+00:00'
 category: webclip
 summary: 'The article shows how to keep separate Node versions with nvm and use the local Angular CLI from each project, so each app runs with its matching toolchain.'
 tags: ["node", "angular-cli", "nvm", "version-management"]

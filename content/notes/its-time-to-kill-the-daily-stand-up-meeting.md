@@ -1,6 +1,6 @@
 ---
 title: "It's time to kill the daily stand-up meeting"
-date: '2026-11-16T05:21:45+00:00'
+date: '2020-07-05T14:11:20+00:00'
 category: webclip
 summary: 'The post argues that daily stand-ups often waste time, interrupt work, and lose context. It recommends replacing them with automated status updates and separate meetings for reflection, recognition, connection, and vision.'
 tags: ["daily-stand-up", "team-meetings", "status-updates", "remote-work"]

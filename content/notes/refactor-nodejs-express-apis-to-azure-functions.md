@@ -1,6 +1,6 @@
 ---
 title: "Tutorial: Refactor Your Node.js and Express APIs to Serverless APIs with Azure Functions"
-date: '2026-11-16T01:21:57+00:00'
+date: '2020-04-20T21:22:21+00:00'
 category: webclip
 summary: 'The tutorial walks through shifting a Node.js and Express API to Azure Functions, with the aim of reducing server maintenance, scaling work, and deployment costs while keeping the app running locally during refactoring.'
 tags: ["nodejs", "express", "azure-functions", "serverless"]

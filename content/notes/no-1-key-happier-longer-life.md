@@ -1,6 +1,6 @@
 ---
 title: "The No. 1 key to a happier, longer life"
-date: '2026-11-16T04:47:55+00:00'
+date: '2023-11-25T15:01:56+00:00'
 category: webclip
 summary: 'Older adults interviewed by Karl Pillemer say life feels short, regret over imagined problems wastes time, and happiness comes from choosing one’s outlook and priorities every day.'
 tags: ["happiness", "aging", "life-priorities", "regret"]

@@ -1,6 +1,6 @@
 ---
 title: "The Dangers of Categorical Thinking"
-date: '2026-11-16T02:49:19+00:00'
+date: '2020-02-22T12:11:59+00:00'
 category: webclip
 summary: 'The page shown is a consent notice from Harvard Business Review asking permission to use browser data for personalized advertising, measurement, research, and device storage, with data shared with partners and location use.'
 tags: ["cookie-consent", "privacy", "harvard-business-review"]

@@ -1,6 +1,6 @@
 ---
 title: "Como lidar com a falta de energia durante a pandemia?"
-date: '2026-11-16T03:42:39+00:00'
+date: '2020-07-05T14:10:34+00:00'
 category: webclip
 summary: 'O texto propõe usar um diagrama de tempo e energia para decidir o que fazer em cada momento da pandemia, alternando entre priorizar tarefas, descansar e recuperar o ânimo.'
 tags: ["pandemia", "saude-mental", "energia", "rotina"]

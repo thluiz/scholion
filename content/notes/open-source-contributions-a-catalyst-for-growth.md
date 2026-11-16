@@ -1,6 +1,6 @@
 ---
 title: "Open Source contributions: A catalyst for growth."
-date: '2026-11-16T08:11:10+00:00'
+date: '2020-07-05T14:10:32+00:00'
 category: webclip
 summary: 'The author argues that open source contributions built his skills, helped him write proposals and pull requests, and opened doors to jobs, speaking opportunities, and paid roles.'
 tags: ["open-source", "software-engineering", "technical-writing", "career-growth"]

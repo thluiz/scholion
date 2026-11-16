@@ -1,6 +1,6 @@
 ---
 title: "O Fascismo é a Verdadeira Face do Capitalismo"
-date: '2026-11-16T02:09:47+00:00'
+date: '2019-12-24T19:24:08+00:00'
 category: webclip
 summary: 'Brecht defende que o fascismo é uma fase histórica do capitalismo, ligada à proteção da propriedade privada e ao domínio das classes possuidoras. Dizer a verdade sobre ele exige apontar suas causas sociais e políticas.'
 tags: ["fascismo", "capitalismo", "propriedade-privada"]

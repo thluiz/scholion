@@ -1,6 +1,6 @@
 ---
 title: "How to use Postgres NOTIFY PubSub with Elixir/Phoenix"
-date: '2026-11-16T06:15:47+00:00'
+date: '2020-07-05T14:11:26+00:00'
 category: webclip
 summary: 'The post shows how to use Postgres NOTIFY in a Phoenix app to react to table changes, wiring a custom module and a GenServer worker through the phoenix_postgres_pub_sub package.'
 tags: ["postgres", "elixir", "phoenix", "pubsub"]

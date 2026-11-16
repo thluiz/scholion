@@ -1,6 +1,6 @@
 ---
 title: "Starting a Youtube Channel and gaining my first 1000 Subscribers"
-date: '2026-11-16T00:28:22+00:00'
+date: '2020-04-20T21:22:43+00:00'
 category: webclip
 summary: 'The author says his 2020 YouTube goal was to make 365 videos, learned the tools and workflow through daily posting, and reached 1,000 subscribers by focusing on consistency, value, and better planning.'
 tags: ["youtube", "content-creation", "consistency", "video-production"]

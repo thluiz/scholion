@@ -1,6 +1,6 @@
 ---
 title: "3 Types of Toxic Software Projects"
-date: '2026-11-16T04:30:37+00:00'
+date: '2020-04-20T21:22:42+00:00'
 category: webclip
 summary: 'The article says software teams should stop projects whose value no longer justifies their cost, whether they were misstarted, have become harder than expected, or are unused code that only adds complexity.'
 tags: ["software-projects", "code-complexity", "yagni", "sunk-cost-fallacy"]

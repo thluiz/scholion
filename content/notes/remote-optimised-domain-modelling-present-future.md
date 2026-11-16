@@ -1,6 +1,6 @@
 ---
 title: "Remote-optimised Domain Modelling: The Present and Future"
-date: '2026-11-16T05:57:11+00:00'
+date: '2020-07-05T14:11:21+00:00'
 category: webclip
 summary: 'The article argues that remote domain modelling should be treated as a distinct practice, using digital tools, shorter iterations, and experiments to uncover opportunities that in-person sessions cannot provide.'
 tags: ["domain-modelling", "remote-collaboration", "domain-driven-design"]

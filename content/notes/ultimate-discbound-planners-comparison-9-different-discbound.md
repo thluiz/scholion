@@ -1,6 +1,6 @@
 ---
 title: "Ultimate discbound planners comparison (9 different discbound systems) plus my favorite"
-date: '2026-11-16T03:38:00+00:00'
+date: '2020-07-05T14:10:32+00:00'
 category: webclip
 summary: 'The page introduces All About Planners, where Rachael says the blog has more than 1,200 posts on planning, reviews, tips, supplies, and weekly spreads, and invites readers to subscribe or contact her with questions.'
 tags: ["planner-blog", "planner-reviews", "planner-supplies"]

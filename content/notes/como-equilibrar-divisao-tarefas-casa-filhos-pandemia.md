@@ -1,6 +1,6 @@
 ---
 title: "Como equilibrar a divisão de tarefas com a casa e com os filhos durante a pandemia?"
-date: '2026-11-16T03:43:28+00:00'
+date: '2020-07-05T14:10:34+00:00'
 category: webclip
 summary: 'A pandemia expôs a sobrecarga das mulheres e a distância entre a percepção de homens e mulheres sobre o trabalho doméstico. O texto propõe dividir tarefas, observar a rotina e assumir responsabilidade completa.'
 tags: ["divisao-de-tarefas", "trabalho-domestico", "pandemia", "carga-mental"]

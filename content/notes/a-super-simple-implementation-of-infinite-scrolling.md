@@ -1,6 +1,6 @@
 ---
 title: "A super simple implementation of Infinite Scrolling"
-date: '2026-11-16T00:54:29+00:00'
+date: '2020-02-22T12:12:01+00:00'
 category: webclip
 summary: 'The post shows a jQuery scroll handler that clicks a “load more” button when the page reaches the bottom, then adjusts the check to fire 300 pixels before the end for better mobile behavior.'
 tags: ["infinite-scrolling", "jquery", "pagination"]

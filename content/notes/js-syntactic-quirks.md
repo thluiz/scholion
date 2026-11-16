@@ -1,6 +1,6 @@
 ---
 title: "JS syntactic quirks"
-date: '2026-11-16T04:14:39+00:00'
+date: '2020-07-05T14:11:26+00:00'
 category: webclip
 summary: 'The page catalogs JavaScript syntax quirks that complicate parsing, from ambiguous grammar and ASI to conditional keywords, strict mode, slashes, lazy compilation, and cover grammars.'
 tags: ["javascript", "parsing", "syntax", "ecmascript"]

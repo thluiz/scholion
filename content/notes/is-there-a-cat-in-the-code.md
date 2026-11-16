@@ -1,6 +1,6 @@
 ---
 title: "Is There a Cat in The Code!?"
-date: '2026-11-16T04:55:01+00:00'
+date: '2020-02-22T12:12:02+00:00'
 category: webclip
 summary: 'A developer joke explains that a pasted code output happened to match the reference for a cat emoji by coincidence, so the apparent “cat in the code” was only a chance match.'
 tags: ["javascript", "developer-jokes", "cat-emoji"]

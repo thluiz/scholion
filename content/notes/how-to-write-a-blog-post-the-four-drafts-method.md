@@ -1,6 +1,6 @@
 ---
 title: "How to write a blog post: The four-drafts method"
-date: '2026-11-16T00:45:47+00:00'
+date: '2020-02-22T12:11:44+00:00'
 category: webclip
 summary: 'The video presents a four-drafts workflow for blog posts: dump ideas in a throwaway draft, analyze the audience, revise into a rough draft, then polish and review before publishing.'
 tags: ["blog-writing", "drafting-process", "audience-analysis"]

@@ -1,6 +1,6 @@
 ---
 title: "Kaffy"
-date: '2026-11-16T03:51:10+00:00'
+date: '2020-07-05T14:10:39+00:00'
 category: webclip
 summary: 'Kaffy is a flexible admin interface for Phoenix apps, with support for contexts, custom dashboards, pages, queries, search, authorization, actions, callbacks, and scheduled tasks.'
 tags: ["phoenix", "admin-interface", "ecto", "customization"]

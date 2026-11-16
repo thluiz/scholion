@@ -1,6 +1,6 @@
 ---
 title: "Positioning Strategy for the Aspiring Software Consultant"
-date: '2026-11-16T01:46:23+00:00'
+date: '2020-04-20T21:22:35+00:00'
 category: webclip
 summary: 'The post argues that software developers are not paid for code-jousting skill alone, but for how they are positioned. It reframes positioning as creating clear reasons a buyer would choose your expertise.'
 tags: ["positioning", "software-consulting", "career-strategy"]

@@ -1,6 +1,6 @@
 ---
 title: "The Benefits of Owning a Personal Blog"
-date: '2026-11-16T00:49:47+00:00'
+date: '2020-02-22T12:11:53+00:00'
 category: webclip
 summary: 'The post argues that a personal blog helps developers teach others, build a reputation, learn new technologies, and connect with a community. It also outlines basic steps for starting and sharing a blog.'
 tags: ["blogging", "personal-brand", "developer-community", "publishing"]

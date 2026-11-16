@@ -1,6 +1,6 @@
 ---
 title: "ITPro Today, Network Computing, IoT World Today combine with TechTarget"
-date: '2026-11-16T04:25:11+00:00'
+date: '2020-04-20T21:22:34+00:00'
 category: webclip
 summary: 'The page says the Informa Tech brands merged with TechTarget in September 2025, that the old sites and newsletters are no longer supported, and that coverage now continues on TechTarget.com.'
 tags: ["techtarget", "informa-tech", "enterprise-technology"]

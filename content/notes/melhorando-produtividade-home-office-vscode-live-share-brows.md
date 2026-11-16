@@ -1,6 +1,6 @@
 ---
 title: "Melhorando a produtividade no Home Office com o VS Code Live Share no navegador"
-date: '2026-11-16T01:47:05+00:00'
+date: '2020-04-20T21:22:36+00:00'
 category: webclip
 summary: 'O texto apresenta o Live Share do VS Code no navegador como uma forma de colaboração remota sem instalação, com sessão compartilhada, edição, terminal e acesso completo pelo browser.'
 tags: ["live-share", "vs-code", "trabalho-remoto", "browser"]

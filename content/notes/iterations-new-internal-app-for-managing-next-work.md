@@ -1,6 +1,6 @@
 ---
 title: "Iterations, a new internal app for managing what we work on next"
-date: '2026-11-16T03:20:50+00:00'
+date: '2020-07-05T14:11:29+00:00'
 category: webclip
 summary: '37signals created Iterations to collect internal requests, discuss them, show support, form teams around them, and keep a history of ideas from proposal to completion or dismissal.'
 tags: ["internal-app", "team-based-work", "iteration-planning"]

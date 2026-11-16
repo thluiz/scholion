@@ -1,6 +1,6 @@
 ---
 title: "Learn Elixir: The Ultimate Guide"
-date: '2026-11-16T03:54:40+00:00'
+date: '2020-07-05T14:10:40+00:00'
 category: webclip
 summary: 'The page gathers books, documentation, exercises, videos, communities, courses, and podcasts for learning Elixir, and splits the recommendations between beginners and people who want to go further.'
 tags: ["elixir", "functional-programming", "learning-resources", "programming"]

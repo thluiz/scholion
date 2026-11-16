@@ -1,6 +1,6 @@
 ---
 title: "The Repository Pattern, Ecto, and Database-less Testing"
-date: '2026-11-16T03:42:16+00:00'
+date: '2020-07-05T14:10:34+00:00'
 category: webclip
 summary: 'Explains the repository pattern in Ecto, why it helps separate data from persistence, and how to swap in a mock Repo so tests can run without a database.'
 tags: ["ecto", "repository-pattern", "elixir", "testing"]

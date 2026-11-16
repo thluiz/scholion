@@ -1,6 +1,6 @@
 ---
 title: "Get Faster - VSCode navigation without a mouse"
-date: '2026-11-16T01:36:46+00:00'
+date: '2020-07-05T14:10:41+00:00'
 category: webclip
 summary: 'The post argues that VSCode speed comes from optimizing the most-used path in your workflow, especially by avoiding the mouse for file, panel, terminal, and in-file navigation.'
 tags: ["vscode", "keyboard-shortcuts", "productivity"]

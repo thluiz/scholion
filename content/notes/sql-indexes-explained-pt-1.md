@@ -1,6 +1,6 @@
 ---
 title: "SQL Indexes Explained, Pt. 1"
-date: '2026-11-16T06:12:46+00:00'
+date: '2020-07-05T14:11:16+00:00'
 category: webclip
 summary: 'The article uses spreadsheet-style exercises to show why sorted access is faster, when sorting helps or hurts, and how these patterns lead to the idea of a database index.'
 tags: ["sql", "database-indexes", "query-performance"]

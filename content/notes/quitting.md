@@ -1,6 +1,6 @@
 ---
 title: "Quitting"
-date: '2026-11-16T04:18:02+00:00'
+date: '2020-07-05T14:11:28+00:00'
 category: webclip
 summary: 'The article says deciding when to quit starts by ranking goals in a ladder, so low-priority, replaceable goals can be dropped while higher goals, like family time, should be harder to give up.'
 tags: ["goal-setting", "grit", "priorities"]

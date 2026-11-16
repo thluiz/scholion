@@ -1,6 +1,6 @@
 ---
 title: "Prioritization systems"
-date: '2026-11-16T03:57:14+00:00'
+date: '2020-07-05T14:10:41+00:00'
 category: webclip
 summary: 'The page describes four ways to prioritize work on large, long-lived projects: judge impact against effort, try risky tasks for a limited time, follow design principles, and use production data.'
 tags: ["product-management", "prioritization", "web-apps"]

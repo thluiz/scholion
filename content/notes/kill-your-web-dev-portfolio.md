@@ -1,6 +1,6 @@
 ---
 title: "Kill Your Web Dev Portfolio ☠️"
-date: '2026-11-16T02:00:03+00:00'
+date: '2020-08-26T19:31:12+00:00'
 category: webclip
 summary: 'The video argues that a web development portfolio is less important than building trust and getting experience. It suggests freelancing first as a way to get work and break into full-time jobs.'
 tags: ["web-development", "portfolio", "freelancing", "job-search"]

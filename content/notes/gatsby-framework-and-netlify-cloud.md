@@ -1,6 +1,6 @@
 ---
 title: "The Best React-Based Framework | Gatsby"
-date: '2026-11-16T02:31:56+00:00'
+date: '2020-02-22T12:11:50+00:00'
 category: webclip
 summary: 'Gatsby presents its React-based open-source framework and data layer, and says Gatsby Cloud customers can migrate to Netlify as the two platforms unite.'
 tags: ["gatsby", "react-based-framework", "netlify", "graphql"]

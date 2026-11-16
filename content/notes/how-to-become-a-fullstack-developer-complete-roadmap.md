@@ -1,6 +1,6 @@
 ---
 title: "How to become a fullstack developer, complete roadmap"
-date: '2026-11-16T07:49:59+00:00'
+date: '2020-07-05T14:10:33+00:00'
 category: webclip
 summary: 'The page presents a three-part roadmap for becoming a full-stack developer, split into junior, middle, and senior levels, with a strong focus on React and a linked GitHub repository.'
 tags: ["fullstack-development", "roadmap", "react", "web-development"]

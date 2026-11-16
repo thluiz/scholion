@@ -1,6 +1,6 @@
 ---
 title: "Why Hot Deploys are Cool"
-date: '2026-11-16T03:52:20+00:00'
+date: '2020-07-05T14:10:39+00:00'
 category: webclip
 summary: 'Greg Vaughn argues that hot deploys are useful in many Elixir systems because most changes are to plain modules, while full restarts handle rarer supervision-tree changes and state updates. He says context should decide whether to rely on them.'
 tags: ["elixir", "deployment", "hot-deploys"]

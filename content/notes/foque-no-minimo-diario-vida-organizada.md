@@ -1,6 +1,6 @@
 ---
 title: "Foque no mínimo diário!"
-date: '2026-11-16T08:08:27+00:00'
+date: '2020-04-20T21:22:25+00:00'
 category: webclip
 summary: 'O texto defende que a organização precisa ser personalizada e ajustada à situação atual, especialmente em períodos de sobrecarga. A proposta é identificar o mínimo diário em cada área e reduzir a cobrança.'
 tags: ["organizacao-pessoal", "rotina-diaria", "sobrecarrega"]

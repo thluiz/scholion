@@ -1,6 +1,6 @@
 ---
 title: "Getting the client's timezone offset in JavaScript"
-date: '2026-11-16T08:07:01+00:00'
+date: '2020-06-04T12:08:23+00:00'
 category: webclip
 summary: 'The thread shows several ways to read a client’s offset, timezone name, or abbreviation in JavaScript, and warns that offsets alone do not reliably identify a timezone.'
 tags: ["javascript", "timezone", "date", "offset"]

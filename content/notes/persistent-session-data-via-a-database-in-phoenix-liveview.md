@@ -1,6 +1,6 @@
 ---
 title: "Persistent session data via a database in Phoenix LiveView"
-date: '2026-11-16T03:57:28+00:00'
+date: '2020-07-05T14:10:41+00:00'
 category: webclip
 summary: 'The post shows how to persist LiveView session data by assigning a `session_id` in the Plug session, storing data in PostgreSQL, and loading it on mount instead of relying on `localStorage`.'
 tags: ["elixir", "phoenix-liveview", "postgresql", "session-data"]

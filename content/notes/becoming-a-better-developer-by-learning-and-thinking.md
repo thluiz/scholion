@@ -1,6 +1,6 @@
 ---
 title: "Becoming a Better Developer By Learning and Thinking"
-date: '2026-11-16T06:11:24+00:00'
+date: '2020-07-05T14:10:46+00:00'
 category: webclip
 summary: 'The article says developers improve by taking on personal challenges, practicing what they read, and using both web and books to learn. It also warns that books and online material are not always correct.'
 tags: ["developer-growth", "learning", "critical-thinking"]

@@ -1,6 +1,6 @@
 ---
 title: "Spreading, Destructuring and Rest Parameters in Javascript"
-date: '2026-11-16T01:27:38+00:00'
+date: '2020-07-05T14:10:32+00:00'
 category: webclip
 summary: 'The article explains how spread syntax, destructuring, and rest parameters help work with arrays and objects, reduce code length, and make assignments, copies, and function arguments easier to handle.'
 tags: ["javascript", "spread-syntax", "destructuring", "rest-parameters"]

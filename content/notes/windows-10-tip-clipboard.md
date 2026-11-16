@@ -1,6 +1,6 @@
 ---
 title: "Windows 10 Tip: Clipboard"
-date: '2026-11-16T02:52:16+00:00'
+date: '2020-02-22T12:12:00+00:00'
 category: webclip
 summary: 'The Windows 10 May 2019 Update adds clipboard history. Press Windows key + V to see the last 25 copied items, including URLs, web and document text, and screenshots.'
 tags: ["windows-10", "clipboard", "windows-10-may-2019-update"]

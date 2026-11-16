@@ -1,6 +1,6 @@
 ---
 title: "Build your own Dev.to API client in Node.js"
-date: '2026-11-16T01:45:10+00:00'
+date: '2020-04-20T21:22:34+00:00'
 category: webclip
 summary: 'The post explains why API clients help centralize authentication, speed development, and normalize error handling, then builds a small Dev.to wrapper in Node.js with fetch, query strings, and basic CRUD methods.'
 tags: ["api-client", "node-js", "dev-to-api", "fetch"]

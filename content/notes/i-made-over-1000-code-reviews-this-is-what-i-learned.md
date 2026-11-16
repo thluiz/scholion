@@ -1,6 +1,6 @@
 ---
 title: "I made over 1,000 code reviews - this is what I learned"
-date: '2026-11-16T01:33:49+00:00'
+date: '2020-07-05T14:10:38+00:00'
 category: webclip
 summary: 'The author says code reviews go better when each pull request solves one thing, checks are automated in CI, reviewers talk with the author, feedback stays considerate, and local runs are required.'
 tags: ["code-reviews", "pull-requests", "ci", "teamwork"]

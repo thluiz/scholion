@@ -1,6 +1,6 @@
 ---
 title: "Sending notifications in Elixir with Ravenx"
-date: '2026-11-16T06:16:23+00:00'
+date: '2020-07-05T14:11:26+00:00'
 category: webclip
 summary: 'The article presents Ravenx as a library for dispatching notifications in Elixir through multiple strategies, with configurable per-strategy, module, and per-dispatch settings, plus synchronous or asynchronous sending.'
 tags: ["elixir", "notifications", "ravenx", "strategy-pattern"]

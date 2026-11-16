@@ -1,6 +1,6 @@
 ---
 title: "A handy wrapper for the Web Notifications API"
-date: '2026-11-16T08:06:42+00:00'
+date: '2020-05-29T21:25:57+00:00'
 category: webclip
 summary: 'Alex Gibson presents Notify.js, a JavaScript wrapper that simplifies permission requests and Web Notification API events, with extra callbacks, convenience methods, and browser support notes.'
 tags: ["web-notifications-api", "javascript", "notifyjs"]

@@ -1,6 +1,6 @@
 ---
 title: "Conway's Law and Cross-Functional Teams"
-date: '2026-11-16T08:01:24+00:00'
+date: '2020-02-22T12:11:50+00:00'
 category: webclip
 summary: 'The article explains Conway’s Law as the way organizations shape the systems they build, then argues that team structure can reduce communication problems and improve knowledge sharing when teams are reorganized around products.'
 tags: ["conways-law", "cross-functional-teams", "software-engineering", "team-structure"]

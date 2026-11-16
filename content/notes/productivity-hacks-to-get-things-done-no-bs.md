@@ -1,6 +1,6 @@
 ---
 title: "Productivity Hacks To Get Things Done. No BS."
-date: '2026-11-16T01:56:07+00:00'
+date: '2020-08-26T19:31:11+00:00'
 category: webclip
 summary: 'The post lists practical productivity tips: batch similar tasks, keep a workspace you like, do short tasks immediately, prioritize important work, and reduce decisions with templates.'
 tags: ["productivity", "time-management", "task-prioritization"]

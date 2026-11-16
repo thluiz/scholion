@@ -1,6 +1,6 @@
 ---
 title: "Productivity Advice, Based on Your Enneagram Personality Type"
-date: '2026-11-16T03:56:19+00:00'
+date: '2020-07-05T14:10:41+00:00'
 category: webclip
 summary: 'The page lists three related Doist articles on productivity, task overwhelm, and time blocking, each framed as a practical way to work better.'
 tags: ["productivity", "todoist-tips", "time-blocking"]

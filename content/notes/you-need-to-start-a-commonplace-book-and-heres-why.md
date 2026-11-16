@@ -1,6 +1,6 @@
 ---
 title: "You Need to Start a Commonplace Book, and Here’s Why"
-date: '2026-11-16T08:03:00+00:00'
+date: '2020-02-22T12:11:58+00:00'
 category: webclip
 summary: 'The page explains how to begin a commonplace book, urging a low-pressure approach: record what you love, skip perfection, and treat collecting notes as a calm, creative habit.'
 tags: ["commonplace-book", "creative-writing", "journaling"]

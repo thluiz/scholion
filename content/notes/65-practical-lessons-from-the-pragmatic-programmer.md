@@ -1,6 +1,6 @@
 ---
 title: "65 practical lessons from \"The Pragmatic Programmer: From Journeyman to Master\""
-date: '2026-11-16T00:27:08+00:00'
+date: '2020-02-22T12:08:19+00:00'
 category: webclip
 summary: 'The article compiles 65 paraphrased lessons from the first edition of The Pragmatic Programmer, covering responsibility, estimation, debugging, refactoring, requirements, teamwork, testing, and user focus.'
 tags: ["software-development", "refactoring", "testing", "requirements"]

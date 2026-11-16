@@ -1,6 +1,6 @@
 ---
 title: "Posso criar Diagramas com Visual Studio Code?!"
-date: '2026-11-16T01:39:17+00:00'
+date: '2020-07-05T14:10:46+00:00'
 category: webclip
 summary: 'O post diz que dá para criar diagramas no Visual Studio Code com a extensão Draw.io Integration, com edição em XML, uso offline e exportação em PNG.'
 tags: ["visual-studio-code", "drawio", "extensoes", "diagramas"]

@@ -1,6 +1,6 @@
 ---
 title: "Resume Pro Tip: The absolute best way to show your work experience"
-date: '2026-11-16T01:11:29+00:00'
+date: '2020-06-03T22:06:14+00:00'
 category: webclip
 summary: 'The post argues that resume bullets should show accomplishments with numbers, using the format “Accomplished X by implementing Y” to make work experience more memorable to recruiters.'
 tags: ["resume", "job-search", "career-growth"]

@@ -1,6 +1,6 @@
 ---
 title: "Where did the notion of \"one return only\" come from?"
-date: '2026-11-16T08:11:49+00:00'
+date: '2020-07-05T14:10:35+00:00'
 category: webclip
 summary: 'The notion of Single Entry, Single Exit came from languages with explicit manual resource management, where early returns could leak resources. In languages with exceptions or automatic cleanup, that original argument largely disappears.'
 tags: ["single-entry-single-exit", "early-return", "resource-management", "java"]

@@ -1,6 +1,6 @@
 ---
 title: "Technical ergonomics for the efficient developer"
-date: '2026-11-16T01:25:53+00:00'
+date: '2020-07-05T14:10:31+00:00'
 category: webclip
 summary: 'The article argues that developers can reduce mental strain by using technical ergonomics tools such as stronger syntax highlighting, Git hooks, and static type systems.'
 tags: ["developer-tools", "git-hooks", "static-types", "syntax-highlighting"]

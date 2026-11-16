@@ -1,6 +1,6 @@
 ---
 title: "Top 10 reasons to start blogging as a software engineer"
-date: '2026-11-16T02:39:21+00:00'
+date: '2020-02-22T12:11:52+00:00'
 category: webclip
 summary: 'The post argues that blogging helps software engineers record progress, share knowledge, work through ideas, meet peers, learn from feedback, and communicate better, while warning against money as the main goal.'
 tags: ["blogging", "software-engineering", "communication", "personal-growth"]

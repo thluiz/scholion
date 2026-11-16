@@ -1,6 +1,6 @@
 ---
 title: "Many to Many Relations in Ecto"
-date: '2026-11-16T01:16:24+00:00'
+date: '2020-07-05T14:11:24+00:00'
 category: webclip
 summary: 'The post shows how to model a many-to-many relation in Phoenix/Ecto with a join table, schema associations, a like action, and a query that marks whether each comment is liked by the current user.'
 tags: ["ecto", "phoenix", "many-to-many", "elixir"]

@@ -1,6 +1,6 @@
 ---
 title: "The third wave of open source migration"
-date: '2026-11-16T02:04:09+00:00'
+date: '2020-04-20T21:22:23+00:00'
 category: webclip
 summary: 'The article argues that economic downturns push organizations toward open source to cut costs, and that the next wave will move more applications to open source frameworks, packages, and cloud platforms.'
 tags: ["open-source", "software-migration", "cloud-computing", "cost-cutting"]

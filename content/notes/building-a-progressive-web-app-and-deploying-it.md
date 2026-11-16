@@ -1,6 +1,6 @@
 ---
 title: "Building a Progressive Web App and Deploying it"
-date: '2026-11-16T01:29:25+00:00'
+date: '2020-07-05T14:10:33+00:00'
 category: webclip
 summary: 'The article explains what a progressive web app is, how to add a service worker, cache pages for offline access, create a manifest, check the app with Lighthouse, deploy it on Netlify, and submit it to the PWA Store.'
 tags: ["progressive-web-apps", "service-worker", "lighthouse", "netlify"]

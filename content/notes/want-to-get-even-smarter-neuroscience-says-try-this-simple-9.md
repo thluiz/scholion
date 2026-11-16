@@ -1,6 +1,6 @@
 ---
 title: "Want to Get Even Smarter? Neuroscience Says Try This Simple 9-Minute Routine Twice a Week"
-date: '2026-11-16T05:44:52+00:00'
+date: '2023-11-25T15:01:55+00:00'
 category: webclip
 summary: 'The piece distinguishes crystallized and fluid intelligence, then says cognitive functions decline with age, making it harder to use new information, solve problems, and form connections.'
 tags: ["intelligence", "neuroscience", "cognitive-function"]

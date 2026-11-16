@@ -1,6 +1,6 @@
 ---
 title: "7 Habits of Effective Developer"
-date: '2026-11-16T00:50:34+00:00'
+date: '2020-02-22T12:11:53+00:00'
 category: webclip
 summary: 'The post lists habits the author wants to build as a developer: time management, clear writing, continuous learning, focus, understanding business value, discipline, and clean code.'
 tags: ["software-development", "productivity", "clean-code", "learning"]

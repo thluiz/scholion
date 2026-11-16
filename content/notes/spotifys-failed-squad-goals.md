@@ -1,6 +1,6 @@
 ---
 title: "Spotify’s Failed #SquadGoals"
-date: '2026-11-16T04:16:22+00:00'
+date: '2020-07-05T14:11:27+00:00'
 category: webclip
 summary: 'The post argues that Spotify’s famous squad model was aspirational, never fully implemented, and poorly copied by others because autonomy, collaboration, and accountability were underdefined.'
 tags: ["spotify-model", "agile", "team-structure"]

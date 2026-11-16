@@ -1,6 +1,6 @@
 ---
 title: "How to Weaponize Impostor Syndrome"
-date: '2026-11-16T07:57:57+00:00'
+date: '2020-02-22T12:11:48+00:00'
 category: webclip
 summary: 'The post argues that impostor syndrome can be turned into fuel for growth when treated as adversity: by acting on specific doubts, preparing thoroughly, and avoiding unhealthy overwork.'
 tags: ["impostor-syndrome", "career-growth", "self-doubt", "preparation"]

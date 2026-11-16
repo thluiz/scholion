@@ -1,6 +1,6 @@
 ---
 title: "A Beginner’s Guide to Contributing to Open Source"
-date: '2026-11-16T00:30:49+00:00'
+date: '2020-04-20T21:22:46+00:00'
 category: webclip
 summary: 'The article says beginners can contribute to open source in many ways, not just by coding, and recommends well-documented projects, labeled issues, and careful reading before submitting a pull request.'
 tags: ["open-source", "beginner-friendly", "pull-request", "documentation"]

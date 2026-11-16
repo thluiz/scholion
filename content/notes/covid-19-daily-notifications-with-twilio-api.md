@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 Daily Notifications with Twilio API"
-date: '2026-11-16T01:20:35+00:00'
+date: '2020-07-05T14:11:29+00:00'
 category: webclip
 summary: 'The project lets users submit a state in an online form, stores the data in Google Sheets, and sends daily COVID-19 status updates through Twilio text messages.'
 tags: ["covid-19-communications", "twilio", "wayscript", "google-sheets"]

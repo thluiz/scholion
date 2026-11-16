@@ -1,6 +1,6 @@
 ---
 title: "The Rails Model Introduction I Wish I Had"
-date: '2026-11-16T01:09:12+00:00'
+date: '2020-04-20T21:22:28+00:00'
 category: webclip
 summary: 'An overview of Rails models as the part of MVC that holds data logic, associations, methods, scopes, and validations, with examples centered on a library app.'
 tags: ["rails", "active-record", "model", "validations"]

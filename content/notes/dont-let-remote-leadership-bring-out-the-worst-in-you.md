@@ -1,6 +1,6 @@
 ---
 title: "Don't let remote leadership bring out the worst in you"
-date: '2026-11-16T05:37:38+00:00'
+date: '2020-07-05T14:11:18+00:00'
 category: webclip
 summary: 'The article argues that remote managers should resist surveillance and pressure, and instead set clear expectations, trust the team, support progress, and use one-on-ones well.'
 tags: ["remote-leadership", "management", "trust", "remote-work"]

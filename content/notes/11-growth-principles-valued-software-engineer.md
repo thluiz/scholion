@@ -1,6 +1,6 @@
 ---
 title: "11 Growth Principles to Become a Valued Software Engineer"
-date: '2026-11-16T00:48:12+00:00'
+date: '2020-02-22T12:11:53+00:00'
 category: webclip
 summary: 'The post argues that code reflects an engineer’s principles and outlines 11 growth principles centered on tools, learning, communication, ownership, professionalism, adaptability, and simplicity.'
 tags: ["software-engineering", "career-growth", "communication", "code-quality"]

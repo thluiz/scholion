@@ -1,6 +1,6 @@
 ---
 title: "The Concept of Domain-Driven Design Explained"
-date: '2026-11-16T01:04:53+00:00'
+date: '2020-08-26T19:31:26+00:00'
 category: webclip
 summary: 'The article explains DDD as a way to solve business-domain complexity through code, using shared language, bounded contexts, domain models, and layered design to separate concerns.'
 tags: ["domain-driven-design", "software-architecture", "bounded-context", "microservices"]

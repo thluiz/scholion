@@ -1,6 +1,6 @@
 ---
 title: "How I Write Testable Code | Khalil's Simple Methodology | Khalil Stemmler"
-date: '2026-11-16T02:26:18+00:00'
+date: '2020-02-22T12:11:45+00:00'
 category: webclip
 summary: 'The article argues that testability depends on how dependencies are introduced. Prefer abstractions, same-layer or inner-layer dependencies, or stable dependencies, and use dependency inversion when a dependency makes testing hard.'
 tags: ["testable-code", "dependency-inversion", "software-design"]

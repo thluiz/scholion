@@ -1,6 +1,6 @@
 ---
 title: "Microsoft announces Windows Package Manager, a new way to install tools easily on Windows"
-date: '2026-11-16T05:33:57+00:00'
+date: '2020-07-05T14:11:16+00:00'
 category: webclip
 summary: 'Microsoft announces a preview of Windows Package Manager, a command-line tool for installing tools with one command. It is open source and uses security checks such as SmartScreen, static analysis, and SHA256 validation.'
 tags: ["windows-package-manager", "package-manager", "windows-insider"]

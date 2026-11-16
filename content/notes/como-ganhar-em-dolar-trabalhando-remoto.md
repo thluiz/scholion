@@ -1,6 +1,6 @@
 ---
 title: "Como ganhar em dólar trabalhando remoto"
-date: '2026-11-16T04:26:05+00:00'
+date: '2020-04-20T21:22:35+00:00'
 category: webclip
 summary: 'O texto explica o que é trabalho remoto, quais habilidades ele pede, como organizar a rotina e onde buscar vagas no Brasil e fora dele, inclusive para receber em dólar ou euro.'
 tags: ["trabalho-remoto", "vagas-remotas", "tecnologia", "ingles"]

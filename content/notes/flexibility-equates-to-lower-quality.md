@@ -1,6 +1,6 @@
 ---
 title: "Flexibility Equates to Lower Quality"
-date: '2026-11-16T02:52:59+00:00'
+date: '2020-02-22T12:12:01+00:00'
 category: webclip
 summary: 'The post argues that flexible languages and many syntax choices raise code ambiguity and hurt maintainability. Simpler, more restricted languages and stricter rules are presented as a path to higher quality.'
 tags: ["software-development", "programming-languages", "maintainability"]

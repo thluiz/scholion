@@ -1,6 +1,6 @@
 ---
 title: ".NET Threading Gotchas"
-date: '2026-11-16T07:58:37+00:00'
+date: '2020-02-22T12:11:49+00:00'
 category: webclip
 summary: 'The article lists five common .NET threading mistakes and shows fixes: avoid synchronous async code, use ConfigureAwait carefully, choose thread-safe collections when needed, limit static state, and use Interlocked for atomic updates.'
 tags: ["dotnet", "threading", "async-await", "concurrency"]

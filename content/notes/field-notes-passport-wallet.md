@@ -1,6 +1,6 @@
 ---
 title: "Field Notes/Passport Wallet"
-date: '2026-11-16T08:03:17+00:00'
+date: '2020-02-22T12:11:58+00:00'
 category: webclip
 summary: 'Handmade leather wallet for a Field Notes notebook and passport, with free personalization up to three initials, a 30-day return policy, and a design built around simplicity and durability.'
 tags: ["field-notes", "passport-wallet", "full-grain-leather", "personalization"]

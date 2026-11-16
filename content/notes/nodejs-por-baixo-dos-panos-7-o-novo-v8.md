@@ -1,6 +1,6 @@
 ---
 title: "Node.js Por Baixo dos Panos #7 - O Novo V8"
-date: '2026-11-16T00:29:47+00:00'
+date: '2020-04-20T21:22:44+00:00'
 category: webclip
 summary: 'O texto explica a troca do pipeline antigo do V8 por Ignition e TurboFan, mostrando como bytecode, uso de memória e otimização passaram a organizar a execução do JavaScript.'
 tags: ["v8", "ignition", "turbofan", "javascript"]

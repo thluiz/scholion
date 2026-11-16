@@ -1,6 +1,6 @@
 ---
 title: "Elixir: a few things about GenStage I wish I knew some time ago"
-date: '2026-11-16T06:05:25+00:00'
+date: '2020-07-05T14:10:34+00:00'
 category: webclip
 summary: 'The article separates GenStage use into owned sources, where demand is fetched and controlled upstream, and pushed sources, where backpressure matters because event volume is unpredictable.'
 tags: ["elixir", "genstage", "backpressure", "demand-handling"]

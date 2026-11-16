@@ -1,6 +1,6 @@
 ---
 title: "Microsoft certification during COVID-19 using online exams – You, your space, and your machine"
-date: '2026-11-16T03:15:52+00:00'
+date: '2020-07-05T14:11:25+00:00'
 category: webclip
 summary: 'The post explains how to take a Microsoft certification exam from home during COVID-19 and what to prepare in advance: machine checks, room setup, check-in steps, and the proctor-led exam flow.'
 tags: ["microsoft-certification", "online-exams", "covid-19", "proctored-testing"]

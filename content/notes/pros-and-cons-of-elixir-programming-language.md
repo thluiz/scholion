@@ -1,6 +1,6 @@
 ---
 title: "The Pros & Cons of Elixir Programming Language"
-date: '2026-11-16T04:13:58+00:00'
+date: '2020-07-05T14:11:26+00:00'
 category: webclip
 summary: 'Elixir is presented as a functional, general-purpose language built on the Erlang VM, valued for low latency, concurrency, speed, fault tolerance, and Phoenix, but limited by a young ecosystem, fewer libraries, and a smaller job market.'
 tags: ["elixir", "programming-languages", "concurrency", "erlang"]

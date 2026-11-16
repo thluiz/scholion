@@ -1,6 +1,6 @@
 ---
 title: "The Task Boxes Method Prioritizes To-Dos for Visual People"
-date: '2026-11-16T02:45:52+00:00'
+date: '2020-02-22T12:11:58+00:00'
 category: webclip
 summary: 'Task Boxes organizes to-do lists with a visual hierarchy. The biggest box holds the most important task, and smaller boxes hold the rest in order of importance.'
 tags: ["task-boxes", "to-do-lists", "visual-hierarchy"]

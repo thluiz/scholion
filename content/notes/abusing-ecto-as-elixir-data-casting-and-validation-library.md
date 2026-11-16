@@ -1,6 +1,6 @@
 ---
 title: "(Ab)using Ecto as Elixir data casting and validation library"
-date: '2026-11-16T04:14:20+00:00'
+date: '2020-07-05T14:11:26+00:00'
 category: webclip
 summary: 'The article shows how to use Ecto changesets outside database-backed models to cast user input, validate it, and return either an action-ready changeset or typed data for service modules and forms.'
 tags: ["ecto", "changesets", "validation", "elixir"]

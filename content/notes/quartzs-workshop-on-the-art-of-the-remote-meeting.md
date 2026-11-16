@@ -1,6 +1,6 @@
 ---
 title: "Watch: Quartz’s workshop on the art of the remote meeting"
-date: '2026-11-16T05:35:55+00:00'
+date: '2020-07-05T14:11:17+00:00'
 category: webclip
 summary: 'Quartz says video calls help keep distant colleagues connected, but the fast move to remote work has also increased unnecessary meetings and what is now called Zoom fatigue.'
 tags: ["remote-work", "video-calls", "zoom-fatigue"]

@@ -1,6 +1,6 @@
 ---
 title: "Setting Up a GTD-Based Hipster PDA"
-date: '2026-11-16T08:02:43+00:00'
+date: '2020-02-22T12:11:58+00:00'
 category: webclip
 summary: 'The post shows a simple GTD Hipster PDA setup built from cards, clip, and a small set of lists. It stresses keeping the stack lean, usable, and easy to adjust over time.'
 tags: ["hipster-pda", "gtd", "productivity"]

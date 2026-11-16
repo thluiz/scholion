@@ -1,6 +1,6 @@
 ---
 title: "Intro to PWAs and Service Workers"
-date: '2026-11-16T00:46:15+00:00'
+date: '2020-02-22T12:11:44+00:00'
 category: webclip
 summary: 'The article defines PWAs, compares native, hybrid, and PWA apps, and shows how service workers enable offline support, caching, and the service worker lifecycle.'
 tags: ["progressive-web-apps", "service-workers", "offline-support"]

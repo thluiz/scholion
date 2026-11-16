@@ -1,6 +1,6 @@
 ---
 title: "12 tirinhas brasileiras para acompanhar de perto"
-date: '2026-11-16T04:56:58+00:00'
+date: '2018-04-22T19:05:10+00:00'
 category: webclip
 summary: 'O autor relembra o prazer de descobrir tirinhas na internet e lista quadrinhos brasileiros que o amigo envia quase todo dia, destacando estilos, temas e a força do acervo de cada um.'
 tags: ["tirinhas-brasileiras", "quadrinhos", "internet"]

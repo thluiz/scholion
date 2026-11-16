@@ -1,6 +1,6 @@
 ---
 title: "How to Ruin Your Career in 8 Easy Steps"
-date: '2026-11-16T01:41:00+00:00'
+date: '2020-07-05T14:11:17+00:00'
 category: webclip
 summary: 'The post uses eight “don’ts” to argue that career growth needs planning, visibility, a strong narrative, a network, honest responsibility, and periodic rethinking of where you are headed.'
 tags: ["career-growth", "professional-development", "networking", "self-promotion"]

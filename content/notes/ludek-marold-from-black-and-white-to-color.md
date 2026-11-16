@@ -1,6 +1,6 @@
 ---
 title: "Luděk Marold: From Black and White to Color"
-date: '2026-11-16T03:06:17+00:00'
+date: '2020-05-06T00:34:21+00:00'
 category: webclip
 summary: 'The post looks at how Luděk Marold builds images from black, white, gray, and the board tone, then shows his move toward fuller color while keeping a limited palette and strong value structure.'
 tags: ["ludek-marold", "grisaille", "value-structure", "limited-palette"]

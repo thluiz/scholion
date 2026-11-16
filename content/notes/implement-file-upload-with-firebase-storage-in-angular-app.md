@@ -1,6 +1,6 @@
 ---
 title: "Implement file upload with Firebase Storage in our Angular App: The simple way"
-date: '2026-11-16T01:41:57+00:00'
+date: '2020-07-05T14:11:26+00:00'
 category: webclip
 summary: 'The article shows how to build a cat photo upload flow in Angular with Reactive Forms, custom file validation, preview rendering, Firebase Storage, upload progress, and post-upload navigation.'
 tags: ["angular", "firebase-storage", "reactive-forms", "file-upload"]

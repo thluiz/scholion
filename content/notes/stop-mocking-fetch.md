@@ -1,6 +1,6 @@
 ---
 title: "Stop mocking fetch"
-date: '2026-11-16T03:41:15+00:00'
+date: '2020-07-05T14:10:33+00:00'
 category: webclip
 summary: 'The article argues that mocking clients or fetch in tests lowers confidence and adds setup noise. It recommends using MSW to keep tests close to real requests while sharing handlers across tests and development.'
 tags: ["msw", "testing", "fetch", "react"]

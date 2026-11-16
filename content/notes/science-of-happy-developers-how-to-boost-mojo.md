@@ -1,6 +1,6 @@
 ---
 title: "Science of happy developers: How to boost your engineering team's mojo"
-date: '2026-11-16T07:54:00+00:00'
+date: '2020-08-26T19:31:22+00:00'
 category: webclip
 summary: 'The article argues that developer happiness depends more on manager relationships than on new tools or languages, and recommends selective hiring plus consistent one-on-ones to build trust and feedback.'
 tags: ["developer-happiness", "manager-relationships", "one-on-one-meetings"]

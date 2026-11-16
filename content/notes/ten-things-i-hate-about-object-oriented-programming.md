@@ -1,6 +1,6 @@
 ---
 title: "Ten Things I Hate About Object-Oriented Programming"
-date: '2026-11-16T02:42:18+00:00'
+date: '2020-02-22T12:11:52+00:00'
 category: webclip
 summary: 'The essay argues that OOP lacks a stable core paradigm, blurs code and running objects, and still leaves major gaps around change, tools, types, and modeling.'
 tags: ["object-oriented-programming", "software-design", "programming-languages", "modeling"]

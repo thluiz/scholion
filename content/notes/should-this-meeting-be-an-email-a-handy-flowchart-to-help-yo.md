@@ -1,6 +1,6 @@
 ---
 title: "Should This Meeting Be an Email? A Handy Flowchart to Help You Decide"
-date: '2026-11-16T04:43:45+00:00'
+date: '2020-08-26T19:31:30+00:00'
 category: webclip
 summary: 'The page argues that meetings are overused and costly for teams, and that a simple decision flowchart can help people choose when email is enough instead of scheduling a meeting.'
 tags: ["productivity", "teams", "meetings"]

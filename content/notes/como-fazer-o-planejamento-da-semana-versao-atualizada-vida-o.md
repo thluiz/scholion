@@ -1,6 +1,6 @@
 ---
 title: "Como fazer o planejamento da semana – versão atualizada – vida organizada"
-date: '2026-11-16T08:10:46+00:00'
+date: '2020-07-05T14:10:31+00:00'
 category: webclip
 summary: 'O post mostra uma rotina de planejamento semanal: definir um horário fixo, ver a agenda em visão semanal, registrar compromissos, convites, deslocamentos, informações de apoio, providências e deixar espaço para imprevistos.'
 tags: ["planejamento-semanal", "agenda", "gestao-do-tempo"]

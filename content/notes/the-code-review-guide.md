@@ -1,6 +1,6 @@
 ---
 title: "The Code Review Guide"
-date: '2026-11-16T02:04:23+00:00'
+date: '2020-10-14T19:28:41+00:00'
 category: webclip
 summary: 'The article treats code review as a learning process and lays out what to check in a PR: context, readability, functionality, tests, and how to proceed when the language is unfamiliar.'
 tags: ["code-review", "pull-request", "readability", "testing"]

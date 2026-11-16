@@ -1,6 +1,6 @@
 ---
 title: "This is how I turned my old laptop into a server"
-date: '2026-11-16T01:40:16+00:00'
+date: '2020-07-05T14:11:16+00:00'
 category: webclip
 summary: 'The post explains how to turn an old laptop into a personal home server with Ubuntu Server, including USB installation, SSH access, Wi‑Fi setup, and optional Webmin.'
 tags: ["ubuntu-server", "home-server", "ssh", "webmin"]

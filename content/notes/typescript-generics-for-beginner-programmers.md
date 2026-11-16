@@ -1,6 +1,6 @@
 ---
 title: "TypeScript Generics for People Who Gave Up on Understanding Generics"
-date: '2026-11-16T02:49:01+00:00'
+date: '2020-02-22T12:11:59+00:00'
 category: webclip
 summary: 'The tutorial explains generics through `makeState()` and `makePair()`, showing type parameters, constraints, default types, reusable generic interfaces, type aliases, and generic classes.'
 tags: ["typescript", "generics", "beginner-programming"]

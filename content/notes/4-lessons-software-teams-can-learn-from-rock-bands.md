@@ -1,6 +1,6 @@
 ---
 title: "4 lessons software teams can learn from rock bands"
-date: '2026-11-16T03:32:58+00:00'
+date: '2020-07-05T14:10:30+00:00'
 category: webclip
 summary: 'The article draws parallels between rock bands and software teams, arguing for varied skills, mutual respect, individual expression, and calm under pressure as ways to improve collaboration and output.'
 tags: ["software-teams", "teamwork", "diversity", "respect"]

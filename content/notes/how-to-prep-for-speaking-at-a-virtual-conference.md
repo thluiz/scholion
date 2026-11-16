@@ -1,6 +1,6 @@
 ---
 title: "How to Prep for Speaking at a Virtual Conference"
-date: '2026-11-16T05:55:39+00:00'
+date: '2020-07-05T14:11:20+00:00'
 category: webclip
 summary: 'The article gives 15 practical rules for delivering a polished virtual talk, focusing on framing, lighting, background, camera eye contact, clothing, pacing, and reducing distractions.'
 tags: ["virtual-conference", "public-speaking", "video-conferencing", "speaker-preparation"]

@@ -1,6 +1,6 @@
 ---
 title: "Beyond Siri: The AI revolution coming from the web"
-date: '2026-11-16T05:22:20+00:00'
+date: '2016-05-13T20:21:12+00:00'
 category: webclip
 summary: 'The article argues that the next leap in AI will come less from movie-style assistants than from web data, machine learning, and context-aware systems that can anticipate user needs.'
 tags: ["artificial-intelligence", "machine-learning", "web-data", "context"]

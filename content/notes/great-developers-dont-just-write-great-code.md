@@ -1,6 +1,6 @@
 ---
 title: "Great Developers Don’t Just Write Great Code"
-date: '2026-11-16T03:39:03+00:00'
+date: '2020-07-05T14:10:32+00:00'
 category: webclip
 summary: 'The article argues that good developers write understandable code, but they also spend much of their time reading and working with existing code, especially legacy code, so they need skills for understanding and documenting it.'
 tags: ["software-development", "code-reading", "legacy-code"]

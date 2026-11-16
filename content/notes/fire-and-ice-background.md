@@ -1,6 +1,6 @@
 ---
 title: "“Fire and Ice” Background"
-date: '2026-11-16T02:36:09+00:00'
+date: '2020-02-22T12:11:51+00:00'
 category: webclip
 summary: 'The post shows an animation background painted in cel vinyl and says it was meant to make the “subhuman” emerge from airbrushed mist and threaten Teegra in the foreground.'
 tags: ["animation-backgrounds", "cel-vinyl", "fire-and-ice"]

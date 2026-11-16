@@ -1,6 +1,6 @@
 ---
 title: "What is asynchronous communication? Plus, how to implement it"
-date: '2026-11-16T03:55:52+00:00'
+date: '2020-07-05T14:10:41+00:00'
 category: webclip
 summary: 'The article defines asynchronous communication as messaging without expecting immediate replies, contrasts it with real-time work, and argues that async reduces interruptions, stress, and meeting overload while improving focus, documentation, and flexibility.'
 tags: ["asynchronous-communication", "remote-work", "deep-work", "team-collaboration"]

@@ -1,6 +1,6 @@
 ---
 title: "Elixir Processes: Observability"
-date: '2026-11-16T03:50:57+00:00'
+date: '2020-07-05T14:10:38+00:00'
 category: webclip
 summary: 'The article shows how Elixir exposes process internals through built-in tools in IEx. It covers finding PIDs, inspecting process data, and using `:sys` helpers to read or replace GenServer state and gather statistics.'
 tags: ["elixir", "processes", "observability", "iex"]

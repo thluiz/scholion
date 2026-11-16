@@ -1,6 +1,6 @@
 ---
 title: "3 Compelling Concepts from Basecamp's Shape Up"
-date: '2026-11-16T04:17:07+00:00'
+date: '2020-07-05T14:11:27+00:00'
 category: webclip
 summary: 'The article highlights three Shape Up ideas: shaping work before committing, using a betting table to choose projects for a cycle, and tracking progress with hill charts instead of ticket counts.'
 tags: ["shape-up", "basecamp", "project-management", "roadmap-planning"]

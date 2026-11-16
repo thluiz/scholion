@@ -1,6 +1,6 @@
 ---
 title: "The Phoenix Project Must Read For Developers"
-date: '2026-11-16T01:57:20+00:00'
+date: '2020-08-26T19:31:11+00:00'
 category: webclip
 summary: 'The post argues that The Phoenix Project helps developers understand DevOps as a transformation from cost center to value creator, with emphasis on operations language, user value, and documented practices rather than tools.'
 tags: ["devops", "the-phoenix-project", "software-development"]

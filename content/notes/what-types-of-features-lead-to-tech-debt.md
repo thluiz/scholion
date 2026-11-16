@@ -1,6 +1,6 @@
 ---
 title: "What types of features typically lead to lots of tech debt?"
-date: '2026-11-16T01:30:08+00:00'
+date: '2020-07-05T14:10:34+00:00'
 category: webclip
 summary: 'The discussion points to features that are rushed, one-off, tightly coupled to specific cases, or added for organizational needs. A/B testing and prototype-like work also tend to add complexity.'
 tags: ["technical-debt", "feature-development", "ab-testing"]

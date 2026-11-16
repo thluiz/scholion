@@ -1,6 +1,6 @@
 ---
 title: "Virtual team building: How to build trust in a remote team beyond games and activities"
-date: '2026-11-16T05:36:30+00:00'
+date: '2020-07-05T14:11:17+00:00'
 category: webclip
 summary: 'The page argues that virtual team building should focus on trust, not just fun activities. It distinguishes affective and cognitive trust and gives remote practices for each.'
 tags: ["virtual-team-building", "remote-teams", "trust", "onboarding"]

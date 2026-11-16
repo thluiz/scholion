@@ -1,6 +1,6 @@
 ---
 title: "How to Design Messages for gRPC Services in .NET Core"
-date: '2026-11-16T05:07:33+00:00'
+date: '2020-02-22T12:11:43+00:00'
 category: webclip
 summary: 'The article explains how .proto files define gRPC service methods and message structures in .NET Core, how proto3 maps to generated C# classes, and how to evolve message schemas safely.'
 tags: ["grpc", "dotnet-core", "protocol-buffers"]

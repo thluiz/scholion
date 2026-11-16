@@ -1,6 +1,6 @@
 ---
 title: "Refactoring a Function in Elixir"
-date: '2026-11-16T03:09:54+00:00'
+date: '2020-07-05T14:11:20+00:00'
 category: webclip
 summary: 'The post refactors a quiz game''s `answer_question` function by reducing abstraction layers, naming concepts with functions, and moving decisions into function heads to make the code clearer and more composable.'
 tags: ["elixir", "refactoring", "functional-programming"]

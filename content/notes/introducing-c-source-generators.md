@@ -1,6 +1,6 @@
 ---
 title: "Introducing C# Source Generators"
-date: '2026-11-16T04:11:54+00:00'
+date: '2020-07-05T14:11:25+00:00'
 category: webclip
 summary: 'Microsoft introduces Source Generators as a preview C# compiler feature that inspects user code during compilation and emits additional source, aiming to improve startup, build performance, and AOT compatibility.'
 tags: ["csharp", "source-generators", "roslyn", "aot"]

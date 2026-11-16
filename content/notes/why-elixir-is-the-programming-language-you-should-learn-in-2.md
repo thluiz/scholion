@@ -1,6 +1,6 @@
 ---
 title: "Why Elixir is the Programming Language You Should Learn in 2020"
-date: '2026-11-16T01:27:23+00:00'
+date: '2020-07-05T14:10:32+00:00'
 category: webclip
 summary: 'The article argues that Elixir is a strong language to learn because it is fun to use, handles concurrency and scale well, has a growing community, solid tooling, and can improve your programming skills.'
 tags: ["elixir", "programming-languages", "concurrency", "tooling"]

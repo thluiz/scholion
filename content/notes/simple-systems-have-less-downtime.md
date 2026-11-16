@@ -1,6 +1,6 @@
 ---
 title: "Simple Systems Have Less Downtime"
-date: '2026-11-16T02:18:00+00:00'
+date: '2020-04-20T21:22:45+00:00'
 category: webclip
 summary: 'The article argues that simple systems are easier to operate, troubleshoot, and replace, so they recover faster from failures. It uses ships and startup workflows to show how complexity increases downtime.'
 tags: ["simple-systems", "downtime", "startup-operations", "complexity"]

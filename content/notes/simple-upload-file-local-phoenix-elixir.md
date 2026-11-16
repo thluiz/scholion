@@ -1,6 +1,6 @@
 ---
 title: "Simple upload file local Phoenix Elixir"
-date: '2026-11-16T03:16:51+00:00'
+date: '2020-07-05T14:11:25+00:00'
 category: webclip
 summary: 'The page shows a minimal Phoenix upload form that receives a Plug.Upload, copies the temporary file into a local uploads folder, and wires the route, controller, view, and template.'
 tags: ["phoenix", "elixir", "file-upload", "plug-upload"]

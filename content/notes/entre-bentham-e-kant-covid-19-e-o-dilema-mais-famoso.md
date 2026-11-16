@@ -1,6 +1,6 @@
 ---
 title: "Entre Bentham e Kant: Covid-19 e a retomada do dilema mais famoso da filosofia"
-date: '2026-11-16T04:22:40+00:00'
+date: '2020-04-20T21:22:27+00:00'
 category: webclip
 summary: 'O texto compara as respostas ao coronavírus ao dilema do bonde e opõe utilitarismo e kantismo para discutir isolamento, colapso sanitário e mortes indiretas ou diretas.'
 tags: ["covid-19", "dilema-do-bonde", "utilitarismo", "kant"]

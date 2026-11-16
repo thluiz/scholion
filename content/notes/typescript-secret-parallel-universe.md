@@ -1,6 +1,6 @@
 ---
 title: "TypeScript's Secret Parallel Universe"
-date: '2026-11-16T00:47:43+00:00'
+date: '2020-02-22T12:11:48+00:00'
 category: webclip
 summary: 'The article explains that TypeScript keeps a type scope separate from JavaScript''s value scope, so a class name can exist as both a value and a type. That is why exporting both works in the same namespace.'
 tags: ["typescript", "type-scope", "namespaces"]

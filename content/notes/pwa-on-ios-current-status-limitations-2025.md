@@ -1,6 +1,6 @@
 ---
 title: "PWA on iOS - Current Status & Limitations for Users [2025]"
-date: '2026-11-16T02:23:00+00:00'
+date: '2020-02-22T12:11:42+00:00'
 category: webclip
 summary: 'The page says iOS PWAs have improved since iOS 13, with better install flow, dark mode, motion sensors, push notifications, background support, and inspection tools, but still depend on Safari and keep user-facing limits.'
 tags: ["pwa", "ios", "safari", "progressive-web-apps"]

@@ -1,6 +1,6 @@
 ---
 title: "Writing Testable JavaScript"
-date: '2026-11-16T02:28:32+00:00'
+date: '2020-02-22T12:11:49+00:00'
 category: webclip
 summary: 'The article argues that unit testing becomes practical when JavaScript is split into small, testable pieces with clear responsibilities, simple methods, and configurable objects.'
 tags: ["javascript", "unit-testing", "testable-code"]

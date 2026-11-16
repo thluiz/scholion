@@ -1,6 +1,6 @@
 ---
 title: "Elixir Phoenix with Typescript and React – December 2019 Edition"
-date: '2026-11-16T01:41:40+00:00'
+date: '2020-07-05T14:11:26+00:00'
 category: webclip
 summary: 'The guide sets up a Phoenix umbrella app with Postgres, Docker Compose, TypeScript, and React, then wires a small React component into the Phoenix page.'
 tags: ["elixir", "phoenix", "typescript", "react"]

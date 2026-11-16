@@ -1,6 +1,6 @@
 ---
 title: "Principles for decision-making in a flat organization"
-date: '2026-11-16T02:25:11+00:00'
+date: '2020-02-22T12:11:44+00:00'
 category: webclip
 summary: 'The article argues that flat teams can keep decisions fast by using rough consensus: welcome non-critical feedback, surface blocking flaws, and ask whether people can live with a choice.'
 tags: ["decision-making", "rough-consensus", "flat-organization"]

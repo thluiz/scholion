@@ -1,6 +1,6 @@
 ---
 title: "Signal v. Noise by Basecamp"
-date: '2026-11-16T04:17:49+00:00'
+date: '2020-07-05T14:11:28+00:00'
 category: webclip
 summary: 'A set of short posts about simplifying server deployment, noticing small customer-service touches, reducing SSL asset friction, hiring self-directed people, and favoring lower-tech solutions when they work.'
 tags: ["basecamp", "software", "deployment", "user-experience"]

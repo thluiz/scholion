@@ -1,6 +1,6 @@
 ---
 title: "Headless CMS is the Future"
-date: '2026-11-16T01:27:52+00:00'
+date: '2020-07-05T14:10:32+00:00'
 category: webclip
 summary: 'The post compares coupled, decoupled, and headless CMSs and argues that headless CMSs fit businesses better because they support multiple channels, flexibility, security, and scalability.'
 tags: ["headless-cms", "content-management-systems", "digital-transformation"]

@@ -1,6 +1,6 @@
 ---
 title: "Keys for You to Become a Better Frontend Web Developer"
-date: '2026-11-16T01:23:08+00:00'
+date: '2020-07-05T14:10:30+00:00'
 category: webclip
 summary: 'The page is a checklist for frontend developers who want to move past template work and dummy projects. It recommends stronger JavaScript knowledge, Git, backend basics, bundlers, and better tools.'
 tags: ["frontend-development", "javascript", "git", "web-development"]

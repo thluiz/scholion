@@ -1,6 +1,6 @@
 ---
 title: "Using Extension Methods in C# to Build Fluent Code"
-date: '2026-11-16T00:47:13+00:00'
+date: '2020-02-22T12:11:45+00:00'
 category: webclip
 summary: 'The article explains static methods, extension methods, and method chaining in C#. It shows how extension methods can create fluent APIs and how LINQ relies on them.'
 tags: ["c-sharp", "extension-methods", "linq", "fluent-api"]

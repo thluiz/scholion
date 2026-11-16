@@ -1,6 +1,6 @@
 ---
 title: "Why F#, Rust and others use Option type instead of nullable types like C# 8 or TypeScript?"
-date: '2026-11-16T05:28:34+00:00'
+date: '2020-07-05T14:10:39+00:00'
 category: webclip
 summary: 'The answers explain that option types model absence as a value with strong composability, while nullable types depend on compiler tracking. They also note that performance differences are language-dependent.'
 tags: ["option-types", "nullable-types", "language-design"]

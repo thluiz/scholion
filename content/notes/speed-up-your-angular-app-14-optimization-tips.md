@@ -1,6 +1,6 @@
 ---
 title: "Speed Up Your Angular App - 14 Angular Optimization Tips"
-date: '2026-11-16T04:42:54+00:00'
+date: '2020-04-20T21:22:21+00:00'
 category: webclip
 summary: 'The article groups Angular performance work into build, code, and operational changes. It covers AOT, minification, lazy loading, OnPush, async pipe, cleanup, profiling tools, and bundle budgets.'
 tags: ["angular", "performance-optimization", "build-tools", "profiling"]

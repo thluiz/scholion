@@ -1,6 +1,6 @@
 ---
 title: "What to do when you’re feeling a lack of motivation at work, as a manager?"
-date: '2026-11-16T05:38:12+00:00'
+date: '2020-07-05T14:11:27+00:00'
 category: webclip
 summary: 'The page says manager motivation can drop during COVID-19 and suggests five responses: make small personal space, admit the weight, reconnect with energizing parts of the job, seek the people who benefit from the work, and step away for perspective.'
 tags: ["manager-motivation", "workplace-wellbeing", "leadership", "covid-19"]

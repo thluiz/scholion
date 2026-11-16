@@ -1,6 +1,6 @@
 ---
 title: "3 Tips That Will Simplify Your Application State Management"
-date: '2026-11-16T01:37:01+00:00'
+date: '2020-07-05T14:10:45+00:00'
 category: webclip
 summary: 'The post says state management gets hard because many state sources update together, and suggests three ways to keep it simpler: classify the state, keep it close to where it is used, and avoid putting everything in global state.'
 tags: ["state-management", "application-state", "redux", "frontend"]

@@ -1,6 +1,6 @@
 ---
 title: "From Mockup to Angular Material"
-date: '2026-11-16T07:55:33+00:00'
+date: '2020-02-22T12:11:42+00:00'
 category: webclip
 summary: 'The article shows how to turn a UI sketch for Doggo Quest into an Angular app, then use Angular Material, components, bindings, and directives to build the screen structure.'
 tags: ["angular", "angular-material", "ui-components", "doggo-quest"]

@@ -1,6 +1,6 @@
 ---
 title: "Why Choose NgRx?"
-date: '2026-11-16T02:11:52+00:00'
+date: '2020-01-26T03:02:17+00:00'
 category: webclip
 summary: 'Wes asks companies using NgRx in enterprise Angular apps to share why they chose it, for research on a talk about NgRx as a reactive platform. Commenters may be featured and win swag.'
 tags: ["ngrx", "angular", "reactive-platform", "enterprise"]

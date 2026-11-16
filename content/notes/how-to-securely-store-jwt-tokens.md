@@ -1,6 +1,6 @@
 ---
 title: "How to securely store JWT tokens"
-date: '2026-11-16T07:49:17+00:00'
+date: '2020-04-20T21:22:24+00:00'
 category: webclip
 summary: 'The article argues that JWTs should not be stored in local storage or session storage, recommends browser memory only with re-login on refresh, and favors cookies with HttpOnly, Secure, and SameSite settings to reduce XSS and CSRF risk.'
 tags: ["jwt", "cookies", "xss", "csrf"]

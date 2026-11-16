@@ -1,6 +1,6 @@
 ---
 title: "Devs, salários e a comunidade"
-date: '2026-11-16T08:17:13+00:00'
+date: '2020-08-26T19:31:15+00:00'
 category: webclip
 summary: 'Pesquisa com 1500 respostas sobre salários, contrato e experiência de devs no Brasil mostra que salários altos são exceção, PJ nem sempre compensa e a experiência não cresce de forma linear.'
 tags: ["salarios", "desenvolvimento-de-software", "pj-vs-clt"]

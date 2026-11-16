@@ -1,6 +1,6 @@
 ---
 title: "30 Best Dev and Tech Podcasts"
-date: '2026-11-16T00:26:36+00:00'
+date: '2019-07-18T09:50:01+00:00'
 category: webclip
 summary: 'The page argues that podcasts offer depth, community, and flexibility for learning about software, tech news, and industry experience, then groups 30 shows by topic.'
 tags: ["podcasts", "software-development", "tech-news", "apple-android-windows"]

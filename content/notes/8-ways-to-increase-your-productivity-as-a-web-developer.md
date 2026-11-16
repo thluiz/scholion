@@ -1,6 +1,6 @@
 ---
 title: "8 ways to increase your productivity as a web developer"
-date: '2026-11-16T01:18:51+00:00'
+date: '2020-07-05T14:11:25+00:00'
 category: webclip
 summary: 'The article argues that product work should stay custom while the development process should be standardized. It lists eight ways to speed implementation, from starter bases to automation.'
 tags: ["web-development", "productivity", "frontend", "workflow"]

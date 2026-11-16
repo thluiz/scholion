@@ -1,6 +1,6 @@
 ---
 title: "One year of writing a blog post every week: this is what happened"
-date: '2026-11-16T01:28:21+00:00'
+date: '2020-07-05T14:10:33+00:00'
 category: webclip
 summary: 'The author describes a year of weekly blogging, from struggle with structure and typos to better workflow, topic selection, series, audience growth, and interview value.'
 tags: ["blogging", "dev-to", "writing", "content-creation"]

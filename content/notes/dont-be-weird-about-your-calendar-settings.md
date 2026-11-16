@@ -1,6 +1,6 @@
 ---
 title: "Don't Be Weird About Your Calendar Settings"
-date: '2026-11-16T04:44:11+00:00'
+date: '2020-04-20T21:22:22+00:00'
 category: webclip
 summary: 'The writer argues that public work calendars can expose private medical appointments, drinking plans, gym visits, and layoff discussions, so keeping calendars private helps protect work-life balance and sanity.'
 tags: ["work-calendar", "privacy", "work-life-balance"]

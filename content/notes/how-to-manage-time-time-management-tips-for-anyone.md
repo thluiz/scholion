@@ -1,6 +1,6 @@
 ---
 title: "How to manage time? Time management tips for anyone."
-date: '2026-11-16T00:59:25+00:00'
+date: '2020-08-26T19:31:13+00:00'
 category: webclip
 summary: 'The page shares a short set of podcast takeaways on time management: notice where time goes, track it with a tool, remove distractions, return quickly when distracted, and keep food and sleep in order.'
 tags: ["time-management", "productivity", "sleep", "distractions"]

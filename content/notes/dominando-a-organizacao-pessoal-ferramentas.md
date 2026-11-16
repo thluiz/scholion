@@ -1,6 +1,6 @@
 ---
 title: "Dominando a Organização Pessoal: Ferramentas"
-date: '2026-11-16T01:21:19+00:00'
+date: '2020-04-20T21:22:21+00:00'
 category: webclip
 summary: 'O artigo defende que a organização pessoal gira em torno de e-mails, agenda e tarefas, com notas e documentos como apoio. Ele recomenda poucas ferramentas, tudo sincronizado, e tempo livre agendado.'
 tags: ["organizacao-pessoal", "agenda", "e-mails", "tarefas"]

@@ -1,6 +1,6 @@
 ---
 title: "Want to be a full-stack developer without a degree? This is what you need"
-date: '2026-11-16T01:55:37+00:00'
+date: '2020-08-26T19:31:11+00:00'
 category: webclip
 summary: 'The article says you can show full-stack readiness without a degree by bringing proof of code, deployment, writing, work experience, personality, and a central place that links everything together.'
 tags: ["full-stack-development", "career", "portfolio", "soft-skills"]

@@ -1,6 +1,6 @@
 ---
 title: "Smart Node.js Form Validation"
-date: '2026-11-16T06:18:50+00:00'
+date: '2020-04-20T21:22:42+00:00'
 category: webclip
 summary: 'The article shows how datalize adds validation for Node.js APIs, including request bodies, queries, params, arrays, nested objects, custom rules, and automatic error handling.'
 tags: ["node-js", "form-validation", "api", "datalize"]

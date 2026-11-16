@@ -1,6 +1,6 @@
 ---
 title: "The Complete Guide to Mastery"
-date: '2026-11-16T02:50:05+00:00'
+date: '2020-02-22T12:12:00+00:00'
 category: webclip
 summary: 'This page surfaces Doist articles on remote work, project organization, and ending the workday, with categories for AI and work, Todoist tips, and time management.'
 tags: ["ai-and-work", "todoist-tips", "time-management"]

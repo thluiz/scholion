@@ -1,6 +1,6 @@
 ---
 title: "How to Build a Node.js Error-handling System"
-date: '2026-11-16T06:06:11+00:00'
+date: '2020-07-05T14:10:35+00:00'
 category: webclip
 summary: 'The article separates operational and programmer errors, recommends async/await with a custom Error hierarchy, and shows a centralized handler with logging, alerts, and graceful shutdown.'
 tags: ["nodejs", "error-handling", "express", "logging"]

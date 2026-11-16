@@ -1,6 +1,6 @@
 ---
 title: "Developers: Getting ahead is about more than programming languages"
-date: '2026-11-16T04:44:29+00:00'
+date: '2020-04-20T21:22:23+00:00'
 category: webclip
 summary: 'Three IT leaders say career growth depends on continuous learning, user-focused collaboration, and connecting technical work to business needs, not just on knowing programming languages.'
 tags: ["career-development", "it-leadership", "continuous-learning", "user-needs"]

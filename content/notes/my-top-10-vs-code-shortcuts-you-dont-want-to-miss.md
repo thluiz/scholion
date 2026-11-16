@@ -1,6 +1,6 @@
 ---
 title: "My top 10 VS Code shortcuts you don't want to miss"
-date: '2026-11-16T01:17:16+00:00'
+date: '2020-07-05T14:11:24+00:00'
 category: webclip
 summary: 'The post lists ten VS Code shortcuts the author uses to move between edits, jump to brackets or symbols, select code blocks, manage files, and organize imports faster.'
 tags: ["vs-code", "keyboard-shortcuts", "code-editor", "typescript"]

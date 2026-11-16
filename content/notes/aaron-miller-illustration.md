@@ -1,6 +1,6 @@
 ---
 title: "Aaron Miller Illustration"
-date: '2026-11-16T03:38:49+00:00'
+date: '2020-07-05T14:10:32+00:00'
 category: webclip
 summary: 'The page says it could not be found. It suggests the URL may be wrong, or the page may have been moved or deleted, and offers links to the homepage and search.'
 tags: ["page-not-found", "website-error", "navigation"]

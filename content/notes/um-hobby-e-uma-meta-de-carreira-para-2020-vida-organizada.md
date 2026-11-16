@@ -1,6 +1,6 @@
 ---
 title: "Um hobby e uma meta de carreira para 2020"
-date: '2026-11-16T08:02:23+00:00'
+date: '2020-02-22T12:11:51+00:00'
 category: webclip
 summary: 'A autora escolhe para 2020 encerrar certificações e a dissertação do mestrado, sem abrir novas metas de carreira. Nos hobbies, quer retomar a cozinha básica e adiar a pintura por enquanto.'
 tags: ["planejamento-anual", "carreira", "hobbies", "cozinha"]

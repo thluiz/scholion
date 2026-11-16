@@ -1,6 +1,6 @@
 ---
 title: "Start the day with something energizing"
-date: '2026-11-16T04:49:13+00:00'
+date: '2023-12-12T18:51:31+00:00'
 category: webclip
 summary: 'When depression or anxiety makes you feel unable to act, the piece suggests slowing down, taking breaks, breaking tasks into smaller pieces, and beginning the day with something energizing.'
 tags: ["depression", "anxiety", "coping-strategies", "mental-health"]

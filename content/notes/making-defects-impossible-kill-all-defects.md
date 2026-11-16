@@ -1,6 +1,6 @@
 ---
 title: "Making Defects Impossible"
-date: '2026-11-16T07:56:33+00:00'
+date: '2020-02-22T12:11:45+00:00'
 category: webclip
 summary: 'The article argues that recurring bugs can often be reduced by moving checks into the compiler, using immutable objects, modeling valid states in types, and making null handling explicit.'
 tags: ["software-defects", "type-safety", "immutability", "null-handling"]

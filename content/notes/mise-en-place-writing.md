@@ -1,6 +1,6 @@
 ---
 title: "Mise en Place Writing"
-date: '2026-11-16T01:45:52+00:00'
+date: '2020-04-20T21:22:35+00:00'
 category: webclip
 summary: 'The post argues that writing improves when pre-writing is separated from drafting. Idea gathering, research, review, audience testing, reframing, organization, and illustration happen first, so the actual writing stage is faster and easier.'
 tags: ["writing", "pre-writing", "research", "second-brain"]

@@ -1,6 +1,6 @@
 ---
 title: "How one blog post led me to collaborate with amazing communities"
-date: '2026-11-16T01:26:36+00:00'
+date: '2020-07-05T14:10:31+00:00'
 category: webclip
 summary: 'The author says a blog post about becoming a software engineer led to invitations from universities, podcasts, and communities, where she shared her experience, mentored others, and kept giving back.'
 tags: ["software-engineering", "mentorship", "tech-community", "career-story"]

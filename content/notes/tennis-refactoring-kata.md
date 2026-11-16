@@ -1,6 +1,6 @@
 ---
 title: "Tennis-Refactoring-Kata"
-date: '2026-11-16T03:08:07+00:00'
+date: '2020-07-05T14:11:19+00:00'
 category: webclip
 summary: 'A refactoring kata about a tennis scoring codebase with fast, comprehensive tests, several design smells, and a deliberate hard-coded player-name error to fix after refactoring.'
 tags: ["refactoring-kata", "tennis", "code-smells", "testing"]

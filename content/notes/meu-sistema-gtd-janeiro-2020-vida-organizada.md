@@ -1,6 +1,6 @@
 ---
 title: "Meu sistema GTD (Janeiro 2020) – vida organizada"
-date: '2026-11-16T07:58:20+00:00'
+date: '2020-02-22T12:11:48+00:00'
 category: webclip
 summary: 'A autora descreve a reinstalação anual do sistema GTD, mantém Google Agenda, Trello, Evernote, Dropbox e Google Drive, e usa o Bullet Journal só para capturas, registro do dia e acontecimentos.'
 tags: ["gtd", "trello", "bullet-journal", "organizacao-pessoal"]

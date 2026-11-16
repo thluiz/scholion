@@ -1,6 +1,6 @@
 ---
 title: "Let's try to scale an API"
-date: '2026-11-16T01:16:39+00:00'
+date: '2020-07-05T14:11:24+00:00'
 category: webclip
 summary: 'The article shows how a Node.js API that finds the highest prime in a range gets faster with cluster mode, a sieve-based algorithm, and caching, using load test results to compare each step.'
 tags: ["nodejs", "api-scaling", "concurrency", "caching"]

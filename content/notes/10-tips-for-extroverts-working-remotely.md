@@ -1,6 +1,6 @@
 ---
 title: "10 Tips for Extroverts Working Remotely"
-date: '2026-11-16T04:06:41+00:00'
+date: '2020-07-05T14:11:17+00:00'
 category: webclip
 summary: 'The page appears to be a related-content listing, highlighting articles on small-team collaboration, team rituals, and remote-team retention rather than giving the promised tips themselves.'
 tags: ["remote-work", "teams", "team-rituals", "retention"]

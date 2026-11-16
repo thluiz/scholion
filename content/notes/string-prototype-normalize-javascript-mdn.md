@@ -1,6 +1,6 @@
 ---
 title: "String.prototype.normalize() - JavaScript | MDN"
-date: '2026-11-16T02:20:22+00:00'
+date: '2020-04-20T21:22:46+00:00'
 category: webclip
 summary: 'Describes String.prototype.normalize(), which returns a string in a Unicode normalization form. It explains NFC, NFD, NFKC, and NFKD, and how normalization affects comparison, length, search, and display.'
 tags: ["javascript", "unicode", "string-normalization"]

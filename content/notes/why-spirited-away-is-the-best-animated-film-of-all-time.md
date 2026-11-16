@@ -1,6 +1,6 @@
 ---
 title: "Why ‘Spirited Away’ Is the Best Animated Film of All Time"
-date: '2026-11-16T03:25:25+00:00'
+date: '2016-07-21T16:05:12+00:00'
 category: webclip
 summary: 'The article argues that Spirited Away endures because it blends the spiritual, the realistic, the fantastic, and the human, and because Chihiro’s growth feels honest, balanced, and emotionally precise.'
 tags: ["spirited-away", "studio-ghibli", "hayao-miyazaki", "animation"]

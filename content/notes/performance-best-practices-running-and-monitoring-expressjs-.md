@@ -1,6 +1,6 @@
 ---
 title: "Performance Best Practices: Running and Monitoring Express.js in Production"
-date: '2026-11-16T01:18:36+00:00'
+date: '2020-07-05T14:11:25+00:00'
 category: webclip
 summary: 'The article argues that production Express.js apps should prioritize uptime, predictable resource use, scaling, and faster debugging through structure, async code, logging, metrics, and DevOps tooling.'
 tags: ["expressjs", "performance", "monitoring", "devops"]

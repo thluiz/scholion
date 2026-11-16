@@ -1,6 +1,6 @@
 ---
 title: "All For Reliability: Reflections on the Erlang Thesis"
-date: '2026-11-16T03:51:37+00:00'
+date: '2020-07-05T14:10:39+00:00'
 category: webclip
 summary: 'The article argues that Erlang’s process model, messaging, supervision, and scheduling were designed first for reliability, and that these choices also make concurrent programs scale well.'
 tags: ["erlang", "elixir", "reliability", "concurrency"]

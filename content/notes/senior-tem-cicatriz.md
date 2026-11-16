@@ -1,6 +1,6 @@
 ---
 title: "Senior tem cicatriz"
-date: '2026-11-16T08:15:53+00:00'
+date: '2020-04-20T21:22:34+00:00'
 category: webclip
 summary: 'O texto critica o uso inflacionado de “senior” no mercado, dizendo que senioridade vem de experiência ampla, resolução de problemas diversos e cicatrizes deixadas por projetos difíceis.'
 tags: ["senioridade", "mercado-de-ti", "experiencia"]

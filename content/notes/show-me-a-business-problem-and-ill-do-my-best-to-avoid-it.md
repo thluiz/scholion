@@ -1,6 +1,6 @@
 ---
 title: "Show me a business problem and I’ll do my best to avoid it"
-date: '2026-11-16T03:19:19+00:00'
+date: '2020-07-05T14:11:28+00:00'
 category: webclip
 summary: 'The post argues that Basecamp grows by avoiding self-created business problems: large teams, long projects, promises, scale dependence, dreadlines, miscommunication, partnerships, and bottlenecks.'
 tags: ["business", "basecamp", "management", "team-size"]

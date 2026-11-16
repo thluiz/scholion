@@ -1,6 +1,6 @@
 ---
 title: "Walter Langley's Watercolors"
-date: '2026-11-16T02:36:37+00:00'
+date: '2020-02-22T12:11:51+00:00'
 category: webclip
 summary: 'The page says Walter Langley was an early Newlyn School member who painted many of his best life studies in watercolor, often from real people in authentic costume, and used the medium to show everyday fishing-village life and its hardships.'
 tags: ["walter-langley", "watercolor", "newlyn-school", "cornwall"]

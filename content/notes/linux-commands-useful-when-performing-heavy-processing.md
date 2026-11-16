@@ -1,6 +1,6 @@
 ---
 title: "Linux commands useful when performing heavy processing"
-date: '2026-11-16T00:51:46+00:00'
+date: '2020-02-22T12:11:53+00:00'
 category: webclip
 summary: 'The page shows how sleep can pause work, how nice and renice can lower or adjust process priority, and how nohup keeps a command running after logout.'
 tags: ["linux", "shell", "process-management"]

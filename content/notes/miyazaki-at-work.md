@@ -1,6 +1,6 @@
 ---
 title: "Miyazaki at Work"
-date: '2026-11-16T07:53:32+00:00'
+date: '2019-06-27T08:31:01+00:00'
 category: webclip
 summary: 'A short post recommends the free four-part documentary _10 Years with Hayao Miyazaki_, which follows his struggles making _Ponyo_ and _The Wind Rises_ and shows his doubt, routine, and process.'
 tags: ["hayao-miyazaki", "studio-ghibli", "documentary"]

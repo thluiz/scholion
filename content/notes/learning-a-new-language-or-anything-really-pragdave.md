@@ -1,6 +1,6 @@
 ---
 title: "Learning a New Language (or anything, really…)"
-date: '2026-11-16T03:13:37+00:00'
+date: '2020-07-05T14:11:21+00:00'
 category: webclip
 summary: 'The author suggests learning by choosing a small, useful task, prototyping it in the new language, accepting early mistakes, then discarding the code and starting again to build fluency.'
 tags: ["language-learning", "practice", "tooling"]

@@ -1,6 +1,6 @@
 ---
 title: "Dates and Times in JavaScript"
-date: '2026-11-16T02:59:48+00:00'
+date: '2020-08-26T19:31:25+00:00'
 category: webclip
 summary: 'The post asks for feedback on the Temporal proposal, says Date is hard to work with, and explains that Temporal aims to handle dates, times, time zones, DST, and calendars more cleanly.'
 tags: ["javascript", "temporal", "date", "time"]

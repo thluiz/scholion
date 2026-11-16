@@ -1,6 +1,6 @@
 ---
 title: "The Art of Command Line"
-date: '2026-11-16T03:59:49+00:00'
+date: '2020-07-05T14:10:42+00:00'
 category: webclip
 summary: 'A one-page Bash and Unix command-line guide covering basics, everyday shortcuts, file and data processing, system debugging, one-liners, and platform-specific notes for macOS and Windows.'
 tags: ["bash", "command-line", "unix", "system-debugging"]

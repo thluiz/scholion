@@ -1,6 +1,6 @@
 ---
 title: "Truncate string with ellipsis"
-date: '2026-11-16T01:55:23+00:00'
+date: '2020-08-26T19:31:10+00:00'
 category: webclip
 summary: 'The page shows how to truncate long one-line text with CSS using width, white-space, overflow, and text-overflow, and how to expose the full string with the title attribute.'
 tags: ["css", "text-overflow", "overflow", "white-space"]

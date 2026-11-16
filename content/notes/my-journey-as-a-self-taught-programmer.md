@@ -1,6 +1,6 @@
 ---
 title: "My Journey as a self-taught programmer"
-date: '2026-11-16T01:07:05+00:00'
+date: '2020-08-26T19:31:29+00:00'
 category: webclip
 summary: 'The author describes moving from confusion and frustration to a clearer path in Java, using practice, online resources, and persistence to build confidence and small apps.'
 tags: ["programming-journey", "java", "self-taught", "learning"]

@@ -1,6 +1,6 @@
 ---
 title: "Os Próximos 10 Anos"
-date: '2026-11-16T02:58:45+00:00'
+date: '2016-09-28T12:25:29+00:00'
 category: webclip
 summary: 'O texto defende liberdade intelectual contra religiões de linguagem e resume a trajetória da Rubyconf Brasil como espaço de curadoria, pensamento crítico e uso de boas ferramentas sem fidelidade cega.'
 tags: ["ruby", "thoughtful-programming", "software-craft", "critical-thinking"]

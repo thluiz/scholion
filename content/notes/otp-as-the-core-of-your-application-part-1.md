@@ -1,6 +1,6 @@
 ---
 title: "OTP as the Core of Your Application Part 1"
-date: '2026-11-16T03:01:35+00:00'
+date: '2020-08-26T19:31:29+00:00'
 category: webclip
 summary: 'The post explains the Actor Model on the BEAM, then builds a Phoenix bookstore that reads from GenServers in later parts. Here it sets up the app, scrapes Manning data, and seeds Postgres.'
 tags: ["actor-model", "beam", "phoenix", "genserver"]

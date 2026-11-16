@@ -1,6 +1,6 @@
 ---
 title: "What Is Eat the Frog? A Simple System for Productivity Minimalists"
-date: '2026-11-16T03:29:36+00:00'
+date: '2020-04-20T21:22:24+00:00'
 category: webclip
 summary: 'Eat the Frog is a productivity method that asks you to identify the day’s most important, least welcome task and do it first, so you make progress on high-impact work.'
 tags: ["productivity", "procrastination", "deep-work", "task-prioritization"]

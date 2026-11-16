@@ -1,6 +1,6 @@
 ---
 title: "An article ... to help your first dev.to article"
-date: '2026-11-16T01:49:28+00:00'
+date: '2020-04-20T21:22:37+00:00'
 category: webclip
 summary: 'The article says writing is important for developers, then walks through the first Dev.to post: choose a topic, learn Markdown, write, review, pick a cover image, and publish it.'
 tags: ["devto", "writing", "markdown", "content-creation"]

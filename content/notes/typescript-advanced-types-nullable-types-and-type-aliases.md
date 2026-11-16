@@ -1,6 +1,6 @@
 ---
 title: "TypeScript Advanced Types — Nullable Types and Type Aliases"
-date: '2026-11-16T05:48:56+00:00'
+date: '2020-02-22T12:11:43+00:00'
 category: webclip
 summary: 'The article explains how TypeScript’s strictNullChecks blocks null and undefined on non-nullable members, and how nullable types use a question mark to allow them. It also introduces type aliases.'
 tags: ["typescript", "nullable-types", "type-aliases"]

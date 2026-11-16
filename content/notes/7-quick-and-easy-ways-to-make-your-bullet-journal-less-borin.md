@@ -1,6 +1,6 @@
 ---
 title: "7 Quick and Easy Ways to Make Your Bullet Journal Less Boring"
-date: '2026-11-16T03:37:47+00:00'
+date: '2020-07-05T14:10:32+00:00'
 category: webclip
 summary: 'The post suggests seven simple ways to add variety to a bullet journal with tools already suited to small notebooks, including highlighters, washi tape, dual tip pens, symbols, stickers, and stamps.'
 tags: ["bullet-journal", "planning", "decorating", "washi-tape"]

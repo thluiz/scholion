@@ -1,6 +1,6 @@
 ---
 title: "How Much Do You Cost?"
-date: '2026-11-16T04:25:45+00:00'
+date: '2020-04-20T21:22:35+00:00'
 category: webclip
 summary: 'The article explains how the author estimates a programmer’s hourly rate using open source activity, Stack Overflow presence, certifications, publications, and skill focus, while downplaying location, experience, and CV titles.'
 tags: ["programmer-rates", "open-source", "stack-overflow", "certifications"]

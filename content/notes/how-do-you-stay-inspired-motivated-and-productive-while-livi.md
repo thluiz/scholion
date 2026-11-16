@@ -1,6 +1,6 @@
 ---
 title: "How do you stay inspired, motivated, and productive while living in a super active home?"
-date: '2026-11-16T01:34:04+00:00'
+date: '2020-07-05T14:10:38+00:00'
 category: webclip
 summary: 'The writer says productivity at home depends on adjusting expectations, keeping routines close to office work, protecting uninterrupted time, and staying motivated by family needs and big goals.'
 tags: ["productivity", "work-from-home", "routine", "motivation"]

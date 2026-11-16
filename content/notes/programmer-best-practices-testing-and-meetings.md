@@ -1,6 +1,6 @@
 ---
 title: "Programmer Best Practices — Testing and Meetings"
-date: '2026-11-16T05:52:10+00:00'
+date: '2020-08-26T19:31:26+00:00'
 category: webclip
 summary: 'The article argues that developers should do most testing, while QA focuses on acceptance tests, corner cases, and exploratory testing. It also introduces the testing pyramid and says unit tests should be close to full coverage.'
 tags: ["testing", "unit-tests", "quality-assurance", "productivity"]

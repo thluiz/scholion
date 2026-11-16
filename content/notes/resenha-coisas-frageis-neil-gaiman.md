@@ -1,6 +1,6 @@
 ---
 title: "Resenha Coisas Frágeis – Neil Gaiman"
-date: '2026-11-16T05:41:59+00:00'
+date: '2020-08-26T19:31:20+00:00'
 category: webclip
 summary: 'A página capturada não traz o conteúdo da resenha; exibe apenas a mensagem “404 page not found”.'
 tags: ["404", "pagina-indisponivel", "resenha"]

@@ -1,6 +1,6 @@
 ---
 title: "5 Tips For New Managers"
-date: '2026-11-16T00:45:13+00:00'
+date: '2020-02-22T12:11:44+00:00'
 category: webclip
 summary: 'The article gives five manager practices: protect time, read a management book, run async 1-1s, create clarity, and build a safe space for a team working under uncertainty.'
 tags: ["management", "team-leadership", "one-on-ones", "clarity"]

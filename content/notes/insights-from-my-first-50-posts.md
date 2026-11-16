@@ -1,6 +1,6 @@
 ---
 title: "Insights From My First 50 Posts"
-date: '2026-11-16T01:00:10+00:00'
+date: '2020-08-26T19:31:13+00:00'
 category: webclip
 summary: 'The author reflects on writing 50 Dev.to posts, noting that the platform rewards recent activity, gives a built-in audience, and that post length matters less than content quality.'
 tags: ["dev-to", "blogging", "metrics", "writing"]

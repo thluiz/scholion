@@ -1,6 +1,6 @@
 ---
 title: "How do I prevent Scrum from turning great developers into average developers?"
-date: '2026-11-16T05:30:38+00:00'
+date: '2020-07-05T14:10:40+00:00'
 category: webclip
 summary: 'The page argues that Scrum can push developers toward easy tickets, visible output, and constant reporting, which may reduce deep work and reward speed over code quality unless the team and process are truly self-organizing.'
 tags: ["scrum", "management", "software-development", "team-dynamics"]

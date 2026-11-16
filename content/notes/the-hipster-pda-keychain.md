@@ -1,6 +1,6 @@
 ---
 title: "The Hipster PDA Keychain"
-date: '2026-11-16T02:45:37+00:00'
+date: '2020-02-22T12:11:58+00:00'
 category: webclip
 summary: 'Lifehacker shows a pocket-friendly Hipster PDA keychain inspired by Merlin Mann’s idea, built by attaching a binder clip to a keychain and cutting up notecards.'
 tags: ["diy", "keychain", "notecards"]

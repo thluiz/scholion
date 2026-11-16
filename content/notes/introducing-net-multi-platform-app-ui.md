@@ -1,6 +1,6 @@
 ---
 title: "Introducing .NET Multi-platform App UI"
-date: '2026-11-16T04:05:16+00:00'
+date: '2020-07-05T14:11:16+00:00'
 category: webclip
 summary: '.NET MAUI is presented as a new first-class UI framework for unified .NET, extending Xamarin.Forms to desktop and mobile with a single project, shared resources, and support for MVVM and MVU.'
 tags: ["net-maui", "xamarin-forms", "multi-platform-apps"]

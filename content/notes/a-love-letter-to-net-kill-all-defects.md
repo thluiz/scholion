@@ -1,6 +1,6 @@
 ---
 title: "A Love Letter to .NET"
-date: '2026-11-16T07:56:49+00:00'
+date: '2020-02-22T12:11:45+00:00'
 category: webclip
 summary: 'The author says .NET has kept evolving from a Windows and web framework into a cross-platform, cloud-ready platform, and values it for back-end work, desktop and mobile development, and a productive language ecosystem.'
 tags: ["dotnet", "c-sharp", "cross-platform", "cloud"]

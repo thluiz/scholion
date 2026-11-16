@@ -1,6 +1,6 @@
 ---
 title: "Write Angular code 10x faster"
-date: '2026-11-16T00:29:20+00:00'
+date: '2020-04-20T21:22:44+00:00'
 category: webclip
 summary: 'The post argues that reusable Angular components and VS Code snippets speed up development by inserting shared HTML blocks for common UI parts like blades and grids.'
 tags: ["angular", "vscode", "snippets", "shared-components"]

@@ -1,6 +1,6 @@
 ---
 title: "Do Software Developers Hate Marketing?"
-date: '2026-11-16T00:27:51+00:00'
+date: '2020-04-20T21:22:21+00:00'
 category: webclip
 summary: 'The post argues that developers do not hate marketing itself, but gimmicks, irrelevant messaging, and tactics that ignore their problems. Better developer marketing comes from trust, specificity, and listening.'
 tags: ["developer-marketing", "b2b-marketing", "user-research"]

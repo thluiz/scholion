@@ -1,6 +1,6 @@
 ---
 title: "Best resources and learnings on running online events"
-date: '2026-11-16T01:46:38+00:00'
+date: '2020-04-20T21:22:35+00:00'
 category: webclip
 summary: 'A live list of articles and guides for planning online events, from livestream conferences and meetups to podcasts and hackathons, plus notes on reducing Zoom-bombing risk.'
 tags: ["online-events", "zoom", "livestream", "community"]

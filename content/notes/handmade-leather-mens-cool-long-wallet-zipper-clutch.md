@@ -1,6 +1,6 @@
 ---
 title: "Handmade Leather Mens Cool Long Leather Wallet Zipper Clutch Wallet for Men"
-date: '2026-11-16T02:48:00+00:00'
+date: '2020-02-22T12:11:58+00:00'
 category: webclip
 summary: 'The product is a handmade cowhide long wallet in dark coffee or vintage brown, with two bill slots, twelve card holders, and one zipper holder. It is ready to ship, not customizable, and sold with tracked shipping options.'
 tags: ["wallet", "cowhide", "handmade-leather", "shipping"]

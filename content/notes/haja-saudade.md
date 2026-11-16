@@ -1,6 +1,6 @@
 ---
 title: "Haja saudade"
-date: '2026-11-16T04:58:47+00:00'
+date: '2019-10-26T08:27:10+00:00'
 category: webclip
 summary: 'O texto retrata João Gilberto como o criador de uma forma de cantar e tocar que definiu a bossa nova, marcando a música brasileira no Brasil e no exterior, apesar de suas manias e exigência pela perfeição.'
 tags: ["joao-gilberto", "bossa-nova", "musica-brasileira"]

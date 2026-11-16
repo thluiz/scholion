@@ -1,6 +1,6 @@
 ---
 title: "Setting up Python to Connect to Google Sheets"
-date: '2026-11-16T00:31:28+00:00'
+date: '2020-04-20T21:22:27+00:00'
 category: webclip
 summary: 'The post describes two problems while connecting Python to Google Sheets: outdated API scopes caused 403 permission errors, and pytest used a different root directory, which broke the JSON file path.'
 tags: ["python", "google-sheets", "pytest", "gspread"]

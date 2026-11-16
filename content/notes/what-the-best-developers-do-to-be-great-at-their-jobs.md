@@ -1,6 +1,6 @@
 ---
 title: "What the Best Developers Do to Be Great at Their Jobs"
-date: '2026-11-16T05:39:18+00:00'
+date: '2020-04-20T21:22:35+00:00'
 category: webclip
 summary: 'The article argues that great developers stand out by understanding business goals, protecting time for rest, keeping up with learning, and building personal projects that prove initiative and independence.'
 tags: ["software-development", "career", "continuous-learning", "personal-projects"]

@@ -1,6 +1,6 @@
 ---
 title: "How to Start a New .NET Project in 2026"
-date: '2026-11-16T04:50:39+00:00'
+date: '2026-02-12T07:17:14+00:00'
 category: webclip
 summary: 'The post recommends setting strict solution-wide standards, adding analyzers, enforcing editor rules, centralizing package versions, using Aspire, enabling OpenTelemetry, and automating build and tests with GitHub Actions.'
 tags: ["dotnet", "aspire", "opentelemetry", "github-actions"]

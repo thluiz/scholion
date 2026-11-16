@@ -1,6 +1,6 @@
 ---
 title: "How To Store Huge Information in A Single Integer Value"
-date: '2026-11-16T02:05:23+00:00'
+date: '2019-06-25T09:53:53+00:00'
 category: webclip
 summary: 'The page shows how to encode multiple user roles in one integer by assigning each role a power of two, then recover the roles by reading the binary remainders.'
 tags: ["roles-and-permissions", "bitmask", "integer-storage"]

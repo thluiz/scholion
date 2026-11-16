@@ -1,6 +1,6 @@
 ---
 title: "Top 10 .NET Core Libraries Every Web Developer Should Know"
-date: '2026-11-16T02:35:09+00:00'
+date: '2020-02-22T12:11:50+00:00'
 category: webclip
 summary: 'The post lists ten .NET Core libraries and briefly explains what each one is used for, from API docs and resilience to caching, messaging, gateways, logging, and object mapping.'
 tags: ["dotnet-core", "libraries", "web-development", "open-source"]

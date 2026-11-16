@@ -1,6 +1,6 @@
 ---
 title: "Implementing a Phoenix PubSub Adapter with EventStore"
-date: '2026-11-16T03:46:47+00:00'
+date: '2020-07-05T14:10:38+00:00'
 category: webclip
 summary: 'The post shows how to build a Phoenix PubSub adapter on EventStore, trading speed for persistence and node decoupling, and explains the callbacks, metadata, and serialization needed to route broadcasts across nodes.'
 tags: ["phoenix-pubsub", "eventstore", "elixir", "distributed-systems"]

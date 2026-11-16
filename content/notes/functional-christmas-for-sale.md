@@ -1,6 +1,6 @@
 ---
 title: "functional.christmas is for sale"
-date: '2026-11-16T05:15:31+00:00'
+date: '2020-02-22T12:12:01+00:00'
 category: webclip
 summary: 'The page says the domain functional.christmas is for sale as a premium, verified domain, with ownership offered for 239,00 $.'
 tags: ["domain-for-sale", "premium-domain", "goddaddy"]

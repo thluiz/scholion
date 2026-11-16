@@ -1,6 +1,6 @@
 ---
 title: "Essential vs. Non-Essential - Signal vs. Noise"
-date: '2026-11-16T03:20:14+00:00'
+date: '2020-07-05T14:11:28+00:00'
 category: webclip
 summary: 'The post argues that a simple product should keep non-essential features out of v1.0, using a filter for “wouldn’t it be nice if” ideas and deferring them to v1.1.'
 tags: ["product-development", "minimum-viable-product", "feature-prioritization"]

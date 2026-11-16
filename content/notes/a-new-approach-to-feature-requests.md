@@ -1,6 +1,6 @@
 ---
 title: "A New Approach to Feature Requests"
-date: '2026-11-16T03:19:34+00:00'
+date: '2020-07-05T14:11:28+00:00'
 category: webclip
 summary: 'Basecamp treats feature requests by sorting them into three paths, then interviewing customers on the ones that might matter. The goal is to uncover the real job behind the request and turn that into usable product input.'
 tags: ["feature-requests", "basecamp", "customer-interviews", "jobs-to-be-done"]

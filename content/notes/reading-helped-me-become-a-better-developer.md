@@ -1,6 +1,6 @@
 ---
 title: "Reading Helped Me Become a Better Developer"
-date: '2026-11-16T01:50:47+00:00'
+date: '2020-04-20T21:22:38+00:00'
 category: webclip
 summary: 'The author says reading has helped her grow as a developer, especially through documentation, newsletters, and articles that keep her current and make hard concepts easier to understand.'
 tags: ["documentation", "newsletters", "articles"]

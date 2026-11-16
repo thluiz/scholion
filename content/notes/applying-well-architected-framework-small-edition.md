@@ -1,6 +1,6 @@
 ---
 title: "Applying the Well-Architected Framework, Small Edition"
-date: '2026-11-16T02:03:32+00:00'
+date: '2020-08-26T19:31:30+00:00'
 category: webclip
 summary: 'The post compares a Lambda/EFS design with an EC2-based approach for building and publishing super feeds, and weighs both against the five AWS Well-Architected pillars, especially cost and security.'
 tags: ["aws-well-architected-framework", "aws-lambda", "amazon-ec2", "cost-optimization"]

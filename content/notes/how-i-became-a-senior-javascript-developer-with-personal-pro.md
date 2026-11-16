@@ -1,6 +1,6 @@
 ---
 title: "How I Became a Senior JavaScript Developer with Personal Projects"
-date: '2026-11-16T01:00:45+00:00'
+date: '2020-08-26T19:31:13+00:00'
 category: webclip
 summary: 'The author says personal projects helped him move beyond using tools, learn JavaScript deeply, and gain experience with Node.js, React, testing, performance, and web app architecture.'
 tags: ["javascript", "personal-projects", "frontend", "open-source"]

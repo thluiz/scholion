@@ -1,6 +1,6 @@
 ---
 title: "The 10 books that every developer must read"
-date: '2026-11-16T01:17:34+00:00'
+date: '2020-07-05T14:11:24+00:00'
 category: webclip
 summary: 'The post argues that reading is central to software work and lists 10 books that shaped the author’s career, focusing on coding, design, architecture, agile practices, teams, algorithms, and legacy code.'
 tags: ["software-development", "books", "design-patterns", "software-architecture"]

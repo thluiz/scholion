@@ -1,6 +1,6 @@
 ---
 title: "Why You Do Not Have To Be A Super Developer"
-date: '2026-11-16T07:51:31+00:00'
+date: '2020-07-05T14:11:16+00:00'
 category: webclip
 summary: 'The post argues that success in tech does not require constant work, nonstop self-optimization, or copying “motivational gurus.” Hard work matters, but so do rest, health, and life outside work.'
 tags: ["software-development", "burnout", "work-life-balance"]

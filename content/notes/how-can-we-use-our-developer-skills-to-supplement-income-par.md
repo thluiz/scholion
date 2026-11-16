@@ -1,6 +1,6 @@
 ---
 title: "How can we use our developer skills to supplement income? Part 2"
-date: '2026-11-16T00:42:27+00:00'
+date: '2020-02-22T12:11:43+00:00'
 category: webclip
 summary: 'The post outlines short-term ways to earn extra income and a crawl-walk-run path that starts with speaking and blogging, then expands into conferences, guest writing, workshops, streaming, courses, and books.'
 tags: ["developer-skills", "public-speaking", "content-creation", "side-income"]

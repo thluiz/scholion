@@ -1,6 +1,6 @@
 ---
 title: "A Guide to Managing Your Time When You're Always Behind"
-date: '2026-11-16T02:37:55+00:00'
+date: '2020-02-22T12:11:51+00:00'
 category: webclip
 summary: 'Leo Babauta says feeling behind is common and offers a practice-based approach: list tasks, focus on one thing, notice distraction, protect energy, keep structure flexible, and drop self-judgment.'
 tags: ["time-management", "procrastination", "self-compassion"]

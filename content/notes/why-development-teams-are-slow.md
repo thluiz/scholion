@@ -1,6 +1,6 @@
 ---
 title: "Why Development Teams are Slow"
-date: '2026-11-16T06:18:04+00:00'
+date: '2020-04-20T21:22:36+00:00'
 category: webclip
 summary: 'The article argues that slow teams usually reflect management problems: unrealistic expectations, too many open issues, oversized tasks, review bottlenecks, weak training, burnout, poor retention, and bugs.'
 tags: ["software-management", "developer-productivity", "code-review", "ci-cd"]

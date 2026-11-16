@@ -1,6 +1,6 @@
 ---
 title: "10 Books I am reading (NOT at the same time)"
-date: '2026-11-16T00:26:08+00:00'
+date: '2018-11-25T19:12:24+00:00'
 category: webclip
 summary: 'The author lists ten programming and career books he is reading, explaining why he chose them and what each one offers, from interview prep and algorithms to design patterns, architecture, and soft skills.'
 tags: ["books", "programming", "interview-prep", "software-engineering"]

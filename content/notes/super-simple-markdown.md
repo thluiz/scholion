@@ -1,6 +1,6 @@
 ---
 title: "Super Simple Markdown"
-date: '2026-11-16T01:33:34+00:00'
+date: '2020-07-05T14:10:38+00:00'
 category: webclip
 summary: 'The page is a Markdown cheat sheet for DEV posts, covering basic formatting, lists, links, images, blockquotes, code blocks, and a few escape tricks for literal characters and nested code.'
 tags: ["markdown", "cheat-sheet", "formatting"]

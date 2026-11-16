@@ -1,6 +1,6 @@
 ---
 title: "13 Essential Books for Product Managers"
-date: '2026-11-16T05:47:08+00:00'
+date: '2019-04-02T11:49:58+00:00'
 category: webclip
 summary: 'The article argues that product managers need continuous learning and recommends 13 books that cover product thinking, data, design, user psychology, leadership, goals, and decision-making.'
 tags: ["product-management", "books", "product-development", "leadership"]

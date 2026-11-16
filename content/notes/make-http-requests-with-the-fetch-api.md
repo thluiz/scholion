@@ -1,6 +1,6 @@
 ---
 title: "Make HTTP Requests with the Fetch API"
-date: '2026-11-16T01:46:51+00:00'
+date: '2020-04-20T21:22:36+00:00'
 category: webclip
 summary: 'The article explains how fetch makes client-side HTTP requests easier than XMLHttpRequest, how to send GET, POST, and file-upload requests, and how to read response data and status information.'
 tags: ["fetch-api", "http-requests", "response-object", "client-side"]

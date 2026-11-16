@@ -1,6 +1,6 @@
 ---
 title: "Weekly Spread in the Erin Condren Petite Dot Journal (Calligraphy Stencil and Foil Stickers)"
-date: '2026-11-16T04:22:15+00:00'
+date: '2020-04-20T21:22:25+00:00'
 category: webclip
 summary: 'The post shows a weekly spread made in a small Erin Condren dot journal, using calligraphy stencils, foil stickers, highlighters, and washi tape. It also weighs the stencil, paper, and sticker quality.'
 tags: ["weekly-spread", "erin-condren", "calligraphy-stencil", "planner-stickers"]

@@ -1,6 +1,6 @@
 ---
 title: "Concurrency In The Erlang VM"
-date: '2026-11-16T01:26:09+00:00'
+date: '2020-07-05T14:10:31+00:00'
 category: webclip
 summary: 'The page explains why Erlang is built for concurrency, using lightweight actor-like processes, message passing, and the BEAM scheduler to support fault-tolerant, distributed systems.'
 tags: ["erlang", "concurrency", "beam", "actor-model"]

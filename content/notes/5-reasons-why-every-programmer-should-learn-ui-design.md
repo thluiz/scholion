@@ -1,6 +1,6 @@
 ---
 title: "5 reasons why every programmer should learn UI design"
-date: '2026-11-16T07:50:14+00:00'
+date: '2020-07-05T14:10:34+00:00'
 category: webclip
 summary: 'The page argues that basic UI design helps programmers avoid poor interfaces, build confidence, stay organized, and create applications users will actually use, even without becoming professional designers.'
 tags: ["ui-design", "programming", "user-interface", "usability"]

@@ -1,6 +1,6 @@
 ---
 title: "Adding custom metrics to a Phoenix 1.5 live dashboard"
-date: '2026-11-16T05:59:01+00:00'
+date: '2020-07-05T14:11:24+00:00'
 category: webclip
 summary: 'The post shows how to emit a custom telemetry counter from a Phoenix controller, register it in the Telemetry metrics list, add a GenServer that sends periodic work events, and display the new graphs on the live dashboard.'
 tags: ["elixir", "phoenix-framework", "telemetry", "live-dashboard"]

@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Build"
-date: '2026-11-16T05:31:48+00:00'
+date: '2020-07-05T14:10:42+00:00'
 category: webclip
 summary: 'Microsoft Build points attendees to code samples, community events, hackathons, Discord, certifications, and Reactor resources so they can keep learning and building after the event.'
 tags: ["developer-learning", "community-events", "ai"]

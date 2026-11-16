@@ -1,6 +1,6 @@
 ---
 title: "Por Que Devs Deveriam Escrever Artigos"
-date: '2026-11-16T06:10:59+00:00'
+date: '2020-07-05T14:10:41+00:00'
 category: webclip
 summary: 'O texto defende que devs escrevam artigos para consolidar o aprendizado, ganhar visibilidade, melhorar a comunicação e registrar conhecimento, e também aponta obstáculos e orientações práticas.'
 tags: ["escrita-tecnica", "carreira", "aprendizado", "comunicacao"]

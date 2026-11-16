@@ -1,6 +1,6 @@
 ---
 title: "A Few Things I Do Every Time I Start A New Gatsby Site"
-date: '2026-11-16T00:47:00+00:00'
+date: '2020-02-22T12:11:45+00:00'
 category: webclip
 summary: 'The author says he updates starter dependencies, prefers Yarn, adds a lang attribute for accessibility, and installs plugins for CSP and offline caching when starting a Gatsby site.'
 tags: ["gatsby", "yarn", "accessibility", "plugins"]

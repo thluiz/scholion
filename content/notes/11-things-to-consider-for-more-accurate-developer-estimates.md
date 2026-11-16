@@ -1,6 +1,6 @@
 ---
 title: "11 Things to Consider for More Accurate Developer Estimates"
-date: '2026-11-16T00:56:43+00:00'
+date: '2020-02-22T12:12:01+00:00'
 category: webclip
 summary: 'The article lists the factors that shape a developer estimate: scope, unfamiliar systems, impact on existing features, communication, testing, bugs, documentation, stabilization, and support handoff.'
 tags: ["developer-estimates", "software-testing", "project-estimation"]

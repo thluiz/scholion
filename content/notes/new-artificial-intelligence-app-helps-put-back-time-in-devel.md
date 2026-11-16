@@ -1,6 +1,6 @@
 ---
 title: "New artificial intelligence app helps put back time in developers’ days"
-date: '2026-11-16T03:23:35+00:00'
+date: '2016-06-09T13:08:49+00:00'
 category: webclip
 summary: 'Trevor AI is a free virtual assistant that uses artificial intelligence to help developers plan time, sync calendars and reminders, and suggest schedules from natural language and integrations.'
 tags: ["artificial-intelligence", "developer-tools", "time-management", "calendar-scheduling"]

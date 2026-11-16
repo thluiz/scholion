@@ -1,6 +1,6 @@
 ---
 title: "10 Things… About Edges"
-date: '2026-11-16T05:26:02+00:00'
+date: '2020-07-05T14:10:31+00:00'
 category: webclip
 summary: 'A reader praises the advice and points to Walter Tandy Murch as an example of how edges can expand the romantic and poetic range of ordinary subjects, including industrial detritus.'
 tags: ["edges", "walter-tandy-murch", "painting"]

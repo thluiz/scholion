@@ -1,6 +1,6 @@
 ---
 title: "How to Boost Your Developer Career with a Personal Brand"
-date: '2026-11-16T01:43:23+00:00'
+date: '2020-07-05T14:11:27+00:00'
 category: webclip
 summary: 'The article argues that a personal brand can strengthen a developer’s career by shaping reputation, improving opportunities, and supporting three paths: a personal website, content creation, and communities.'
 tags: ["personal-branding", "developer-career", "online-presence", "communities"]

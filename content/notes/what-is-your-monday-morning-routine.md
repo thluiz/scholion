@@ -1,6 +1,6 @@
 ---
 title: "What is your Monday morning routine?"
-date: '2026-11-16T01:44:39+00:00'
+date: '2020-04-20T21:22:31+00:00'
 category: webclip
 summary: 'A DEV discussion where people describe how they start Mondays, from early workouts and coffee to task planning, standups, email, and weekly review routines.'
 tags: ["monday-routine", "productivity", "dev-discussion"]

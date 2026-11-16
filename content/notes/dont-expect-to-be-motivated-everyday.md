@@ -1,6 +1,6 @@
 ---
 title: "Don't expect to be motivated everyday."
-date: '2026-11-16T04:48:15+00:00'
+date: '2023-11-28T09:14:05+00:00'
 category: webclip
 summary: 'The post says motivation can start work, but it fades. Discipline and consistency are what keep progress going through routine, setbacks, and long-term goals.'
 tags: ["motivation", "discipline", "consistency", "productivity"]

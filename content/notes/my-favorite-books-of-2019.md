@@ -1,6 +1,6 @@
 ---
 title: "My favorite books of 2019"
-date: '2026-11-16T00:49:32+00:00'
+date: '2020-02-22T12:11:53+00:00'
 category: webclip
 summary: 'The author lists favorite 2019 reads across fantasy, science fiction, nonfiction, audiobooks, programming, and parenting, and briefly says why each stood out.'
 tags: ["books", "reading", "fantasy", "nonfiction"]

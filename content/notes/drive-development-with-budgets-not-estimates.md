@@ -1,6 +1,6 @@
 ---
 title: "Drive development with budgets not estimates"
-date: '2026-11-16T04:16:49+00:00'
+date: '2020-07-05T14:11:27+00:00'
 category: webclip
 summary: 'The post argues that software planning should start from what a feature is worth, not from time estimates, because budgets force tradeoffs, expose assumptions, and help teams ship more within constraints.'
 tags: ["software-development", "estimation", "budgets", "scope"]

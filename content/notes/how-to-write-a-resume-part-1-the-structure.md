@@ -1,6 +1,6 @@
 ---
 title: "How To Write A Resume: Part 1 - The Structure"
-date: '2026-11-16T01:16:10+00:00'
+date: '2020-07-05T14:11:24+00:00'
 category: webclip
 summary: 'The article lays out three resume structures, then separates required and optional sections. It advises keeping the content relevant, concise, and ordered so recruiters can scan it quickly.'
 tags: ["resume-structure", "job-search", "career-development"]

@@ -1,6 +1,6 @@
 ---
 title: "Freedom and Battleship"
-date: '2026-11-16T03:02:27+00:00'
+date: '2020-04-20T21:22:37+00:00'
 category: webclip
 summary: 'A comic by Existential Comics featuring Jean-Paul Sartre and Simone de Beauvoir. The punchline links hypocrisy to authenticity by framing a claim about who should be allowed to be a hypocrite.'
 tags: ["existential-comics", "sartre", "de-beauvoir"]

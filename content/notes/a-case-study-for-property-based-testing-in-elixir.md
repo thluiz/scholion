@@ -1,6 +1,6 @@
 ---
 title: "A case study for property based testing in Elixir"
-date: '2026-11-16T02:02:51+00:00'
+date: '2020-08-26T19:31:20+00:00'
 category: webclip
 summary: 'The author explains property based testing through a simple addition example, then applies it to a poll percentage function where rounding can break the total, and shows how a preconditioned assertion catches the bug.'
 tags: ["property-based-testing", "elixir", "stream-data", "testing"]

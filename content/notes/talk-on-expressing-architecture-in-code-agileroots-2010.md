@@ -1,6 +1,6 @@
 ---
 title: "Talk on expressing architecture in code: AgileRoots 2010"
-date: '2026-11-16T03:40:35+00:00'
+date: '2020-07-05T14:10:33+00:00'
 category: webclip
 summary: 'George Fairbanks says writing code that expresses design intent is hard but helpful, and this talk proposes architecturally evident coding patterns to make design and architecture easier to infer from code.'
 tags: ["architecture-in-code", "design-intent", "agile-development"]

@@ -1,6 +1,6 @@
 ---
 title: "How Do I Think About Async Code?!"
-date: '2026-11-16T03:44:50+00:00'
+date: '2020-07-05T14:10:35+00:00'
 category: webclip
 summary: 'The post explains async programming as a way to keep work moving without blocking a thread, shows it with a cake example, and points to Task, async, and await in C#.'
 tags: ["async-programming", "csharp", "dotnet", "responsive-applications"]

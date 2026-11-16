@@ -1,6 +1,6 @@
 ---
 title: "How we stopped making excuses and started improving Basecamp’s accessibility"
-date: '2026-11-16T03:19:06+00:00'
+date: '2020-07-05T14:11:28+00:00'
 category: webclip
 summary: 'Basecamp made web accessibility a priority in 2017 by folding it into QA, learning WCAG, and treating accessibility issues as bugs. The work gained traction through ongoing testing and team buy-in.'
 tags: ["web-accessibility", "basecamp", "qa-process", "wcag"]

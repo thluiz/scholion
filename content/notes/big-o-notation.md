@@ -1,6 +1,6 @@
 ---
 title: "Big O Notation"
-date: '2026-11-16T00:59:38+00:00'
+date: '2020-08-26T19:31:13+00:00'
 category: webclip
 summary: 'The post defines Big O Notation as a way to classify algorithms by runtime and space use, then compares constant and linear examples and introduces logarithmic growth.'
 tags: ["big-o-notation", "time-complexity", "space-complexity", "logarithms"]

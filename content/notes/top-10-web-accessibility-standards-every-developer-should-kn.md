@@ -1,6 +1,6 @@
 ---
 title: "Top 10 Web Accessibility Standards Every Developer Should Know"
-date: '2026-11-16T01:33:19+00:00'
+date: '2020-07-05T14:10:38+00:00'
 category: webclip
 summary: 'The article picks ten accessibility practices from Ashley Firth’s book and ties them to practical changes for developers, covering semantics, text alternatives, contrast, keyboard access, and captions.'
 tags: ["web-accessibility", "accessibility-standards", "frontend-development"]

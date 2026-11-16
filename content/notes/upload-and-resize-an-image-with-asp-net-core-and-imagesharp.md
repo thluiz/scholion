@@ -1,6 +1,6 @@
 ---
 title: "Upload and resize an image with ASP.NET Core and ImageSharp"
-date: '2026-11-16T04:28:20+00:00'
+date: '2020-04-20T21:22:38+00:00'
 category: webclip
 summary: 'Explains how to replace ASP.NET MVC''s WebImage in ASP.NET Core by accepting an uploaded file with IFormFile, loading it with ImageSharp, resizing it, and saving the result.'
 tags: ["asp-net-core", "imagesharp", "file-upload", "image-resizing"]

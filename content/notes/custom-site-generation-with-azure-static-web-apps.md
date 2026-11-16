@@ -1,6 +1,6 @@
 ---
 title: "Custom Site Generation with Azure Static Web Apps"
-date: '2026-11-16T03:49:36+00:00'
+date: '2020-07-05T14:10:38+00:00'
 category: webclip
 summary: 'The post shows how Azure Static Web Apps can host a static site built by a custom generator, using GitHub Actions edits, Oryx behavior, and an F# script that turns CSV data into HTML.'
 tags: ["azure-static-web-apps", "github-actions", "static-site-generator", "f-sharp"]

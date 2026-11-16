@@ -1,6 +1,6 @@
 ---
 title: "Analyzing the Attacks on my Website"
-date: '2026-11-16T07:47:42+00:00'
+date: '2020-02-22T12:11:42+00:00'
 category: webclip
 summary: 'The author audits a CentOS server log, extracts failed login IPs, blocks them with iptables, and uses MaxMind plus Go to map attack sources by continent, country, city, and subdivision.'
 tags: ["linux", "security-logs", "iptables", "geolocation"]

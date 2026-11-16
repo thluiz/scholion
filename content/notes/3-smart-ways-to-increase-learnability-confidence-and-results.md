@@ -1,6 +1,6 @@
 ---
 title: "3 Smart Ways To Increase Learnability, Confidence, and Results"
-date: '2026-11-16T01:18:19+00:00'
+date: '2020-07-05T14:11:25+00:00'
 category: webclip
 summary: 'The article says sleep, body language, exercise, and food shape learning, confidence, mood, and performance, and gives specific habits to improve brain function and productivity.'
 tags: ["sleep", "body-language", "nutrition", "productivity"]

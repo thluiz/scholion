@@ -1,6 +1,6 @@
 ---
 title: "10 Questions I'm Asking All Companies Before Scheduling Any Interviews"
-date: '2026-11-16T02:01:10+00:00'
+date: '2020-08-26T19:31:15+00:00'
 category: webclip
 summary: 'The author says interviewing takes time and energy, so she screens companies with ten questions about team structure, one-on-ones, career coaching, performance reviews, development process, estimation, and retrospectives.'
 tags: ["interviewing", "engineering-teams", "career-growth"]

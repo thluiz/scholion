@@ -1,6 +1,6 @@
 ---
 title: "How to Add Browser Notifications to Your React App"
-date: '2026-11-16T07:56:18+00:00'
+date: '2020-02-22T12:11:43+00:00'
 category: webclip
 summary: 'Explains how to use the HTML5 Notification API and react-web-notification in a React password manager, including permission handling and notifications for add, edit, copy, and delete actions.'
 tags: ["react", "browser-notifications", "notification-api", "password-manager"]

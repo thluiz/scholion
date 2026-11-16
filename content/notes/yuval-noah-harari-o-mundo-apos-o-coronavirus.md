@@ -1,6 +1,6 @@
 ---
 title: "Yuval Noah Harari: “O mundo após o coronavírus”"
-date: '2026-11-16T03:31:45+00:00'
+date: '2020-04-20T21:22:26+00:00'
 category: webclip
 summary: 'Harari diz que a crise do coronavírus vai moldar o futuro e contrapõe vigilância totalitária e empoderamento cidadão, além de isolamento nacionalista e solidariedade global.'
 tags: ["coronavirus", "vigilancia", "solidariedade-global"]

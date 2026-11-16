@@ -1,6 +1,6 @@
 ---
 title: "O mundo precisa de você no seu melhor"
-date: '2026-11-16T04:57:46+00:00'
+date: '2018-04-22T19:05:32+00:00'
 category: webclip
 summary: 'O texto defende que ajudar os outros exige autocompaixão e cuidado próprio, porque a ajuda é mais eficaz quando a pessoa está física e mentalmente bem e em equilíbrio com a comunidade.'
 tags: ["autocuidado", "altruismo", "bem-estar", "culpa"]

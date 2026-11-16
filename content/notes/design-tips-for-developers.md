@@ -1,6 +1,6 @@
 ---
 title: "Design Tips for Developers"
-date: '2026-11-16T01:51:02+00:00'
+date: '2020-04-20T21:22:38+00:00'
 category: webclip
 summary: 'The post argues that simple, consistent design helps developer products feel usable. It recommends building taste through examples, keeping logos, colors, fonts, icons, and layouts minimal, and using tools like Figma and utility-first CSS.'
 tags: ["design", "developer-products", "ui", "figma"]

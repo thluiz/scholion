@@ -1,6 +1,6 @@
 ---
 title: "Writing technical articles: tips for programmers"
-date: '2026-11-16T00:46:28+00:00'
+date: '2020-02-22T12:11:44+00:00'
 category: webclip
 summary: 'The article explains why programmers should write, what to write about, how to research and name a piece, and how to structure, tag, and polish a technical article.'
 tags: ["technical-writing", "programming", "blogging", "content-strategy"]

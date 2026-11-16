@@ -1,6 +1,6 @@
 ---
 title: "O assustadoramente crível “Princípio da Incompetência de Peter”"
-date: '2026-11-16T02:49:36+00:00'
+date: '2020-02-22T12:12:00+00:00'
 category: webclip
 summary: 'O texto apresenta o Princípio de Peter como a ideia de que, em hierarquias, pessoas são promovidas até atingirem seu nível de incompetência e depois tendem a ficar estagnadas.'
 tags: ["principio-de-peter", "hierarquia", "corporacao"]

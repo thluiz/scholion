@@ -1,6 +1,6 @@
 ---
 title: "How To Make Your PWA Offline On Demand"
-date: '2026-11-16T07:50:59+00:00'
+date: '2020-07-05T14:10:45+00:00'
 category: webclip
 summary: 'The article describes an on-demand offline approach for a PWA: lazy-load all content, save it in IndexedDB, cache app assets with a service worker, and switch services between online and offline modes.'
 tags: ["pwa", "offline-mode", "indexeddb", "service-worker"]

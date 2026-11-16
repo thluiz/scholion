@@ -1,6 +1,6 @@
 ---
 title: "Learning Guide for Remote Work"
-date: '2026-11-16T08:16:10+00:00'
+date: '2020-04-20T21:22:37+00:00'
 category: webclip
 summary: 'The page only shows the author bio for Matt Eland. It says he left professional software engineering to teach full time, works with several programming languages, and writes about software engineering at KillAllDefects.com.'
 tags: ["matt-eland", "software-engineering", "author-bio"]

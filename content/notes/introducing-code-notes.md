@@ -1,6 +1,6 @@
 ---
 title: "Introducing Code Notes"
-date: '2026-11-16T03:41:27+00:00'
+date: '2020-07-05T14:10:33+00:00'
 category: webclip
 summary: 'The author explains why he built Code Notes, a Gatsby theme for searchable, shareable code notes with MDX support, Git versioning, and a simple responsive design.'
 tags: ["gatsby", "code-notes", "markdown", "flexsearch"]

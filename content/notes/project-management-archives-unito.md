@@ -1,6 +1,6 @@
 ---
 title: "Project Management Archives - Unito"
-date: '2026-11-16T04:17:22+00:00'
+date: '2020-07-05T14:11:28+00:00'
 category: webclip
 summary: 'Archive page listing Unito posts on project management tools, integrations, automation, migration, and incident management, with emphasis on keeping work and reporting current across systems.'
 tags: ["project-management", "tool-integration", "automation"]

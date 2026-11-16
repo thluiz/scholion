@@ -1,6 +1,6 @@
 ---
 title: "The Commitment Inventory: Get More Done By Saying \"No\""
-date: '2026-11-16T03:29:23+00:00'
+date: '2020-04-20T21:22:23+00:00'
 category: webclip
 summary: 'The article argues that productivity improves when you limit commitments, assign each area a fixed share of attention, and organize work into category-based projects, checklists, and timed bursts.'
 tags: ["productivity", "prioritization", "attention-management", "todoist"]

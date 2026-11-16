@@ -1,6 +1,6 @@
 ---
 title: "Correios CEP 0.6.0 released! Remove zipcode field and update HTTPoison."
-date: '2026-11-16T03:41:51+00:00'
+date: '2020-07-05T14:10:33+00:00'
 category: webclip
 summary: 'Correios CEP lets you find Brazilian addresses by postal code through the Correios API. Version 0.6.0 removes `Address.zipcode`, switches to `postal_code`, updates HTTPoison, and drops OTP 20 support.'
 tags: ["elixir", "correios-cep", "httpoison", "otp"]

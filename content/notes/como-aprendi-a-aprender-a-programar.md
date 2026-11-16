@@ -1,6 +1,6 @@
 ---
 title: "Como aprendi a aprender a programar"
-date: '2026-11-16T04:06:03+00:00'
+date: '2020-07-05T14:11:16+00:00'
 category: webclip
 summary: 'O texto defende que aprender programação começa pela lógica, pelo pensamento computacional e por metas claras. Também recomenda prática, organização, inglês e escolhas de estudo alinhadas ao próprio ritmo.'
 tags: ["programacao", "estudo", "pensamento-computacional", "ingles"]

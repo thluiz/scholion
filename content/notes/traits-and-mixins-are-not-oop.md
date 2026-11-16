@@ -1,6 +1,6 @@
 ---
 title: "Traits and Mixins Are Not OOP"
-date: '2026-11-16T02:43:14+00:00'
+date: '2020-02-22T12:11:52+00:00'
 category: webclip
 summary: 'The article argues that traits and mixins inject code into classes, expose private structure, and weaken encapsulation, making objects harder to understand and maintain than composable decorators.'
 tags: ["traits", "mixins", "encapsulation", "decorators"]

@@ -1,6 +1,6 @@
 ---
 title: "Have you built your GitHub Profile README yet?"
-date: '2026-11-16T01:54:04+00:00'
+date: '2020-08-26T19:31:10+00:00'
 category: webclip
 summary: 'GitHub now lets users create a profile-level README by making a public repository with the same name as their account, initializing it with a README, and adding content, images, gifs, and social badges.'
 tags: ["github", "readme", "profile"]

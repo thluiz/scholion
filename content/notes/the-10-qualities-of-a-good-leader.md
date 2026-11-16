@@ -1,6 +1,6 @@
 ---
 title: "The 10 qualities of a good leader"
-date: '2026-11-16T05:21:10+00:00'
+date: '2020-07-05T14:11:20+00:00'
 category: webclip
 summary: 'Claire Lew argues that managers do not exist to control people, but to create clarity, context, safety, responsiveness, consistency, and trust so teams can do their best work.'
 tags: ["leadership", "management", "teamwork", "psychological-safety"]

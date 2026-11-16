@@ -1,6 +1,6 @@
 ---
 title: "Step-by-Step Tutorial to Build a Phoenix App that Supports User Upload · Poeticoding"
-date: '2026-11-16T04:15:55+00:00'
+date: '2020-07-05T14:11:27+00:00'
 category: webclip
 summary: 'The article builds a Phoenix app from scratch with local file uploads, Postgres and Ecto, a Documents context, a controller for upload, list, and download actions, and a higher multipart limit.'
 tags: ["phoenix", "file-uploads", "ecto", "postgres"]

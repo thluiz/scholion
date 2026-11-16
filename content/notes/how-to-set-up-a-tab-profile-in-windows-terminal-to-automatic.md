@@ -1,6 +1,6 @@
 ---
 title: "How to set up a tab profile in Windows Terminal to automatically SSH into a Linux box"
-date: '2026-11-16T04:26:50+00:00'
+date: '2020-04-20T21:22:36+00:00'
 category: webclip
 summary: 'Shows how to add a Windows Terminal profile that runs ssh, how to install OpenSSH on Windows, and how to use an ssh key and authorized_keys so a tab can log into a Linux machine automatically.'
 tags: ["windows-terminal", "ssh", "openssh", "linux"]

@@ -1,6 +1,6 @@
 ---
 title: "20+ Awesome websites built with React.js"
-date: '2026-11-16T01:19:55+00:00'
+date: '2020-07-05T14:11:25+00:00'
 category: webclip
 summary: 'The post says React powers many popular products and lists more than 20 websites built with it, using SaaS Landing Page and Wappalyzer to gather examples and identify their tech stacks.'
 tags: ["react", "websites", "frontend", "saas"]

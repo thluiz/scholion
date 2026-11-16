@@ -1,6 +1,6 @@
 ---
 title: "Null References: The Billion Dollar Mistake"
-date: '2026-11-16T02:13:31+00:00'
+date: '2020-04-20T21:22:43+00:00'
 category: webclip
 summary: 'Tony Hoare explains why null references were introduced for convenience in ALGOL W, why they require constant checking, and why their cost and risk make them a long-standing design mistake.'
 tags: ["null-references", "programming-languages", "type-checking", "software-safety"]

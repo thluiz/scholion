@@ -1,6 +1,6 @@
 ---
 title: "Techniques of Syd Mead (1933-2019)"
-date: '2026-11-16T08:02:04+00:00'
+date: '2020-02-22T12:11:51+00:00'
 category: webclip
 summary: 'The page notes Syd Mead’s death and points to a video where he shows his picturemaking process, including pen, tracing paper, French curves, gouache, and airbrush, plus his advice on early sketches and value contrast.'
 tags: ["syd-mead", "concept-art", "gouache", "airbrush"]

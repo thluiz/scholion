@@ -1,6 +1,6 @@
 ---
 title: "Take control of unexpected data at runtime with TypeScript"
-date: '2026-11-16T02:48:48+00:00'
+date: '2020-02-22T12:11:59+00:00'
 category: webclip
 summary: 'The article shows how TypeScript type definitions can be paired with runtime validators to catch bad config and API data, then contrasts exception-based handling with Result and Either workflows.'
 tags: ["typescript", "runtime-validation", "runtypes", "io-ts"]

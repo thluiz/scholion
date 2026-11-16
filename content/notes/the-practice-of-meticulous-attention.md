@@ -1,6 +1,6 @@
 ---
 title: "The Practice of Meticulous Attention"
-date: '2026-11-16T03:30:04+00:00'
+date: '2020-04-20T21:22:25+00:00'
 category: webclip
 summary: 'The text argues that fractured attention weakens work, relationships, reading, exercise, and daily life, and it invites a practice of deliberate, undivided attention to each moment.'
 tags: ["attention", "mindfulness", "focus", "devotion"]

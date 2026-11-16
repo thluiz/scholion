@@ -1,6 +1,6 @@
 ---
 title: "Productivity: Are you a fox or a hedgehog?"
-date: '2026-11-16T01:04:19+00:00'
+date: '2020-08-26T19:31:14+00:00'
 category: webclip
 summary: 'The article contrasts foxes, who pursue many ends and scattered strategies, with hedgehogs, who organize everything around one central idea. It urges focus, goal marking, and avoiding distraction.'
 tags: ["productivity", "focus", "goal-setting"]

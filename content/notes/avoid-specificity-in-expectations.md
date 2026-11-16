@@ -1,6 +1,6 @@
 ---
 title: "Avoid Specificity in Expectations"
-date: '2026-11-16T02:23:15+00:00'
+date: '2020-02-22T12:11:43+00:00'
 category: webclip
 summary: 'The post argues that feelings come from the gap between expectations and reality, so overly specific expectations about the future create disappointment and hide open possibilities.'
 tags: ["expectations", "future", "career"]

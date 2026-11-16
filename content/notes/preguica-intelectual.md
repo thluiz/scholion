@@ -1,6 +1,6 @@
 ---
 title: "Preguiça intelectual"
-date: '2026-11-16T02:24:33+00:00'
+date: '2020-02-22T12:11:43+00:00'
 category: webclip
 summary: 'O texto diz que aceitar ou rejeitar ideias sem confirmar o que entendemos é sinal de preguiça intelectual. Crescer exige admitir a própria ignorância, aceitar que podemos errar e perguntar pelas evidências.'
 tags: ["preguica-intelectual", "ignorancia", "curiosidade", "evidencias"]

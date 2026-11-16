@@ -1,6 +1,6 @@
 ---
 title: "Understanding how to port your ASP.NET web apps to ASP.NET Core"
-date: '2026-11-16T02:29:25+00:00'
+date: '2020-02-22T12:11:49+00:00'
 category: webclip
 summary: 'The post explains when moving to ASP.NET Core makes sense and reviews three migration areas: EF6 to EF Core, .NET to .NET Core, and ASP.NET to ASP.NET Core, with several compatibility changes to check first.'
 tags: ["asp-net-core", "migration", "entity-framework", "dotnet"]

@@ -1,6 +1,6 @@
 ---
 title: "Linux: How it Saved My Old Laptop"
-date: '2026-11-16T02:39:05+00:00'
+date: '2020-02-22T12:11:52+00:00'
 category: webclip
 summary: 'The author explains how Windows became slow and intrusive for his workflow, then shows how Ubuntu and later EndeavourOS made an old laptop usable again with faster installs and lighter performance.'
 tags: ["linux", "windows", "ubuntu", "endeavouros"]

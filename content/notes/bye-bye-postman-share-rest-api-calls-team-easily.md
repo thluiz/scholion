@@ -1,6 +1,6 @@
 ---
 title: "Bye bye Postman! Let's share your REST API calls in team, easily!"
-date: '2026-11-16T00:43:58+00:00'
+date: '2020-02-22T12:11:43+00:00'
 category: webclip
 summary: 'The post presents REST Client for VS Code as a simple way to version, share, and reuse REST API calls in a single .http file, with environment variables for different setups.'
 tags: ["rest-client", "vs-code", "rest-api", "api-testing"]

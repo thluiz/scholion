@@ -1,6 +1,6 @@
 ---
 title: "What is the most potentially-revolutionary software currently being developed?"
-date: '2026-11-16T01:28:44+00:00'
+date: '2020-07-05T14:10:33+00:00'
 category: webclip
 summary: 'The prompt asks which software has the highest ceiling for impact, and the replies name Kubernetes, cloud native tooling, Hasura, SAFE Network, WASM/WASI, Rust, and other projects as candidates.'
 tags: ["software", "kubernetes", "cloud-native", "wasm-wasi"]

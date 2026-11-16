@@ -1,6 +1,6 @@
 ---
 title: "Talvez síndrome do impostor não seja coisa da sua cabeça"
-date: '2026-11-16T06:04:49+00:00'
+date: '2020-07-05T14:10:31+00:00'
 category: webclip
 summary: 'O texto argumenta que a síndrome do impostor não nasce só de insegurança individual, mas também de gestão pelo medo, pressão social e estereótipos que enfraquecem a percepção do próprio valor.'
 tags: ["sindrome-do-impostor", "gestao-pelo-medo", "saude-mental", "desigualdade"]

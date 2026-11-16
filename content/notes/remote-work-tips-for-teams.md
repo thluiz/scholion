@@ -1,6 +1,6 @@
 ---
 title: "Remote Work Tips for Teams"
-date: '2026-11-16T01:50:01+00:00'
+date: '2020-04-20T21:22:37+00:00'
 category: webclip
 summary: 'The post argues that remote teams need shared tools, integrations, video-first communication, regular status updates, and intentional informal contact to keep collaboration, visibility, and morale up.'
 tags: ["remote-work", "team-communication", "slack", "video-conferencing"]

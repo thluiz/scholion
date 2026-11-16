@@ -1,6 +1,6 @@
 ---
 title: "LINQ GroupBy in Depth"
-date: '2026-11-16T08:00:46+00:00'
+date: '2020-02-22T12:11:49+00:00'
 category: webclip
 summary: 'The page explains how LINQ GroupBy groups collections by a key, how element and result selectors change the output, and how an equality comparer affects grouping and key choice.'
 tags: ["linq", "groupby", "csharp", "dotnet"]

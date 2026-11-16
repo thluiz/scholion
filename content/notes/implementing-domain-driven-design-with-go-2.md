@@ -1,6 +1,6 @@
 ---
 title: "Implementing Domain-Driven Design with Go (2)"
-date: '2026-11-16T05:56:06+00:00'
+date: '2020-07-05T14:11:20+00:00'
 category: webclip
 summary: 'The article says it will explain how the author implements tactical DDD patterns in the domain layer with Go, while noting that the choices are specific to the playground project and may differ from idiomatic Go.'
 tags: ["domain-driven-design", "golang", "domain-layer"]

@@ -1,6 +1,6 @@
 ---
 title: "Toptal's Suddenly Remote Playbook | 6 Keys to Success for Virtual Teams"
-date: '2026-11-16T05:54:57+00:00'
+date: '2020-07-05T14:11:19+00:00'
 category: webclip
 summary: 'The playbook argues that remote work succeeds when companies build their People practices around culture, trust, transparency, and clear accountability, using digital tools to recruit, onboard, train, and manage performance.'
 tags: ["remote-work", "distributed-teams", "people-ops", "toptal"]

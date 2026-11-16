@@ -1,6 +1,6 @@
 ---
 title: "Is group chat making you sweat?"
-date: '2026-11-16T04:19:22+00:00'
+date: '2020-07-05T14:11:28+00:00'
 category: webclip
 summary: 'The post argues that group chat works best in limited situations, but as a default communication method it causes fatigue, anxiety, interruptions, shallow discussion, and poor context.'
 tags: ["group-chat", "communication", "asynchronous-work"]

@@ -1,6 +1,6 @@
 ---
 title: "18 segredos para criar a vida que você sempre quis"
-date: '2026-11-16T08:05:29+00:00'
+date: '2020-02-22T12:12:02+00:00'
 category: webclip
 summary: 'A lista defende que felicidade, prioridades, limites, gratidão e cuidado com corpo e relações dependem de escolhas diárias, foco no que importa e ação constante.'
 tags: ["felicidade", "prioridades", "relacionamentos", "produtividade"]

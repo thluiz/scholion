@@ -1,6 +1,6 @@
 ---
 title: "Deploy on Ubuntu with mix release and Github Actions (without Docker)"
-date: '2026-11-16T05:52:34+00:00'
+date: '2020-08-26T19:31:26+00:00'
 category: webclip
 summary: 'The article shows a simple deployment flow for an Elixir/Phoenix app on Ubuntu: a shell script pulls master, runs mix tasks, releases the app, runs migrations, and restarts it, triggered by GitHub Actions.'
 tags: ["elixir", "github-actions", "ubuntu", "deployment"]

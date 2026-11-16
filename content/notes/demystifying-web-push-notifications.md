@@ -1,6 +1,6 @@
 ---
 title: "Demystifying Web Push Notifications"
-date: '2026-11-16T04:48:59+00:00'
+date: '2023-12-12T18:51:31+00:00'
 category: webclip
 summary: 'The post breaks web push into subscription, delivery, and service worker handling, then shows how VAPID keys, backend storage, and client-side registration fit together.'
 tags: ["web-push", "service-worker", "vapid-keys", "push-notifications"]

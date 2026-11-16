@@ -1,6 +1,6 @@
 ---
 title: "Prepare your Angular web app to grow: keep it performant and consistent from the beginning"
-date: '2026-11-16T00:51:02+00:00'
+date: '2020-02-22T12:11:53+00:00'
 category: webclip
 summary: 'The article argues that Angular apps should be built with lazy loading, state management, OnPush change detection, container-presentational components, and schematics so they stay easier to expand and maintain.'
 tags: ["angular", "performance", "state-management", "schematics"]

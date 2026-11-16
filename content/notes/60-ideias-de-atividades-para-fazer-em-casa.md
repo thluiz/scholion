@@ -1,6 +1,6 @@
 ---
 title: "60 ideias de atividades para fazer em casa (só se você quiser)"
-date: '2026-11-16T08:09:06+00:00'
+date: '2020-04-20T21:22:25+00:00'
 category: webclip
 summary: 'A lista reúne ideias para preencher o tempo em casa durante a quarentena, alternando lazer, cuidado pessoal, organização doméstica e tarefas práticas, sempre como opções para quando o tédio aparecer.'
 tags: ["quarentena", "atividades-em-casa", "organizacao-domestica", "autocuidado"]

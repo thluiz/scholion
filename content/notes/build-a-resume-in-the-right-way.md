@@ -1,6 +1,6 @@
 ---
 title: "Build a resume in the right way"
-date: '2026-11-16T01:13:13+00:00'
+date: '2020-07-05T14:11:19+00:00'
 category: webclip
 summary: 'The post explains what a resume is, why it matters, and how its structure should change by country and industry. It lists common sections, what to skip, and other ways to present your profile.'
 tags: ["resume", "job-search", "career-development"]

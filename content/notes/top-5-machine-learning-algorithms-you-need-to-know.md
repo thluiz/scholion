@@ -1,6 +1,6 @@
 ---
 title: "Top 5 Machine Learning Algorithms You Need to Know"
-date: '2026-11-16T01:45:39+00:00'
+date: '2020-04-20T21:22:35+00:00'
 category: webclip
 summary: 'The post introduces supervised and unsupervised learning, then explains five common supervised algorithms: linear regression, logistic regression, Naive Bayes, KNN, and random forest.'
 tags: ["machine-learning", "supervised-learning", "classification", "regression"]

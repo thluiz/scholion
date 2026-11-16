@@ -1,6 +1,6 @@
 ---
 title: "Blogging Quick Tip - Choosing a Topic: Reflection"
-date: '2026-11-16T01:22:38+00:00'
+date: '2020-04-20T21:22:25+00:00'
 category: webclip
 summary: 'The post says reflection is one of the easiest ways to choose a writing topic. It suggests revisiting journal entries, then turning moods, challenges, and accomplishments into prompts for posts.'
 tags: ["blogging", "reflection", "writing-topics"]

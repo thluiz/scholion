@@ -1,6 +1,6 @@
 ---
 title: "My Screencasting Workflow"
-date: '2026-11-16T01:20:21+00:00'
+date: '2020-07-05T14:11:29+00:00'
 category: webclip
 summary: 'The author describes a screencasting process that starts with practicing the code, then recording only the screen, editing the video for size and focus, and adding narration afterward.'
 tags: ["screencasting", "screenflow", "video-editing"]

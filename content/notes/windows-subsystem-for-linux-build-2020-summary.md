@@ -1,6 +1,6 @@
 ---
 title: "The Windows Subsystem for Linux BUILD 2020 Summary"
-date: '2026-11-16T03:59:23+00:00'
+date: '2020-07-05T14:10:42+00:00'
 category: webclip
 summary: 'The post summarizes BUILD 2020 WSL announcements: WSL 2 support in the May 2020 Windows update, Docker Desktop on WSL 2, a one-command install, WSL 2 by default, GPU compute, and Linux GUI apps.'
 tags: ["windows-subsystem-for-linux", "wsl-2", "docker-desktop", "windows-10"]

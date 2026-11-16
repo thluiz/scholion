@@ -1,6 +1,6 @@
 ---
 title: "Practicing (And Nailing) My First Conference Talk"
-date: '2026-11-16T08:00:12+00:00'
+date: '2020-02-22T12:11:49+00:00'
 category: webclip
 summary: 'The author describes how repeated practice, room familiarization, contingency planning, and a lower-stakes lightning talk helped him deliver his first conference session with confidence.'
 tags: ["conference-talks", "public-speaking", "practice", "impostor-syndrome"]

@@ -1,6 +1,6 @@
 ---
 title: "Quantum computing for the very curious"
-date: '2026-11-16T03:39:33+00:00'
+date: '2020-07-05T14:10:32+00:00'
 category: webclip
 summary: 'The essay derives quantum computing from Turing and Deutsch, defines qubits as normalized complex vectors, then builds gates, measurement, CNOT, and the circuit model.'
 tags: ["quantum-computing", "qubits", "quantum-gates", "measurement"]

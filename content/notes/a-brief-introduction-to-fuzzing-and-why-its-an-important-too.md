@@ -1,6 +1,6 @@
 ---
 title: "A brief introduction to fuzzing and why it’s an important tool for developers"
-date: '2026-11-16T02:15:23+00:00'
+date: '2020-04-20T21:22:43+00:00'
 category: webclip
 summary: 'The page explains fuzzing as automatic test generation for finding security vulnerabilities, outlines blackbox, grammar-based, and whitebox techniques, and argues that developers handling untrusted inputs should use it.'
 tags: ["fuzzing", "software-security", "automated-testing", "whitebox-fuzzing"]
