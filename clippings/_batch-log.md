@@ -660,3 +660,9 @@ Call log:
 - SKIP https://compositional-it.com/news-blog/impure-functions-in-fsharp — failed — relocate_audit_unresolved — slug=impure-functions-in-f-compositional-it
 - SKIP https://medium.com/@leo_hetsch/building-a-ride-sharing-app-with-elixir-and-phoenix-channels-part-2-659aa2f24808 — failed — relocate_blocked_domain — slug=building-a-ride-sharing-app-with-elixir-and-phoenix-channels-2
 - SKIP https://medium.com/@leo_hetsch/building-a-ride-sharing-app-with-elixir-and-phoenix-channels-part-3-811a7999465f — failed — relocate_internal_error — slug=building-a-ride-sharing-app-with-elixir-and-phoenix-channels-2
+- SKIP https://techcommunity.microsoft.com/blog/modernworkappconsult/usuful-documents-to-migrate-wpfwinforms-apps-from-net-framework-to-net-core/1142017 — failed — chrome_capture_empty — via Claude in Chrome
+- SKIP https://compositional-it.com/news-blog/impure-functions-in-fsharp — failed — chrome_capture_empty — via Claude in Chrome
+- SKIP https://thluiz-integration.tumblr.com/post/31524412485/modelos-mentais-explicados-em-quadrinhos — failed — chrome_capture_empty — via Claude in Chrome
+- SKIP https://www.toptal.com/insights/innovation/creating-new-concepts-with-design-thinking — failed — blocked_domain —  { "error": { "code": "blocked_domain", "message": "www.toptal.com is known to block scraping; not attempting a fetch", "retryable": false } }
+- SKIP https://www.toptal.com/insights/innovation/how-to-build-a-successful-minimum-viable-product — failed — blocked_domain —  { "error": { "code": "blocked_domain", "message": "www.toptal.com is known to block scraping; not attempting a fetch", "retryable": false } }
+- SKIP https://www.sitepoint.com/the-software-developers-guide-to-salary-negotiation/ — failed — blocked_domain —  { "error": { "code": "blocked_domain", "message": "www.sitepoint.com is known to block scraping; not attempting a fetch", "retryable": false } }
