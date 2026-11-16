@@ -1,0 +1,26 @@
+---
+url: "https://dev.to/thecaitcode/being-a-junior-dev-in-the-time-of-covid-n0b"
+captured_at: "2026-11-16T01:43:39+00:00"
+title: "Being a Junior Dev in the Time of COVID"
+domain: "dev-to"
+---
+
+[![Cover image for Being a Junior Dev in the Time of COVID](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fn308jz6zm1h8nmyqajn6.jpeg)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fn308jz6zm1h8nmyqajn6.jpeg)
+
+[![Caitlyn Greffly](https://media2.dev.to/dynamic/image/width=50,height=50,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F183226%2Ffde33819-866f-4043-b9c5-7d9ef1198f34.png)](https://dev.to/thecaitcode)
+
+There is a lot going on in the world right now. I often find myself oscillating between being anxious about the wellbeing of myself and those I love, being grateful for my situation, and being nervous about my career growth and goals. It may seem like small beans to be thinking about career growth, but it's been hard for me to work through feelings of how that is inevitably shifting.
+
+It's an interesting time to be a junior dev. I'm only six months into my first tech job and I have been very bright-eyed and bushy-tailed when it came to my career path. I was gunning to go from Associate Software Engineer to Software Engineer in the next six months and regularly consulted my list of things I needed to accomplish to make that jump. Now, I find myself sitting in my boyfriend's music room turned into my office space trying to focus amidst a global pandemic. The first week of working from home I even switched my backend database ticket with a coworker for their friendly front-end API calls. I feel less likely to grab a complex backend issue because what would have felt difficult in the office now feels near impossible. That notion both makes me feel like I am not pushing myself hard enough, feels reasonable considering the circumstances, and makes me worry that I won't continue to learn at the same rate I have been. Compounding that, I also feel acutely aware that if layoffs were to hit our company, I'd likely be the first to go.
+
+I have definitely been feeling the lack of physically present coworkers. Slacking (instead of speaking) all my thoughts and questions made me realize how many thoughts and questions I had, and it was hard not to try and pull back from that a little. I also often found I didn't really have a question, I just wanted to talk through my issue with someone beyond my dog. I would stare at the slack channel trying to guess based on recent chatter who might be swamped and who might have some downtime, which is significantly harder than spinning around in your desk chair. Beyond having people there to help out, I realized (especially as an extrovert) how much energy I get from the people around me. My challenging tasks felt like they drained me more quickly.
+
+Up until this recent shift, I have been so full of energy and plans. Suddenly all of that seemed to hit a brick wall. I was so excited to attend my first real big tech conference and then that got moved online (still great for learning, but definitely not the same). I was looking at CFPs and starting to put applications in but many of those got pushed or canceled, and it feels harder to keep myself motivated to apply for events that may not happen. I had started a shadow program, but that was obviously put on hold for a while due to the current circumstances. I worry that this change of pace will kill my momentum, that when all of this lifts in a few months I won't be able to come back with the same energy and excitement that I had before.
+
+All of this might just sound like a lot of complaining. First world problems, am I right? And often I go back to a place of gratitude for still having a job, and for having the people I love in good health. But at the same time, I acutely feel the challenges of being a junior dev in the time of COVID, and I thought that if I feel it, others probably do as well.
+
+So what is a junior dev to do? I don't have a great answer for that yet. Some of my goals include being as talkative as ever in slack form, and if people want me to bugger off they can tell me to do so. I know I need to exercise more because that might give me back some of that usual energy I had. I need to be compassionate with myself, knowing that although my growth may in fact slow I am still growing. And I need to be honest with others about how I am feeling and where I am at, even when that's hard or scary. Hence this post.
+
+Until then, there are always fun Zoom backgrounds to keep me happy!
+
+[![Caitlyn in front of a cozy cabin zoom backdrop](https://res.cloudinary.com/practicaldev/image/fetch/s--FpghbHoz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/ffjoggp708bpgshov10s.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FpghbHoz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/ffjoggp708bpgshov10s.png)

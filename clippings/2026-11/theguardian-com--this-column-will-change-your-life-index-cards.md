@@ -1,0 +1,18 @@
+---
+url: "https://theguardian.com/lifeandstyle/2009/may/09/health-and-wellbeing"
+captured_at: "2026-11-16T02:45:04+00:00"
+title: "This column will change your life"
+domain: "theguardian-com"
+---
+
+A few sentences into this week's column, I'm going to reveal that I am obsessed with index cards, and you're probably going to mock me. That's OK; I can cope. But first let me just remind you of the company I'm in. Vladimir Nabokov wrote several novels on index cards. The celebrated nonfiction writer John McPhee has developed a whole system of research and writing around them, and Ludwig Wittgenstein reportedly used them to develop the Tractatus Logico-Philosophicus. Which means that index cards played a critical role in modern literature, journalism and philosophy. (And, incidentally, in the French Revolution, which some say was when they were invented: the new government used the backs of playing cards to record details of the books held in libraries seized from private ownership.) Impressive, no? All right. We can proceed.
+
+I am obsessed with index cards.
+
+A number of us, actually, suffer from this condition. For several years, the largely blog-based movement known as "lifehacking" has embraced the unassuming index card as an unrivalled tool for personal organisation - a dirt-cheap, portable medium for keeping lists, taking notes, brainstorming, memorising, organising your schedule, or leaving reminders for yourself. You might recall the "Hipster PDA" - a tongue-in-cheek proposed replacement for electronic organisers, consisting of a stack of cards, a bulldog clip ... and nothing else. (For more uses of index cards, see the blogger Dustin Wax's exhaustive summary at [tinyurl.com/cmov4s](https://theguardian.com/lifeandstyle/2009/may/09/tinyurl.com/cmov4s). And for photos of a truly alarming effort to organise one's entire life on tiny card rectangles, see [tinyurl.com/cfmttq](https://theguardian.com/lifeandstyle/2009/may/09/tinyurl.com/cfmttq).)
+
+To get theoretical for a moment, the cards fulfil two requirements of any good information storage system. First, it's easy to put stuff in: I'm far less likely to record a thought if I have to fiddle with a handheld device. Second, it's easy to manipulate stuff once it's in. You can't, by contrast, endlessly rearrange the pages of a notebook in order to prioritise tasks, structure a piece of writing, discard things you no longer need, etc.
+
+But might the power of index cards be greater still - mysterious, almost? I've wondered this ever since reading Robert Pirsig's novel Lila, in which the lead character is a philosopher who lives on a boat, writing his magnum opus on thousands of cards. As each thought occurs, he records it. Then, for hours, he rearranges the cards, grouping similar ideas together until a structure begins to emerge, seemingly independent of his will. This kind of "emergent order" is a hallmark of the web - think Wikipedia - but it's somehow spookier when it happens on paper, and involves only one human.
+
+The German sociologist Niklas Luhmann did something similar in reality, creating what he called his "secondary memory": an index-card system that held, eventually, a lifetime of research notes. He came to think of it not as an archive but as a collaborator: as in Lila, an order emerged from the bottom up, and when he followed cross-references through the system, he'd discover connections that took him by surprise. Since being able to surprise someone is a characteristic of true communication, Luhmann argued "that there was actually communication going on between himself and his partner", writes the blogger at takingnotenow.blogspot.com. Personally, I don't talk to my index cards. But maybe it's only a matter of time.
