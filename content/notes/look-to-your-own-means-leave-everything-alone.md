@@ -2,17 +2,15 @@
 title: "Look to your own means, leave everything that isn’t yours alone. Make use of what material advantages you have, don’t regret the ones you were not allowed."
 date: '2026-11-17T17:01:52+00:00'
 category: quote
-summary: 'Passagem atribuída a Epictetus no Encheiridion, aqui situada pela edição em inglês de 1890 publicada por G. Bell and Sons.'
-tags: ["epictetus", "encheiridion", "estoicismo"]
-has_commentary: false
 draft: true
+summary: 'Frase atribuída a Epicteto pela conta Daily Stoic num tweet de 25 de agosto de 2019, sem indicação de obra ou tradução.'
+tags: ["epictetus", "estoicismo", "daily-stoic"]
+has_commentary: false
 sources:
-  - title: "Encheiridion"
-    author: "Epictetus"
-    year: 1890
-    publisher: "G. Bell and Sons"
-    url: "https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0557.tlg002.opp-eng2"
-    kind: book
+  - title: "Tweet de @dailystoic, 25 ago. 2019"
+    author: "Daily Stoic"
+    url: "https://x.com/dailystoic/status/1165714288436232194"
+    kind: web
 ---
 
-Passagem de Epictetus no Encheiridion, na edição de 1890 publicada por G. Bell and Sons.
+Atribuída a Epicteto pela conta Daily Stoic, num tweet de 25 de agosto de 2019, sem indicação de obra, passagem ou tradução.
