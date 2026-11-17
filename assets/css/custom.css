@@ -2274,3 +2274,15 @@
 .dark .scholion-research-badge--place {
   color: #4ade80;
 }
+
+/* Busca (Pagefind): termos encontrados no trecho */
+.scholion-search-excerpt mark {
+  background: rgba(var(--color-primary-200), 0.8);
+  color: inherit;
+  font-style: normal;
+  border-radius: 2px;
+  padding: 0 1px;
+}
+.dark .scholion-search-excerpt mark {
+  background: rgba(var(--color-primary-800), 0.8);
+}
