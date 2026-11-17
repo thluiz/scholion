@@ -2,6 +2,7 @@
 title: "Not only does bad code slow you down NOW, it slows everyone who ever has to deal with it down, over, and over again. The cumulative slowing effects of bad code often become overwhelming."
 date: '2026-11-17T17:01:48+00:00'
 category: quote
+draft: true
 summary: 'Passagem atribuída a Robert C. Martin em Clean Code: A Handbook of Agile Software Craftsmanship, livro publicado em 2008 pela Prentice Hall.'
 tags: ["robert-c-martin", "clean-code", "programacao"]
 has_commentary: false
