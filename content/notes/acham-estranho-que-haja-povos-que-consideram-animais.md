@@ -9,8 +9,13 @@ sources:
   - title: "antropologia (@antropobrasil) no X: [Thread do Eduardo Viveiros de Castro]"
     url: "https://x.com/antropobrasil/status/1592673999963783174"
     kind: "web"
+  - title: "Divergência, Dissonância e Deserção"
+    url: "https://vox.thluiz.com/2026/11/W47/divergencia-dissonancia-e-desercao/"
+    kind: "podcast"
 ---
 
 Abertura de uma thread de Eduardo Viveiros de Castro no X, reproduzida em novembro de 2022 pelo perfil @antropobrasil.
+
+Gregório Duvivier citou a ideia no episódio [Divergência, Dissonância e Deserção](https://vox.thluiz.com/2026/11/W47/divergencia-dissonancia-e-desercao/) (16 de novembro de 2026), aos 00:22:00, para criticar a personificação do mercado.
 
 Sobre o mercado visto como entidade que processa e decide, ver [O neoliberalismo ama a IA porque enxerga o mercado como um grande computador](/notes/neoliberalismo-ia-mercado-como-computador).
