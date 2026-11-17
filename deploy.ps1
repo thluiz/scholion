@@ -116,6 +116,19 @@ if (-not $SkipBuild) {
         Remove-Item $buildFlag
         $null = Send-DeployAlert "Scholion: o build do Hugo voltou a passar, publicacao retomada."
     }
+
+    # Search index. Wiped first: Hugo never cleans public/, so chunks from earlier
+    # runs would pile up and go to S3 on the next full sync. A failure aborts the
+    # publish, otherwise a missing public/pagefind/ would read as "deleted" on the
+    # next full scan and take the search offline.
+    Write-Host "==> pagefind" -ForegroundColor Cyan
+    $pagefindDir = Join-Path $PUBLIC_DIR 'pagefind'
+    if (Test-Path $pagefindDir) { Remove-Item $pagefindDir -Recurse -Force }
+    npx --no-install pagefind --site $PUBLIC_DIR 2>&1 | ForEach-Object { Write-Host "  $_" }
+    if ($LASTEXITCODE -ne 0) {
+        $null = Send-DeployAlert "Scholion: o pagefind falhou na publicacao (exit $LASTEXITCODE), nada vai ao ar. Detalhes em E:\scholion\deploy-scheduled.log"
+        throw "Pagefind failed"
+    }
 }
 
 # Estado anterior
@@ -143,7 +156,7 @@ function Get-PathsToCheck {
     $paths = [System.Collections.Generic.HashSet[string]]::new([System.StringComparer]::OrdinalIgnoreCase)
 
     # Raízes globais: sempre verificar
-    @('index.html', 'index.json', 'index.xml', '404.html', 'sitemap.xml', 'robots.txt') | ForEach-Object {
+    @('index.html', 'index.xml', '404.html', 'sitemap.xml', 'robots.txt') | ForEach-Object {
         if (Test-Path (Join-Path $publicDir $_)) { $paths.Add($_) | Out-Null }
     }
 
@@ -342,7 +355,8 @@ foreach ($r in $results.GetEnumerator()) {
 # Assets estáticos — sempre re-verificar no modo incremental.
 # Desnecessário quando já se passou o hash por tudo.
 if (-not $hashedEverything) {
-    $assetDirs  = @('css', 'js', 'lib', 'img')
+    # pagefind/: any content change rewrites part of the search index.
+    $assetDirs  = @('css', 'js', 'lib', 'img', 'pagefind')
     $assetRoots = @('robots.txt', '404.html', 'index.html', 'sitemap.xml',
                     'favicon.png', 'favicon.ico', 'favicon-16x16.png', 'favicon-32x32.png',
                     'apple-touch-icon.png', 'android-chrome-192x192.png', 'android-chrome-512x512.png')
@@ -401,7 +415,10 @@ if ($toUpload.Count -eq 0 -and $toDelete.Count -eq 0) {
         $uploadErrors = $toUpload | ForEach-Object -Parallel {
             $rel   = $_
             $s3Key = $rel.Replace('\', '/')
-            $ct    = if ($rel -match '\.(html|xml|json|txt)$') {
+            # Pagefind's top-level files (pagefind.js, worker, wasm, entry) keep the
+            # same name across versions and index changes; only index/, fragment/
+            # and filter/ chunks are content-hashed and safe to cache forever.
+            $ct    = if ($rel -match '\.(html|xml|json|txt)$' -or $rel -match '^pagefind\\[^\\]+$') {
                          "public, max-age=3600"
                      } else {
                          "public, max-age=31536000, immutable"

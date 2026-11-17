@@ -2,17 +2,17 @@
   {{ $lat := index .Params.coords 0 }}
   {{ $lon := index .Params.coords 1 }}
   <div class="scholion-layout">
-    <article class="scholion-note scholion-note--place">
+    <article class="scholion-note scholion-note--place" data-pagefind-body data-pagefind-filter="tipo:local">
       <header class="scholion-note-header">
-        <p class="scholion-back"><a href="{{ "/places/" | relURL }}">← todos os locais</a></p>
-        <div class="scholion-research-badge scholion-research-badge--place">
+        <p data-pagefind-ignore class="scholion-back"><a href="{{ "/places/" | relURL }}">← todos os locais</a></p>
+        <div data-pagefind-ignore class="scholion-research-badge scholion-research-badge--place">
           📍 Local{{ with .Params.kinds }} · {{ delimit . " · " }}{{ end }}
         </div>
         <h1>{{ .Title }}</h1>
 
         {{ with .Params.summary }}<p class="scholion-desc">{{ . }}</p>{{ end }}
 
-        <div class="scholion-note-meta">
+        <div data-pagefind-ignore class="scholion-note-meta">
           <a class="scholion-map-link" href="https://www.waze.com/ul?ll={{ $lat }},{{ $lon }}&amp;navigate=yes"
              rel="noopener" target="_blank" aria-label="Abrir no Waze" title="Abrir no Waze"
              ><span class="inline-block align-text-bottom">{{ partial "icon.html" "waze" }}</span></a>
@@ -25,7 +25,7 @@
         </div>
 
         {{ with .Lastmod }}
-          <div class="scholion-note-meta">última visita <time datetime="{{ .Format "2006-01-02" }}">{{ .Format "2 Jan 2006" }}</time></div>
+          <div data-pagefind-ignore class="scholion-note-meta">última visita <time data-pagefind-meta="date" datetime="{{ .Format "2006-01-02" }}">{{ .Format "2 Jan 2006" }}</time></div>
         {{ end }}
 
         {{ with .Params.species }}
@@ -45,7 +45,7 @@
         {{ partial "scholion-wikilinks.html" . }}
       </div>
 
-      <nav class="scholion-note-nav" aria-label="Navegação entre locais">
+      <nav data-pagefind-ignore="all" class="scholion-note-nav" aria-label="Navegação entre locais">
         <a class="scholion-note-nav-back" href="{{ "/places/" | relURL }}">← todos os locais</a>
       </nav>
     </article>

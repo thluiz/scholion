@@ -23,7 +23,7 @@ buildFuture = true
   species = "species"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS"]
 
 [related]
   threshold = 80

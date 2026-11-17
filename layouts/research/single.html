@@ -1,13 +1,13 @@
 {{ define "main" }}
   <div class="scholion-layout{{ if .Params.toc }} scholion-layout--toc{{ end }}">
     {{ $isPublished := eq (string (.Params.research | default "")) "published" }}
-    <article class="scholion-note {{ if $isPublished }}scholion-note--research-published{{ else }}scholion-note--research{{ end }}">
+    <article class="scholion-note {{ if $isPublished }}scholion-note--research-published{{ else }}scholion-note--research{{ end }}" data-pagefind-body data-pagefind-filter="tipo:pesquisa">
       <header class="scholion-note-header">
-        <p class="scholion-back"><a href="{{ "/notes/" | relURL }}">← todas as notas</a></p>
-        <div class="scholion-research-badge {{ if $isPublished }}scholion-research-badge--published{{ end }}">🔍 {{ if $isPublished }}Pesquisa Publicada{{ else }}Pesquisa Viva{{ with $.Params.status }} · {{ . }}{{ end }}{{ end }}</div>
+        <p data-pagefind-ignore class="scholion-back"><a href="{{ "/notes/" | relURL }}">← todas as notas</a></p>
+        <div data-pagefind-ignore class="scholion-research-badge {{ if $isPublished }}scholion-research-badge--published{{ end }}">🔍 {{ if $isPublished }}Pesquisa Publicada{{ else }}Pesquisa Viva{{ with $.Params.status }} · {{ . }}{{ end }}{{ end }}</div>
         <h1>{{ .Title }}</h1>
-        <div class="scholion-note-meta">
-          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+        <div data-pagefind-ignore class="scholion-note-meta">
+          <time data-pagefind-meta="date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
         </div>
         {{ with .Params.tags }}
           <ul class="scholion-note-tags">
@@ -20,13 +20,13 @@
         {{ partial "scholion-wikilinks.html" . }}
       </div>
 
-      <nav class="scholion-note-nav" aria-label="Navegação entre notas">
+      <nav data-pagefind-ignore="all" class="scholion-note-nav" aria-label="Navegação entre notas">
         <a class="scholion-note-nav-back" href="{{ "/notes/" | relURL }}">← todas as notas</a>
       </nav>
 
       {{ $related := first 4 (.Site.RegularPages.Related .) }}
       {{ if $related }}
-        <aside class="scholion-related">
+        <aside data-pagefind-ignore="all" class="scholion-related">
           <h2>Notas relacionadas</h2>
           <ul>
             {{ range $related }}
@@ -63,7 +63,7 @@
       {{/* Histórico de alterações */}}
       {{ $slug := replace .File.ContentBaseName "-" "_" }}
       {{ $ghURL := printf "https://github.com/thluiz/scholion/commits/main/content/research/%s" .File.LogicalName }}
-      <aside class="scholion-history">
+      <aside data-pagefind-ignore="all" class="scholion-history">
         <h2>Histórico</h2>
         {{ with index site.Data.git_history $slug }}
           <ul class="scholion-history-list">

@@ -99,7 +99,8 @@ Com `book:`, `layouts/_default/term.html` mostra o título sem `#`, a linha auto
 ## Stack
 
 - **[Hugo](https://gohugo.io)** v0.148+ extended — gerador estático
-- **[Blowfish](https://blowfish.page)** — tema base (Tailwind, dark/light, busca client-side)
+- **[Blowfish](https://blowfish.page)** — tema base (Tailwind, dark/light)
+- **[Pagefind](https://pagefind.app)** 1.6 — busca. Índice estático em pedaços gerado no deploy (`npx pagefind --site public`); o navegador baixa só o que a consulta precisa. `assets/js/search.js` substitui a busca Fuse.js do tema e mantém o modal dele. Entram no índice só os elementos `data-pagefind-body` (single de notas, pesquisas e locais), com filtro `tipo` e metadado `date`
 - **CSS Grid** puro para o mosaico (sem framework JS)
 - **Git submodule** para o tema (não Hugo Modules — evita dependência de Go)
 - **[reveal.js](https://revealjs.com)** 5.1 (via jsDelivr) — só nas apresentações de `/slides/`
@@ -115,6 +116,8 @@ scholion/
 │   ├── css/
 │   │   ├── custom.css           # overrides + layout do mosaico/single
 │   │   └── schemes/scholion.css # color scheme âmbar
+│   ├── js/search.js     # busca via Pagefind (override do tema)
+│   ├── lib/fuse/        # stub vazio: desliga o Fuse.js do tema
 │   ├── fonts/, icons/, images/
 │   └── img/seal.png
 ├── config/_default/     # hugo.toml, params.toml, markup.toml, languages, menus
@@ -129,7 +132,7 @@ scholion/
 │   ├── git_history/     # JSONs com histórico por nota (gerados)
 │   └── scales.yaml      # escalas 0–5
 ├── layouts/             # templates próprios (override do Blowfish)
-│   ├── _default/        # baseof.html, term.html, terms.html, index.json
+│   ├── _default/        # baseof.html, term.html, terms.html
 │   ├── index.html
 │   ├── notes/           # list.html, single.html
 │   ├── places/          # list.html, single.html
