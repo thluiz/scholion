@@ -66,6 +66,10 @@ não commita. Os passos 1–5 abaixo **não** se aplicam.
    - **`audit_unavailable`**: conferir se o ghost-audit voltou (`/ghost-audit` ou health do
      vox-intelligence); se sim, `resume_parked(id)`; se não, deixar parado e avisar.
    - **`slug_conflict`**: mostrar a nota existente com aquele slug; quase sempre `dismiss_parked`.
+   - **`response_mismatch`** (Toscanini ≥ 0.2.49): o webclipper respondeu com o clipping de outra URL em todas
+     as tentativas e nada foi gravado. Conferir se algum outro processo está chamando o webclipper ao mesmo tempo
+     (lote direto na API); quando estiver livre, `resume_parked(id)` recompõe. Os passos de webclip do Toscanini
+     rodam na fila serial `webclip: 1`, então pode mandar várias URLs de uma vez pelo `publish_webclip`.
 3. **Relatar** os `job_id` retomados e descartados. O resultado de cada um chega pelo Telegram do
    Toscanini; para conferir na hora, `get_job(id)`. A nota entra em `E:\scholion` pelo `git pull`
    (o `\Claude\ScholionPublish` puxa a cada 30 min); não há commit local neste modo.
