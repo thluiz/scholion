@@ -188,8 +188,15 @@ above).
      input — there's no way to hand feedback into `compose`, so this is a
      second roll, not a fix). Still red → the note is a bust, but the
      `clipping` field is still usable (compose returns it regardless of
-     verdict). Write **only** the clipping (step 4b), mark the item
-     `status: "skipped"`, `reason: "audit_unresolved"`.
+     verdict). Save it as a **draft** instead of dropping the note
+     (scholion-webclipper Decision 11): the 4a call with
+     `@{ mode = 'return'; draft = $true }` returns the clipping and the note
+     with `draft: true` + `audit_verdict: "red"` in the frontmatter (Hugo
+     doesn't publish it). Write both as in 4a, mark the item
+     `status: "skipped"`, `reason: "audit_unresolved"`, `draft_note: <slug>`.
+     The draft is replaced by a later save of the same page. Before
+     2026-11-17 only the clipping was kept (step 4b), and those notes were
+     lost after the operation's 24h.
 
 4. **Write the files.**
 
@@ -221,8 +228,8 @@ above).
    either (an edit means calling `compose` again, per the interactive
    skill's Decision 8 note). Mark the item `status: "done"`.
 
-   **4b. Note skipped (red after recompose, audit unavailable, or
-   thin_unrecoverable from step 2):** build the clipping file by hand — same shape `scholion-webclipper`
+   **4b. Note skipped (audit unavailable, or thin_unrecoverable from
+   step 2; red now goes to a draft, see step 3):** build the clipping file by hand — same shape `scholion-webclipper`
    itself renders. **Use the values you already had before calling
    `compose` (title/url/domain/capturedAt), never `$r.clipping.*`** —
    `Invoke-RestMethod` silently parses a JSON string that looks like a date

@@ -29,7 +29,7 @@ mostrar ao autor antes de qualquer preview, escrita ou commit.
 
 **Regras rígidas — sem exceção:**
 
-- `verdict: red` → **não pode salvar**. A key desta skill (`add-scholion-webclip-skill`, role `write`) não tem `webclip.save.force` — só a key `admin` do Thiago tem, de propósito (ver Decision 3 do README do scholion-webclipper). Não existe "forçar" a partir daqui: o caminho é ajustar o que motivou o red (ex.: pedir pro autor decidir sobre um `relatedNotes` mal escolhido) e chamar `compose` de novo.
+- `verdict: red` → **não pode publicar**. A key desta skill (`add-scholion-webclip-skill`, role `write`) não tem `webclip.save.force` — só a key `admin` do Thiago tem, de propósito (ver Decision 3 do README do scholion-webclipper). Não existe "forçar" a partir daqui: o caminho é ajustar o que motivou o red (ex.: pedir pro autor decidir sobre um `relatedNotes` mal escolhido) e chamar `compose` de novo. **Mas nunca deixar a nota só na operação de 24h**: se o autor não resolver na hora, salvar como rascunho (`save` com `draft: true`, Decision 11 do webclipper), que grava clipping e nota com `draft: true` e `audit_verdict: "red"` (o Hugo não publica). Um save posterior da mesma página (recompose com o mesmo `slug`, ou o save forçado do autor) substitui o rascunho. Se o autor aceitar o red como está, o save forçado é ele quem roda, com a key dele: passar o comando pronto para ele executar com `!` — `wsl -d HermesTools -u hermes -- bash -c "bash /home/hermes/services/scholion-webclipper/deploy/force-save.sh <operationId>"` (sempre dentro de `bash -c`, senão o Git Bash converte o caminho).
 - `verdict: yellow` → **seguir sem pedir decisão**. Listar os findings no preview (uma linha cada: regra + trecho curto), só pra registro, e salvar após a aprovação normal do preview. Nota webclip é resumo de texto alheio: se o conteúdo saiu do original, não há o que alterar por estilo (decisão do Thiago, 2026-09-27). Também **não recompor** só para tentar zerar o yellow.
 - `verdict: green` → seguir.
 - **PROIBIDO substituir por checklist mental.** Sem o JSON da resposta do `compose` visto, a auditoria não aconteceu.
@@ -60,9 +60,12 @@ não commita. Os passos 1–5 abaixo **não** se aplicam.
      (`dismiss_parked` com o motivo). Senão, `resume_parked(id, text, title)` direto, **sem preview**: o
      autor já escolheu a URL quando mandou, e o ghost-audit roda de novo no servidor (red volta a
      estacionar como `audit_red`).
-   - **`audit_red`**: mostrar os `findings` ao autor e esperar a decisão. Se ele quiser linkar notas,
-     fazer o search-first do passo 2 (vault) e `resume_parked(id, related_notes: [...])`; se não,
-     `dismiss_parked`. Não recompor só para tentar zerar o red.
+   - **`audit_red`**: desde o Toscanini 0.2.50 a nota já está no vault como rascunho (`draft: true`,
+     caminho no aviso do Telegram e em `results.webclip_draft`). Mostrar os `findings` ao autor e esperar a
+     decisão. Se ele quiser linkar notas, fazer o search-first do passo 2 (vault) e
+     `resume_parked(id, related_notes: [...])`, que recompõe por cima do rascunho; se aceitar como está, ele
+     roda o save forçado com a key dele; se não quiser a nota, `dismiss_parked` (o rascunho fica no vault até
+     ele apagar). Não recompor só para tentar zerar o red.
    - **`audit_unavailable`**: conferir se o ghost-audit voltou (`/ghost-audit` ou health do
      vox-intelligence); se sim, `resume_parked(id)`; se não, deixar parado e avisar.
    - **`slug_conflict`**: mostrar a nota existente com aquele slug; quase sempre `dismiss_parked`.
