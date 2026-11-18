@@ -86,6 +86,23 @@ Os argumentos vêm em `$ARGUMENTS` em formato livre, separados por ` | `:
 
 ## Processo
 
+### 0. URL já no vault?
+
+Antes do `compose` (que já gasta fetch, modelo e ghost-audit), procurar a URL em notas `webclip` do vault. O servidor só barra slug repetido (`slug_conflict`), e o slug sai do modelo a partir do título: a mesma URL recapturada pode ganhar outro slug e virar uma segunda nota.
+
+Normalizar a URL para host + caminho: tirar o esquema, `www.`, querystring, fragmento e a barra final. Depois, busca literal (`-F`) só entre notas `category: webclip`, porque notas `quote` da mesma página também citam a URL:
+
+```bash
+cd E:/scholion; u='<host+caminho>'; grep -rlF --include='*.md' "$u" content/notes | xargs -r grep -l '^category: webclip'
+```
+
+- **Nenhum resultado** → seguir para o passo 1.
+- **Achou** → mostrar a nota existente (slug, `title`, `date` e se é `draft: true`) e esperar o autor:
+  - Se a invocação trouxe frases (argumentos seguintes), ir direto para o passo 5 contra essa nota, sem recompor.
+  - Se a nota é rascunho e ele quiser recapturar, rodar o `compose` passando `slug` com o slug do rascunho (o compose aceita override): o `save` substitui rascunho da mesma URL.
+  - Se a nota está publicada, o `save` devolve `slug_conflict` para o mesmo slug, e com outro slug criaria a duplicata. Avisar o autor e parar.
+  - Se ele não quiser nada, parar.
+
 ### 1. Compor (fetch + extração + composição + auditoria num único passo)
 
 Ler a API key uma vez:
