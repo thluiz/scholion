@@ -1,6 +1,6 @@
 ---
 title: "Where do you see yourself in 5 years?"
-date: '2026-11-16T19:27:29+00:00'
+date: '2020-06-16T20:40:31+00:00'
 category: webclip
 summary: 'The post asks whether people think about their future beyond interviews, whether they set multi-year goals, and whether that question matters less after many years of work. It also says the author plans ahead while still having room to grow.'
 tags: ["career-goals", "future-planning", "interviews"]

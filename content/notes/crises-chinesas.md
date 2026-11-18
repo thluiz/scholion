@@ -1,6 +1,6 @@
 ---
 title: "Crises Chinesas"
-date: '2026-11-16T16:54:08+00:00'
+date: '2020-02-22T12:12:03+00:00'
 category: webclip
 summary: 'A China entrava em crise na virada do século 20, sob domínio manchu. O texto liga esse quadro ao controle estrangeiro e ao fechamento deliberado das portas que antes sustentavam a potência econômica chinesa.'
 tags: ["china", "manchus", "imperio-qing"]

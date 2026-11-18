@@ -1,6 +1,6 @@
 ---
 title: "Why you should never ignore the alt attribute"
-date: '2026-11-16T19:49:02+00:00'
+date: '2020-04-19T18:47:53+00:00'
 category: webclip
 summary: 'Explains that the alt attribute improves accessibility and SEO by giving images readable text for screen readers and crawlers, and shows how to keep alt text relevant, concise, and context-aware.'
 tags: ["alt-attribute", "accessibility", "seo"]

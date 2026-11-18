@@ -1,6 +1,6 @@
 ---
 title: "How to create a circular countdown timer using HTML, CSS or JavaScript?"
-date: '2026-11-16T17:50:46+00:00'
+date: '2020-07-05T14:10:30+00:00'
 category: webclip
 summary: 'The question asks how to build a circular countdown timer for a quiz game, with a border that changes over time. The accepted answer shows an SVG-based solution using stroke-dasharray, stroke-dashoffset, CSS transitions, and JavaScript timing.'
 tags: ["html", "css", "javascript", "svg"]

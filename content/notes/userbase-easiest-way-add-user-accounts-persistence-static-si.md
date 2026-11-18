@@ -1,6 +1,6 @@
 ---
 title: "The easiest way to add user accounts & persistence to your static site"
-date: '2026-11-16T19:27:02+00:00'
+date: '2020-01-26T02:39:09+00:00'
 category: webclip
 summary: 'Userbase adds user accounts and data persistence to static sites through a browser-based JavaScript SDK, with no backend, client-side queries, end-to-end encryption, and open-source hosting options.'
 tags: ["user-accounts", "data-persistence", "static-site", "end-to-end-encryption"]

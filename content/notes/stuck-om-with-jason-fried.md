@@ -1,6 +1,6 @@
 ---
 title: "[PODCAST] Stuck@Om with Jason Fried"
-date: '2026-11-16T19:46:40+00:00'
+date: '2020-04-19T06:35:53+00:00'
 category: webclip
 summary: 'Conversation with Jason Fried about lockdown, gratitude, remote work, and how leaders should adjust expectations as people balance family care and work at home.'
 tags: ["podcast", "remote-work", "lockdown", "basecamp"]

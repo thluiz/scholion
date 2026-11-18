@@ -1,6 +1,6 @@
 ---
 title: "Basic JavaScript Patterns — Events"
-date: '2026-11-16T17:52:27+00:00'
+date: '2020-07-05T14:11:17+00:00'
 category: webclip
 summary: 'The article says event handling in JavaScript should stay clean and separate from HTML markup. It shows moving click handling into JavaScript and gaining access to the event object.'
 tags: ["javascript", "events", "separation-of-concerns"]

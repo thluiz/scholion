@@ -1,6 +1,6 @@
 ---
 title: "Benefits of Walking: Why The Greatest Minds Take Long Walks"
-date: '2026-11-16T17:57:32+00:00'
+date: '2016-06-20T12:48:14+00:00'
 category: webclip
 summary: 'The page argues that walking can increase creativity, support health, improve productivity and communication, and explains why many famous thinkers and tech leaders used walking as part of their work.'
 tags: ["walking", "creativity", "health", "productivity"]

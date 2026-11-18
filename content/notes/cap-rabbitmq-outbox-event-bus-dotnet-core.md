@@ -1,6 +1,6 @@
 ---
 title: "Efficient Event Communication RabbitMQ: Implementing Event Bus and Outbox Patterns with CAP in .NET Core Microservices"
-date: '2026-11-16T20:19:03+00:00'
+date: '2023-10-24T14:26:34+00:00'
 category: webclip
 summary: 'Step‑by‑step demo showing how to use CAP in .NET 8 microservices with RabbitMQ and SQL Server to implement an outbox‑style event bus between a publisher and consumer.'
 tags: ["dotnet-core", "microservices", "event-bus", "rabbitmq"]

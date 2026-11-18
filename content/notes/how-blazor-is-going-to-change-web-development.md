@@ -1,6 +1,6 @@
 ---
 title: "How Blazor Is Going to Change Web Development"
-date: '2026-11-16T19:20:45+00:00'
+date: '2019-12-29T16:33:46+00:00'
 category: webclip
 summary: 'The page explains Blazor as a Microsoft framework for interactive web UIs in C#, and contrasts its Web Assembly and Server models with older server-rendered apps and modern SPAs.'
 tags: ["blazor", "web-development", "web-assembly", "asp-net"]

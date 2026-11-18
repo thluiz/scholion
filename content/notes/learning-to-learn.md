@@ -1,6 +1,6 @@
 ---
 title: "Learning to learn"
-date: '2026-11-16T20:05:06+00:00'
+date: '2020-05-02T23:08:03+00:00'
 category: webclip
 summary: 'Notes from a course on learning faster, centered on memory, deliberate practice, spaced repetition, systems, motivation, focus, sleep, and time management for better learning.'
 tags: ["learning", "productivity", "memory", "study-techniques"]

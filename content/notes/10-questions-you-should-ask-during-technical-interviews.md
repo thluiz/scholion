@@ -1,6 +1,6 @@
 ---
 title: "10 questions you should ask during technical interviews"
-date: '2026-11-16T19:07:34+00:00'
+date: '2019-07-18T23:27:01+00:00'
 category: webclip
 summary: 'The post argues for interview questions that reveal how candidates think, learn, communicate, and handle setbacks, rather than answers they can memorize. It also warns against bias and poor interview behavior.'
 tags: ["technical-interviews", "hiring", "candidate-evaluation", "interview-questions"]

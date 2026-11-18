@@ -1,6 +1,6 @@
 ---
 title: "Blogging 2023 Monthly Challenge!"
-date: '2026-11-16T20:22:09+00:00'
+date: '2023-11-12T06:26:21+00:00'
 category: webclip
 summary: 'Announcement of Virtual Coffee’s November 2023 community blogging challenge inspired by NaNoWriMo, with a focus on tech writing and personal branding.'
 tags: ["blogging", "writing", "developer-community"]

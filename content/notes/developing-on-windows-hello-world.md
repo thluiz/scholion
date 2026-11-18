@@ -1,6 +1,6 @@
 ---
 title: "Developing on Windows – Hello World"
-date: '2026-11-16T19:13:26+00:00'
+date: '2019-11-19T10:23:23+00:00'
 category: webclip
 summary: 'The post surveys Windows developer updates, focusing on Windows Terminal, WSL2, VS Code integration, and new PowerToys utilities that aim to improve multitasking, Linux workflows, and productivity.'
 tags: ["windows-terminal", "wsl2", "vs-code", "powertoys"]

@@ -1,6 +1,6 @@
 ---
 title: "Bring your own machine to Visual Studio Online"
-date: '2026-11-16T19:42:18+00:00'
+date: '2020-04-17T10:39:52+00:00'
 category: webclip
 summary: 'Visual Studio Online now lets you register your own machines and access them remotely from VS Code or the web editor, with CLI support for headless scenarios and a simpler one-click registration flow.'
 tags: ["visual-studio-online", "visual-studio-code", "cli", "self-hosted-environment"]

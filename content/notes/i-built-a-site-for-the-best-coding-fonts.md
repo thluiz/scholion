@@ -1,6 +1,6 @@
 ---
 title: "I Built a Site for the Best Coding Fonts"
-date: '2026-11-16T19:40:26+00:00'
+date: '2020-04-15T11:25:33+00:00'
 category: webclip
 summary: 'The author says choosing a coding font is hard because you cannot preview it in your editor first, so he built Dev Fonts with an interactive way to compare fonts, themes, languages, and sample code.'
 tags: ["coding-fonts", "developer-tools", "font-preview"]

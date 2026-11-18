@@ -1,6 +1,6 @@
 ---
 title: "How to Manage Programmers Without Losing Your Damn Mind"
-date: '2026-11-16T18:51:31+00:00'
+date: '2019-07-01T11:00:03+00:00'
 category: webclip
 summary: 'The post argues that managers often become bottlenecks by solving problems for their team, and recommends coaching through seven questions to help people think, choose, and act for themselves.'
 tags: ["management", "coaching", "software-development", "leadership"]

@@ -1,6 +1,6 @@
 ---
 title: "Introducing Incident Context and Incident Notes"
-date: '2026-11-16T18:50:09+00:00'
+date: '2019-06-30T12:44:12+00:00'
 category: webclip
 summary: 'AppSignal adds more context to incident pages by showing other errors, performance issues, and active anomaly alerts, and lets users leave notes for colleagues or future reference.'
 tags: ["incident-context", "incident-notes", "errors", "performance"]

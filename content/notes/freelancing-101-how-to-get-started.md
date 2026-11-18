@@ -1,6 +1,6 @@
 ---
 title: "Freelancing 101: How to get started"
-date: '2026-11-16T19:20:17+00:00'
+date: '2019-12-29T01:46:53+00:00'
 category: webclip
 summary: 'The article explains how to begin freelancing by building a portfolio, finding first clients, setting rates, using contracts and deposits, and avoiding common mistakes.'
 tags: ["freelancing", "portfolio", "client-acquisition", "rates"]

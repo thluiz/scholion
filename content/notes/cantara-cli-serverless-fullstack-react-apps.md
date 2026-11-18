@@ -1,6 +1,6 @@
 ---
 title: "Cantara 💙 - A CLI tool to create Serverless Fullstack React apps in minutes"
-date: '2026-11-16T19:41:50+00:00'
+date: '2020-04-16T10:38:50+00:00'
 category: webclip
 summary: 'Cantara is a zero-config CLI for building fullstack TypeScript apps in a monorepo, with React apps, serverless endpoints, Node.js APIs, shared packages, and tests.'
 tags: ["cli-tools", "fullstack-react", "typescript", "monorepo"]

@@ -1,6 +1,6 @@
 ---
 title: "I built a VSCode extension: ngrok for VSCode"
-date: '2026-11-16T19:39:20+00:00'
+date: '2020-04-15T10:59:07+00:00'
 category: webclip
 summary: 'The author describes a first VSCode extension that starts ngrok tunnels from the command palette, using either a port number or a named tunnel from the ngrok config file.'
 tags: ["vscode", "ngrok", "extension"]

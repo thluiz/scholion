@@ -1,6 +1,6 @@
 ---
 title: "Thinking one level ahead: Your path to becoming a Senior Dev"
-date: '2026-11-16T19:16:51+00:00'
+date: '2019-12-24T23:23:56+00:00'
 category: webclip
 summary: 'The article says promotion in tech depends on three pillars: technical competence, professional relationships, and documenting credit for your work. It also varies by career stage, from junior to principal.'
 tags: ["promotion", "software-engineering", "career-growth"]

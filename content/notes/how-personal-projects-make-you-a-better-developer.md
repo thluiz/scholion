@@ -1,6 +1,6 @@
 ---
 title: "How Personal Projects Make You A Better Developer"
-date: '2026-11-16T18:53:51+00:00'
+date: '2019-07-03T10:36:44+00:00'
 category: webclip
 summary: 'The piece argues that personal projects help developers experiment freely, learn the full application lifecycle, and discover skills and tools they would not use at work. It also recommends starting with a replica if no idea comes easily.'
 tags: ["personal-projects", "software-development", "learning", "programming"]

@@ -1,6 +1,6 @@
 ---
 title: "How to Speed Up Angular Tests"
-date: '2026-11-16T19:19:56+00:00'
+date: '2019-12-29T01:39:33+00:00'
 category: webclip
 summary: 'The article says Angular tests are slow because dependencies and components are reloaded for every test. It recommends loading them once per spec file with a shared helper to make unit tests much faster.'
 tags: ["angular-tests", "test-speed", "testing", "angular"]

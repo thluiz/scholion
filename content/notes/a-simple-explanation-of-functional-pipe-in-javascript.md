@@ -1,6 +1,6 @@
 ---
 title: "A simple explanation of functional pipe in JavaScript"
-date: '2026-11-16T18:58:26+00:00'
+date: '2019-07-07T09:34:38+00:00'
 category: webclip
 summary: 'The article explains why pipe helps JavaScript keep APIs broad while preserving tree-shaking and smaller bundles, and shows how left-to-right composition improves readability over prototype methods.'
 tags: ["javascript", "functional-programming", "pipe", "rxjs"]

@@ -1,6 +1,6 @@
 ---
 title: "Manage your dev.to blog posts from a GIT repo and use continuous deployment to auto publish/update them"
-date: '2026-11-16T19:05:58+00:00'
+date: '2019-07-09T09:50:06+00:00'
 category: webclip
 summary: 'The post shows how to keep dev.to articles in a Git repo, track them in `dev-to-git.json`, and use CI to publish or update posts automatically from Markdown.'
 tags: ["devto", "continuous-deployment", "github-actions", "travis"]

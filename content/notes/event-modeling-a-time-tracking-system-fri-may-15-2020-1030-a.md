@@ -1,6 +1,6 @@
 ---
 title: "Event Modeling a Time Tracking System, Fri, May 15, 2020, 10:30 AM | Meetup"
-date: '2026-11-16T19:54:46+00:00'
+date: '2020-05-15T23:10:37+00:00'
 category: webclip
 summary: 'The captured page contains only Meetup legal and corporate footer content from Bending Spoons, with links to help, policies, and license attribution, but no event description or discussion of time tracking.'
 tags: ["meetup", "legal-notice", "bending-spoons"]

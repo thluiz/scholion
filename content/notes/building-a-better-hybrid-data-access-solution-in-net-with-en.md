@@ -1,6 +1,6 @@
 ---
 title: "Building a Better Hybrid Data Access Solution in .NET with Entity Framework + RepoDb"
-date: '2026-11-16T17:52:51+00:00'
+date: '2020-08-26T19:31:20+00:00'
 category: webclip
 summary: 'The article argues that Entity Framework works well for many cases, but RepoDb fills gaps such as targeted updates, deletes, upserts, bulk operations, caching, and dynamic raw-SQL handling.'
 tags: ["entity-framework", "repodb", "dotnet", "data-access"]

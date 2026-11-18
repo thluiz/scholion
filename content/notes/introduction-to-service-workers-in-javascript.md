@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Service Workers in JavaScript"
-date: '2026-11-16T19:08:35+00:00'
+date: '2019-07-20T08:36:28+00:00'
 category: webclip
 summary: 'The post explains what service workers do in Progressive Web Apps, how they register and run, which browser events they handle, and how they cache resources and update versions.'
 tags: ["service-workers", "progressive-web-apps", "cache-api", "javascript"]

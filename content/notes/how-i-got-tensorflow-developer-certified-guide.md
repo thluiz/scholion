@@ -1,6 +1,6 @@
 ---
 title: "How I got TensorFlow Developer Certified (and how you can too)"
-date: '2026-11-16T20:13:01+00:00'
+date: '2020-06-06T13:49:53+00:00'
 category: webclip
 summary: 'Author explains what the TensorFlow Developer Certification is, why it matters, the study resources and routine used to pass it, exam logistics, a technical hiccup faced, and post-exam steps.'
 tags: ["tensorflow", "machine-learning", "certification", "study-plan"]

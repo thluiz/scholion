@@ -1,6 +1,6 @@
 ---
 title: "Why use TypeScript?"
-date: '2026-11-16T19:25:24+00:00'
+date: '2020-01-02T10:11:22+00:00'
 category: webclip
 summary: 'The post argues that TypeScript helps build code that is easier to maintain and share over time by making data shapes, expected types, and connected changes visible to the compiler and linter.'
 tags: ["typescript", "types", "interfaces", "generics"]

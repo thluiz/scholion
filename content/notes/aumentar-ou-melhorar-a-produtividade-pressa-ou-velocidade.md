@@ -1,6 +1,6 @@
 ---
 title: "Aumentar ou melhorar a produtividade? Pressa ou velocidade?"
-date: '2026-11-16T16:58:07+00:00'
+date: '2020-02-22T12:12:04+00:00'
 category: webclip
 summary: 'O texto questiona conselhos de produtividade que só ampliam carga de trabalho e contrapõe pressa a velocidade: produtividade real exige planejamento, equilíbrio e foco estratégico, não urgência permanente.'
 tags: ["produtividade", "planejamento", "urgencia", "gestao-do-tempo"]

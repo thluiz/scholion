@@ -1,6 +1,6 @@
 ---
 title: "Usuful documents to migrate WPF/WinForms apps from .NET Framework to .NET Core"
-date: '2026-11-16T17:57:10+00:00'
+date: '2020-02-22T12:11:50+00:00'
 category: webclip
 summary: 'Microsoft shares links for checking breaking changes and migration resources when moving WPF and WinForms apps from .NET Framework to .NET Core.'
 tags: ["dotnet-core", "wpf", "winforms", "migration"]

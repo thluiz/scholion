@@ -1,6 +1,6 @@
 ---
 title: "Avoiding Memory Leaks in NodeJS: Best Practices for Performance"
-date: '2026-11-16T19:56:32+00:00'
+date: '2020-05-14T11:37:47+00:00'
 category: webclip
 summary: 'The post explains how V8 manages memory, what memory leaks are in NodeJS, and which coding patterns most often cause them, then lists practices to reduce leaks and performance issues.'
 tags: ["nodejs", "memory-management", "performance", "garbage-collection"]

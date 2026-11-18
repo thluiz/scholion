@@ -1,6 +1,6 @@
 ---
 title: "Full Freelancing Workflow"
-date: '2026-11-16T19:28:14+00:00'
+date: '2020-06-17T23:32:04+00:00'
 category: webclip
 summary: 'The article breaks freelancing work into engagement, pricing, wireframing, design, development, and final delivery, with client meetings and scope control at each step.'
 tags: ["freelancing", "workflow", "client-management"]

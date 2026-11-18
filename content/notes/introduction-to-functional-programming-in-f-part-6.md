@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Functional Programming in F# - Part 6"
-date: '2026-11-16T15:51:12+00:00'
+date: '2020-02-22T12:11:52+00:00'
 category: webclip
 summary: 'The post shows how to read and parse a CSV file in F#, handle file errors with Result, and make the import logic testable by abstracting the file reader behind a type signature.'
 tags: ["fsharp", "seq", "result", "higher-order-functions"]

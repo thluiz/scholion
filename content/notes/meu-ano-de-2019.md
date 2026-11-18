@@ -1,6 +1,6 @@
 ---
 title: "Meu ano de 2019"
-date: '2026-11-16T15:45:31+00:00'
+date: '2020-01-08T11:54:23+00:00'
 category: webclip
 summary: 'O autor revisita 2019, resume mudanças no blog, métricas de acesso, troca de time na Toptal, lançamento de um curso de Gatsby e viagens e encontros de trabalho pela Europa.'
 tags: ["ano-pessoal", "blog", "gatsby", "toptal"]

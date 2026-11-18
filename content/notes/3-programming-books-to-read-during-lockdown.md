@@ -1,6 +1,6 @@
 ---
 title: "3 Programming Books to Read During Lockdown"
-date: '2026-11-16T19:50:30+00:00'
+date: '2020-04-21T16:57:33+00:00'
 category: webclip
 summary: 'The post recommends three programming books for different stages: learning Python, studying algorithms and data structures, and practicing interview problems through exercises.'
 tags: ["programming-books", "python", "algorithms", "interview-prep"]

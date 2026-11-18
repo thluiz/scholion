@@ -1,6 +1,6 @@
 ---
 title: "Australian student invents affordable electric car conversion kit"
-date: '2026-11-16T20:21:00+00:00'
+date: '2023-11-06T04:03:22+00:00'
 category: webclip
 summary: 'Article describes REVR, a low-cost kit by student Alexander Burton that converts combustion cars to hybrids by adding an axial flux motor and battery without removing existing engine parts.'
 tags: ["electric-cars", "retrofit", "sustainable-design"]

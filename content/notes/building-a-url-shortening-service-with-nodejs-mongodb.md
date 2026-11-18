@@ -1,6 +1,6 @@
 ---
 title: "Building a URL shortening service with NodeJS and MongoDB. Deploy to Azure."
-date: '2026-11-16T19:41:13+00:00'
+date: '2020-04-16T10:26:30+00:00'
 category: webclip
 summary: 'The tutorial builds a URL shortener with NodeJS, Express, and MongoDB, then deploys it to Azure. It covers project setup, the frontend, database connection, URL model, routes, and form submission.'
 tags: ["nodejs", "mongodb", "express", "azure"]

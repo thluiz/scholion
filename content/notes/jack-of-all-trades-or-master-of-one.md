@@ -1,6 +1,6 @@
 ---
 title: "Jack Of All Trades or Master of One?"
-date: '2026-11-16T18:47:07+00:00'
+date: '2019-06-28T18:19:20+00:00'
 category: webclip
 summary: 'The author questions whether broad learning is helping or hurting, since interviews expose how nervous they feel under technical questioning and how broad interests may be read as a lack of deep expertise.'
 tags: ["broad-learning", "interviews", "impostor-syndrome"]

@@ -1,6 +1,6 @@
 ---
 title: "5 things I miss after switching from Windows laptop to MacBookPro"
-date: '2026-11-16T19:36:14+00:00'
+date: '2020-04-12T11:49:04+00:00'
 category: webclip
 summary: 'The author says macOS is generally fine, but misses five Windows features on a MacBookPro: spanning one app across two screens, minimizing all windows, a taskbar on every display, a Delete key, and PuntoSwitcher support for more than two languages.'
 tags: ["macos", "windows", "productivity", "keyboard-layout"]

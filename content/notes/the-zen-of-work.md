@@ -1,6 +1,6 @@
 ---
 title: "The Zen of Work"
-date: '2026-11-16T16:51:50+00:00'
+date: '2020-02-22T12:12:03+00:00'
 category: webclip
 summary: 'The piece argues that work becomes stressful through holding on to expectations, resentments, and the idea that we must handle everything at once, and that mindfulness and letting go reduce that suffering.'
 tags: ["mindfulness", "work", "stress"]

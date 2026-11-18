@@ -1,6 +1,6 @@
 ---
 title: "Seamless web workers & worker threads - threads.js"
-date: '2026-11-16T19:23:00+00:00'
+date: '2019-12-30T08:15:12+00:00'
 category: webclip
 summary: 'threads.js v1.0 offers a transparent API for web workers and worker threads, with promise-based calls, error handling, Node.js support, webpack integration, and TypeScript support.'
 tags: ["web-workers", "worker-threads", "typescript", "webpack"]

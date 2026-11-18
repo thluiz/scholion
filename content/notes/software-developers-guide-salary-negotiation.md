@@ -1,6 +1,6 @@
 ---
 title: "The Software Developer’s Guide to Salary Negotiation"
-date: '2026-11-16T17:54:52+00:00'
+date: '2017-07-24T18:17:20+00:00'
 category: webclip
 summary: 'The post argues that developers should research market pay, wait for an offer before negotiating, compare full compensation packages, and use position, timing, and counteroffers to improve the final deal.'
 tags: ["salary-negotiation", "software-development", "compensation", "job-offers"]

@@ -1,6 +1,6 @@
 ---
 title: "Distributed Agreement on Random Order – Fun with Lamport Timestamps"
-date: '2026-11-16T20:09:35+00:00'
+date: '2020-06-11T23:42:58+00:00'
 category: webclip
 summary: 'Explains Lamport timestamps and shows, via an Elixir multi-leader actor system, how nodes can eventually agree on a total order of events and use it as a deliberately wasteful sentence shuffler.'
 tags: ["distributed-systems", "lamport-timestamps", "elixir", "actor-model"]

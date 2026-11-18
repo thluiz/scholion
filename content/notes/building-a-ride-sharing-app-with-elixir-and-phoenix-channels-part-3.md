@@ -1,6 +1,6 @@
 ---
 title: "Building a Ride Sharing App with Elixir and Phoenix Channels — Part 3"
-date: '2026-11-16T17:52:02+00:00'
+date: '2020-07-05T14:10:40+00:00'
 category: webclip
 summary: 'This part uses Phoenix Presence to track drivers by geohash topic and show nearby drivers on the map, keeping the app’s view of driver state and location up to date.'
 tags: ["phoenix-channels", "phoenix-presence", "elixir", "ride-sharing"]

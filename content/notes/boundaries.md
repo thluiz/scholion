@@ -1,6 +1,6 @@
 ---
 title: "Boundaries"
-date: '2026-11-16T19:24:57+00:00'
+date: '2019-12-30T23:13:17+00:00'
 category: webclip
 summary: 'Gary Bernhardt’s SCNA 2012 talk argues for using simple values as boundaries between components and subsystems, and links that idea to functional programming, mutability, unit testing, and concurrency.'
 tags: ["simple-values", "functional-programming", "unit-testing", "concurrency"]

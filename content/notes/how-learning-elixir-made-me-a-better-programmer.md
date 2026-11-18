@@ -1,6 +1,6 @@
 ---
 title: "How Learning Elixir Made Me a Better Programmer 🥃"
-date: '2026-11-16T18:47:25+00:00'
+date: '2019-06-29T06:39:33+00:00'
 category: webclip
 summary: 'The post argues that learning Elixir broadened the author’s programming toolkit, exposed him to functional and concurrent design, and improved both his understanding of systems and his learning process.'
 tags: ["elixir", "functional-programming", "concurrency", "software-development"]

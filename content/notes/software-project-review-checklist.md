@@ -1,6 +1,6 @@
 ---
 title: "Software Project Review Checklist"
-date: '2026-11-16T18:47:57+00:00'
+date: '2019-06-29T10:22:43+00:00'
 category: webclip
 summary: 'The post lists the questions a reviewer should answer in a software project review, focusing on release process, delivery pipeline, code quality, testing, documentation, ownership, and team responsiveness.'
 tags: ["software-review", "code-quality", "ci"]

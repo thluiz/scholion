@@ -1,6 +1,6 @@
 ---
 title: "Criticar bem é uma arte"
-date: '2026-11-16T16:59:28+00:00'
+date: '2020-02-22T12:12:04+00:00'
 category: webclip
 summary: 'O texto defende que uma boa crítica se concentra no texto, evita ataques pessoais e procura esclarecer os pontos fracos com respeito. Ofensas e generalizações não ajudam no debate.'
 tags: ["critica", "debate", "blog"]

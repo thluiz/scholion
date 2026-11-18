@@ -1,6 +1,6 @@
 ---
 title: "10 New JavaScript Features in ES2020 That You Should Know"
-date: '2026-11-16T19:35:36+00:00'
+date: '2020-04-11T23:05:25+00:00'
 category: webclip
 summary: 'The article presents the finalized ES2020 changes and explains features like BigInt, dynamic import, nullish coalescing, optional chaining, Promise.allSettled, globalThis, and module namespace exports.'
 tags: ["javascript", "es2020", "programming", "ecmascript"]

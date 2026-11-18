@@ -1,6 +1,6 @@
 ---
 title: "GraphQL Crash Course (in 10 pics!)"
-date: '2026-11-16T19:11:44+00:00'
+date: '2019-11-04T15:35:49+00:00'
 category: webclip
 summary: 'A compact GraphQL overview covering how queries, schema, arguments, aliases, fragments, variables, interfaces, mutations, and subscriptions work, plus playground tools and extra resources.'
 tags: ["graphql", "api", "schema", "subscriptions"]

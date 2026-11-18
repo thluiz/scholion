@@ -1,6 +1,6 @@
 ---
 title: "Immediate Domain Event Salvation with MediatR"
-date: '2026-11-18T12:00:47+00:00'
+date: '2023-11-06T04:03:19+00:00'
 category: webclip
 summary: 'Article shows how to implement immediate, pre-persistence domain events in .NET using MediatR, using a static helper, event handlers with dependencies, and startup wiring.'
 tags: ["domain-events", "mediatr", "aspnet-core", "ddd"]

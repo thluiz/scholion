@@ -1,6 +1,6 @@
 ---
 title: "Offers from Amazon, Apple, and Facebook: Things I Wish I Knew"
-date: '2026-11-16T19:36:46+00:00'
+date: '2020-04-13T02:35:11+00:00'
 category: webclip
 summary: 'The author says there is no single way into big tech, and describes how she studied, practiced, handled interview pressure, and used community resources to get offers.'
 tags: ["technical-interviews", "leetcode", "career-growth", "big-tech"]

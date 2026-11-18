@@ -1,6 +1,6 @@
 ---
 title: "Code Smell: No AND in Function name"
-date: '2026-11-16T18:43:58+00:00'
+date: '2019-06-25T21:05:58+00:00'
 category: webclip
 summary: 'The page says function names with “AND” usually signal too much responsibility. Split the work into separate functions so each one does one thing and stays easier to maintain.'
 tags: ["single-responsibility-principle", "function-naming", "maintainability"]

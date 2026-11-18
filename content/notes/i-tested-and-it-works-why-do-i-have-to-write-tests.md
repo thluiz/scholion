@@ -1,6 +1,6 @@
 ---
 title: "Me: \"I tested and it works, why do I have to write tests?\""
-date: '2026-11-16T18:45:52+00:00'
+date: '2019-06-26T10:04:18+00:00'
 category: webclip
 summary: 'The author argues that manual testing cannot cover every case, while tests make behavior explicit, catch overlooked flaws, and define the software’s specification.'
 tags: ["software-testing", "continuous-integration", "specifications"]

@@ -1,6 +1,6 @@
 ---
 title: "7 Mistakes That Keep You Behind"
-date: '2026-11-16T18:48:24+00:00'
+date: '2019-06-29T11:39:14+00:00'
 category: webclip
 summary: 'The article says JavaScript learners fall behind when they rush concepts, depend on others'' code, overthink, consume too much information, compare themselves to advanced developers, skip JavaScript fundamentals, or avoid breaking ideas into smaller parts.'
 tags: ["javascript", "learning", "programming", "web-development"]

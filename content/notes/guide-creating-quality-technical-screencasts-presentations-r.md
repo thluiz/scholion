@@ -1,6 +1,6 @@
 ---
 title: "The 2020 Guide to Creating Quality Technical Screencasts, Presentations, and Remote Meetings"
-date: '2026-11-16T19:48:03+00:00'
+date: '2020-04-19T09:16:36+00:00'
 category: webclip
 summary: 'The post argues that effective screencasts and remote presentations require intentional setup, from resolution and fonts to audio, browser cleanup, bandwidth, and editing, so the audience can see and hear clearly.'
 tags: ["screencasts", "remote-meetings", "presentation-setup", "audio-video"]

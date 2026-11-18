@@ -1,6 +1,6 @@
 ---
 title: "DIY FAQ Bot"
-date: '2026-11-16T18:54:41+00:00'
+date: '2019-07-04T10:05:03+00:00'
 category: webclip
 summary: 'The post shows how to build a simple FAQ chatbot with Azure Bot Service, QnA Maker, and Twilio to handle common messages, test it, publish it, and connect it to SMS.'
 tags: ["azure-bot-service", "qna-maker", "twilio", "chatbot"]

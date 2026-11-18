@@ -1,6 +1,6 @@
 ---
 title: "How To Use Domain Events To Build Loosely Coupled Systems"
-date: '2026-11-16T20:25:00+00:00'
+date: '2023-12-11T16:49:30+00:00'
 category: webclip
 summary: 'Explains how domain events in DDD help decouple core logic from side effects in .NET, comparing them to integration events and showing implementation with MediatR and EF Core.'
 tags: ["domain-events", "ddd", "dotnet", "architectural-patterns"]

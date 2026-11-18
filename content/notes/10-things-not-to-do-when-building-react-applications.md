@@ -1,6 +1,6 @@
 ---
 title: "10 Things NOT To Do When Building React Applications"
-date: '2026-11-16T18:49:18+00:00'
+date: '2019-06-30T11:51:56+00:00'
 category: webclip
 summary: 'The post lists common React pitfalls, from inline functions and random keys to null defaults, prop drilling, and state mutation, and suggests safer patterns like stable keys, context, and explicit props.'
 tags: ["react", "javascript", "best-practices", "state-management"]

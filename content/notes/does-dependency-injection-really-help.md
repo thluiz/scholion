@@ -1,6 +1,6 @@
 ---
 title: "#3: Does Dependency Injection Really Help?"
-date: '2026-11-16T19:18:41+00:00'
+date: '2019-12-25T09:27:33+00:00'
 category: webclip
 summary: 'Meetup agenda for two talks on dependency injection in object-oriented design, with Sergey Kapralov challenging common DI container claims and Yegor Bugayenko speaking on injecting less.'
 tags: ["dependency-injection", "object-oriented-programming", "meetup"]

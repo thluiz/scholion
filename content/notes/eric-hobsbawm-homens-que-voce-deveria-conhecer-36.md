@@ -1,6 +1,6 @@
 ---
 title: "Homens que você deveria conhecer #36 | Eric Hobsbawm"
-date: '2026-11-16T16:57:09+00:00'
+date: '2020-02-22T12:12:03+00:00'
 category: webclip
 summary: 'Perfil de Eric Hobsbawm como historiador marxista, ligado à história social e às relações entre passado, memória e sociedade, com obras sobre o século XX, jazz, rebelião e história vista de baixo.'
 tags: ["eric-hobsbawm", "historia-social", "marxismo"]

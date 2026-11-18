@@ -1,6 +1,6 @@
 ---
 title: "SOLID Database Design With PostgreSQL"
-date: '2026-11-16T16:52:41+00:00'
+date: '2020-02-22T12:12:03+00:00'
 category: webclip
 summary: 'The piece summarizes Chris Travers’s ideas on applying SOLID principles to relational databases, especially PostgreSQL table inheritance, functions, triggers, and views to shape flexible database APIs.'
 tags: ["postgresql", "database-design", "solid-principles", "table-inheritance"]

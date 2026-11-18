@@ -1,6 +1,6 @@
 ---
 title: "How to Maximize Reusability For Your React Components"
-date: '2026-11-16T19:43:41+00:00'
+date: '2020-04-18T11:20:20+00:00'
 category: webclip
 summary: 'The article shows how a React list component becomes more reusable by narrowing props, renaming variables, splitting subcomponents, and exposing render props and component overrides.'
 tags: ["react", "reusability", "render-props", "component-design"]

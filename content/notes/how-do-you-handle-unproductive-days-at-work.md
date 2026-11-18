@@ -1,6 +1,6 @@
 ---
 title: "How do you handle unproductive days at work?"
-date: '2026-11-16T18:42:33+00:00'
+date: '2019-06-25T03:37:58+00:00'
 category: webclip
 summary: 'The thread gathers ways to handle low-motivation workdays, from tiny tasks and short breaks to naps, food, movement, music, and, when needed, stopping work for the day.'
 tags: ["productivity", "work", "burnout", "mental-health"]

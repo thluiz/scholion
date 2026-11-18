@@ -1,6 +1,6 @@
 ---
 title: "The Codeless Code: Case 15 Immutable"
-date: '2026-11-16T19:46:20+00:00'
+date: '2020-04-19T06:29:13+00:00'
 category: webclip
 summary: 'A novice learns why Strings are immutable, then overgeneralizes the lesson and makes every class immutable, forcing large constructors and awkward object creation.'
 tags: ["java", "immutability", "object-design"]

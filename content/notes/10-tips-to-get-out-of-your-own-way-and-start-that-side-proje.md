@@ -1,6 +1,6 @@
 ---
 title: "10 Tips To Get Out Of Your Own Way And Start That Side Project"
-date: '2026-11-16T20:00:28+00:00'
+date: '2020-05-06T11:14:20+00:00'
 category: webclip
 summary: 'The post argues that starting and finishing matter more than overthinking, and offers practical habits for moving a side project forward: choose an intuition-based idea, avoid tool and style distractions, and keep momentum.'
 tags: ["side-projects", "productivity", "software-development"]

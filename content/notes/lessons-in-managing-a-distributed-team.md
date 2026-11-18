@@ -1,6 +1,6 @@
 ---
 title: "Lessons in Managing a Distributed Team"
-date: '2026-11-16T19:10:47+00:00'
+date: '2019-11-02T10:08:07+00:00'
 category: webclip
 summary: 'The article argues that distributed teams work well for open source companies, but only if back-office operations, transparent decision-making, and intentional offsite gatherings are handled carefully.'
 tags: ["distributed-teams", "remote-work", "open-source", "management"]

@@ -1,6 +1,6 @@
 ---
 title: "A Unicorn Lost in the Valley, Evernote Blows Up the ‘Fail Fast’ Gospel"
-date: '2026-11-18T11:45:41+00:00'
+date: '2019-06-29T11:38:03+00:00'
 category: webclip
 summary: 'Profile of Evernote’s slide from hyped unicorn and lifestyle brand into a long, difficult turnaround, challenging Silicon Valley’s “fail fast” narrative and hypergrowth model.'
 tags: ["startups", "silicon-valley", "evernote", "venture-capital"]

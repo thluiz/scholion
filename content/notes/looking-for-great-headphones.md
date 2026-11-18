@@ -1,6 +1,6 @@
 ---
 title: "Looking for Great Headphones"
-date: '2026-11-16T19:12:35+00:00'
+date: '2019-11-15T10:31:12+00:00'
 category: webclip
 summary: 'The author says they are moving from cheap headphones to a higher-end pair with Bluetooth, noise canceling, good sound, and a built-in microphone, with a budget up to 350 USD.'
 tags: ["headphones", "bluetooth", "noise-canceling", "audio"]

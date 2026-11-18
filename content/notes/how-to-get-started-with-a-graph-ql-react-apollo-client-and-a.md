@@ -1,6 +1,6 @@
 ---
 title: "How to Get Started With a Graph QL, React, Apollo Client, and Apollo Server App"
-date: '2026-11-16T19:34:35+00:00'
+date: '2020-04-11T10:36:03+00:00'
 category: webclip
 summary: 'The article explains GraphQL basics, then builds a simple Apollo Server backend with typeDefs, resolvers, queries, and mutations over a fake task list, ending with a pointer to the React and Apollo Client frontend in part two.'
 tags: ["graphql", "apollo-server", "react", "apollo-client"]

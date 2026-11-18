@@ -1,6 +1,6 @@
 ---
 title: "The Ultimate Guide to Todoist"
-date: '2026-11-16T15:48:14+00:00'
+date: '2020-04-20T21:22:45+00:00'
 category: webclip
 summary: 'Todoist is presented as a system for turning goals into action by capturing tasks, scheduling them, organizing them into projects, and using reminders, filters, labels, and integrations.'
 tags: ["todoist", "task-management", "productivity", "organization"]

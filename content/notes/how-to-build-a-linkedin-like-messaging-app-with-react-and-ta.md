@@ -1,6 +1,6 @@
 ---
 title: "How to build a LinkedIn-like Messaging App with React and TalkJS - Part 1"
-date: '2026-11-16T19:17:26+00:00'
+date: '2019-12-24T23:27:35+00:00'
 category: webclip
 summary: 'The tutorial shows how to set up a React app for a LinkedIn-like messaging experience, with a login form, a My Network page, and local storage for the current user before adding TalkJS chat in part 2.'
 tags: ["react", "talkjs", "messaging-app"]

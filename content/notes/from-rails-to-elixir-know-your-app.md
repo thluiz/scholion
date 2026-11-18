@@ -1,6 +1,6 @@
 ---
 title: "From Rails to Elixir: Know Your App"
-date: '2026-11-16T19:33:22+00:00'
+date: '2020-04-10T16:58:25+00:00'
 category: webclip
 summary: 'The author explains how a price tracker built in Rails was easy to ship but costly to run, then argues for understanding workload patterns, concurrency, and memory use before choosing Elixir for a rewrite.'
 tags: ["rails", "elixir", "concurrency", "migration"]

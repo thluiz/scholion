@@ -1,6 +1,6 @@
 ---
 title: "Some Of My Favorite Ruby Gems"
-date: '2026-11-16T19:21:11+00:00'
+date: '2019-12-29T16:34:17+00:00'
 category: webclip
 summary: 'A list of Ruby gems the author recommends for Rails projects, covering authentication, permissions, charts, SEO, debugging, payments, background jobs, pagination, and scheduling.'
 tags: ["ruby-gems", "ruby-on-rails", "web-development"]

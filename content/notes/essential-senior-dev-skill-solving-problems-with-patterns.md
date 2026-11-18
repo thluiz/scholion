@@ -1,6 +1,6 @@
 ---
 title: "Essential Senior Dev Skill: Solving Problems With Patterns"
-date: '2026-11-16T18:54:08+00:00'
+date: '2019-07-03T10:36:54+00:00'
 category: webclip
 summary: 'The article argues that senior developers recognize problems as patterns solved elsewhere, and that this mindset helps them choose better fixes across software and other domains.'
 tags: ["senior-developer", "design-patterns", "systems-thinking"]

@@ -1,6 +1,6 @@
 ---
 title: "dsa.js: Data Structures and Algorithms in JavaScript"
-date: '2026-11-16T19:58:45+00:00'
+date: '2020-05-07T18:17:34+00:00'
 category: webclip
 summary: 'Repository with the code for the DSA.js book and NPM package, covering Big O, linear and non-linear data structures, and algorithm techniques in JavaScript.'
 tags: ["data-structures", "algorithms", "javascript", "big-o"]

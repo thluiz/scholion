@@ -1,6 +1,6 @@
 ---
 title: "My opinionated & minimalist JavaScript full-stack starter-kit"
-date: '2026-11-16T18:51:57+00:00'
+date: '2019-07-01T11:40:01+00:00'
 category: webclip
 summary: 'The author presents a minimalist JavaScript full-stack boilerplate built from experience with several architecture setups, centered on Node.js, Express, MongoDB, Mongoose, Swagger, React, Babel, Docker, and a monorepo structure.'
 tags: ["javascript", "starter-kit", "full-stack", "docker"]

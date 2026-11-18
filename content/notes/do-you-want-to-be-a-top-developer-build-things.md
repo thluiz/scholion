@@ -1,6 +1,6 @@
 ---
 title: "Do you want to be a Top Developer? You Must Build Things! - 7 Apps to Build"
-date: '2026-11-16T19:08:04+00:00'
+date: '2019-07-19T09:43:20+00:00'
 category: webclip
 summary: 'The post argues that becoming a top developer comes from discipline and doing, then uses seven project ideas to show how building real apps helps practice fundamentals and learn a stack.'
 tags: ["software-development", "personal-projects", "coding-practice", "project-ideas"]

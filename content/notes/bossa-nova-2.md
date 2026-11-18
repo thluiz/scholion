@@ -1,6 +1,6 @@
 ---
 title: "Bossa Nova"
-date: '2026-11-16T16:22:39+00:00'
+date: '2019-10-26T08:25:26+00:00'
 category: webclip
 summary: 'A Bossa Nova é um movimento da música popular brasileira do fim dos anos 50, marcado pela mistura de samba carioca e jazz norte-americano e consolidado por João Gilberto em 1958.'
 tags: ["bossa-nova", "musica-popular-brasileira", "jazz", "samba-carioca"]

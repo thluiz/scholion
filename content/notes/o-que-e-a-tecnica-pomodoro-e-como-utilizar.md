@@ -1,6 +1,6 @@
 ---
 title: "O que é a técnica Pomodoro e como utilizar"
-date: '2026-11-16T16:45:34+00:00'
+date: '2020-02-22T12:12:03+00:00'
 category: webclip
 summary: 'O texto explica a técnica Pomodoro como blocos de 25 minutos de trabalho com pausas curtas, criados no fim dos anos 1980 para reduzir distrações. Também mostra como usá-la no dia a dia.'
 tags: ["pomodoro", "produtividade", "gestao-de-tempo"]

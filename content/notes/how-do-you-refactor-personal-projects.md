@@ -1,6 +1,6 @@
 ---
 title: "How do you refactor personal projects?"
-date: '2026-11-16T19:22:37+00:00'
+date: '2019-12-29T16:36:30+00:00'
 category: webclip
 summary: 'The post asks whether personal projects should be refactored at all, weighing the value of adding features and showing new skills against spending time learning those skills instead.'
 tags: ["refactoring", "personal-projects", "skill-building"]

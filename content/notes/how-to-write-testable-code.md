@@ -1,6 +1,6 @@
 ---
 title: "How to write testable code"
-date: '2026-11-16T19:06:55+00:00'
+date: '2019-07-18T05:40:07+00:00'
 category: webclip
 summary: 'The page shows how injecting dependencies makes a class easier to unit test, more loosely coupled, and easier to extend, using a PHP account state transition example.'
 tags: ["unit-testing", "dependency-injection", "loosely-coupled-code", "mockery"]

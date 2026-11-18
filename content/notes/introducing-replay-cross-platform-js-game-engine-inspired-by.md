@@ -1,6 +1,6 @@
 ---
 title: "Introducing Replay: a cross-platform JS game engine inspired by React"
-date: '2026-11-16T20:03:03+00:00'
+date: '2020-05-04T11:23:30+00:00'
 category: webclip
 summary: 'The post introduces Replay, an open-source library for making games that applies React-like ideas to state, rendering, and a declarative API, with docs for JavaScript or TypeScript projects and web or iOS deployment.'
 tags: ["javascript", "game-development", "react", "open-source"]

@@ -1,6 +1,6 @@
 ---
 title: "Creating New Concepts With Design Thinking"
-date: '2026-11-16T17:53:59+00:00'
+date: '2017-07-11T18:07:39+00:00'
 category: webclip
 summary: 'The article explains design thinking as a solution-based method for complex problems and focuses on ideation. It outlines six ways teams can generate ideas and ends with core principles to keep in mind.'
 tags: ["design-thinking", "ideation", "brainstorming", "innovation"]

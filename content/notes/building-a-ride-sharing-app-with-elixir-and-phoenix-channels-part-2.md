@@ -1,6 +1,6 @@
 ---
 title: "Building a Ride Sharing App with Elixir and Phoenix Channels — Part 2"
-date: '2026-11-16T17:51:39+00:00'
+date: '2020-07-05T14:10:40+00:00'
 category: webclip
 summary: 'The tutorial moves from authentication to the app’s main feature: real-time matching between drivers and riders. It introduces Phoenix Channels, sockets, websockets, and topic-based message routing.'
 tags: ["elixir", "phoenix-channels", "websockets", "ride-sharing"]

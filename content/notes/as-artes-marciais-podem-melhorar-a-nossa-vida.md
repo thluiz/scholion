@@ -1,6 +1,6 @@
 ---
 title: "As artes marciais podem melhorar a nossa vida?"
-date: '2026-11-16T16:44:35+00:00'
+date: '2020-02-22T12:12:03+00:00'
 category: webclip
 summary: 'O texto discute se o treino de artes marciais pode ir além da saúde física e ajudar a melhorar relações, equilíbrio emocional e o modo de agir no mundo, citando falas de praticantes e mestres.'
 tags: ["artes-marciais", "relacoes", "equilibrio-emocional", "wing-chun"]

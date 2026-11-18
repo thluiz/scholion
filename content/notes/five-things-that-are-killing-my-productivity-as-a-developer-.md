@@ -1,6 +1,6 @@
 ---
 title: "Five things that are killing my productivity as a developer (and how to potentially fix them)"
-date: '2026-11-16T19:47:08+00:00'
+date: '2020-04-19T06:41:19+00:00'
 category: webclip
 summary: 'The author links drops in productivity to team practices: ill-timed reviews, poorly planned meetings, broken environments, constant priority switches, and micromanagement. He argues for better communication and planning.'
 tags: ["productivity", "teamwork", "communication", "engineering"]

@@ -1,6 +1,6 @@
 ---
 title: "The Fundamental Philosophy of Debugging"
-date: '2026-11-16T17:02:55+00:00'
+date: '2017-07-19T19:41:08+00:00'
 category: webclip
 summary: 'The post argues that debugging starts by admitting you do not know the cause, then gathering data, comparing it with expected behavior, and fixing the cause rather than the symptoms.'
 tags: ["debugging", "software-development", "problem-solving"]

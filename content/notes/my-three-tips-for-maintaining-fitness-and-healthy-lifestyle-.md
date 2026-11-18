@@ -1,6 +1,6 @@
 ---
 title: "My three tips for maintaining fitness and a healthy lifestyle as a software developer"
-date: '2026-11-16T17:01:57+00:00'
+date: '2017-07-11T20:19:17+00:00'
 category: webclip
 summary: 'The author argues that software developers stay more consistent with exercise when they frame it as helping the mind, use habit cues to replace bad routines, and pair workouts with podcasts or audiobooks.'
 tags: ["fitness", "healthy-habits", "software-development", "podcasts"]

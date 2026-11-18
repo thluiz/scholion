@@ -1,6 +1,6 @@
 ---
 title: "Using HTML, CSS, and JavaScript to Create OBS Plugins for Your Live Streaming Sessions"
-date: '2026-11-16T19:38:55+00:00'
+date: '2020-04-13T02:40:14+00:00'
 category: webclip
 summary: 'The author explores using OBS''s Browser source to build plugins with HTML, CSS, and JavaScript instead of C++. He shares a Preact and HTM template that runs from a local web server and supports live reloading.'
 tags: ["obs", "browser-source", "preact", "javascript"]

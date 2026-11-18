@@ -1,6 +1,6 @@
 ---
 title: "Coding is 30% of the Job"
-date: '2026-11-16T19:19:28+00:00'
+date: '2019-12-29T01:34:00+00:00'
 category: webclip
 summary: 'The article argues that software work depends less on coding than on business knowledge, domain awareness, communication, and decision making, all of which make a developer more effective.'
 tags: ["software-development", "productivity", "communication", "decision-making"]

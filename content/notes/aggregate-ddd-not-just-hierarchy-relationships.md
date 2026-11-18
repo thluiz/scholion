@@ -1,6 +1,6 @@
 ---
 title: "Aggregate (DDD) isn’t hierarchy & relationships"
-date: '2026-11-16T20:19:50+00:00'
+date: '2023-10-24T14:26:35+00:00'
 category: webclip
 summary: 'Argues that aggregates in DDD should be designed around behavior, invariants, and consistency boundaries, not around entity hierarchies and data relationships alone.'
 tags: ["ddd", "aggregates", "cqrs", "software-architecture"]

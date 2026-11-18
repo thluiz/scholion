@@ -1,6 +1,6 @@
 ---
 title: "Why Writing Blog Posts Sucks (and doesn't suck!)"
-date: '2026-11-16T19:31:17+00:00'
+date: '2020-04-08T17:06:32+00:00'
 category: webclip
 summary: 'A career changer says writing blog posts feels scary because of self-doubt and judgment, but publishing can help you learn, connect with developers, and find opportunities.'
 tags: ["blogging", "career-change", "developer-community"]

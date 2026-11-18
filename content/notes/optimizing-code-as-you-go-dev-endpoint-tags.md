@@ -1,6 +1,6 @@
 ---
 title: "Optimizing Code as You Go"
-date: '2026-11-16T20:10:32+00:00'
+date: '2020-06-02T21:45:35+00:00'
 category: webclip
 summary: 'Author shows how small, proactive optimizations on a heavily used endpoint, such as avoiding duplicate tag data and extra DB calls, can prevent future slowdowns and rework.'
 tags: ["performance", "refactoring", "backend", "scalability"]

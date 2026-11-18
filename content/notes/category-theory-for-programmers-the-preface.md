@@ -1,6 +1,6 @@
 ---
 title: "Category Theory for Programmers: The Preface"
-date: '2026-11-16T18:48:51+00:00'
+date: '2019-06-30T10:31:15+00:00'
 category: webclip
 summary: 'The preface argues that category theory is useful for programmers because it centers on composable structure, helps explain functional ideas, and can be introduced with informal reasoning supported by real math.'
 tags: ["category-theory", "programming", "composition", "functional-programming"]

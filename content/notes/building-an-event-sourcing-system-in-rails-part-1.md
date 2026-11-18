@@ -1,6 +1,6 @@
 ---
 title: "Building an Event Sourcing System in Rails, Part 1: What is Event Sourcing?"
-date: '2026-11-16T19:50:08+00:00'
+date: '2020-04-21T16:44:05+00:00'
 category: webclip
 summary: 'Event Sourcing stores every data change as an immutable event, keeps events in chronological order, and uses them as the source of truth to rebuild system state later.'
 tags: ["event-sourcing", "rails", "immutable-events", "version-control"]

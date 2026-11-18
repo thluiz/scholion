@@ -1,6 +1,6 @@
 ---
 title: "9 ways to level up your browser devtool skills"
-date: '2026-11-16T19:35:11+00:00'
+date: '2020-04-11T11:17:22+00:00'
 category: webclip
 summary: 'A short list of Chrome DevTools features for web development, including color inspection, animation editing, shadow tuning, coverage, rendering, dark mode emulation, sensors, and keyboard shortcuts.'
 tags: ["chrome-devtools", "web-development", "browser-tools"]

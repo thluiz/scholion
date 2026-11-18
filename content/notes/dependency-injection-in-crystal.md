@@ -1,6 +1,6 @@
 ---
 title: "Dependency Injection in Crystal"
-date: '2026-11-16T19:09:24+00:00'
+date: '2019-07-30T02:35:30+00:00'
 category: webclip
 summary: 'The article shows how DI in Crystal and Athena makes code easier to test, extend, and reuse through manager objects, swappable writers, and shared request-scoped data.'
 tags: ["dependency-injection", "crystal", "athena"]

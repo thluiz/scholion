@@ -1,6 +1,6 @@
 ---
 title: "Development environment for Elixir + Phoenix with Docker and Docker-compose"
-date: '2026-11-16T15:43:31+00:00'
+date: '2020-08-26T19:31:14+00:00'
 category: webclip
 summary: 'The post shows how to set up a hot-reloaded local development environment for Elixir and Phoenix with Docker, Docker-compose, a Postgres service, and container-based database configuration.'
 tags: ["elixir", "phoenix", "docker", "docker-compose"]

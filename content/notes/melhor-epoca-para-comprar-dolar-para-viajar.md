@@ -1,6 +1,6 @@
 ---
 title: "Qual é a melhor época para comprar dólar pra viajar?"
-date: '2026-11-16T15:50:22+00:00'
+date: '2020-02-22T12:11:50+00:00'
 category: webclip
 summary: 'O texto diz que não há época certeira para comprar dólar e recomenda planejar cedo, comprar aos poucos, comparar meios de pagamento e pesquisar preços entre casas de câmbio.'
 tags: ["dolar", "viagem", "cambio", "planejamento-financeiro"]

@@ -1,6 +1,6 @@
 ---
 title: "Honest advice to ace the hardest remote work interview (at Toptal)"
-date: '2026-11-16T20:05:53+00:00'
+date: '2020-05-02T12:06:10+00:00'
 category: webclip
 summary: 'The post says Toptal’s screening is demanding and recommends researching the process, practicing English, preparing algorithms, and treating the final project as proof of role-specific skill.'
 tags: ["toptal", "remote-work", "interviews", "algorithms"]

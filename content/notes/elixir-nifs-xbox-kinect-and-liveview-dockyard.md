@@ -1,6 +1,6 @@
 ---
 title: "Elixir, NIFs, Xbox Kinect, and LiveView"
-date: '2026-11-16T19:58:00+00:00'
+date: '2020-05-12T10:30:37+00:00'
 category: webclip
 summary: 'The post traces how Kinext was built to connect an Xbox Kinect to Elixir through Erlang NIFs, then expose it in a simple Phoenix LiveView demo app.'
 tags: ["elixir", "nifs", "phoenix-liveview", "kinect"]

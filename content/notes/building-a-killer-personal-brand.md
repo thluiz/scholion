@@ -1,6 +1,6 @@
 ---
 title: "Building A Killer Personal Brand"
-date: '2026-11-16T18:46:35+00:00'
+date: '2019-06-27T08:22:33+00:00'
 category: webclip
 summary: 'The article defines personal branding as the mark around your name or career and argues it helps with career growth, purpose, self-awareness, and opportunities when paired with consistency and shared knowledge.'
 tags: ["personal-branding", "career-growth", "community", "content-sharing"]

@@ -1,6 +1,6 @@
 ---
 title: "It’s OK to be pragmatic (with a little help from the “crazy ones”)"
-date: '2026-11-16T15:46:13+00:00'
+date: '2020-08-26T19:31:22+00:00'
 category: webclip
 summary: 'The author says pragmatism helps with day-to-day work, but long-term growth needs big thinking, discomfort, and people who challenge your habits with different ideas.'
 tags: ["pragmatism", "professional-growth", "creativity", "collaboration"]

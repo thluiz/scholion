@@ -1,6 +1,6 @@
 ---
 title: "Defining Technical Debt"
-date: '2026-11-16T19:16:22+00:00'
+date: '2019-12-24T23:23:06+00:00'
 category: webclip
 summary: 'The article defines technical debt as code that costs more to maintain than it should, and explains its causes, strategic use, and long-term effects through several metaphors.'
 tags: ["technical-debt", "software-maintenance", "code-quality", "engineering-leadership"]

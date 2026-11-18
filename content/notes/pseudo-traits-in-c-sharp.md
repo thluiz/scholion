@@ -1,6 +1,6 @@
 ---
 title: "Pseudo Traits in C#"
-date: '2026-11-16T19:09:54+00:00'
+date: '2019-09-05T17:00:58+00:00'
 category: webclip
 summary: 'The post shows how C# 8.0 default interface implementations inspired a trait-like pattern in C# 7.0 using marker interfaces and extension methods, letting empty classes gain behavior by implementing the right interfaces.'
 tags: ["csharp", "traits", "interfaces", "extension-methods"]

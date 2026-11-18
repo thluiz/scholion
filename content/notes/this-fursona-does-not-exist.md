@@ -1,6 +1,6 @@
 ---
 title: "This Fursona Does Not Exist"
-date: '2026-11-16T19:59:43+00:00'
+date: '2020-05-06T20:31:03+00:00'
 category: webclip
 summary: 'The page presents a grid viewer for generated fursona images and gives keyboard and mouse controls for navigating, pausing, zooming, and opening images.'
 tags: ["generated-images", "grid-viewer", "fursona"]

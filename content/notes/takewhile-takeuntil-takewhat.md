@@ -1,6 +1,6 @@
 ---
 title: "takeWhile, takeUntil, takeWhat?"
-date: '2026-11-16T19:37:30+00:00'
+date: '2020-04-13T02:39:29+00:00'
 category: webclip
 summary: 'The post contrasts takeWhile and takeUntil in RxJS, showing that takeWhile depends on incoming values while takeUntil is driven by an external Observable, and that both should usually be last in the pipeline.'
 tags: ["rxjs", "takewhile", "takeuntil", "observables"]

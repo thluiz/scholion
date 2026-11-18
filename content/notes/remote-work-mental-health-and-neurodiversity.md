@@ -1,6 +1,6 @@
 ---
 title: "Remote Work, Mental Health and Neurodiversity"
-date: '2026-11-16T19:14:15+00:00'
+date: '2019-11-19T12:00:26+00:00'
 category: webclip
 summary: 'The author argues that remote work supports accessibility and inclusion by giving neurodivergent people more mental space, better pacing, and fewer meeting pressures, especially when teams use good processes and documentation.'
 tags: ["remote-work", "mental-health", "neurodiversity", "accessibility"]

@@ -1,6 +1,6 @@
 ---
 title: "10 rules of a successful meeting in a tech company"
-date: '2026-11-16T19:10:24+00:00'
+date: '2019-11-02T09:58:45+00:00'
 category: webclip
 summary: 'The post lists ten meeting habits that improve clarity, focus, and follow-through: share an agenda early, name an owner, bring a draft, stay off devices, define the meeting type, record notes, and avoid unnecessary meetings.'
 tags: ["meetings", "team-collaboration", "productivity", "communication"]

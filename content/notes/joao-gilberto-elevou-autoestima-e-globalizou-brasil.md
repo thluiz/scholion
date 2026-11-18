@@ -1,6 +1,6 @@
 ---
 title: "Análise: João Gilberto elevou nossa autoestima e transformou o Brasil em global"
-date: '2026-11-16T19:01:03+00:00'
+date: '2019-07-07T15:52:46+00:00'
 category: webclip
 summary: 'O texto afirma que João Gilberto foi o maior nome da cultura brasileira porque renovou o canto e o violão, criou a bossa nova e projetou uma imagem do Brasil que passou a circular no mundo.'
 tags: ["joao-gilberto", "bossa-nova", "musica-brasileira", "cultura-brasileira"]

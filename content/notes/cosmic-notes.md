@@ -1,6 +1,6 @@
 ---
 title: "Cosmic Notes"
-date: '2026-11-16T18:55:10+00:00'
+date: '2019-07-04T11:04:40+00:00'
 category: webclip
 summary: 'A collection of short Cosmos DB notes covering request units, partitioning, indexing, consistency, global distribution, change feed, performance, and common build patterns.'
 tags: ["cosmos-db", "azure", "distributed-systems"]

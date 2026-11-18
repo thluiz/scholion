@@ -1,6 +1,6 @@
 ---
 title: "What I've Learned After 3 Months Writing on DEV"
-date: '2026-11-16T19:50:54+00:00'
+date: '2020-04-21T16:59:50+00:00'
 category: webclip
 summary: 'The author shares what helped their DEV posts get engagement, from timing and tags to the Manage tools, tweet suggestions, images, embeds, series, and clearer headlines.'
 tags: ["dev", "writing-tips", "webdev", "content-strategy"]

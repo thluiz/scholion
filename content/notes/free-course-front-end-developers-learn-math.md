@@ -1,6 +1,6 @@
 ---
 title: "Here's a Free Course to Help Front End Developers Learn Math"
-date: '2026-11-16T20:06:27+00:00'
+date: '2020-05-27T10:54:30+00:00'
 category: webclip
 summary: 'The page announces Scrimba''s free Practical Math for Front-End Developers course and outlines three projects that use math, Date, reduce, CSS calc(), and layout work in front-end apps.'
 tags: ["front-end", "math", "javascript", "css"]

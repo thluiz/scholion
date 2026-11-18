@@ -1,6 +1,6 @@
 ---
 title: "Enforcing code quality in Elixir"
-date: '2026-11-16T18:55:36+00:00'
+date: '2019-07-04T11:04:40+00:00'
 category: webclip
 summary: 'The article sets up a Mix alias for Elixir projects that runs format, Credo, Sobelow, Dialyzer, and tests locally and in CI, with warnings treated as errors.'
 tags: ["elixir", "code-quality", "dialyzer", "credo"]

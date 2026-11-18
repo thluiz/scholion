@@ -1,6 +1,6 @@
 ---
 title: "Vim: from foe to friend in 9 minutes"
-date: '2026-11-16T18:56:09+00:00'
+date: '2019-07-06T08:49:47+00:00'
 category: webclip
 summary: 'The author argues that Vim is worth learning because it is always available, fast, customizable, lightweight, and rewarding once the basic motions and habits are mastered.'
 tags: ["vim", "productivity", "text-editing"]

@@ -1,6 +1,6 @@
 ---
 title: "How to build a web crawler with Node"
-date: '2026-11-16T19:24:00+00:00'
+date: '2019-12-30T08:21:05+00:00'
 category: webclip
 summary: 'The article shows how to build a Node.js crawler with Axios, Cheerio, worker threads, and Firebase. It fetches exchange-rate HTML, extracts table data, and stores it in Firestore.'
 tags: ["nodejs", "web-crawler", "worker-threads", "firebase"]

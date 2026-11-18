@@ -1,6 +1,6 @@
 ---
 title: "Dual Screen SDK for Surface Duo with Xamarin.Forms"
-date: '2026-11-16T15:48:49+00:00'
+date: '2020-02-22T12:11:49+00:00'
 category: webclip
 summary: 'The page shows XAML for a Xamarin.Forms dual-screen layout using TwoPaneView, a CarouselView for slide content, and a CollectionView of indicators wired to carousel selection.'
 tags: ["xamarin-forms", "surface-duo", "dual-screen", "xaml"]

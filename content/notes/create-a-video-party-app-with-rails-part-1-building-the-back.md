@@ -1,6 +1,6 @@
 ---
 title: "Create a Video Party App With Rails Part 1: Building the Backend"
-date: '2026-11-16T19:56:04+00:00'
+date: '2020-05-14T11:41:27+00:00'
 category: webclip
 summary: 'The article outlines the Rails backend for a video watch party app, including routes, a Session model, controller actions, shared site configuration, and ERB views wired to Vonage Video API credentials.'
 tags: ["rails", "vonage-video-api", "backend", "ruby"]

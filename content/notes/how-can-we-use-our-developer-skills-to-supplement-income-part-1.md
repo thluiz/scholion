@@ -1,6 +1,6 @@
 ---
 title: "How can we use our developer skills to supplement income? - Part 1"
-date: '2026-11-16T16:20:58+00:00'
+date: '2020-02-22T12:11:43+00:00'
 category: webclip
 summary: 'The post says there is no shortcut to supplementing income with developer skills. It focuses on short-term paths, especially building a product or service to sell and starting a consulting firm.'
 tags: ["developer-skills", "side-income", "consulting", "product-development"]

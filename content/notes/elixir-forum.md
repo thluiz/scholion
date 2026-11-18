@@ -1,6 +1,6 @@
 ---
 title: "Elixir Forum"
-date: '2026-11-16T20:03:39+00:00'
+date: '2020-05-04T11:13:18+00:00'
 category: webclip
 summary: 'A community forum for Elixir users, centered on release announcements, technical discussions, and recurring topics like Phoenix, Hex, tooling, and community projects.'
 tags: ["elixir", "forum", "phoenix", "hex"]

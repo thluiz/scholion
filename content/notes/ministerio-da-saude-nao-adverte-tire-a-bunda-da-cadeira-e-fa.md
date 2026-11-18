@@ -1,6 +1,6 @@
 ---
 title: "Ministério da saúde (não) adverte: tire a bunda da cadeira e faça qualquer coisa"
-date: '2026-11-16T16:46:36+00:00'
+date: '2020-02-22T12:12:03+00:00'
 category: webclip
 summary: 'O texto compara sedentarismo ao tabagismo e diz que a inatividade física causa grande parte do fardo de doenças e mortes no mundo. A recomendação final é simples: sair da cadeira e se exercitar.'
 tags: ["sedentarismo", "atividade-fisica", "saude-publica"]

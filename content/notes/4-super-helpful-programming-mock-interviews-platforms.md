@@ -1,6 +1,6 @@
 ---
 title: "4 Super Helpful Programming Mock Interviews Platforms"
-date: '2026-11-16T19:30:35+00:00'
+date: '2020-04-08T17:03:05+00:00'
 category: webclip
 summary: 'The post argues that practice is what makes interview knowledge stick and compares four mock interview platforms, highlighting their formats, pricing, feedback, and focus areas.'
 tags: ["mock-interviews", "programming-practice", "interview-prep", "software-engineering"]

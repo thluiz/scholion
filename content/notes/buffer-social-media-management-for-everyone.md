@@ -1,6 +1,6 @@
 ---
 title: "Buffer: Social media management for everyone"
-date: '2026-11-16T18:42:59+00:00'
+date: '2019-06-25T05:59:44+00:00'
 category: webclip
 summary: 'Buffer describes a social media workspace for publishing, creating, replying, and tracking posts across major platforms, with collaboration tools, mobile access, AI help, and support for AI-driven planning and posting.'
 tags: ["social-media-management", "content-publishing", "ai-assistant", "team-collaboration"]

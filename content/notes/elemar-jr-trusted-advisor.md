@@ -1,6 +1,6 @@
 ---
 title: "elemar Jr. | Trusted Advisor"
-date: '2026-11-16T19:45:45+00:00'
+date: '2020-04-19T06:22:04+00:00'
 category: webclip
 summary: 'A página posiciona Elemar Jr. como consultor, mentor e palestrante que conecta tecnologia e negócio, defende a tecnologia como habilitadora e destaca sua atuação em formação, livros e insights.'
 tags: ["technology-and-business", "consulting", "software-architecture"]

@@ -1,6 +1,6 @@
 ---
 title: "How ownership can make you a better software engineer"
-date: '2026-11-16T19:48:33+00:00'
+date: '2020-04-19T10:57:47+00:00'
 category: webclip
 summary: 'The article defines ownership as acting with awareness that your work matters to the project, team, and company, and says it leads engineers to learn more, collaborate better, debug more effectively, and earn greater responsibility.'
 tags: ["ownership", "software-engineering", "teamwork", "debugging"]

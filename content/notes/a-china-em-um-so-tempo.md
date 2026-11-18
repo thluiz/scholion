@@ -1,6 +1,6 @@
 ---
 title: "A China em um só tempo"
-date: '2026-11-16T16:53:26+00:00'
+date: '2020-02-22T12:12:03+00:00'
 category: webclip
 summary: 'A citação de Mao Zedong defende aproveitar a herança antiga e estrangeira como referência, sem deixar que isso substitua o trabalho criativo próprio.'
 tags: ["mao-zedong", "heranca-cultural", "criatividade"]

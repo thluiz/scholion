@@ -1,6 +1,6 @@
 ---
 title: "Drawings from the Desert"
-date: '2026-11-16T18:49:41+00:00'
+date: '2019-06-30T11:52:12+00:00'
 category: webclip
 summary: 'Most drawings in this collection are already sold. Interested buyers can email the studio to get the gallery link, and a special edition calendar includes high-res art prints of some popular ink drawings.'
 tags: ["drawings", "ink-drawings", "calendar"]

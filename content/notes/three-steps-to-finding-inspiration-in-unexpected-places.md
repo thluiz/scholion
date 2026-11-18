@@ -1,6 +1,6 @@
 ---
 title: "Three Steps to Finding Inspiration in Unexpected Places"
-date: '2026-11-16T17:58:06+00:00'
+date: '2020-07-05T14:10:40+00:00'
 category: webclip
 summary: 'The article says creativity comes from connecting existing ideas, then lays out three steps: train divergent thinking, capture and review notes, and add unexpected inputs to spark new links.'
 tags: ["creativity", "divergent-thinking", "idea-capture", "brainwriting"]

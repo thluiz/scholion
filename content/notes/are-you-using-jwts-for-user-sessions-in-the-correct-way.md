@@ -1,6 +1,6 @@
 ---
 title: "Are you using JWTs for user sessions in the correct way?"
-date: '2026-11-16T19:32:12+00:00'
+date: '2020-04-10T01:07:34+00:00'
 category: webclip
 summary: 'The article weighs JWTs against opaque session tokens for backend-frontend user sessions, then argues for short-lived JWTs paired with long-lived opaque refresh tokens to keep scalability while reducing revocation and security issues.'
 tags: ["jwt", "user-sessions", "refresh-tokens", "session-management"]

@@ -1,6 +1,6 @@
 ---
 title: "Poderosas ferramentas de linha de comando para desenvolvedores"
-date: '2026-11-16T16:48:57+00:00'
+date: '2020-02-22T12:12:03+00:00'
 category: webclip
 summary: 'A página apresenta seis ferramentas de linha de comando para depuração, automação, tunelamento seguro, benchmark HTTP e inspeção ou gravação de tráfego web.'
 tags: ["linha-de-comando", "depuracao", "rede", "desenvolvimento-web"]

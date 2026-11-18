@@ -1,6 +1,6 @@
 ---
 title: "7 Vim Tips That Changed My Life (With Demo)"
-date: '2026-11-16T19:49:32+00:00'
+date: '2020-04-19T22:18:52+00:00'
 category: webclip
 summary: 'The post shares small Vim shortcuts and habits the author uses at work, with examples for indentation, window resizing, matching symbols, tabs, and jumping back to a previous file.'
 tags: ["vim", "keyboard-shortcuts", "text-editor"]

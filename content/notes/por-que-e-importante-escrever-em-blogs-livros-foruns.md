@@ -1,6 +1,6 @@
 ---
 title: "Por que é importante escrever em blogs, livros, foruns, …"
-date: '2026-11-16T16:42:20+00:00'
+date: '2020-02-22T12:12:03+00:00'
 category: webclip
 summary: 'O texto defende que escrever gera reconhecimento, networking e oportunidades de trabalho, além de render satisfação quando há leitura e comentários. Também sugere um caminho simples para começar a publicar.'
 tags: ["escrita", "blogs", "livros", "publicacao"]

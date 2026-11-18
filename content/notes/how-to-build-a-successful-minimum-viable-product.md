@@ -1,6 +1,6 @@
 ---
 title: "How to Build a Successful Minimum Viable Product"
-date: '2026-11-16T17:54:24+00:00'
+date: '2017-07-18T20:28:41+00:00'
 category: webclip
 summary: 'The article argues that a successful MVP balances speed and quality through early feedback, analytics, A/B testing, disciplined scope control, and pragmatic use of third-party components.'
 tags: ["minimum-viable-product", "lean-startup", "product-development"]

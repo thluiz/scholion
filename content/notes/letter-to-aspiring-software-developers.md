@@ -1,6 +1,6 @@
 ---
 title: "Letter to aspiring software developers"
-date: '2026-11-16T19:44:07+00:00'
+date: '2020-04-19T06:13:28+00:00'
 category: webclip
 summary: 'The author argues that great developers solve real problems, that character and communication shape careers, and that keeping balance outside coding helps sustain the journey.'
 tags: ["software-development", "career", "communication", "workplace"]

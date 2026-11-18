@@ -1,6 +1,6 @@
 ---
 title: "HTTPie CLI"
-date: '2026-11-16T19:15:46+00:00'
+date: '2019-12-18T09:34:23+00:00'
 category: webclip
 summary: 'HTTPie is a command-line HTTP client for testing, debugging, and interacting with APIs and HTTP servers. It emphasizes natural syntax, colored output, JSON support, sessions, downloads, and plugins.'
 tags: ["http-client", "cli", "api-testing"]

@@ -1,6 +1,6 @@
 ---
 title: "Developing Progressive Web Applications with Angular (and Ionic)"
-date: '2026-11-16T19:51:58+00:00'
+date: '2020-04-23T02:14:26+00:00'
 category: webclip
 summary: 'A hands-on guide for Angular developers to turn an existing web app into an installable PWA, with offline caching, Lighthouse checks, home-screen install, splash screens, and update flows.'
 tags: ["angular", "progressive-web-apps", "typescript", "mobile-app-development"]

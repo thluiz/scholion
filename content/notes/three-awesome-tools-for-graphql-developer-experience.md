@@ -1,6 +1,6 @@
 ---
 title: "Three awesome tools for GraphQL developer experience"
-date: '2026-11-16T19:30:56+00:00'
+date: '2020-04-08T17:03:57+00:00'
 category: webclip
 summary: 'The article highlights three tools that make GraphQL work easier: a playground for exploring APIs, IDE plugins for linting and autocomplete, and Apollo DevTools for inspecting queries, mutations, and cache.'
 tags: ["graphql", "apollo-client", "developer-tools"]

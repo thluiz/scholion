@@ -1,6 +1,6 @@
 ---
 title: "Logging Without a Static Logger"
-date: '2026-11-18T11:58:55+00:00'
+date: '2019-06-30T10:38:37+00:00'
 category: webclip
 summary: 'Argues that static/global loggers complicate testing and user-facing logs, and proposes passing a log object as an injectable dependency instead.'
 tags: ["logging", "object-oriented-design", "testing"]

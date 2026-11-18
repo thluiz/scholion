@@ -1,6 +1,6 @@
 ---
 title: "Functional Error Handling in .NET With the Result Pattern"
-date: '2026-11-16T20:23:21+00:00'
+date: '2023-12-04T10:03:55+00:00'
 category: webclip
 summary: 'Explains using a Result/Error type for functional error handling in .NET, reserving exceptions for truly exceptional cases and making expected failures explicit and testable.'
 tags: ["dotnet", "error-handling", "functional-programming"]

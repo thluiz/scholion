@@ -1,6 +1,6 @@
 ---
 title: "5 Ways to Improve Communication on a Remote Team"
-date: '2026-11-16T20:15:43+00:00'
+date: '2021-08-07T19:17:01+00:00'
 category: webclip
 summary: 'Article shares five practical tips for smoother communication on remote teams, centering on shared documentation, structured planning, task tracking, check-ins, notes, and open rapport.'
 tags: ["remote-work", "team-communication", "project-management"]

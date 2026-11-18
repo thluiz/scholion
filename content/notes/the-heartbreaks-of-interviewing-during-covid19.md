@@ -1,6 +1,6 @@
 ---
 title: "The Heartbreaks of Interviewing During COVID19"
-date: '2026-11-16T19:39:52+00:00'
+date: '2020-04-15T11:09:50+00:00'
 category: webclip
 summary: 'The author describes how COVID19 disrupted a long job search, led to a rescinded offer and another near-hire, and forced her to keep going after repeated setbacks.'
 tags: ["covid19", "job-search", "interviewing"]

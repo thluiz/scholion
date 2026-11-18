@@ -1,6 +1,6 @@
 ---
 title: "How to Write a Good Blog Post"
-date: '2026-11-16T19:03:53+00:00'
+date: '2019-07-09T08:58:09+00:00'
 category: webclip
 summary: 'The post says good blog writing depends on realistic expectations, a clear goal, knowledge of the audience, an outline, and peer review, plus concise, focused revision.'
 tags: ["blog-writing", "writing-process", "audience", "outlining"]

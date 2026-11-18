@@ -1,6 +1,6 @@
 ---
 title: "Neural Network from Scratch Using Tensorflow"
-date: '2026-11-16T19:47:37+00:00'
+date: '2020-04-19T09:12:29+00:00'
 category: webclip
 summary: 'The article shows a small TensorFlow neural network built from scratch, with random parameter initialization, one hidden layer, MSE loss, gradient descent, and a loop that trains until loss drops under 0.1.'
 tags: ["tensorflow", "neural-networks", "gradient-descent", "machine-learning"]

@@ -1,6 +1,6 @@
 ---
 title: "New in Basecamp: See where projects really stand with the Hill Chart"
-date: '2026-11-16T15:45:01+00:00'
+date: '2019-07-13T11:39:27+00:00'
 category: webclip
 summary: 'Basecamp adds the Hill Chart to show work as unknown, known, and done, using a human judgment of progress instead of a percentage count of tasks.'
 tags: ["basecamp", "project-tracking", "hill-chart"]

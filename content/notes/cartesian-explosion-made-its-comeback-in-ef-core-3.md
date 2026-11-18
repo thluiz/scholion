@@ -1,6 +1,6 @@
 ---
 title: "The Performance Issue „Cartesian Explosion“ Made Its Comeback In Entity Framework Core 3"
-date: '2026-11-16T19:42:41+00:00'
+date: '2020-04-17T10:41:01+00:00'
 category: webclip
 summary: 'The article explains how EF Core 3.0/3.1 reintroduced the Cartesian Explosion problem, why JOINs on one-to-many relationships can replicate rows, and why query splitting can reduce database load.'
 tags: ["entity-framework-core", "cartesian-explosion", "query-splitting"]

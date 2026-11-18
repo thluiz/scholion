@@ -1,6 +1,6 @@
 ---
 title: "The 25 Most-Clicked Links from My Newsletter in 2018"
-date: '2026-11-16T18:59:29+00:00'
+date: '2019-07-07T15:50:14+00:00'
 category: webclip
 summary: 'Tim Ferriss lists the 25 most-clicked links from his 2018 5-Bullet Friday newsletter, showing which books, tools, articles, apps, and posts drew the most attention from readers.'
 tags: ["newsletter", "most-clicked-links", "tim-ferriss", "reading-list"]

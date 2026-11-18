@@ -1,6 +1,6 @@
 ---
 title: "Are You a Confused Programmer? Learn a Functional Language"
-date: '2026-11-16T19:30:04+00:00'
+date: '2020-04-08T16:36:12+00:00'
 category: webclip
 summary: 'The author says functional languages, especially Haskell, fit confused programmers better because code is more self-contained, state is clearer, and pattern matching makes data and intent easier to read.'
 tags: ["functional-programming", "haskell", "go", "pattern-matching"]

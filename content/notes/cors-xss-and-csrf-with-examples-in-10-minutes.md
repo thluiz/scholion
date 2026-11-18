@@ -1,6 +1,6 @@
 ---
 title: "CORS, XSS and CSRF with examples in 10 minutes"
-date: '2026-11-16T19:18:08+00:00'
+date: '2019-12-25T00:14:21+00:00'
 category: webclip
 summary: 'The article introduces CORS, XSS, and CSRF, shows how each attack works, and explains practical defenses such as server headers, input handling, CSRF tokens, and SameSite cookies.'
 tags: ["cors", "xss", "csrf", "web-security"]

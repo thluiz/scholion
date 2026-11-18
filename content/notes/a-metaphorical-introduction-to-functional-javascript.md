@@ -1,6 +1,6 @@
 ---
 title: "A Metaphorical Introduction to Functional JavaScript"
-date: '2026-11-16T18:43:24+00:00'
+date: '2019-06-25T21:04:31+00:00'
 category: webclip
 summary: 'The post presents Functional JavaScript as a style, not a tool, and explains its core ideas through pure functions, avoiding mutation, declarative code, and higher-order functions.'
 tags: ["functional-javascript", "pure-functions", "higher-order-functions"]

@@ -1,6 +1,6 @@
 ---
 title: "If at first you don't get an answer..."
-date: '2026-11-16T19:53:17+00:00'
+date: '2020-05-15T23:42:55+00:00'
 category: webclip
 summary: 'The post argues that poor timeout and retry settings can break distributed systems, and that fixing them is often a configuration change. It explains connection versus request timeouts, retry limits, backoff, and latency-aware settings.'
 tags: ["microservices", "timeouts", "retries", "distributed-systems"]

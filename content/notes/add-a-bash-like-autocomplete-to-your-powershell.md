@@ -1,6 +1,6 @@
 ---
 title: "Add a Bash-like autocomplete to your PowerShell"
-date: '2026-11-16T19:22:09+00:00'
+date: '2019-12-29T16:35:11+00:00'
 category: webclip
 summary: 'The post shows how to turn on PSReadline in a PowerShell profile so Tab lists completion options and the arrow keys search command history using what you have already typed.'
 tags: ["powershell", "psreadline", "autocomplete"]

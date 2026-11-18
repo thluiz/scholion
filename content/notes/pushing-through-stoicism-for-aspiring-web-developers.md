@@ -1,6 +1,6 @@
 ---
 title: "Pushing Through: Stoicism for Aspiring Web Developers"
-date: '2026-11-16T18:56:51+00:00'
+date: '2019-07-07T09:31:46+00:00'
 category: webclip
 summary: 'The article uses Stoic ideas to help aspiring web developers handle frustration, focus on what they control, avoid indecision, and keep moving through setbacks and career changes.'
 tags: ["stoicism", "web-development", "career-change"]

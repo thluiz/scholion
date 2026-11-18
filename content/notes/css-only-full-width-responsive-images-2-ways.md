@@ -1,6 +1,6 @@
 ---
 title: "CSS-Only Full-Width Responsive Images 2 Ways"
-date: '2026-11-16T19:40:51+00:00'
+date: '2020-04-16T10:24:36+00:00'
 category: webclip
 summary: 'The post compares two CSS ways to make full-width responsive images: `background-size: cover` for background containers and `object-fit: cover` for `img` elements, with notes on support and use cases.'
 tags: ["css", "responsive-images", "background-size", "object-fit"]

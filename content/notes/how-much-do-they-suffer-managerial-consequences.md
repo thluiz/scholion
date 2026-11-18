@@ -1,6 +1,6 @@
 ---
 title: "How Much Do They Suffer?"
-date: '2026-11-18T11:58:19+00:00'
+date: '2019-06-25T21:04:31+00:00'
 category: webclip
 summary: 'Argument that managers must delegate not only tasks but proportional rewards and punishments, so subordinates worry more about results and can’t safely offload responsibility.'
 tags: ["management", "responsibility", "incentives"]

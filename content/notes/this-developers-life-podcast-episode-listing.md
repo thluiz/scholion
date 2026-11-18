@@ -1,6 +1,6 @@
 ---
 title: "This Developer's Life - stories from tech folks sharing their lives"
-date: '2026-11-16T20:22:45+00:00'
+date: '2023-11-12T06:26:21+00:00'
 category: webclip
 summary: 'Landing page for the This Developer''s Life podcast, hosted by Rob Conery and Scott Hanselman, listing episodes that explore developers'' personal stories and themes beyond code.'
 tags: ["podcast", "software-development", "developer-stories"]

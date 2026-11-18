@@ -1,6 +1,6 @@
 ---
 title: "The Right Way to Report a Bug"
-date: '2026-11-16T19:43:00+00:00'
+date: '2020-04-18T11:13:43+00:00'
 category: webclip
 summary: 'The author says bug reports at Zerocracy are paid only when a project architect judges them good enough, and offers psychological tactics to improve the chances of payment.'
 tags: ["bug-reports", "zerocracy", "software-projects"]

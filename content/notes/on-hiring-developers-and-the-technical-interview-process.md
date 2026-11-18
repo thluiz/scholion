@@ -1,6 +1,6 @@
 ---
 title: "On Hiring Developers and the Technical Interview Process"
-date: '2026-11-16T19:12:50+00:00'
+date: '2019-11-16T10:33:04+00:00'
 category: webclip
 summary: 'The post argues for fairer hiring in software by reducing bias, using short and relevant interviews, and treating candidates as equals in a structured process.'
 tags: ["hiring", "technical-interviews", "bias", "diversity"]

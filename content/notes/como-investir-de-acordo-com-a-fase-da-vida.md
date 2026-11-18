@@ -1,6 +1,6 @@
 ---
 title: "Como investir de acordo com a fase da vida"
-date: '2026-11-16T15:47:41+00:00'
+date: '2020-04-20T21:22:44+00:00'
 category: webclip
 summary: 'O texto defende que a escolha dos investimentos pode acompanhar a idade e as metas de cada fase, sempre com reserva de emergência e atenção ao risco, à liquidez e à aposentadoria.'
 tags: ["investimentos", "aposentadoria", "reserva-de-emergencia", "planejamento-financeiro"]

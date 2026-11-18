@@ -1,6 +1,6 @@
 ---
 title: "Awesome Tech Leads"
-date: '2026-11-16T19:51:24+00:00'
+date: '2020-04-23T02:06:01+00:00'
 category: webclip
 summary: 'Lista selecionada de conteúdos sobre liderança técnica, com preferência por recursos em português, organizada por temas como engenharia, produto, gestão, produtividade e onboarding.'
 tags: ["lideranca-tecnica", "engenharia-de-software", "gestao", "produtividade"]

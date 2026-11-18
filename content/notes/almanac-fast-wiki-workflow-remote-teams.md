@@ -1,6 +1,6 @@
 ---
 title: "Almanac | The fastest wiki and workflow tool ever built"
-date: '2026-11-16T20:18:21+00:00'
+date: '2021-07-31T12:40:33+00:00'
 category: webclip
 summary: 'Marketing page for Almanac, a wiki and workflow tool that centralizes docs, reduces meetings and tools, structures collaboration, and integrates with common SaaS apps for secure, controlled knowledge work.'
 tags: ["wiki", "remote-work", "knowledge-management", "collaboration"]

@@ -1,6 +1,6 @@
 ---
 title: "The Best Book to Read as a Developer"
-date: '2026-11-16T18:52:20+00:00'
+date: '2019-07-03T10:36:16+00:00'
 category: webclip
 summary: 'The post argues that Inside the Machine is a strong read for developers because it explains hardware clearly, builds understanding from basics to architecture, and makes the subject engaging.'
 tags: ["inside-the-machine", "software-development", "computer-hardware"]

@@ -1,6 +1,6 @@
 ---
 title: "Mistakes we made adopting event sourcing (and how we recovered)"
-date: '2026-11-16T18:50:35+00:00'
+date: '2019-06-30T23:55:22+00:00'
 category: webclip
 summary: 'The team describes several mistakes made while adopting event sourcing, then explains how they corrected the architecture by separating event history from current state, using direct transactions, and relying on Ports and Adapters.'
 tags: ["event-sourcing", "arquitetura-de-software", "ports-and-adapters", "cqrs"]

@@ -1,6 +1,6 @@
 ---
 title: "Online Art Classes - Syn Studio"
-date: '2026-11-16T19:59:15+00:00'
+date: '2020-05-07T16:55:39+00:00'
 category: webclip
 summary: 'The page presents Syn Studio’s online art classes for drawing, painting, concept art, illustration, and comic-making, with live instruction, recorded videos, personalized feedback, and discounted class bundles.'
 tags: ["online-art-classes", "drawing", "painting", "concept-art"]

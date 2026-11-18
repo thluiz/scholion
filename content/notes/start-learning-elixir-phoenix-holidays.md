@@ -1,6 +1,6 @@
 ---
 title: "How to start leaning Elixir + Phoenix during the holidays"
-date: '2026-11-18T11:44:33+00:00'
+date: '2020-05-12T10:33:23+00:00'
 category: webclip
 summary: 'Author shares beginner-friendly resources and a suggested order to start learning Elixir and Phoenix, focusing on a Udemy bootcamp and short Culttt tutorials.'
 tags: ["elixir", "phoenix", "functional-programming"]

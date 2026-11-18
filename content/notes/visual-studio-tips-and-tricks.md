@@ -1,6 +1,6 @@
 ---
 title: "Visual Studio tips and tricks"
-date: '2026-11-16T18:44:49+00:00'
+date: '2019-06-26T07:34:37+00:00'
 category: webclip
 summary: 'A collection of Visual Studio shortcuts, debugger, solution, editor, and extension tips drawn from the #vstip hashtag, aimed at making common workflows faster and easier.'
 tags: ["visual-studio", "productivity", "debugger", "extensions"]

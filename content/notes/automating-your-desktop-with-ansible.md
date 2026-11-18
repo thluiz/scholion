@@ -1,6 +1,6 @@
 ---
 title: "Automating your desktop with Ansible"
-date: '2026-11-16T20:00:52+00:00'
+date: '2020-05-04T11:30:19+00:00'
 category: webclip
 summary: 'The author explains why he uses Ansible to keep the same desktop configuration across machines, from GNOME preferences and shell tools to installed apps, scripts, and hostname-specific setup.'
 tags: ["ansible", "desktop-configuration", "gnome", "ubuntu"]

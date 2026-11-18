@@ -1,6 +1,6 @@
 ---
 title: "VS Code Cheat-Sheet [PDF + Infographic]"
-date: '2026-11-16T19:33:44+00:00'
+date: '2020-04-11T10:30:36+00:00'
 category: webclip
 summary: 'The page says Visual Studio Code is a highly popular general-purpose IDE and that mastering it can improve productivity. It highlights shortcuts that are both useful and not widely known.'
 tags: ["visual-studio-code", "shortcuts", "productivity"]

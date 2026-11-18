@@ -1,6 +1,6 @@
 ---
 title: "Is Desktop Development Dead? Or Still Worth It?"
-date: '2026-11-16T15:46:42+00:00'
+date: '2020-04-20T21:22:44+00:00'
 category: webclip
 summary: 'The article says desktop development has declined as web and mobile jobs have grown, but it remains relevant for specialized needs, especially in large companies, banks, and some data and AI work.'
 tags: ["desktop-development", "web-development", "mobile-development", "webassembly"]

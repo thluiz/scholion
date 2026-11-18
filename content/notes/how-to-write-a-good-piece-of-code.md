@@ -1,6 +1,6 @@
 ---
 title: "How to Write a Good Piece of Code"
-date: '2026-11-16T18:46:11+00:00'
+date: '2019-06-26T11:05:46+00:00'
 category: webclip
 summary: 'The article argues that good code starts before implementation, with validation, decomposition, tests, consistency, review, and shipping. It also says the process should stay practical and avoid overengineering.'
 tags: ["code-quality", "tdd", "code-review", "software-practice"]

@@ -1,6 +1,6 @@
 ---
 title: "Post Agile: embracing asynchronous processes"
-date: '2026-11-16T20:01:30+00:00'
+date: '2020-05-04T11:26:28+00:00'
 category: webclip
 summary: 'The text argues that agile has become dogmatic and meeting-heavy, while newer practices, tools, and distributed work point toward post-agile ways of coordinating software development asynchronously.'
 tags: ["agile", "asynchronous-work", "distributed-teams", "software-development"]

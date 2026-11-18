@@ -1,6 +1,6 @@
 ---
 title: "Cool WSL (Windows Subsystem for Linux) tips and tricks you (or I) didn't know were possible"
-date: '2026-11-16T19:12:08+00:00'
+date: '2019-11-15T10:30:35+00:00'
 category: webclip
 summary: 'The post lists practical WSL and WSL2 tricks: opening Explorer from Linux, running Linux commands in Windows, using Windows apps from Linux, launching VS Code in WSL, and moving distros between machines.'
 tags: ["wsl", "wsl2", "windows-terminal", "vs-code"]

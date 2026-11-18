@@ -1,6 +1,6 @@
 ---
 title: "Clean Architecture: Third-Party System Integration"
-date: '2026-11-16T20:20:22+00:00'
+date: '2023-10-24T14:26:39+00:00'
 category: webclip
 summary: 'Explains how integrating with third‑party systems requires strict validation and clear contracts, and how clean architecture layers help enforce constraints on outgoing and incoming data.'
 tags: ["clean-architecture", "third-party-integration", "validation", "software-design"]

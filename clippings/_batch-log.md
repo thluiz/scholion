@@ -710,3 +710,41 @@ Call log:
 - SKIP https://hubs.li/H0TkzNf0 — failed — blocked_domain —  { "error": { "code": "blocked_domain", "message": "hubs.li is known to block scraping; not attempting a fetch", "retryable": false } }
 - SKIP https://invented-punch-fb2.notion.site/Oliver-s-Threads-893e0628d6054f76bb342e7481297f01 — failed — thin_content —  { "error": { "code": "thin_content", "message": "extracted content is only 123 chars, below the 400 minimum", "retryable": false, "details": { "chars": 123, "minChars": 400 } } }
 - SKIP https://blog.oliverjumpertz.dev/that-one-common-interview-question-most-interviewees-hate — failed — fetch_failed —  { "error": { "code": "fetch_failed", "message": "could not render https://blog.oliverjumpertz.dev/that-one-common-interview-question-most-interviewees-hate: goto: net::ERR_NAME_NOT_RESOLVED at https:
+- SKIP https://interviewing.io/recordings/Java-Google-1/ — failed — thin_content —  { "error": { "code": "thin_content", "message": "extracted content is only 158 chars, below the 400 minimum", "retryable": false, "details": { "chars": 158, "minChars": 400 } } }
+- SKIP https://blog.oliverjumpertz.dev/that-one-obvious-interview-question-that-can-cost-you-some-nerves — failed — fetch_failed —  { "error": { "code": "fetch_failed", "message": "could not render https://blog.oliverjumpertz.dev/that-one-obvious-interview-question-that-can-cost-you-some-nerves: goto: net::ERR_NAME_NOT_RESOLVED a
+- SKIP https://go.gale.com/ps/anonymous?id=GALE%7CA16596845&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=00368075&p=AONE&sw=w — failed — thin_content —  { "error": { "code": "thin_content", "message": "extracted content is only 15 chars, below the 400 minimum", "retryable": false, "details": { "chars": 15, "minChars": 400 } } }
+- SKIP https://www.annualreviews.org/doi/full/10.1146/annurev.ento.51.110104.151120 — failed — blocked_domain —  { "error": { "code": "blocked_domain", "message": "www.annualreviews.org is known to block scraping; not attempting a fetch", "retryable": false } }
+- SKIP https://ryanholiday.net/these-38-reading-rules-changed-my-life/ — skipped — audit_unresolved — Há um travessão em prosa corrente funcionando como inciso removível (regra de bloqueio). No resto, o principal ruído de voz é a lista muito mecanizada em "He...", e uma frase de resumo genérica demais
+- SKIP https://ia.net/topics/markdown-and-the-slow-fade-of-the-formatting-fetish — skipped — audit_unresolved — Há travessões usados como pausa/inciso em prosa corrente (bloqueia). No restante, a nota recorre muito a molduras do tipo “the text/article argues/notes” e a negativas indiretas, o que deixa o resumo 
+- SKIP https://biplab.hashnode.dev/liskov-substitution-principle-in-javascript-ck2reb2ft00b6iws1ij819vhk — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://gettopical.com/computerprogramming/639da1926c0254a677aa8b8c0dc4e10c?src=twitter — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://blog.todoist.com/pt/2015/08/03/como-pessoas-altamente-produtivas-terminam-o-seu-dia — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://pragprog.com/book/sbsockets/real-time-phoenix — failed — wayback_thin_content — via Internet Archive
+- SKIP https://sbcoaching.com.br/blog/motivacao/infografico-motivacao-no-trabalho — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://engineering.tripping.com/how-to-implement-sliding-timeouts-in-your-elixir-genservers-cc5a2ed70db9 — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://eximiaco.ms/pt/2020/03/25/recomendacoes-para-reduzir-seus-custos-de-iaas-no-azure — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://daviddantefrank.hashnode.dev/my-very-first-blog-post-learning-to-write-ckcoo245f0012eps165m06qpa — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://artifact.news/posts/p/4251429331618180123 — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://experteditor.com.au/blog/if-you-really-want-to-change-your-life-embrace-these-japanese-principles-of-life — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://artifact.news/posts/p/3798269199481939223 — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://artifact.news/posts/p/7594688860273575245 — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://artifact.news/posts/p/2451090589435224683 — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://artifact.news/posts/p/2191615497019418331 — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://www.msn.com/en-au/health/nutrition/eating-cheese-could-actually-make-you-live-longer-science-says/ar-AAD5TzU — failed — wayback_summary_failed — via Internet Archive
+- SKIP http://mvnt.us/m958906 — failed — wayback_no_snapshot — via Internet Archive
+- SKIP http://gabsferreira.com/porque-voce-deveria-criar-conteudo-em-portugues/ — failed — wayback_fetch_timeout — via Internet Archive
+- SKIP https://www.toptal.com/insights/distributed-teams/building-culture-in-distributed-teams?hss_channel=tw-442449363&utm_content=109262712&utm_medium=social&utm_source=twitter — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://thluiz-integration.tumblr.com/post/31524412485/modelos-mentais-explicados-em-quadrinhos — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://albertobasalo.medium.com/unit-testing-angular-with-jest-7de62ae2acd8 — failed — wayback_slug_collision — via Internet Archive
+- SKIP https://itsartm.ag/2F8C37k — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://medium.com/anchor/turn-your-virtual-hangouts-into-a-podcast-with-anchors-new-video-to-audio-conversion-b66006a4a7fc — failed — wayback_slug_collision — via Internet Archive
+- SKIP http://elixirstatus.com/=D9wf — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://www.instagram.com/etheringtonbrothers/ — failed — wayback_thin_content — via Internet Archive
+- SKIP https://vidaorganizada.com/2021/08/05/organizando-meus-projetos-no-caderno-um-teste-que-tem-dado-certo/ — failed — wayback_slug_collision — via Internet Archive
+- SKIP https://hubs.li/H0TkzNf0 — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://invented-punch-fb2.notion.site/Oliver-s-Threads-893e0628d6054f76bb342e7481297f01 — failed — wayback_thin_content — via Internet Archive
+- SKIP https://blog.oliverjumpertz.dev/that-one-common-interview-question-most-interviewees-hate — failed — wayback_fetch_timeout — via Internet Archive
+- SKIP https://interviewing.io/recordings/Java-Google-1/ — failed — wayback_fetch_timeout — via Internet Archive
+- SKIP https://go.gale.com/ps/anonymous?id=GALE%7CA16596845&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=00368075&p=AONE&sw=w — failed — wayback_no_snapshot — via Internet Archive
+- SKIP https://www.annualreviews.org/doi/full/10.1146/annurev.ento.51.110104.151120 — failed — wayback_fetch_timeout — via Internet Archive

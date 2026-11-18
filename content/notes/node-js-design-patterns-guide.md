@@ -1,6 +1,6 @@
 ---
 title: "A guide to Node.js design patterns"
-date: '2026-11-16T19:03:21+00:00'
+date: '2019-07-08T17:40:52+00:00'
 category: webclip
 summary: 'The article walks through common Node.js design patterns and shows how each one helps structure code, from IIFEs and factories to observers, dependency injection, middleware, and streams.'
 tags: ["node-js", "design-patterns", "javascript", "software-design"]

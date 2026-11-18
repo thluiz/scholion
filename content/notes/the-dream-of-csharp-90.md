@@ -1,6 +1,6 @@
 ---
 title: "The Dream of C# 9.0"
-date: '2026-11-16T19:23:30+00:00'
+date: '2019-12-30T08:16:43+00:00'
 category: webclip
 summary: 'The article highlights C# 9 proposals that would make the language more concise and more open to functional programming, especially simplified null checks, primary constructors, records, and discriminated unions.'
 tags: ["csharp", "functional-programming", "language-design", "dotnet"]

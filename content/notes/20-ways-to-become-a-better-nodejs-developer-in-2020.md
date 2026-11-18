@@ -1,6 +1,6 @@
 ---
 title: "20 ways to become a better Node.js developer in 2020"
-date: '2026-11-16T17:51:05+00:00'
+date: '2020-02-22T12:12:00+00:00'
 category: webclip
 summary: 'The article gathers 20 ways to improve as a Node.js developer, from TypeScript, testing and ESM to deployment, security, observability, frameworks and architecture choices.'
 tags: ["nodejs", "javascript", "testing", "architecture"]

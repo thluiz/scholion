@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Cybersecurity Reference Architectures (MCRA)"
-date: '2026-11-16T20:24:00+00:00'
+date: '2023-12-07T11:14:27+00:00'
 category: webclip
 summary: 'Overview of Microsoft Cybersecurity Reference Architecture as a Zero Trust-focused, end-to-end security blueprint, highlighting June 2026 updates and main usage scenarios.'
 tags: ["cybersecurity", "zero-trust", "security-architecture", "microsoft-security"]

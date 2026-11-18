@@ -1,6 +1,6 @@
 ---
 title: "Double shift: parenting and working remotely"
-date: '2026-11-16T19:31:46+00:00'
+date: '2020-04-10T01:03:39+00:00'
 category: webclip
 summary: 'The piece gives practical advice for remote work with children at home: accept interruptions, set up space and schedules, coordinate household duties, plan self-care, and seek support.'
 tags: ["remote-work", "parenting", "self-care", "household-management"]

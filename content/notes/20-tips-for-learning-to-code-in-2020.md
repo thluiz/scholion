@@ -1,6 +1,6 @@
 ---
 title: "20 Tips For Learning to Code in 2020"
-date: '2026-11-16T19:57:03+00:00'
+date: '2020-05-14T11:33:47+00:00'
 category: webclip
 summary: 'The article argues that learning to code gets easier with free resources, steady practice, projects, documentation, and support from other learners, while persistence matters most.'
 tags: ["learning-to-code", "programming", "study-habits"]

@@ -1,6 +1,6 @@
 ---
 title: "Custom 404 Pages on Zeit Now v2 Platform"
-date: '2026-11-16T18:59:06+00:00'
+date: '2019-07-07T09:36:02+00:00'
 category: webclip
 summary: 'The page argues that custom 404 pages improve branding and help users recover, then shows how to replace Now v2''s default 404 by adding a 404 page and route rules in now.json.'
 tags: ["404-page", "now-v2", "static-site", "routing"]

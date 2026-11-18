@@ -1,6 +1,6 @@
 ---
 title: "Elixir Structs are maps with checks and default values"
-date: '2026-11-16T19:21:43+00:00'
+date: '2019-12-29T16:34:31+00:00'
 category: webclip
 summary: 'Structs are built on top of maps, give default values, and add compile-time checks. They can enforce required keys, reject invalid keys, and still be pattern-matched by struct type.'
 tags: ["elixir", "structs", "maps", "compile-time"]

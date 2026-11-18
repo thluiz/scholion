@@ -1,6 +1,6 @@
 ---
 title: "The history of the GC configs"
-date: '2026-11-16T19:11:13+00:00'
+date: '2019-11-04T15:32:47+00:00'
 category: webclip
 summary: 'The post traces how .NET GC configuration grew from a few supported app configs and startup flags to a larger set in .NET 4.x and Core 3.0, while arguing that supported configs should stay usable without deep internal GC knowledge.'
 tags: ["dotnet", "gc", "runtime-config", "performance"]

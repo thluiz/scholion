@@ -1,6 +1,6 @@
 ---
 title: "Better Ways to Be Productive as Remote Developers"
-date: '2026-11-16T19:59:58+00:00'
+date: '2020-05-06T20:29:28+00:00'
 category: webclip
 summary: 'The article says remote developers need discipline, frequent communication, reliable hardware and internet, a better workspace, community contact, and regular self-care to stay productive.'
 tags: ["remote-work", "developer-productivity", "self-care", "home-office"]

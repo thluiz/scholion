@@ -1,6 +1,6 @@
 ---
 title: "A sneak peek at Ecto 3.0: breaking changes"
-date: '2026-11-16T20:07:59+00:00'
+date: '2020-06-02T21:45:43+00:00'
 category: webclip
 summary: 'Overview of the main breaking changes in Ecto 3.0: repo split into ecto and ecto_sql, switch to Elixir calendar types, and new JSON handling via adapters.'
 tags: ["ecto", "elixir", "breaking-changes", "ecto-3-0"]

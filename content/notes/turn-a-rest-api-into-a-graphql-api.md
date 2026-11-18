@@ -1,6 +1,6 @@
 ---
 title: "Turn a REST API into a GraphQL API"
-date: '2026-11-16T15:44:15+00:00'
+date: '2020-07-05T14:11:26+00:00'
 category: webclip
 summary: 'The article shows a simple way to wrap one REST endpoint in GraphQL by defining a schema, adding a query, and writing a resolver that fetches from the REST URL.'
 tags: ["graphql", "rest-api", "resolver"]

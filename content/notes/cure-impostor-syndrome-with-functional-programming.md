@@ -1,6 +1,6 @@
 ---
 title: "Cure Impostor Syndrome with Functional Programming"
-date: '2026-11-16T19:06:23+00:00'
+date: '2019-07-13T22:15:55+00:00'
 category: webclip
 summary: 'The author argues that web development’s churn and technical debt come from relying on ad hoc fixes instead of mathematical thinking, and says functional programming helps build smaller, more reliable, reusable code.'
 tags: ["functional-programming", "javascript", "technical-debt", "software-engineering"]

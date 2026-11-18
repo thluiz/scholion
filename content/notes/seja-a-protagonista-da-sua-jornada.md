@@ -1,6 +1,6 @@
 ---
 title: "Seja a protagonista da sua jornada"
-date: '2026-11-16T19:26:27+00:00'
+date: '2020-01-02T10:15:34+00:00'
 category: webclip
 summary: 'O texto defende a liderança feminina como forma de enfrentar a desigualdade na tecnologia e propõe autoconhecimento, autonomia, aprendizado com erros, apoio de aliados e pedido de ajuda como partes da jornada.'
 tags: ["lideranca-feminina", "mulheres-na-tecnologia", "autoconhecimento", "desigualdade-de-genero"]

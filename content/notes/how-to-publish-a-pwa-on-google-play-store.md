@@ -1,6 +1,6 @@
 ---
 title: "How to publish a PWA on the Google Play store"
-date: '2026-11-16T18:51:08+00:00'
+date: '2019-07-01T09:07:15+00:00'
 category: webclip
 summary: 'The post explains what a PWA needs, then walks through packaging a Gatsby-based PWA as a Trusted Web Activity, generating asset links, and submitting the app to Google Play.'
 tags: ["pwa", "google-play", "trusted-web-activity", "gatsby"]

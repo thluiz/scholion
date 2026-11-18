@@ -1,6 +1,6 @@
 ---
 title: "How to get started with React in 2020"
-date: '2026-11-16T19:24:19+00:00'
+date: '2019-12-30T15:57:54+00:00'
 category: webclip
 summary: 'The article ranks a practical path into React: begin with the docs, use a beginner course or video series, then build something yourself and only later add tools, paid courses, or deeper reimplementation work.'
 tags: ["react", "frontend", "javascript"]

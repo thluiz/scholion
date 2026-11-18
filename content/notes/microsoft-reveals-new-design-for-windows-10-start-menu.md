@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Reveals a New Design for the Windows 10 Start Menu"
-date: '2026-11-16T15:47:10+00:00'
+date: '2020-04-20T21:22:44+00:00'
 category: webclip
 summary: 'Microsoft showed a planned Windows 10 Start Menu design with a transparent background and Fluent-based icons to make the menu look more uniform. The company also said Live Tiles are not being removed right now.'
 tags: ["windows-10", "start-menu", "fluent-icons", "live-tiles"]
