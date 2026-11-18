@@ -1047,8 +1047,18 @@
   padding-left: 1.5rem;
 }
 
+/* Tailwind's preflight (Blowfish) sets list-style: none on every ul/ol;
+   without restoring it, list items render as loose indented paragraphs. */
+.scholion-note-body ul { list-style: disc; }
+.scholion-note-body ul ul { list-style: circle; }
+.scholion-note-body ol { list-style: decimal; }
+
 .scholion-note-body li {
   margin-bottom: 0.5rem;
+}
+
+.scholion-note-body li::marker {
+  color: rgb(var(--color-neutral-500));
 }
 
 .scholion-note-body li:last-child {
