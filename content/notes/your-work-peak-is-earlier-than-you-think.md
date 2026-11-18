@@ -2,8 +2,6 @@
 title: "Your Work Peak Is Earlier Than You Think"
 date: '2019-07-08T09:35:23+00:00'
 category: webclip
-draft: true
-audit_verdict: "red"
 summary: 'Essay argues that professional performance peaks earlier than we expect, making decline inevitable; proposes shifting from success and fluid intelligence to wisdom, teaching, service, faith, and relationships.'
 tags: ["career-decline", "aging-and-work", "happiness", "life-stages"]
 has_commentary: false
