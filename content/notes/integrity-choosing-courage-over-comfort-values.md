@@ -2,7 +2,6 @@
 title: "Integrity: Choosing courage over comfort; choosing what is right over what is fun, fast, or easy; and choosing to practice our values rather than simply professing them."
 date: '2026-11-17T17:01:50+00:00'
 category: quote
-draft: true
 summary: 'Definição de integridade de Brené Brown; o Goodreads a lista entre as citações de Rising Strong (2015).'
 tags: ["brene-brown", "integridade", "valores"]
 has_commentary: false
