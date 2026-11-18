@@ -2,8 +2,6 @@
 title: "Ten Principles for Growth as an Engineer"
 date: '2023-11-27T20:28:16+00:00'
 category: webclip
-draft: true
-audit_verdict: "red"
 summary: 'Thread summarizing Dan Heller’s ten principles for engineers to grow their impact: focus on business value, unblock yourself, take initiative, and build core professional habits.'
 tags: ["software-engineering", "career-growth", "professional-skills"]
 has_commentary: false
