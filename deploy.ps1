@@ -124,6 +124,13 @@ if (-not $SkipBuild) {
     Write-Host "==> pagefind" -ForegroundColor Cyan
     $pagefindDir = Join-Path $PUBLIC_DIR 'pagefind'
     if (Test-Path $pagefindDir) { Remove-Item $pagefindDir -Recurse -Force }
+    # The scheduled task runs pwsh -NoProfile, so fnm never puts node on PATH.
+    # Fall back to fnm's "default" alias (a junction to the default node version).
+    if (-not (Get-Command npx -ErrorAction SilentlyContinue)) {
+        $fnmDefault = Join-Path $env:APPDATA 'fnm\aliases\default'
+        if (Test-Path (Join-Path $fnmDefault 'npx.cmd')) { $env:Path = "$fnmDefault;$env:Path" }
+        else { throw "npx not found (no node on PATH and no fnm default alias at $fnmDefault)" }
+    }
     npx --no-install pagefind --site $PUBLIC_DIR 2>&1 | ForEach-Object { Write-Host "  $_" }
     if ($LASTEXITCODE -ne 0) {
         $null = Send-DeployAlert "Scholion: o pagefind falhou na publicacao (exit $LASTEXITCODE), nada vai ao ar. Detalhes em E:\scholion\deploy-scheduled.log"
