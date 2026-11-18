@@ -1,6 +1,6 @@
 ---
 title: "Building experimental hybrid Blazor WebAssembly application"
-date: '2026-11-16T15:49:49+00:00'
+date: '2020-02-22T12:11:50+00:00'
 category: webclip
 summary: 'The post describes a shared Blazor WebAssembly UI used by both desktop and web apps, notes the separate project setup and index.html differences, and reports that trimmed self-contained desktop publishing works well.'
 tags: ["blazor-webassembly", "webwindow", "desktop-apps", "dotnet-publish"]

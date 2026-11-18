@@ -1,6 +1,6 @@
 ---
 title: "Exploring WebWindow examples for Blazor on desktop"
-date: '2026-11-16T15:49:13+00:00'
+date: '2020-02-22T12:11:50+00:00'
 category: webclip
 summary: 'The page explains how WebWindow lets Blazor WebAssembly run in a desktop window, then walks through sample apps that show local HTML hosting, message passing, and file-based data loading.'
 tags: ["blazor-desktop", "webwindow", "webassembly", "dotnet-core"]
