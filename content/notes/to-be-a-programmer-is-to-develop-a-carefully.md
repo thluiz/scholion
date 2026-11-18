@@ -2,7 +2,6 @@
 title: "To be a programmer is to develop a carefully managed relationship with error. There’s no getting around it. You either make your accommodations with failure, or the work will become intolerable."
 date: '2026-11-17T17:02:00+00:00'
 category: quote
-draft: true
 summary: 'Atribuída a Ellen Ullman; o AZQuotes a situa no ensaio The Myth of Order, publicado na Wired em abril de 1999.'
 tags: ["ellen-ullman", "programacao", "erro"]
 has_commentary: false
