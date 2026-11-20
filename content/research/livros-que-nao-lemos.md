@@ -22,6 +22,7 @@ toc: true
 - **Em foco**: direção 2 (as condutas, Parte III).
 - **Próximo**: direções 3 e 4 (como não fazer).
 - **Feito**: livro extraído (211 páginas de PDF, ~51 mil palavras); direção 0 conferida no sumário e nos créditos.
+- **Dossiê de voz**: v1, sincronizado em 2026-11-20 (link em `fontes-privadas/voz/livros-que-nao-lemos/README.md`).
 
 ## Motivação
 
@@ -39,21 +40,21 @@ Montar o roteiro de um vídeo sobre o livro de Bayard.
 - ✓ Epígrafe de Oscar Wilde: "I never read a book I must review; it prejudices you so." (página sem número antes do sumário; p. 9 do PDF). Atribuição a Wilde a verificar na fonte primária.
 - ✓ Lista de abreviaturas (p. xi): UB, *book unknown to me*; SB, *book I have skimmed*; HB, *book I have heard about*; FB, *book I have forgotten*; e uma escala de opinião de ++ (*extremely positive*) a −− (*extremely negative*).
 - ✓ Estrutura (sumário, pp. vii–ix): prefácio, três partes de quatro capítulos e epílogo (p. 181).
-  - **Ways of Not Reading**: I. Books You Don't Know (Musil), p. 3; II. Books You Have Skimmed (Valéry), p. 14; III. Books You Have Heard Of (Eco), p. 32; IV. Books You Have Forgotten (Montaigne), p. 47.
-  - **Literary Confrontations**: V. Encounters in Society (Graham Greene), p. 61; VI. Encounters with Professors (os Tiv), p. 75; VII. Encounters with the Writer (Pierre Siniac), p. 88; VIII. Encounters with Someone You Love (Bill Murray e a marmota), p. 101.
-  - **Ways of Behaving**: IX. Not Being Ashamed (David Lodge), p. 113; X. Imposing Your Ideas (Balzac), p. 131; XI. Inventing Books (Sōseki), p. 150; XII. Speaking About Yourself (Oscar Wilde), p. 166.
+  - **Maneiras de não ler** (*Ways of Not Reading*): I. Livros que você não conhece (*Books You Don't Know*, Musil), p. 3; II. Livros que você folheou (*Books You Have Skimmed*, Valéry), p. 14; III. Livros de que você ouviu falar (*Books You Have Heard Of*, Eco), p. 32; IV. Livros que você esqueceu (*Books You Have Forgotten*, Montaigne), p. 47.
+  - **Confrontos literários** (*Literary Confrontations*): V. Encontros em sociedade (*Encounters in Society*, Graham Greene), p. 61; VI. Encontros com professores (*Encounters with Professors*, os Tiv), p. 75; VII. Encontros com o escritor (*Encounters with the Writer*, Pierre Siniac), p. 88; VIII. Encontros com quem você ama (*Encounters with Someone You Love*, Bill Murray e a marmota), p. 101.
+  - **Maneiras de se comportar** (*Ways of Behaving*): IX. Não ter vergonha (*Not Being Ashamed*, David Lodge), p. 113; X. Impor suas ideias (*Imposing Your Ideas*, Balzac), p. 131; XI. Inventar livros (*Inventing Books*, Sōseki), p. 150; XII. Falar de si (*Speaking About Yourself*, Oscar Wilde), p. 166.
 
 (Eixo do vídeo, decisão do autor, 2026-11-19: primeiro o que fazer, depois como não fazer. Não segue a ordem do livro.)
 
 ### 1. O que fazer: as maneiras de não ler (Parte I, caps. I–IV)
 
-#### I. Books You Don't Know (pp. 3–13)
+#### I. Livros que você não conhece (*Books You Don't Know*, pp. 3–13)
 
 - ✓ Abertura: não abrir o livro é a forma mais radical de não ler, e é a nossa relação principal com os livros, porque mesmo o leitor prodigioso só alcança uma fração infinitesimal do que existe (p. 3).
 - ✓ O caso-limite é o bibliotecário de *O homem sem qualidades*, de Musil. O general Stumm, atrás da "ideia redentora" para oferecer a Diotima, vai à biblioteca imperial, descobre que são três milhões e meio de livros e calcula que levaria dez mil anos para ler um por dia (pp. 4–6, citando Musil, trad. Sophie Wilkins, Knopf, 1995, vol. I, pp. 500–501).
 - ✓ Fórmula de Bayard: "Reading is first and foremost non-reading." Abrir um livro esconde o gesto contrário, o de não abrir todos os outros (p. 6).
 - ✓ O segredo do bibliotecário, na fala citada por Bayard: "Because I never read any of them." E logo depois: "The secret of a good librarian is that he never reads anything more of the literature in his charge than the titles and the table of contents. Anyone who lets himself go and starts reading a book is lost as a librarian [...] He's bound to lose perspective." (p. 7, citando Musil, p. 503). A sala dos catálogos como "an enormous brain", "only books about books" (p. 9, citando Musil, p. 502).
-- ✓ Bayard lê o bibliotecário como amor a todos os livros, e não hostilidade: fica na periferia de cada um para não negligenciar os outros (p. 8). Imagem do guarda-chaves de ferrovia, que cuida das relações entre os trens e não da carga de cada comboio (p. 10).
+- ✓ Bayard lê o bibliotecário como amor a todos os livros, e não hostilidade: fica na periferia de cada um para não negligenciar os outros (p. 8). Imagem do guarda-chaves de ferrovia, que cuida das relações entre os trens e não da carga de cada trem (p. 10).
 - ✓ "culture is above all a matter of orientation" (p. 10); "the interior of the book is its exterior, since what counts in a book is the books alongside it" (p. 11). Distinção central entre o **conteúdo** de um livro e a sua **localização** (p. 11).
 - ✓ Exemplo do próprio Bayard: nunca leu *Ulysses* e talvez nunca leia, mas sabe situá-lo (releitura da *Odisseia*, fluxo de consciência, Dublin, um dia) e fala dele sem ansiedade (p. 11).
 - ✓ Primeiro conceito transversal: **collective library**, "the larger set of books on which our culture depends at that moment"; dominá-la é dominar relações, e isso acomoda a ignorância de grande parte do todo (p. 12).
@@ -62,7 +63,7 @@ Montar o roteiro de um vídeo sobre o livro de Bayard.
 - ✓ O sistema de siglas em ação: as notas de rodapé classificam cada livro mencionado pela relação de Bayard com ele (ex.: *Ulysses* "HB++", p. 11; *O homem sem qualidades* "SB and HB++", p. 4). Recurso visual que pode servir ao vídeo.
 - `?` Falas do bibliotecário estão citadas por Bayard a partir da tradução inglesa de Wilkins; conferir no Musil (cap. 100 do vol. I, a localizar) se for usar no vídeo.
 
-#### II. Books You Have Skimmed (pp. 14–31)
+#### II. Livros que você folheou (*Books You Have Skimmed*, pp. 14–31)
 
 - ✓ A perspectiva do cap. I vale também dentro de um livro: ser culto é se orientar rápido num volume, e quanto maior essa habilidade, menos é preciso ler qualquer livro em particular (p. 14). Folhear seria talvez "the most efficient way to absorb books, respecting their inherent depth and richness without getting lost in the details" (p. 15).
 - ✓ Valéry como "master of non-reading": Monsieur Teste mora num apartamento sem livros; Valéry diz de si "I am not much of a reader, since what I look for in a work is what will enable or impede an aspect of my own activity" (pp. 15–16, citando *Oeuvres I*, Pléiade, 1957, p. 1479).
@@ -76,7 +77,7 @@ Montar o roteiro de um vídeo sobre o livro de Bayard.
 - ✓ A pergunta que o capítulo deixa: quem gastou horas num livro sem terminá-lo leu ou não leu? "Who [...] is the better reader—the person who reads a work in depth without being able to situate it, or the person who enters no book in depth, but circulates through them all?" (p. 30). A fronteira entre ler e não ler fica indefinida, e "things will only get worse" (p. 30).
 - `?` Citações de Valéry chegam via traduções inglesas que Bayard usa; conferir no francês (Pléiade) se forem para o vídeo.
 
-#### III. Books You Have Heard Of (pp. 32–46)
+#### III. Livros de que você ouviu falar (*Books You Have Heard Of*, pp. 32–46)
 
 - ✓ Consequência dos caps. I e II: não é preciso ter o livro na mão para ter ideia dele, porque "The act of reading is disassociated from the material book; the important thing is the encounter" (p. 32). Ler ou ouvir o que os outros dizem de um livro é o modo como temos acesso à maioria dos livros, quase sempre (pp. 32–33).
 - ✓ Caso: *O nome da rosa*, de Eco. Guilherme de Baskerville reconstitui o segundo livro da *Poética* de Aristóteles, sobre o riso, sem nunca tê-lo segurado; quando enfim o tem diante de si, folheia de luvas e recusa molhar os dedos nas páginas envenenadas por Jorge (pp. 33–36, citando *The Name of the Rose*, trad. William Weaver, Harcourt, 1983, p. 468 ss.). "I could tell you almost all of it, without reading the pages that were meant to poison me." (p. 39, citando Eco, p. 471).
@@ -88,7 +89,7 @@ Montar o roteiro de um vídeo sobre o livro de Bayard.
 - ✓ Experimento proposto ao leitor: comparar a lembrança de um livro querido da infância com o livro "real"; as diferenças mostram que a memória dos livros que nos importam é reorganizada pelo inconsciente (p. 45). Pode render um momento do vídeo.
 - ✓ Discurso sobre o discurso: falamos sobretudo do que os outros disseram dos livros, e o primeiro desses discursos é o que fazemos a nós mesmos; os livros reais "recede forever into the distance" (p. 46).
 
-#### IV. Books You Have Forgotten (pp. 47–57)
+#### IV. Livros que você esqueceu (*Books You Have Forgotten*, pp. 47–57)
 
 - ✓ A leitura mais séria vira resumo depois do fato, por causa do tempo: "Reading is not just acquainting ourselves with a text or acquiring knowledge; it is also, from its first moments, an inevitable process of forgetting" (p. 47). Dizer que leu um livro vira "a form of metonymy"; o que temos são "approximate recollections of books, rearranged as a function of current circumstances" (p. 48).
 - ✓ Caso: Montaigne, leitor esquecido. Bayard cita os *Essais* na tradução de Donald Frame (Stanford, 1957): "And if I am a man of some reading, I am a man of no retentiveness" (p. 49, Frame p. 296); "I leaf through books, I do not study them. What I retain of them is something I no longer recognize as anyone else's [...] the author, the place, the words, and other circumstances, I immediately forget" (p. 49, Frame p. 494).
@@ -124,12 +125,12 @@ Montar o roteiro de um vídeo sobre o livro de Bayard.
 
 ## Notas do Scholion já relacionadas
 
-- [schopenhauer-buecher-kaufen-zeit](/notes/schopenhauer-buecher-kaufen-zeit) — comprar livros seria bom se desse para comprar o tempo de lê-los; menciona *tsundoku* e a antibiblioteca de Eco.
-- [borges-paraiso-biblioteca](/notes/borges-paraiso-biblioteca) — o paraíso como biblioteca, escrito por Borges ao assumir a Biblioteca Nacional já cego.
-- [montaigne-bouquet-fleurs-fil-est-mien](/notes/montaigne-bouquet-fleurs-fil-est-mien) — flores alheias, o fio é de Montaigne.
-- [estamos-sempre-dispostos-a-atribuir-aos-escritos-d](/notes/estamos-sempre-dispostos-a-atribuir-aos-escritos-d) — Montaigne: atribuímos aos escritos dos outros os sentidos que favorecem nossas opiniões.
-- [tres-modos-interpretacao-eco-harvard-1992](/notes/tres-modos-interpretacao-eco-harvard-1992) — os três modos de interpretação de Eco e a superinterpretação.
-- [read-less-learn-more-deep-reading-overload](/notes/read-less-learn-more-deep-reading-overload) — ler menos e mais fundo.
-- [how-to-read-a-240-page-book-in-2-hours](/notes/how-to-read-a-240-page-book-in-2-hours) — leitura por sobrevoo: descrição, sumário, objetivo.
+- [schopenhauer-buecher-kaufen-zeit](/notes/schopenhauer-buecher-kaufen-zeit): comprar livros seria bom se desse para comprar o tempo de lê-los; menciona *tsundoku* e a antibiblioteca de Eco.
+- [borges-paraiso-biblioteca](/notes/borges-paraiso-biblioteca): o paraíso como biblioteca, escrito por Borges ao assumir a Biblioteca Nacional já cego.
+- [montaigne-bouquet-fleurs-fil-est-mien](/notes/montaigne-bouquet-fleurs-fil-est-mien): flores alheias, o fio é de Montaigne.
+- [estamos-sempre-dispostos-a-atribuir-aos-escritos-d](/notes/estamos-sempre-dispostos-a-atribuir-aos-escritos-d): Montaigne diz que atribuímos aos escritos dos outros os sentidos que favorecem nossas opiniões.
+- [tres-modos-interpretacao-eco-harvard-1992](/notes/tres-modos-interpretacao-eco-harvard-1992): os três modos de interpretação de Eco e a superinterpretação.
+- [read-less-learn-more-deep-reading-overload](/notes/read-less-learn-more-deep-reading-overload): ler menos e mais fundo.
+- [how-to-read-a-240-page-book-in-2-hours](/notes/how-to-read-a-240-page-book-in-2-hours): leitura por sobrevoo, com descrição, sumário e objetivo.
 
 ## Notas extraídas
