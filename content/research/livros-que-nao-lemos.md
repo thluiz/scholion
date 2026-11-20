@@ -24,8 +24,8 @@ toc: true
 - **Fechada**: direção 1 (Parte I, caps. I–IV) em 2026-11-19, lida no texto inteiro; ficam `?` só as conferências das citações de Musil, Valéry e Montaigne nos originais.
 - **Em foco**: direção 2 (as condutas, Parte III, caps. IX–XII).
 - **Próximo**: direção 3 (Parte II), depois direção 4 (prefácio e epílogo). Formato dos episódios (direção 7) só depois da leitura completa.
-- **Feito**: livro extraído (211 páginas de PDF, ~51 mil palavras); direção 0 conferida no sumário e nos créditos; os seis conceitos localizados no texto (direção 5).
-- **Dossiê de voz**: v1, sincronizado em 2026-11-20 (link em `fontes-privadas/voz/livros-que-nao-lemos/README.md`). Ficou para trás: não sabe do formato do vídeo nem dos seis conceitos.
+- **Feito**: livro extraído (211 páginas de PDF, ~51 mil palavras, contadas no `.txt` de `fontes-privadas/`); direção 0 conferida no sumário e nos créditos; os seis conceitos localizados no texto (direção 5).
+- **Dossiê de voz**: v2, sincronizado em 2026-11-20 (link em `fontes-privadas/voz/livros-que-nao-lemos/README.md`).
 
 ## Motivação
 
@@ -142,7 +142,7 @@ Montar o roteiro de um vídeo-aula sobre o livro de Bayard, em português, para 
 ### 7. Formato dos episódios (a decidir depois da leitura completa)
 
 - ⚠ Opções da IA, a confirmar: 3 episódios, uma parte cada; 4, a moldura mais as três partes; 6, um conceito por episódio com o capítulo que o apresenta.
-- ⚠ Orçamento: 30 minutos falados dão de 4.000 a 4.500 palavras; 10 minutos, cerca de 1.400.
+- ⚠ Orçamento, estimado a 140 a 150 palavras por minuto de fala: 30 minutos dão de 4.000 a 4.500 palavras; 10 minutos, cerca de 1.400.
 
 ## Notas do Scholion já relacionadas
 
