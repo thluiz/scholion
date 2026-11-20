@@ -15,18 +15,21 @@ toc: true
 - Paginação: citar pela página impressa do livro, não pela do PDF (p. 1 do livro = p. 25 do PDF; prefácio em romanos, p. xiii = p. 17 do PDF).
 - Citações de Bayard ficam em inglês, como estão na tradução. Quando o original francês for conferido, registrar ao lado.
 - Autores que Bayard comenta (Musil, Valéry, Eco, Montaigne, Greene, Lodge, Balzac, Sōseki, Wilde etc.): distinguir o que Bayard diz que eles dizem do que a obra deles diz. A segunda camada só leva ✓ conferida na fonte primária.
+- Roteiro em português, traduzido para o inglês depois. As citações ficam em inglês, com página, no texto de Mehlman; a versão em português de uma citação no roteiro é tradução do autor (⚠).
+- Primeiro a leitura inteira (Partes I a III, prefácio e epílogo), depois a seleção. Nenhum corte antes de o livro estar fechado.
+- Marca `[vídeo]` no fim de um bloco quando ele é candidato a momento do roteiro: um caso, uma citação ou um conceito por capítulo. A seleção final sai desses blocos.
 
 ## Estado
 
 - **Fechada**: direção 1 (Parte I, caps. I–IV) em 2026-11-19, lida no texto inteiro; ficam `?` só as conferências das citações de Musil, Valéry e Montaigne nos originais.
-- **Em foco**: direção 2 (as condutas, Parte III).
-- **Próximo**: direções 3 e 4 (como não fazer).
-- **Feito**: livro extraído (211 páginas de PDF, ~51 mil palavras); direção 0 conferida no sumário e nos créditos.
-- **Dossiê de voz**: v1, sincronizado em 2026-11-20 (link em `fontes-privadas/voz/livros-que-nao-lemos/README.md`).
+- **Em foco**: direção 2 (as condutas, Parte III, caps. IX–XII).
+- **Próximo**: direção 3 (Parte II), depois direção 4 (prefácio e epílogo). Formato dos episódios (direção 7) só depois da leitura completa.
+- **Feito**: livro extraído (211 páginas de PDF, ~51 mil palavras); direção 0 conferida no sumário e nos créditos; os seis conceitos localizados no texto (direção 5).
+- **Dossiê de voz**: v1, sincronizado em 2026-11-20 (link em `fontes-privadas/voz/livros-que-nao-lemos/README.md`). Ficou para trás: não sabe do formato do vídeo nem dos seis conceitos.
 
 ## Motivação
 
-Montar o roteiro de um vídeo sobre o livro de Bayard.
+Montar o roteiro de um vídeo-aula sobre o livro de Bayard, em português, para traduzir depois para o inglês. Pode ser um vídeo de 30 minutos ou uma série de 3 a 6 episódios; isso se decide depois da leitura completa. O critério do autor é não ser massante. A pesquisa acumula conhecimento sobre o livro inteiro; o corte vem depois.
 
 ## Perguntas em aberto
 
@@ -46,7 +49,7 @@ Montar o roteiro de um vídeo sobre o livro de Bayard.
 
 (Eixo do vídeo, decisão do autor, 2026-11-19: primeiro o que fazer, depois como não fazer. Não segue a ordem do livro.)
 
-### 1. O que fazer: as maneiras de não ler (Parte I, caps. I–IV)
+### 1. O diagnóstico: as maneiras de não ler (Parte I, caps. I–IV)
 
 #### I. Livros que você não conhece (*Books You Don't Know*, pp. 3–13)
 
@@ -107,21 +110,39 @@ Montar o roteiro de um vídeo sobre o livro de Bayard.
 - ✓ As quatro maneiras de não ler não são uma escala de "menos leitura" a "mais leitura": cada capítulo corrói a fronteira entre ler e não ler (Bayard diz isso no cap. II, p. 30, e conclui no cap. IV, p. 55).
 - ✓ Os três conceitos que a Parte I monta e que servem ao resto do livro: biblioteca coletiva (p. 12), livro-tela (p. 44), desleitura (p. 56).
 
-### 2. O que fazer: as condutas (Parte III, caps. IX–XII, e epílogo)
+### 2. O que fazer: as condutas (Parte III, caps. IX–XII)
 
-### 3. Como não fazer: os fracassos (Parte II, caps. V–VIII)
+### 3. Os confrontos (Parte II, caps. V–VIII)
 
-### 4. Como não fazer: os maus leitores (prefácio e onde mais Bayard ataca a culpa, a obrigação de ler tudo, a leitura linear)
+- `?` O rótulo "como não fazer: os fracassos" é hipótese anterior à leitura; o sumário só diz *Literary Confrontations*. Decidir depois de ler.
+
+### 4. A moldura: prefácio (pp. xiii–xx) e epílogo (pp. 181–185)
+
+- `?` O que Bayard ataca (a culpa, a obrigação de ler tudo, a leitura linear) é recolhido como tema transversal na direção 5, à medida que aparece.
 
 ### 5. Conceitos transversais
 
-- ✓ Biblioteca coletiva (p. 12), livro-tela (p. 44), desleitura (p. 56): ver direção 1.
-- `?` Biblioteca interior e biblioteca virtual: lembrança minha do livro, ainda não localizadas (não aparecem na Parte I).
+- ✓ Biblioteca coletiva (cap. I, p. 12), livro-tela (cap. III, p. 44), desleitura (cap. IV, p. 56): ver direção 1.
+- ⚠ Os seis conceitos formam pares, uma biblioteca e um livro por parte. Páginas localizadas no texto extraído, a confirmar na leitura de cada capítulo:
+
+  | Parte | Biblioteca | Livro |
+  |---|---|---|
+  | I | coletiva (cap. I, p. 12) | livro-tela (cap. III, p. 44) |
+  | II | interior, *inner library* (cap. V, pp. 72–73) | livro interior, *inner book* (cap. VI, p. 82) |
+  | III | virtual, *virtual library* (cap. IX, nota 14, p. 125) | livro-fantasma, *phantom book* (cap. XI, nota 11, p. 160) |
+
+- ⚠ Na nota 11 (p. 160) Bayard amarra os três pares: o livro-fantasma pertence à biblioteca virtual, o livro-tela à coletiva, o livro interior à interior. Conferir ao ler o cap. XI.
+- ⚠ A Parte III usa "livro interior" e "biblioteca interior", definidos na Parte II. Pesa na ordem dos episódios (direção 7).
 
 ### 6. Ligações com o vault (a confirmar)
 
 - `?` Antibiblioteca (Eco/Taleb) e *tsundoku*, a partir da nota de Schopenhauer.
 - `?` Montaigne: esquecer o que leu (cap. IV de Bayard) e projetar as próprias opiniões nos textos alheios.
+
+### 7. Formato dos episódios (a decidir depois da leitura completa)
+
+- ⚠ Opções da IA, a confirmar: 3 episódios, uma parte cada; 4, a moldura mais as três partes; 6, um conceito por episódio com o capítulo que o apresenta.
+- ⚠ Orçamento: 30 minutos falados dão de 4.000 a 4.500 palavras; 10 minutos, cerca de 1.400.
 
 ## Notas do Scholion já relacionadas
 
