@@ -170,6 +170,7 @@ Levantamento por título, descrição e anotações (2026-09-29). Nenhum episód
 - [Filosofia Vermelha — O verdadeiro filósofo e o charlatão](https://vox.thluiz.com/2026/04/W18/o-verdadeiro-filosofo-e-o-charlatao/) — Epicteto e os três vícios capitais (Temperança); origem de [preparacao-corpo-tres-vicios-capitais](/notes/preparacao-corpo-tres-vicios-capitais/).
 - [Elefantes na Neblina #133 — Culpados](https://vox.thluiz.com/2026/09/W37/133-culpados/) — virtudes e defeitos coexistindo nas épocas pagãs; culpa e perdão (Misericórdia).
 - [Popcult #31 — Um ensaio sobre The Rehearsal](https://vox.thluiz.com/2022/09/W36/31-um-ensaio-sobre-the-rehearsal-com-gregorio-duvivier-e-pedro-falcao/) — protocolos e polidez como ensaio social; *O Homem Invisível* e o comportamento sem vigilância (Polidez, forma vazia).
+- [Clóvis de Barros — Te Provo Que Você Não Ama Quem Diz!](https://vox.thluiz.com/2026/11/W47/te-provo-que-voce-nao-ama-quem-diz/) — o amor como desejo precisa da falta; se o outro ama na falta ou na presença, e o que o amor é quando deixa de ser desejo (Amor, ver 7.3). Nota: [clovis-de-barros-amor-na-falta-ou-na-presenca](/notes/clovis-de-barros-amor-na-falta-ou-na-presenca).
 
 **Eixo chinês**
 
