@@ -2,8 +2,6 @@
 title: "Hardware Is Software"
 date: '2026-11-23T18:49:06+00:00'
 category: webclip
-draft: true
-audit_verdict: "red"
 summary: 'Article argues that hardware engineering is increasingly software-like, AI collapses R&D and labor costs along value chains, and manufacturing jobs shrink as raw materials dominate prices.'
 tags: ["ai", "manufacturing", "automation", "labor-markets"]
 has_commentary: false
