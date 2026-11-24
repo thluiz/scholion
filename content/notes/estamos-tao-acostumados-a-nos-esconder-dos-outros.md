@@ -2,9 +2,8 @@
 title: "Estamos tão acostumados a nos esconder dos outros que terminamos nos escondendo de nós mesmos."
 date: '2026-11-22T00:02:45+00:00'
 category: quote
-draft: true
-summary: 'Citação, datada de 1665, reunida por Eduardo Giannetti em O livro das citações (Companhia das Letras, 2008).'
-tags: ["eduardo-giannetti", "o-livro-das-citacoes", "autor-nao-confirmado"]
+summary: 'Citação de La Rochefoucauld, datada de 1665 em O livro das citações, de Eduardo Giannetti (Companhia das Letras, 2008).'
+tags: ["la-rochefoucauld", "eduardo-giannetti", "o-livro-das-citacoes"]
 has_commentary: false
 sources:
   - title: "O livro das citações: um breviário de ideias replicantes"
@@ -14,4 +13,4 @@ sources:
     kind: book
 ---
 
-Passagem, datada de 1665, reunida por Eduardo Giannetti em O livro das citações.
+Passagem de La Rochefoucauld, datada de 1665 em O livro das citações, de Eduardo Giannetti.

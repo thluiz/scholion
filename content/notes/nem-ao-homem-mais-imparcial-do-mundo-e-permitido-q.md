@@ -2,9 +2,8 @@
 title: "Nem ao homem mais imparcial do mundo é permitido que se torne juiz em seu próprio caso."
 date: '2026-11-22T00:02:46+00:00'
 category: quote
-draft: true
-summary: 'Citação, datada de 1662, reunida por Eduardo Giannetti em O livro das citações (Companhia das Letras, 2008).'
-tags: ["eduardo-giannetti", "o-livro-das-citacoes", "autor-nao-confirmado"]
+summary: 'Citação de Blaise Pascal, datada de 1662 em O livro das citações, de Eduardo Giannetti (Companhia das Letras, 2008).'
+tags: ["blaise-pascal", "eduardo-giannetti", "o-livro-das-citacoes"]
 has_commentary: false
 sources:
   - title: "O livro das citações: um breviário de ideias replicantes"
@@ -14,4 +13,4 @@ sources:
     kind: book
 ---
 
-Passagem, datada de 1662, reunida por Eduardo Giannetti em O livro das citações.
+Passagem de Blaise Pascal, datada de 1662 em O livro das citações, de Eduardo Giannetti.

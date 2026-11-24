@@ -2,9 +2,8 @@
 title: "Nada é verdadeiro na psicanálise, exceto os exageros."
 date: '2026-11-18T00:09:37+00:00'
 category: quote
-draft: true
-summary: 'Citação, datada de 1951, reunida por Eduardo Giannetti em O livro das citações (Companhia das Letras, 2008).'
-tags: ["eduardo-giannetti", "o-livro-das-citacoes", "autor-nao-confirmado"]
+summary: 'Citação de Theodor Adorno, datada de 1951 em O livro das citações, de Eduardo Giannetti (Companhia das Letras, 2008).'
+tags: ["theodor-adorno", "eduardo-giannetti", "o-livro-das-citacoes"]
 has_commentary: false
 sources:
   - title: "O livro das citações: um breviário de ideias replicantes"
@@ -14,4 +13,4 @@ sources:
     kind: book
 ---
 
-Passagem, datada de 1951, reunida por Eduardo Giannetti em O livro das citações.
+Passagem de Theodor Adorno, datada de 1951 em O livro das citações, de Eduardo Giannetti.
